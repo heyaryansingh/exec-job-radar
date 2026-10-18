@@ -35,8 +35,10 @@ account (about 30 minutes, done with the candidate).
    it isn't sure about land in `data/discover_review.md`; names it can't find are retried
    automatically every week. To add companies later, add lines to the seed file and push.
 6. **Start collecting.** **Actions → Collect roles → Run workflow** once by hand. After that
-   it runs every hour on its own. Results appear in `data/latest.md` (readable table) and
-   `data/latest.json` (what the Claude run reads).
+   it runs every hour on its own. The repo's front page (README) becomes the live role list,
+   Simplify-style: grouped by function, newest first, with Apply links, pay, level, age,
+   🆕 new and 🔒 closed markers, and a digest for each day in `data/daily/`. The Claude run
+   reads `data/latest.json`; the full role database is `data/roles.json`.
 
 ### Keeping it healthy
 - `data/STATUS.md` shows, at a glance: last run, how many company sites are working, and a
@@ -90,7 +92,7 @@ plan with generous usage is recommended.
 6. **Create the daily scheduled task.** In a new Claude chat on that computer, connect the
    `Job Search` folder, then paste this message (fill in the two placeholders):
 
-   > Create a scheduled task named "Job Radar" that runs every day at 7:00 AM my time,
+   > Create a scheduled task named "Job Radar" that runs every day at 7:30 AM my time,
    > requires this computer, and uses my Job Search folder. Its prompt:
    > "[Job Radar daily run] Follow the playbook at
    > https://raw.githubusercontent.com/<you>/exec-job-radar/main/PLAYBOOK.md exactly. The
@@ -101,11 +103,15 @@ plan with generous usage is recommended.
    Turn on notifications for the task so the summary reaches the candidate's phone. If the
    computer is asleep at 7 AM the run is missed, so set it to stay awake (or wake) then.
 
-   Optional second task for speed on hot roles, at 1:00 PM:
+   Recommended second task, at 1:00 PM, to keep volume high:
    > Same as above, named "Job Radar midday", with this added to the prompt: "This is the
-   > midday hot run: only consider collector roles first seen since this morning's run with
-   > score at or above run.hot_run_min_score, skip the email and career-site sweeps, and fill
-   > at most 3 applications."
+   > midday run: first fill the roles left `prepared` this morning, then consider collector
+   > roles first seen since the morning run with score at or above run.hot_run_min_score.
+   > Skip the email and career-site sweeps."
+
+   With both runs, expect about 15-20 tailored, filled applications a day on a normal day
+   (more when many good roles post). That is browser-heavy, so a plan with generous usage
+   is needed; lower `daily_target` if runs hit usage limits.
 
 7. **Do one supervised run.** In the chat, say: *"Run the Job Radar playbook now, but only
    for 2 roles, and narrate as you go."* Watch it fill the forms, check the materials in

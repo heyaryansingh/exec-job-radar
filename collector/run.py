@@ -6,8 +6,10 @@
 
 Outputs (committed back to the repo by the GitHub Action):
     data/latest.json      roles that passed the rules, first seen in the last `keep_days`
-    data/latest.md        the same, as a readable table
-    data/new/YYYY-MM-DD.jsonl   append-only log of newly found roles
+    data/roles.json       the role database: every matching role with its lifecycle
+    README.md             the public role list (rendered from roles.json)
+    data/daily/DATE.md    roles first found on each day
+    data/STATUS.md        collector health at a glance
     data/state.json       uids already processed (so details are fetched once)
     data/health.json      per-company status, so broken entries are easy to spot
 """
@@ -26,11 +28,13 @@ import yaml
 from .boards import sweep
 from .common import now_iso, session
 from .filters import Rules
-from .sources import ADAPTERS, Ctx
+from . import readme
+from .sources import ADAPTERS, Ctx, check_open
+from .store import Store, norm_company
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-DESC_LIMIT = 5000
+DESC_LIMIT = 3000
 
 
 def log(msg: str):
@@ -125,6 +129,7 @@ def main(argv=None) -> int:
             raise RuntimeError(f"unknown ats '{c.get('ats')}'")
         return fn(c, s, ctx)
 
+    listed: dict = {}  # company -> uids its site listed this run (for closure detection)
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         futs = {ex.submit(job, c): c for c in queue}
         for f in as_completed(futs):
@@ -137,6 +142,7 @@ def main(argv=None) -> int:
                     skipped_budget += 1
                     continue
                 results.extend(got)
+                listed[c["name"]] = (c.get("ats"), {p.uid for p in got})
                 h.update(ok=True, matched_titles=len(got), last_ok=now_iso(), failures=0, error="",
                          last_attempt=now_iso())
             except Exception as e:
@@ -152,16 +158,36 @@ def main(argv=None) -> int:
             log(f"boards: failed ({e})")
             board = []
         log(f"boards: {len(board)} senior titles")
-        # skip board hits for companies already covered by their own ATS feed
-        covered = {c["name"].lower() for c in companies}
-        results.extend(p for p in board if p.company.lower() not in covered)
+        # board hits for companies we read directly are redundant (and less reliable)
+        covered = {norm_company(c["name"]) for c in companies}
+        results.extend(p for p in board if norm_company(p.company) not in covered)
 
-    # ---- evaluate
+    if a.validate:
+        summary = {"run_at": now_iso(), "seconds": round(time.time() - started),
+                   "companies": len(companies), "company_errors": errors,
+                   "senior_titles_seen": len(results)}
+        health["last_validate"] = summary
+        DATA.mkdir(exist_ok=True)
+        write_atomic(DATA / "health.json", json.dumps(health, indent=1, sort_keys=True))
+        bad = {n: h for n, h in hc.items() if not h.get("ok")}
+        log(json.dumps(summary, indent=2))
+        log(f"\nVALIDATION: {len(companies) - len(bad)} ok, {len(bad)} failing")
+        for n, h in sorted(bad.items()):
+            log(f"  FAIL {n} [{h.get('ats')}]: {h.get('error', '')[:120]}")
+        return 0
+
+    # ---- evaluate new postings and update the role database
+    DATA.mkdir(exist_ok=True)
+    store = Store(DATA / "roles.json")
+    _migrate_latest(store)
     today = date.today().isoformat()
-    new_pass, dropped = [], {}
+    outcome, dropped = {"new": 0, "merged": 0, "reposted": 0}, {}
     for p in results:
-        if p.uid in seen and not a.validate:
-            continue  # already judged on an earlier run
+        if store.has(p.uid):
+            store.touch(p.uid)          # still listed: keep it open
+            continue
+        if p.uid in seen:
+            continue                    # judged (and dropped) on an earlier run
         ok, why, score = rules.evaluate(p)
         if not ok:
             dropped[why] = dropped.get(why, 0) + 1
@@ -171,59 +197,56 @@ def main(argv=None) -> int:
         d["score"] = score
         d["first_seen"] = now_iso()
         d["description"] = d["description"][:DESC_LIMIT]
-        new_pass.append(d)
+        outcome[store.add(d)] += 1
         seen[p.uid] = {"first": today, "pass": True}
 
-    # de-duplicate the same role posted in several places (company + title + city)
-    def key(d):
-        return (d["company"].lower(), d["title"].lower(), (d["location"] or "").lower()[:30])
+    # ---- closed roles: absent from a full listing twice, or confirmed gone on a direct check
+    to_check = []
+    for company, (ats, uids) in listed.items():
+        to_check += store.mark_missing(company, uids, full_listing=ats in FULL_LISTING)
+    closed_checked = 0
+    check_session = session()
+    for r in sorted(to_check, key=lambda r: r.get("last_checked", ""))[:CHECKS_PER_RUN]:
+        if time.time() > deadline + 600:
+            break
+        state_ = check_open(r, check_session)
+        r["last_checked"] = now_iso()
+        if state_ is False:
+            store.close(r["uid"], "posting removed")
+            closed_checked += 1
+        elif state_ is True:
+            store.touch(r["uid"])
+    store.expire()
 
-    latest = load_json(DATA / "latest.json", {"roles": []}).get("roles", [])
+    open_roles = store.open_roles()
     keep_days = int(cfg.get("keep_days", 10))
     cutoff = (date.today() - timedelta(days=keep_days)).isoformat()
-    latest = [r for r in latest if r.get("first_seen", "")[:10] >= cutoff]
-    have = {key(r) for r in latest}
-    fresh = [d for d in new_pass if key(d) not in have]
-    latest.extend(fresh)
-    latest.sort(key=lambda r: (r.get("score", 0), r.get("first_seen", "")), reverse=True)
+    latest = [r for r in open_roles if r.get("first_seen", "")[:10] >= cutoff]
+    latest.sort(key=lambda r: (-(r.get("score") or 0), r.get("first_seen", ""), r["uid"]))
 
     summary = {
         "run_at": now_iso(), "seconds": round(time.time() - started),
         "companies": len(companies), "company_errors": errors,
         "skipped_backoff": skipped_backoff, "skipped_out_of_time": skipped_budget,
-        "senior_titles_seen": len(results), "new_roles": len(fresh),
-        "dropped": dropped, "roles_in_latest": len(latest),
+        "senior_titles_seen": len(results), "new_roles": outcome["new"] + outcome["reposted"],
+        "merged_duplicates": outcome["merged"], "reposted": outcome["reposted"],
+        "closed_after_check": closed_checked, "dropped": dropped,
+        "open_roles": len(open_roles), "roles_in_latest": len(latest),
     }
     log(json.dumps(summary, indent=2))
 
-    if a.validate:
-        health["last_validate"] = summary
-        DATA.mkdir(exist_ok=True)
-        write_atomic(DATA / "health.json", json.dumps(health, indent=1, sort_keys=True))
-        bad = {n: h for n, h in hc.items() if not h.get("ok")}
-        log(f"\nVALIDATION: {len(companies) - len(bad)} ok, {len(bad)} failing")
-        for n, h in sorted(bad.items()):
-            log(f"  FAIL {n} [{h.get('ats')}]: {h.get('error', '')[:120]}")
-        return 0
-
     if a.dry_run:
-        for d in sorted(fresh, key=lambda r: -r["score"])[:40]:
+        for d in sorted(latest, key=lambda r: -r["score"])[:40]:
             log(f"{d['score']:3d}  {d['company']:<28} {d['title'][:70]:<70} {d['location'][:30]}"
                 f"  {('$' + format(d['pay_max'], ',')) if d.get('pay_max') else ''}")
         return 0
 
-    DATA.mkdir(exist_ok=True)
-    (DATA / "new").mkdir(exist_ok=True)
-    if fresh:
-        with open(DATA / "new" / f"{today}.jsonl", "a") as fh:
-            for d in fresh:
-                fh.write(json.dumps(d) + "\n")
-    write_atomic(DATA / "latest.json", json.dumps({"updated": now_iso(), "roles": latest}, indent=1))
-    write_markdown(latest)
-    # prune processed-uid memory after 120 days
+    store.save()
+    write_atomic(DATA / "latest.json", dump_lines({"updated": now_iso(), "roles": latest}))
+    readme.write_all(ROOT, list(store.roles.values()), len(companies), lambda p, t: write_atomic(p, t))
     old = (date.today() - timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if v.get("first", today) >= old}
-    write_atomic(DATA / "state.json", json.dumps({"seen": seen}))
+    write_atomic(DATA / "state.json", json.dumps({"seen": seen}, separators=(",", ":"), sort_keys=True))
     health["last_run"] = summary
     write_status(health, latest)
     write_atomic(DATA / "health.json", json.dumps(health, indent=1, sort_keys=True))
@@ -235,6 +258,26 @@ def main(argv=None) -> int:
         log(f"ERROR: {errors} of {attempted} companies failed")
         return 1
     return 0
+
+
+FULL_LISTING = {"greenhouse", "lever", "ashby"}   # these APIs list every open job
+CHECKS_PER_RUN = 400
+
+
+def dump_lines(obj: dict) -> str:
+    """JSON with one role per line, so hourly commits store small diffs."""
+    roles = obj["roles"]
+    body = ",\n".join(json.dumps(r, separators=(",", ":"), sort_keys=True) for r in roles)
+    return '{"updated":%s,"roles":[\n%s\n]}\n' % (json.dumps(obj["updated"]), body)
+
+
+def _migrate_latest(store: Store):
+    """One-time import of roles found before the role database existed."""
+    if store.roles:
+        return
+    for r in load_json(DATA / "latest.json", {"roles": []}).get("roles", []):
+        if r.get("uid") and r.get("company"):
+            store.add(r)
 
 
 def write_status(health, latest):
@@ -256,20 +299,6 @@ def write_status(health, latest):
         lines += ["", "Fix an entry with tools/add_company.py, or add `disabled: true` to it in "
                   "config/companies.yaml."]
     write_atomic(DATA / "STATUS.md", "\n".join(lines) + "\n")
-
-
-def write_markdown(latest):
-    lines = ["# Latest matching roles", "",
-             f"Updated {now_iso()} UTC. Sorted by quick score (the Claude run re-ranks).", "",
-             "| Score | Company | Role | Location | Pay | First seen |",
-             "|---:|---|---|---|---|---|"]
-    for r in latest[:200]:
-        pay = f"${r['pay_max']:,}" if r.get("pay_max") else ""
-        title = r["title"].replace("|", "/")
-        loc = (r.get("location") or "").replace("|", "/")[:40]
-        lines.append(f"| {r.get('score', 0)} | {r['company']} | [{title}]({r['url']}) | {loc} | "
-                     f"{pay} | {r.get('first_seen', '')[:10]} |")
-    write_atomic(DATA / "latest.md", "\n".join(lines) + "\n")
 
 
 if __name__ == "__main__":

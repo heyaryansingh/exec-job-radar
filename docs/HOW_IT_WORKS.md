@@ -29,9 +29,12 @@ applications in the candidate's own browser, and leaves them for the candidate t
 - `PLAYBOOK.md`: what the daily Claude run does, step by step.
 - `candidate_template/`: the files that live in the candidate's `Job Search` folder.
 - `tools/render_dashboard.py`: turns the tracker into the review page.
-- `data/`: written by the collector (`latest.json`, `latest.md`, `health.json`).
+- `collector/store.py`: the role database (`data/roles.json`): de-duplication across sources,
+  separate openings kept apart by requisition id, repost detection, closed-role detection.
+- `collector/readme.py`: renders the README role list and `data/daily/` digests.
+- `data/`: written by the collector (`roles.json`, `latest.json`, `health.json`, `STATUS.md`).
 
-Start with [SETUP.md](SETUP.md).
+Start with [SETUP.md](../SETUP.md).
 
 Local test: `pip install -r requirements.txt pytest && python -m pytest -q tests`
 Dry run: `python -m collector.run --dry-run --no-boards`

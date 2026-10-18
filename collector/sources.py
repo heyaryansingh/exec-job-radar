@@ -125,7 +125,8 @@ def smartrecruiters(c, s, ctx):
                           url=f"https://jobs.smartrecruiters.com/{slug}/{j['id']}",
                           location=", ".join(x for x in [loc.get("city"), loc.get("region"), loc.get("country")] if x),
                           remote=bool(loc.get("remote")),
-                          posted_at=(j.get("releasedDate") or "")[:10] or None)
+                          posted_at=(j.get("releasedDate") or "")[:10] or None,
+                          extra={"check": f"https://api.smartrecruiters.com/v1/companies/{slug}/postings/{j['id']}"})
                 if any(o.uid == p.uid for o in out):
                     continue
                 if ctx.is_new(p):
@@ -201,7 +202,7 @@ def workday(c, s, ctx):
                 job_id = (j.get("bulletFields") or [path.rsplit("_", 1)[-1]])[0]
                 p = _base(c, source="workday", job_id=str(job_id), title=title.strip(),
                           url=f"{public}{path}", location=j.get("locationsText", "") or "",
-                          posted_at=posted)
+                          posted_at=posted, extra={"check": f"{api}{path}"})
                 if ctx.is_new(p):
                     try:
                         d = get_json(s, f"{api}{path}")
@@ -251,7 +252,9 @@ def oracle(c, s, ctx):
                           url=f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{jid}",
                           location=j.get("PrimaryLocation", "") or "",
                           remote="remote" in (j.get("WorkplaceType") or "").lower(),
-                          posted_at=(j.get("PostedDate") or "")[:10] or None)
+                          posted_at=(j.get("PostedDate") or "")[:10] or None,
+                          extra={"check": f'{base}/recruitingCEJobRequisitionDetails?onlyData=true'
+                                          f'&finder=ById;Id="{jid}",siteNumber={site}'})
                 if p.posted_at:
                     try:
                         if (date.today() - date.fromisoformat(p.posted_at)).days > ctx.max_age_days:
@@ -274,6 +277,36 @@ def oracle(c, s, ctx):
             if len(items) < 25:
                 break
     return out
+
+
+def check_open(role: dict, s) -> "bool | None":
+    """Is this posting still up? True / False, or None when it can't be told."""
+    url = (role.get("extra") or {}).get("check")
+    if not url:
+        return None
+    try:
+        r = s.get(url, timeout=20)
+    except Exception:
+        return None
+    if r.status_code in (404, 410):
+        return False
+    if r.status_code != 200:
+        return None
+    try:
+        d = r.json()
+    except ValueError:
+        return None
+    src = role.get("source")
+    if src == "workday":
+        info = d.get("jobPostingInfo")
+        if not info:
+            return False
+        return info.get("canApply", True) is not False
+    if src == "oracle":
+        return bool(d.get("items"))
+    if src == "smartrecruiters":
+        return d.get("active", True) is not False
+    return None
 
 
 ADAPTERS = {

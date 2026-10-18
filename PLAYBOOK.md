@@ -82,8 +82,8 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
    summary.
 
 Drop anything already in `tracker.json` (match on `uid`, on the posting URL, or on company +
-title + city, ignoring case and punctuation, so the same role from two sources is never
-prepared twice), any
+title + city, ignoring case and punctuation, or on the feed's `dup_key`, so the same role from
+two sources is never prepared twice), any role whose feed `status` is `closed`, any
 company in `preferences.excluded_companies`, and anything the candidate ruled out in `notes.md`.
 
 ## Step 3: Rank
@@ -197,10 +197,11 @@ End with 3-6 lines:
 ## Settings reference (`candidate.yaml` → `run`)
 
 - `repo`: GitHub `owner/name` of the collector repo.
-- `daily_target`: how many applications to fill per run (default 6).
+- `daily_target`: how many applications to fill per run (default 10).
+- `prepare_target`: how many roles to prepare materials for per run (default 20).
 - `min_score`: quality bar (default 72).
 - `max_per_company`: per company per week (default 2).
 - `read_job_alert_emails`: true/false.
 - `extra_career_sites`: list of `{name, url}` search pages for companies the collector can't read.
-- `hot_run_min_score`: used only by the optional midday run (see SETUP.md): it processes
-  only roles first seen since the morning with collector score at or above this.
+- `hot_run_min_score`: used only by the midday run (see SETUP.md): it fills the `prepared`
+  backlog first, then roles first seen since the morning with collector score at or above this.

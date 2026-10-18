@@ -1,0 +1,840 @@
+{
+ "companies": {
+  "Adobe": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:08+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "Affirm": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 7,
+   "ok": true
+  },
+  "Airbnb": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "Allstate": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:54+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "Anduril": {
+   "ats": "greenhouse",
+   "error": "404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/anduril/jobs?content=true",
+   "failures": 1,
+   "ok": false
+  },
+  "Anthropic": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 11,
+   "ok": true
+  },
+  "BNY": {
+   "ats": "workday",
+   "error": "422 Client Error: Unprocessable Entity for url: https://bnymellon.wd1.myworkdayjobs.com/wday/cxs/bnymellon/BNY_Careers/jobs",
+   "failures": 1,
+   "ok": false
+  },
+  "Baker Hughes": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:32+00:00",
+   "matched_titles": 1,
+   "ok": true
+  },
+  "Bank of America": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:29+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "BlackRock": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:48+00:00",
+   "matched_titles": 65,
+   "ok": true
+  },
+  "Boeing": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:37+00:00",
+   "matched_titles": 4,
+   "ok": true
+  },
+  "Brex": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 10,
+   "ok": true
+  },
+  "Broadcom": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:09+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "CME Group": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:47+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "CVS Health": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:26+00:00",
+   "matched_titles": 41,
+   "ok": true
+  },
+  "Capital One": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:30+00:00",
+   "matched_titles": 92,
+   "ok": true
+  },
+  "Carta": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "Centene": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:31+00:00",
+   "matched_titles": 9,
+   "ok": true
+  },
+  "Charles Schwab": {
+   "ats": "workday",
+   "error": "422 Client Error: Unprocessable Entity for url: https://schwab.wd1.myworkdayjobs.com/wday/cxs/schwab/External/jobs",
+   "failures": 1,
+   "ok": false
+  },
+  "Chevron": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:27+00:00",
+   "matched_titles": 1,
+   "ok": true
+  },
+  "Chime": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "Cigna": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:31+00:00",
+   "matched_titles": 9,
+   "ok": true
+  },
+  "Citi": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:47+00:00",
+   "matched_titles": 64,
+   "ok": true
+  },
+  "Cloudflare": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:12+00:00",
+   "matched_titles": 8,
+   "ok": true
+  },
+  "Coinbase": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 5,
+   "ok": true
+  },
+  "Comcast": {
+   "ats": "workday",
+   "error": "422 Client Error: Unprocessable Entity for url: https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs",
+   "failures": 1,
+   "ok": false
+  },
+  "CrowdStrike": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:18+00:00",
+   "matched_titles": 4,
+   "ok": true
+  },
+  "Databricks": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:12+00:00",
+   "matched_titles": 29,
+   "ok": true
+  },
+  "Datadog": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 10,
+   "ok": true
+  },
+  "Dell Technologies": {
+   "ats": "workday",
+   "error": "422 Client Error: Unprocessable Entity for url: https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs",
+   "failures": 1,
+   "ok": false
+  },
+  "Discord": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "Disney": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:21+00:00",
+   "matched_titles": 12,
+   "ok": true
+  },
+  "Dropbox": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "Elastic": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 17,
+   "ok": true
+  },
+  "Elevance Health": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:25+00:00",
+   "matched_titles": 9,
+   "ok": true
+  },
+  "Fannie Mae": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:47+00:00",
+   "matched_titles": 4,
+   "ok": true
+  },
+  "Fidelity": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:02+00:00",
+   "matched_titles": 117,
+   "ok": true
+  },
+  "Figma": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "Fivetran": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 1,
+   "ok": true
+  },
+  "General Motors": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:33+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "GitLab": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 11,
+   "ok": true
+  },
+  "Grafana Labs": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "HP": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "HPE": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "Humana": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:27+00:00",
+   "matched_titles": 12,
+   "ok": true
+  },
+  "Instacart": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "Intel": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:10+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "JPMorgan Chase": {
+   "ats": "oracle",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 291,
+   "ok": true
+  },
+  "Linear": {
+   "ats": "ashby",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "Lyft": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "Marqeta": {
+   "ats": "greenhouse",
+   "error": "404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/marqeta/jobs?content=true",
+   "failures": 1,
+   "ok": false
+  },
+  "Mastercard": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:02+00:00",
+   "matched_titles": 84,
+   "ok": true
+  },
+  "Mercury": {
+   "ats": "ashby",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:00+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "MongoDB": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 12,
+   "ok": true
+  },
+  "Morgan Stanley": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:44+00:00",
+   "matched_titles": 112,
+   "ok": true
+  },
+  "Motorola Solutions": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:18+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "NVIDIA": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:08+00:00",
+   "matched_titles": 13,
+   "ok": true
+  },
+  "Nasdaq": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:50+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "Northern Trust": {
+   "ats": "workday",
+   "error": "422 Client Error: Unprocessable Entity for url: https://northerntrust.wd1.myworkdayjobs.com/wday/cxs/northerntrust/northerntrust/jobs",
+   "failures": 1,
+   "ok": false
+  },
+  "Northrop Grumman": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:50+00:00",
+   "matched_titles": 14,
+   "ok": true
+  },
+  "Notion": {
+   "ats": "ashby",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "Okta": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 17,
+   "ok": true
+  },
+  "OpenAI": {
+   "ats": "ashby",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 54,
+   "ok": true
+  },
+  "Oscar Health": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:25+00:00",
+   "matched_titles": 35,
+   "ok": true
+  },
+  "PNC": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:33+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "PagerDuty": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 4,
+   "ok": true
+  },
+  "Palantir": {
+   "ats": "lever",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "PayPal": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:50+00:00",
+   "matched_titles": 16,
+   "ok": true
+  },
+  "Pinterest": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 5,
+   "ok": true
+  },
+  "Plaid": {
+   "ats": "lever",
+   "error": "404 Client Error: Not Found for url: https://api.lever.co/v0/postings/plaid?mode=json",
+   "failures": 1,
+   "ok": false
+  },
+  "Point72": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:50+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "Prudential": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:01+00:00",
+   "matched_titles": 8,
+   "ok": true
+  },
+  "Pure Storage": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 10,
+   "ok": true
+  },
+  "RTX": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:36+00:00",
+   "matched_titles": 7,
+   "ok": true
+  },
+  "Ramp": {
+   "ats": "ashby",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:00+00:00",
+   "matched_titles": 4,
+   "ok": true
+  },
+  "Reddit": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "Retool": {
+   "ats": "ashby",
+   "error": "404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/retool?includeCompensation=true",
+   "failures": 1,
+   "ok": false
+  },
+  "Robinhood": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 5,
+   "ok": true
+  },
+  "Roblox": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 16,
+   "ok": true
+  },
+  "Rubrik": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 8,
+   "ok": true
+  },
+  "Salesforce": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 50,
+   "ok": true
+  },
+  "Samsara": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "Scale AI": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "ServiceNow": {
+   "ats": "smartrecruiters",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:15+00:00",
+   "matched_titles": 31,
+   "ok": true
+  },
+  "Shell": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:32+00:00",
+   "matched_titles": 2,
+   "ok": true
+  },
+  "SoFi": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:57+00:00",
+   "matched_titles": 7,
+   "ok": true
+  },
+  "Spotify": {
+   "ats": "lever",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:16+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "State Street": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:44+00:00",
+   "matched_titles": 69,
+   "ok": true
+  },
+  "Stripe": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:56+00:00",
+   "matched_titles": 7,
+   "ok": true
+  },
+  "T. Rowe Price": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:54+00:00",
+   "matched_titles": 1,
+   "ok": true
+  },
+  "TIAA": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:02+00:00",
+   "matched_titles": 17,
+   "ok": true
+  },
+  "Target": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:28+00:00",
+   "matched_titles": 7,
+   "ok": true
+  },
+  "Toast": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:58+00:00",
+   "matched_titles": 6,
+   "ok": true
+  },
+  "Travelers": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:01+00:00",
+   "matched_titles": 12,
+   "ok": true
+  },
+  "Truist": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:34+00:00",
+   "matched_titles": 13,
+   "ok": true
+  },
+  "Twilio": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:13+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "U.S. Bank": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:38+00:00",
+   "matched_titles": 12,
+   "ok": true
+  },
+  "USAA": {
+   "ats": "workday",
+   "error": "404 Client Error: Not Found for url: https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/USAAJOBS/jobs",
+   "failures": 1,
+   "ok": false
+  },
+  "Vercel": {
+   "ats": "ashby",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "Verizon": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:17+00:00",
+   "matched_titles": 3,
+   "ok": true
+  },
+  "Visa": {
+   "ats": "smartrecruiters",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:40+00:00",
+   "matched_titles": 0,
+   "ok": true
+  },
+  "Walmart": {
+   "ats": "workday",
+   "error": "422 Client Error: Unprocessable Entity for url: https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
+   "failures": 1,
+   "ok": false
+  },
+  "Wells Fargo": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:42:36+00:00",
+   "matched_titles": 25,
+   "ok": true
+  },
+  "Workday": {
+   "ats": "workday",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:27+00:00",
+   "matched_titles": 7,
+   "ok": true
+  },
+  "Zscaler": {
+   "ats": "greenhouse",
+   "error": "",
+   "failures": 0,
+   "last_ok": "2026-10-18T22:43:14+00:00",
+   "matched_titles": 13,
+   "ok": true
+  }
+ },
+ "last_validate": {
+  "companies": 105,
+  "company_errors": 11,
+  "dropped": {
+   "domain": 1083,
+   "non-US location": 118,
+   "pay max 160000": 1,
+   "pay max 168000": 1,
+   "pay max 172700": 1,
+   "pay max 192000": 1,
+   "too old": 68
+  },
+  "new_roles": 362,
+  "roles_in_latest": 362,
+  "run_at": "2026-10-18T22:43:51+00:00",
+  "seconds": 86,
+  "senior_titles_seen": 1635
+ }
+}

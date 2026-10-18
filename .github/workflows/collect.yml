@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: "17 * * * *"      # every hour at :17 (6:17 AM ET run lands before the 7:30 AM Claude run)
   workflow_dispatch: {}        # "Run workflow" button
+  push:                        # re-run right away when the code or search rules change
+    branches: [main]
+    paths: ["collector/**", "config/search.yaml", "config/companies.yaml", "config/readme_header.md",
+            ".github/workflows/collect.yml"]
+  workflow_run:                # and as soon as discovery adds companies
+    workflows: ["Discover companies"]
+    types: [completed]
 
 permissions:
   contents: write

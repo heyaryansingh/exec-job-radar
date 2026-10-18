@@ -29,9 +29,23 @@ account (about 30 minutes, done with the candidate).
    companies → Run workflow**. When it finishes, open the run's log: the last lines list any
    company whose career site didn't respond. Fix those entries (see "Adding companies") or
    add `disabled: true` to them.
-5. **Start collecting.** **Actions → Collect roles → Run workflow** once by hand. After that
+5. **Grow the watchlist.** **Actions → Discover companies → Run workflow.** It resolves every
+   name in `config/discover_seed.txt` (1,300+ companies) to its career site and adds the ones
+   that return jobs to `config/companies.yaml`. It takes one to two hours the first time. Names
+   it isn't sure about land in `data/discover_review.md`; names it can't find are retried
+   automatically every week. To add companies later, add lines to the seed file and push.
+6. **Start collecting.** **Actions → Collect roles → Run workflow** once by hand. After that
    it runs every hour on its own. Results appear in `data/latest.md` (readable table) and
    `data/latest.json` (what the Claude run reads).
+
+### Keeping it healthy
+- `data/STATUS.md` shows, at a glance: last run, how many company sites are working, and a
+  table of failing ones with their errors.
+- Broken sites are backed off automatically (retried every 12 hours after 6 straight failures),
+  so one bad entry never slows the whole run. Each hourly run has a 40-minute budget and
+  checks the least recently checked companies first.
+- If more than half the sites fail in one run (a sign of something systemic), the run is
+  marked failed and GitHub emails the repo owner. Results are still saved.
 
 ### Retargeting for a different person
 Edit `config/search.yaml`: seniority patterns, domain keywords, minimum pay, locations and
@@ -83,6 +97,9 @@ plan with generous usage is recommended.
    > candidate's Job Search folder is <full path to the folder> on this computer. Use Claude
    > in Chrome for applications (the built-in browser if Chrome is unavailable). Never
    > submit an application. End with the 3-6 line summary."
+
+   Turn on notifications for the task so the summary reaches the candidate's phone. If the
+   computer is asleep at 7 AM the run is missed, so set it to stay awake (or wake) then.
 
    Optional second task for speed on hot roles, at 1:00 PM:
    > Same as above, named "Job Radar midday", with this added to the prompt: "This is the

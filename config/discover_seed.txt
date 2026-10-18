@@ -1,4 +1,5 @@
 # Companies for tools/discover.py to resolve:  Name | tier | sector
+# Optional 4th column: aliases separated by ";" (e.g. "Fidelity | 1 | asset management | fmr")
 # tier 1 = top tier, 2 = strong, 3 = other. Add lines anytime and re-run "Discover companies".
 
 # ---------------- Banks, brokers, exchanges

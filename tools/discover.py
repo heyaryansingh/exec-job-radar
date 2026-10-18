@@ -8,14 +8,15 @@ Lines starting with # are ignored. Names already in companies.yaml are skipped, 
 names that were already tried are remembered in data/discover_state.json, so the
 script can be re-run (or run in batches) safely.
 
-For each name it:
-  1. probes Greenhouse, Lever, Ashby and SmartRecruiters directly with likely board
-     names (exact API answers, no guessing);
-  2. otherwise searches the web for the company's career site and parses any Workday,
-     Greenhouse, Lever, Ashby, SmartRecruiters or Oracle URL it finds;
-  3. accepts a result only if the board actually responds with jobs and its address
-     plausibly belongs to that company. Doubtful matches go to
-     data/discover_review.md instead of the watchlist.
+For each name it tries, in order, and stops at the first board that really returns jobs:
+  1. direct probes of Greenhouse, Lever, Ashby and SmartRecruiters with likely board names;
+  2. the Common Crawl directory of known career sites (tools/ats_directory.py), matched
+     on the company name, short name, acronym and any aliases in the seed file;
+  3. the company's own careers page (www.<name>.com/careers, careers.<name>.com, ...),
+     reading off whichever career-site system it links or redirects to;
+  4. optionally (--web-search) a web search, which search engines often block from servers.
+Matches whose address doesn't clearly belong to the company go to data/discover_review.md.
+Names not found are retried on later runs, so coverage grows as the directory refreshes.
 Runs on GitHub Actions (see .github/workflows/discover.yml), which has full internet.
 """
 from __future__ import annotations
@@ -36,6 +37,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 
 import yaml  # noqa: E402
 
+import ats_directory  # noqa: E402
 from add_company import parse  # noqa: E402
 from collector.common import session  # noqa: E402
 
@@ -46,6 +48,15 @@ REVIEW = ROOT / "data" / "discover_review.md"
 STOP = {"the", "inc", "corp", "corporation", "company", "co", "group", "holdings", "llc", "ltd",
         "plc", "and", "of", "financial", "services", "technologies", "technology", "international",
         "global", "bank", "health", "energy", "systems", "solutions", "partners", "capital"}
+# words too common to identify a company on their own
+LEGAL = {"the", "inc", "corp", "corporation", "company", "co", "llc", "ltd", "plc", "holdings", "group"}
+GENERIC = STOP | {"first", "american", "national", "united", "general", "new", "york", "texas", "north",
+                  "south", "east", "west", "central", "federal", "life", "insurance", "trust", "mutual",
+                  "investment", "investments", "management", "asset", "advisors", "markets", "data", "labs",
+                  "ai", "software", "networks", "network", "communications", "media", "foods", "brands",
+                  "industries", "resources", "products", "healthcare", "medical", "care", "pharmaceuticals",
+                  "sciences", "bio", "motors", "airlines", "electric", "power", "gas", "oil", "chemical",
+                  "realty", "properties", "entertainment", "interactive", "digital", "cloud", "security"}
 ATS_URL = re.compile(
     r"https?://[^\s\"'<>]*(myworkdayjobs\.com|myworkdaysite\.com|greenhouse\.io|jobs\.lever\.co|"
     r"jobs\.ashbyhq\.com|smartrecruiters\.com|oraclecloud\.com/hcmUI)[^\s\"'<>]*", re.I)
@@ -145,6 +156,143 @@ def probe_direct(s, name: str):
     return None
 
 
+def compact(x: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", x.lower().replace("&", ""))
+
+
+def name_keys(name: str, aliases: list[str]) -> dict:
+    """Ways a board might be named for this company, strongest first."""
+    words = re.findall(r"[a-z0-9]+", name.lower().replace("&", " "))
+    core = [w for w in words if w not in STOP]
+    # only legal suffixes are dropped for a strong key; "Cadence Bank" must not become "cadence"
+    legal = [w for w in words if w not in LEGAL]
+    strong = {compact(name), compact(name.replace("&", "and")), "".join(legal)}
+    strong |= {compact(a) for a in aliases}
+    distinctive = {w for w in core if len(w) >= 5 and w not in GENERIC}
+    acronym = "".join(w[0] for w in words if w not in ("of", "and", "the"))
+    return {"strong": {k for k in strong if len(k) >= 3}, "words": distinctive, "all_words": words,
+            "acronym": acronym if len(acronym) >= 3 else ""}
+
+
+def board_keys(e: dict) -> list[str]:
+    if e["ats"] in ("workday", "oracle"):
+        tenant = e.get("tenant") or e["host"].split(".")[0]
+        return [compact(tenant), compact(e.get("site", ""))]
+    return [compact(e.get("slug", ""))]
+
+
+def match_score(keys: dict, e: dict) -> int:
+    """5-4 exact, 3 confident prefix, 2 plausible (review), 1 weak, 0 none."""
+    bks = board_keys(e)
+    main, site = bks[0], (bks[1] if len(bks) > 1 else "")
+    best = 0
+    for bk, weight in ((main, 1), (site, 0)):
+        if not bk:
+            continue
+        if bk in keys["strong"]:
+            best = max(best, 4 + weight)
+            continue
+        for k in keys["strong"]:
+            if len(k) < 5:
+                continue
+            if bk.startswith(k):            # board name extends the company name
+                best = max(best, 3 + weight)
+            elif k.startswith(bk) and len(bk) >= 5:
+                # board name is a shortened company name ("regions" for Regions Financial,
+                # but also "cadence" for Cadence Bank vs Cadence Design). Confident only if
+                # it spans 2+ words or the Workday site name repeats it.
+                spans_words = sum(1 for w in keys["all_words"] if w in bk) >= 2
+                echoed = bool(site) and bk is main and bk in site
+                best = max(best, 3 + weight if (spans_words or echoed) else 2)
+        if keys["words"] and any(w == bk or (bk.startswith(w) and len(w) >= 6) for w in keys["words"]):
+            best = max(best, 2)  # one distinctive word: plausible, goes to review
+        elif keys["acronym"] and bk == keys["acronym"]:
+            best = max(best, 2)
+        elif keys["words"] and any(w in bk for w in keys["words"] if len(w) >= 6):
+            best = max(best, 1)
+    return best
+
+
+_DIRECTORY = None
+_dir_lock = threading.Lock()
+
+
+def directory_entries() -> list[dict]:
+    global _DIRECTORY
+    with _dir_lock:
+        if _DIRECTORY is None:
+            try:
+                d = ats_directory.load(max_pages=150, n_crawls=2)
+                _DIRECTORY = [e for v in d.get("boards", {}).values() for e in v]
+            except Exception as exc:
+                print(f"  ! directory unavailable: {exc}", flush=True)
+                _DIRECTORY = []
+    return _DIRECTORY
+
+
+def probe_directory(s, name: str, aliases: list[str]):
+    keys = name_keys(name, aliases)
+    scored = []
+    for e in directory_entries():
+        sc = match_score(keys, e)
+        if sc >= 2:
+            scored.append((sc, e.get("seen", 0), e))
+    scored.sort(key=lambda t: (-t[0], -t[1]))
+    for sc, _, e in scored[:6]:
+        e = {k: v for k, v in e.items() if k != "seen"}
+        try:
+            if count_jobs(s, e) > 0:
+                return e, sc >= 3
+        except Exception:
+            continue
+    return None, False
+
+
+def guess_domains(name: str, aliases: list[str]) -> list[str]:
+    words = re.findall(r"[a-z0-9]+", name.lower().replace("&", " "))
+    core = [w for w in words if w not in STOP]
+    c = ["".join(words), "".join(core), "".join(w for w in words if w not in ("the",))]
+    if core and len(core[0]) >= 5:
+        c.append(core[0])
+    c += [compact(a) for a in aliases]
+    out = []
+    for x in c:
+        if x and x + ".com" not in out:
+            out.append(x + ".com")
+    return out[:4]
+
+
+def probe_careers_page(s, name: str, aliases: list[str]):
+    for d in guess_domains(name, aliases):
+        for url in (f"https://www.{d}/careers", f"https://careers.{d}", f"https://jobs.{d}",
+                    f"https://www.{d}/en/careers", f"https://www.{d}/about/careers"):
+            try:
+                r = s.get(url, timeout=15, headers={"Accept": "text/html"}, allow_redirects=True)
+            except Exception:
+                continue
+            if r.status_code >= 400:
+                continue
+            urls = [r.url] + [m.group(0) for m in ATS_URL.finditer(r.text[:400000])]
+            for u in urls[:15]:
+                try:
+                    e = parse(u)
+                except ValueError:
+                    continue
+                if e["ats"] == "workday" and e.get("site", "").lower() in BAD_WD_SITES:
+                    continue
+                try:
+                    if count_jobs(s, e) > 0:
+                        # the guessed domain might belong to a different company with the
+                        # same name, so require the board itself to look like this company
+                        return e, plausible(name, e) or match_score(name_keys(name, aliases), e) >= 2
+                except Exception:
+                    continue
+    return None, False
+
+
+BAD_WD_SITES = {"job", "jobs", "wday", "login"}
+
+
 def web_search_urls(s, query: str) -> list[str]:
     """DuckDuckGo's no-JavaScript results page; returns result URLs."""
     try:
@@ -193,14 +341,27 @@ def identity(e: dict) -> str:
     return "|".join(str(e.get(k, "")).lower() for k in ("ats", "slug", "host", "site"))
 
 
-def resolve(name: str, use_search: bool):
+def resolve(name: str, aliases: list[str], use_search: bool):
+    """Return (entry, confident, method)."""
     s = session()
     e = probe_direct(s, name)
     if e:
-        return e, True
+        return e, True, "direct"
+    for alias in aliases:
+        e = probe_direct(s, alias)
+        if e:
+            return e, True, "direct"
+    e, ok = probe_directory(s, name, aliases)
+    if e:
+        return e, ok, "directory"
+    e, ok = probe_careers_page(s, name, aliases)
+    if e:
+        return e, ok, "careers page"
     if use_search:
-        return probe_search(s, name)
-    return None, False
+        e, ok = probe_search(s, name)
+        if e:
+            return e, ok, "web search"
+    return None, False, ""
 
 
 def yaml_line(name: str, e: dict, tier: int, sector: str) -> str:
@@ -217,7 +378,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("seed")
     ap.add_argument("--limit", type=int, default=0)
-    ap.add_argument("--no-search", action="store_true", help="direct API probes only")
+    ap.add_argument("--web-search", action="store_true", help="also try web search (often blocked)")
+    ap.add_argument("--retry-review", action="store_true", help="re-resolve names sent to review")
     ap.add_argument("--workers", type=int, default=12)
     a = ap.parse_args()
 
@@ -233,25 +395,33 @@ def main():
         name = parts[0]
         tier = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else 2
         sector = parts[2] if len(parts) > 2 else ""
-        if name.lower() in existing or name in tried:
+        aliases = [x.strip() for x in parts[3].split(";")] if len(parts) > 3 and parts[3] else []
+        prev = tried.get(name)
+        if name.lower() in existing:
             continue
-        rows.append((name, tier, sector))
+        # skip names already resolved; names never found are retried every run
+        if prev and not (a.retry_review and "review" in prev):
+            continue
+        rows.append((name, tier, sector, aliases))
     if a.limit:
         rows = rows[: a.limit]
     print(f"{len(rows)} companies to resolve", flush=True)
+    if rows:
+        directory_entries()  # build or load the directory once, up front
 
     known_ids = {identity(c) for c in (yaml.safe_load(COMPANIES.read_text()) or [])}
     added, review, missed = [], [], []
     done = 0
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
-        futs = {ex.submit(resolve, name, not a.no_search): (name, tier, sector) for name, tier, sector in rows}
+        futs = {ex.submit(resolve, name, aliases, a.web_search): (name, tier, sector)
+                for name, tier, sector, aliases in rows}
         for f in as_completed(futs):
             name, tier, sector = futs[f]
             done += 1
             try:
-                e, ok = f.result()
+                e, ok, how = f.result()
             except Exception as exc:
-                e, ok = None, False
+                e, ok, how = None, False, ""
                 print(f"  ! {name}: {exc}", flush=True)
             if e and identity(e) in known_ids:
                 tried[name] = {"duplicate_of": identity(e)}
@@ -260,7 +430,7 @@ def main():
                 known_ids.add(identity(e))
                 added.append(yaml_line(name, e, tier, sector))
                 tried[name] = e
-                status = f"{e['ats']} {e.get('slug') or e.get('host')}"
+                status = f"{e['ats']} {e.get('slug') or e.get('host')} ({how})"
             elif e:
                 review.append(f"- {name}: {yaml_line(name, e, tier, sector)}")
                 tried[name] = {"review": e}
@@ -274,7 +444,10 @@ def main():
                 flush(added, review, state)
                 added, review = [], []
     flush(added, review, state)
-    print(f"\nnot found ({len(missed)}): " + ", ".join(missed))
+    found = sum(1 for v in tried.values() if v and "review" not in v and "duplicate_of" not in v)
+    print(f"\nresolved this run: {done - len(missed)}  |  not found: {len(missed)}  |  "
+          f"total resolved so far: {found}")
+    print("not found: " + ", ".join(sorted(missed)))
 
 
 def flush(added, review, state):

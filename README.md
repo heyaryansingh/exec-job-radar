@@ -22,6 +22,10 @@ applications in the candidate's own browser, and leaves them for the candidate t
   system directly, so a full sweep takes minutes and costs nothing.
 - `config/search.yaml`: who the search is for (levels, keywords, pay, locations).
 - `config/companies.yaml`: the company watchlist. `tools/add_company.py` adds one from a URL.
+- `config/discover_seed.txt` + `tools/discover.py`: 1,300+ company names resolved automatically
+  to their career sites (direct API probes, the Common Crawl directory in
+  `tools/ats_directory.py`, then each company's own careers page).
+- `data/STATUS.md`: collector health at a glance.
 - `PLAYBOOK.md`: what the daily Claude run does, step by step.
 - `candidate_template/`: the files that live in the candidate's `Job Search` folder.
 - `tools/render_dashboard.py`: turns the tracker into the review page.

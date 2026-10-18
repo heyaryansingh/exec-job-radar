@@ -156,3 +156,33 @@ def test_add_company_parse():
 
 def test_html_to_text():
     assert html_to_text("<ul><li>A</li><li>B</li></ul>").splitlines() == ["- A", "- B"]
+
+
+def test_workday_falls_back_when_search_rejected(monkeypatch):
+    listing = {"jobPostings": [{"title": "Vice President, Cloud Engineering", "externalPath": "/job/A/VP_R9",
+                                "locationsText": "Dallas, TX", "postedOn": "Posted Today", "bulletFields": ["R9"]}]}
+
+    def get_json(s, url, method="GET", body=None, **kw):
+        if url.endswith("/jobs"):
+            if body["searchText"]:
+                raise RuntimeError("422 Client Error: Unprocessable Entity")
+            return listing
+        return {"jobPostingInfo": {"jobDescription": DESC}}
+
+    class S:
+        headers = {}
+    monkeypatch.setattr(sources, "get_json", get_json)
+    out = sources.workday({"name": "W", "host": "w.wd5.myworkdayjobs.com", "site": "Ext"}, S(), ctx())
+    assert [p.job_id for p in out] == ["R9"]
+
+
+def test_workday_raises_when_site_is_dead(monkeypatch):
+    def get_json(*a, **kw):
+        raise RuntimeError("404 Not Found")
+
+    class S:
+        headers = {}
+    monkeypatch.setattr(sources, "get_json", get_json)
+    import pytest
+    with pytest.raises(RuntimeError):
+        sources.workday({"name": "W", "host": "w.wd5.myworkdayjobs.com", "site": "Ext"}, S(), ctx())

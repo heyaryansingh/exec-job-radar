@@ -42,6 +42,15 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
 
 ## Step 1: Preflight
 
+- **One run at a time.** If `tracker.json` has `running_since` less than 2 hours old, another
+  run is in progress: end with one line saying so. Otherwise set `running_since` to now
+  (and clear it in Step 7).
+- **Protect the tracker.** If `tracker.json` does not parse, restore `tracker.backup.json`
+  and say so in the summary. Before the first write of this run, copy the current tracker
+  to `tracker.backup.json`.
+- **Time budget.** Aim to finish within about 75 minutes. If it is getting long, stop starting
+  new form fills; leave remaining picks as `prepared` (they are filled first next run).
+
 - Confirm the Job Search folder is reachable. If not, stop and end with one line saying the
   computer could not be reached.
 - Confirm the browser works (Claude in Chrome first; if it does not respond, use the built-in
@@ -53,9 +62,10 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
 
 1. **Collector feed (main source).** Read `data/latest.json` from the repo named in
    `candidate.yaml` → `run.repo` (raw URL:
-   `https://raw.githubusercontent.com/<repo>/main/data/latest.json`; for a private repo,
-   clone it). Note its `updated` time; if it is more than 6 hours old, say so in the
-   summary (the hourly collector may be failing).
+   `https://raw.githubusercontent.com/<repo>/main/data/latest.json`; if that fails, clone the
+   repo; for a private repo, clone it). Note its `updated` time; if it is more than 6 hours
+   old, say so in the summary and also read `data/STATUS.md` for the reason. If the feed
+   can't be read at all, continue with sources 2 and 3 and say so; never stop the run over it.
 2. **Job-alert emails** (if a Gmail connector is available and `run.read_job_alert_emails`
    is true). Search mail since the last run for alerts from LinkedIn, Indeed, eFinancialCareers,
    Ladders, ExecThread and similar. Turn each listed role into a candidate role (company,
@@ -71,7 +81,9 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
    `notes.md` such as "submitted Capital One". Mention interview requests at the top of the
    summary.
 
-Drop anything already in `tracker.json` (match on `uid`, or on company + title + city), any
+Drop anything already in `tracker.json` (match on `uid`, on the posting URL, or on company +
+title + city, ignoring case and punctuation, so the same role from two sources is never
+prepared twice), any
 company in `preferences.excluded_companies`, and anything the candidate ruled out in `notes.md`.
 
 ## Step 3: Rank
@@ -131,7 +143,8 @@ priorities) and use what you learn in the cover letter.
 
 ## Step 6: Fill the application (for each pick)
 
-1. Open the application link in a new tab.
+1. Re-check the tracker for this role (another source may have added it this run), then open
+   the application link in a new tab. If the posting is closed or gone, set `closed` and move on.
 2. If it needs sign-in or an account and the browser is not already signed in: status
    `needs_account`, note which site, move on.
 3. Fill every field from `candidate.yaml` and the materials. Upload `resume.pdf` (and the
@@ -148,12 +161,17 @@ Keep the tabs from this run grouped together if the browser supports it.
 
 ## Step 7: Update the tracker and dashboard
 
+**Save as you go**, not only at the end: write each role's tracker entry as soon as its
+status changes (scored, prepared, filled), so a run that is cut off never loses work or
+repeats it. Write to `tracker.tmp.json`, check it parses, then replace `tracker.json`.
+
 For each role touched, set in `tracker.json` → `roles[uid]`:
 `uid, company, title, location, url, apply_url, pay_text, pay_max, sector, posted_at,
 first_seen, claude_score, reason, status, status_at, folder, attention[], contacts[],
 source_label`.
 
-Append to `runs`: `{"at": "<local time>", "summary": "<one line>"}` (keep the last 60).
+Append to `runs`: `{"at": "<local time>", "summary": "<one line>"}` (keep the last 60), and
+clear `running_since`.
 
 Render the dashboard: run `python tools/render_dashboard.py tracker.json dashboard.html`
 from the repo (clone it into the workspace) against a copy of the tracker, then write the
@@ -166,6 +184,15 @@ End with 3-6 lines:
 - how many roles were ready to submit, with the top 3 (company, role, score);
 - anything that needs the candidate (accounts, questions, TODO fields);
 - whether the collector feed was fresh.
+
+## If something breaks mid-run
+
+- A site errors or hangs: skip that role (status stays `prepared`), keep going.
+- The browser disconnects: reconnect once; if it stays down, finish Steps 5 and 7 for the
+  rest without filling, and say so.
+- The folder becomes unreachable: stop, and say so in one line (nothing can be saved).
+- Anything else unexpected: save what is done, note it in the summary, and continue with the
+  next role. Never retry a form submission step; never click Submit to "test".
 
 ## Settings reference (`candidate.yaml` → `run`)
 

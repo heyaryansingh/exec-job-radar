@@ -172,7 +172,10 @@ def workday(c, s, ctx):
     public = c.get("public_base") or f"https://{host}/en-US/{site}"
     out, seen_paths = [], set()
     ok_calls, first_err = 0, None
-    for q in ctx.level_queries:
+    queries = list(ctx.level_queries)
+    tried_plain = False
+    while queries:
+        q = queries.pop(0)
         for offset in range(0, 200, 20):  # newest first; stop early on old jobs
             try:
                 data = get_json(s, f"{api}/jobs", method="POST", tries=2,
@@ -216,6 +219,11 @@ def workday(c, s, ctx):
                 out.append(p)
             if len(posts) < 20 or too_old >= 10:
                 break
+        if not queries and ok_calls == 0 and not tried_plain:
+            # some sites reject keyword search (HTTP 422); fall back to the plain newest-first list
+            tried_plain = True
+            s.headers["Accept-Language"] = "en-US"
+            queries = [""]
     if ok_calls == 0 and first_err:
         raise first_err
     return out

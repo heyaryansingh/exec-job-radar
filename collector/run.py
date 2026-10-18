@@ -37,6 +37,24 @@ def log(msg: str):
     print(msg, flush=True)
 
 
+def write_atomic(p: Path, text: str):
+    """Write via a temp file so a crash never leaves half-written JSON behind."""
+    tmp = p.with_suffix(p.suffix + ".tmp")
+    tmp.write_text(text)
+    tmp.replace(p)
+
+
+def _hours_since(iso) -> float:
+    if not iso:
+        return 1e9
+    try:
+        from datetime import datetime, timezone
+        t = datetime.fromisoformat(iso)
+        return (datetime.now(timezone.utc) - t).total_seconds() / 3600
+    except ValueError:
+        return 1e9
+
+
 def load_yaml(p: Path):
     return yaml.safe_load(p.read_text()) if p.exists() else None
 
@@ -57,6 +75,8 @@ def main(argv=None) -> int:
     ap.add_argument("--validate", action="store_true", help="report on every company entry")
     ap.add_argument("--dry-run", action="store_true", help="print results, write nothing")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--budget-minutes", type=float, default=40,
+                    help="stop starting new companies after this long (the hourly job must finish)")
     a = ap.parse_args(argv)
 
     cfg = load_yaml(Path(a.config))
@@ -77,9 +97,28 @@ def main(argv=None) -> int:
     hc = health.setdefault("companies", {})
 
     started = time.time()
-    results, errors = [], 0
+    results, errors, skipped_backoff, skipped_budget = [], 0, 0, 0
+    deadline = started + a.budget_minutes * 60
+
+    # Back off from broken sites: after 6 straight failures, only retry every 12 hours.
+    # Stalest companies go first so a slow run never starves the same ones twice.
+    def due(c):
+        h = hc.get(c["name"], {})
+        if a.validate or a.only or int(h.get("failures", 0)) < 6:
+            return True
+        return _hours_since(h.get("last_attempt")) >= 12
+
+    queue = []
+    for c in companies:
+        if due(c):
+            queue.append(c)
+        else:
+            skipped_backoff += 1
+    queue.sort(key=lambda c: hc.get(c["name"], {}).get("last_attempt", ""))
 
     def job(c):
+        if time.time() > deadline:
+            return None  # out of time; this company goes first next hour
         s = session()
         fn = ADAPTERS.get(c.get("ats", ""))
         if not fn:
@@ -87,22 +126,31 @@ def main(argv=None) -> int:
         return fn(c, s, ctx)
 
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
-        futs = {ex.submit(job, c): c for c in companies}
+        futs = {ex.submit(job, c): c for c in queue}
         for f in as_completed(futs):
             c = futs[f]
             h = hc.setdefault(c["name"], {})
             h["ats"] = c.get("ats")
             try:
                 got = f.result()
+                if got is None:
+                    skipped_budget += 1
+                    continue
                 results.extend(got)
-                h.update(ok=True, matched_titles=len(got), last_ok=now_iso(), failures=0, error="")
+                h.update(ok=True, matched_titles=len(got), last_ok=now_iso(), failures=0, error="",
+                         last_attempt=now_iso())
             except Exception as e:
                 errors += 1
-                h.update(ok=False, error=str(e)[:300], failures=int(h.get("failures", 0)) + 1)
+                h.update(ok=False, error=str(e)[:300], failures=int(h.get("failures", 0)) + 1,
+                         last_attempt=now_iso())
                 log(f"  ! {c['name']}: {str(e)[:160]}")
 
     if not a.no_boards and not a.only and not a.validate:
-        board = sweep(cfg, ctx, log)
+        try:
+            board = sweep(cfg, ctx, log) if time.time() < deadline + 300 else []
+        except Exception as e:  # never let the optional sweep sink the run
+            log(f"boards: failed ({e})")
+            board = []
         log(f"boards: {len(board)} senior titles")
         # skip board hits for companies already covered by their own ATS feed
         covered = {c["name"].lower() for c in companies}
@@ -142,6 +190,7 @@ def main(argv=None) -> int:
     summary = {
         "run_at": now_iso(), "seconds": round(time.time() - started),
         "companies": len(companies), "company_errors": errors,
+        "skipped_backoff": skipped_backoff, "skipped_out_of_time": skipped_budget,
         "senior_titles_seen": len(results), "new_roles": len(fresh),
         "dropped": dropped, "roles_in_latest": len(latest),
     }
@@ -150,7 +199,7 @@ def main(argv=None) -> int:
     if a.validate:
         health["last_validate"] = summary
         DATA.mkdir(exist_ok=True)
-        (DATA / "health.json").write_text(json.dumps(health, indent=1, sort_keys=True))
+        write_atomic(DATA / "health.json", json.dumps(health, indent=1, sort_keys=True))
         bad = {n: h for n, h in hc.items() if not h.get("ok")}
         log(f"\nVALIDATION: {len(companies) - len(bad)} ok, {len(bad)} failing")
         for n, h in sorted(bad.items()):
@@ -169,16 +218,44 @@ def main(argv=None) -> int:
         with open(DATA / "new" / f"{today}.jsonl", "a") as fh:
             for d in fresh:
                 fh.write(json.dumps(d) + "\n")
-    (DATA / "latest.json").write_text(json.dumps({"updated": now_iso(), "roles": latest}, indent=1))
+    write_atomic(DATA / "latest.json", json.dumps({"updated": now_iso(), "roles": latest}, indent=1))
     write_markdown(latest)
     # prune processed-uid memory after 120 days
     old = (date.today() - timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if v.get("first", today) >= old}
-    (DATA / "state.json").write_text(json.dumps({"seen": seen}))
+    write_atomic(DATA / "state.json", json.dumps({"seen": seen}))
     health["last_run"] = summary
-    (DATA / "health.json").write_text(json.dumps(health, indent=1, sort_keys=True))
-
+    write_status(health, latest)
+    write_atomic(DATA / "health.json", json.dumps(health, indent=1, sort_keys=True))
+    attempted = len(companies) - skipped_backoff - skipped_budget
+    if attempted >= 10 and errors > attempted * 0.5:
+        # Most sites failing at once points to something systemic (network, blocking, a
+        # code bug). Results are still saved, but the run is marked failed so GitHub emails
+        # the repo owner.
+        log(f"ERROR: {errors} of {attempted} companies failed")
+        return 1
     return 0
+
+
+def write_status(health, latest):
+    """data/STATUS.md: one glance at whether the collector is healthy."""
+    hc = health.get("companies", {})
+    ok = sum(1 for h in hc.values() if h.get("ok"))
+    failing = sorted(((n, h) for n, h in hc.items() if not h.get("ok")), key=lambda t: -int(t[1].get("failures", 0)))
+    run = health.get("last_run", {})
+    lines = ["# Collector status", "",
+             f"- Last run: {run.get('run_at', '?')} UTC, {run.get('seconds', '?')}s",
+             f"- Companies working: {ok} of {len(hc)}",
+             f"- New roles last run: {run.get('new_roles', 0)}; roles in feed: {len(latest)}",
+             f"- Skipped (backing off broken sites): {run.get('skipped_backoff', 0)}; "
+             f"ran out of time: {run.get('skipped_out_of_time', 0)}", ""]
+    if failing:
+        lines += ["## Failing companies", "", "| Company | Failures in a row | Last error |", "|---|---:|---|"]
+        for n, h in failing[:100]:
+            lines.append(f"| {n} | {h.get('failures', 0)} | {str(h.get('error', ''))[:100].replace('|', '/')} |")
+        lines += ["", "Fix an entry with tools/add_company.py, or add `disabled: true` to it in "
+                  "config/companies.yaml."]
+    write_atomic(DATA / "STATUS.md", "\n".join(lines) + "\n")
 
 
 def write_markdown(latest):
@@ -192,7 +269,7 @@ def write_markdown(latest):
         loc = (r.get("location") or "").replace("|", "/")[:40]
         lines.append(f"| {r.get('score', 0)} | {r['company']} | [{title}]({r['url']}) | {loc} | "
                      f"{pay} | {r.get('first_seen', '')[:10]} |")
-    (DATA / "latest.md").write_text("\n".join(lines) + "\n")
+    write_atomic(DATA / "latest.md", "\n".join(lines) + "\n")
 
 
 if __name__ == "__main__":

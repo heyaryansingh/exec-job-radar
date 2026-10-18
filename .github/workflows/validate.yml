@@ -32,5 +32,8 @@ jobs:
           git add data/health.json
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "health: validate companies"
-          git pull --rebase --autostash || true
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs && git push && exit 0
+            echo "push failed, retrying ($i)"; sleep $((i * 10))
+          done
+          exit 1

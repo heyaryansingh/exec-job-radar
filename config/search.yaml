@@ -1,0 +1,189 @@
+# Search rules for the hourly collector. Edit this file to retarget the search;
+# no code changes needed. Patterns are case-insensitive regular expressions.
+#
+# Current profile: senior technology leader (cloud, infrastructure, platform
+# engineering, SRE, enterprise architecture, AI platforms), Director and above,
+# $200K+ base, anywhere in the US or remote.
+
+# How far back a posting can be when first found, and how long a role stays in
+# data/latest.json for the Claude run to consider.
+max_age_days: 21
+keep_days: 10
+
+# Seniority. A title must match one include pattern and no exclude pattern.
+# Weight feeds the quick score (higher = more senior).
+levels:
+  include:
+    - {pattern: '\b(chief (technology|information|digital|data|architect|ai|platform)|cto|cio|cdo)\b', weight: 35}
+    - {pattern: '\b(svp|evp|senior vice president|executive vice president)\b', weight: 33}
+    - {pattern: '\b(managing director|executive director)\b', weight: 30}
+    - {pattern: '\b(vp|vice president)\b', weight: 28}
+    - {pattern: '\bhead of\b', weight: 28}
+    - {pattern: '\b(senior|sr\.?) director\b', weight: 25}
+    - {pattern: '\b(global|group) (technology|engineering|infrastructure) (lead|leader)\b', weight: 22}
+    - {pattern: '\bdirector\b', weight: 20}
+  exclude:
+    - '\b(assistant|associate) vice president\b'
+    - '\bavp\b'
+    - '\bassociate director\b'
+    - '\b(intern|internship|analyst|coordinator|specialist|recruiter)\b'
+    - '\bto the (vp|director|cto|cio)\b'          # "Executive Assistant to the VP"
+    - '\bexecutive assistant\b'
+    - '\bdirector of (nursing|pharmacy|sales|marketing)\b'
+
+# Search words used on career sites that support keyword search (Workday, Oracle,
+# SmartRecruiters). Each one is a separate query, newest postings first.
+level_queries:
+  - Vice President
+  - Director
+  - Head of
+  - Chief
+  - Executive Director
+  - Managing Director
+
+# Domain fit. A role passes if its title has a title keyword, OR its description has
+# at least `description_min_hits` description keywords.
+domain:
+  title_keywords:
+    - technology
+    - technical
+    - engineering
+    - infrastructure
+    - cloud
+    - platform
+    - platforms
+    - SRE
+    - site reliability
+    - reliability
+    - production
+    - architecture
+    - architect
+    - enterprise architecture
+    - devops
+    - observability
+    - middleware
+    - integration
+    - data
+    - AI
+    - artificial intelligence
+    - machine learning
+    - digital
+    - transformation
+    - modernization
+    - IT
+    - information technology
+    - systems
+    - software
+    - technology operations
+    - program management
+    - TPM
+    - cyber
+    - security
+  description_keywords:
+    - AWS
+    - Azure
+    - GCP
+    - Google Cloud
+    - Kubernetes
+    - cloud migration
+    - data center
+    - site reliability
+    - SRE
+    - observability
+    - incident management
+    - platform engineering
+    - infrastructure
+    - enterprise architecture
+    - middleware
+    - Kafka
+    - event streaming
+    - DevOps
+    - CI/CD
+    - modernization
+    - digital transformation
+    - agentic
+    - generative AI
+    - LLM
+    - machine learning
+    - regulated
+    - resiliency
+    - high availability
+    - mission-critical
+    - technology strategy
+  description_min_hits: 4
+  # Titles containing any of these are dropped even if they match a level.
+  exclude_title:
+    - sales
+    - account executive
+    - account management
+    - business development
+    - marketing
+    - brand
+    - communications
+    - human resources
+    - HR
+    - talent
+    - recruiting
+    - legal
+    - counsel
+    - compliance officer
+    - tax
+    - accounting
+    - controller
+    - treasury
+    - nursing
+    - clinical
+    - pharmacy
+    - medical
+    - physician
+    - real estate
+    - facilities
+    - construction
+    - store
+    - restaurant
+    - merchandising
+    - procurement
+    - supply chain
+    - manufacturing
+    - customer success
+    - wealth management advisor
+    - financial advisor
+    - investor relations
+    - fundraising
+    - development officer
+
+pay:
+  min_annual: 200000      # drop roles whose posted range tops out below this
+  drop_if_unknown: false  # most senior postings omit pay; keep them and let Claude judge
+
+location:
+  us_only: true
+  allow_remote: true
+  # Leave allowed_places empty to accept anywhere in the US (open to relocation).
+  # To restrict, list cities/states, e.g. [houston, texas, tx, remote].
+  allowed_places: []
+  preferred: [houston, texas, ", tx", remote]   # small score bonus
+
+# Companies never to show (e.g. a current employer during a confidential search).
+excluded_companies: []
+
+# Broad sweep of Indeed + Google Jobs for employers not on the watchlist.
+boards:
+  enabled: true
+  sites: [indeed, google]
+  hours_old: 24
+  results_per_search: 40
+  locations: ["United States"]
+  search_terms:
+    - Vice President Cloud Infrastructure
+    - VP Platform Engineering
+    - Head of Site Reliability Engineering
+    - Director Cloud Engineering
+    - Senior Director Infrastructure
+    - VP Technology Infrastructure
+    - Head of Enterprise Architecture
+    - Chief Technology Officer
+    - VP AI Platform
+    - Executive Director Technology
+    - Managing Director Technology Infrastructure
+    - Director Production Engineering

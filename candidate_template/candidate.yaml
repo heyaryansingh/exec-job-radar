@@ -1,0 +1,65 @@
+# Candidate profile. Claude fills application forms from this file, so every value
+# must be true. Anything marked TODO is left blank on forms and flagged for you.
+
+name: TODO
+preferred_name: ""
+email: TODO
+phone: TODO
+linkedin: TODO
+website: ""
+address:                  # some forms require a mailing address
+  street: TODO
+  city: TODO
+  state: TODO
+  zip: TODO
+  country: United States
+
+work_authorization:
+  authorized_to_work_in_us: TODO      # yes / no
+  requires_sponsorship: TODO          # yes / no
+
+# Direct factual questions on forms. Claude uses these answers exactly as written and
+# never improvises them. Leave TODO to have Claude flag the field for you instead.
+employment_answers:
+  currently_employed: TODO            # yes / no
+  current_or_most_recent_employer: TODO
+  current_or_most_recent_title: TODO
+  available_start: TODO               # e.g. "Immediately", "2 weeks' notice"
+  reason_for_leaving: TODO            # short and factual, or leave TODO to answer yourself
+
+education:                            # as on the resume
+  - {degree: TODO, field: TODO, school: TODO, year: ""}
+
+compensation:
+  desired_base: TODO                  # number, used when a form requires one
+  answer_text: "Open to discussing; targeting a total package in line with the scope of the role."
+
+relocation: yes                       # willing to relocate?
+remote_ok: yes
+how_did_you_hear_default: Company website
+
+self_id:                              # voluntary EEO questions
+  gender: Decline to answer
+  race_ethnicity: Decline to answer
+  veteran: Decline to answer
+  disability: Decline to answer
+
+preferences:
+  target_comp: 200000                 # minimum base salary of interest
+  target_sectors: []                  # e.g. [banking, fintech, energy, healthcare, cloud]
+  target_companies: []                # names to favor
+  excluded_companies: []              # never apply here
+  preferred_locations: []             # e.g. [Houston, Remote]
+
+writing:
+  tone: confident, plain, specific
+  avoid: [em dashes, buzzwords, "passionate", "synergy"]
+
+run:
+  repo: OWNER/exec-job-radar          # GitHub repo running the hourly collector
+  daily_target: 6
+  min_score: 72
+  max_per_company: 2
+  hot_run_min_score: 80
+  read_job_alert_emails: true
+  extra_career_sites: []              # [{name: Goldman Sachs, url: "https://higher.gs.com/results?..."}]

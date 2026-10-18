@@ -1,0 +1,136 @@
+# Company watchlist. The collector reads each company's own career site directly.
+#
+# Fields:
+#   name    display name
+#   ats     greenhouse | lever | ashby | smartrecruiters | workday | oracle
+#   slug    board name (greenhouse/lever/ashby/smartrecruiters)
+#   host, site   Workday or Oracle career-site host and site id
+#   tier    1 = top tier, 2 = strong, 3 = other (feeds the score)
+#   sector  free text, shown on the dashboard
+#   disabled: true   to pause an entry
+#
+# Easiest way to add a company: open one of its job postings in a browser, copy the
+# URL, and run   python tools/add_company.py "<url>" "Company Name" 1 bank
+# Entries were seeded from known career-site addresses; run the "Validate companies"
+# GitHub Action to see which ones respond, and fix or disable failures.
+
+# ---------------------------------------------------------------- banks & markets
+- {name: JPMorgan Chase, ats: oracle, host: jpmc.fa.oraclecloud.com, site: CX_1001, tier: 1, sector: bank}
+- {name: Capital One, ats: workday, host: capitalone.wd12.myworkdayjobs.com, site: Capital_One, tier: 1, sector: bank}
+- {name: Bank of America, ats: workday, host: ghr.wd1.myworkdayjobs.com, site: Lateral-US, tier: 1, sector: bank}
+- {name: Citi, ats: workday, host: citi.wd5.myworkdayjobs.com, site: "2", tier: 1, sector: bank}
+- {name: Wells Fargo, ats: workday, host: wd1.myworkdaysite.com, tenant: wf, site: WellsFargoJobs, public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs", tier: 1, sector: bank}
+- {name: Morgan Stanley, ats: workday, host: ms.wd5.myworkdayjobs.com, site: External, tier: 1, sector: bank}
+- {name: PNC, ats: workday, host: pnc.wd5.myworkdayjobs.com, site: External, tier: 2, sector: bank}
+- {name: Truist, ats: workday, host: truist.wd1.myworkdayjobs.com, site: Careers, tier: 2, sector: bank}
+- {name: U.S. Bank, ats: workday, host: usbank.wd1.myworkdayjobs.com, site: US_Bank_Careers, tier: 2, sector: bank}
+- {name: State Street, ats: workday, host: statestreet.wd1.myworkdayjobs.com, site: Global, tier: 1, sector: bank}
+- {name: Northern Trust, ats: workday, host: northerntrust.wd1.myworkdayjobs.com, site: northerntrust, tier: 2, sector: bank}
+- {name: BNY, ats: workday, host: bnymellon.wd1.myworkdayjobs.com, site: BNY_Careers, tier: 1, sector: bank}
+- {name: Mastercard, ats: workday, host: mastercard.wd1.myworkdayjobs.com, site: CorporateCareers, tier: 1, sector: payments}
+- {name: Visa, ats: smartrecruiters, slug: Visa, tier: 1, sector: payments}
+- {name: PayPal, ats: workday, host: paypal.wd1.myworkdayjobs.com, site: jobs, tier: 1, sector: payments}
+- {name: Fannie Mae, ats: workday, host: fanniemae.wd1.myworkdayjobs.com, site: FannieMaeCareers, tier: 2, sector: finance}
+- {name: Nasdaq, ats: workday, host: nasdaq.wd1.myworkdayjobs.com, site: Global_External_Site, tier: 1, sector: markets}
+- {name: CME Group, ats: workday, host: cmegroup.wd1.myworkdayjobs.com, site: cme_careers, tier: 1, sector: markets}
+
+# ---------------------------------------------------------------- asset management & insurance
+- {name: BlackRock, ats: workday, host: blackrock.wd1.myworkdayjobs.com, site: BlackRock_Professional, tier: 1, sector: asset management}
+- {name: Fidelity, ats: workday, host: fmr.wd1.myworkdayjobs.com, site: FidelityCareers, tier: 1, sector: asset management}
+- {name: Charles Schwab, ats: workday, host: schwab.wd1.myworkdayjobs.com, site: External, tier: 1, sector: asset management}
+- {name: T. Rowe Price, ats: workday, host: troweprice.wd5.myworkdayjobs.com, site: TRowePrice, tier: 2, sector: asset management}
+- {name: TIAA, ats: workday, host: tiaa.wd1.myworkdayjobs.com, site: Search, tier: 2, sector: asset management}
+- {name: Point72, ats: greenhouse, slug: point72, tier: 1, sector: hedge fund}
+- {name: USAA, ats: workday, host: usaa.wd1.myworkdayjobs.com, site: USAAJOBS, tier: 1, sector: insurance}
+- {name: Allstate, ats: workday, host: allstate.wd5.myworkdayjobs.com, site: allstate_careers, tier: 2, sector: insurance}
+- {name: Travelers, ats: workday, host: travelers.wd5.myworkdayjobs.com, site: External, tier: 2, sector: insurance}
+- {name: Prudential, ats: workday, host: pru.wd5.myworkdayjobs.com, site: Careers, tier: 2, sector: insurance}
+
+# ---------------------------------------------------------------- fintech
+- {name: Stripe, ats: greenhouse, slug: stripe, tier: 1, sector: fintech}
+- {name: Coinbase, ats: greenhouse, slug: coinbase, tier: 1, sector: fintech}
+- {name: Robinhood, ats: greenhouse, slug: robinhood, tier: 1, sector: fintech}
+- {name: Affirm, ats: greenhouse, slug: affirm, tier: 2, sector: fintech}
+- {name: Chime, ats: greenhouse, slug: chime, tier: 2, sector: fintech}
+- {name: SoFi, ats: greenhouse, slug: sofi, tier: 2, sector: fintech}
+- {name: Brex, ats: greenhouse, slug: brex, tier: 2, sector: fintech}
+- {name: Marqeta, ats: greenhouse, slug: marqeta, tier: 3, sector: fintech}
+- {name: Carta, ats: greenhouse, slug: carta, tier: 2, sector: fintech}
+- {name: Toast, ats: greenhouse, slug: toast, tier: 2, sector: fintech}
+- {name: Plaid, ats: lever, slug: plaid, tier: 2, sector: fintech}
+- {name: Ramp, ats: ashby, slug: ramp, tier: 2, sector: fintech}
+- {name: Mercury, ats: ashby, slug: mercury, tier: 3, sector: fintech}
+
+# ---------------------------------------------------------------- cloud, infrastructure & enterprise tech
+- {name: NVIDIA, ats: workday, host: nvidia.wd5.myworkdayjobs.com, site: NVIDIAExternalCareerSite, tier: 1, sector: tech}
+- {name: Salesforce, ats: workday, host: salesforce.wd12.myworkdayjobs.com, site: External_Career_Site, tier: 1, sector: tech}
+- {name: Adobe, ats: workday, host: adobe.wd5.myworkdayjobs.com, site: external_experienced, tier: 1, sector: tech}
+- {name: Intel, ats: workday, host: intel.wd1.myworkdayjobs.com, site: External, tier: 2, sector: tech}
+- {name: Dell Technologies, ats: workday, host: dell.wd1.myworkdayjobs.com, site: External, tier: 2, sector: tech}
+- {name: HPE, ats: workday, host: hpe.wd5.myworkdayjobs.com, site: Jobsathpe, tier: 2, sector: tech}
+- {name: HP, ats: workday, host: hp.wd5.myworkdayjobs.com, site: ExternalCareerSite, tier: 2, sector: tech}
+- {name: Broadcom, ats: workday, host: broadcom.wd1.myworkdayjobs.com, site: External_Career, tier: 1, sector: tech}
+- {name: Workday, ats: workday, host: workday.wd5.myworkdayjobs.com, site: Workday, tier: 1, sector: tech}
+- {name: CrowdStrike, ats: workday, host: crowdstrike.wd5.myworkdayjobs.com, site: crowdstrikecareers, tier: 1, sector: security}
+- {name: ServiceNow, ats: smartrecruiters, slug: ServiceNow, tier: 1, sector: tech}
+- {name: Motorola Solutions, ats: workday, host: motorolasolutions.wd5.myworkdayjobs.com, site: Careers, tier: 2, sector: tech}
+- {name: Databricks, ats: greenhouse, slug: databricks, tier: 1, sector: tech}
+- {name: Cloudflare, ats: greenhouse, slug: cloudflare, tier: 1, sector: tech}
+- {name: Datadog, ats: greenhouse, slug: datadog, tier: 1, sector: tech}
+- {name: MongoDB, ats: greenhouse, slug: mongodb, tier: 1, sector: tech}
+- {name: Okta, ats: greenhouse, slug: okta, tier: 2, sector: security}
+- {name: Twilio, ats: greenhouse, slug: twilio, tier: 2, sector: tech}
+- {name: GitLab, ats: greenhouse, slug: gitlab, tier: 2, sector: tech}
+- {name: Elastic, ats: greenhouse, slug: elastic, tier: 2, sector: tech}
+- {name: Grafana Labs, ats: greenhouse, slug: grafanalabs, tier: 2, sector: tech}
+- {name: Rubrik, ats: greenhouse, slug: rubrik, tier: 2, sector: tech}
+- {name: Zscaler, ats: greenhouse, slug: zscaler, tier: 2, sector: security}
+- {name: Pure Storage, ats: greenhouse, slug: purestorage, tier: 2, sector: tech}
+- {name: Samsara, ats: greenhouse, slug: samsara, tier: 2, sector: tech}
+- {name: PagerDuty, ats: greenhouse, slug: pagerduty, tier: 3, sector: tech}
+- {name: Fivetran, ats: greenhouse, slug: fivetran, tier: 3, sector: tech}
+- {name: Palantir, ats: lever, slug: palantir, tier: 1, sector: tech}
+- {name: Vercel, ats: ashby, slug: vercel, tier: 3, sector: tech}
+- {name: Retool, ats: ashby, slug: retool, tier: 3, sector: tech}
+
+# ---------------------------------------------------------------- AI
+- {name: Anthropic, ats: greenhouse, slug: anthropic, tier: 1, sector: AI}
+- {name: OpenAI, ats: ashby, slug: openai, tier: 1, sector: AI}
+- {name: Scale AI, ats: greenhouse, slug: scaleai, tier: 1, sector: AI}
+- {name: Notion, ats: ashby, slug: notion, tier: 2, sector: tech}
+- {name: Linear, ats: ashby, slug: linear, tier: 3, sector: tech}
+
+# ---------------------------------------------------------------- consumer & internet (large platforms)
+- {name: Airbnb, ats: greenhouse, slug: airbnb, tier: 1, sector: internet}
+- {name: Lyft, ats: greenhouse, slug: lyft, tier: 2, sector: internet}
+- {name: Dropbox, ats: greenhouse, slug: dropbox, tier: 2, sector: internet}
+- {name: Pinterest, ats: greenhouse, slug: pinterest, tier: 2, sector: internet}
+- {name: Reddit, ats: greenhouse, slug: reddit, tier: 2, sector: internet}
+- {name: Discord, ats: greenhouse, slug: discord, tier: 2, sector: internet}
+- {name: Figma, ats: greenhouse, slug: figma, tier: 2, sector: internet}
+- {name: Instacart, ats: greenhouse, slug: instacart, tier: 2, sector: internet}
+- {name: Roblox, ats: greenhouse, slug: roblox, tier: 2, sector: internet}
+- {name: Spotify, ats: lever, slug: spotify, tier: 1, sector: internet}
+- {name: Walmart, ats: workday, host: walmart.wd5.myworkdayjobs.com, site: WalmartExternal, tier: 1, sector: retail tech}
+- {name: Target, ats: workday, host: target.wd5.myworkdayjobs.com, site: targetcareers, tier: 1, sector: retail tech}
+- {name: Comcast, ats: workday, host: comcast.wd5.myworkdayjobs.com, site: Comcast_Careers, tier: 1, sector: telecom}
+- {name: Verizon, ats: workday, host: verizon.wd12.myworkdayjobs.com, site: verizon-careers, tier: 1, sector: telecom}
+- {name: Disney, ats: workday, host: disney.wd5.myworkdayjobs.com, site: disneycareer, tier: 1, sector: media}
+
+# ---------------------------------------------------------------- healthcare
+- {name: CVS Health, ats: workday, host: cvshealth.wd1.myworkdayjobs.com, site: CVS_Health_Careers, tier: 1, sector: healthcare}
+- {name: Humana, ats: workday, host: humana.wd5.myworkdayjobs.com, site: Humana_External_Career_Site, tier: 1, sector: healthcare}
+- {name: Elevance Health, ats: workday, host: elevancehealth.wd1.myworkdayjobs.com, site: ANT, tier: 1, sector: healthcare}
+- {name: Cigna, ats: workday, host: cigna.wd5.myworkdayjobs.com, site: cignacareers, tier: 1, sector: healthcare}
+- {name: Centene, ats: workday, host: centene.wd5.myworkdayjobs.com, site: Centene_External, tier: 2, sector: healthcare}
+- {name: Oscar Health, ats: greenhouse, slug: oscar, tier: 3, sector: healthcare}
+
+# ---------------------------------------------------------------- energy & industrial (Houston-heavy)
+- {name: Chevron, ats: workday, host: chevron.wd5.myworkdayjobs.com, site: jobs, tier: 1, sector: energy}
+- {name: Shell, ats: workday, host: shell.wd3.myworkdayjobs.com, site: ShellCareers, tier: 1, sector: energy}
+- {name: Baker Hughes, ats: workday, host: bakerhughes.wd5.myworkdayjobs.com, site: BakerHughes, tier: 1, sector: energy}
+- {name: General Motors, ats: workday, host: generalmotors.wd5.myworkdayjobs.com, site: Careers_GM, tier: 1, sector: industrial}
+- {name: Boeing, ats: workday, host: boeing.wd1.myworkdayjobs.com, site: EXTERNAL_CAREERS, tier: 1, sector: aerospace}
+- {name: Northrop Grumman, ats: workday, host: ngc.wd1.myworkdayjobs.com, site: Northrop_Grumman_External_Site, tier: 1, sector: aerospace}
+- {name: RTX, ats: workday, host: globalhr.wd5.myworkdayjobs.com, site: REC_RTX_Ext_Gateway, tier: 1, sector: aerospace}
+- {name: Anduril, ats: greenhouse, slug: anduril, tier: 2, sector: defense tech}

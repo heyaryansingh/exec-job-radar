@@ -1,0 +1,36 @@
+name: Validate companies
+
+# Run this by hand after editing config/companies.yaml. It checks every company's
+# career site and writes data/health.json; the log lists any entry that failed.
+on:
+  workflow_dispatch: {}
+  push:
+    paths: ["config/companies.yaml"]
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt pytest
+      - name: Unit tests
+        run: python -m pytest -q tests
+      - name: Check every company
+        run: python -m collector.run --validate
+      - name: Commit health report
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          git add data/health.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "health: validate companies"
+          git pull --rebase --autostash || true
+          git push

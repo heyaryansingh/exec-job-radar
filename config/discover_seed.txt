@@ -1360,3 +1360,9 @@ Marqeta | 3 | fintech
 Plaid | 2 | fintech
 Retool | 3 | tech
 Anduril | 2 | defense tech
+Walmart | 1 | retail tech
+Comcast | 1 | telecom
+Dell Technologies | 2 | tech
+Charles Schwab | 1 | asset management
+BNY | 1 | bank
+Northern Trust | 2 | bank

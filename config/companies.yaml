@@ -25,8 +25,6 @@
 - {name: Truist, ats: workday, host: truist.wd1.myworkdayjobs.com, site: Careers, tier: 2, sector: bank}
 - {name: U.S. Bank, ats: workday, host: usbank.wd1.myworkdayjobs.com, site: US_Bank_Careers, tier: 2, sector: bank}
 - {name: State Street, ats: workday, host: statestreet.wd1.myworkdayjobs.com, site: Global, tier: 1, sector: bank}
-- {name: Northern Trust, ats: workday, host: northerntrust.wd1.myworkdayjobs.com, site: northerntrust, tier: 2, sector: bank}
-- {name: BNY, ats: workday, host: bnymellon.wd1.myworkdayjobs.com, site: BNY_Careers, tier: 1, sector: bank}
 - {name: Mastercard, ats: workday, host: mastercard.wd1.myworkdayjobs.com, site: CorporateCareers, tier: 1, sector: payments}
 - {name: Visa, ats: smartrecruiters, slug: Visa, tier: 1, sector: payments}
 - {name: PayPal, ats: workday, host: paypal.wd1.myworkdayjobs.com, site: jobs, tier: 1, sector: payments}
@@ -37,7 +35,6 @@
 # ---------------------------------------------------------------- asset management & insurance
 - {name: BlackRock, ats: workday, host: blackrock.wd1.myworkdayjobs.com, site: BlackRock_Professional, tier: 1, sector: asset management}
 - {name: Fidelity, ats: workday, host: fmr.wd1.myworkdayjobs.com, site: FidelityCareers, tier: 1, sector: asset management}
-- {name: Charles Schwab, ats: workday, host: schwab.wd1.myworkdayjobs.com, site: External, tier: 1, sector: asset management}
 - {name: T. Rowe Price, ats: workday, host: troweprice.wd5.myworkdayjobs.com, site: TRowePrice, tier: 2, sector: asset management}
 - {name: TIAA, ats: workday, host: tiaa.wd1.myworkdayjobs.com, site: Search, tier: 2, sector: asset management}
 - {name: Point72, ats: greenhouse, slug: point72, tier: 1, sector: hedge fund}
@@ -63,7 +60,6 @@
 - {name: Salesforce, ats: workday, host: salesforce.wd12.myworkdayjobs.com, site: External_Career_Site, tier: 1, sector: tech}
 - {name: Adobe, ats: workday, host: adobe.wd5.myworkdayjobs.com, site: external_experienced, tier: 1, sector: tech}
 - {name: Intel, ats: workday, host: intel.wd1.myworkdayjobs.com, site: External, tier: 2, sector: tech}
-- {name: Dell Technologies, ats: workday, host: dell.wd1.myworkdayjobs.com, site: External, tier: 2, sector: tech}
 - {name: HPE, ats: workday, host: hpe.wd5.myworkdayjobs.com, site: Jobsathpe, tier: 2, sector: tech}
 - {name: HP, ats: workday, host: hp.wd5.myworkdayjobs.com, site: ExternalCareerSite, tier: 2, sector: tech}
 - {name: Broadcom, ats: workday, host: broadcom.wd1.myworkdayjobs.com, site: External_Career, tier: 1, sector: tech}
@@ -107,9 +103,7 @@
 - {name: Instacart, ats: greenhouse, slug: instacart, tier: 2, sector: internet}
 - {name: Roblox, ats: greenhouse, slug: roblox, tier: 2, sector: internet}
 - {name: Spotify, ats: lever, slug: spotify, tier: 1, sector: internet}
-- {name: Walmart, ats: workday, host: walmart.wd5.myworkdayjobs.com, site: WalmartExternal, tier: 1, sector: retail tech}
 - {name: Target, ats: workday, host: target.wd5.myworkdayjobs.com, site: targetcareers, tier: 1, sector: retail tech}
-- {name: Comcast, ats: workday, host: comcast.wd5.myworkdayjobs.com, site: Comcast_Careers, tier: 1, sector: telecom}
 - {name: Verizon, ats: workday, host: verizon.wd12.myworkdayjobs.com, site: verizon-careers, tier: 1, sector: telecom}
 - {name: Disney, ats: workday, host: disney.wd5.myworkdayjobs.com, site: disneycareer, tier: 1, sector: media}
 

@@ -151,6 +151,20 @@ domain:
     - investor relations
     - fundraising
     - development officer
+    - banker
+    - account director
+    - client director
+    - client partner
+    - relationship manager
+    - engineering manager
+    - go-to-market
+    - GTM
+    - partner manager
+    - customer engineer
+    - presales
+    - pre-sales
+    - field CTO
+    - solutions consultant
 
 pay:
   min_annual: 200000      # drop roles whose posted range tops out below this

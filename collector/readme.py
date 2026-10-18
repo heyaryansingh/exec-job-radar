@@ -83,9 +83,16 @@ def place(r) -> str:
     return text
 
 
+def is_new(r) -> bool:
+    """Found in the last 24h AND posted in the last 3 days (or posting date unknown)."""
+    if r.get("status") != "open" or not since(r.get("first_seen", ""), 24):
+        return False
+    return not r.get("posted_at") or age_days(r) <= 3
+
+
 def row(r, twins=None) -> str:
     badges = ""
-    if r.get("status") == "open" and since(r.get("first_seen", ""), 24):
+    if is_new(r):
         badges += "🆕 "
     if r.get("reposted"):
         badges += "🔁 "
@@ -122,7 +129,7 @@ def render(roles: list[dict], header: str, companies_watched: int, digest_links:
     open_roles.sort(key=lambda r: r.get("first_seen", ""), reverse=True)
     recent_closed = sorted((r for r in roles if r["status"] == "closed" and since(r.get("closed_at", ""), 24 * 14)),
                            key=lambda r: r.get("closed_at", ""), reverse=True)
-    new24 = [r for r in open_roles if since(r.get("first_seen", ""), 24)]
+    new24 = [r for r in open_roles if is_new(r)]
     twins = Counter(r.get("dup_key") for r in open_roles)
     by_cat: dict = {}
     for r in open_roles:
@@ -137,7 +144,7 @@ def render(roles: list[dict], header: str, companies_watched: int, digest_links:
            f"**{len(new24):,} new in the last 24 hours** · {companies_watched:,} company career sites "
            f"watched · updated hourly · last update {updated}", "",
            "By level: " + " · ".join(f"{k} {v}" for k, v in levels.most_common() if k), "",
-           "🆕 found in the last 24h · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · "
+           "🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · "
            "Age = days since posted (or first seen). Every link goes to the employer's own posting.", "",
            "## Contents", "",
            f"- [🆕 New in the last 24 hours ({len(new24)})](#{anchor('New in the last 24 hours')})"]

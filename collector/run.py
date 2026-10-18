@@ -99,6 +99,10 @@ def main(argv=None) -> int:
               max_age_days=rules.max_age)
     health = load_json(DATA / "health.json", {"companies": {}})
     hc = health.setdefault("companies", {})
+    if not a.only:  # forget companies removed from the watchlist
+        names = {c["name"] for c in companies}
+        for n in [n for n in hc if n not in names]:
+            del hc[n]
 
     started = time.time()
     results, errors, skipped_backoff, skipped_budget = [], 0, 0, 0
@@ -180,6 +184,14 @@ def main(argv=None) -> int:
     DATA.mkdir(exist_ok=True)
     store = Store(DATA / "roles.json")
     _migrate_latest(store)
+    # rule changes apply retroactively: drop listed roles the current rules reject
+    refiltered = 0
+    for uid, r in list(store.roles.items()):
+        if not rules.title_ok(r.get("title", "")) or norm_company(r["company"]) in \
+                {norm_company(x) for x in rules.excluded_companies}:
+            store._drop(uid)
+            seen[uid] = {"first": date.today().isoformat(), "pass": False}
+            refiltered += 1
     today = date.today().isoformat()
     outcome, dropped = {"new": 0, "merged": 0, "reposted": 0}, {}
     for p in results:
@@ -230,7 +242,7 @@ def main(argv=None) -> int:
         "skipped_backoff": skipped_backoff, "skipped_out_of_time": skipped_budget,
         "senior_titles_seen": len(results), "new_roles": outcome["new"] + outcome["reposted"],
         "merged_duplicates": outcome["merged"], "reposted": outcome["reposted"],
-        "closed_after_check": closed_checked, "dropped": dropped,
+        "closed_after_check": closed_checked, "removed_by_rule_change": refiltered, "dropped": dropped,
         "open_roles": len(open_roles), "roles_in_latest": len(latest),
     }
     log(json.dumps(summary, indent=2))

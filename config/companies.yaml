@@ -41,7 +41,6 @@
 - {name: T. Rowe Price, ats: workday, host: troweprice.wd5.myworkdayjobs.com, site: TRowePrice, tier: 2, sector: asset management}
 - {name: TIAA, ats: workday, host: tiaa.wd1.myworkdayjobs.com, site: Search, tier: 2, sector: asset management}
 - {name: Point72, ats: greenhouse, slug: point72, tier: 1, sector: hedge fund}
-- {name: USAA, ats: workday, host: usaa.wd1.myworkdayjobs.com, site: USAAJOBS, tier: 1, sector: insurance}
 - {name: Allstate, ats: workday, host: allstate.wd5.myworkdayjobs.com, site: allstate_careers, tier: 2, sector: insurance}
 - {name: Travelers, ats: workday, host: travelers.wd5.myworkdayjobs.com, site: External, tier: 2, sector: insurance}
 - {name: Prudential, ats: workday, host: pru.wd5.myworkdayjobs.com, site: Careers, tier: 2, sector: insurance}
@@ -54,10 +53,8 @@
 - {name: Chime, ats: greenhouse, slug: chime, tier: 2, sector: fintech}
 - {name: SoFi, ats: greenhouse, slug: sofi, tier: 2, sector: fintech}
 - {name: Brex, ats: greenhouse, slug: brex, tier: 2, sector: fintech}
-- {name: Marqeta, ats: greenhouse, slug: marqeta, tier: 3, sector: fintech}
 - {name: Carta, ats: greenhouse, slug: carta, tier: 2, sector: fintech}
 - {name: Toast, ats: greenhouse, slug: toast, tier: 2, sector: fintech}
-- {name: Plaid, ats: lever, slug: plaid, tier: 2, sector: fintech}
 - {name: Ramp, ats: ashby, slug: ramp, tier: 2, sector: fintech}
 - {name: Mercury, ats: ashby, slug: mercury, tier: 3, sector: fintech}
 
@@ -91,7 +88,6 @@
 - {name: Fivetran, ats: greenhouse, slug: fivetran, tier: 3, sector: tech}
 - {name: Palantir, ats: lever, slug: palantir, tier: 1, sector: tech}
 - {name: Vercel, ats: ashby, slug: vercel, tier: 3, sector: tech}
-- {name: Retool, ats: ashby, slug: retool, tier: 3, sector: tech}
 
 # ---------------------------------------------------------------- AI
 - {name: Anthropic, ats: greenhouse, slug: anthropic, tier: 1, sector: AI}
@@ -133,4 +129,3 @@
 - {name: Boeing, ats: workday, host: boeing.wd1.myworkdayjobs.com, site: EXTERNAL_CAREERS, tier: 1, sector: aerospace}
 - {name: Northrop Grumman, ats: workday, host: ngc.wd1.myworkdayjobs.com, site: Northrop_Grumman_External_Site, tier: 1, sector: aerospace}
 - {name: RTX, ats: workday, host: globalhr.wd5.myworkdayjobs.com, site: REC_RTX_Ext_Gateway, tier: 1, sector: aerospace}
-- {name: Anduril, ats: greenhouse, slug: anduril, tier: 2, sector: defense tech}

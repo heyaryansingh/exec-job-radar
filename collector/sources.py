@@ -171,10 +171,16 @@ def workday(c, s, ctx):
     api = f"https://{host}/wday/cxs/{tenant}/{site}"
     public = c.get("public_base") or f"https://{host}/en-US/{site}"
     out, seen_paths = [], set()
+    ok_calls, first_err = 0, None
     for q in ctx.level_queries:
         for offset in range(0, 200, 20):  # newest first; stop early on old jobs
-            data = get_json(s, f"{api}/jobs", method="POST",
-                            body={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q})
+            try:
+                data = get_json(s, f"{api}/jobs", method="POST", tries=2,
+                                body={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q})
+            except Exception as e:  # one bad page or query shouldn't sink the company
+                first_err = first_err or e
+                break
+            ok_calls += 1
             posts = data.get("jobPostings") or []
             too_old = 0
             for j in posts:
@@ -210,6 +216,8 @@ def workday(c, s, ctx):
                 out.append(p)
             if len(posts) < 20 or too_old >= 10:
                 break
+    if ok_calls == 0 and first_err:
+        raise first_err
     return out
 
 

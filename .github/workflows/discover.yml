@@ -1,0 +1,44 @@
+name: Discover companies
+
+# Resolves every name in config/discover_seed.txt to its career-site system and adds the
+# ones that respond to config/companies.yaml. Safe to re-run: names already tried are
+# skipped (delete data/discover_state.json to retry everything).
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max companies this run (0 = all)"
+        default: "0"
+  push:
+    paths: ["config/discover_seed.txt"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Discover
+        run: python tools/discover.py config/discover_seed.txt --limit "${{ github.event.inputs.limit || 0 }}"
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          git add config/companies.yaml data/discover_state.json data/discover_review.md 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "companies: discovered $(date -u +'%Y-%m-%d')"
+          git pull --rebase --autostash || true
+          git push

@@ -1,0 +1,1361 @@
+# Companies for tools/discover.py to resolve:  Name | tier | sector
+# tier 1 = top tier, 2 = strong, 3 = other. Add lines anytime and re-run "Discover companies".
+
+# ---------------- Banks, brokers, exchanges
+Goldman Sachs | 1 | bank
+American Express | 1 | bank
+Discover Financial | 1 | bank
+Synchrony | 2 | bank
+Ally Financial | 2 | bank
+Citizens Financial Group | 2 | bank
+KeyCorp | 2 | bank
+Regions Financial | 2 | bank
+Fifth Third Bank | 2 | bank
+M&T Bank | 2 | bank
+Huntington Bancshares | 2 | bank
+First Citizens Bank | 2 | bank
+Comerica | 2 | bank
+Zions Bancorporation | 3 | bank
+Frost Bank | 2 | bank
+Cadence Bank | 3 | bank
+Texas Capital Bank | 2 | bank
+Prosperity Bank | 3 | bank
+Amegy Bank | 3 | bank
+BOK Financial | 3 | bank
+First Horizon | 3 | bank
+Webster Bank | 3 | bank
+East West Bank | 3 | bank
+Western Alliance Bank | 3 | bank
+Popular Bank | 3 | bank
+Associated Bank | 3 | bank
+Synovus | 3 | bank
+Wintrust | 3 | bank
+Valley Bank | 3 | bank
+Flagstar Bank | 3 | bank
+HSBC | 1 | bank
+Barclays | 1 | bank
+Deutsche Bank | 1 | bank
+UBS | 1 | bank
+BNP Paribas | 1 | bank
+Societe Generale | 2 | bank
+MUFG | 1 | bank
+Mizuho | 1 | bank
+SMBC | 1 | bank
+TD Bank | 1 | bank
+RBC | 1 | bank
+BMO | 1 | bank
+Scotiabank | 2 | bank
+Santander | 1 | bank
+Credit Agricole CIB | 2 | bank
+Natixis | 2 | bank
+Nomura | 1 | bank
+Jefferies | 1 | bank
+Raymond James | 2 | bank
+Stifel | 2 | bank
+Piper Sandler | 3 | bank
+Lazard | 2 | bank
+Evercore | 2 | bank
+Houlihan Lokey | 3 | bank
+Interactive Brokers | 2 | brokerage
+LPL Financial | 2 | brokerage
+Edward Jones | 2 | brokerage
+Ameriprise Financial | 2 | brokerage
+Intercontinental Exchange | 1 | markets
+Cboe Global Markets | 2 | markets
+DTCC | 1 | markets
+Broadridge | 2 | markets
+SS&C Technologies | 2 | markets
+FactSet | 2 | markets
+Moody's | 1 | markets
+S&P Global | 1 | markets
+MSCI | 1 | markets
+Morningstar | 2 | markets
+Bloomberg | 1 | markets
+Thomson Reuters | 1 | markets
+LSEG | 1 | markets
+Tradeweb | 2 | markets
+MarketAxess | 2 | markets
+Virtu Financial | 2 | markets
+Citadel | 1 | hedge fund
+Citadel Securities | 1 | markets
+Two Sigma | 1 | hedge fund
+D. E. Shaw | 1 | hedge fund
+Bridgewater Associates | 1 | hedge fund
+Millennium Management | 1 | hedge fund
+AQR Capital Management | 1 | hedge fund
+Jane Street | 1 | markets
+Hudson River Trading | 1 | markets
+Jump Trading | 1 | markets
+DRW | 2 | markets
+Susquehanna International Group | 1 | markets
+Optiver | 2 | markets
+IMC Trading | 2 | markets
+Tower Research Capital | 2 | markets
+Man Group | 2 | hedge fund
+Balyasny Asset Management | 1 | hedge fund
+Schonfeld | 2 | hedge fund
+ExodusPoint | 2 | hedge fund
+Freddie Mac | 2 | finance
+Federal Reserve Bank of New York | 2 | finance
+Federal Reserve Bank of Dallas | 2 | finance
+Federal Home Loan Bank | 3 | finance
+Sallie Mae | 3 | finance
+Navient | 3 | finance
+Rocket Companies | 2 | finance
+Mr. Cooper | 2 | finance
+PennyMac | 3 | finance
+loanDepot | 3 | finance
+OneMain Financial | 3 | finance
+Santander Consumer USA | 3 | finance
+Credit Acceptance | 3 | finance
+Enova | 3 | fintech
+Navy Federal Credit Union | 2 | bank
+PenFed Credit Union | 3 | bank
+Pentagon Federal | 3 | bank
+BECU | 3 | bank
+
+# ---------------- Asset & wealth management, private equity
+Vanguard | 1 | asset management
+State Street Global Advisors | 1 | asset management
+Invesco | 2 | asset management
+Franklin Templeton | 2 | asset management
+Nuveen | 2 | asset management
+PIMCO | 1 | asset management
+Capital Group | 1 | asset management
+Wellington Management | 1 | asset management
+Dimensional Fund Advisors | 2 | asset management
+Northern Trust Asset Management | 2 | asset management
+Principal Financial Group | 2 | asset management
+Voya Financial | 2 | asset management
+Janus Henderson | 2 | asset management
+AllianceBernstein | 2 | asset management
+Federated Hermes | 3 | asset management
+Neuberger Berman | 2 | asset management
+Lord Abbett | 3 | asset management
+MFS Investment Management | 2 | asset management
+Putnam Investments | 3 | asset management
+American Century Investments | 3 | asset management
+Eaton Vance | 3 | asset management
+Victory Capital | 3 | asset management
+Blackstone | 1 | private equity
+KKR | 1 | private equity
+Apollo Global Management | 1 | private equity
+Carlyle | 1 | private equity
+Brookfield | 1 | private equity
+TPG | 1 | private equity
+Ares Management | 1 | private equity
+Blue Owl Capital | 2 | private equity
+Bain Capital | 1 | private equity
+Warburg Pincus | 2 | private equity
+Vista Equity Partners | 2 | private equity
+Thoma Bravo | 2 | private equity
+General Atlantic | 2 | private equity
+Silver Lake | 2 | private equity
+Hamilton Lane | 3 | private equity
+StepStone Group | 3 | private equity
+iCapital | 2 | fintech
+Addepar | 2 | fintech
+Envestnet | 2 | fintech
+SEI Investments | 2 | fintech
+Orion Advisor Solutions | 3 | fintech
+Wealthfront | 3 | fintech
+Betterment | 3 | fintech
+
+# ---------------- Insurance
+MetLife | 1 | insurance
+Progressive | 1 | insurance
+State Farm | 1 | insurance
+Liberty Mutual | 1 | insurance
+Nationwide | 1 | insurance
+Chubb | 1 | insurance
+AIG | 1 | insurance
+The Hartford | 2 | insurance
+Aflac | 2 | insurance
+Lincoln Financial | 2 | insurance
+New York Life | 1 | insurance
+Northwestern Mutual | 1 | insurance
+MassMutual | 1 | insurance
+Guardian Life | 2 | insurance
+Pacific Life | 2 | insurance
+Equitable | 2 | insurance
+Jackson Financial | 3 | insurance
+Brighthouse Financial | 3 | insurance
+Corebridge Financial | 2 | insurance
+Unum | 3 | insurance
+CNO Financial | 3 | insurance
+Globe Life | 3 | insurance
+Allianz | 1 | insurance
+AXA XL | 2 | insurance
+Zurich North America | 2 | insurance
+Swiss Re | 2 | insurance
+Munich Re | 2 | insurance
+Markel | 2 | insurance
+W. R. Berkley | 2 | insurance
+Cincinnati Financial | 3 | insurance
+Erie Insurance | 3 | insurance
+American Family Insurance | 2 | insurance
+Farmers Insurance | 2 | insurance
+Auto-Owners Insurance | 3 | insurance
+Hanover Insurance | 3 | insurance
+Selective Insurance | 3 | insurance
+Kemper | 3 | insurance
+Assurant | 2 | insurance
+Arch Capital | 2 | insurance
+Everest Group | 2 | insurance
+Marsh McLennan | 1 | insurance
+Aon | 1 | insurance
+Willis Towers Watson | 1 | insurance
+Gallagher | 2 | insurance
+Brown & Brown | 3 | insurance
+Lemonade | 3 | insurance
+Root Insurance | 3 | insurance
+Hippo | 3 | insurance
+Verisk | 2 | insurance
+Guidewire | 2 | insurance
+Duck Creek Technologies | 3 | insurance
+
+# ---------------- Payments & fintech
+Fiserv | 1 | payments
+FIS | 1 | payments
+Global Payments | 1 | payments
+Jack Henry | 2 | payments
+Block | 1 | fintech
+Square | 1 | fintech
+Adyen | 1 | payments
+Worldpay | 2 | payments
+Shift4 | 3 | payments
+Payoneer | 3 | payments
+Flywire | 3 | payments
+Bill.com | 2 | fintech
+Intuit | 1 | fintech
+Upstart | 3 | fintech
+LendingClub | 3 | fintech
+Klarna | 2 | fintech
+Circle | 2 | fintech
+Ripple | 2 | fintech
+Kraken | 2 | fintech
+Gemini | 3 | fintech
+Paxos | 3 | fintech
+Anchorage Digital | 3 | fintech
+Chainalysis | 3 | fintech
+Fireblocks | 3 | fintech
+Robinhood Markets | 1 | fintech
+Public.com | 3 | fintech
+Acorns | 3 | fintech
+Varo Bank | 3 | fintech
+Current | 3 | fintech
+Dave | 3 | fintech
+MoneyLion | 3 | fintech
+Greenlight | 3 | fintech
+Navan | 2 | fintech
+Rippling | 2 | fintech
+Gusto | 2 | fintech
+Deel | 2 | fintech
+Remote | 3 | fintech
+Papaya Global | 3 | fintech
+Alloy | 3 | fintech
+Socure | 3 | fintech
+Plaid Inc | 2 | fintech
+MX Technologies | 3 | fintech
+Q2 Holdings | 3 | fintech
+nCino | 2 | fintech
+Blend | 3 | fintech
+Better.com | 3 | fintech
+Figure Technologies | 3 | fintech
+Affirm Holdings | 2 | fintech
+Afterpay | 3 | fintech
+Sezzle | 3 | fintech
+AvidXchange | 3 | fintech
+Coupa | 2 | fintech
+Tipalti | 3 | fintech
+Airwallex | 2 | fintech
+Wise | 2 | fintech
+Revolut | 2 | fintech
+Nubank | 2 | fintech
+Stripe Inc | 1 | fintech
+Coinbase Global | 1 | fintech
+Carta Inc | 2 | fintech
+Pipe | 3 | fintech
+Mercury Technologies | 3 | fintech
+Brex Inc | 2 | fintech
+Ramp Business | 2 | fintech
+Chime Financial | 2 | fintech
+SoFi Technologies | 2 | fintech
+Green Dot | 3 | fintech
+Payward | 3 | fintech
+Checkout.com | 2 | payments
+Nium | 3 | payments
+Melio | 3 | fintech
+Lithic | 3 | fintech
+Unit | 3 | fintech
+Treasury Prime | 3 | fintech
+Modern Treasury | 3 | fintech
+Column | 3 | fintech
+
+# ---------------- Hyperscalers & big tech
+Amazon | 1 | tech
+Amazon Web Services | 1 | tech
+Microsoft | 1 | tech
+Google | 1 | tech
+Alphabet | 1 | tech
+Meta | 1 | tech
+Apple | 1 | tech
+Oracle | 1 | tech
+IBM | 1 | tech
+Cisco | 1 | tech
+SAP | 1 | tech
+Netflix | 1 | tech
+Uber | 1 | tech
+LinkedIn | 1 | tech
+Tesla | 1 | tech
+Snowflake | 1 | tech
+VMware | 2 | tech
+Red Hat | 1 | tech
+Akamai | 1 | tech
+Equinix | 1 | tech
+Digital Realty | 1 | tech
+Iron Mountain | 2 | tech
+Rackspace | 2 | tech
+DigitalOcean | 2 | tech
+Fastly | 2 | tech
+Kyndryl | 1 | tech
+DXC Technology | 2 | tech
+Unisys | 3 | tech
+Hitachi Vantara | 2 | tech
+Lenovo | 2 | tech
+NetApp | 1 | tech
+Nutanix | 1 | tech
+Cohesity | 2 | tech
+Veeam | 2 | tech
+Commvault | 2 | tech
+Western Digital | 2 | tech
+Seagate | 2 | tech
+Micron | 1 | tech
+Qualcomm | 1 | tech
+AMD | 1 | tech
+Texas Instruments | 1 | tech
+Applied Materials | 1 | tech
+Lam Research | 1 | tech
+KLA | 1 | tech
+Marvell | 1 | tech
+Analog Devices | 1 | tech
+Arm | 1 | tech
+Synopsys | 1 | tech
+Cadence Design Systems | 1 | tech
+Juniper Networks | 2 | tech
+Arista Networks | 1 | tech
+Ciena | 2 | tech
+F5 | 2 | tech
+Extreme Networks | 3 | tech
+Corning | 2 | tech
+Keysight | 2 | tech
+Teradyne | 2 | tech
+Zebra Technologies | 2 | tech
+Garmin | 2 | tech
+Logitech | 3 | tech
+Supermicro | 2 | tech
+Vertiv | 2 | tech
+CoreWeave | 1 | tech
+Lambda | 2 | tech
+Crusoe | 2 | tech
+Cerebras | 2 | tech
+Groq | 2 | tech
+SambaNova | 3 | tech
+
+# ---------------- Enterprise software & SaaS
+Atlassian | 1 | tech
+Autodesk | 1 | tech
+Intuit Inc | 1 | tech
+Zoom | 1 | tech
+Box | 2 | tech
+DocuSign | 2 | tech
+Dropbox Inc | 2 | tech
+HubSpot | 1 | tech
+Zendesk | 2 | tech
+Freshworks | 2 | tech
+Smartsheet | 2 | tech
+Asana | 2 | tech
+Monday.com | 2 | tech
+Miro | 2 | tech
+Canva | 2 | tech
+Airtable | 2 | tech
+Notion Labs | 2 | tech
+Confluent | 1 | tech
+HashiCorp | 1 | tech
+New Relic | 2 | tech
+Dynatrace | 1 | tech
+Splunk | 1 | tech
+Sumo Logic | 3 | tech
+Elastic NV | 2 | tech
+Couchbase | 3 | tech
+Cockroach Labs | 2 | tech
+Yugabyte | 3 | tech
+Redis | 2 | tech
+SingleStore | 3 | tech
+ClickHouse | 2 | tech
+Starburst | 3 | tech
+dbt Labs | 2 | tech
+Fivetran Inc | 2 | tech
+Informatica | 2 | tech
+Teradata | 2 | tech
+Cloudera | 2 | tech
+Alteryx | 3 | tech
+Tableau | 2 | tech
+ThoughtSpot | 3 | tech
+Sigma Computing | 3 | tech
+Domo | 3 | tech
+Qlik | 2 | tech
+MicroStrategy | 3 | tech
+Palantir Technologies | 1 | tech
+C3 AI | 2 | tech
+UiPath | 2 | tech
+Appian | 3 | tech
+Pegasystems | 2 | tech
+OutSystems | 3 | tech
+Mendix | 3 | tech
+JFrog | 2 | tech
+GitHub | 1 | tech
+CircleCI | 3 | tech
+Harness | 2 | tech
+LaunchDarkly | 3 | tech
+Postman | 2 | tech
+Kong | 3 | tech
+MuleSoft | 2 | tech
+Boomi | 2 | tech
+Workato | 3 | tech
+Celonis | 2 | tech
+Tanium | 2 | tech
+BMC Software | 2 | tech
+Ivanti | 3 | tech
+SolarWinds | 3 | tech
+Datadog Inc | 1 | tech
+PagerDuty Inc | 3 | tech
+Grafana | 2 | tech
+Chronosphere | 3 | tech
+Honeycomb | 3 | tech
+Sentry | 3 | tech
+Temporal Technologies | 3 | tech
+Vercel Inc | 3 | tech
+Netlify | 3 | tech
+Supabase | 3 | tech
+Neon | 3 | tech
+PlanetScale | 3 | tech
+MongoDB Inc | 1 | tech
+Twilio Inc | 2 | tech
+Okta Inc | 2 | tech
+Workiva | 3 | tech
+Veeva Systems | 1 | tech
+Tyler Technologies | 2 | tech
+Paycom | 2 | tech
+Paylocity | 2 | tech
+ADP | 1 | tech
+Paychex | 2 | tech
+Ceridian | 2 | tech
+Dayforce | 2 | tech
+UKG | 2 | tech
+Infor | 2 | tech
+Epicor | 3 | tech
+Blackbaud | 3 | tech
+Procore | 2 | tech
+Samsara Inc | 2 | tech
+Toast Inc | 2 | tech
+Shopify | 1 | tech
+BigCommerce | 3 | tech
+Squarespace | 3 | tech
+Wix | 3 | tech
+GoDaddy | 2 | tech
+Twilio Segment | 3 | tech
+Braze | 3 | tech
+Amplitude | 3 | tech
+Mixpanel | 3 | tech
+Qualtrics | 2 | tech
+Medallia | 3 | tech
+Sprinklr | 3 | tech
+Gong | 2 | tech
+Outreach | 3 | tech
+Highspot | 3 | tech
+Seismic | 3 | tech
+ZoomInfo | 2 | tech
+Clari | 3 | tech
+Zuora | 3 | tech
+Avalara | 3 | tech
+Anaplan | 2 | tech
+Workday Inc | 1 | tech
+ServiceNow Inc | 1 | tech
+Salesforce Inc | 1 | tech
+Adobe Inc | 1 | tech
+Intapp | 3 | tech
+Clio | 3 | tech
+Genesys | 2 | tech
+Five9 | 3 | tech
+NICE | 2 | tech
+Talkdesk | 3 | tech
+RingCentral | 2 | tech
+8x8 | 3 | tech
+Bandwidth | 3 | tech
+Sinch | 3 | tech
+Vonage | 3 | tech
+
+# ---------------- Security
+Palo Alto Networks | 1 | security
+Fortinet | 1 | security
+Zscaler Inc | 1 | security
+SentinelOne | 2 | security
+CrowdStrike Holdings | 1 | security
+Wiz | 1 | security
+Netskope | 2 | security
+Proofpoint | 2 | security
+Rapid7 | 2 | security
+Tenable | 2 | security
+Qualys | 3 | security
+CyberArk | 2 | security
+SailPoint | 2 | security
+Ping Identity | 3 | security
+1Password | 3 | security
+Snyk | 3 | security
+Arctic Wolf | 2 | security
+Abnormal Security | 3 | security
+Cloudflare Inc | 1 | security
+Check Point | 2 | security
+Trellix | 3 | security
+Mandiant | 2 | security
+Darktrace | 3 | security
+Illumio | 3 | security
+Lookout | 3 | security
+Okta Workforce | 3 | security
+Armis | 3 | security
+Axonius | 3 | security
+Vanta | 3 | security
+Drata | 3 | security
+Chainguard | 3 | security
+Cribl | 3 | security
+Securonix | 3 | security
+Exabeam | 3 | security
+Varonis | 3 | security
+OneTrust | 3 | security
+BeyondTrust | 3 | security
+Keeper Security | 3 | security
+Booz Allen Hamilton | 1 | consulting
+Leidos | 1 | defense
+SAIC | 2 | defense
+CACI | 2 | defense
+ManTech | 3 | defense
+Peraton | 2 | defense
+
+# ---------------- AI
+Anthropic PBC | 1 | AI
+Cohere | 2 | AI
+Mistral AI | 2 | AI
+Perplexity | 2 | AI
+xAI | 1 | AI
+Hugging Face | 2 | AI
+Scale | 1 | AI
+Databricks Inc | 1 | AI
+Glean | 2 | AI
+Harvey | 2 | AI
+Writer | 3 | AI
+Jasper | 3 | AI
+Runway | 3 | AI
+Anyscale | 3 | AI
+Together AI | 2 | AI
+Fireworks AI | 3 | AI
+Modal | 3 | AI
+Replit | 3 | AI
+Cursor | 2 | AI
+Anysphere | 2 | AI
+Cognition | 2 | AI
+Sierra | 2 | AI
+Decagon | 3 | AI
+Abridge | 2 | AI
+Hippocratic AI | 3 | AI
+Character.AI | 3 | AI
+Inflection AI | 3 | AI
+Adept | 3 | AI
+Pinecone | 3 | AI
+Weaviate | 3 | AI
+LangChain | 3 | AI
+Weights & Biases | 3 | AI
+Snorkel AI | 3 | AI
+Labelbox | 3 | AI
+Dataiku | 2 | AI
+DataRobot | 3 | AI
+H2O.ai | 3 | AI
+Domino Data Lab | 3 | AI
+SambaNova Systems | 3 | AI
+Etched | 3 | AI
+Physical Intelligence | 3 | AI
+Figure AI | 2 | AI
+Skild AI | 3 | AI
+Shield AI | 2 | defense tech
+Helsing | 3 | defense tech
+Saronic | 3 | defense tech
+Palantir Defense | 3 | defense tech
+
+# ---------------- Internet, media, consumer platforms
+Uber Technologies | 1 | internet
+DoorDash | 1 | internet
+Instacart Maplebear | 2 | internet
+Lyft Inc | 2 | internet
+Airbnb Inc | 1 | internet
+Booking Holdings | 1 | internet
+Expedia Group | 1 | internet
+Tripadvisor | 3 | internet
+eBay | 1 | internet
+Etsy | 2 | internet
+Wayfair | 2 | internet
+Chewy | 2 | internet
+Zillow | 2 | internet
+Redfin | 3 | internet
+Opendoor | 3 | internet
+Compass | 3 | internet
+CoStar Group | 2 | internet
+Yelp | 3 | internet
+Nextdoor | 3 | internet
+Snap | 1 | internet
+Pinterest Inc | 2 | internet
+Reddit Inc | 2 | internet
+Discord Inc | 2 | internet
+Roblox Corporation | 2 | internet
+Electronic Arts | 1 | internet
+Activision Blizzard | 2 | internet
+Take-Two Interactive | 2 | internet
+Epic Games | 2 | internet
+Riot Games | 2 | internet
+Unity | 2 | internet
+Spotify Technology | 1 | internet
+Warner Bros. Discovery | 1 | media
+Paramount | 1 | media
+NBCUniversal | 1 | media
+Fox Corporation | 2 | media
+Sony | 1 | media
+iHeartMedia | 3 | media
+The New York Times | 2 | media
+News Corp | 2 | media
+Dow Jones | 2 | media
+Gannett | 3 | media
+Peloton | 3 | internet
+Duolingo | 3 | internet
+Coursera | 3 | internet
+Chegg | 3 | internet
+Grubhub | 3 | internet
+Carvana | 2 | internet
+CarMax | 2 | retail
+Cars.com | 3 | internet
+Angi | 3 | internet
+Thumbtack | 3 | internet
+Match Group | 2 | internet
+Bumble | 3 | internet
+Grammarly | 3 | internet
+Canva Inc | 2 | internet
+Figma Inc | 2 | internet
+Calendly | 3 | internet
+Indeed | 1 | internet
+Glassdoor | 3 | internet
+ZipRecruiter | 3 | internet
+Upwork | 3 | internet
+Fiverr | 3 | internet
+
+# ---------------- Telecom
+AT&T | 1 | telecom
+T-Mobile | 1 | telecom
+Charter Communications | 1 | telecom
+Lumen Technologies | 2 | telecom
+Frontier Communications | 3 | telecom
+Cox Communications | 2 | telecom
+Altice USA | 3 | telecom
+DISH Network | 2 | telecom
+EchoStar | 2 | telecom
+Crown Castle | 2 | telecom
+American Tower | 1 | telecom
+SBA Communications | 3 | telecom
+Zayo | 3 | telecom
+Viasat | 3 | telecom
+Iridium | 3 | telecom
+
+# ---------------- Retail & consumer goods
+Amazon Retail | 3 | retail
+Costco | 1 | retail
+Home Depot | 1 | retail
+Lowe's | 1 | retail
+Kroger | 1 | retail
+Walgreens | 1 | retail
+Best Buy | 1 | retail
+Macy's | 2 | retail
+Nordstrom | 2 | retail
+Kohl's | 2 | retail
+Gap Inc | 2 | retail
+TJX Companies | 1 | retail
+Ross Stores | 2 | retail
+Dollar General | 2 | retail
+Dollar Tree | 2 | retail
+Albertsons | 2 | retail
+H-E-B | 1 | retail
+Publix | 2 | retail
+Ahold Delhaize USA | 2 | retail
+Walmart Global Tech | 1 | retail tech
+Sam's Club | 2 | retail
+7-Eleven | 2 | retail
+Starbucks | 1 | retail
+McDonald's | 1 | retail
+Chipotle | 2 | retail
+Yum! Brands | 2 | retail
+Domino's | 2 | retail
+Darden Restaurants | 3 | retail
+Nike | 1 | retail
+Lululemon | 2 | retail
+Under Armour | 3 | retail
+Ulta Beauty | 2 | retail
+Sephora | 2 | retail
+Bath & Body Works | 3 | retail
+Williams-Sonoma | 2 | retail
+RH | 3 | retail
+AutoZone | 2 | retail
+O'Reilly Auto Parts | 2 | retail
+Advance Auto Parts | 3 | retail
+Tractor Supply | 3 | retail
+PetSmart | 3 | retail
+Petco | 3 | retail
+Academy Sports + Outdoors | 3 | retail
+Dick's Sporting Goods | 2 | retail
+Procter & Gamble | 1 | consumer goods
+PepsiCo | 1 | consumer goods
+Coca-Cola | 1 | consumer goods
+Mondelez | 2 | consumer goods
+Kraft Heinz | 2 | consumer goods
+General Mills | 2 | consumer goods
+Kellanova | 3 | consumer goods
+Colgate-Palmolive | 2 | consumer goods
+Kimberly-Clark | 2 | consumer goods
+Estee Lauder | 2 | consumer goods
+Unilever | 1 | consumer goods
+Nestle USA | 2 | consumer goods
+Mars | 1 | consumer goods
+Anheuser-Busch | 2 | consumer goods
+Constellation Brands | 3 | consumer goods
+Tyson Foods | 2 | consumer goods
+Cargill | 1 | consumer goods
+ADM | 2 | consumer goods
+Sysco Corporation | 1 | consumer goods
+US Foods | 2 | consumer goods
+
+# ---------------- Healthcare, pharma, life sciences
+UnitedHealth Group | 1 | healthcare
+Optum | 1 | healthcare
+HCA Healthcare | 1 | healthcare
+Kaiser Permanente | 1 | healthcare
+Molina Healthcare | 2 | healthcare
+Blue Cross Blue Shield of Texas | 2 | healthcare
+Health Care Service Corporation | 2 | healthcare
+Highmark Health | 2 | healthcare
+Blue Shield of California | 2 | healthcare
+Florida Blue | 3 | healthcare
+Independence Blue Cross | 3 | healthcare
+Premera Blue Cross | 3 | healthcare
+CareFirst | 3 | healthcare
+Bright Health | 3 | healthcare
+Clover Health | 3 | healthcare
+Alignment Health | 3 | healthcare
+Devoted Health | 3 | healthcare
+Oscar | 3 | healthcare
+McKesson | 1 | healthcare
+Cardinal Health | 1 | healthcare
+Cencora | 1 | healthcare
+Labcorp | 2 | healthcare
+Quest Diagnostics | 2 | healthcare
+DaVita | 2 | healthcare
+Fresenius Medical Care | 2 | healthcare
+Tenet Healthcare | 2 | healthcare
+Community Health Systems | 3 | healthcare
+Universal Health Services | 3 | healthcare
+CommonSpirit Health | 2 | healthcare
+Ascension | 2 | healthcare
+Providence | 2 | healthcare
+Trinity Health | 3 | healthcare
+Advocate Health | 2 | healthcare
+Mayo Clinic | 1 | healthcare
+Cleveland Clinic | 1 | healthcare
+Johns Hopkins Medicine | 1 | healthcare
+Memorial Hermann | 2 | healthcare
+Houston Methodist | 2 | healthcare
+MD Anderson Cancer Center | 1 | healthcare
+Baylor Scott & White | 2 | healthcare
+Texas Children's Hospital | 2 | healthcare
+Mass General Brigham | 1 | healthcare
+NYU Langone | 2 | healthcare
+Northwell Health | 2 | healthcare
+Epic Systems | 1 | healthcare
+Oracle Health | 1 | healthcare
+athenahealth | 2 | healthcare
+Change Healthcare | 2 | healthcare
+Waystar | 3 | healthcare
+R1 RCM | 3 | healthcare
+Availity | 3 | healthcare
+Inovalon | 3 | healthcare
+Cotiviti | 3 | healthcare
+Komodo Health | 3 | healthcare
+Flatiron Health | 2 | healthcare
+Tempus AI | 2 | healthcare
+Doximity | 3 | healthcare
+Zocdoc | 3 | healthcare
+Teladoc Health | 2 | healthcare
+Hims & Hers | 3 | healthcare
+Ro | 3 | healthcare
+Lyra Health | 3 | healthcare
+Spring Health | 3 | healthcare
+Headspace | 3 | healthcare
+Maven Clinic | 3 | healthcare
+Cityblock Health | 3 | healthcare
+Included Health | 3 | healthcare
+Omada Health | 3 | healthcare
+Cedar | 3 | healthcare
+Pfizer | 1 | pharma
+Johnson & Johnson | 1 | pharma
+Merck | 1 | pharma
+AbbVie | 1 | pharma
+Bristol Myers Squibb | 1 | pharma
+Eli Lilly | 1 | pharma
+Amgen | 1 | pharma
+Gilead Sciences | 1 | pharma
+Regeneron | 1 | pharma
+Vertex Pharmaceuticals | 1 | pharma
+Moderna | 2 | pharma
+Biogen | 2 | pharma
+Novartis | 1 | pharma
+Roche | 1 | pharma
+Genentech | 1 | pharma
+AstraZeneca | 1 | pharma
+GSK | 1 | pharma
+Sanofi | 1 | pharma
+Novo Nordisk | 1 | pharma
+Bayer | 2 | pharma
+Takeda | 2 | pharma
+Thermo Fisher Scientific | 1 | life sciences
+Danaher | 1 | life sciences
+Abbott | 1 | medtech
+Medtronic | 1 | medtech
+Stryker | 1 | medtech
+Boston Scientific | 1 | medtech
+Becton Dickinson | 1 | medtech
+Intuitive Surgical | 1 | medtech
+Edwards Lifesciences | 2 | medtech
+Zimmer Biomet | 2 | medtech
+GE HealthCare | 1 | medtech
+Philips | 2 | medtech
+Siemens Healthineers | 2 | medtech
+Baxter | 2 | medtech
+Illumina | 2 | life sciences
+Agilent | 2 | life sciences
+IQVIA | 1 | life sciences
+ICON | 2 | life sciences
+Syneos Health | 3 | life sciences
+Medpace | 3 | life sciences
+Charles River Laboratories | 3 | life sciences
+
+# ---------------- Energy, utilities, chemicals (Houston-heavy)
+ExxonMobil | 1 | energy
+ConocoPhillips | 1 | energy
+Phillips 66 | 1 | energy
+Marathon Petroleum | 1 | energy
+Valero | 1 | energy
+Occidental Petroleum | 1 | energy
+EOG Resources | 1 | energy
+Devon Energy | 2 | energy
+Diamondback Energy | 2 | energy
+Coterra Energy | 2 | energy
+APA Corporation | 2 | energy
+Hess | 2 | energy
+Ovintiv | 3 | energy
+Chesapeake Energy | 2 | energy
+Expand Energy | 2 | energy
+BP | 1 | energy
+TotalEnergies | 1 | energy
+Equinor | 2 | energy
+Halliburton | 1 | energy
+SLB | 1 | energy
+NOV | 2 | energy
+TechnipFMC | 2 | energy
+Weatherford | 2 | energy
+KBR | 2 | energy
+Fluor | 2 | energy
+McDermott | 3 | energy
+Kinder Morgan | 1 | energy
+Enterprise Products Partners | 1 | energy
+Williams Companies | 1 | energy
+Energy Transfer | 1 | energy
+Targa Resources | 2 | energy
+Plains All American | 2 | energy
+ONEOK | 2 | energy
+Cheniere Energy | 1 | energy
+Sempra | 1 | utilities
+CenterPoint Energy | 1 | utilities
+NRG Energy | 1 | utilities
+Vistra | 1 | utilities
+Constellation Energy | 1 | utilities
+Exelon | 1 | utilities
+Duke Energy | 1 | utilities
+Southern Company | 1 | utilities
+Dominion Energy | 1 | utilities
+NextEra Energy | 1 | utilities
+American Electric Power | 1 | utilities
+Xcel Energy | 2 | utilities
+Entergy | 2 | utilities
+Edison International | 2 | utilities
+PG&E | 1 | utilities
+Consolidated Edison | 2 | utilities
+Public Service Enterprise Group | 2 | utilities
+FirstEnergy | 2 | utilities
+PPL | 2 | utilities
+Ameren | 2 | utilities
+DTE Energy | 2 | utilities
+CMS Energy | 3 | utilities
+WEC Energy Group | 3 | utilities
+Atmos Energy | 3 | utilities
+Oncor | 2 | utilities
+Calpine | 2 | utilities
+AES | 2 | utilities
+ERCOT | 2 | utilities
+Reliant Energy | 3 | utilities
+Direct Energy | 3 | utilities
+Dow | 1 | chemicals
+LyondellBasell | 1 | chemicals
+Chevron Phillips Chemical | 2 | chemicals
+Air Liquide | 2 | chemicals
+Linde | 1 | chemicals
+Air Products | 2 | chemicals
+DuPont | 2 | chemicals
+Celanese | 2 | chemicals
+Eastman Chemical | 2 | chemicals
+Westlake | 2 | chemicals
+Huntsman | 2 | chemicals
+Albemarle | 3 | chemicals
+Waste Management | 1 | industrial
+Republic Services | 2 | industrial
+Quanta Services | 2 | industrial
+Schneider Electric | 1 | industrial
+Siemens Energy | 1 | energy
+GE Vernova | 1 | energy
+Fervo Energy | 3 | energy
+Enphase Energy | 3 | energy
+First Solar | 3 | energy
+Sunrun | 3 | energy
+
+# ---------------- Industrial, aerospace, defense, automotive, logistics
+Lockheed Martin | 1 | aerospace
+General Dynamics | 1 | aerospace
+L3Harris | 1 | aerospace
+BAE Systems | 1 | aerospace
+Textron | 2 | aerospace
+Honeywell | 1 | industrial
+GE Aerospace | 1 | aerospace
+Caterpillar | 1 | industrial
+Deere & Company | 1 | industrial
+3M | 1 | industrial
+Emerson | 1 | industrial
+Rockwell Automation | 2 | industrial
+Eaton | 1 | industrial
+Johnson Controls | 2 | industrial
+Carrier | 2 | industrial
+Trane Technologies | 2 | industrial
+Otis | 2 | industrial
+Parker Hannifin | 2 | industrial
+Illinois Tool Works | 2 | industrial
+Cummins | 2 | industrial
+PACCAR | 2 | industrial
+Ford Motor Company | 1 | automotive
+Stellantis | 2 | automotive
+Toyota North America | 1 | automotive
+Honda | 2 | automotive
+Rivian | 2 | automotive
+Lucid Motors | 3 | automotive
+Waymo | 1 | automotive
+Zoox | 2 | automotive
+Aurora Innovation | 2 | automotive
+SpaceX | 1 | aerospace
+Blue Origin | 1 | aerospace
+Rocket Lab | 3 | aerospace
+Relativity Space | 3 | aerospace
+Axiom Space | 3 | aerospace
+Intuitive Machines | 3 | aerospace
+United Airlines | 1 | transportation
+American Airlines | 1 | transportation
+Delta Air Lines | 1 | transportation
+Southwest Airlines | 1 | transportation
+Alaska Airlines | 2 | transportation
+FedEx | 1 | logistics
+UPS | 1 | logistics
+C.H. Robinson | 2 | logistics
+XPO | 2 | logistics
+J.B. Hunt | 2 | logistics
+Union Pacific | 1 | transportation
+BNSF Railway | 1 | transportation
+CSX | 2 | transportation
+Norfolk Southern | 2 | transportation
+Flexport Inc | 3 | logistics
+Uber Freight | 3 | logistics
+Ryder | 3 | logistics
+Penske | 3 | logistics
+
+# ---------------- Consulting, services, real estate, government
+Accenture | 1 | consulting
+Deloitte | 1 | consulting
+PwC | 1 | consulting
+EY | 1 | consulting
+KPMG | 1 | consulting
+McKinsey & Company | 1 | consulting
+Boston Consulting Group | 1 | consulting
+Bain & Company | 1 | consulting
+Capgemini | 2 | consulting
+Cognizant | 2 | consulting
+Infosys | 2 | consulting
+Wipro | 2 | consulting
+Tata Consultancy Services | 2 | consulting
+HCLTech | 2 | consulting
+Tech Mahindra | 3 | consulting
+Genpact | 2 | consulting
+EPAM Systems | 2 | consulting
+Globant | 3 | consulting
+Slalom | 2 | consulting
+Thoughtworks | 2 | consulting
+Publicis Sapient | 2 | consulting
+West Monroe | 3 | consulting
+Protiviti | 2 | consulting
+Huron Consulting | 3 | consulting
+Guidehouse | 2 | consulting
+Gartner | 1 | consulting
+Forrester | 3 | consulting
+CBRE | 1 | real estate
+JLL | 1 | real estate
+Cushman & Wakefield | 2 | real estate
+Prologis | 1 | real estate
+Simon Property Group | 2 | real estate
+Hilton | 1 | hospitality
+Marriott International | 1 | hospitality
+Hyatt | 2 | hospitality
+MGM Resorts | 2 | hospitality
+Caesars Entertainment | 2 | hospitality
+Royal Caribbean | 2 | hospitality
+Carnival Corporation | 2 | hospitality
+Las Vegas Sands | 2 | hospitality
+Walt Disney Company | 1 | media
+Universal Parks | 2 | hospitality
+Fannie Mae Corporation | 3 | finance
+Federal Reserve Board | 2 | government
+U.S. Digital Service | 3 | government
+MITRE | 1 | government
+RAND Corporation | 2 | government
+
+# ---------------- Rest of the Fortune 500 (and near it)
+Berkshire Hathaway | 1 | conglomerate
+Berkshire Hathaway Energy | 2 | utilities
+General Electric | 1 | industrial
+Archer-Daniels-Midland | 2 | consumer goods
+Cardinal Health Inc | 1 | healthcare
+Centene Corporation | 2 | healthcare
+Elevance | 2 | healthcare
+Walgreens Boots Alliance | 1 | retail
+Energy Transfer LP | 2 | energy
+Bunge | 2 | consumer goods
+Nucor | 2 | industrial
+Steel Dynamics | 3 | industrial
+Cleveland-Cliffs | 3 | industrial
+U.S. Steel | 3 | industrial
+Alcoa | 3 | industrial
+Freeport-McMoRan | 2 | industrial
+Newmont | 2 | industrial
+International Paper | 2 | industrial
+WestRock | 3 | industrial
+Ball Corporation | 3 | industrial
+Sherwin-Williams | 2 | industrial
+PPG Industries | 2 | industrial
+Ecolab | 2 | industrial
+Whirlpool | 2 | industrial
+Stanley Black & Decker | 2 | industrial
+Dover | 3 | industrial
+Fortive | 2 | industrial
+AMETEK | 3 | industrial
+Xylem | 3 | industrial
+Jacobs | 2 | industrial
+AECOM | 2 | industrial
+Builders FirstSource | 3 | industrial
+D.R. Horton | 2 | real estate
+Lennar | 2 | real estate
+PulteGroup | 3 | real estate
+NVR | 3 | real estate
+Mohawk Industries | 3 | industrial
+Masco | 3 | industrial
+W.W. Grainger | 2 | industrial
+Fastenal | 3 | industrial
+WESCO International | 3 | industrial
+Arrow Electronics | 2 | tech
+Avnet | 2 | tech
+TD SYNNEX | 2 | tech
+CDW | 2 | tech
+Insight Enterprises | 3 | tech
+World Kinect | 3 | energy
+Jabil | 2 | tech
+Flex | 2 | tech
+Sanmina | 3 | tech
+Amphenol | 2 | tech
+TE Connectivity | 2 | tech
+Motorola Solutions Inc | 2 | tech
+Leidos Holdings | 2 | defense
+Huntington Ingalls Industries | 2 | defense
+Oshkosh | 3 | industrial
+Lear | 3 | automotive
+BorgWarner | 3 | automotive
+Aptiv | 2 | automotive
+Goodyear | 3 | automotive
+Penske Automotive Group | 3 | automotive
+AutoNation | 3 | automotive
+Lithia Motors | 3 | automotive
+Group 1 Automotive | 3 | automotive
+Hertz | 3 | transportation
+Avis Budget Group | 3 | transportation
+Performance Food Group | 3 | consumer goods
+Hormel Foods | 3 | consumer goods
+Conagra Brands | 3 | consumer goods
+J.M. Smucker | 3 | consumer goods
+Campbell's | 3 | consumer goods
+Hershey | 2 | consumer goods
+Keurig Dr Pepper | 2 | consumer goods
+Molson Coors | 3 | consumer goods
+Philip Morris International | 2 | consumer goods
+Altria | 2 | consumer goods
+Church & Dwight | 3 | consumer goods
+Clorox | 3 | consumer goods
+VF Corporation | 3 | retail
+PVH | 3 | retail
+Tapestry | 3 | retail
+Ralph Lauren | 3 | retail
+Hanesbrands | 3 | retail
+Foot Locker | 3 | retail
+Burlington Stores | 3 | retail
+Casey's | 3 | retail
+Murphy USA | 3 | retail
+BJ's Wholesale | 3 | retail
+Wayfair Inc | 3 | retail
+Qurate Retail | 3 | retail
+Dillard's | 3 | retail
+Genuine Parts | 3 | retail
+LKQ | 3 | retail
+Omnicom | 2 | media
+Interpublic Group | 2 | media
+Live Nation | 2 | media
+Electronic Arts Inc | 2 | media
+Netflix Inc | 1 | media
+Charter Spectrum | 3 | telecom
+Verizon Communications | 1 | telecom
+Lumen | 3 | telecom
+Aramark | 3 | services
+Cintas | 3 | services
+ABM Industries | 3 | services
+ManpowerGroup | 3 | services
+Robert Half | 3 | services
+Automatic Data Processing | 1 | tech
+Conduent | 3 | services
+Xerox | 3 | tech
+Pitney Bowes | 3 | tech
+NCR Voyix | 3 | tech
+NCR Atleos | 3 | tech
+Diebold Nixdorf | 3 | tech
+Leidos Health | 3 | healthcare
+Universal Health Realty | 3 | healthcare
+Henry Schein | 3 | healthcare
+Owens & Minor | 3 | healthcare
+Encompass Health | 3 | healthcare
+Select Medical | 3 | healthcare
+Labcorp Holdings | 3 | healthcare
+Zoetis | 2 | pharma
+Viatris | 2 | pharma
+Organon | 3 | pharma
+Perrigo | 3 | pharma
+Bio-Rad | 3 | life sciences
+Waters | 3 | life sciences
+Revvity | 3 | life sciences
+Avantor | 3 | life sciences
+West Pharmaceutical Services | 3 | life sciences
+ResMed | 2 | medtech
+Dexcom | 2 | medtech
+Insulet | 3 | medtech
+Hologic | 3 | medtech
+Teleflex | 3 | medtech
+Steris | 3 | medtech
+Solventum | 2 | medtech
+Elevance Health Inc | 3 | healthcare
+Loews | 2 | insurance
+American Financial Group | 3 | insurance
+Fidelity National Financial | 2 | insurance
+First American Financial | 3 | insurance
+Old Republic | 3 | insurance
+Reinsurance Group of America | 2 | insurance
+Genworth | 3 | insurance
+Primerica | 3 | insurance
+Ameriprise | 3 | asset management
+T. Rowe Price Group | 3 | asset management
+Northern Trust Corporation | 3 | bank
+Capital One Financial | 3 | bank
+Discover | 3 | bank
+Truist Financial | 3 | bank
+Citigroup | 3 | bank
+Bank of New York Mellon | 3 | bank
+Charles Schwab Corporation | 3 | bank
+CBRE Group | 3 | real estate
+Equity Residential | 3 | real estate
+AvalonBay | 3 | real estate
+Public Storage | 3 | real estate
+Welltower | 3 | real estate
+Ventas | 3 | real estate
+Realty Income | 3 | real estate
+Opendoor Technologies | 3 | real estate
+Expeditors | 3 | logistics
+GXO Logistics | 3 | logistics
+Old Dominion Freight Line | 3 | logistics
+Landstar | 3 | logistics
+Knight-Swift | 3 | logistics
+Matson | 3 | logistics
+JetBlue | 3 | transportation
+United Rentals | 2 | industrial
+Sunbelt Rentals | 3 | industrial
+Vulcan Materials | 3 | industrial
+Martin Marietta | 3 | industrial
+CRH | 3 | industrial
+Mosaic | 3 | chemicals
+CF Industries | 3 | chemicals
+Corteva | 2 | chemicals
+FMC | 3 | chemicals
+Graphic Packaging | 3 | industrial
+Packaging Corporation of America | 3 | industrial
+Sealed Air | 3 | industrial
+Berry Global | 3 | industrial
+Amcor | 3 | industrial
+Coherent | 2 | tech
+Lumentum | 3 | tech
+Skyworks | 2 | semiconductors
+Qorvo | 2 | semiconductors
+Microchip Technology | 2 | semiconductors
+ON Semiconductor | 2 | semiconductors
+NXP Semiconductors | 1 | semiconductors
+Infineon | 1 | semiconductors
+STMicroelectronics | 2 | semiconductors
+Renesas | 2 | semiconductors
+GlobalFoundries | 1 | semiconductors
+TSMC | 1 | semiconductors
+Samsung Semiconductor | 1 | semiconductors
+SK hynix America | 2 | semiconductors
+ASML | 1 | semiconductors
+Tokyo Electron | 2 | semiconductors
+Entegris | 3 | semiconductors
+MKS Instruments | 3 | semiconductors
+Onto Innovation | 3 | semiconductors
+Wolfspeed | 3 | semiconductors
+Lattice Semiconductor | 3 | semiconductors
+Monolithic Power Systems | 3 | semiconductors
+Silicon Labs | 3 | semiconductors
+Ambarella | 3 | semiconductors
+Rambus | 3 | semiconductors
+Credo | 3 | semiconductors
+Astera Labs | 2 | semiconductors
+SiTime | 3 | semiconductors
+Tenstorrent | 2 | semiconductors
+SiFive | 3 | semiconductors
+Ampere Computing | 2 | semiconductors
+Lightmatter | 3 | semiconductors
+Ayar Labs | 3 | semiconductors
+d-Matrix | 3 | semiconductors
+Rivos | 3 | semiconductors
+Graphcore | 3 | semiconductors
+Intel Corporation | 3 | semiconductors
+Broadcom Inc | 3 | semiconductors
+Google DeepMind | 1 | AI
+Meta AI | 3 | AI
+Microsoft AI | 3 | AI
+Safe Superintelligence | 2 | AI
+Thinking Machines Lab | 2 | AI
+Reflection AI | 3 | AI
+Magic | 3 | AI
+Poolside | 3 | AI
+Midjourney | 3 | AI
+ElevenLabs | 2 | AI
+Suno | 3 | AI
+Pika | 3 | AI
+Luma AI | 3 | AI
+Black Forest Labs | 3 | AI
+Stability AI | 3 | AI
+Nebius | 2 | AI
+Vast Data | 2 | AI
+Weka | 3 | AI
+DDN | 3 | AI
+Hebbia | 3 | AI
+Rogo | 3 | AI
+Clay | 3 | AI
+Hex | 3 | AI
+Tome | 3 | AI
+Moveworks | 3 | AI
+Aisera | 3 | AI
+Observe.AI | 3 | AI
+Uniphore | 3 | AI
+SoundHound | 3 | AI
+Cresta | 3 | AI
+ASAPP | 3 | AI
+Instabase | 3 | AI
+Hyperscience | 3 | AI
+Eightfold AI | 3 | AI
+Applied Intuition | 2 | AI
+Nuro Inc | 2 | AI
+Wayve | 3 | AI
+Anduril Industries | 3 | defense tech
+Sequoia Capital | 2 | venture capital
+Andreessen Horowitz | 1 | venture capital
+Accel | 2 | venture capital
+Lightspeed Venture Partners | 2 | venture capital
+Kleiner Perkins | 2 | venture capital
+Greylock | 3 | venture capital
+Benchmark | 3 | venture capital
+Insight Partners | 2 | private equity
+Tiger Global | 2 | private equity
+Coatue | 2 | private equity
+SoftBank Investment Advisers | 2 | private equity
+Advent International | 2 | private equity
+Hellman & Friedman | 2 | private equity
+Clayton Dubilier & Rice | 2 | private equity
+Leonard Green & Partners | 3 | private equity
+Platinum Equity | 3 | private equity
+Cerberus Capital Management | 3 | private equity
+Apollo | 3 | private equity
+Blackstone Inc | 3 | private equity
+EQT | 2 | private equity
+CVC Capital Partners | 2 | private equity
+Permira | 3 | private equity
+Francisco Partners | 3 | private equity
+Golub Capital | 3 | private equity
+HPS Investment Partners | 2 | private equity
+Sixth Street | 2 | private equity
+Oaktree Capital | 2 | private equity
+Fortress Investment Group | 2 | private equity
+Starwood Capital | 3 | private equity
+Elliott Management | 2 | hedge fund
+Renaissance Technologies | 2 | hedge fund
+Point72 Asset Management | 3 | hedge fund
+Viking Global | 3 | hedge fund
+Tudor Investment | 3 | hedge fund
+Marshall Wace | 3 | hedge fund
+Verition Fund Management | 3 | hedge fund
+Walleye Capital | 3 | hedge fund
+Squarepoint Capital | 2 | hedge fund
+Qube Research & Technologies | 2 | hedge fund
+Jump Crypto | 3 | markets
+Five Rings | 3 | markets
+Akuna Capital | 3 | markets
+Old Mission | 3 | markets
+Belvedere Trading | 3 | markets
+Peak6 | 3 | markets
+Wolverine Trading | 3 | markets
+Flow Traders | 3 | markets
+XTX Markets | 2 | markets
+
+# ---------------- re-resolve (first guesses failed)
+USAA | 1 | insurance
+Marqeta | 3 | fintech
+Plaid | 2 | fintech
+Retool | 3 | tech
+Anduril | 2 | defense tech

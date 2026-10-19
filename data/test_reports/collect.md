@@ -2,60 +2,56 @@
 
 ```
 {
- "run_at": "2026-10-19T21:19:06+00:00",
- "seconds": 258,
+ "run_at": "2026-10-19T21:59:25+00:00",
+ "seconds": 212,
  "companies": 499,
  "company_errors": 0,
- "skipped_backoff": 0,
+ "skipped_backoff": 30,
  "skipped_out_of_time": 0,
- "senior_titles_seen": 4757,
- "new_roles": 3,
+ "senior_titles_seen": 4752,
+ "new_roles": 4,
  "merged_duplicates": 0,
  "reposted": 0,
  "closed_after_check": 0,
- "removed_by_rule_change": 3,
- "open_roles": 1056,
- "roles_in_latest": 1056,
+ "removed_by_rule_change": 0,
+ "open_roles": 1070,
+ "roles_in_latest": 1070,
  "universe_boards": 600,
  "universe_polled_ok": 570,
- "universe_errors": 30,
+ "universe_errors": 0,
  "names_learned": 0,
- "employer_sites_found_on_boards": 132,
+ "employer_sites_found_on_boards": 159,
  "sources": {
-  "board-indeed (raw)": 280,
+  "board-indeed (raw)": 294,
   "themuse": 0,
   "adzuna": 0,
-  "senior titles from boards/aggregators": 109
+  "himalayas": 0,
+  "remotive": 0,
+  "usajobs": 0,
+  "jsearch": 0,
+  "senior titles from boards/aggregators": 114
  },
- "companies_with_open_roles": 408
+ "companies_with_open_roles": 414
 }
 ```
 
 ## Senior titles seen, by source
 
-- workday: 2058
-- greenhouse: 1289
+- workday: 2054
+- greenhouse: 1281
 - ashby: 574
-- oracle: 534
-- smartrecruiters: 162
-- board-indeed: 81
+- oracle: 536
+- smartrecruiters: 165
+- board-indeed: 83
 - lever: 59
 
-## Universe boards: 570 answered, 30 failed
+## Universe boards: 570 answered, 0 failed
 
-- 14 × 404 Client Error: Not Found for url: https://boards-api.gree
-- 2 × 404 Client Error: Not Found for url: https://api.ashbyhq.com
-- 2 × 422 Client Error: Unprocessable Entity for url: https://fran
-- 1 × 404 Client Error: Not Found for url: https://3m.wd1.myworkda
-- 1 × 404 Client Error: Not Found for url: https://awe.wd1.myworkd
-- 1 × 404 Client Error: Not Found for url: https://benchmark.wd1.m
-- 1 × 404 Client Error: Not Found for url: https://bjswholesaleclu
-- 1 × 404 Client Error: Not Found for url: https://cnx.wd1.myworkd
 
 ## Names learned (sample)
 
 
-## Roles from universe boards that pass the rules (106), sample
+## Roles from universe boards that pass the rules (108), sample
 
 | Score | Company | Role | Location | Pay |
 |---:|---|---|---|---|
@@ -90,10 +86,12 @@
 | 55 | Resolveai | [Head of Technical Support](https://jobs.ashbyhq.com/ResolveAI/992e652e-cc88-4d66-9071-a318b41ae920) | San Francisco |  |
 | 55 | Carrot | [Director, Information Security](https://job-boards.greenhouse.io/carrotfertility/jobs/6223408004) | Remote |  |
 | 55 | Cadence | [SerDes IP Systems Engineering Director](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Design-Engineering-Architect_R52908-1) | SAN JOSE | 331500 |
+| 55 | Iqvia | [Director, AI Platform Engineering & DevOps](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Director--AI-Platform-Engineering---DevOps_R1563456) | Wayne, PA, United States of America |  |
 | 54 | Acquisition.com | [Director of Data](https://jobs.ashbyhq.com/acquisition/3b5fb996-c60a-479b-846a-bf3182a84027) | Remote, USA  | 275000 |
 | 54 | Planet | [Director of Software Engineering, Analytics](https://job-boards.greenhouse.io/planetlabs/jobs/8249630) | Arlington, VA; Denver, CO | 225900 |
 | 54 | PAE | [Senior Director, Business System Strategy & Transformation](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-Remote/Senior-Director--Business-System-Strategy---Transformation_R0171879) | US-Remote |  |
 | 53 | Analogdevices | [Director of Systems Engineering](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-Milpitas-Tasman/Systems-Engineering-Manager_R266735) | US, CA, Milpitas, Tasman | 307740 |
+| 53 | Ascot Group | [Vice President, Infrastructure, Operations, & Services](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1068) | NEW YORK, NY, United States | 205000 |
 | 52 | Slash Financial | [Chief Information Security Officer](https://jobs.ashbyhq.com/slash-financial/aa0be8a3-00ea-4a9e-9484-58942c41c7f8) | San Francisco Office |  |
 | 52 | 6sense | [VP, Technology & Data Partnerships](https://boards.greenhouse.io/6sense/jobs/8273672?gh_jid=8273672) | San Francisco, California, United States |  |
 | 52 | Attentive | [Senior Director, Product Management (AI/ML)](https://job-boards.greenhouse.io/attentive/jobs/4415182009) | New York, NY | 352000 |
@@ -117,10 +115,8 @@
 | 48 | Mayor and City Council of Baltimore | [Director of IT Infrastructure (NCS) - BCIT](https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Director-of-IT-Infrastructure--NCS----BCIT_R0019853) | 401 E Fayette St |  |
 | 47 | Formlabs | [Head of Software Product Management](https://careers.formlabs.com/job/8273112/apply/?gh_jid=8273112) | Somerville, MA | 260000 |
 | 47 | Aspca | [Senior Director, IT Service Operations](https://aspca.wd1.myworkdayjobs.com/ASPCAWebsite/job/New-York-NY---8th-Avenue/Senior-Director--IT-Service-Operations_2026-616) | New York, NY - 8th Avenue | 200000 |
-| 47 | Flextronics | [Director, Engineering Labs & Validation Operations](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Director--Engineering-Labs---Validation-Operations_WD228493) | USA, TX, Austin |  |
-| 47 | Flir | [Director, Technology Strategy and Architecture](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Milpitas-CA/Director--Technology-Strategy-and-Architecture_REQ37248) | US - Milpitas, CA |  |
 
-## Roles from job boards / aggregators that pass (35), sample
+## Roles from job boards / aggregators that pass (36), sample
 
 | Source | Company | Role | Location |
 |---|---|---|---|
@@ -129,7 +125,6 @@
 | board-indeed | Apple | [Director, Evaluation and Quality Assurance, Services Special Projects](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200688194-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200688194-0836%2Fdirector-evaluation-and-quality-assurance-services-special-projects%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D5f6b2fcc-caac-11f1-8182-33e277e81f23%26rx_job%3D200688194-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261018T220404Z%26rx_vp%3Dcpc%26team%3DSFTWR) | Cupertino, CA, USA |
 | board-indeed | Avangrid | [Senior Director - Technology](https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Senior-Director---Technology_R-34509) | Orange, CT, USA |
 | board-indeed | BigHat Biosciences | [Director of Machine Learning](https://bighatbiosciences.pinpointhq.com/postings/0c79bfdf-a3f1-4e55-a1e4-93abb5930c45?utm_medium=job_board&utm_source=indeed) | San Mateo, CA, USA |
-| board-indeed | BMO Financial Group | [Director, Data Foundations, Automation & Infrastructure](https://bmo.wd3.myworkdayjobs.com/fr-CA/External/job/Chicago-IL-USA/Director--Data-Foundations--Automation---Infrastructure_R260029285) | Chicago, IL, USA |
 | board-indeed | Charles Schwab | [Head of Trading Technology (Director), Asset Management (Director, PL)](https://www.schwabjobs.com/job/chicago/head-of-trading-technology-director-asset-management-director-pl/33727/102169263728) | Chicago, IL, USA |
 | board-indeed | Cisco | [Director, Product Management](https://careers.cisco.com/global/en/job/2028398) | San Jose, CA, USA |
 | board-indeed | Cisco | [Director - ASIC Engineering (Technical Planning and Engineering Execution)](https://careers.cisco.com/global/en/job/2028602) | San Jose, CA, USA |
@@ -143,8 +138,9 @@
 | board-indeed | Merck | [Executive Director, AI Delivery Management](https://jobs.merck.com/us/en/job/R422940) | Rahway, NJ, USA |
 | board-indeed | MiniMed | [Director, Cyber Defense](https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/MiniMedCareers/job/Virtual-Minnesota-United-States-of-America/Director--Cyber-Defense_R-802217) | MN, USA |
 | board-indeed | Network Distribution | [Vice President, Business Technology Services](https://recruiting2.ultipro.com/NET1010NWRK/JobBoard/337433be-8153-4eda-8b37-455548451ef9/OpportunityDetail?opportunityId=888e0bae-0e04-4a24-a34c-24305c7d346b&postingId=a104f3d2-4548-4259-87c5-77a8c06627fa) | Schaumburg, IL, USA |
+| board-indeed | Osmose Utilities Services, Inc. | [Senior Director, Cyber Security](https://osmose.hrmdirect.com/employment/view.php?req=3844273&jbsrc=1014&location=df62579c-c73b-aecc-43d5-558d7165302e) | Atlanta, GA, USA |
 | board-indeed | Overwatch Mission Critical | [VP of Information Systems & Security](https://jobs.gem.com/overwatch/am9icG9zdDpXpvKaoJ2NrkqAtDjqtonp) | Austin, TX, USA |
-| board-indeed | Pacific Life | [Technology Transformation Director](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Transformation-Director_R17589-1) | Charlotte, NC, USA |
+| board-indeed | Pacific Life | [Technology Transformation Director](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Transformation-Director_R17589-1) | Omaha, NE, USA |
 | board-indeed | Pedestal Health | [Head of Technology](https://grnh.se/ycahr7vl8us) | Durham, NC, USA |
 | board-indeed | PGA TOUR Superstore | [Sr. Director, Digital & Ecommerce](https://pgatoursuperstore.wd12.myworkdayjobs.com/en-US/PGAT_SS/job/Store-Support-Center---Roswell-GA/Sr-Director--Digital---Ecommerce_JR7956) | Roswell, GA, USA |
 | board-indeed | Phykion | [Director of Scale-up Operations and Engineering](https://www.indeed.com/viewjob?jk=42281172359c57a7) | Calipatria, CA, USA |
@@ -152,75 +148,76 @@
 | board-indeed | Siemens Healthineers | [Head of IT DX Strategy & Management Services](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TAR-B/Head-of-IT-DX-Strategy---Management-Services_R-31383) | Remote, USA |
 | board-indeed | Starbucks | [director, AI Transformation](https://click.appcast.io/t/Umr0W6u0BxHM5m0M3KO0lograP_bCWe4X6Up5S_md1E=) | Seattle, WA, USA |
 | board-indeed | State of Wyoming | [WCCC Director of Information Technology 2026-02526](https://www.governmentjobs.com/careers/wyoming/jobs/5516302/wccc-director-of-information-technology-2026-02526) | Cheyenne, WY, USA |
+| board-indeed | TikTok USDS JV | [Head of Enterprise Security Engineering](https://careers.tiktokusds.com/usds/position/7697320918814198021/detail) | Washington, DC, USA |
 | board-indeed | Tiverton Advisors | [Vice President, Portfolio Technology Operations](https://jobs.smartrecruiters.com/TivertonAdvisors/744000156394225-vice-president-portfolio-technology-operations) | Los Angeles, CA, USA |
 | board-indeed | TransUnion | [Vice President, Artificial Intelligence Research & Development](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago---555-West-Adams-St/Vice-President--Artificial-Intelligence-Research---Development_19042485) | Chicago, IL, USA |
 | board-indeed | United Biosource Corporation | [Director, Software Engineering - Platform Development](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=90ee0c52-4563-4bbb-a44d-0a6cd6964c61&ccId=19000101_000001&jobId=593232&source=IN&lang=en_US) | Remote, USA |
 | board-indeed | Verustruct | [Head of Engineering](https://jobs.ashbyhq.com/verustruct/066cbb11-8a0a-4921-9596-47de948bff28?utm_source=p4jNLwy4oq) | Torrance, CA, USA |
-| board-indeed | Pacific Life | [Technology Transformation Director](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Transformation-Director_R17589-1) | Omaha, NE, USA |
-| board-indeed | Osmose Utilities Services, Inc. | [Senior Director, Cyber Security](https://osmose.hrmdirect.com/employment/view.php?req=3844273&jbsrc=1014&location=df62579c-c73b-aecc-43d5-558d7165302e) | Atlanta, GA, USA |
+| board-indeed | TikTok USDS JV | [Head of Enterprise Security Engineering](https://careers.tiktokusds.com/usds/position/7697324327176472837/detail) | San Jose, CA, USA |
+| board-indeed | TikTok USDS JV | [Head of IT](https://careers.tiktokusds.com/usds/position/7697315493053712693/detail) | San Jose, CA, USA |
 | board-indeed | Gallatin | [Senior Director, Solutions Architecture](https://jobs.ashbyhq.com/gallatin/a4c4fdf3-4247-4c65-a220-7738447429ec?utm_source=qZyxO8XDee) | El Segundo, CA, USA |
 
 ## Source log lines
 
 ```
 boards: 'Vice President Cloud Infrastructure' -> 5 results {'indeed': np.int64(5)}
-boards: 'VP Platform Engineering' -> 34 results {'indeed': np.int64(34)}
-boards: 'Head of Site Reliability Engineering' -> 7 results {'indeed': np.int64(7)}
-boards: 'Director Cloud Engineering' -> 36 results {'indeed': np.int64(36)}
+boards: 'VP Platform Engineering' -> 37 results {'indeed': np.int64(37)}
+boards: 'Head of Site Reliability Engineering' -> 9 results {'indeed': np.int64(9)}
+boards: 'Director Cloud Engineering' -> 40 results {'indeed': np.int64(40)}
 boards: 'Senior Director Infrastructure' -> 40 results {'indeed': np.int64(40)}
-boards: 'VP Technology Infrastructure' -> 24 results {'indeed': np.int64(24)}
+boards: 'VP Technology Infrastructure' -> 26 results {'indeed': np.int64(26)}
 boards: 'Head of Enterprise Architecture' -> 0 results
 boards: 'Chief Technology Officer' -> 2 results {'indeed': np.int64(2)}
 boards: 'VP AI Platform' -> 40 results {'indeed': np.int64(40)}
-boards: 'Executive Director Technology' -> 12 results {'indeed': np.int64(12)}
+boards: 'Executive Director Technology' -> 15 results {'indeed': np.int64(15)}
 boards: 'Managing Director Technology Infrastructure' -> 40 results {'indeed': np.int64(40)}
 boards: 'Director Production Engineering' -> 40 results {'indeed': np.int64(40)}
-themuse: page 1 returned 0 items of 149595 total
-boards/aggregators: {"board-indeed (raw)": 280, "themuse": 0, "adzuna": 0, "senior titles from boards/aggregators": 109}; employer sites found: 132
+themuse: page 1 returned 0 items of 149588 total
+boards/aggregators: {"board-indeed (raw)": 294, "themuse": 0, "adzuna": 0, "himalayas": 0, "remotive": 0, "usajobs": 0, "jsearch": 0, "senior titles from boards/aggregators": 114}; employer sites found: 159
 ```
 
 ## Universe sample by career-site type (answered / polled)
 
-- ashby: 193 / 195
-- greenhouse: 182 / 196
+- ashby: 192 / 194
+- greenhouse: 181 / 195
 - lever: 3 / 3
-- oracle: 2 / 2
-- smartrecruiters: 8 / 8
-- workday: 182 / 196
+- oracle: 4 / 4
+- smartrecruiters: 9 / 9
+- workday: 181 / 195
 
-Passing roles by type: ashby 10, greenhouse 27, smartrecruiters 2, workday 67
+Passing roles by type: ashby 10, greenhouse 27, smartrecruiters 2, workday 68, oracle 1
 
-## Employer career sites found in board results (132), sample
+## Employer career sites found in board results (159), sample
 
 - Tiverton Advisors: `{"ats": "smartrecruiters", "slug": "TivertonAdvisors"}`
 - STACK Infrastructure US: `{"ats": "workday", "host": "stackinfra.wd108.myworkdayjobs.com", "site": "STACK_AMER"}`
 - Orchard Marketing New York: `{"ats": "smartrecruiters", "slug": "Enero"}`
 - Cambria: `{"ats": "workday", "host": "cambria.wd1.myworkdayjobs.com", "site": "cambria_careers"}`
+- VALERIS: `{"ats": "workday", "host": "valeris.wd108.myworkdayjobs.com", "site": "Valeris"}`
 - Filevine: `{"ats": "lever", "slug": "filevine"}`
 - Mozilla Corporation: `{"ats": "greenhouse", "slug": "mozilla"}`
-- VALERIS: `{"ats": "workday", "host": "valeris.wd108.myworkdayjobs.com", "site": "Valeris"}`
+- Ascot Group: `{"ats": "oracle", "host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com", "site": "CX"}`
 - Xero: `{"ats": "ashby", "slug": "xero"}`
 - Trustly: `{"ats": "ashby", "slug": "trustly"}`
+- Amazon.com: `{"ats": "amazon"}`
+- Infoblox: `{"ats": "oracle", "host": "efpv.fa.us6.oraclecloud.com", "site": "CX_1"}`
 - APRIL: `{"ats": "ashby", "slug": "april"}`
 - LPL Financial: `{"ats": "workday", "host": "lplfinancial.wd1.myworkdayjobs.com", "site": "External"}`
 - Tutor Perini Corporation: `{"ats": "workday", "host": "tutorperini.wd12.myworkdayjobs.com", "site": "external"}`
 - NerdWallet: `{"ats": "ashby", "slug": "nerdwallet"}`
 - Rezolute: `{"ats": "lever", "slug": "rezolutebio"}`
-- Pacific Life: `{"ats": "workday", "host": "pacificlife.wd1.myworkdayjobs.com", "site": "PacificLifeCareers"}`
+- GSK: `{"ats": "phenom", "host": "jobs.gsk.com", "locale": "gb/en"}`
+- GSK: `{"ats": "phenom", "host": "jobs.gsk.com", "locale": "gb/en"}`
 - CRUSOE: `{"ats": "ashby", "slug": "Crusoe"}`
+- Pacific Life: `{"ats": "workday", "host": "pacificlife.wd1.myworkdayjobs.com", "site": "PacificLifeCareers"}`
 - Turner & Townsend Pty Limited: `{"ats": "smartrecruiters", "slug": "TurnerTownsend"}`
-- Raptive: `{"ats": "ashby", "slug": "raptive"}`
 - MiniMed: `{"ats": "workday", "host": "mdtkangaroo.wd108.myworkdayjobs.com", "site": "MiniMedCareers"}`
 - Jellyfish: `{"ats": "ashby", "slug": "jellyfishcareers"}`
+- Raptive: `{"ats": "ashby", "slug": "raptive"}`
 - Avangrid: `{"ats": "workday", "host": "iberdrola.wd3.myworkdayjobs.com", "site": "Iberdrola"}`
-- Wells Fargo: `{"ats": "workday", "host": "wd1.myworkdaysite.com", "tenant": "wf", "site": "WellsFargoJobs", "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs"}`
-- Vantage: `{"ats": "workday", "host": "vantagedc.wd1.myworkdayjobs.com", "site": "Vantage"}`
 - Slate Auto: `{"ats": "workday", "host": "recar.wd108.myworkdayjobs.com", "site": "SLATEcareers"}`
-- BMO Financial Group: `{"ats": "workday", "host": "bmo.wd3.myworkdayjobs.com", "site": "External"}`
+- Wells Fargo: `{"ats": "workday", "host": "wd1.myworkdaysite.com", "tenant": "wf", "site": "WellsFargoJobs", "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs"}`
 - Shine Early Learning: `{"ats": "workday", "host": "acelero.wd1.myworkdayjobs.com", "site": "ShineEarlyLearningCareers"}`
 - Salesforce: `{"ats": "workday", "host": "salesforce.wd12.myworkdayjobs.com", "site": "External_Career_Site"}`
-- Gallatin: `{"ats": "ashby", "slug": "gallatin"}`
-- NVIDIA: `{"ats": "workday", "host": "nvidia.wd5.myworkdayjobs.com", "site": "NVIDIAExternalCareerSite"}`
-- Visa: `{"ats": "workday", "host": "visa.wd5.myworkdayjobs.com", "site": "Visa"}`
 
-Wall time: 259s
+Wall time: 213s

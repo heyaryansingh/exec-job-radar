@@ -431,6 +431,24 @@
 "host": "eofe.fa.us2.oraclecloud.com",
 "name": "BNY",
 "site": "CX_3001"
+},
+{
+"ats": "phenom",
+"host": "jobs.thecignagroup.com",
+"locale": "us/en",
+"name": "The Cigna Group"
+},
+{
+"ats": "workday",
+"host": "tsys.wd1.myworkdayjobs.com",
+"name": "Global Payments",
+"site": "TSYS"
+},
+{
+"ats": "workday",
+"host": "plugpower.wd5.myworkdayjobs.com",
+"name": "Plug Power Inc",
+"site": "Plug_Power_Inc"
 }
 ]
 }

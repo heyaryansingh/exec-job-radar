@@ -8,6 +8,7 @@ logged and skipped so an outage at one source never affects the run.
 from __future__ import annotations
 
 import os
+from datetime import datetime, timezone
 
 from .common import Posting, get_json, html_to_text, session
 
@@ -88,14 +89,175 @@ def adzuna(cfg: dict, ctx, log) -> list[Posting]:
     return out
 
 
-SOURCES = {"themuse": themuse, "adzuna": adzuna}
+def himalayas(cfg: dict, ctx, log) -> list[Posting]:
+    """Remote jobs (himalayas.app public API, no key)."""
+    a = (cfg.get("aggregators") or {}).get("himalayas") or {}
+    if not a.get("enabled", True):
+        return []
+    s = session()
+    out = []
+    for offset in range(0, int(a.get("max", 500)), 100):
+        try:
+            d = get_json(s, "https://himalayas.app/jobs/api", tries=2, params={"limit": 100, "offset": offset})
+        except Exception as e:
+            log(f"himalayas: failed ({e})")
+            break
+        jobs = d.get("jobs") or []
+        for j in jobs:
+            title = j.get("title") or ""
+            if not ctx.title_ok(title):
+                continue
+            locs = j.get("locationRestrictions") or []
+            loc = "Remote" + (f" ({', '.join(locs)})" if locs else "")
+            p = Posting(source="himalayas", company=j.get("companyName") or "Unknown",
+                        job_id=str(j.get("guid") or j.get("applicationLink")), title=title.strip(),
+                        url=j.get("applicationLink") or "", location=loc, remote=True,
+                        posted_at=_epoch_date(j.get("pubDate")), description=html_to_text(j.get("description")), tier=3)
+            if j.get("maxSalary"):
+                p.pay_max, p.pay_min = int(j["maxSalary"]), int(j["minSalary"]) if j.get("minSalary") else None
+                p.pay_text = "posted range"
+            p.fill_pay_from_text()
+            out.append(p)
+        if len(jobs) < 100:
+            break
+    return out
 
 
-def collect(cfg: dict, ctx, log) -> tuple[list[Posting], dict]:
+def remotive(cfg: dict, ctx, log) -> list[Posting]:
+    """Remote jobs (remotive.com public API; they ask for at most a few calls a day)."""
+    a = (cfg.get("aggregators") or {}).get("remotive") or {}
+    if not a.get("enabled", True):
+        return []
+    s = session()
+    out = []
+    for cat in a.get("categories") or ["software-dev", "devops", "data"]:
+        try:
+            d = get_json(s, "https://remotive.com/api/remote-jobs", tries=1, params={"category": cat})
+        except Exception as e:
+            log(f"remotive: {cat} failed ({e})")
+            continue
+        for j in d.get("jobs") or []:
+            title = j.get("title") or ""
+            if not ctx.title_ok(title):
+                continue
+            p = Posting(source="remotive", company=j.get("company_name") or "Unknown", job_id=str(j.get("id")),
+                        title=title.strip(), url=j.get("url") or "",
+                        location="Remote" + (f" ({j['candidate_required_location']})"
+                                             if j.get("candidate_required_location") else ""),
+                        remote=True, posted_at=(j.get("publication_date") or "")[:10] or None,
+                        description=html_to_text(j.get("description")), tier=3)
+            p.fill_pay_from_text()
+            out.append(p)
+    return out
+
+
+def usajobs(cfg: dict, ctx, log) -> list[Posting]:
+    """Federal roles incl. Senior Executive Service (official API; free key: set
+    USAJOBS_API_KEY and USAJOBS_EMAIL secrets)."""
+    a = (cfg.get("aggregators") or {}).get("usajobs") or {}
+    key, email = os.environ.get("USAJOBS_API_KEY"), os.environ.get("USAJOBS_EMAIL")
+    if not a.get("enabled", True) or not (key and email):
+        return []
+    s = session()
+    s.headers.update({"Authorization-Key": key, "User-Agent": email, "Host": "data.usajobs.gov"})
+    out = []
+    for kw in a.get("keywords") or ["information technology", "chief information officer", "cloud",
+                                    "cybersecurity", "data"]:
+        try:
+            d = get_json(s, "https://data.usajobs.gov/api/search", tries=2, params={
+                "Keyword": kw, "DatePosted": 3, "ResultsPerPage": 250,
+                "RemunerationMinimumAmount": int(cfg.get("pay", {}).get("min_annual", 0)) or None})
+        except Exception as e:
+            log(f"usajobs: '{kw}' failed ({e})")
+            continue
+        for item in ((d.get("SearchResult") or {}).get("SearchResultItems") or []):
+            j = item.get("MatchedObjectDescriptor") or {}
+            title = j.get("PositionTitle") or ""
+            if not ctx.title_ok(title) and "senior executive" not in str(j).lower():
+                continue
+            pay = (j.get("PositionRemuneration") or [{}])[0]
+            p = Posting(source="usajobs", company=j.get("OrganizationName") or "US Government",
+                        job_id=str(j.get("PositionID") or item.get("MatchedObjectId")), title=title.strip(),
+                        url=j.get("PositionURI") or "", location=j.get("PositionLocationDisplay") or "",
+                        posted_at=(j.get("PublicationStartDate") or "")[:10] or None,
+                        description=html_to_text(((j.get("UserArea") or {}).get("Details") or {}).get("JobSummary")),
+                        tier=2)
+            try:
+                p.pay_max, p.pay_min = int(float(pay.get("MaximumRange"))), int(float(pay.get("MinimumRange")))
+                p.pay_text = "posted range"
+            except (TypeError, ValueError):
+                pass
+            out.append(p)
+    return out
+
+
+def jsearch(cfg: dict, ctx, log) -> list[Posting]:
+    """JSearch (RapidAPI): a licensed Google-for-Jobs feed that includes roles posted on
+    LinkedIn, Indeed, Glassdoor, ZipRecruiter and employer sites. Needs RAPIDAPI_KEY;
+    the free tier allows ~200 calls a month, so it runs a few queries once a day."""
+    a = (cfg.get("aggregators") or {}).get("jsearch") or {}
+    key = os.environ.get("RAPIDAPI_KEY")
+    if not a.get("enabled", True) or not key:
+        return []
+    s = session()
+    s.headers.update({"X-RapidAPI-Key": key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"})
+    out = []
+    for q in a.get("queries") or ["vice president technology in USA", "director cloud infrastructure in USA",
+                                  "head of engineering in USA", "chief technology officer in USA"]:
+        try:
+            d = get_json(s, "https://jsearch.p.rapidapi.com/search", tries=2,
+                         params={"query": q, "date_posted": "today", "num_pages": int(a.get("pages", 1)),
+                                 "country": "us"})
+        except Exception as e:
+            log(f"jsearch: '{q}' failed ({e})")
+            continue
+        for j in d.get("data") or []:
+            title = j.get("job_title") or ""
+            if not ctx.title_ok(title):
+                continue
+            loc = ", ".join(x for x in [j.get("job_city"), j.get("job_state")] if x) or (j.get("job_country") or "")
+            p = Posting(source="jsearch", company=j.get("employer_name") or "Unknown", job_id=str(j.get("job_id")),
+                        title=title.strip(), url=j.get("job_apply_link") or j.get("job_google_link") or "",
+                        location=loc, remote=bool(j.get("job_is_remote")),
+                        posted_at=(j.get("job_posted_at_datetime_utc") or "")[:10] or None,
+                        description=j.get("job_description") or "", tier=3,
+                        extra={"via": j.get("job_publisher")})
+            if j.get("job_max_salary") and (j.get("job_salary_period") or "YEAR").upper() == "YEAR":
+                p.pay_max = int(j["job_max_salary"])
+                p.pay_min = int(j["job_min_salary"]) if j.get("job_min_salary") else None
+            p.fill_pay_from_text()
+            out.append(p)
+    return out
+
+
+def _epoch_date(v):
+    try:
+        return datetime.fromtimestamp(int(v), tz=timezone.utc).date().isoformat()
+    except (TypeError, ValueError):
+        return None
+
+
+# name -> (function, minimum hours between calls); free tiers are respected
+SOURCES = {"themuse": (themuse, 1), "adzuna": (adzuna, 1), "himalayas": (himalayas, 3),
+           "remotive": (remotive, 8), "usajobs": (usajobs, 6), "jsearch": (jsearch, 24)}
+
+
+def collect(cfg: dict, ctx, log, state: dict | None = None) -> tuple[list[Posting], dict]:
+    """Run every due source. `state` remembers when each last ran (persisted by caller)."""
     out, counts = [], {}
-    for name, fn in SOURCES.items():
+    state = state if state is not None else {}
+    now = datetime.now(timezone.utc)
+    for name, (fn, every) in SOURCES.items():
+        last = state.get(name)
+        if last:
+            try:
+                if (now - datetime.fromisoformat(last)).total_seconds() < every * 3600 - 300:
+                    continue
+            except ValueError:
+                pass
         try:
             got = fn(cfg, ctx, log)
+            state[name] = now.replace(microsecond=0).isoformat()
         except Exception as e:  # never let a source sink the run
             log(f"{name}: failed ({e})")
             got = []

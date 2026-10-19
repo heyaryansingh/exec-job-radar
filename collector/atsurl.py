@@ -34,6 +34,18 @@ def parse(url: str) -> dict:
         return {"ats": "ashby", "slug": parts[0]}
     if "smartrecruiters.com" in host and parts:
         return {"ats": "smartrecruiters", "slug": parts[0]}
+    if host.endswith("amazon.jobs"):
+        return {"ats": "amazon"}
+    if len(parts) >= 3 and parts[0] == "careers" and parts[1] == "job" and "domain=" in u.query:
+        dom = re.search(r"domain=([\w.-]+)", u.query).group(1)
+        return {"ats": "eightfold", "host": host, "domain": dom}
+    m = re.match(r"^/([a-z]{2})/([a-z]{2})/job/([A-Za-z0-9_-]+)", u.path)
+    if m:
+        e = {"ats": "phenom", "host": host, "locale": f"{m.group(1)}/{m.group(2)}"}
+        ref = re.match(r"^([A-Z]+\d*[A-Z]+)\d{3,}", m.group(3))
+        if ref:
+            e["refnum"] = ref.group(1)
+        return e
     if "oraclecloud.com" in host and "sites" in parts:
         return {"ats": "oracle", "host": host, "site": parts[parts.index("sites") + 1]}
     raise ValueError(
@@ -49,6 +61,8 @@ def try_parse(url: str):
         e = parse(url or "")
     except (ValueError, IndexError):
         return None
+    if e["ats"] in ("amazon", "eightfold", "phenom"):
+        return e
     key = e.get("site") if e["ats"] in ("workday", "oracle") else e.get("slug")
     if not key or key.lower() in BAD_SLUGS or len(key) > 80:
         return None

@@ -35,6 +35,25 @@ def _base(company: dict, **kw) -> Posting:
                    sector=company.get("sector", ""), **kw)
 
 
+STANDARD_FIELDS = {"first_name", "last_name", "email", "phone", "resume", "resume_text", "cover_letter",
+                   "cover_letter_text"}
+
+
+def compact_questions(qs: list) -> list:
+    """Greenhouse application questions, minus the standard contact/resume fields, kept
+    small: label, required, type, and up to 12 options."""
+    out = []
+    for q in qs:
+        fields = q.get("fields") or []
+        if not fields or all(f.get("name") in STANDARD_FIELDS for f in fields):
+            continue
+        f = fields[0]
+        out.append({"label": html_to_text(q.get("label", ""))[:200], "required": bool(q.get("required")),
+                    "type": f.get("type", ""),
+                    "options": [v.get("label", "") for v in (f.get("values") or [])][:12]})
+    return out[:25]
+
+
 # ----------------------------------------------------------------- Greenhouse
 def greenhouse(c, s, ctx):
     """Light listing (titles only), then the full posting for new matching titles, so a
@@ -52,8 +71,11 @@ def greenhouse(c, s, ctx):
                   description=html_to_text(j.get("content")))
         if not p.description and ctx.is_new(p):
             try:
-                d = get_json(s, f"{base}/jobs/{j['id']}", tries=2)
+                d = get_json(s, f"{base}/jobs/{j['id']}", tries=2, params={"questions": "true"})
                 p.description = html_to_text(d.get("content"))
+                qs = compact_questions(d.get("questions") or [])
+                if qs:
+                    p.extra["questions"] = qs
                 p.posted_at = (d.get("first_published") or "")[:10] or p.posted_at
             except Exception:
                 pass
@@ -318,10 +340,15 @@ def check_open(role: dict, s) -> "bool | None":
         return bool(d.get("items"))
     if src == "smartrecruiters":
         return d.get("active", True) is not False
+    if src == "eightfold":
+        return bool(d.get("id") or d.get("name"))
     return None
 
 
+from .sources_extra import EXTRA_ADAPTERS  # noqa: E402
+
 ADAPTERS = {
+    **EXTRA_ADAPTERS,
     "greenhouse": greenhouse,
     "lever": lever,
     "ashby": ashby,

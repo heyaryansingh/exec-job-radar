@@ -26,6 +26,12 @@ MAX_SITES_PER_WORKDAY_TENANT = 2
 def identity(e: dict) -> str:
     """Stable id for a career site, independent of the company name."""
     ats = e.get("ats", "")
+    if ats in ("eightfold", "phenom"):
+        return f"{ats}:{e.get('host', '').lower()}"
+    if ats == "sitemap":
+        return f"sitemap:{e.get('sitemap', '').lower()}"
+    if ats == "amazon":
+        return "amazon"
     if ats in ("workday", "oracle"):
         tenant = e.get("tenant") or e.get("host", "").split(".")[0]
         return f"{ats}:{e.get('host', '').lower()}:{tenant.lower()}:{e.get('site', '').lower()}"
@@ -34,7 +40,7 @@ def identity(e: dict) -> str:
 
 def tenant_key(e: dict) -> str:
     """Workday/Oracle tenant (one company can run several career sites)."""
-    if e.get("ats") in ("workday", "oracle"):
+    if e.get("ats") in ("workday", "oracle") and e.get("host"):
         return f"{e['ats']}:{(e.get('tenant') or e.get('host', '').split('.')[0]).lower()}"
     return identity(e)
 

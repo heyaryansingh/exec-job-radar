@@ -25,7 +25,7 @@ from pathlib import Path
 
 import yaml
 
-from . import aggregators, universe
+from . import aggregators, apply_queue, universe
 from .atsurl import try_parse
 from .boards import sweep
 from .common import now_iso, session
@@ -98,7 +98,7 @@ def main(argv=None) -> int:
     cfg = load_yaml(Path(a.config))
     if a.test_new:
         cfg.setdefault("universe", {})["enabled"] = True
-        for k in ("themuse", "adzuna"):
+        for k in ("themuse", "adzuna", "himalayas", "remotive", "usajobs", "jsearch"):
             cfg.setdefault("aggregators", {}).setdefault(k, {})["enabled"] = True
         sites = cfg.setdefault("boards", {}).setdefault("sites", ["indeed", "google"])
         if "zip_recruiter" not in sites:
@@ -249,7 +249,8 @@ def main(argv=None) -> int:
             extra += board
         except Exception as e:  # never let the optional sweep sink the run
             log(f"boards: failed ({e})")
-        agg, agg_counts = aggregators.collect(cfg, ctx, log)
+        agg, agg_counts = aggregators.collect(cfg, ctx, log, state={} if a.test_new else
+                                              health.setdefault("sources_last_run", {}))
         source_counts.update(agg_counts)
         extra += agg
         for p in extra:
@@ -361,6 +362,9 @@ def main(argv=None) -> int:
 
     store.save()
     write_atomic(DATA / "latest.json", dump_lines({"updated": now_iso(), "roles": latest}))
+    queue_roles = apply_queue.build(open_roles)
+    write_atomic(DATA / "apply_queue.json", dump_lines({"updated": now_iso(), "roles": queue_roles}))
+    write_atomic(DATA / "apply_queue.md", apply_queue.markdown(queue_roles))
     readme.write_all(ROOT, list(store.roles.values()), len(companies) + len(uni), lambda p, t: write_atomic(p, t))
     old = (date.today() - timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if v.get("first", today) >= old}

@@ -108,7 +108,8 @@ def row(r, twins=None) -> str:
     elif r.get("opening_no"):
         title += f" (opening #{r['opening_no']})"
     company = esc(r["company"]) + (" ⭐" if r.get("tier") == 1 else "")
-    apply = f"[Apply]({r['url']})" if r.get("status") == "open" else "Closed"
+    quick = r.get("source") in ("greenhouse", "lever", "ashby", "smartrecruiters")
+    apply = (f"[Apply]({r['url']})" + (" ⚡" if quick else "")) if r.get("status") == "open" else "Closed"
     extra = "".join(f" [alt]({u})" for u in (r.get("also_at") or [])[:1])
     age = age_days(r)
     return (f"| {company} | {badges}{title} | {level(r['title'])} | {place(r)} | {pay(r)} | "
@@ -148,7 +149,8 @@ def render(roles: list[dict], header: str, companies_watched: int, digest_links:
            f"watched · updated hourly · last update {updated}", "",
            "By level: " + " · ".join(f"{k} {v}" for k, v in levels.most_common() if k), "",
            "🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · "
-           "Age = days since posted (or first seen). Every link goes to the employer's own posting.", "",
+           "⚡ one-page form, no account · Age = days since posted (or first seen). "
+           "[Apply queue](data/apply_queue.md): best new roles, ready for fast applying.", "",
            "## Contents", "",
            f"- [🆕 New in the last 24 hours ({len(new24)})](#{anchor('New in the last 24 hours')})"]
     for name, emoji in order:

@@ -10,7 +10,7 @@ on:
         description: "Universe boards to poll"
         default: "600"
   push:
-    paths: ["collector/**", "tests/**", ".github/workflows/collect-test.yml"]
+    paths: ["collector/**", "tests/**", "tools/probe_custom.py", ".github/workflows/collect-test.yml"]
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -36,6 +36,9 @@ jobs:
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: |
           mkdir -p data/test_reports
           start=$(date +%s)
@@ -44,12 +47,16 @@ jobs:
             --report data/test_reports/collect.md
           echo "" >> data/test_reports/collect.md
           echo "Wall time: $(( $(date +%s) - start ))s" >> data/test_reports/collect.md
+      - name: Probe big employers' custom career sites
+        run: timeout 900 python -u tools/probe_custom.py data/test_reports/custom_sites.md || true
       - name: Save report
         if: always()
         run: |
           git config user.name "job-radar-bot"
           git config user.email "job-radar-bot@users.noreply.github.com"
-          if [ -e data/test_reports/collect.md ]; then git add data/test_reports/collect.md; fi
+          for f in data/test_reports/collect.md data/test_reports/custom_sites.md; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "test report: collector"
           for i in 1 2 3 4 5; do

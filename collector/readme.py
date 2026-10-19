@@ -16,7 +16,9 @@ from .store import age_days, since
 
 # (section, emoji, title pattern). First match wins, so order matters.
 CATEGORIES = [
-    ("Executive Technology Leadership", "👑", r"\b(chief|cto|cio|cdo|ciso|evp|executive vice president)\b"),
+    ("Executive Technology Leadership", "👑", r"\b(chief (technology|information|digital|data|security|ai|"
+                                             r"architect\w*|technical|platform|innovation)|cto|cio|cdo|ciso|evp|"
+                                             r"executive vice president)\b"),
     ("Security & Risk Technology", "🛡️", r"\b(security|cyber|ciso|identity|risk technology|resilience)\b"),
     ("Data & AI", "🧠", r"\b(data|ai|artificial intelligence|machine learning|ml|analytics|genai|llm)\b"),
     ("Reliability & Operations", "🚦", r"\b(sre|site reliability|reliability|production|operations|incident|observability|support)\b"),
@@ -27,7 +29,8 @@ CATEGORIES = [
 ]
 OTHER = ("Other Senior Roles", "📌")
 LEVELS = [
-    ("C-level", r"\b(chief|cto|cio|cdo|ciso)\b"),
+    ("C-level", r"\b(chief (technology|information|digital|data|security|ai|architect\w*|product|operating|"
+                r"executive|technical|platform|innovation)|cto|cio|cdo|ciso)\b"),
     ("EVP/SVP", r"\b(evp|svp|executive vice president|senior vice president)\b"),
     ("MD", r"\bmanaging director\b"),
     ("ED", r"\bexecutive director\b"),
@@ -36,7 +39,7 @@ LEVELS = [
     ("Sr. Director", r"\b(senior|sr\.?) director\b"),
     ("Director", r"\bdirector\b"),
 ]
-MAX_PER_SECTION = 400
+MAX_PER_SECTION = 250   # keeps README under GitHub's 512 KB render limit
 
 
 def category(title: str):

@@ -129,3 +129,11 @@ def test_apply_queue_orders_quick_forms_first():
     assert [r["uid"] for r in q] == ["g", "w"]
     assert q[0]["apply_via"] == "quick form" and q[0]["questions"]
     assert "⚡ quick form" in apply_queue.markdown(q)
+
+
+def test_sources_without_keys_are_not_marked_as_run(monkeypatch):
+    monkeypatch.delenv("RAPIDAPI_KEY", raising=False)
+    state = {}
+    monkeypatch.setattr(aggregators, "SOURCES", {"jsearch": (aggregators.jsearch, 24)})
+    aggregators.collect({}, ctx(), print, state)
+    assert "jsearch" not in state          # runs as soon as a key is added, not a day later

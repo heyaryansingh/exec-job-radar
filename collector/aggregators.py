@@ -16,7 +16,7 @@ from .common import Posting, get_json, html_to_text, session
 def themuse(cfg: dict, ctx, log) -> list[Posting]:
     a = (cfg.get("aggregators") or {}).get("themuse") or {}
     if not a.get("enabled", True):
-        return []
+        return None
     s = session()
     out, pages = [], int(a.get("pages", 15))
     for page in range(1, pages + 1):
@@ -51,7 +51,7 @@ def adzuna(cfg: dict, ctx, log) -> list[Posting]:
     a = (cfg.get("aggregators") or {}).get("adzuna") or {}
     app_id, key = os.environ.get("ADZUNA_APP_ID"), os.environ.get("ADZUNA_APP_KEY")
     if not a.get("enabled", True) or not (app_id and key):
-        return []
+        return None
     s = session()
     out, seen = [], set()
     for title_q in a.get("title_queries") or ["vice president", "director", "head of", "chief",
@@ -93,7 +93,7 @@ def himalayas(cfg: dict, ctx, log) -> list[Posting]:
     """Remote jobs (himalayas.app public API, no key)."""
     a = (cfg.get("aggregators") or {}).get("himalayas") or {}
     if not a.get("enabled", True):
-        return []
+        return None
     s = session()
     out = []
     offset = 0
@@ -131,7 +131,7 @@ def remotive(cfg: dict, ctx, log) -> list[Posting]:
     """Remote jobs (remotive.com public API; they ask for at most a few calls a day)."""
     a = (cfg.get("aggregators") or {}).get("remotive") or {}
     if not a.get("enabled", True):
-        return []
+        return None
     s = session()
     out = []
     for cat in a.get("categories") or ["software-dev", "devops", "data"]:
@@ -162,7 +162,7 @@ def usajobs(cfg: dict, ctx, log) -> list[Posting]:
     a = (cfg.get("aggregators") or {}).get("usajobs") or {}
     key, email = os.environ.get("USAJOBS_API_KEY"), os.environ.get("USAJOBS_EMAIL")
     if not a.get("enabled", True) or not (key and email):
-        return []
+        return None
     s = session()
     s.headers.update({"Authorization-Key": key, "User-Agent": email, "Host": "data.usajobs.gov"})
     out = []
@@ -203,7 +203,7 @@ def jsearch(cfg: dict, ctx, log) -> list[Posting]:
     a = (cfg.get("aggregators") or {}).get("jsearch") or {}
     key = os.environ.get("RAPIDAPI_KEY")
     if not a.get("enabled", True) or not key:
-        return []
+        return None
     s = session()
     s.headers.update({"X-RapidAPI-Key": key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"})
     out = []
@@ -267,6 +267,8 @@ def collect(cfg: dict, ctx, log, state: dict | None = None) -> tuple[list[Postin
                 pass
         try:
             got = fn(cfg, ctx, log)
+            if got is None:          # switched off or no API key: not a run
+                continue
             state[name] = now.replace(microsecond=0).isoformat()
         except Exception as e:  # never let a source sink the run
             log(f"{name}: failed ({e})")

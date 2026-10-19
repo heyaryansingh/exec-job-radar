@@ -34,7 +34,7 @@ else:
     hdr = {"X-RapidAPI-Key": key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"}
     # the API's search path has changed over time; try the known variants (404s are free)
     r = None
-    for path in ("/search", "/search-v2", "/v2/search", "/search/v2", "/job-search", "/jobs/search", "/v1/search"):
+    for path in ("/search-v2", "/search", "/v2/search", "/search/v2", "/job-search", "/jobs/search", "/v1/search"):
         try:
             r = requests.get("https://jsearch.p.rapidapi.com" + path, timeout=40, headers=hdr, params=params)
         except Exception as e:
@@ -63,6 +63,7 @@ else:
         lines += ["", "Response:", "```", r.text[:600], "```"]
     else:
         data = d.get("data") or []
+        data = (data.get("jobs") or []) if isinstance(data, dict) else data
         rules = Rules(yaml.safe_load((ROOT / "config" / "search.yaml").read_text()))
         pubs = collections.Counter(j.get("job_publisher") for j in data)
         passing = [j for j in data if rules.title_ok(j.get("job_title") or "")]

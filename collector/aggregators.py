@@ -210,13 +210,18 @@ def jsearch(cfg: dict, ctx, log) -> list[Posting]:
     for q in a.get("queries") or ["vice president technology in USA", "director cloud infrastructure in USA",
                                   "head of engineering in USA", "chief technology officer in USA"]:
         try:
-            d = get_json(s, "https://jsearch.p.rapidapi.com/search", tries=2,
-                         params={"query": q, "date_posted": "today", "num_pages": int(a.get("pages", 1)),
-                                 "country": "us"})
+            d = get_json(s, "https://jsearch.p.rapidapi.com/search-v2", tries=2,
+                         params={"query": q, "date_posted": a.get("date_posted", "today"),
+                                 "num_pages": int(a.get("pages", 1)), "country": "us"})
         except Exception as e:
             log(f"jsearch: '{q}' failed ({e})")
             continue
-        for j in d.get("data") or []:
+        data = d.get("data") or []
+        jobs = data.get("jobs") or [] if isinstance(data, dict) else data   # v2 nests results under data.jobs
+        log(f"jsearch: '{q}' -> {len(jobs)} results")
+        for j in jobs:
+            if not isinstance(j, dict):
+                continue
             title = j.get("job_title") or ""
             if not ctx.title_ok(title):
                 continue

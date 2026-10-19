@@ -15,6 +15,15 @@ sys.path.insert(0, str(ROOT))
 from collector.filters import Rules  # noqa: E402
 
 out = Path(sys.argv[1])
+import atexit, traceback  # noqa: E401
+_err = []
+def _final():
+    if _err:
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text("\n".join(lines + ["", "Script error:", "```", _err[0], "```"]) + "\n")
+atexit.register(_final)
+sys.excepthook = lambda t, v, tb: (_err.append("".join(traceback.format_exception(t, v, tb))[-1500:]),
+                                   sys.__excepthook__(t, v, tb))
 key = os.environ.get("RAPIDAPI_KEY", "")
 lines = ["# JSearch test (1 API call)", ""]
 if not key:
@@ -46,6 +55,10 @@ else:
         d = r.json()
     except ValueError:
         d = {}
+    lines += ["", "Response shape: " + (f"dict keys {list(d)[:12]}" if isinstance(d, dict) else type(d).__name__),
+              "```", r.text[:400], "```"]
+    if not isinstance(d, dict):
+        d = {"data": d if isinstance(d, list) else []}
     if r.status_code != 200:
         lines += ["", "Response:", "```", r.text[:600], "```"]
     else:
@@ -56,6 +69,7 @@ else:
         lines += [f"- results: {len(data)}", f"- senior titles passing the rules: {len(passing)}",
                   "- publishers: " + ", ".join(f"{k} {v}" for k, v in pubs.most_common()), "",
                   "| Employer | Title | Via | Apply link |", "|---|---|---|---|"]
+        data = [j for j in data if isinstance(j, dict)]
         for j in data[:15]:
             lines.append(f"| {j.get('employer_name')} | {j.get('job_title')} | {j.get('job_publisher')} | "
                          f"{(j.get('job_apply_link') or '')[:80]} |")

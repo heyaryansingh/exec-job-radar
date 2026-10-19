@@ -60,10 +60,13 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
 
 ## Step 2: Gather new roles
 
-1. **Collector feed (main source).** Read `data/latest.json` from the repo named in
+1. **Collector feed (main source).** Read `data/apply_queue.json` from the repo named in
    `candidate.yaml` → `run.repo` (raw URL:
-   `https://raw.githubusercontent.com/<repo>/main/data/latest.json`; if that fails, clone the
-   repo; for a private repo, clone it). Note its `updated` time; if it is more than 6 hours
+   `https://raw.githubusercontent.com/<repo>/main/data/apply_queue.json`): the best roles
+   posted in the last few days, each tagged `apply_via` (`quick form` = one-page form with no
+   account; `account` = the site needs sign-in first) and, when the site publishes them, the
+   form's `questions`. Then read `data/latest.json` (all recent roles) for anything the queue
+   left out. If raw URLs fail, clone the repo. Note its `updated` time; if it is more than 6 hours
    old, say so in the summary and also read `data/STATUS.md` for the reason. If the feed
    can't be read at all, continue with sources 2 and 3 and say so; never stop the run over it.
 2. **Job-alert emails** (if a Gmail connector is available and `run.read_job_alert_emails`
@@ -132,8 +135,10 @@ Create `applications/<YYYY-MM-DD>_<Company>_<Short-Role>/` and write:
   leader if known. Open with why this company and role, then two or three specific proofs
   from the record mapped to the role's top needs, then a short close. Plain, confident,
   no clichés. Follow `candidate.yaml` → `writing` preferences.
-- `answers.md`: answers to the screening questions the form asks or is likely to ask
-  (why this company, relevant leadership example, salary expectation from `candidate.yaml`).
+- `answers.md`: answers to the screening questions. When the queue entry has `questions`,
+  answer exactly those (match the option text for multiple-choice ones), so the form fill is
+  copy-and-click. Otherwise answer the usual ones (why this company, a relevant leadership
+  example, salary expectation from `candidate.yaml`).
 - `contacts.md`: 1-3 people worth contacting (likely hiring leader by title, recruiter, any
   name found in the posting), found by web search; a 3-sentence outreach note the candidate
   can send from their own LinkedIn. Do not send anything.

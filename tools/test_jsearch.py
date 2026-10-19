@@ -48,3 +48,4 @@ else:
 out.parent.mkdir(parents=True, exist_ok=True)
 out.write_text("\n".join(lines) + "\n")
 print("\n".join(lines[:8]))
+# rerun 2026-10-19T23:12:10Z

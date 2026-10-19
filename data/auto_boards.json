@@ -395,6 +395,36 @@
 "host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com",
 "name": "Ascot Group",
 "site": "CX"
+},
+{
+"ats": "amazon",
+"name": "Amazon.com"
+},
+{
+"ats": "phenom",
+"host": "jobs.gsk.com",
+"locale": "gb/en",
+"name": "GSK"
+},
+{
+"ats": "phenom",
+"host": "careers.hpe.com",
+"locale": "us/en",
+"name": "Hewlett Packard Enterprise | HPE",
+"refnum": "HPE1US"
+},
+{
+"ats": "phenom",
+"host": "jobs.merck.com",
+"locale": "us/en",
+"name": "Merck"
+},
+{
+"ats": "phenom",
+"host": "careers.niagarawater.com",
+"locale": "us/en",
+"name": "Niagara Bottling",
+"refnum": "NBLLUSR"
 }
 ]
 }

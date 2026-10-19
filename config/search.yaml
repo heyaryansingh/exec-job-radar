@@ -184,7 +184,7 @@ excluded_companies: []
 # Broad sweep of Indeed + Google Jobs for employers not on the watchlist.
 boards:
   enabled: true
-  sites: [indeed, google]
+  sites: [indeed, google]   # LinkedIn is deliberately not scraped
   hours_old: 24
   results_per_search: 40
   locations: ["United States"]
@@ -201,3 +201,20 @@ boards:
     - Executive Director Technology
     - Managing Director Technology Infrastructure
     - Director Production Engineering
+
+# Job aggregators with official APIs (collector/aggregators.py). Adzuna needs a free key:
+# add repo secrets ADZUNA_APP_ID and ADZUNA_APP_KEY (Settings > Secrets > Actions).
+aggregators:
+  themuse:
+    enabled: false   # on after the test passes
+    pages: 15
+  adzuna:
+    enabled: false   # on after the test passes
+    pages: 4
+    max_days_old: 3
+    category: it-jobs
+
+# The universe: also poll every other known career site (Common Crawl directory plus
+# employer sites found through job boards), not just config/companies.yaml.
+universe:
+  enabled: false     # on after the test passes

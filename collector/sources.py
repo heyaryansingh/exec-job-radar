@@ -37,8 +37,10 @@ def _base(company: dict, **kw) -> Posting:
 
 # ----------------------------------------------------------------- Greenhouse
 def greenhouse(c, s, ctx):
-    data = get_json(s, f"https://boards-api.greenhouse.io/v1/boards/{c['slug']}/jobs",
-                    params={"content": "true"})
+    """Light listing (titles only), then the full posting for new matching titles, so a
+    board with thousands of jobs costs one call plus one per new match."""
+    base = f"https://boards-api.greenhouse.io/v1/boards/{c['slug']}"
+    data = get_json(s, f"{base}/jobs")
     out = []
     for j in data.get("jobs", []):
         if not ctx.title_ok(j.get("title", "")):
@@ -48,6 +50,13 @@ def greenhouse(c, s, ctx):
                   location=(j.get("location") or {}).get("name", ""),
                   posted_at=(j.get("first_published") or j.get("updated_at") or "")[:10] or None,
                   description=html_to_text(j.get("content")))
+        if not p.description and ctx.is_new(p):
+            try:
+                d = get_json(s, f"{base}/jobs/{j['id']}", tries=2)
+                p.description = html_to_text(d.get("content"))
+                p.posted_at = (d.get("first_published") or "")[:10] or p.posted_at
+            except Exception:
+                pass
         p.remote = "remote" in p.location.lower()
         p.fill_pay_from_text()
         out.append(p)
@@ -206,6 +215,9 @@ def workday(c, s, ctx):
                 if ctx.is_new(p):
                     try:
                         d = get_json(s, f"{api}{path}")
+                        org = (d.get("hiringOrganization") or {}).get("name")
+                        if org and not c.get("_org"):
+                            c["_org"] = org.strip()
                         info = d.get("jobPostingInfo") or {}
                         p.description = html_to_text(info.get("jobDescription"))
                         p.url = info.get("externalUrl") or p.url

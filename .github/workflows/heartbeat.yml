@@ -1,0 +1,41 @@
+name: Heartbeat
+
+# GitHub's scheduler often skips hourly runs on free repos. This job triggers
+# "Collect roles" every hour itself, runs for about five hours, then starts its own
+# successor. The schedule below only restarts the chain if it ever stops.
+on:
+  schedule:
+    - cron: "7 */4 * * *"
+  workflow_dispatch: {}
+  push:
+    paths: [".github/workflows/heartbeat.yml"]
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+jobs:
+  beat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - name: Trigger collection every hour
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          for i in 1 2 3 4 5; do
+            gh workflow run collect.yml -R "$REPO" --ref main && echo "triggered $(date -u +%H:%M)" || echo "trigger failed"
+            if [ "$i" -lt 5 ]; then sleep 3600; fi
+          done
+          sleep 3000
+      - name: Start the next heartbeat
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: gh workflow run heartbeat.yml -R "$REPO" --ref main

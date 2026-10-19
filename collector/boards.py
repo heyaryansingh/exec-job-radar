@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import math
 
+from .atsurl import try_parse
 from .common import Posting
 
 
@@ -23,7 +24,9 @@ def _clean(v):
     return v
 
 
-def sweep(cfg: dict, ctx, log) -> list[Posting]:
+def sweep(cfg: dict, ctx, log, links: list | None = None, counts: dict | None = None) -> list[Posting]:
+    """Search job boards. Every result that links to an employer career site (any title,
+    not only matches) is appended to `links`, so the universe grows on its own."""
     b = cfg.get("boards") or {}
     if not b.get("enabled", True):
         return []
@@ -49,6 +52,14 @@ def sweep(cfg: dict, ctx, log) -> list[Posting]:
                 log(f"boards: '{term}' @ {loc} failed: {e}")
                 continue
             for row in df.to_dict("records"):
+                site = str(row.get("site", "web"))
+                if counts is not None:
+                    counts[site] = counts.get(site, 0) + 1
+                if links is not None:
+                    e = try_parse(str(_clean(row.get("job_url_direct")) or ""))
+                    if e:
+                        e["name"] = str(_clean(row.get("company")) or "") or None
+                        links.append(e)
                 title = str(_clean(row.get("title")) or "")
                 if not ctx.title_ok(title):
                     continue

@@ -1,0 +1,59 @@
+name: Collect (test)
+
+# Small-scale test of collector changes, in report-only mode: nothing in the feed,
+# README or role database changes. Polls 300 universe boards plus every job board and
+# aggregator, and writes data/test_reports/collect.md.
+on:
+  workflow_dispatch:
+    inputs:
+      universe_limit:
+        description: "Universe boards to poll"
+        default: "300"
+  push:
+    paths: ["collector/**", "tests/**", ".github/workflows/collect-test.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-test
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt pytest
+      - name: Unit tests
+        run: python -m pytest -q tests
+      - name: Dry run with every new source on
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: |
+          mkdir -p data/test_reports
+          start=$(date +%s)
+          python -m collector.run --dry-run --test-new --workers 16 --budget-minutes 20 \
+            --universe-limit "${{ github.event.inputs.universe_limit || 300 }}" \
+            --report data/test_reports/collect.md
+          echo "" >> data/test_reports/collect.md
+          echo "Wall time: $(( $(date +%s) - start ))s" >> data/test_reports/collect.md
+      - name: Save report
+        if: always()
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          if [ -e data/test_reports/collect.md ]; then git add data/test_reports/collect.md; fi
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "test report: collector"
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1

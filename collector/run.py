@@ -25,6 +25,8 @@ from pathlib import Path
 
 import yaml
 
+from . import aggregators, universe
+from .atsurl import try_parse
 from .boards import sweep
 from .common import now_iso, session
 from .filters import Rules
@@ -79,11 +81,23 @@ def main(argv=None) -> int:
     ap.add_argument("--validate", action="store_true", help="report on every company entry")
     ap.add_argument("--dry-run", action="store_true", help="print results, write nothing")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--no-universe", action="store_true", help="watchlist only")
+    ap.add_argument("--universe-limit", type=int, default=0, help="poll at most N universe boards (tests)")
+    ap.add_argument("--report", help="dry run: write a test report here")
+    ap.add_argument("--test-new", action="store_true",
+                    help="turn on the universe and every aggregator regardless of config (tests)")
     ap.add_argument("--budget-minutes", type=float, default=40,
                     help="stop starting new companies after this long (the hourly job must finish)")
     a = ap.parse_args(argv)
 
     cfg = load_yaml(Path(a.config))
+    if a.test_new:
+        cfg.setdefault("universe", {})["enabled"] = True
+        for k in ("themuse", "adzuna"):
+            cfg.setdefault("aggregators", {}).setdefault(k, {})["enabled"] = True
+        sites = cfg.setdefault("boards", {}).setdefault("sites", ["indeed", "google"])
+        if "zip_recruiter" not in sites:
+            sites.append("zip_recruiter")
     companies = [c for c in (load_yaml(Path(a.companies)) or []) if c and not c.get("disabled")]
     if a.only:
         companies = [c for c in companies if c["name"].lower() == a.only.lower()]
@@ -98,47 +112,77 @@ def main(argv=None) -> int:
     ctx = Ctx(title_ok=rules.title_ok, known=known, level_queries=rules.level_queries,
               max_age_days=rules.max_age)
     health = load_json(DATA / "health.json", {"companies": {}})
-    hc = health.setdefault("companies", {})
-    if not a.only:  # forget companies removed from the watchlist
+    hc = health.setdefault("companies", {})      # watchlist health, by company name
+    hu = health.setdefault("universe", {})        # universe health, by board id
+    for c in companies:
+        c["board"] = universe.identity(c)
+
+    # the universe: every other known career site (Common Crawl directory + auto-found)
+    universe_on = bool((cfg.get("universe") or {}).get("enabled", False))
+    uni = [] if (not universe_on or a.no_universe or a.only or a.validate) else universe.build(DATA, companies)
+    if a.universe_limit:
+        uni = sorted(uni, key=lambda c: hu.get(c["board"], {}).get("last_attempt", ""))[: a.universe_limit]
+    if not a.only:  # forget companies removed from the watchlist / universe
         names = {c["name"] for c in companies}
         for n in [n for n in hc if n not in names]:
             del hc[n]
+        if not a.no_universe and not a.universe_limit:
+            ids = {c["board"] for c in uni}
+            for b in [b for b in hu if b not in ids]:
+                del hu[b]
+
+    def hrec(c):
+        return hu.setdefault(c["board"], {}) if c.get("universe") else hc.setdefault(c["name"], {})
 
     started = time.time()
-    results, errors, skipped_backoff, skipped_budget = [], 0, 0, 0
+    results, errors, uerrors, skipped_backoff, skipped_budget = [], 0, 0, 0, 0
     deadline = started + a.budget_minutes * 60
 
-    # Back off from broken sites: after 6 straight failures, only retry every 12 hours.
-    # Stalest companies go first so a slow run never starves the same ones twice.
+    # Back off from broken sites: after 6 straight failures, retry every 12 hours
+    # (universe boards: after 3 failures, every 3 days). Watchlist first, then the
+    # universe; stalest first within each, so a slow run never starves the same ones.
     def due(c):
-        h = hc.get(c["name"], {})
-        if a.validate or a.only or int(h.get("failures", 0)) < 6:
+        h = (hu if c.get("universe") else hc).get(c["board"] if c.get("universe") else c["name"], {})
+        if a.validate or a.only:
             return True
-        return _hours_since(h.get("last_attempt")) >= 12
+        limit, wait = (3, 72) if c.get("universe") else (6, 12)
+        return int(h.get("failures", 0)) < limit or _hours_since(h.get("last_attempt")) >= wait
 
     queue = []
-    for c in companies:
+    for c in companies + uni:
         if due(c):
             queue.append(c)
         else:
             skipped_backoff += 1
-    queue.sort(key=lambda c: hc.get(c["name"], {}).get("last_attempt", ""))
+    queue.sort(key=lambda c: (bool(c.get("universe")), hrec(c).get("last_attempt", "")))
+
+    learned_names: dict = {}
 
     def job(c):
         if time.time() > deadline:
-            return None  # out of time; this company goes first next hour
+            return None  # out of time; this one goes first next hour
         s = session()
         fn = ADAPTERS.get(c.get("ats", ""))
         if not fn:
             raise RuntimeError(f"unknown ats '{c.get('ats')}'")
-        return fn(c, s, ctx)
+        got = fn(c, s, ctx)
+        if c.get("universe") and got and not c.get("named"):
+            # first matching role on an unnamed board: learn the employer's name once,
+            # then keep it forever so role ids stay stable
+            name = c.get("_org") or universe.resolve_name(c, s) or c["name"]
+            learned_names[c["board"]] = name
+            for p in got:
+                p.company = name
+        for p in got:
+            p.extra["board"] = c["board"]
+        return got
 
-    listed: dict = {}  # company -> uids its site listed this run (for closure detection)
+    listed: dict = {}  # board -> (ats, company, uids listed this run), for closure detection
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         futs = {ex.submit(job, c): c for c in queue}
         for f in as_completed(futs):
             c = futs[f]
-            h = hc.setdefault(c["name"], {})
+            h = hrec(c)
             h["ats"] = c.get("ats")
             try:
                 got = f.result()
@@ -146,25 +190,43 @@ def main(argv=None) -> int:
                     skipped_budget += 1
                     continue
                 results.extend(got)
-                listed[c["name"]] = (c.get("ats"), {p.uid for p in got})
+                listed[c["board"]] = (c.get("ats"), got[0].company if got else c["name"], {p.uid for p in got})
                 h.update(ok=True, matched_titles=len(got), last_ok=now_iso(), failures=0, error="",
                          last_attempt=now_iso())
             except Exception as e:
-                errors += 1
-                h.update(ok=False, error=str(e)[:300], failures=int(h.get("failures", 0)) + 1,
+                if c.get("universe"):
+                    uerrors += 1
+                else:
+                    errors += 1
+                    log(f"  ! {c['name']}: {str(e)[:160]}")
+                h.update(ok=False, error=str(e)[:200], failures=int(h.get("failures", 0)) + 1,
                          last_attempt=now_iso())
-                log(f"  ! {c['name']}: {str(e)[:160]}")
 
+    # job boards and aggregators: catch employers no career-site feed covers, and learn
+    # new career sites from their links
+    source_counts, links = {}, []
     if not a.no_boards and not a.only and not a.validate:
+        covered = {norm_company(c["name"]) for c in companies + uni} | {norm_company(n) for n in learned_names.values()}
+        extra = []
         try:
-            board = sweep(cfg, ctx, log) if time.time() < deadline + 300 else []
+            raw_counts: dict = {}
+            board = sweep(cfg, ctx, log, links=links, counts=raw_counts) if time.time() < deadline + 300 else []
+            source_counts.update({f"board-{k} (raw)": v for k, v in raw_counts.items()})
+            extra += board
         except Exception as e:  # never let the optional sweep sink the run
             log(f"boards: failed ({e})")
-            board = []
-        log(f"boards: {len(board)} senior titles")
-        # board hits for companies we read directly are redundant (and less reliable)
-        covered = {norm_company(c["name"]) for c in companies}
-        results.extend(p for p in board if norm_company(p.company) not in covered)
+        agg, agg_counts = aggregators.collect(cfg, ctx, log)
+        source_counts.update(agg_counts)
+        extra += agg
+        for p in extra:
+            e = try_parse(p.url)
+            if e:
+                e["name"] = p.company
+                links.append(e)
+        source_counts["senior titles from boards/aggregators"] = len(extra)
+        # roles at employers whose own site we read are redundant (and less reliable)
+        results.extend(p for p in extra if norm_company(p.company) not in covered)
+        log(f"boards/aggregators: {json.dumps(source_counts)}; employer sites found: {len(links)}")
 
     if a.validate:
         summary = {"run_at": now_iso(), "seconds": round(time.time() - started),
@@ -214,8 +276,8 @@ def main(argv=None) -> int:
 
     # ---- closed roles: absent from a full listing twice, or confirmed gone on a direct check
     to_check = []
-    for company, (ats, uids) in listed.items():
-        to_check += store.mark_missing(company, uids, full_listing=ats in FULL_LISTING)
+    for board_id, (ats, company, uids) in listed.items():
+        to_check += store.mark_missing(company, uids, full_listing=ats in FULL_LISTING, board=board_id)
     closed_checked = 0
     check_session = session()
     for r in sorted(to_check, key=lambda r: r.get("last_checked", ""))[:CHECKS_PER_RUN]:
@@ -244,6 +306,11 @@ def main(argv=None) -> int:
         "merged_duplicates": outcome["merged"], "reposted": outcome["reposted"],
         "closed_after_check": closed_checked, "removed_by_rule_change": refiltered, "dropped": dropped,
         "open_roles": len(open_roles), "roles_in_latest": len(latest),
+        "universe_boards": len(uni), "universe_polled_ok": sum(1 for c in uni if hu.get(c["board"], {}).get("ok")
+                                                               and _hours_since(hu[c["board"]].get("last_attempt")) < 1),
+        "universe_errors": uerrors, "names_learned": len(learned_names),
+        "employer_sites_found_on_boards": len(links), "sources": source_counts,
+        "companies_with_open_roles": len({r["company"] for r in open_roles}),
     }
     log(json.dumps(summary, indent=2))
 
@@ -251,11 +318,17 @@ def main(argv=None) -> int:
         for d in sorted(latest, key=lambda r: -r["score"])[:40]:
             log(f"{d['score']:3d}  {d['company']:<28} {d['title'][:70]:<70} {d['location'][:30]}"
                 f"  {('$' + format(d['pay_max'], ',')) if d.get('pay_max') else ''}")
+        if a.report:
+            write_report(Path(a.report), summary, results, store, learned_names, links, uni, hu)
         return 0
+
+    universe.save_names(DATA, learned_names)
+    new_sites = universe.add_auto_boards(DATA, links)
+    summary["new_employer_sites_added"] = new_sites
 
     store.save()
     write_atomic(DATA / "latest.json", dump_lines({"updated": now_iso(), "roles": latest}))
-    readme.write_all(ROOT, list(store.roles.values()), len(companies), lambda p, t: write_atomic(p, t))
+    readme.write_all(ROOT, list(store.roles.values()), len(companies) + len(uni), lambda p, t: write_atomic(p, t))
     old = (date.today() - timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if v.get("first", today) >= old}
     write_atomic(DATA / "state.json", json.dumps({"seen": seen}, separators=(",", ":"), sort_keys=True))
@@ -274,6 +347,38 @@ def main(argv=None) -> int:
 
 FULL_LISTING = {"greenhouse", "lever", "ashby"}   # these APIs list every open job
 CHECKS_PER_RUN = 400
+
+
+def write_report(path: Path, summary, results, store, learned, links, uni, hu):
+    """Dry-run test report: what each source and the universe would contribute."""
+    from collections import Counter
+    srcs = Counter(p.source for p in results)
+    uni_ids = {c["board"] for c in uni}
+    new_uni = [r for r in store.open_roles() if (r.get("extra") or {}).get("board") in uni_ids]
+    lines = ["# Collector test report (dry run: nothing saved)", "", "```",
+             json.dumps({k: v for k, v in summary.items() if k != "dropped"}, indent=1), "```", "",
+             "## Senior titles seen, by source", ""] + [f"- {k}: {v}" for k, v in srcs.most_common()]
+    ok = [c for c in uni if hu.get(c["board"], {}).get("ok")]
+    bad = [c for c in uni if c["board"] in hu and not hu[c["board"]].get("ok")]
+    lines += ["", f"## Universe boards: {len(ok)} answered, {len(bad)} failed", ""]
+    errs = Counter(str(hu[c["board"]].get("error", ""))[:60] for c in bad)
+    lines += [f"- {n} × {e}" for e, n in errs.most_common(8)]
+    lines += ["", "## Names learned (sample)", ""] + [f"- {b} → {n}" for b, n in list(learned.items())[:40]]
+    lines += ["", f"## Roles from universe boards that pass the rules ({len(new_uni)}), sample", "",
+              "| Score | Company | Role | Location | Pay |", "|---:|---|---|---|---|"]
+    for r in sorted(new_uni, key=lambda r: -(r.get("score") or 0))[:60]:
+        lines.append(f"| {r.get('score')} | {r['company']} | [{r['title']}]({r['url']}) | {r.get('location', '')[:40]} | "
+                     f"{r.get('pay_max') or ''} |")
+    other = [r for r in store.open_roles() if r["source"] in ("themuse", "adzuna") or r["source"].startswith("board-")]
+    lines += ["", f"## Roles from job boards / aggregators that pass ({len(other)}), sample", "",
+              "| Source | Company | Role | Location |", "|---|---|---|---|"]
+    for r in other[:40]:
+        lines.append(f"| {r['source']} | {r['company']} | [{r['title']}]({r['url']}) | {r.get('location', '')[:40]} |")
+    lines += ["", f"## Employer career sites found in board results ({len(links)}), sample", ""]
+    lines += [f"- {e.get('name')}: `{json.dumps({k: v for k, v in e.items() if k != 'name'})}`" for e in links[:30]]
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(lines) + "\n")
+    log(f"report written to {path}")
 
 
 def dump_lines(obj: dict) -> str:
@@ -302,6 +407,12 @@ def write_status(health, latest):
              f"- Last run: {run.get('run_at', '?')} UTC, {run.get('seconds', '?')}s",
              f"- Companies working: {ok} of {len(hc)}",
              f"- New roles last run: {run.get('new_roles', 0)}; roles in feed: {len(latest)}",
+             f"- Universe (all other known career sites): {run.get('universe_boards', 0)} boards, "
+             f"{run.get('universe_polled_ok', 0)} checked in the last hour, {run.get('universe_errors', 0)} errors; "
+             f"{run.get('names_learned', 0)} employer names learned; "
+             f"{run.get('new_employer_sites_added', 0)} new employer sites found via job boards",
+             f"- Job boards and aggregators: {json.dumps(run.get('sources', {}))}",
+             f"- Companies with open roles: {run.get('companies_with_open_roles', '?')}",
              f"- Skipped (backing off broken sites): {run.get('skipped_backoff', 0)}; "
              f"ran out of time: {run.get('skipped_out_of_time', 0)}", ""]
     if failing:

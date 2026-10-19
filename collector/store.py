@@ -135,7 +135,7 @@ class Store:
     def has(self, uid: str) -> bool:
         return uid in self.roles
 
-    def mark_missing(self, company: str, listed_uids: set, full_listing: bool) -> list[dict]:
+    def mark_missing(self, company: str, listed_uids: set, full_listing: bool, board: str = "") -> list[dict]:
         """Called for a company whose site was read successfully this run.
 
         full_listing=True (Greenhouse/Lever/Ashby list every job): a role absent twice in a
@@ -143,7 +143,10 @@ class Store:
         returned for a direct check instead of being closed on absence alone."""
         to_check = []
         for r in self.roles.values():
-            if r["status"] != "open" or r["company"] != company or r["source"] not in ATS_SOURCES:
+            if r["status"] != "open" or r["source"] not in ATS_SOURCES:
+                continue
+            rb = (r.get("extra") or {}).get("board")
+            if (rb != board) if (rb and board) else (r["company"] != company):
                 continue
             if r["uid"] in listed_uids:
                 continue

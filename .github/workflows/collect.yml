@@ -6,8 +6,8 @@ on:
   workflow_dispatch: {}        # "Run workflow" button
   push:                        # re-run right away when the code or search rules change
     branches: [main]
-    paths: ["collector/**", "config/search.yaml", "config/companies.yaml", "config/readme_header.md",
-            ".github/workflows/collect.yml"]
+    paths: ["config/search.yaml", "config/companies.yaml", "config/readme_header.md"]
+    # (collector code changes are tested by "Collect (test)" first and take effect on the next hourly run)
   workflow_run:                # and as soon as discovery adds companies
     workflows: ["Discover companies"]
     types: [completed]
@@ -31,7 +31,10 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Collect
-        run: python -m collector.run --workers 16
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python -m collector.run --workers 24
       - name: Commit results
         if: always()
         run: |

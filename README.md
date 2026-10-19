@@ -12,20 +12,20 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**353 open roles** at **56 companies** · **48 new in the last 24 hours** · 94 company career sites watched · updated hourly · last update Oct 18, 2026 08:04 PM ET
+**354 open roles** at **56 companies** · **49 new in the last 24 hours** · 94 company career sites watched · updated hourly · last update Oct 18, 2026 08:05 PM ET
 
-By level: Director 165 · VP 86 · Sr. Director 39 · ED 24 · Head 16 · C-level 10 · MD 7 · EVP/SVP 6
+By level: Director 165 · VP 86 · Sr. Director 39 · ED 24 · Head 16 · C-level 10 · EVP/SVP 7 · MD 7
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · Age = days since posted (or first seen). Every link goes to the employer's own posting.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (48)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (49)](#new-in-the-last-24-hours)
 - [👑 Executive Technology Leadership (10)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (23)](#security-risk-technology)
 - [🧠 Data & AI (110)](#data-ai)
 - [🚦 Reliability & Operations (12)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (44)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (45)](#cloud-infrastructure)
 - [🏛️ Architecture (7)](#architecture)
 - [🔄 Transformation & Delivery (52)](#transformation-delivery)
 - [🛠️ Engineering & Software (73)](#engineering-software)
@@ -39,6 +39,7 @@ By level: Director 165 · VP 86 · Sr. Director 39 · ED 24 · Head 16 · C-leve
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Salesforce ⭐ | 🆕 SVP, COO - Cloud Success | EVP/SVP | California - San Francisco +6 | $352K–$473K | 3d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/SVP--COO---Cloud-Success_JR361292-1) |
 | Apple | 🆕 Director, Evaluation and Quality Assurance, Services Special Projects | Director | Cupertino, CA, USA | $311K–$497K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200688194-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200688194-0836%2Fdirector-evaluation-and-quality-assurance-services-special-projects%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D5f6b2fcc-caac-11f1-8182-33e277e81f23%26rx_job%3D200688194-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261018T220404Z%26rx_vp%3Dcpc%26team%3DSFTWR) |
 | S&P Global | 🆕 Director, Open-Source Software Manager | Director | Princeton, NJ, USA | $174K–$200K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/Director--Open-Source-Software-Manager_331956-1) |
 | Select Milk Producers (SMP) | 🆕 Vice President of Technology | VP | Dallas, TX, USA |  | 1d | [Apply](https://selectmilk.wd12.myworkdayjobs.com/SelectMilkProducers/job/Dallas-TX/Vice-President-of-Technology_JR102201) |
@@ -277,6 +278,7 @@ By level: Director 165 · VP 86 · Sr. Director 39 · ED 24 · Head 16 · C-leve
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Salesforce ⭐ | 🆕 SVP, COO - Cloud Success | EVP/SVP | California - San Francisco +6 | $352K–$473K | 3d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/SVP--COO---Cloud-Success_JR361292-1) |
 | Shield AI | 🆕 Director, IT Infrastructure Services (R6338) | Director | USA | $190K–$340K | 1d | [Apply](https://jobs.lever.co/shieldai/581cc2e0-9ad3-4a5a-98e4-d21500210ee9) |
 | United Biosource Corporation | 🆕 Director, Software Engineering - Platform Development | Director | Remote, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=90ee0c52-4563-4bbb-a44d-0a6cd6964c61&ccId=19000101_000001&jobId=593232&source=IN&lang=en_US) |
 | JPMorgan Chase ⭐ | Executive Director - Content Platform | ED | Wilmington, DE, United States |  | 18d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796545) |

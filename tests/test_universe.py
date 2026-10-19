@@ -77,3 +77,15 @@ def test_end_to_end_universe_names_are_learned_and_stable(tmp_path, monkeypatch)
     assert h["universe"]["greenhouse:deadboard"]["ok"] is False
     assert h["last_run"]["universe_boards"] == 2
     assert "Space Exploration Technologies" in (tmp_path / "README.md").read_text()
+
+
+def test_workday_display_names():
+    w = universe.workday_name
+    assert w("7Z4 Pfizer, Inc.", "pfizer") == "Pfizer"
+    assert w("001 Brown & Brown, Inc", "bbinsurance") == "Brown & Brown"
+    assert w("1000 Becton, Dickinson and Company", "bdx") == "Becton Dickinson"
+    assert w("1550 India PDC", "analogdevices") is None          # unrelated entity: use fallback
+    assert w("The Gap, Inc.", "gapinc") == "Gap"
+    assert w("Capital One, N.A.", "capitalone") == "Capital One"
+    assert w("CADENCE US", "cadence") == "Cadence"
+    assert w("112 Cardinal Health 5, LLC", "cardinalhealth") == "Cardinal Health"

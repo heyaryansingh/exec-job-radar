@@ -127,9 +127,12 @@ class Store:
 
     # ------------------------------------------------------------------ lifecycle
     def touch(self, uid: str):
+        """Still listed. Stored as a date so an hourly run doesn't rewrite every role."""
         r = self.roles.get(uid)
         if r and r["status"] == "open":
-            r["last_seen"] = now_iso()
+            today = date.today().isoformat()
+            if r.get("last_seen", "")[:10] != today:
+                r["last_seen"] = today
             r.pop("missing", None)
 
     def has(self, uid: str) -> bool:

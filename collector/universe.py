@@ -119,6 +119,52 @@ def clean_name(n: str | None) -> str | None:
     return n or None
 
 
+LEGAL_TAIL = re.compile(r"[,\s]+(inc\.?|incorporated|llc|l\.l\.c\.|ltd\.?|limited|corp\.?|corporation|co\.?|"
+                        r"company|plc|n\.a\.|lp|l\.p\.|gmbh|s\.a\.|svcs\.?|services|holdings|group|us|usa|"
+                        r"\d+)$", re.I)
+
+
+TENANT_SUFFIXES = {"inc", "co", "corp", "llc", "us", "usa", "hr", "jobs", "careers", "group", "global"}
+
+
+def _compact(x: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", x.lower())
+
+
+def workday_name(org: str | None, tenant: str) -> str | None:
+    """Turn a Workday legal-entity name into a display name, or None if it doesn't look
+    like this tenant's company ("7Z4 Pfizer, Inc." -> "Pfizer"; "1550 India PDC" for the
+    analogdevices tenant -> None)."""
+    if not org:
+        return None
+    t = _compact(tenant)
+    words = org.replace(",", " ").split()
+    # drop leading entity codes: "7Z4", "001", "HAR", "CAI"
+    while words and (any(ch.isdigit() for ch in words[0]) or
+                     (words[0].isupper() and len(words[0]) <= 4 and not t.startswith(_compact(words[0])))):
+        words = words[1:]
+    name = " ".join(words)
+    prev = None
+    while prev != name:
+        prev, name = name, LEGAL_TAIL.sub("", name).strip(" ,.-")
+    name = re.sub(r"^the\s+", "", name, flags=re.I)
+    name = re.sub(r"\s+(and|of|the|&)$", "", name, flags=re.I).strip(" ,")
+    if not name:
+        return None
+    if name.isupper() and len(name) > 4:
+        name = name.title()
+    ws = name.split()
+    for k in range(1, len(ws) + 1):          # shortest leading words that spell the tenant
+        pre = _compact(" ".join(ws[:k]))
+        if pre == t or (len(pre) >= 3 and t.startswith(pre) and t[len(pre):] in TENANT_SUFFIXES):
+            return " ".join(ws[:k])
+    toks = [_compact(w) for w in ws]
+    acronym = "".join(x[0] for x in toks if x and x not in ("and", "of", "the"))
+    if any(len(x) >= 4 and x in t for x in toks) or (len(acronym) >= 2 and t.startswith(acronym)):
+        return name
+    return None
+
+
 def save_names(data_dir: Path, learned: dict):
     if not learned:
         return

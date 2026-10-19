@@ -146,6 +146,16 @@ def main(argv=None) -> int:
     def hrec(c):
         return hu.setdefault(c["board"], {}) if c.get("universe") else hc.setdefault(c["name"], {})
 
+    def uni_result(c, ok, err=""):
+        if ok:
+            hu.pop(c["board"], None)                 # healthy boards aren't stored at all
+            uni_ok.append(c)
+        else:
+            h = hu.setdefault(c["board"], {})
+            h.update(ats=c["ats"], ok=False, error=err[:200], failures=int(h.get("failures", 0)) + 1,
+                     last_attempt=now_iso())
+            uni_bad.append(c)
+
     started = time.time()
     results, errors, uerrors, skipped_backoff, skipped_budget = [], 0, 0, 0, 0
     deadline = started + a.budget_minutes * 60
@@ -154,19 +164,23 @@ def main(argv=None) -> int:
     # (universe boards: after 3 failures, every 3 days). Watchlist first, then the
     # universe; stalest first within each, so a slow run never starves the same ones.
     def due(c):
-        h = (hu if c.get("universe") else hc).get(c["board"] if c.get("universe") else c["name"], {})
-        if a.validate or a.only:
+        h = hu.get(c["board"], {}) if c.get("universe") else hc.get(c["name"], {})
+        if a.validate or a.only or not h:
             return True
         limit, wait = (3, 72) if c.get("universe") else (6, 12)
         return int(h.get("failures", 0)) < limit or _hours_since(h.get("last_attempt")) >= wait
 
-    queue = []
-    for c in companies + uni:
-        if due(c):
-            queue.append(c)
-        else:
-            skipped_backoff += 1
-    queue.sort(key=lambda c: (bool(c.get("universe")), hrec(c).get("last_attempt", "")))
+    # Watchlist: stalest first. Universe: a fixed order resumed from where the last run
+    # stopped (a cursor), so per-board timestamps never need to be stored.
+    watch_q = sorted((c for c in companies if due(c)), key=lambda c: hc.get(c["name"], {}).get("last_attempt", ""))
+    skipped_backoff += len(companies) - len(watch_q)
+    uni.sort(key=lambda c: c["board"])
+    cursor = int(health.get("universe_cursor", 0)) % max(1, len(uni))
+    rotated = uni[cursor:] + uni[:cursor]
+    uni_q = [c for c in rotated if due(c)]
+    skipped_backoff += len(rotated) - len(uni_q)
+    queue = watch_q + uni_q
+    uni_ok, uni_bad, uni_done = [], [], 0
 
     learned_names: dict = {}
 
@@ -181,7 +195,9 @@ def main(argv=None) -> int:
         if c.get("universe") and got and not c.get("named"):
             # first matching role on an unnamed board: learn the employer's name once,
             # then keep it forever so role ids stay stable
-            name = universe.clean_name(c.get("_org")) or universe.resolve_name(c, s) or c["name"]
+            tenant = c.get("tenant") or c.get("host", "").split(".")[0]
+            org = universe.workday_name(c.get("_org"), tenant) if c["ats"] == "workday" else None
+            name = org or (universe.resolve_name(c, s) if c["ats"] != "workday" else None) or c["name"]
             learned_names[c["board"]] = name
             for p in got:
                 p.company = name
@@ -194,8 +210,6 @@ def main(argv=None) -> int:
         futs = {ex.submit(job, c): c for c in queue}
         for f in as_completed(futs):
             c = futs[f]
-            h = hrec(c)
-            h["ats"] = c.get("ats")
             try:
                 got = f.result()
                 if got is None:
@@ -203,16 +217,24 @@ def main(argv=None) -> int:
                     continue
                 results.extend(got)
                 listed[c["board"]] = (c.get("ats"), got[0].company if got else c["name"], {p.uid for p in got})
-                h.update(ok=True, matched_titles=len(got), last_ok=now_iso(), failures=0, error="",
-                         last_attempt=now_iso())
+                if c.get("universe"):
+                    uni_done += 1
+                    uni_result(c, True)
+                else:
+                    hrec(c).update(ats=c.get("ats"), ok=True, matched_titles=len(got), last_ok=now_iso(),
+                                   failures=0, error="", last_attempt=now_iso())
             except Exception as e:
                 if c.get("universe"):
                     uerrors += 1
+                    uni_done += 1
+                    uni_result(c, False, str(e))
                 else:
                     errors += 1
                     log(f"  ! {c['name']}: {str(e)[:160]}")
-                h.update(ok=False, error=str(e)[:200], failures=int(h.get("failures", 0)) + 1,
-                         last_attempt=now_iso())
+                    hrec(c).update(ats=c.get("ats"), ok=False, error=str(e)[:200],
+                                   failures=int(hrec(c).get("failures", 0)) + 1, last_attempt=now_iso())
+    if uni and not a.universe_limit:
+        health["universe_cursor"] = (cursor + uni_done) % len(uni)
 
     # job boards and aggregators: catch employers no career-site feed covers, and learn
     # new career sites from their links
@@ -318,8 +340,7 @@ def main(argv=None) -> int:
         "merged_duplicates": outcome["merged"], "reposted": outcome["reposted"],
         "closed_after_check": closed_checked, "removed_by_rule_change": refiltered, "dropped": dropped,
         "open_roles": len(open_roles), "roles_in_latest": len(latest),
-        "universe_boards": len(uni), "universe_polled_ok": sum(1 for c in uni if hu.get(c["board"], {}).get("ok")
-                                                               and _hours_since(hu[c["board"]].get("last_attempt")) < 1),
+        "universe_boards": len(uni), "universe_polled_ok": len(uni_ok),
         "universe_errors": uerrors, "names_learned": len(learned_names),
         "employer_sites_found_on_boards": len(links), "sources": source_counts,
         "companies_with_open_roles": len({r["company"] for r in open_roles}),
@@ -331,7 +352,7 @@ def main(argv=None) -> int:
             log(f"{d['score']:3d}  {d['company']:<28} {d['title'][:70]:<70} {d['location'][:30]}"
                 f"  {('$' + format(d['pay_max'], ',')) if d.get('pay_max') else ''}")
         if a.report:
-            write_report(Path(a.report), summary, results, store, learned_names, links, uni, hu)
+            write_report(Path(a.report), summary, results, store, learned_names, links, uni, hu, uni_ok, uni_bad)
         return 0
 
     universe.save_names(DATA, learned_names)
@@ -343,7 +364,8 @@ def main(argv=None) -> int:
     readme.write_all(ROOT, list(store.roles.values()), len(companies) + len(uni), lambda p, t: write_atomic(p, t))
     old = (date.today() - timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if v.get("first", today) >= old}
-    write_atomic(DATA / "state.json", json.dumps({"seen": seen}, separators=(",", ":"), sort_keys=True))
+    body = ",\n".join(f"{json.dumps(k)}:{json.dumps(seen[k], separators=(',', ':'))}" for k in sorted(seen))
+    write_atomic(DATA / "state.json", '{"seen":{\n%s\n}}\n' % body)
     health["last_run"] = summary
     write_status(health, latest)
     write_atomic(DATA / "health.json", json.dumps(health, indent=1, sort_keys=True))
@@ -361,7 +383,7 @@ FULL_LISTING = {"greenhouse", "lever", "ashby"}   # these APIs list every open j
 CHECKS_PER_RUN = 400
 
 
-def write_report(path: Path, summary, results, store, learned, links, uni, hu):
+def write_report(path: Path, summary, results, store, learned, links, uni, hu, ok=(), bad=()):
     """Dry-run test report: what each source and the universe would contribute."""
     from collections import Counter
     srcs = Counter(p.source for p in results)
@@ -370,8 +392,6 @@ def write_report(path: Path, summary, results, store, learned, links, uni, hu):
     lines = ["# Collector test report (dry run: nothing saved)", "", "```",
              json.dumps({k: v for k, v in summary.items() if k != "dropped"}, indent=1), "```", "",
              "## Senior titles seen, by source", ""] + [f"- {k}: {v}" for k, v in srcs.most_common()]
-    ok = [c for c in uni if hu.get(c["board"], {}).get("ok")]
-    bad = [c for c in uni if c["board"] in hu and not hu[c["board"]].get("ok")]
     lines += ["", f"## Universe boards: {len(ok)} answered, {len(bad)} failed", ""]
     errs = Counter(str(hu[c["board"]].get("error", ""))[:60] for c in bad)
     lines += [f"- {n} × {e}" for e, n in errs.most_common(8)]

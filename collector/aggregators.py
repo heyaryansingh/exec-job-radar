@@ -18,16 +18,16 @@ def themuse(cfg: dict, ctx, log) -> list[Posting]:
         return []
     s = session()
     out, pages = [], int(a.get("pages", 15))
-    for page in range(pages):
+    for page in range(1, pages + 1):
         try:
             d = get_json(s, "https://www.themuse.com/api/public/jobs", tries=2, params={
-                "page": page, "descending": "true", "level": ["Senior Level", "management"]})
+                "page": page, "level": ["Senior Level", "Management"]})
         except Exception as e:
             log(f"themuse: page {page} failed ({e})")
             break
         items = d.get("items") or []
-        if page == 0:
-            log(f"themuse: page 0 returned {len(items)} items of {d.get('total')} total")
+        if page == 1:
+            log(f"themuse: page 1 returned {len(items)} items of {d.get('total')} total")
         for j in items:
             title = j.get("name") or ""
             if not ctx.title_ok(title):
@@ -41,7 +41,7 @@ def themuse(cfg: dict, ctx, log) -> list[Posting]:
                         description=html_to_text(j.get("contents")), tier=3)
             p.fill_pay_from_text()
             out.append(p)
-        if page + 1 >= int(d.get("page_count") or 0):
+        if page >= int(d.get("page_count") or 0):
             break
     return out
 

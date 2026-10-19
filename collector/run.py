@@ -39,8 +39,13 @@ DATA = ROOT / "data"
 DESC_LIMIT = 3000
 
 
+LOG_LINES: list = []
+
+
 def log(msg: str):
     print(msg, flush=True)
+    if msg.startswith(("boards", "themuse", "adzuna", "  !")):
+        LOG_LINES.append(msg)
 
 
 def write_atomic(p: Path, text: str):
@@ -120,8 +125,15 @@ def main(argv=None) -> int:
     # the universe: every other known career site (Common Crawl directory + auto-found)
     universe_on = bool((cfg.get("universe") or {}).get("enabled", False))
     uni = [] if (not universe_on or a.no_universe or a.only or a.validate) else universe.build(DATA, companies)
-    if a.universe_limit:
-        uni = sorted(uni, key=lambda c: hu.get(c["board"], {}).get("last_attempt", ""))[: a.universe_limit]
+    if a.universe_limit:  # test sample: an even mix of every career-site type
+        by_ats: dict = {}
+        for c in uni:
+            by_ats.setdefault(c["ats"], []).append(c)
+        mix, i = [], 0
+        while len(mix) < a.universe_limit and any(i < len(v) for v in by_ats.values()):
+            mix += [v[i] for v in by_ats.values() if i < len(v)]
+            i += 1
+        uni = mix[: a.universe_limit]
     if not a.only:  # forget companies removed from the watchlist / universe
         names = {c["name"] for c in companies}
         for n in [n for n in hc if n not in names]:
@@ -169,7 +181,7 @@ def main(argv=None) -> int:
         if c.get("universe") and got and not c.get("named"):
             # first matching role on an unnamed board: learn the employer's name once,
             # then keep it forever so role ids stay stable
-            name = c.get("_org") or universe.resolve_name(c, s) or c["name"]
+            name = universe.clean_name(c.get("_org")) or universe.resolve_name(c, s) or c["name"]
             learned_names[c["board"]] = name
             for p in got:
                 p.company = name
@@ -374,6 +386,13 @@ def write_report(path: Path, summary, results, store, learned, links, uni, hu):
               "| Source | Company | Role | Location |", "|---|---|---|---|"]
     for r in other[:40]:
         lines.append(f"| {r['source']} | {r['company']} | [{r['title']}]({r['url']}) | {r.get('location', '')[:40]} |")
+    lines += ["", "## Source log lines", "", "```"] + LOG_LINES[-60:] + ["```"]
+    by_ats_ok = Counter(c["ats"] for c in ok)
+    by_ats_all = Counter(c["ats"] for c in uni)
+    lines += ["", "## Universe sample by career-site type (answered / polled)", ""]
+    lines += [f"- {k}: {by_ats_ok.get(k, 0)} / {v}" for k, v in by_ats_all.items()]
+    passing_by_ats = Counter(r["source"] for r in new_uni)
+    lines += ["", "Passing roles by type: " + ", ".join(f"{k} {v}" for k, v in passing_by_ats.items())]
     lines += ["", f"## Employer career sites found in board results ({len(links)}), sample", ""]
     lines += [f"- {e.get('name')}: `{json.dumps({k: v for k, v in e.items() if k != 'name'})}`" for e in links[:30]]
     path.parent.mkdir(parents=True, exist_ok=True)

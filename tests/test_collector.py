@@ -186,3 +186,14 @@ def test_workday_raises_when_site_is_dead(monkeypatch):
     import pytest
     with pytest.raises(RuntimeError):
         sources.workday({"name": "W", "host": "w.wd5.myworkdayjobs.com", "site": "Ext"}, S(), ctx())
+
+
+def test_location_rules():
+    from collector.common import Posting
+    def ok(loc):
+        p = Posting(source="x", company="C", job_id=loc, title="VP, Cloud Infrastructure", url="u",
+                    location=loc, description="cloud AWS Kubernetes SRE observability incident")
+        return RULES.evaluate(p)[0]
+    assert ok("Houston, TX") and ok("Ontario, CA") and ok("Manchester, NH") and ok("Remote - US")
+    assert ok("New York; London") and ok("Charlotte, North Carolina, United States")
+    assert not ok("Seoul, South Korea") and not ok("Sofia, Bulgaria") and not ok("London, UK")

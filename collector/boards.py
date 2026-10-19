@@ -51,6 +51,8 @@ def sweep(cfg: dict, ctx, log, links: list | None = None, counts: dict | None = 
             except Exception as e:
                 log(f"boards: '{term}' @ {loc} failed: {e}")
                 continue
+            log(f"boards: '{term}' -> {len(df)} results " + str(dict(df["site"].value_counts())) if len(df) else
+                f"boards: '{term}' -> 0 results")
             for row in df.to_dict("records"):
                 site = str(row.get("site", "web"))
                 if counts is not None:

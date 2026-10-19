@@ -8,7 +8,7 @@ on:
     inputs:
       universe_limit:
         description: "Universe boards to poll"
-        default: "300"
+        default: "600"
   push:
     paths: ["collector/**", "tests/**", ".github/workflows/collect-test.yml"]
 
@@ -40,7 +40,7 @@ jobs:
           mkdir -p data/test_reports
           start=$(date +%s)
           python -m collector.run --dry-run --test-new --workers 16 --budget-minutes 20 \
-            --universe-limit "${{ github.event.inputs.universe_limit || 300 }}" \
+            --universe-limit "${{ github.event.inputs.universe_limit || 600 }}" \
             --report data/test_reports/collect.md
           echo "" >> data/test_reports/collect.md
           echo "Wall time: $(( $(date +%s) - start ))s" >> data/test_reports/collect.md

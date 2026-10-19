@@ -21,14 +21,13 @@ def themuse(cfg: dict, ctx, log) -> list[Posting]:
     for page in range(pages):
         try:
             d = get_json(s, "https://www.themuse.com/api/public/jobs", tries=2, params={
-                "page": page, "descending": "true",
-                "level": ["Senior Level", "Management"], "category": a.get("categories") or [
-                    "Software Engineering", "Data and Analytics", "Computer and IT", "IT", "Project Management",
-                    "Data Science"]})
+                "page": page, "descending": "true", "level": ["Senior Level", "management"]})
         except Exception as e:
             log(f"themuse: page {page} failed ({e})")
             break
         items = d.get("items") or []
+        if page == 0:
+            log(f"themuse: page 0 returned {len(items)} items of {d.get('total')} total")
         for j in items:
             title = j.get("name") or ""
             if not ctx.title_ok(title):

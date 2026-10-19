@@ -93,7 +93,7 @@ def resolve_name(c: dict, s, sample_detail: dict | None = None) -> str | None:
     try:
         if c["ats"] == "greenhouse":
             d = get_json(s, f"https://boards-api.greenhouse.io/v1/boards/{c['slug']}", tries=2)
-            return (d.get("name") or "").strip() or None
+            return clean_name(d.get("name"))
         if c["ats"] == "ashby":
             q = ("query ApiOrganizationFromHostedJobsPageName($organizationHostedJobsPageName: String!) "
                  "{ organization: organizationFromHostedJobsPageName(organizationHostedJobsPageName: "
@@ -102,13 +102,21 @@ def resolve_name(c: dict, s, sample_detail: dict | None = None) -> str | None:
                          params={"op": "ApiOrganizationFromHostedJobsPageName"},
                          body={"operationName": "ApiOrganizationFromHostedJobsPageName",
                                "variables": {"organizationHostedJobsPageName": c["slug"]}, "query": q})
-            return (((d.get("data") or {}).get("organization") or {}).get("name") or "").strip() or None
+            return clean_name(((d.get("data") or {}).get("organization") or {}).get("name"))
         if c["ats"] == "workday" and sample_detail:
             org = (sample_detail.get("hiringOrganization") or {}).get("name")
             return org.strip() if org else None
     except Exception:
         return None
     return None
+
+
+def clean_name(n: str | None) -> str | None:
+    if not n:
+        return None
+    n = re.sub(r"^(careers|jobs|work)\s+(at|with)\s+", "", n.strip(), flags=re.I)
+    n = re.sub(r"\s*[-|:]?\s*(careers?|jobs|job board|hiring)$", "", n, flags=re.I).strip()
+    return n or None
 
 
 def save_names(data_dir: Path, learned: dict):

@@ -30,7 +30,17 @@ NON_US = re.compile(
     r"france|paris|netherlands|amsterdam|spain|madrid|barcelona|poland|warsaw|krakow|"
     r"switzerland|zurich|singapore|hong kong|japan|tokyo|china|shanghai|beijing|australia|"
     r"sydney|melbourne|philippines|manila|israel|tel aviv|uae|dubai|south africa|"
-    r"luxembourg|belgium|brussels|italy|milan|sweden|stockholm|costa rica|colombia)\b", re.I)
+    r"luxembourg|belgium|brussels|italy|milan|rome|sweden|stockholm|costa rica|colombia|bogota|"
+    r"korea|seoul|bulgaria|sofia|romania|bucharest|czech|prague|hungary|budapest|portugal|lisbon|"
+    r"porto|greece|athens|turkey|istanbul|egypt|cairo|nigeria|lagos|kenya|nairobi|vietnam|"
+    r"ho chi minh|hanoi|thailand|bangkok|malaysia|kuala lumpur|indonesia|jakarta|taiwan|taipei|"
+    r"new zealand|auckland|chile|santiago|peru|lima|ukraine|kyiv|serbia|belgrade|croatia|zagreb|"
+    r"lithuania|vilnius|latvia|riga|estonia|tallinn|finland|helsinki|denmark|copenhagen|norway|"
+    r"oslo|austria|vienna|saudi|riyadh|qatar|doha|abu dhabi|pakistan|karachi|lahore|bangladesh|"
+    r"dhaka|sri lanka|colombo|uruguay|montevideo|ecuador|guatemala|panama|guadalajara|monterrey|"
+    r"mexico city|buenos aires|cordoba|calgary|ottawa|edmonton|quebec|"
+    r"british columbia|alberta|cambridge, uk|belfast|cardiff|leeds|bristol, uk|"
+    r"emea|apac|latam|europe|asia|africa|middle east)\b", re.I)
 
 
 class Rules:
@@ -93,7 +103,8 @@ class Rules:
 
         loc = (p.location or "").lower()
         remote = p.remote or "remote" in loc
-        if self.us_only and loc and NON_US.search(loc) and not US_WORDS.search(loc):
+        us_code = any(code in US_STATES for code in re.findall(r"(?:,\s*|\b)([A-Z]{2})\b", p.location or ""))
+        if self.us_only and loc and NON_US.search(loc) and not (US_WORDS.search(loc) or us_code):
             return False, "non-US location", 0
         if self.allowed_places and not (remote and self.allow_remote):
             if loc and not any(a in loc for a in self.allowed_places):

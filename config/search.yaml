@@ -165,6 +165,23 @@ domain:
     - pre-sales
     - field CTO
     - solutions consultant
+    - solutions engineering
+    - asset protection
+    - loss prevention
+    - physical security
+    - corporate security
+    - crisis
+    - pharm
+    - bioinformatics
+    - electrical
+    - mechanical
+    - embedded
+    - launch
+    - mission director
+    - federal operations
+    - scientific
+    - research and development
+    - R&D
 
 pay:
   min_annual: 200000      # drop roles whose posted range tops out below this

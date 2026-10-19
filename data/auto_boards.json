@@ -449,6 +449,29 @@
 "host": "plugpower.wd5.myworkdayjobs.com",
 "name": "Plug Power Inc",
 "site": "Plug_Power_Inc"
+},
+{
+"ats": "smartrecruiters",
+"name": "Wynn Resorts",
+"slug": "WynnResorts"
+},
+{
+"ats": "workday",
+"host": "onehealthineers.wd3.myworkdayjobs.com",
+"name": "Siemens Healthineers",
+"site": "SHSJB"
+},
+{
+"ats": "workday",
+"host": "smartcare.wd5.myworkdayjobs.com",
+"name": "Smart Care Solutions",
+"site": "Smart_Care"
+},
+{
+"ats": "workday",
+"host": "uchicago.wd5.myworkdayjobs.com",
+"name": "The University of Chicago",
+"site": "External"
 }
 ]
 }

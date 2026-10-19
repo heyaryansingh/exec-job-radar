@@ -89,3 +89,16 @@ def test_workday_display_names():
     assert w("Capital One, N.A.", "capitalone") == "Capital One"
     assert w("CADENCE US", "cadence") == "Cadence"
     assert w("112 Cardinal Health 5, LLC", "cardinalhealth") == "Cardinal Health"
+
+
+def test_question_backfill(tmp_path, monkeypatch):
+    from collector import store as st
+    from collector.common import now_iso
+    s = st.Store(tmp_path / "r.json")
+    s.add({"source": "greenhouse", "company": "Acme", "job_id": "9", "uid": "greenhouse:acme:9", "title": "VP, Platform",
+           "url": "https://acme.com/careers?gh_jid=9", "location": "Remote", "first_seen": now_iso(), "score": 80})
+    monkeypatch.setattr("collector.common.get_json", lambda s_, url, **kw: {"questions": [
+        {"label": "Why Acme?", "required": True, "fields": [{"name": "q1", "type": "textarea"}]}]})
+    run._backfill_questions([{"uid": "greenhouse:acme:9"}], s, {"Acme": "acme"})
+    r = s.roles["greenhouse:acme:9"]
+    assert r["extra"]["questions"][0]["label"] == "Why Acme?" and r["extra"]["questions_checked"]

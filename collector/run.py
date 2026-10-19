@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -360,9 +361,12 @@ def main(argv=None) -> int:
     new_sites = universe.add_auto_boards(DATA, links)
     summary["new_employer_sites_added"] = new_sites
 
+    gh_slugs = {c["name"]: c["slug"] for c in companies + uni if c.get("ats") == "greenhouse"}
+    gh_slugs.update({learned_names.get(c["board"], c["name"]): c["slug"] for c in uni if c.get("ats") == "greenhouse"})
+    _backfill_questions(apply_queue.build(open_roles), store, gh_slugs)
     store.save()
     write_atomic(DATA / "latest.json", dump_lines({"updated": now_iso(), "roles": latest}))
-    queue_roles = apply_queue.build(open_roles)
+    queue_roles = apply_queue.build(store.open_roles())
     write_atomic(DATA / "apply_queue.json", dump_lines({"updated": now_iso(), "roles": queue_roles}))
     write_atomic(DATA / "apply_queue.md", apply_queue.markdown(queue_roles))
     readme.write_all(ROOT, list(store.roles.values()), len(companies) + len(uni), lambda p, t: write_atomic(p, t))
@@ -422,6 +426,41 @@ def write_report(path: Path, summary, results, store, learned, links, uni, hu, o
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(lines) + "\n")
     log(f"report written to {path}")
+
+
+def _backfill_questions(queue: list, store, slugs: dict, limit: int = 60):
+    """Fetch application questions for queued Greenhouse roles that don't have them yet
+    (roles found before question prefetching, or whose detail call failed)."""
+    from .common import get_json
+    from .sources import compact_questions
+    s = session()
+    n = 0
+    for q in queue:
+        r = store.roles.get(q["uid"])
+        if not r or r.get("source") != "greenhouse":
+            continue
+        extra = r.setdefault("extra", {})
+        if extra.get("questions_checked"):
+            continue
+        if n >= limit:
+            break
+        board = extra.get("board", "")
+        slug = board.split(":", 1)[1] if board.startswith("greenhouse:") else slugs.get(r["company"], "")
+        if not slug:
+            m = re.search(r"greenhouse\.io/([\w-]+)/jobs", r.get("url", ""))
+            slug = m.group(1) if m else ""
+        extra["questions_checked"] = True
+        if not slug:
+            continue
+        n += 1
+        try:
+            d = get_json(s, f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs/{r['job_id']}", tries=2,
+                         params={"questions": "true"})
+            qs = compact_questions(d.get("questions") or [])
+            if qs:
+                extra["questions"] = qs
+        except Exception:
+            extra.pop("questions_checked", None)  # try again next run
 
 
 def dump_lines(obj: dict) -> str:

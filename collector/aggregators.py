@@ -96,9 +96,10 @@ def himalayas(cfg: dict, ctx, log) -> list[Posting]:
         return []
     s = session()
     out = []
-    for offset in range(0, int(a.get("max", 500)), 100):
+    offset = 0
+    while offset < int(a.get("max", 600)):
         try:
-            d = get_json(s, "https://himalayas.app/jobs/api", tries=2, params={"limit": 100, "offset": offset})
+            d = get_json(s, "https://himalayas.app/jobs/api", tries=2, params={"limit": 20, "offset": offset})
         except Exception as e:
             log(f"himalayas: failed ({e})")
             break
@@ -120,8 +121,9 @@ def himalayas(cfg: dict, ctx, log) -> list[Posting]:
                 p.pay_text = "posted range"
             p.fill_pay_from_text()
             out.append(p)
-        if len(jobs) < 100:
+        if not jobs:
             break
+        offset += len(jobs)
     return out
 
 

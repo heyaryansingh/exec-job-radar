@@ -201,7 +201,7 @@ excluded_companies: []
 # Broad sweep of Indeed + Google Jobs for employers not on the watchlist.
 boards:
   enabled: true
-  sites: [indeed, google]   # LinkedIn is deliberately not scraped
+  sites: [indeed]   # google and zip_recruiter returned nothing in tests; LinkedIn is not scraped
   hours_old: 24
   results_per_search: 40
   locations: ["United States"]
@@ -223,10 +223,10 @@ boards:
 # add repo secrets ADZUNA_APP_ID and ADZUNA_APP_KEY (Settings > Secrets > Actions).
 aggregators:
   themuse:
-    enabled: false   # on after the test passes
+    enabled: false   # API returns totals but no items as of 2026-10-19; retest before enabling
     pages: 15
   adzuna:
-    enabled: false   # on after the test passes
+    enabled: true    # runs only once ADZUNA_APP_ID / ADZUNA_APP_KEY secrets are set
     pages: 4
     max_days_old: 3
     category: it-jobs
@@ -234,4 +234,4 @@ aggregators:
 # The universe: also poll every other known career site (Common Crawl directory plus
 # employer sites found through job boards), not just config/companies.yaml.
 universe:
-  enabled: false     # on after the test passes
+  enabled: true      # tested 2026-10-19: 570/600 sample boards answered, ~5 min

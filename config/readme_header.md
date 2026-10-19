@@ -8,7 +8,7 @@ C-level technology roles in the US (and remote), refreshed **every hour**.
   every other public Workday, Greenhouse, Lever, Ashby, SmartRecruiters and Oracle career
   site we know of. The list grows on its own: when a job-board result links to an
   employer's career site, that site is added and read directly from then on.
-- Job boards and aggregators: Indeed, plus The Muse and Adzuna through their official APIs.
+- Job boards and aggregators: Indeed, plus Adzuna through its official API.
   LinkedIn is not scraped (its terms forbid it).
 
 Focus: cloud and infrastructure, platform engineering, SRE and production operations,

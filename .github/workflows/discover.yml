@@ -33,13 +33,33 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Discover
-        run: python tools/discover.py config/discover_seed.txt --limit "${{ github.event.inputs.limit || 0 }}"
+        run: |
+          set -o pipefail
+          python tools/discover.py config/discover_seed.txt --limit "${{ github.event.inputs.limit || 0 }}" | tee discover.log
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Discovery results"
+            echo '```'
+            grep -E "^(resolved this run|directory:|  ! )" discover.log || true
+            echo '```'
+            echo "<details><summary>Full log tail</summary>"
+            echo ''
+            echo '```'
+            tail -n 120 discover.log || true
+            echo '```'
+            echo "</details>"
+          } >> "$GITHUB_STEP_SUMMARY"
       - name: Commit
         if: always()
         run: |
           git config user.name "job-radar-bot"
           git config user.email "job-radar-bot@users.noreply.github.com"
-          git add config/companies.yaml data/discover_state.json data/discover_review.md data/ats_directory.json 2>/dev/null || true
+          # add each file separately: one missing file must not block the others
+          for f in config/companies.yaml data/discover_state.json data/discover_review.md data/ats_directory.json; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "companies: discovered $(date -u +'%Y-%m-%d')"
           for i in 1 2 3 4 5; do

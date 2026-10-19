@@ -123,3 +123,504 @@
 - {name: Boeing, ats: workday, host: boeing.wd1.myworkdayjobs.com, site: EXTERNAL_CAREERS, tier: 1, sector: aerospace}
 - {name: Northrop Grumman, ats: workday, host: ngc.wd1.myworkdayjobs.com, site: Northrop_Grumman_External_Site, tier: 1, sector: aerospace}
 - {name: RTX, ats: workday, host: globalhr.wd5.myworkdayjobs.com, site: REC_RTX_Ext_Gateway, tier: 1, sector: aerospace}
+
+# ---- discovered automatically (tools/discover.py)
+- {name: "Texas Capital Bank", ats: "workday", host: "texascapitalbank.wd12.myworkdayjobs.com", site: "Careers", tier: 2, sector: "bank"}
+- {name: "Frost Bank", ats: "workday", host: "frostbank.wd5.myworkdayjobs.com", site: "external", tier: 2, sector: "bank"}
+- {name: "Associated Bank", ats: "workday", host: "associatedbank.wd1.myworkdayjobs.com", site: "external_careers", tier: 3, sector: "bank"}
+- {name: "Wintrust", ats: "workday", host: "wintrust.wd1.myworkdayjobs.com", site: "Search", tier: 3, sector: "bank"}
+- {name: "Mizuho", ats: "workday", host: "mizuho.wd1.myworkdayjobs.com", site: "mizuhoamericas", tier: 1, sector: "bank"}
+- {name: "Stifel", ats: "smartrecruiters", slug: "Stifel", tier: 2, sector: "bank"}
+- {name: "Raymond James", ats: "workday", host: "raymondjames.wd1.myworkdayjobs.com", site: "RaymondJamesCareers", tier: 2, sector: "bank"}
+- {name: "Santander", ats: "workday", host: "santander.wd3.myworkdayjobs.com", site: "SantanderCareers", tier: 1, sector: "bank"}
+- {name: "Lazard", ats: "oracle", host: "icbpjb.fa.ocs.oraclecloud.com", site: "LazardProfessionalCareers", tier: 2, sector: "bank"}
+- {name: "LPL Financial", ats: "workday", host: "lplfinancial.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "brokerage"}
+- {name: "Broadridge", ats: "workday", host: "broadridge.wd5.myworkdayjobs.com", site: "Careers", tier: 2, sector: "markets"}
+- {name: "SS&C Technologies", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/ssctech/SSCTechnologies", site: "SSCTechnologies", tenant: "ssctech", tier: 2, sector: "markets"}
+- {name: "Bloomberg", ats: "workday", host: "bloomberg.wd1.myworkdayjobs.com", site: "Bloombergindustrygroup_External_Career_Site", tier: 1, sector: "markets"}
+- {name: "S&P Global", ats: "workday", host: "spgi.wd5.myworkdayjobs.com", site: "SPGI_Careers", tier: 1, sector: "markets"}
+- {name: "Citadel", ats: "ashby", slug: "citadel-ai", tier: 1, sector: "hedge fund"}
+- {name: "Ameriprise Financial", ats: "workday", host: "ameriprise.wd5.myworkdayjobs.com", site: "Ameriprise", tier: 2, sector: "brokerage"}
+- {name: "LSEG", ats: "workday", host: "lseg.wd3.myworkdayjobs.com", site: "Careers", tier: 1, sector: "markets"}
+- {name: "Thomson Reuters", ats: "workday", host: "thomsonreuters.wd5.myworkdayjobs.com", site: "External_Career_Site", tier: 1, sector: "markets"}
+- {name: "Jane Street", ats: "greenhouse", slug: "janestreet", tier: 1, sector: "markets"}
+- {name: "Jump Trading", ats: "greenhouse", slug: "jumptrading", tier: 1, sector: "markets"}
+- {name: "Virtu Financial", ats: "greenhouse", slug: "virtu", tier: 2, sector: "markets"}
+- {name: "Tower Research Capital", ats: "greenhouse", slug: "towerresearchcapital", tier: 2, sector: "markets"}
+- {name: "Man Group", ats: "greenhouse", slug: "mangroup", tier: 2, sector: "hedge fund"}
+- {name: "Schonfeld", ats: "greenhouse", slug: "schonfeld", tier: 2, sector: "hedge fund"}
+- {name: "ExodusPoint", ats: "greenhouse", slug: "exoduspoint", tier: 2, sector: "hedge fund"}
+- {name: "OneMain Financial", ats: "workday", host: "myhrhome.wd1.myworkdayjobs.com", site: "OneMainCareers", tier: 3, sector: "finance"}
+- {name: "Enova", ats: "greenhouse", slug: "enova", tier: 3, sector: "fintech"}
+- {name: "BECU", ats: "workday", host: "becu.wd1.myworkdayjobs.com", site: "external", tier: 3, sector: "bank"}
+- {name: "Invesco", ats: "workday", host: "invesco.wd1.myworkdayjobs.com", site: "IVZ", tier: 2, sector: "asset management"}
+- {name: "PIMCO", ats: "workday", host: "pimco.wd1.myworkdayjobs.com", site: "pimco-careers", tier: 1, sector: "asset management"}
+- {name: "Northern Trust Asset Management", ats: "workday", host: "ntrs.wd1.myworkdayjobs.com", site: "northerntrust", tier: 2, sector: "asset management"}
+- {name: "Dimensional Fund Advisors", ats: "workday", host: "dimensional.wd5.myworkdayjobs.com", site: "DFA_Careers", tier: 2, sector: "asset management"}
+- {name: "Voya Financial", ats: "workday", host: "godirect.wd5.myworkdayjobs.com", site: "voya_jobs", tier: 2, sector: "asset management"}
+- {name: "AllianceBernstein", ats: "workday", host: "abglobal.wd1.myworkdayjobs.com", site: "alliancebernsteincareers", tier: 2, sector: "asset management"}
+- {name: "Capital Group", ats: "greenhouse", slug: "capitalontap", tier: 1, sector: "asset management"}
+- {name: "Blackstone", ats: "workday", host: "blackstone.wd1.myworkdayjobs.com", site: "Blackstone_Careers", tier: 1, sector: "private equity"}
+- {name: "TPG", ats: "greenhouse", slug: "tpgcareers", tier: 1, sector: "private equity"}
+- {name: "Brookfield", ats: "workday", host: "ensign.wd1.myworkdayjobs.com", site: "BrookfieldHealthcareCenterCareerSite", tier: 1, sector: "private equity"}
+- {name: "Blue Owl Capital", ats: "workday", host: "blueowl.wd1.myworkdayjobs.com", site: "blueowl", tier: 2, sector: "private equity"}
+- {name: "Bain Capital", ats: "workday", host: "baincapital.wd1.myworkdayjobs.com", site: "External_Public", tier: 1, sector: "private equity"}
+- {name: "General Atlantic", ats: "greenhouse", slug: "generalatlantic", tier: 2, sector: "private equity"}
+- {name: "Hamilton Lane", ats: "workday", host: "wd3.myworkdaysite.com", public_base: "https://wd3.myworkdaysite.com/en-US/recruiting/hamilton/hamilton_jobs", site: "hamilton_jobs", tenant: "hamilton", tier: 3, sector: "private equity"}
+- {name: "StepStone Group", ats: "greenhouse", slug: "stepstone", tier: 3, sector: "private equity"}
+- {name: "Addepar", ats: "greenhouse", slug: "addepar1", tier: 2, sector: "fintech"}
+- {name: "Wealthfront", ats: "lever", slug: "wealthfront", tier: 3, sector: "fintech"}
+- {name: "Betterment", ats: "greenhouse", slug: "betterment", tier: 3, sector: "fintech"}
+- {name: "MetLife", ats: "lever", slug: "metlife", tier: 1, sector: "insurance"}
+- {name: "Orion Advisor Solutions", ats: "workday", host: "orionadvisor.wd1.myworkdayjobs.com", site: "Orion_Careers", tier: 3, sector: "fintech"}
+- {name: "Nationwide", ats: "workday", host: "nationwide.wd1.myworkdayjobs.com", site: "Nationwide_Career", tier: 1, sector: "insurance"}
+- {name: "AIG", ats: "workday", host: "aig.wd1.myworkdayjobs.com", site: "aig", tier: 1, sector: "insurance"}
+- {name: "The Hartford", ats: "workday", host: "thehartford.wd5.myworkdayjobs.com", site: "Careers_External", tier: 2, sector: "insurance"}
+- {name: "Northwestern Mutual", ats: "smartrecruiters", slug: "NorthwesternMutual", tier: 1, sector: "insurance"}
+- {name: "MassMutual", ats: "workday", host: "massmutual.wd1.myworkdayjobs.com", site: "mmcareers", tier: 1, sector: "insurance"}
+- {name: "Lincoln Financial", ats: "greenhouse", slug: "lincoln", tier: 2, sector: "insurance"}
+- {name: "Guardian Life", ats: "workday", host: "guardianlife.wd5.myworkdayjobs.com", site: "Guardian-Life-Careers", tier: 2, sector: "insurance"}
+- {name: "Corebridge Financial", ats: "workday", host: "corebridgefinancial.wd1.myworkdayjobs.com", site: "CorebridgeFinancial", tier: 2, sector: "insurance"}
+- {name: "Unum", ats: "workday", host: "unum.wd1.myworkdayjobs.com", site: "External", tier: 3, sector: "insurance"}
+- {name: "Markel", ats: "smartrecruiters", slug: "Markel", tier: 2, sector: "insurance"}
+- {name: "Munich Re", ats: "greenhouse", slug: "nextinsurancemresandbox", tier: 2, sector: "insurance"}
+- {name: "Hanover Insurance", ats: "greenhouse", slug: "hanover", tier: 3, sector: "insurance"}
+- {name: "Kemper", ats: "workday", host: "kemper.wd5.myworkdayjobs.com", site: "Kemper_Careers", tier: 3, sector: "insurance"}
+- {name: "Assurant", ats: "workday", host: "assurant.wd1.myworkdayjobs.com", site: "Assurant_Careers", tier: 2, sector: "insurance"}
+- {name: "Everest Group", ats: "workday", host: "wd5.myworkdaysite.com", public_base: "https://wd5.myworkdaysite.com/en-US/recruiting/everestre/careers", site: "careers", tenant: "everestre", tier: 2, sector: "insurance"}
+- {name: "Lemonade", ats: "ashby", slug: "lemonade", tier: 3, sector: "insurance"}
+- {name: "Brown & Brown", ats: "smartrecruiters", slug: "BrownBrown", tier: 3, sector: "insurance"}
+- {name: "Hippo", ats: "greenhouse", slug: "hippo70", tier: 3, sector: "insurance"}
+- {name: "Duck Creek Technologies", ats: "workday", host: "duckcreek.wd1.myworkdayjobs.com", site: "duckcreekcareers", tier: 3, sector: "insurance"}
+- {name: "Global Payments", ats: "workday", host: "global.wd1.myworkdayjobs.com", site: "globalpartnerscareers", tier: 1, sector: "payments"}
+- {name: "Block", ats: "greenhouse", slug: "block", tier: 1, sector: "fintech"}
+- {name: "Adyen", ats: "greenhouse", slug: "adyen", tier: 1, sector: "payments"}
+- {name: "Square", ats: "greenhouse", slug: "squarespace", tier: 1, sector: "fintech"}
+- {name: "Payoneer", ats: "greenhouse", slug: "payoneer", tier: 3, sector: "payments"}
+- {name: "Bill.com", ats: "greenhouse", slug: "billcom", tier: 2, sector: "fintech"}
+- {name: "Upstart", ats: "greenhouse", slug: "upstart", tier: 3, sector: "fintech"}
+- {name: "Intuit", ats: "workday", host: "intuitive.wd1.myworkdayjobs.com", site: "irtc_careers", tier: 1, sector: "fintech"}
+- {name: "Flywire", ats: "workday", host: "flywire.wd108.myworkdayjobs.com", site: "flywirecareers", tier: 3, sector: "payments"}
+- {name: "Ripple", ats: "greenhouse", slug: "ripple", tier: 2, sector: "fintech"}
+- {name: "LendingClub", ats: "workday", host: "lendingclub.wd1.myworkdayjobs.com", site: "External", tier: 3, sector: "fintech"}
+- {name: "Circle", ats: "ashby", slug: "circle", tier: 2, sector: "fintech"}
+- {name: "Gemini", ats: "greenhouse", slug: "gemini", tier: 3, sector: "fintech"}
+- {name: "Kraken", ats: "ashby", slug: "kraken.com", tier: 2, sector: "fintech"}
+- {name: "Chainalysis", ats: "ashby", slug: "chainalysis-careers", tier: 3, sector: "fintech"}
+- {name: "Fireblocks", ats: "greenhouse", slug: "fireblocks", tier: 3, sector: "fintech"}
+- {name: "Paxos", ats: "ashby", slug: "paxos", tier: 3, sector: "fintech"}
+- {name: "Acorns", ats: "ashby", slug: "acorns", tier: 3, sector: "fintech"}
+- {name: "Public.com", ats: "greenhouse", slug: "public", tier: 3, sector: "fintech"}
+- {name: "Current", ats: "greenhouse", slug: "current", tier: 3, sector: "fintech"}
+- {name: "Anchorage Digital", ats: "lever", slug: "anchorage", tier: 3, sector: "fintech"}
+- {name: "Dave", ats: "ashby", slug: "dave", tier: 3, sector: "fintech"}
+- {name: "Greenlight", ats: "lever", slug: "greenlight", tier: 3, sector: "fintech"}
+- {name: "Gusto", ats: "greenhouse", slug: "gusto", tier: 2, sector: "fintech"}
+- {name: "Remote", ats: "greenhouse", slug: "remote", tier: 3, sector: "fintech"}
+- {name: "Alloy", ats: "greenhouse", slug: "alloy", tier: 3, sector: "fintech"}
+- {name: "Socure", ats: "ashby", slug: "socure", tier: 3, sector: "fintech"}
+- {name: "Plaid Inc", ats: "ashby", slug: "plaid", tier: 2, sector: "fintech"}
+- {name: "MX Technologies", ats: "greenhouse", slug: "mxtechnologiesinc", tier: 3, sector: "fintech"}
+- {name: "Blend", ats: "greenhouse", slug: "blend", tier: 3, sector: "fintech"}
+- {name: "Figure Technologies", ats: "greenhouse", slug: "figure", tier: 3, sector: "fintech"}
+- {name: "Sezzle", ats: "greenhouse", slug: "sezzle", tier: 3, sector: "fintech"}
+- {name: "Coupa", ats: "lever", slug: "coupa", tier: 2, sector: "fintech"}
+- {name: "Wise", ats: "greenhouse", slug: "wise", tier: 2, sector: "fintech"}
+- {name: "Airwallex", ats: "ashby", slug: "airwallex", tier: 2, sector: "fintech"}
+- {name: "Tipalti", ats: "greenhouse", slug: "tipaltisolutions", tier: 3, sector: "fintech"}
+- {name: "Nubank", ats: "ashby", slug: "nubank", tier: 2, sector: "fintech"}
+- {name: "AvidXchange", ats: "greenhouse", slug: "avidxchangeinc", tier: 3, sector: "fintech"}
+- {name: "Mercury Technologies", ats: "greenhouse", slug: "mercury", tier: 3, sector: "fintech"}
+- {name: "Melio", ats: "greenhouse", slug: "melio", tier: 3, sector: "fintech"}
+- {name: "Lithic", ats: "greenhouse", slug: "lithic", tier: 3, sector: "fintech"}
+- {name: "Nium", ats: "lever", slug: "nium", tier: 3, sector: "payments"}
+- {name: "Green Dot", ats: "workday", host: "greendotcorp.wd1.myworkdayjobs.com", site: "gdc", tier: 3, sector: "fintech"}
+- {name: "Unit", ats: "ashby", slug: "unit", tier: 3, sector: "fintech"}
+- {name: "Modern Treasury", ats: "ashby", slug: "moderntreasury", tier: 3, sector: "fintech"}
+- {name: "Column", ats: "ashby", slug: "column", tier: 3, sector: "fintech"}
+- {name: "Checkout.com", ats: "ashby", slug: "checkout.com", tier: 2, sector: "payments"}
+- {name: "Uber", ats: "smartrecruiters", slug: "Uber", tier: 1, sector: "tech"}
+- {name: "LinkedIn", ats: "lever", slug: "linkedin", tier: 1, sector: "tech"}
+- {name: "Snowflake", ats: "ashby", slug: "snowflake", tier: 1, sector: "tech"}
+- {name: "Iron Mountain", ats: "smartrecruiters", slug: "IronMountain", tier: 2, sector: "tech"}
+- {name: "Fastly", ats: "greenhouse", slug: "fastly", tier: 2, sector: "tech"}
+- {name: "Equinix", ats: "workday", host: "equinix.wd1.myworkdayjobs.com", site: "external", tier: 1, sector: "tech"}
+- {name: "Rackspace", ats: "workday", host: "rackspace.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "tech"}
+- {name: "Wellington Management", ats: "workday", host: "wellington.wd5.myworkdayjobs.com", site: "External", tier: 1, sector: "asset management"}
+- {name: "DigitalOcean", ats: "greenhouse", slug: "digitalocean98", tier: 2, sector: "tech"}
+- {name: "Unisys", ats: "workday", host: "unisys.wd5.myworkdayjobs.com", site: "External", tier: 3, sector: "tech"}
+- {name: "DXC Technology", ats: "workday", host: "dxctechnology.wd1.myworkdayjobs.com", site: "DXCJobs", tier: 2, sector: "tech"}
+- {name: "Kyndryl", ats: "workday", host: "kyndryl.wd5.myworkdayjobs.com", site: "KyndrylEarlyCareers", tier: 1, sector: "tech"}
+- {name: "Hitachi Vantara", ats: "workday", host: "hitachi.wd1.myworkdayjobs.com", site: "hitachi", tier: 2, sector: "tech"}
+- {name: "Commvault", ats: "greenhouse", slug: "commvault", tier: 2, sector: "tech"}
+- {name: "Western Digital", ats: "smartrecruiters", slug: "WesternDigital", tier: 2, sector: "tech"}
+- {name: "Micron", ats: "workday", host: "micron.wd1.myworkdayjobs.com", site: "External", tier: 1, sector: "tech"}
+- {name: "KLA", ats: "workday", host: "kla.wd1.myworkdayjobs.com", site: "Search", tier: 1, sector: "tech"}
+- {name: "Marvell", ats: "workday", host: "marvell.wd1.myworkdayjobs.com", site: "MarvellCareers", tier: 1, sector: "tech"}
+- {name: "Analog Devices", ats: "workday", host: "analogdevices.wd1.myworkdayjobs.com", site: "External", tier: 1, sector: "tech"}
+- {name: "Arista Networks", ats: "smartrecruiters", slug: "AristaNetworks", tier: 1, sector: "tech"}
+- {name: "Extreme Networks", ats: "lever", slug: "extremenetworks", tier: 3, sector: "tech"}
+- {name: "CoreWeave", ats: "greenhouse", slug: "coreweave", tier: 1, sector: "tech"}
+- {name: "Lambda", ats: "ashby", slug: "lambda", tier: 2, sector: "tech"}
+- {name: "Crusoe", ats: "ashby", slug: "crusoe", tier: 2, sector: "tech"}
+- {name: "Cerebras", ats: "ashby", slug: "cerebras", tier: 2, sector: "tech"}
+- {name: "Logitech", ats: "workday", host: "logitech.wd5.myworkdayjobs.com", site: "Logitech", tier: 3, sector: "tech"}
+- {name: "Autodesk", ats: "workday", host: "autodesk.wd1.myworkdayjobs.com", site: "Ext", tier: 1, sector: "tech"}
+- {name: "Smartsheet", ats: "greenhouse", slug: "smartsheet", tier: 2, sector: "tech"}
+- {name: "Asana", ats: "greenhouse", slug: "asana", tier: 2, sector: "tech"}
+- {name: "Freshworks", ats: "smartrecruiters", slug: "Freshworks", tier: 2, sector: "tech"}
+- {name: "Miro", ats: "ashby", slug: "miro", tier: 2, sector: "tech"}
+- {name: "Zendesk", ats: "workday", host: "zendesk.wd1.myworkdayjobs.com", site: "zendesk", tier: 2, sector: "tech"}
+- {name: "Airtable", ats: "greenhouse", slug: "airtable", tier: 2, sector: "tech"}
+- {name: "Canva", ats: "smartrecruiters", slug: "Canva", tier: 2, sector: "tech"}
+- {name: "New Relic", ats: "greenhouse", slug: "newrelic", tier: 2, sector: "tech"}
+- {name: "Sumo Logic", ats: "greenhouse", slug: "sumologic", tier: 3, sector: "tech"}
+- {name: "Cockroach Labs", ats: "greenhouse", slug: "cockroachlabs", tier: 2, sector: "tech"}
+- {name: "Couchbase", ats: "greenhouse", slug: "couchbaseinc", tier: 3, sector: "tech"}
+- {name: "Redis", ats: "ashby", slug: "redis", tier: 2, sector: "tech"}
+- {name: "SingleStore", ats: "greenhouse", slug: "singlestore", tier: 3, sector: "tech"}
+- {name: "ClickHouse", ats: "ashby", slug: "clickhouse", tier: 2, sector: "tech"}
+- {name: "Yugabyte", ats: "greenhouse", slug: "yugabyte", tier: 3, sector: "tech"}
+- {name: "Starburst", ats: "greenhouse", slug: "starburst", tier: 3, sector: "tech"}
+- {name: "Cloudera", ats: "workday", host: "cloudera.wd5.myworkdayjobs.com", site: "External_Career", tier: 2, sector: "tech"}
+- {name: "Sigma Computing", ats: "greenhouse", slug: "sigmacomputing", tier: 3, sector: "tech"}
+- {name: "UiPath", ats: "ashby", slug: "uipath", tier: 2, sector: "tech"}
+- {name: "Appian", ats: "greenhouse", slug: "appian", tier: 3, sector: "tech"}
+- {name: "Mendix", ats: "lever", slug: "mendix", tier: 3, sector: "tech"}
+- {name: "Alteryx", ats: "workday", host: "alteryx.wd108.myworkdayjobs.com", site: "AlteryxCareers", tier: 3, sector: "tech"}
+- {name: "JFrog", ats: "greenhouse", slug: "jfrog", tier: 2, sector: "tech"}
+- {name: "CircleCI", ats: "greenhouse", slug: "circleci", tier: 3, sector: "tech"}
+- {name: "LaunchDarkly", ats: "greenhouse", slug: "launchdarkly", tier: 3, sector: "tech"}
+- {name: "Kong", ats: "ashby", slug: "kong", tier: 3, sector: "tech"}
+- {name: "Workato", ats: "greenhouse", slug: "workato", tier: 3, sector: "tech"}
+- {name: "Harness", ats: "greenhouse", slug: "harnessinc", tier: 2, sector: "tech"}
+- {name: "Celonis", ats: "greenhouse", slug: "celonis", tier: 2, sector: "tech"}
+- {name: "Tanium", ats: "greenhouse", slug: "tanium", tier: 2, sector: "tech"}
+- {name: "SolarWinds", ats: "greenhouse", slug: "solarwinds", tier: 3, sector: "tech"}
+- {name: "Honeycomb", ats: "greenhouse", slug: "honeycomb", tier: 3, sector: "tech"}
+- {name: "Sentry", ats: "ashby", slug: "sentry", tier: 3, sector: "tech"}
+- {name: "Netlify", ats: "greenhouse", slug: "netlify", tier: 3, sector: "tech"}
+- {name: "Supabase", ats: "ashby", slug: "supabase", tier: 3, sector: "tech"}
+- {name: "PlanetScale", ats: "greenhouse", slug: "planetscale", tier: 3, sector: "tech"}
+- {name: "Neon", ats: "lever", slug: "neon", tier: 3, sector: "tech"}
+- {name: "Workiva", ats: "workday", host: "workiva.wd503.myworkdayjobs.com", site: "careers", tier: 3, sector: "tech"}
+- {name: "Vercel Inc", ats: "greenhouse", slug: "vercel", tier: 3, sector: "tech"}
+- {name: "Blackbaud", ats: "workday", host: "blackbaud.wd1.myworkdayjobs.com", site: "ExternalCareers", tier: 3, sector: "tech"}
+- {name: "Epicor", ats: "workday", host: "epicorsoftware.wd5.myworkdayjobs.com", site: "epicorjobs", tier: 3, sector: "tech"}
+- {name: "GoDaddy", ats: "greenhouse", slug: "godaddy", tier: 2, sector: "tech"}
+- {name: "Braze", ats: "greenhouse", slug: "braze", tier: 3, sector: "tech"}
+- {name: "Mixpanel", ats: "greenhouse", slug: "mixpanel", tier: 3, sector: "tech"}
+- {name: "BigCommerce", ats: "smartrecruiters", slug: "BigCommerce", tier: 3, sector: "tech"}
+- {name: "Qualtrics", ats: "greenhouse", slug: "qualtrics", tier: 2, sector: "tech"}
+- {name: "Gong", ats: "smartrecruiters", slug: "Gong", tier: 2, sector: "tech"}
+- {name: "Outreach", ats: "lever", slug: "outreach", tier: 3, sector: "tech"}
+- {name: "ZoomInfo", ats: "greenhouse", slug: "zoominfo", tier: 2, sector: "tech"}
+- {name: "Seismic", ats: "ashby", slug: "seismic-change.com", tier: 3, sector: "tech"}
+- {name: "Sprinklr", ats: "workday", host: "sprinklr.wd1.myworkdayjobs.com", site: "careers", tier: 3, sector: "tech"}
+- {name: "Zuora", ats: "greenhouse", slug: "zuora", tier: 3, sector: "tech"}
+- {name: "Anaplan", ats: "greenhouse", slug: "anaplan", tier: 2, sector: "tech"}
+- {name: "Clari", ats: "ashby", slug: "clarify", tier: 3, sector: "tech"}
+- {name: "Amplitude", ats: "ashby", slug: "amplitude", tier: 3, sector: "tech"}
+- {name: "Five9", ats: "greenhouse", slug: "five9", tier: 3, sector: "tech"}
+- {name: "NICE", ats: "greenhouse", slug: "nice", tier: 2, sector: "tech"}
+- {name: "Intapp", ats: "workday", host: "intapp.wd1.myworkdayjobs.com", site: "Intapp", tier: 3, sector: "tech"}
+- {name: "Bandwidth", ats: "greenhouse", slug: "bandwidth", tier: 3, sector: "tech"}
+- {name: "Talkdesk", ats: "greenhouse", slug: "talkdesk2", tier: 3, sector: "tech"}
+- {name: "Vonage", ats: "greenhouse", slug: "vonage", tier: 3, sector: "tech"}
+- {name: "RingCentral", ats: "workday", host: "ringcentral.wd1.myworkdayjobs.com", site: "RingCentral_Careers", tier: 2, sector: "tech"}
+- {name: "Genesys", ats: "workday", host: "genesys.wd1.myworkdayjobs.com", site: "Genesys", tier: 2, sector: "tech"}
+- {name: "Netskope", ats: "greenhouse", slug: "netskope", tier: 2, sector: "security"}
+- {name: "Tenable", ats: "greenhouse", slug: "tenableinc", tier: 2, sector: "security"}
+- {name: "Ping Identity", ats: "greenhouse", slug: "pingidentity", tier: 3, sector: "security"}
+- {name: "1Password", ats: "ashby", slug: "1password", tier: 3, sector: "security"}
+- {name: "Proofpoint", ats: "workday", host: "proofpoint.wd5.myworkdayjobs.com", site: "proofpointcareers", tier: 2, sector: "security"}
+- {name: "Abnormal Security", ats: "greenhouse", slug: "abnormalsecurity", tier: 3, sector: "security"}
+- {name: "SailPoint", ats: "workday", host: "sailpoint.wd1.myworkdayjobs.com", site: "SailPoint", tier: 2, sector: "security"}
+- {name: "Arctic Wolf", ats: "workday", host: "arcticwolf.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "security"}
+- {name: "Illumio", ats: "ashby", slug: "illumio", tier: 3, sector: "security"}
+- {name: "Lookout", ats: "greenhouse", slug: "lookout", tier: 3, sector: "security"}
+- {name: "Snyk", ats: "ashby", slug: "snyk", tier: 3, sector: "security"}
+- {name: "Axonius", ats: "greenhouse", slug: "axonius", tier: 3, sector: "security"}
+- {name: "Vanta", ats: "ashby", slug: "vanta", tier: 3, sector: "security"}
+- {name: "Drata", ats: "ashby", slug: "drata", tier: 3, sector: "security"}
+- {name: "Chainguard", ats: "greenhouse", slug: "chainguard", tier: 3, sector: "security"}
+- {name: "Cribl", ats: "greenhouse", slug: "cribl", tier: 3, sector: "security"}
+- {name: "Armis", ats: "smartrecruiters", slug: "Armis", tier: 3, sector: "security"}
+- {name: "Darktrace", ats: "workday", host: "darktrace.wd3.myworkdayjobs.com", site: "DarktaceExternal", tier: 3, sector: "security"}
+- {name: "OneTrust", ats: "greenhouse", slug: "onetrust", tier: 3, sector: "security"}
+- {name: "BeyondTrust", ats: "greenhouse", slug: "beyondtrust", tier: 3, sector: "security"}
+- {name: "Keeper Security", ats: "greenhouse", slug: "keepersecurity", tier: 3, sector: "security"}
+- {name: "CACI", ats: "smartrecruiters", slug: "Caci", tier: 2, sector: "defense"}
+- {name: "Cohere", ats: "ashby", slug: "cohere", tier: 2, sector: "AI"}
+- {name: "Perplexity", ats: "ashby", slug: "perplexity", tier: 2, sector: "AI"}
+- {name: "xAI", ats: "greenhouse", slug: "xai", tier: 1, sector: "AI"}
+- {name: "Writer", ats: "ashby", slug: "writer", tier: 3, sector: "AI"}
+- {name: "Harvey", ats: "ashby", slug: "harvey", tier: 2, sector: "AI"}
+- {name: "Glean", ats: "smartrecruiters", slug: "Glean", tier: 2, sector: "AI"}
+- {name: "Runway", ats: "ashby", slug: "runway", tier: 3, sector: "AI"}
+- {name: "Together AI", ats: "greenhouse", slug: "togetherai", tier: 2, sector: "AI"}
+- {name: "Anyscale", ats: "lever", slug: "anyscale", tier: 3, sector: "AI"}
+- {name: "Modal", ats: "ashby", slug: "modal", tier: 3, sector: "AI"}
+- {name: "Replit", ats: "ashby", slug: "replit", tier: 3, sector: "AI"}
+- {name: "Cursor", ats: "ashby", slug: "cursor", tier: 2, sector: "AI"}
+- {name: "Cognition", ats: "ashby", slug: "cognition", tier: 2, sector: "AI"}
+- {name: "Sierra", ats: "ashby", slug: "sierra", tier: 2, sector: "AI"}
+- {name: "Abridge", ats: "ashby", slug: "abridge", tier: 2, sector: "AI"}
+- {name: "Inflection AI", ats: "greenhouse", slug: "inflectionai", tier: 3, sector: "AI"}
+- {name: "Decagon", ats: "ashby", slug: "decagon", tier: 3, sector: "AI"}
+- {name: "Weaviate", ats: "ashby", slug: "weaviate", tier: 3, sector: "AI"}
+- {name: "Pinecone", ats: "ashby", slug: "pinecone", tier: 3, sector: "AI"}
+- {name: "LangChain", ats: "ashby", slug: "langchain", tier: 3, sector: "AI"}
+- {name: "Snorkel AI", ats: "greenhouse", slug: "snorkelai", tier: 3, sector: "AI"}
+- {name: "Labelbox", ats: "greenhouse", slug: "labelbox", tier: 3, sector: "AI"}
+- {name: "Dataiku", ats: "greenhouse", slug: "dataiku", tier: 2, sector: "AI"}
+- {name: "Domino Data Lab", ats: "greenhouse", slug: "dominodatalab", tier: 3, sector: "AI"}
+- {name: "SambaNova Systems", ats: "greenhouse", slug: "sambanovasystems", tier: 3, sector: "AI"}
+- {name: "Figure AI", ats: "greenhouse", slug: "figureai", tier: 2, sector: "AI"}
+- {name: "Etched", ats: "ashby", slug: "etched", tier: 3, sector: "AI"}
+- {name: "Physical Intelligence", ats: "ashby", slug: "physicalintelligence", tier: 3, sector: "AI"}
+- {name: "DataRobot", ats: "workday", host: "datarobot.wd1.myworkdayjobs.com", site: "DataRobot_External_Careers", tier: 3, sector: "AI"}
+- {name: "Helsing", ats: "greenhouse", slug: "helsing", tier: 3, sector: "defense tech"}
+- {name: "Shield AI", ats: "lever", slug: "shieldai", tier: 2, sector: "defense tech"}
+- {name: "Saronic", ats: "ashby", slug: "saronic", tier: 3, sector: "defense tech"}
+- {name: "Skild AI", ats: "greenhouse", slug: "skildai-careers", tier: 3, sector: "AI"}
+- {name: "Tripadvisor", ats: "greenhouse", slug: "tripadvisor", tier: 3, sector: "internet"}
+- {name: "Wayfair", ats: "smartrecruiters", slug: "Wayfair", tier: 2, sector: "internet"}
+- {name: "Booking Holdings", ats: "workday", host: "priceline.wd1.myworkdayjobs.com", site: "BookingHoldings", tier: 1, sector: "internet"}
+- {name: "Expedia Group", ats: "workday", host: "expedia.wd108.myworkdayjobs.com", site: "search", tier: 1, sector: "internet"}
+- {name: "Nextdoor", ats: "greenhouse", slug: "nextdoor", tier: 3, sector: "internet"}
+- {name: "Uber Technologies", ats: "oracle", host: "iaziqy.fa.ocs.oraclecloud.com", site: "UberCareers", tier: 1, sector: "internet"}
+- {name: "Snap", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap", site: "snap", tenant: "snapchat", tier: 1, sector: "internet"}
+- {name: "Epic Games", ats: "greenhouse", slug: "epicgames", tier: 2, sector: "internet"}
+- {name: "Riot Games", ats: "greenhouse", slug: "riotgames", tier: 2, sector: "internet"}
+- {name: "Take-Two Interactive", ats: "greenhouse", slug: "taketwo", tier: 2, sector: "internet"}
+- {name: "CoStar Group", ats: "workday", host: "costar.wd1.myworkdayjobs.com", site: "CoStarCareers", tier: 2, sector: "internet"}
+- {name: "Unity", ats: "ashby", slug: "unity-advisory", tier: 2, sector: "internet"}
+- {name: "The New York Times", ats: "greenhouse", slug: "thenewyorktimes", tier: 2, sector: "media"}
+- {name: "iHeartMedia", ats: "smartrecruiters", slug: "iHeartMedia", tier: 3, sector: "media"}
+- {name: "News Corp", ats: "smartrecruiters", slug: "NewsCorp", tier: 2, sector: "media"}
+- {name: "Peloton", ats: "greenhouse", slug: "peloton", tier: 3, sector: "internet"}
+- {name: "Duolingo", ats: "greenhouse", slug: "duolingo", tier: 3, sector: "internet"}
+- {name: "Fox Corporation", ats: "workday", host: "fox.wd1.myworkdayjobs.com", site: "Domestic", tier: 2, sector: "media"}
+- {name: "Coursera", ats: "greenhouse", slug: "coursera", tier: 3, sector: "internet"}
+- {name: "Dow Jones", ats: "workday", host: "dowjones.wd1.myworkdayjobs.com", site: "News_Corp_Australia_Careers", tier: 2, sector: "media"}
+- {name: "Carvana", ats: "greenhouse", slug: "carvana", tier: 2, sector: "internet"}
+- {name: "CarMax", ats: "workday", host: "carmax.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "retail"}
+- {name: "Angi", ats: "ashby", slug: "angi", tier: 3, sector: "internet"}
+- {name: "Thumbtack", ats: "ashby", slug: "thumbtack", tier: 3, sector: "internet"}
+- {name: "Grubhub", ats: "workday", host: "wonder.wd1.myworkdayjobs.com", site: "Grubhub_Careers", tier: 3, sector: "internet"}
+- {name: "Match Group", ats: "lever", slug: "matchgroup", tier: 2, sector: "internet"}
+- {name: "Calendly", ats: "greenhouse", slug: "calendly", tier: 3, sector: "internet"}
+- {name: "Bumble", ats: "ashby", slug: "bumbleinc", tier: 3, sector: "internet"}
+- {name: "ZipRecruiter", ats: "greenhouse", slug: "ziprecruiter", tier: 3, sector: "internet"}
+- {name: "Upwork", ats: "greenhouse", slug: "upwork", tier: 3, sector: "internet"}
+- {name: "Canva Inc", ats: "ashby", slug: "canvas-medical", tier: 2, sector: "internet"}
+- {name: "Fiverr", ats: "smartrecruiters", slug: "Fiverr", tier: 3, sector: "internet"}
+- {name: "AT&T", ats: "workday", host: "att.wd1.myworkdayjobs.com", site: "ATTGeneral", tier: 1, sector: "telecom"}
+- {name: "T-Mobile", ats: "workday", host: "tmobile.wd1.myworkdayjobs.com", site: "External", tier: 1, sector: "telecom"}
+- {name: "Zayo", ats: "workday", host: "zayo.wd1.myworkdayjobs.com", site: "Zayo_Careers", tier: 3, sector: "telecom"}
+- {name: "Nordstrom", ats: "workday", host: "nordstrom.wd501.myworkdayjobs.com", site: "nordstrom_careers", tier: 2, sector: "retail"}
+- {name: "Gap Inc", ats: "smartrecruiters", slug: "GapInc", tier: 2, sector: "retail"}
+- {name: "Kohl's", ats: "workday", host: "kohls.wd504.myworkdayjobs.com", site: "kohlscareers", tier: 2, sector: "retail"}
+- {name: "Domino's", ats: "smartrecruiters", slug: "Dominos", tier: 2, sector: "retail"}
+- {name: "Nike", ats: "workday", host: "nike.wd1.myworkdayjobs.com", site: "nke", tier: 1, sector: "retail"}
+- {name: "O'Reilly Auto Parts", ats: "workday", host: "oreillyauto.wd1.myworkdayjobs.com", site: "oreilly", tier: 2, sector: "retail"}
+- {name: "Petco", ats: "workday", host: "petco.wd504.myworkdayjobs.com", site: "External", tier: 3, sector: "retail"}
+- {name: "Dick's Sporting Goods", ats: "workday", host: "dickssportinggoods.wd1.myworkdayjobs.com", site: "DSG", tier: 2, sector: "retail"}
+- {name: "Coca-Cola", ats: "workday", host: "coke.wd1.myworkdayjobs.com", site: "coca-cola-careers", tier: 1, sector: "consumer goods"}
+- {name: "General Mills", ats: "greenhouse", slug: "general", tier: 2, sector: "consumer goods"}
+- {name: "Kraft Heinz", ats: "workday", host: "heinz.wd1.myworkdayjobs.com", site: "KraftHeinz_Careers", tier: 2, sector: "consumer goods"}
+- {name: "Kimberly-Clark", ats: "smartrecruiters", slug: "KimberlyClark", tier: 2, sector: "consumer goods"}
+- {name: "Unilever", ats: "workday", host: "unilever.wd3.myworkdayjobs.com", site: "Unilever_Experienced_Professionals", tier: 1, sector: "consumer goods"}
+- {name: "Tyson Foods", ats: "workday", host: "tysonfoods.wd5.myworkdayjobs.com", site: "TSN", tier: 2, sector: "consumer goods"}
+- {name: "Sysco Corporation", ats: "workday", host: "wd5.myworkdaysite.com", public_base: "https://wd5.myworkdaysite.com/en-US/recruiting/sysco/syscocareers", site: "syscocareers", tenant: "sysco", tier: 1, sector: "consumer goods"}
+- {name: "HCA Healthcare", ats: "workday", host: "wd3.myworkdaysite.com", public_base: "https://wd3.myworkdaysite.com/en-US/recruiting/hcahealthcare/hcacareers", site: "hcacareers", tenant: "hcahealthcare", tier: 1, sector: "healthcare"}
+- {name: "Health Care Service Corporation", ats: "workday", host: "healthcare.wd1.myworkdayjobs.com", site: "Search", tier: 2, sector: "healthcare"}
+- {name: "Clover Health", ats: "greenhouse", slug: "cloverhealth", tier: 3, sector: "healthcare"}
+- {name: "Highmark Health", ats: "workday", host: "highmarkhealth.wd1.myworkdayjobs.com", site: "highmark", tier: 2, sector: "healthcare"}
+- {name: "Florida Blue", ats: "oracle", host: "fa-etum-saasfaprod1.fa.ocs.oraclecloud.com", site: "floridablue", tier: 3, sector: "healthcare"}
+- {name: "Devoted Health", ats: "smartrecruiters", slug: "DevotedHealth", tier: 3, sector: "healthcare"}
+- {name: "Cencora", ats: "smartrecruiters", slug: "Cencora", tier: 1, sector: "healthcare"}
+- {name: "Labcorp", ats: "workday", host: "labcorp.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "healthcare"}
+- {name: "Cardinal Health", ats: "workday", host: "cardinalhealth.wd1.myworkdayjobs.com", site: "EXT", tier: 1, sector: "healthcare"}
+- {name: "DaVita", ats: "workday", host: "davita.wd1.myworkdayjobs.com", site: "DKC_External", tier: 2, sector: "healthcare"}
+- {name: "Fresenius Medical Care", ats: "workday", host: "freseniusmedicalcare.wd3.myworkdayjobs.com", site: "fme", tier: 2, sector: "healthcare"}
+- {name: "Cleveland Clinic", ats: "workday", host: "ccf.wd1.myworkdayjobs.com", site: "ClevelandClinicCareersUK", tier: 1, sector: "healthcare"}
+- {name: "Mass General Brigham", ats: "workday", host: "massgeneralbrigham.wd1.myworkdayjobs.com", site: "MGBExternal", tier: 1, sector: "healthcare"}
+- {name: "athenahealth", ats: "workday", host: "athenahealth.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "healthcare"}
+- {name: "R1 RCM", ats: "workday", host: "r1rcm.wd1.myworkdayjobs.com", site: "R1RCM", tier: 3, sector: "healthcare"}
+- {name: "Inovalon", ats: "ashby", slug: "inovalon", tier: 3, sector: "healthcare"}
+- {name: "Availity", ats: "workday", host: "availity.wd1.myworkdayjobs.com", site: "Availity_Careers_US", tier: 3, sector: "healthcare"}
+- {name: "Komodo Health", ats: "greenhouse", slug: "komodohealth", tier: 3, sector: "healthcare"}
+- {name: "Flatiron Health", ats: "greenhouse", slug: "flatironhealth", tier: 2, sector: "healthcare"}
+- {name: "Doximity", ats: "greenhouse", slug: "doximity", tier: 3, sector: "healthcare"}
+- {name: "Zocdoc", ats: "greenhouse", slug: "zocdoc", tier: 3, sector: "healthcare"}
+- {name: "Teladoc Health", ats: "smartrecruiters", slug: "TeladocHealth", tier: 2, sector: "healthcare"}
+- {name: "Lyra Health", ats: "lever", slug: "lyrahealth", tier: 3, sector: "healthcare"}
+- {name: "Maven Clinic", ats: "greenhouse", slug: "mavenclinic", tier: 3, sector: "healthcare"}
+- {name: "Headspace", ats: "greenhouse", slug: "headspaceproviders", tier: 3, sector: "healthcare"}
+- {name: "Included Health", ats: "lever", slug: "includedhealth", tier: 3, sector: "healthcare"}
+- {name: "Omada Health", ats: "greenhouse", slug: "omadahealth", tier: 3, sector: "healthcare"}
+- {name: "Cedar", ats: "ashby", slug: "cedar", tier: 3, sector: "healthcare"}
+- {name: "Cityblock Health", ats: "workday", host: "cityblockhealth.wd1.myworkdayjobs.com", site: "CityblockExternalCareerSite", tier: 3, sector: "healthcare"}
+- {name: "Pfizer", ats: "workday", host: "pfizer.wd1.myworkdayjobs.com", site: "PfizerCareers", tier: 1, sector: "pharma"}
+- {name: "AbbVie", ats: "smartrecruiters", slug: "Abbvie", tier: 1, sector: "pharma"}
+- {name: "Amgen", ats: "workday", host: "amgen.wd1.myworkdayjobs.com", site: "Careers", tier: 1, sector: "pharma"}
+- {name: "Gilead Sciences", ats: "workday", host: "gilead.wd1.myworkdayjobs.com", site: "gileadcareers", tier: 1, sector: "pharma"}
+- {name: "Moderna", ats: "greenhouse", slug: "modernanimal", tier: 2, sector: "pharma"}
+- {name: "Danaher", ats: "workday", host: "danaher.wd1.myworkdayjobs.com", site: "DanaherJobs", tier: 1, sector: "life sciences"}
+- {name: "Abbott", ats: "workday", host: "abbott.wd5.myworkdayjobs.com", site: "abbottcareers", tier: 1, sector: "medtech"}
+- {name: "Stryker", ats: "ashby", slug: "stryker-digital", tier: 1, sector: "medtech"}
+- {name: "Medtronic", ats: "workday", host: "medtronic.wd1.myworkdayjobs.com", site: "MedtronicCareers", tier: 1, sector: "medtech"}
+- {name: "Baxter", ats: "workday", host: "baxter.wd1.myworkdayjobs.com", site: "baxter", tier: 2, sector: "medtech"}
+- {name: "Illumina", ats: "workday", host: "illumina.wd1.myworkdayjobs.com", site: "illumina-careers", tier: 2, sector: "life sciences"}
+- {name: "ICON", ats: "ashby", slug: "icon", tier: 2, sector: "life sciences"}
+- {name: "Agilent", ats: "workday", host: "agilent.wd5.myworkdayjobs.com", site: "Agilent_Student_Careers", tier: 2, sector: "life sciences"}
+- {name: "IQVIA", ats: "workday", host: "iqvia.wd1.myworkdayjobs.com", site: "IQVIA", tier: 1, sector: "life sciences"}
+- {name: "ConocoPhillips", ats: "workday", host: "conocophillips.wd1.myworkdayjobs.com", site: "external", tier: 1, sector: "energy"}
+- {name: "Ovintiv", ats: "workday", host: "ovintiv.wd3.myworkdayjobs.com", site: "ovintivcareers", tier: 3, sector: "energy"}
+- {name: "Equinor", ats: "workday", host: "equinor.wd3.myworkdayjobs.com", site: "EQNR", tier: 2, sector: "energy"}
+- {name: "ONEOK", ats: "workday", host: "oneok.wd1.myworkdayjobs.com", site: "ONEOK", tier: 2, sector: "energy"}
+- {name: "Plains All American", ats: "workday", host: "plains.wd1.myworkdayjobs.com", site: "plains", tier: 2, sector: "energy"}
+- {name: "Duke Energy", ats: "workday", host: "dukeenergy.wd1.myworkdayjobs.com", site: "search", tier: 1, sector: "utilities"}
+- {name: "Xcel Energy", ats: "workday", host: "xcelenergy.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "utilities"}
+- {name: "Ameren", ats: "workday", host: "ameren.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "utilities"}
+- {name: "Atmos Energy", ats: "workday", host: "atmosenergy.wd108.myworkdayjobs.com", site: "External_Career_Site", tier: 3, sector: "utilities"}
+- {name: "Reliant Energy", ats: "greenhouse", slug: "reliant", tier: 3, sector: "utilities"}
+- {name: "AES", ats: "workday", host: "aes.wd1.myworkdayjobs.com", site: "AES_US", tier: 2, sector: "utilities"}
+- {name: "ERCOT", ats: "workday", host: "ercot.wd1.myworkdayjobs.com", site: "ercot_careers", tier: 2, sector: "utilities"}
+- {name: "Dow", ats: "workday", host: "dow.wd1.myworkdayjobs.com", site: "ExternalCareers", tier: 1, sector: "chemicals"}
+- {name: "Celanese", ats: "smartrecruiters", slug: "Celanese", tier: 2, sector: "chemicals"}
+- {name: "Air Liquide", ats: "workday", host: "airliquidehr.wd3.myworkdayjobs.com", site: "AirLiquideExternalCareer", tier: 2, sector: "chemicals"}
+- {name: "Huntsman", ats: "workday", host: "huntsman.wd1.myworkdayjobs.com", site: "Huntsman", tier: 2, sector: "chemicals"}
+- {name: "Albemarle", ats: "workday", host: "albemarle.wd5.myworkdayjobs.com", site: "External", tier: 3, sector: "chemicals"}
+- {name: "Fervo Energy", ats: "greenhouse", slug: "fervoenergy", tier: 3, sector: "energy"}
+- {name: "GE Vernova", ats: "workday", host: "gevernova.wd5.myworkdayjobs.com", site: "Vernova_ExternalSite", tier: 1, sector: "energy"}
+- {name: "Sunrun", ats: "workday", host: "sunrun.wd5.myworkdayjobs.com", site: "Sunrun_Careers", tier: 3, sector: "energy"}
+- {name: "Honeywell", ats: "oracle", host: "ibqbjb.fa.ocs.oraclecloud.com", site: "Honeywell", tier: 1, sector: "industrial"}
+- {name: "Rockwell Automation", ats: "workday", host: "rockwellautomation.wd1.myworkdayjobs.com", site: "External_Rockwell_Automation", tier: 2, sector: "industrial"}
+- {name: "Lucid Motors", ats: "greenhouse", slug: "lucidmotors", tier: 3, sector: "automotive"}
+- {name: "Waymo", ats: "greenhouse", slug: "waymo", tier: 1, sector: "automotive"}
+- {name: "Zoox", ats: "lever", slug: "zoox", tier: 2, sector: "automotive"}
+- {name: "Rivian", ats: "ashby", slug: "rivianvw.tech", tier: 2, sector: "automotive"}
+- {name: "SpaceX", ats: "greenhouse", slug: "spacex", tier: 1, sector: "aerospace"}
+- {name: "Rocket Lab", ats: "greenhouse", slug: "rocketlab", tier: 3, sector: "aerospace"}
+- {name: "Axiom Space", ats: "greenhouse", slug: "axiom", tier: 3, sector: "aerospace"}
+- {name: "Relativity Space", ats: "greenhouse", slug: "relativity", tier: 3, sector: "aerospace"}
+- {name: "FedEx", ats: "workday", host: "fedex.wd1.myworkdayjobs.com", site: "FXE-EU_External", tier: 1, sector: "logistics"}
+- {name: "J.B. Hunt", ats: "workday", host: "jbhunt.wd501.myworkdayjobs.com", site: "Careers", tier: 2, sector: "logistics"}
+- {name: "CSX", ats: "oracle", host: "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com", site: "CSXCareers", tier: 2, sector: "transportation"}
+- {name: "C.H. Robinson", ats: "workday", host: "chrobinson.wd5.myworkdayjobs.com", site: "CHRobinson", tier: 2, sector: "logistics"}
+- {name: "Flexport Inc", ats: "greenhouse", slug: "flexport", tier: 3, sector: "logistics"}
+- {name: "Uber Freight", ats: "greenhouse", slug: "uberfreight", tier: 3, sector: "logistics"}
+- {name: "Accenture", ats: "greenhouse", slug: "accenturefederalservices", tier: 1, sector: "consulting"}
+- {name: "Thoughtworks", ats: "greenhouse", slug: "thoughtworks", tier: 2, sector: "consulting"}
+- {name: "Genpact", ats: "workday", host: "genpact.wd108.myworkdayjobs.com", site: "External_Careers", tier: 2, sector: "consulting"}
+- {name: "Ryder", ats: "workday", host: "ryder.wd5.myworkdayjobs.com", site: "RyderCareers", tier: 3, sector: "logistics"}
+- {name: "Guidehouse", ats: "workday", host: "guidehouse.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "consulting"}
+- {name: "Huron Consulting", ats: "workday", host: "huron.wd1.myworkdayjobs.com", site: "huroncareers", tier: 3, sector: "consulting"}
+- {name: "Forrester", ats: "workday", host: "forrester.wd501.myworkdayjobs.com", site: "careers", tier: 3, sector: "consulting"}
+- {name: "JLL", ats: "workday", host: "jll.wd1.myworkdayjobs.com", site: "jllcareers", tier: 1, sector: "real estate"}
+- {name: "Prologis", ats: "workday", host: "prologis.wd5.myworkdayjobs.com", site: "Prologis_External_Careers", tier: 1, sector: "real estate"}
+- {name: "Cushman & Wakefield", ats: "workday", host: "cw.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "real estate"}
+- {name: "Universal Parks", ats: "greenhouse", slug: "universal", tier: 2, sector: "hospitality"}
+- {name: "Alcoa", ats: "workday", host: "alcoa.wd5.myworkdayjobs.com", site: "Careers", tier: 3, sector: "industrial"}
+- {name: "Ecolab", ats: "workday", host: "ecolab.wd1.myworkdayjobs.com", site: "Ecolab_External", tier: 2, sector: "industrial"}
+- {name: "Xylem", ats: "workday", host: "xylem.wd5.myworkdayjobs.com", site: "xylem-careers", tier: 3, sector: "industrial"}
+- {name: "Builders FirstSource", ats: "smartrecruiters", slug: "BuildersFirstSource", tier: 3, sector: "industrial"}
+- {name: "Lennar", ats: "workday", host: "lennar.wd1.myworkdayjobs.com", site: "Lennar_Jobs", tier: 2, sector: "real estate"}
+- {name: "PulteGroup", ats: "workday", host: "pultegroup.wd1.myworkdayjobs.com", site: "PGI", tier: 3, sector: "real estate"}
+- {name: "Masco", ats: "workday", host: "masco.wd1.myworkdayjobs.com", site: "masco", tier: 3, sector: "industrial"}
+- {name: "Avnet", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/avnet/External", site: "External", tenant: "avnet", tier: 2, sector: "tech"}
+- {name: "Insight Enterprises", ats: "greenhouse", slug: "insight", tier: 3, sector: "tech"}
+- {name: "Flex", ats: "greenhouse", slug: "flex", tier: 2, sector: "tech"}
+- {name: "Jabil", ats: "workday", host: "jabil.wd5.myworkdayjobs.com", site: "Jabil_Careers", tier: 2, sector: "tech"}
+- {name: "Goodyear", ats: "workday", host: "goodyear.wd1.myworkdayjobs.com", site: "GoodyearCareers", tier: 3, sector: "automotive"}
+- {name: "Avis Budget Group", ats: "workday", host: "avisbudget.wd1.myworkdayjobs.com", site: "ABG_Careers", tier: 3, sector: "transportation"}
+- {name: "Hormel Foods", ats: "oracle", host: "ekkh.fa.us2.oraclecloud.com", site: "CX_2002", tier: 3, sector: "consumer goods"}
+- {name: "J.M. Smucker", ats: "workday", host: "smucker.wd5.myworkdayjobs.com", site: "US_External_Careers", tier: 3, sector: "consumer goods"}
+- {name: "Conagra Brands", ats: "workday", host: "conagrabrands.wd1.myworkdayjobs.com", site: "Careers_US", tier: 3, sector: "consumer goods"}
+- {name: "Clorox", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/clorox/Clorox", site: "Clorox", tenant: "clorox", tier: 3, sector: "consumer goods"}
+- {name: "PVH", ats: "workday", host: "pvh.wd1.myworkdayjobs.com", site: "PVH_Careers", tier: 3, sector: "retail"}
+- {name: "Tapestry", ats: "workday", host: "tapestry.wd108.myworkdayjobs.com", site: "Tapestry_Careers", tier: 3, sector: "retail"}
+- {name: "BJ's Wholesale", ats: "workday", host: "bjswholesaleclub.wd1.myworkdayjobs.com", site: "BJsCareers", tier: 3, sector: "retail"}
+- {name: "Aramark", ats: "smartrecruiters", slug: "Aramark", tier: 3, sector: "services"}
+- {name: "Pitney Bowes", ats: "workday", host: "pitneybowes.wd1.myworkdayjobs.com", site: "pbcareers", tier: 3, sector: "tech"}
+- {name: "Henry Schein", ats: "smartrecruiters", slug: "HenrySchein", tier: 3, sector: "healthcare"}
+- {name: "NCR Voyix", ats: "workday", host: "ncr.wd1.myworkdayjobs.com", site: "ext_apac", tier: 3, sector: "tech"}
+- {name: "Zoetis", ats: "workday", host: "zoetis.wd5.myworkdayjobs.com", site: "zoetis", tier: 2, sector: "pharma"}
+- {name: "NCR Atleos", ats: "workday", host: "ncratleos.wd1.myworkdayjobs.com", site: "ext_apacatleos", tier: 3, sector: "tech"}
+- {name: "Viatris", ats: "workday", host: "viatris.wd5.myworkdayjobs.com", site: "External", tier: 2, sector: "pharma"}
+- {name: "Waters", ats: "ashby", slug: "watershed", tier: 3, sector: "life sciences"}
+- {name: "ResMed", ats: "smartrecruiters", slug: "Resmed", tier: 2, sector: "medtech"}
+- {name: "Dexcom", ats: "workday", host: "dexcom.wd1.myworkdayjobs.com", site: "Dexcom", tier: 2, sector: "medtech"}
+- {name: "Loews", ats: "workday", host: "loewscorp.wd1.myworkdayjobs.com", site: "loewscorp", tier: 2, sector: "insurance"}
+- {name: "Discover", ats: "workday", host: "ensign.wd1.myworkdayjobs.com", site: "DiscoveryCareerSite", tier: 3, sector: "bank"}
+- {name: "Expeditors", ats: "smartrecruiters", slug: "Expeditors", tier: 3, sector: "logistics"}
+- {name: "Realty Income", ats: "workday", host: "realtyincome.wd108.myworkdayjobs.com", site: "realty_income_careers", tier: 3, sector: "real estate"}
+- {name: "Mosaic", ats: "ashby", slug: "mosaic", tier: 3, sector: "chemicals"}
+- {name: "United Rentals", ats: "workday", host: "ur.wd1.myworkdayjobs.com", site: "URcareers", tier: 2, sector: "industrial"}
+- {name: "Sunbelt Rentals", ats: "workday", host: "sunbeltrentals.wd1.myworkdayjobs.com", site: "sbcareers", tier: 3, sector: "industrial"}
+- {name: "FMC", ats: "workday", host: "fmc.wd12.myworkdayjobs.com", site: "FMC", tier: 3, sector: "chemicals"}
+- {name: "Coherent", ats: "greenhouse", slug: "coherentsolutions", tier: 2, sector: "tech"}
+- {name: "Lumentum", ats: "workday", host: "lumentum.wd5.myworkdayjobs.com", site: "LITE", tier: 3, sector: "tech"}
+- {name: "Samsung Semiconductor", ats: "greenhouse", slug: "samsungsemiconductor", tier: 1, sector: "semiconductors"}
+- {name: "SK hynix America", ats: "greenhouse", slug: "skhynixamerica", tier: 2, sector: "semiconductors"}
+- {name: "Renesas", ats: "smartrecruiters", slug: "RenesasElectronics", tier: 2, sector: "semiconductors"}
+- {name: "GlobalFoundries", ats: "workday", host: "globalfoundries.wd1.myworkdayjobs.com", site: "External", tier: 1, sector: "semiconductors"}
+- {name: "Entegris", ats: "workday", host: "entegris.wd1.myworkdayjobs.com", site: "EntegrisCareers", tier: 3, sector: "semiconductors"}
+- {name: "Onto Innovation", ats: "workday", host: "wd1.myworkdaysite.com", tenant: "onto", site: "ONTO_Careers", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/onto/ONTO_Careers", tier: 3, sector: "semiconductors"}
+- {name: "Lattice Semiconductor", ats: "greenhouse", slug: "lattice", tier: 3, sector: "semiconductors"}
+- {name: "Astera Labs", ats: "greenhouse", slug: "asteralabs", tier: 2, sector: "semiconductors"}
+- {name: "Tenstorrent", ats: "greenhouse", slug: "tenstorrent", tier: 2, sector: "semiconductors"}
+- {name: "Lightmatter", ats: "greenhouse", slug: "lightmatter", tier: 3, sector: "semiconductors"}
+- {name: "d-Matrix", ats: "ashby", slug: "d-matrix", tier: 3, sector: "semiconductors"}
+- {name: "Graphcore", ats: "greenhouse", slug: "graphcore", tier: 3, sector: "semiconductors"}
+- {name: "SiFive", ats: "workday", host: "sifive.wd1.myworkdayjobs.com", site: "sifivecareers", tier: 3, sector: "semiconductors"}
+- {name: "Thinking Machines Lab", ats: "ashby", slug: "ThinkingMachines", tier: 2, sector: "AI"}
+- {name: "Poolside", ats: "ashby", slug: "poolside", tier: 3, sector: "AI"}
+- {name: "Midjourney", ats: "ashby", slug: "midjourney", tier: 3, sector: "AI"}
+- {name: "Suno", ats: "ashby", slug: "suno", tier: 3, sector: "AI"}
+- {name: "Pika", ats: "ashby", slug: "pika", tier: 3, sector: "AI"}
+- {name: "Luma AI", ats: "ashby", slug: "lumaai", tier: 3, sector: "AI"}
+- {name: "Black Forest Labs", ats: "ashby", slug: "black-forest-labs", tier: 3, sector: "AI"}
+- {name: "Stability AI", ats: "greenhouse", slug: "stabilityai", tier: 3, sector: "AI"}
+- {name: "Nebius", ats: "greenhouse", slug: "nebius", tier: 2, sector: "AI"}
+- {name: "ElevenLabs", ats: "ashby", slug: "elevenlabs", tier: 2, sector: "AI"}
+- {name: "DDN", ats: "ashby", slug: "ddn", tier: 3, sector: "AI"}
+- {name: "Rogo", ats: "ashby", slug: "rogo", tier: 3, sector: "AI"}
+- {name: "Hebbia", ats: "ashby", slug: "hebbia-ai", tier: 3, sector: "AI"}
+- {name: "Observe.AI", ats: "greenhouse", slug: "observeai", tier: 3, sector: "AI"}
+- {name: "Cresta", ats: "greenhouse", slug: "cresta", tier: 3, sector: "AI"}
+- {name: "Reflection AI", ats: "ashby", slug: "reflectionai", tier: 3, sector: "AI"}
+- {name: "Uniphore", ats: "workday", host: "uniphore.wd503.myworkdayjobs.com", site: "Uniphore", tier: 3, sector: "AI"}
+- {name: "Hyperscience", ats: "ashby", slug: "hyperscience", tier: 3, sector: "AI"}
+- {name: "Anduril Industries", ats: "greenhouse", slug: "andurilindustries", tier: 3, sector: "defense tech"}
+- {name: "Wayve", ats: "ashby", slug: "wayve", tier: 3, sector: "AI"}
+- {name: "Accel", ats: "greenhouse", slug: "accelschools", tier: 2, sector: "venture capital"}
+- {name: "Benchmark", ats: "workday", host: "benchmark.wd1.myworkdayjobs.com", site: "PGH_Careers", tier: 3, sector: "venture capital"}
+- {name: "Apollo", ats: "greenhouse", slug: "apolloio", tier: 3, sector: "private equity"}
+- {name: "EQT", ats: "greenhouse", slug: "eqtcorporation", tier: 2, sector: "private equity"}
+- {name: "Golub Capital", ats: "workday", host: "wd501.myworkdaysite.com", tenant: "golubcapital", site: "Golub_Capital_Careers", public_base: "https://wd501.myworkdaysite.com/en-US/recruiting/golubcapital/Golub_Capital_Careers", tier: 3, sector: "private equity"}
+- {name: "HPS Investment Partners", ats: "greenhouse", slug: "hpsinvestmentpartners", tier: 2, sector: "private equity"}
+- {name: "Oaktree Capital", ats: "workday", host: "oaktree.wd1.myworkdayjobs.com", site: "Oaktree", tier: 2, sector: "private equity"}
+- {name: "Fortress Investment Group", ats: "workday", host: "fortress.wd503.myworkdayjobs.com", site: "Careers", tier: 2, sector: "private equity"}
+- {name: "Renaissance Technologies", ats: "greenhouse", slug: "renaissancelearning-nam", tier: 2, sector: "hedge fund"}
+- {name: "Viking Global", ats: "greenhouse", slug: "vikingglobalinvestors", tier: 3, sector: "hedge fund"}
+- {name: "Marshall Wace", ats: "greenhouse", slug: "marshallwace", tier: 3, sector: "hedge fund"}
+- {name: "Squarepoint Capital", ats: "greenhouse", slug: "squarepointcapital", tier: 2, sector: "hedge fund"}
+- {name: "Walleye Capital", ats: "greenhouse", slug: "walleyecapital-external-fulltime", tier: 3, sector: "hedge fund"}
+- {name: "Qube Research & Technologies", ats: "greenhouse", slug: "quberesearchandtechnologies", tier: 2, sector: "hedge fund"}
+- {name: "Jump Crypto", ats: "greenhouse", slug: "jumpcrypto", tier: 3, sector: "markets"}
+- {name: "Akuna Capital", ats: "greenhouse", slug: "akunacapital", tier: 3, sector: "markets"}
+- {name: "Five Rings", ats: "greenhouse", slug: "fiveringsllc", tier: 3, sector: "markets"}
+- {name: "Belvedere Trading", ats: "lever", slug: "belvederetrading", tier: 3, sector: "markets"}
+- {name: "Flow Traders", ats: "greenhouse", slug: "flowtraders", tier: 3, sector: "markets"}
+- {name: "Peak6", ats: "workday", host: "peak6group.wd1.myworkdayjobs.com", site: "apexfintechsolutions", tier: 3, sector: "markets"}
+- {name: "XTX Markets", ats: "greenhouse", slug: "xtxmarketstechnologies", tier: 2, sector: "markets"}
+- {name: "USAA", ats: "workday", host: "usaa.wd1.myworkdayjobs.com", site: "USAAJOBSWD", tier: 1, sector: "insurance"}
+- {name: "Comcast", ats: "workday", host: "comcast.wd115.myworkdayjobs.com", site: "Comcast_Careers", tier: 1, sector: "telecom"}
+- {name: "Charles Schwab", ats: "greenhouse", slug: "charles", tier: 1, sector: "asset management"}
+- {name: "BNY", ats: "oracle", host: "eofe.fa.us2.oraclecloud.com", site: "BNY-Careers", tier: 1, sector: "bank"}
+- {name: "Tudor Investment", ats: "greenhouse", slug: "tudorgroup", tier: 3, sector: "hedge fund"}
+- {name: "Cerberus Capital Management", ats: "workday", host: "cerberus.wd1.myworkdayjobs.com", site: "CerberusCareers", tier: 3, sector: "private equity"}

@@ -425,6 +425,12 @@
 "locale": "us/en",
 "name": "Niagara Bottling",
 "refnum": "NBLLUSR"
+},
+{
+"ats": "oracle",
+"host": "eofe.fa.us2.oraclecloud.com",
+"name": "BNY",
+"site": "CX_3001"
 }
 ]
 }

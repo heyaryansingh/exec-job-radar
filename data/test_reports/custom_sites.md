@@ -8,7 +8,7 @@
 | eightfold | Qualcomm | fail | eightfold: no response from careers.qualcomm.com |
 | eightfold | PayPal | fail | eightfold: no response from paypal.eightfold.ai |
 | eightfold | Micron | fail | eightfold: no response from careers.micron.com |
-| eightfold | Bayer | ok, 2 senior | Vice President, Head of Regulatory Affairs; Director, Real-World Evidence Research-Oncology |
+| eightfold | Bayer | ok, 3 senior | Vice President, Head of Regulatory Affairs; Senior Regulatory CMC Strategist (Senior Director); Director, Real-World Evidence Research-Oncology |
 | eightfold | Starbucks | fail | eightfold: no response from starbucks.eightfold.ai |
 | eightfold | Cisco | fail | eightfold: no response from cisco.eightfold.ai |
 | eightfold | Vertex Pharmaceuticals | fail | eightfold: no response from vrtx.eightfold.ai |
@@ -19,8 +19,8 @@
 | phenom | HPE | ok, 5 senior | SVP, Engineering; VP & General Manager - GreenLake Flex Solutions; Director Software Engineering (Cloud Security); Director of Strategy & Execution, H |
 | phenom | Thermo Fisher Scientific | ok, 28 senior | Director, Finance – Molecular Biology - $45B Industry Leader!; Sr. Director of Research & Development Controlled Temperature Technologies; Sr. Directo |
 | phenom | AbbVie | fail | phenom: no response from careers.abbvie.com |
-| phenom | CVS Health | ok, 32 senior | Population Health Director, Field; Lead Director, Pharma Contracting - Trade Relations; Vice President, FP&A - Retail; Oak Street Health Regional Dire |
-| phenom | Mastercard | ok, 88 senior | Vice President, Enterprise Order Management; Vice President, Security Monitoring and Response; Vice President- AI, Center of Excellence; VP, GBSC Valu |
+| phenom | CVS Health | ok, 30 senior | Population Health Director, Field; Lead Director, Pharma Contracting - Trade Relations; Oak Street Health Regional Director, Operations and Population |
+| phenom | Mastercard | ok, 88 senior | Director, People Business Partner; Vice President, Enterprise Order Management; Vice President, Security Monitoring and Response; Vice President- AI,  |
 | phenom | Kroger | fail | phenom: no response from jobs.kroger.com |
 | phenom | Boeing | fail | phenom: no response from jobs.boeing.com |
 | phenom | Accenture | fail | phenom: no response from www.accenture.com |
@@ -35,7 +35,7 @@
 | sitemap | Apple | fail | 404 Client Error: Not Found for url: https://jobs.apple.com/sitemap.xml (1 sitemaps listed) |
 | sitemap | Goldman Sachs | fail | 404 Client Error: Not Found for url: https://higher.gs.com/sitemap.xml (1 sitemaps listed) |
 | sitemap | Lockheed Martin | fail | sitemap: no job URLs (1 sitemaps listed) |
-| sitemap | UnitedHealth Group | ok via https://careers.unitedhealthgroup.com/sitemap.xml, 8 pages read | Medical Director | South Carolina | Colonial Healthcare, a part of Optum; Director, Client Management & Strategy, Behavioral Health; Associate Directo |
+| sitemap | UnitedHealth Group | ok via https://careers.unitedhealthgroup.com/sitemap.xml, 7 pages read | Director of Social Media Operations - Remote; Associate AI/ML Engineer; Account Executive Small Segments - Sales - Kelsey Seybold - Pearland |
 | sitemap | ExxonMobil | fail | sitemap: no job URLs (1 sitemaps listed) |
 | sitemap | IBM | fail | sitemap: no job URLs (5 sitemaps listed) |
 | sitemap | Google | fail | sitemap: no job URLs (1 sitemaps listed) |
@@ -45,7 +45,7 @@
 | sitemap | Deloitte | fail | sitemap: no job URLs (18 sitemaps listed) |
 | sitemap | EY | ok via https://careers.ey.com/sitemap.xml, 0 pages read |  |
 | sitemap | PwC | fail | HTTPSConnectionPool(host='jobs.us.pwc.com', port=443): Max retries exceeded with (1 sitemaps listed) |
-| sitemap | Citi | ok via https://jobs.citi.com/sitemap.xml, 8 pages read | Consumer Product Sales Lead Analyst, Vice President (Hybrid); Financing & Securitization Analytics - VP; Senior Vice President - Credit Portfolio Seni |
+| sitemap | Citi | ok via https://jobs.citi.com/sitemap.xml, 8 pages read | Banamex Especialista en servicio y apertura de cuentas nomina- Hermosillo; Banamex - Analista de Onboarding y Validación de Clientes; Banamex Analista |
 | sitemap | Bank of America | ok via https://careers.bankofamerica.com/sitemap_index.xml, 0 pages read |  |
 | sitemap | AT&T | ok via https://www.att.jobs/sitemap.xml, 8 pages read | Director-Sales Consulting Services ATC; Director-Sales Consulting Services ATC; Director-Sales Consulting Services ATC |
 | sitemap | Verizon | ok via https://mycareer.verizon.com/sitemap.xml, 0 pages read |  |

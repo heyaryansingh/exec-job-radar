@@ -99,3 +99,10 @@ def test_careers_page_guards():
     # a shortened domain guess is never a "full-name" domain
     assert "fidelity.com" not in d.full_domains("Fidelity National Financial", [])
     assert "fidelity.com" not in d.guess_domains("Fidelity National Financial", [])
+
+
+def test_fragment_board_names_rejected():
+    assert not d.names_agree("Charles", "Charles Schwab", strict=True)
+    assert not d.names_agree("Relativity", "Relativity Space", strict=True)
+    assert not d.names_agree("Universal", "Universal Parks", strict=True)
+    assert "cheniere.com" in d.full_domains("Cheniere Energy", [])

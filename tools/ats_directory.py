@@ -173,12 +173,19 @@ def stats(n_crawls: int, log=print) -> list[str]:
     s = session()
     s.headers["Accept"] = "*/*"
     lines = []
-    for api in crawls(s, n_crawls):
+    try:
+        apis = crawls(s, n_crawls)
+    except Exception as e:
+        log(f"index unreachable: {e}")
+        return [f"index unreachable: {e}"]
+    log(f"crawls: {apis}")
+    for api in apis:
         for pattern, flt, cap in PATTERNS:
+            t0 = time.time()
             n = page_count(api, pattern, flt)
             sample = harvest(api, pattern, flt, 1, lambda *_: None) if n > 0 else Counter()
             line = (f"{api.rsplit('/', 1)[-1]}  {pattern:<28} pages={n:<5} cap={cap:<5} "
-                    f"boards_on_first_page={len(sample)}")
+                    f"boards_on_first_page={len(sample)}  ({time.time() - t0:.0f}s)")
             log(line)
             lines.append(line)
     return lines

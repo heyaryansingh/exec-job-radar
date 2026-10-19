@@ -19,7 +19,7 @@ concurrency:
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -32,7 +32,7 @@ jobs:
       - name: Measure the Common Crawl index (no download)
         run: |
           mkdir -p data/test_reports
-          timeout 600 python tools/ats_directory.py --stats --crawls 1 | tee data/test_reports/directory_stats.txt || true
+          timeout 1200 python -u tools/ats_directory.py --stats --crawls 1 2>&1 | tee data/test_reports/directory_stats.txt || true
       - name: Discovery on the test list (report only)
         run: python tools/discover.py config/discover_test.txt --dry-run --report data/test_reports/discover.md
       - name: Save reports

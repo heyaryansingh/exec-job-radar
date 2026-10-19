@@ -134,8 +134,9 @@ def names_agree(board: str, name: str, strict: bool) -> bool:
         return False
     if b == n:
         return True
-    short, long_ = sorted((b, n), key=len)
-    return len(short) >= 5 and long_.startswith(short)
+    # The board's name may add words ("Cheniere Energy, Inc." for "Cheniere Energy"), but a
+    # board name that is only a fragment of ours ("Charles" for Charles Schwab) is not proof.
+    return len(n) >= 5 and b.startswith(n)
 
 
 def probe_direct(s, name: str):
@@ -265,7 +266,10 @@ def probe_directory(s, name: str, aliases: list[str]):
 def full_domains(name: str, aliases: list[str]) -> set[str]:
     words = re.findall(r"[a-z0-9]+", name.lower().replace("&", " "))
     legal = [w for w in words if w not in LEGAL]
-    return {x + ".com" for x in ("".join(words), "".join(legal)) if x} | {compact(a) + ".com" for a in aliases}
+    out = {x + ".com" for x in ("".join(words), "".join(legal)) if x} | {compact(a) + ".com" for a in aliases}
+    if len(words) == 2 and words[1] in STOP | GENERIC and len(words[0]) >= 5:
+        out.add(words[0] + ".com")  # "Cheniere Energy" -> cheniere.com
+    return out
 
 
 def guess_domains(name: str, aliases: list[str]) -> list[str]:

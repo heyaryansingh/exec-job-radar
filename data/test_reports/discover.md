@@ -1,6 +1,6 @@
 # Discovery test report
 
-Test run, nothing was changed. 30 names: already covered 5, found 7, review 8, not found 10
+Test run, nothing was changed. 30 names: already covered 4, review 9, found 6, not found 11
 
 Directory: ashby 1900, greenhouse 2336, workday 1203
 
@@ -9,7 +9,7 @@ Directory: ashby 1900, greenhouse 2336, workday 1203
 | American Express | REVIEW {"ats": "workday", "host": "american.wd1.myworkdayjob | directory | `{"ats": "workday", "host": "american.wd1.myworkdayjobs.com", "site": "AU"}` |
 | Applied Materials | REVIEW {"ats": "ashby", "slug": "applied"} | directory | `{"ats": "ashby", "slug": "applied"}` |
 | Capital One | not found |  | `` |
-| Charles Schwab | greenhouse charles (direct) | direct | `{"ats": "greenhouse", "slug": "charles"}` |
+| Charles Schwab | REVIEW {"ats": "greenhouse", "slug": "charlesriverassociates | directory | `{"ats": "greenhouse", "slug": "charlesriverassociates"}` |
 | Charles Schwab Corporation | REVIEW {"ats": "greenhouse", "slug": "charlesriverassociates | directory | `{"ats": "greenhouse", "slug": "charlesriverassociates"}` |
 | Cheniere Energy | REVIEW {"ats": "oracle", "host": "hcgi.fa.us2.oraclecloud.co | careers page | `{"ats": "oracle", "host": "hcgi.fa.us2.oraclecloud.com", "site": "CX_2"}` |
 | Comcast | already covered | careers page | `{"ats": "workday", "host": "comcast.wd115.myworkdayjobs.com", "site": "Comcast_Careers"}` |
@@ -30,9 +30,9 @@ Directory: ashby 1900, greenhouse 2336, workday 1203
 | Qualcomm | not found |  | `` |
 | Red Hat | not found |  | `` |
 | Relativity Space | greenhouse relativity (direct) | direct | `{"ats": "greenhouse", "slug": "relativity"}` |
-| Renaissance Technologies | REVIEW {"ats": "greenhouse", "slug": "renaissancelearning-na | careers page | `{"ats": "greenhouse", "slug": "renaissancelearning-nam"}` |
-| S&P Global | already covered | careers page | `{"ats": "workday", "host": "spgi.wd5.myworkdayjobs.com", "site": "SPGI_Careers"}` |
+| Renaissance Technologies | greenhouse renaissancelearning-nam (careers page) | careers page | `{"ats": "greenhouse", "slug": "renaissancelearning-nam"}` |
+| S&P Global | not found |  | `` |
 | Stripe | already covered | direct | `{"ats": "greenhouse", "slug": "stripe"}` |
 | Thermo Fisher Scientific | not found |  | `` |
-| Universal Parks | greenhouse universal (direct) | direct | `{"ats": "greenhouse", "slug": "universal"}` |
+| Universal Parks | REVIEW {"ats": "greenhouse", "slug": "universaldx"} | directory | `{"ats": "greenhouse", "slug": "universaldx"}` |
 | Walmart | not found |  | `` |

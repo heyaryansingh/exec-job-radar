@@ -1,0 +1,8 @@
+crawls: ['https://index.commoncrawl.org/CC-MAIN-2026-39-index']
+CC-MAIN-2026-39-index  *.myworkdayjobs.com          pages=5     cap=3000  boards_on_first_page=112  (110s)
+CC-MAIN-2026-39-index  *.myworkdaysite.com          pages=1     cap=400   boards_on_first_page=107  (46s)
+CC-MAIN-2026-39-index  boards.greenhouse.io/*       pages=1     cap=600   boards_on_first_page=91  (53s)
+CC-MAIN-2026-39-index  job-boards.greenhouse.io/*   pages=5     cap=600   boards_on_first_page=17  (124s)
+CC-MAIN-2026-39-index  jobs.lever.co/*              pages=1     cap=400   boards_on_first_page=27  (61s)
+CC-MAIN-2026-39-index  jobs.ashbyhq.com/*           pages=2     cap=400   boards_on_first_page=1848  (106s)
+CC-MAIN-2026-39-index  *.oraclecloud.com            pages=3     cap=600   boards_on_first_page=237  (94s)

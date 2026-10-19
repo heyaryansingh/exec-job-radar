@@ -19,8 +19,8 @@
 | phenom | HPE | ok, 5 senior | SVP, Engineering; VP & General Manager - GreenLake Flex Solutions; Director Software Engineering (Cloud Security); Director of Strategy & Execution, H |
 | phenom | Thermo Fisher Scientific | ok, 28 senior | Director, Finance – Molecular Biology - $45B Industry Leader!; Sr. Director of Research & Development Controlled Temperature Technologies; Sr. Directo |
 | phenom | AbbVie | fail | phenom: no response from careers.abbvie.com |
-| phenom | CVS Health | ok, 47 senior | Population Health Director, Field; Vice President, FP&A - Retail; Lead Director, Pharma Contracting - Trade Relations; Oak Street Health Regional Dire |
-| phenom | Mastercard | ok, 88 senior | Vice President- AI, Center of Excellence; Vice President, Software Engineering; Vice President, Enterprise Order Management; Vice President, Security  |
+| phenom | CVS Health | ok, 32 senior | Population Health Director, Field; Lead Director, Pharma Contracting - Trade Relations; Vice President, FP&A - Retail; Oak Street Health Regional Dire |
+| phenom | Mastercard | ok, 88 senior | Vice President, Enterprise Order Management; Vice President, Security Monitoring and Response; Vice President- AI, Center of Excellence; VP, GBSC Valu |
 | phenom | Kroger | fail | phenom: no response from jobs.kroger.com |
 | phenom | Boeing | fail | phenom: no response from jobs.boeing.com |
 | phenom | Accenture | fail | phenom: no response from www.accenture.com |

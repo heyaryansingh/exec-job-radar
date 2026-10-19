@@ -89,13 +89,12 @@ def slug_candidates(name: str) -> list[str]:
 
 def plausible(name: str, entry: dict) -> bool:
     """Does the board address look like it belongs to this company?"""
-    blob = " ".join(str(entry.get(k, "")) for k in ("slug", "host", "tenant", "site")).lower()
-    blob_compact = re.sub(r"[^a-z0-9]", "", blob)
-    toks = norm_tokens(name) or re.findall(r"[a-z0-9]+", name.lower())
-    if any(len(t) >= 3 and t in blob_compact for t in toks):
+    keys = [compact(k) for k in board_keys(entry) if k]
+    toks = [t for t in re.findall(r"[a-z0-9]+", name.lower()) if t not in GENERIC and t not in LEGAL]
+    if any(len(t) >= 3 and any(t in k for k in keys) for t in toks):
         return True
     acronym = "".join(t[0] for t in re.findall(r"[a-z0-9]+", name.lower()) if t not in ("of", "and", "the"))
-    return len(acronym) >= 2 and acronym in blob_compact
+    return len(acronym) >= 2 and any(k.startswith(acronym) for k in keys)
 
 
 def count_jobs(s, e: dict) -> int:
@@ -125,6 +124,20 @@ def count_jobs(s, e: dict) -> int:
     return -1
 
 
+def names_agree(board: str, name: str, strict: bool) -> bool:
+    """Does a board's own company name match ours? ("Charles River" is not "Charles Schwab")."""
+    if not board:
+        return not strict  # no name to compare: only trust exact full-name slugs
+    b = compact(re.sub(r"\b(inc|corp|corporation|llc|ltd|plc|careers|jobs)\b", "", board.lower()))
+    n = compact(" ".join(w for w in re.findall(r"[a-z0-9]+", name.lower()) if w not in LEGAL))
+    if not b or not n:
+        return False
+    if b == n:
+        return True
+    short, long_ = sorted((b, n), key=len)
+    return len(short) >= 5 and long_.startswith(short)
+
+
 def probe_direct(s, name: str):
     full = {re.sub(r"[^a-z0-9-]", "", x) for x in (
         "".join(re.findall(r"[a-z0-9]+", name.lower().replace("&", " "))),
@@ -140,7 +153,7 @@ def probe_direct(s, name: str):
                     if ats == "greenhouse":  # boards report their company name; reject collisions
                         r = s.get(f"https://boards-api.greenhouse.io/v1/boards/{slug}", timeout=20)
                         board = (r.json().get("name") or "") if r.ok else ""
-                        if board and not set(norm_tokens(board)) & set(norm_tokens(name)):
+                        if not names_agree(board, name, strict=slug not in full):
                             continue
                     return e
             except Exception:
@@ -214,6 +227,7 @@ def match_score(keys: dict, e: dict) -> int:
 
 
 _DIRECTORY = None
+REBUILD_DIRECTORY = False
 _dir_lock = threading.Lock()
 
 
@@ -222,7 +236,7 @@ def directory_entries() -> list[dict]:
     with _dir_lock:
         if _DIRECTORY is None:
             try:
-                d = ats_directory.load(max_pages=150, n_crawls=2)
+                d = ats_directory.load(max_pages=0, n_crawls=2, rebuild=REBUILD_DIRECTORY)
                 _DIRECTORY = [e for v in d.get("boards", {}).values() for e in v]
             except Exception as exc:
                 print(f"  ! directory unavailable: {exc}", flush=True)
@@ -248,12 +262,18 @@ def probe_directory(s, name: str, aliases: list[str]):
     return None, False
 
 
+def full_domains(name: str, aliases: list[str]) -> set[str]:
+    words = re.findall(r"[a-z0-9]+", name.lower().replace("&", " "))
+    legal = [w for w in words if w not in LEGAL]
+    return {x + ".com" for x in ("".join(words), "".join(legal)) if x} | {compact(a) + ".com" for a in aliases}
+
+
 def guess_domains(name: str, aliases: list[str]) -> list[str]:
     words = re.findall(r"[a-z0-9]+", name.lower().replace("&", " "))
     core = [w for w in words if w not in STOP]
     c = ["".join(words), "".join(core), "".join(w for w in words if w not in ("the",))]
-    if core and len(core[0]) >= 5:
-        c.append(core[0])
+    if len(words) == 2 and words[1] in STOP | GENERIC and len(words[0]) >= 5:
+        c.append(words[0])
     c += [compact(a) for a in aliases]
     out = []
     for x in c:
@@ -282,9 +302,12 @@ def probe_careers_page(s, name: str, aliases: list[str]):
                     continue
                 try:
                     if count_jobs(s, e) > 0:
-                        # the guessed domain might belong to a different company with the
-                        # same name, so require the board itself to look like this company
-                        return e, plausible(name, e) or match_score(name_keys(name, aliases), e) >= 2
+                        # The guessed domain may belong to another company with a similar name
+                        # (fidelity.com for Fidelity National Financial). Confident only when the
+                        # domain is the full company name and the board echoes that name.
+                        ok = d in full_domains(name, aliases) and (
+                            plausible(name, e) or match_score(name_keys(name, aliases), e) >= 3)
+                        return e, ok
                 except Exception:
                     continue
     return None, False
@@ -380,8 +403,14 @@ def main():
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--web-search", action="store_true", help="also try web search (often blocked)")
     ap.add_argument("--retry-review", action="store_true", help="re-resolve names sent to review")
+    ap.add_argument("--dry-run", action="store_true",
+                    help="test mode: change nothing, write a report of what would happen")
+    ap.add_argument("--report", default=str(ROOT / "data" / "test_reports" / "discover.md"))
+    ap.add_argument("--rebuild-directory", action="store_true")
     ap.add_argument("--workers", type=int, default=12)
     a = ap.parse_args()
+    global REBUILD_DIRECTORY
+    REBUILD_DIRECTORY = a.rebuild_directory
 
     existing = {c["name"].lower() for c in (yaml.safe_load(COMPANIES.read_text()) or [])}
     state = json.loads(STATE.read_text()) if STATE.exists() else {"tried": {}}
@@ -396,8 +425,8 @@ def main():
         tier = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else 2
         sector = parts[2] if len(parts) > 2 else ""
         aliases = [x.strip() for x in parts[3].split(";")] if len(parts) > 3 and parts[3] else []
-        prev = tried.get(name)
-        if name.lower() in existing:
+        prev = None if a.dry_run else tried.get(name)
+        if name.lower() in existing and not a.dry_run:
             continue
         # skip names already resolved; names never found are retried every run
         if prev and not (a.retry_review and "review" in prev):
@@ -411,6 +440,7 @@ def main():
 
     known_ids = {identity(c) for c in (yaml.safe_load(COMPANIES.read_text()) or [])}
     added, review, missed = [], [], []
+    report = []
     done = 0
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         futs = {ex.submit(resolve, name, aliases, a.web_search): (name, tier, sector)
@@ -440,14 +470,41 @@ def main():
                 tried[name] = None
                 status = "not found"
             print(f"[{done}/{len(rows)}] {name}: {status}", flush=True)
+            report.append((name, status, how if e else "", json.dumps(e) if e else ""))
+            if a.dry_run:
+                continue
             if done % 25 == 0:  # checkpoint so a timeout loses little work
                 flush(added, review, state)
                 added, review = [], []
+    if a.dry_run:
+        write_report(Path(a.report), report)
+        return
     flush(added, review, state)
     found = sum(1 for v in tried.values() if v and "review" not in v and "duplicate_of" not in v)
     print(f"\nresolved this run: {done - len(missed)}  |  not found: {len(missed)}  |  "
           f"total resolved so far: {found}")
     print("not found: " + ", ".join(sorted(missed)))
+
+
+def write_report(path: Path, rows):
+    from collections import Counter
+    def kind(st):
+        for pre, k in (("REVIEW", "review"), ("not found", "not found"), ("already", "already covered")):
+            if st.startswith(pre):
+                return k
+        return "found"
+    kinds = Counter(kind(st) for _, st, _, _ in rows)
+    d = directory_entries()
+    by_ats = Counter(e["ats"] for e in d)
+    lines = ["# Discovery test report", "",
+             f"Test run, nothing was changed. {len(rows)} names: " + ", ".join(f"{k} {v}" for k, v in kinds.items()), "",
+             "Directory: " + (", ".join(f"{k} {v}" for k, v in sorted(by_ats.items())) or "EMPTY"), "",
+             "| Company | Result | How | Board |", "|---|---|---|---|"]
+    for name, st, how, e in sorted(rows):
+        lines.append(f"| {name} | {st.replace('|', '/')[:60]} | {how} | `{e[:110]}` |")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(lines) + "\n")
+    print(f"report written to {path}")
 
 
 def flush(added, review, state):

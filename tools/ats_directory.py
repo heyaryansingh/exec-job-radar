@@ -30,15 +30,16 @@ from collector.common import session  # noqa: E402
 OUT = ROOT / "data" / "ats_directory.json"
 INDEX = "https://index.commoncrawl.org"
 
-# (url pattern, optional filter) per career-site system
+# (url pattern, optional filter, max pages per crawl). Workday is where most large
+# employers are, so it gets the deepest read.
 PATTERNS = [
-    ("*.myworkdayjobs.com", None),
-    ("*.myworkdaysite.com", None),
-    ("boards.greenhouse.io/*", None),
-    ("job-boards.greenhouse.io/*", None),
-    ("jobs.lever.co/*", None),
-    ("jobs.ashbyhq.com/*", None),
-    ("*.oraclecloud.com", "~url:.*CandidateExperience/[a-z]{2}/sites/.*"),
+    ("*.myworkdayjobs.com", None, 3000),
+    ("*.myworkdaysite.com", None, 400),
+    ("boards.greenhouse.io/*", None, 600),
+    ("job-boards.greenhouse.io/*", None, 600),
+    ("jobs.lever.co/*", None, 400),
+    ("jobs.ashbyhq.com/*", None, 400),
+    ("*.oraclecloud.com", "~url:.*CandidateExperience/[a-z]{2}/sites/.*", 600),
 ]
 BAD_SITES = {"", "wday", "job", "jobs", "robots.txt", "favicon.ico", "login", "embed", "v1",
              "sitemap.xml", "assets", "static"}
@@ -63,6 +64,19 @@ def crawls(s, n: int) -> list[str]:
     if not r:
         raise RuntimeError("Common Crawl index unreachable")
     return [c["cdx-api"] for c in r.json()[:n]]
+
+
+def page_count(api: str, pattern: str, flt) -> int:
+    s = session()
+    s.headers["Accept"] = "*/*"
+    base = {"url": pattern, "output": "json", "fl": "url", "showNumPages": "true"}
+    if flt:
+        base["filter"] = flt
+    r = _get(s, api, base)
+    try:
+        return int(r.json().get("pages", 0)) if r else -1
+    except ValueError:
+        return -1
 
 
 def harvest(api: str, pattern: str, flt, max_pages: int, log) -> Counter:
@@ -109,13 +123,18 @@ def harvest(api: str, pattern: str, flt, max_pages: int, log) -> Counter:
 
 
 def build(max_pages: int, n_crawls: int, log=print) -> dict:
+    """max_pages scales every pattern's cap (1.0 = the caps above); pass a small number
+    for a quick test build."""
     s = session()
     s.headers["Accept"] = "*/*"
     apis = crawls(s, n_crawls)
     counts: Counter = Counter()
     for api in apis:
-        for pattern, flt in PATTERNS:
-            counts.update(harvest(api, pattern, flt, max_pages, log))
+        for pattern, flt, cap in PATTERNS:
+            limit = cap if max_pages <= 0 else min(cap, max_pages)
+            got = harvest(api, pattern, flt, limit, log)
+            log(f"    -> {len(got)} boards")
+            counts.update(got)
     # keep, per board, how often it was seen (more captures = more likely the main site)
     out = defaultdict(list)
     for k, n in counts.most_common():
@@ -129,9 +148,9 @@ def build(max_pages: int, n_crawls: int, log=print) -> dict:
     return d
 
 
-def load(max_age_days: int = 30, **kw) -> dict:
-    """Return the cached directory, rebuilding it when missing or old."""
-    if OUT.exists():
+def load(max_age_days: int = 30, rebuild: bool = False, **kw) -> dict:
+    """Return the cached directory, rebuilding it when missing, old, or asked to."""
+    if OUT.exists() and not rebuild:
         try:
             d = json.loads(OUT.read_text())
             age = datetime.now(timezone.utc) - datetime.fromisoformat(d["built"])
@@ -148,14 +167,33 @@ def load(max_age_days: int = 30, **kw) -> dict:
     return d
 
 
+def stats(n_crawls: int, log=print) -> list[str]:
+    """Measure the index without downloading it: pages per pattern per crawl, plus how
+    many boards one sample page yields. Cheap; use before a full build."""
+    s = session()
+    s.headers["Accept"] = "*/*"
+    lines = []
+    for api in crawls(s, n_crawls):
+        for pattern, flt, cap in PATTERNS:
+            n = page_count(api, pattern, flt)
+            sample = harvest(api, pattern, flt, 1, lambda *_: None) if n > 0 else Counter()
+            line = (f"{api.rsplit('/', 1)[-1]}  {pattern:<28} pages={n:<5} cap={cap:<5} "
+                    f"boards_on_first_page={len(sample)}")
+            log(line)
+            lines.append(line)
+    return lines
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--max-pages", type=int, default=400, help="per pattern per crawl")
+    ap.add_argument("--max-pages", type=int, default=0, help="cap pages per pattern (0 = built-in caps)")
     ap.add_argument("--crawls", type=int, default=2)
+    ap.add_argument("--stats", action="store_true", help="measure only; download nothing")
     a = ap.parse_args()
-    if OUT.exists():
-        OUT.unlink()
-    load(max_pages=a.max_pages, n_crawls=a.crawls)
+    if a.stats:
+        stats(a.crawls)
+        return
+    load(rebuild=True, max_pages=a.max_pages, n_crawls=a.crawls)
 
 
 if __name__ == "__main__":

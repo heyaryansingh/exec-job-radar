@@ -82,3 +82,20 @@ def test_cc_line_parsing(monkeypatch):
 def test_domain_guesses():
     assert d.guess_domains("Cheniere Energy", [])[0] == "cheniereenergy.com"
     assert "cheniere.com" in d.guess_domains("Cheniere Energy", [])
+
+
+def test_board_names_must_really_agree():
+    assert not d.names_agree("Charles River Associates", "Charles Schwab", strict=True)
+    assert not d.names_agree("General Motors", "General Mills", strict=True)
+    assert not d.names_agree("Renaissance Learning", "Renaissance Technologies", strict=True)
+    assert d.names_agree("Cheniere Energy, Inc.", "Cheniere Energy", strict=True)
+    assert d.names_agree("Stripe", "Stripe", strict=False)
+
+
+def test_careers_page_guards():
+    assert not d.plausible("Munich Re", {"ats": "greenhouse", "slug": "nextinsurancemresandbox"})
+    assert d.plausible("BNY", {"ats": "oracle", "host": "eofe.fa.us2.oraclecloud.com", "site": "BNY-Careers"})
+    assert d.plausible("Cushman & Wakefield", wd("cw.wd1.myworkdayjobs.com", "External"))
+    # a shortened domain guess is never a "full-name" domain
+    assert "fidelity.com" not in d.full_domains("Fidelity National Financial", [])
+    assert "fidelity.com" not in d.guess_domains("Fidelity National Financial", [])

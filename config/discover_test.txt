@@ -1,0 +1,35 @@
+# Short test list for the "Discover (test)" workflow. Mix of: past false matches (must
+# NOT match the wrong company), known-good companies, and big names still missing.
+# Past false matches
+Charles Schwab | 1 | asset management
+General Mills | 2 | consumer goods
+Munich Re | 2 | insurance
+Renaissance Technologies | 2 | hedge fund
+Fidelity National Financial | 2 | insurance
+Lincoln Financial | 2 | insurance
+Relativity Space | 3 | aerospace
+Universal Parks | 2 | hospitality
+# Known good (should be found, and "already covered" if in the watchlist)
+Stripe | 1 | fintech
+Capital One | 1 | bank
+S&P Global | 1 | markets
+Jane Street | 1 | markets
+Cheniere Energy | 1 | energy
+# Big names still missing
+Pfizer | 1 | pharma
+Medtronic | 1 | medtech
+Equinix | 1 | tech
+Qualcomm | 1 | tech
+Applied Materials | 1 | tech
+Red Hat | 1 | tech
+Johnson & Johnson | 1 | pharma
+Thermo Fisher Scientific | 1 | life sciences
+Walmart | 1 | retail
+Comcast | 1 | telecom
+Dell Technologies | 2 | tech
+Charles Schwab Corporation | 3 | bank
+Northern Trust | 2 | bank
+Lockheed Martin | 1 | aerospace
+ExxonMobil | 1 | energy
+American Express | 1 | bank
+Goldman Sachs | 1 | bank

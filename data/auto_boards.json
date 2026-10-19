@@ -339,6 +339,12 @@
 },
 {
 "ats": "workday",
+"host": "valeris.wd108.myworkdayjobs.com",
+"name": "VALERIS",
+"site": "Valeris"
+},
+{
+"ats": "workday",
 "host": "pacificlife.wd1.myworkdayjobs.com",
 "name": "Pacific Life",
 "site": "PacificLifeCareers"

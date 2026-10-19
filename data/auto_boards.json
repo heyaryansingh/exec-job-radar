@@ -389,6 +389,12 @@
 "host": "smithnephew.wd5.myworkdayjobs.com",
 "name": "Smith+Nephew",
 "site": "External"
+},
+{
+"ats": "oracle",
+"host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com",
+"name": "Ascot Group",
+"site": "CX"
 }
 ]
 }

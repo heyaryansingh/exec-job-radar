@@ -1,8 +1,8 @@
 # JSearch test (1 API call)
 
-HTTP 403
+HTTP 404
 
 Response:
 ```
-{"message":"You are not subscribed to this API."}
+{"message":"Endpoint '\/search' does not exist"}
 ```

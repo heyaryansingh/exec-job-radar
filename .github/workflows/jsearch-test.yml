@@ -1,0 +1,38 @@
+name: JSearch (test)
+
+# One API call to check the RAPIDAPI_KEY secret. Report: data/test_reports/jsearch.md
+on:
+  workflow_dispatch: {}
+  push:
+    paths: ["tools/test_jsearch.py", ".github/workflows/jsearch-test.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pyyaml
+      - name: Call JSearch once
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python tools/test_jsearch.py data/test_reports/jsearch.md
+      - name: Save report
+        if: always()
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          if [ -e data/test_reports/jsearch.md ]; then git add data/test_reports/jsearch.md; fi
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "test report: jsearch"
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1

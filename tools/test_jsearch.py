@@ -20,11 +20,16 @@ lines = ["# JSearch test (1 API call)", ""]
 if not key:
     lines.append("RAPIDAPI_KEY is not set for this workflow.")
 else:
-    r = requests.get("https://jsearch.p.rapidapi.com/search", timeout=40,
-                     headers={"X-RapidAPI-Key": key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"},
-                     params={"query": "vice president technology in USA", "page": 1, "num_pages": 1,
-                             "date_posted": "week", "country": "us"})
-    lines.append(f"HTTP {r.status_code}")
+    params = {"query": "vice president technology in USA", "page": 1, "num_pages": 1,
+              "date_posted": "week", "country": "us"}
+    hdr = {"X-RapidAPI-Key": key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"}
+    # the API's search path has changed over time; try the known variants (404s are free)
+    for path in ("/search", "/search-v2", "/v2/search", "/search/v2", "/job-search", "/jobs/search", "/v1/search"):
+        r = requests.get("https://jsearch.p.rapidapi.com" + path, timeout=40, headers=hdr, params=params)
+        lines.append(f"- {path}: HTTP {r.status_code} {r.text[:90]!r}")
+        if r.status_code != 404:
+            break
+    lines.append(f"HTTP {r.status_code} via {path}")
     for h in ("x-ratelimit-requests-limit", "x-ratelimit-requests-remaining"):
         if h in r.headers:
             lines.append(f"- {h}: {r.headers[h]}")
@@ -48,4 +53,3 @@ else:
 out.parent.mkdir(parents=True, exist_ok=True)
 out.write_text("\n".join(lines) + "\n")
 print("\n".join(lines[:8]))
-# rerun 2026-10-19T23:12:10Z

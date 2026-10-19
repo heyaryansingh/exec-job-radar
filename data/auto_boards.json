@@ -1,0 +1,234 @@
+{
+"boards": [
+{
+"ats": "smartrecruiters",
+"name": "Tiverton Advisors",
+"slug": "TivertonAdvisors"
+},
+{
+"ats": "workday",
+"host": "stackinfra.wd108.myworkdayjobs.com",
+"name": "STACK Infrastructure US",
+"site": "STACK_AMER"
+},
+{
+"ats": "smartrecruiters",
+"name": "Orchard Marketing New York",
+"slug": "Enero"
+},
+{
+"ats": "lever",
+"name": "Filevine",
+"slug": "filevine"
+},
+{
+"ats": "greenhouse",
+"name": "Mozilla Corporation",
+"slug": "mozilla"
+},
+{
+"ats": "ashby",
+"name": "Trustly",
+"slug": "trustly"
+},
+{
+"ats": "workday",
+"host": "lplfinancial.wd1.myworkdayjobs.com",
+"name": "LPL Financial",
+"site": "External"
+},
+{
+"ats": "workday",
+"host": "tutorperini.wd12.myworkdayjobs.com",
+"name": "Tutor Perini Corporation",
+"site": "external"
+},
+{
+"ats": "lever",
+"name": "Rezolute",
+"slug": "rezolutebio"
+},
+{
+"ats": "ashby",
+"name": "Raptive",
+"slug": "raptive"
+},
+{
+"ats": "smartrecruiters",
+"name": "Turner & Townsend Pty Limited",
+"slug": "TurnerTownsend"
+},
+{
+"ats": "workday",
+"host": "mdtkangaroo.wd108.myworkdayjobs.com",
+"name": "MiniMed",
+"site": "MiniMedCareers"
+},
+{
+"ats": "workday",
+"host": "iberdrola.wd3.myworkdayjobs.com",
+"name": "Avangrid",
+"site": "Iberdrola"
+},
+{
+"ats": "workday",
+"host": "wd1.myworkdaysite.com",
+"name": "Wells Fargo",
+"public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs",
+"site": "WellsFargoJobs",
+"tenant": "wf"
+},
+{
+"ats": "workday",
+"host": "recar.wd108.myworkdayjobs.com",
+"name": "Slate Auto",
+"site": "SLATEcareers"
+},
+{
+"ats": "workday",
+"host": "acelero.wd1.myworkdayjobs.com",
+"name": "Shine Early Learning",
+"site": "ShineEarlyLearningCareers"
+},
+{
+"ats": "workday",
+"host": "salesforce.wd12.myworkdayjobs.com",
+"name": "Salesforce",
+"site": "External_Career_Site"
+},
+{
+"ats": "workday",
+"host": "nvidia.wd5.myworkdayjobs.com",
+"name": "NVIDIA",
+"site": "NVIDIAExternalCareerSite"
+},
+{
+"ats": "workday",
+"host": "visa.wd5.myworkdayjobs.com",
+"name": "Visa",
+"site": "Visa"
+},
+{
+"ats": "ashby",
+"name": "Arizent",
+"slug": "arizent"
+},
+{
+"ats": "ashby",
+"name": "OpenLoop Health",
+"slug": "openloophealth"
+},
+{
+"ats": "smartrecruiters",
+"name": "National Vision, Inc.",
+"slug": "NationalVision1"
+},
+{
+"ats": "workday",
+"host": "summitbhc.wd1.myworkdayjobs.com",
+"name": "Summit Behavioral Healthcare",
+"site": "Summit_BHC"
+},
+{
+"ats": "workday",
+"host": "modernatx.wd1.myworkdayjobs.com",
+"name": "Moderna",
+"site": "M_tx"
+},
+{
+"ats": "workday",
+"host": "dow.wd1.myworkdayjobs.com",
+"name": "DOW",
+"site": "ExternalCareers"
+},
+{
+"ats": "workday",
+"host": "yearup.wd503.myworkdayjobs.com",
+"name": "Year Up United",
+"site": "YearUp"
+},
+{
+"ats": "smartrecruiters",
+"name": "AbbVie",
+"slug": "AbbVie"
+},
+{
+"ats": "smartrecruiters",
+"name": "Doka Group",
+"slug": "UmdaschGroup"
+},
+{
+"ats": "workday",
+"host": "holmanautogroup.wd1.myworkdayjobs.com",
+"name": "Holman",
+"site": "HolmanEnterprisesCareers"
+},
+{
+"ats": "workday",
+"host": "bigcommerce.wd12.myworkdayjobs.com",
+"name": "Commerce",
+"site": "Commerce"
+},
+{
+"ats": "workday",
+"host": "firstnational.wd12.myworkdayjobs.com",
+"name": "FNBO - First National Bank of Omaha",
+"site": "fnbocareers"
+},
+{
+"ats": "workday",
+"host": "pgatoursuperstore.wd12.myworkdayjobs.com",
+"name": "PGA TOUR Superstore",
+"site": "PGAT_SS"
+},
+{
+"ats": "smartrecruiters",
+"name": "Northwestern Medicine",
+"slug": "NorthwesternMedicine"
+},
+{
+"ats": "smartrecruiters",
+"name": "City and County of San Francisco",
+"slug": "CityAndCountyOfSanFrancisco1"
+},
+{
+"ats": "oracle",
+"host": "ecsr.fa.us2.oraclecloud.com",
+"name": "Vanderbilt University",
+"site": "CX_1"
+},
+{
+"ats": "workday",
+"host": "blueorigin.wd5.myworkdayjobs.com",
+"name": "Blue Origin",
+"site": "BlueOrigin"
+},
+{
+"ats": "workday",
+"host": "elanco.wd5.myworkdayjobs.com",
+"name": "Elanco",
+"site": "External_Career"
+},
+{
+"ats": "workday",
+"host": "mksinst.wd1.myworkdayjobs.com",
+"name": "MKS",
+"site": "MKSCareersAmericas"
+},
+{
+"ats": "smartrecruiters",
+"name": "SEAKR Engineering",
+"slug": "SEAKREngineering"
+},
+{
+"ats": "ashby",
+"name": "EH Group",
+"slug": "eh-group"
+},
+{
+"ats": "lever",
+"name": "Kickmaker",
+"slug": "kickmaker"
+}
+]
+}

@@ -191,12 +191,33 @@ def stats(n_crawls: int, log=print) -> list[str]:
     return lines
 
 
+def coverage(n_crawls: int, ats: str, log=print):
+    """Measure how many distinct boards of one type a multi-crawl union yields, crawl by
+    crawl, without saving anything."""
+    s = session()
+    s.headers["Accept"] = "*/*"
+    union: set = set()
+    for api in crawls(s, n_crawls):
+        for pattern, flt, cap in PATTERNS:
+            if ats not in pattern and not (ats == "workday" and "workday" in pattern):
+                continue
+            got = harvest(api, pattern, flt, cap, lambda *_: None)
+            before = len(union)
+            union |= {k for k in got}
+            log(f"{api.rsplit('/', 1)[-1]}  {pattern:<24} boards={len(got):<5} "
+                f"new_to_union={len(union) - before:<5} union={len(union)}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--max-pages", type=int, default=0, help="cap pages per pattern (0 = built-in caps)")
     ap.add_argument("--crawls", type=int, default=2)
     ap.add_argument("--stats", action="store_true", help="measure only; download nothing")
+    ap.add_argument("--coverage", metavar="ATS", help="measure multi-crawl union size for one board type")
     a = ap.parse_args()
+    if a.coverage:
+        coverage(a.crawls, a.coverage)
+        return
     if a.stats:
         stats(a.crawls)
         return

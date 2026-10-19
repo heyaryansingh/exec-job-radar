@@ -309,8 +309,11 @@ def probe_careers_page(s, name: str, aliases: list[str]):
                         # The guessed domain may belong to another company with a similar name
                         # (fidelity.com for Fidelity National Financial). Confident only when the
                         # domain is the full company name and the board echoes that name.
+                        # Oracle addresses are opaque codes (hcgi.fa.us2...), so for them the
+                        # company's own full-name domain linking there is the evidence.
                         ok = d in full_domains(name, aliases) and (
-                            plausible(name, e) or match_score(name_keys(name, aliases), e) >= 3)
+                            e["ats"] == "oracle" or plausible(name, e)
+                            or match_score(name_keys(name, aliases), e) >= 3)
                         return e, ok
                 except Exception:
                     continue

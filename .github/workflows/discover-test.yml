@@ -6,7 +6,7 @@ name: Discover (test)
 on:
   workflow_dispatch: {}
   push:
-    paths: ["config/discover_test.txt", "tools/discover.py", "tools/ats_directory.py",
+    paths: ["config/discover_test.txt", "tools/discover.py", "tools/ats_directory.py", "tools/probe_workday.py",
             ".github/workflows/discover-test.yml"]
 
 permissions:
@@ -19,7 +19,7 @@ concurrency:
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -29,10 +29,13 @@ jobs:
       - run: pip install -r requirements.txt pytest
       - name: Unit tests
         run: python -m pytest -q tests
-      - name: Measure the Common Crawl index (no download)
+      - name: Workday probe experiment
         run: |
           mkdir -p data/test_reports
-          timeout 1200 python -u tools/ats_directory.py --stats --crawls 1 2>&1 | tee data/test_reports/directory_stats.txt || true
+          timeout 600 python -u tools/probe_workday.py data/test_reports/workday_probe.md || true
+      - name: Measure multi-crawl Workday coverage (no save)
+        run: |
+          timeout 1500 python -u tools/ats_directory.py --coverage workday --crawls 8 2>&1 | tee data/test_reports/workday_coverage.txt || true
       - name: Discovery on the test list (report only)
         run: python tools/discover.py config/discover_test.txt --dry-run --report data/test_reports/discover.md
       - name: Save reports

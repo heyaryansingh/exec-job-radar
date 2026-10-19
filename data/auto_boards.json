@@ -330,6 +330,30 @@
 "ats": "ashby",
 "name": "Spring Health",
 "slug": "deaa6ad2-d184-436b-b69e-17f761da1d94"
+},
+{
+"ats": "workday",
+"host": "cambria.wd1.myworkdayjobs.com",
+"name": "Cambria",
+"site": "cambria_careers"
+},
+{
+"ats": "workday",
+"host": "pacificlife.wd1.myworkdayjobs.com",
+"name": "Pacific Life",
+"site": "PacificLifeCareers"
+},
+{
+"ats": "workday",
+"host": "bmo.wd3.myworkdayjobs.com",
+"name": "BMO Financial Group",
+"site": "External"
+},
+{
+"ats": "oracle",
+"host": "ekug.fa.us6.oraclecloud.com",
+"name": "KLDiscovery",
+"site": "CX_1001"
 }
 ]
 }

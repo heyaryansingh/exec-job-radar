@@ -2,48 +2,52 @@
 
 ```
 {
- "run_at": "2026-10-19T21:59:25+00:00",
- "seconds": 212,
- "companies": 499,
- "company_errors": 0,
+ "run_at": "2026-10-19T22:10:22+00:00",
+ "seconds": 246,
+ "companies": 513,
+ "company_errors": 1,
  "skipped_backoff": 30,
  "skipped_out_of_time": 0,
- "senior_titles_seen": 4752,
- "new_roles": 4,
- "merged_duplicates": 0,
+ "senior_titles_seen": 5166,
+ "new_roles": 61,
+ "merged_duplicates": 4,
  "reposted": 0,
  "closed_after_check": 0,
  "removed_by_rule_change": 0,
- "open_roles": 1070,
- "roles_in_latest": 1070,
+ "open_roles": 1127,
+ "roles_in_latest": 1127,
  "universe_boards": 600,
  "universe_polled_ok": 570,
  "universe_errors": 0,
  "names_learned": 0,
- "employer_sites_found_on_boards": 159,
+ "employer_sites_found_on_boards": 155,
  "sources": {
-  "board-indeed (raw)": 294,
+  "board-indeed (raw)": 296,
   "themuse": 0,
   "adzuna": 0,
   "himalayas": 0,
   "remotive": 0,
   "usajobs": 0,
   "jsearch": 0,
-  "senior titles from boards/aggregators": 114
+  "senior titles from boards/aggregators": 116
  },
- "companies_with_open_roles": 414
+ "companies_with_open_roles": 423
 }
 ```
 
 ## Senior titles seen, by source
 
-- workday: 2054
+- workday: 2051
 - greenhouse: 1281
 - ashby: 574
-- oracle: 536
+- oracle: 534
+- sitemap: 245
 - smartrecruiters: 165
-- board-indeed: 83
+- phenom: 152
+- board-indeed: 86
 - lever: 59
+- amazon: 14
+- eightfold: 5
 
 ## Universe boards: 570 answered, 0 failed
 
@@ -116,7 +120,7 @@
 | 47 | Formlabs | [Head of Software Product Management](https://careers.formlabs.com/job/8273112/apply/?gh_jid=8273112) | Somerville, MA | 260000 |
 | 47 | Aspca | [Senior Director, IT Service Operations](https://aspca.wd1.myworkdayjobs.com/ASPCAWebsite/job/New-York-NY---8th-Avenue/Senior-Director--IT-Service-Operations_2026-616) | New York, NY - 8th Avenue | 200000 |
 
-## Roles from job boards / aggregators that pass (36), sample
+## Roles from job boards / aggregators that pass (39), sample
 
 | Source | Company | Role | Location |
 |---|---|---|---|
@@ -153,19 +157,23 @@
 | board-indeed | TransUnion | [Vice President, Artificial Intelligence Research & Development](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago---555-West-Adams-St/Vice-President--Artificial-Intelligence-Research---Development_19042485) | Chicago, IL, USA |
 | board-indeed | United Biosource Corporation | [Director, Software Engineering - Platform Development](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=90ee0c52-4563-4bbb-a44d-0a6cd6964c61&ccId=19000101_000001&jobId=593232&source=IN&lang=en_US) | Remote, USA |
 | board-indeed | Verustruct | [Head of Engineering](https://jobs.ashbyhq.com/verustruct/066cbb11-8a0a-4921-9596-47de948bff28?utm_source=p4jNLwy4oq) | Torrance, CA, USA |
-| board-indeed | TikTok USDS JV | [Head of Enterprise Security Engineering](https://careers.tiktokusds.com/usds/position/7697324327176472837/detail) | San Jose, CA, USA |
+| board-indeed | Digital Financial | [Vice President of Product](https://www.indeed.com/viewjob?jk=7ffcd00fe37743d5) | Margaretville, NY, USA |
 | board-indeed | TikTok USDS JV | [Head of IT](https://careers.tiktokusds.com/usds/position/7697315493053712693/detail) | San Jose, CA, USA |
+| board-indeed | TikTok USDS JV | [Head of Enterprise Security Engineering](https://careers.tiktokusds.com/usds/position/7697324327176472837/detail) | San Jose, CA, USA |
+| board-indeed | Bluebird Fiber | [Director, IT Security](https://secure6.saashr.com/ta/6174972.careers?ShowJob=722102404) | Kansas City, MO, USA |
+| board-indeed | Washington State Convention Center | [Director of Information Services](https://secure.entertimeonline.com/ta/6051365.careers?ShowJob=855846218) | Seattle, WA, USA |
 | board-indeed | Gallatin | [Senior Director, Solutions Architecture](https://jobs.ashbyhq.com/gallatin/a4c4fdf3-4247-4c65-a220-7738447429ec?utm_source=qZyxO8XDee) | El Segundo, CA, USA |
 
 ## Source log lines
 
 ```
-boards: 'Vice President Cloud Infrastructure' -> 5 results {'indeed': np.int64(5)}
+  ! Deloitte: sitemap: no job URLs
+boards: 'Vice President Cloud Infrastructure' -> 6 results {'indeed': np.int64(6)}
 boards: 'VP Platform Engineering' -> 37 results {'indeed': np.int64(37)}
 boards: 'Head of Site Reliability Engineering' -> 9 results {'indeed': np.int64(9)}
 boards: 'Director Cloud Engineering' -> 40 results {'indeed': np.int64(40)}
 boards: 'Senior Director Infrastructure' -> 40 results {'indeed': np.int64(40)}
-boards: 'VP Technology Infrastructure' -> 26 results {'indeed': np.int64(26)}
+boards: 'VP Technology Infrastructure' -> 27 results {'indeed': np.int64(27)}
 boards: 'Head of Enterprise Architecture' -> 0 results
 boards: 'Chief Technology Officer' -> 2 results {'indeed': np.int64(2)}
 boards: 'VP AI Platform' -> 40 results {'indeed': np.int64(40)}
@@ -173,7 +181,11 @@ boards: 'Executive Director Technology' -> 15 results {'indeed': np.int64(15)}
 boards: 'Managing Director Technology Infrastructure' -> 40 results {'indeed': np.int64(40)}
 boards: 'Director Production Engineering' -> 40 results {'indeed': np.int64(40)}
 themuse: page 1 returned 0 items of 149588 total
-boards/aggregators: {"board-indeed (raw)": 294, "themuse": 0, "adzuna": 0, "himalayas": 0, "remotive": 0, "usajobs": 0, "jsearch": 0, "senior titles from boards/aggregators": 114}; employer sites found: 159
+himalayas: 20 jobs on first page
+remotive: software-dev: 12 jobs
+remotive: devops: 12 jobs
+remotive: data: 12 jobs
+boards/aggregators: {"board-indeed (raw)": 296, "themuse": 0, "adzuna": 0, "himalayas": 0, "remotive": 0, "usajobs": 0, "jsearch": 0, "senior titles from boards/aggregators": 116}; employer sites found: 155
 ```
 
 ## Universe sample by career-site type (answered / polled)
@@ -187,21 +199,21 @@ boards/aggregators: {"board-indeed (raw)": 294, "themuse": 0, "adzuna": 0, "hima
 
 Passing roles by type: ashby 10, greenhouse 27, smartrecruiters 2, workday 68, oracle 1
 
-## Employer career sites found in board results (159), sample
+## Employer career sites found in board results (155), sample
 
 - Tiverton Advisors: `{"ats": "smartrecruiters", "slug": "TivertonAdvisors"}`
 - STACK Infrastructure US: `{"ats": "workday", "host": "stackinfra.wd108.myworkdayjobs.com", "site": "STACK_AMER"}`
 - Orchard Marketing New York: `{"ats": "smartrecruiters", "slug": "Enero"}`
-- Cambria: `{"ats": "workday", "host": "cambria.wd1.myworkdayjobs.com", "site": "cambria_careers"}`
-- VALERIS: `{"ats": "workday", "host": "valeris.wd108.myworkdayjobs.com", "site": "Valeris"}`
 - Filevine: `{"ats": "lever", "slug": "filevine"}`
-- Mozilla Corporation: `{"ats": "greenhouse", "slug": "mozilla"}`
-- Ascot Group: `{"ats": "oracle", "host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com", "site": "CX"}`
+- VALERIS: `{"ats": "workday", "host": "valeris.wd108.myworkdayjobs.com", "site": "Valeris"}`
+- Cambria: `{"ats": "workday", "host": "cambria.wd1.myworkdayjobs.com", "site": "cambria_careers"}`
 - Xero: `{"ats": "ashby", "slug": "xero"}`
 - Trustly: `{"ats": "ashby", "slug": "trustly"}`
-- Amazon.com: `{"ats": "amazon"}`
+- Mozilla Corporation: `{"ats": "greenhouse", "slug": "mozilla"}`
 - Infoblox: `{"ats": "oracle", "host": "efpv.fa.us6.oraclecloud.com", "site": "CX_1"}`
+- Amazon.com: `{"ats": "amazon"}`
 - APRIL: `{"ats": "ashby", "slug": "april"}`
+- Ascot Group: `{"ats": "oracle", "host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com", "site": "CX"}`
 - LPL Financial: `{"ats": "workday", "host": "lplfinancial.wd1.myworkdayjobs.com", "site": "External"}`
 - Tutor Perini Corporation: `{"ats": "workday", "host": "tutorperini.wd12.myworkdayjobs.com", "site": "external"}`
 - NerdWallet: `{"ats": "ashby", "slug": "nerdwallet"}`
@@ -210,14 +222,14 @@ Passing roles by type: ashby 10, greenhouse 27, smartrecruiters 2, workday 68, o
 - GSK: `{"ats": "phenom", "host": "jobs.gsk.com", "locale": "gb/en"}`
 - CRUSOE: `{"ats": "ashby", "slug": "Crusoe"}`
 - Pacific Life: `{"ats": "workday", "host": "pacificlife.wd1.myworkdayjobs.com", "site": "PacificLifeCareers"}`
-- Turner & Townsend Pty Limited: `{"ats": "smartrecruiters", "slug": "TurnerTownsend"}`
-- MiniMed: `{"ats": "workday", "host": "mdtkangaroo.wd108.myworkdayjobs.com", "site": "MiniMedCareers"}`
-- Jellyfish: `{"ats": "ashby", "slug": "jellyfishcareers"}`
 - Raptive: `{"ats": "ashby", "slug": "raptive"}`
-- Avangrid: `{"ats": "workday", "host": "iberdrola.wd3.myworkdayjobs.com", "site": "Iberdrola"}`
-- Slate Auto: `{"ats": "workday", "host": "recar.wd108.myworkdayjobs.com", "site": "SLATEcareers"}`
-- Wells Fargo: `{"ats": "workday", "host": "wd1.myworkdaysite.com", "tenant": "wf", "site": "WellsFargoJobs", "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs"}`
+- Turner & Townsend Pty Limited: `{"ats": "smartrecruiters", "slug": "TurnerTownsend"}`
+- Jellyfish: `{"ats": "ashby", "slug": "jellyfishcareers"}`
+- MiniMed: `{"ats": "workday", "host": "mdtkangaroo.wd108.myworkdayjobs.com", "site": "MiniMedCareers"}`
 - Shine Early Learning: `{"ats": "workday", "host": "acelero.wd1.myworkdayjobs.com", "site": "ShineEarlyLearningCareers"}`
-- Salesforce: `{"ats": "workday", "host": "salesforce.wd12.myworkdayjobs.com", "site": "External_Career_Site"}`
+- Vantage: `{"ats": "workday", "host": "vantagedc.wd1.myworkdayjobs.com", "site": "Vantage"}`
+- Avangrid: `{"ats": "workday", "host": "iberdrola.wd3.myworkdayjobs.com", "site": "Iberdrola"}`
+- BMO Financial Group: `{"ats": "workday", "host": "bmo.wd3.myworkdayjobs.com", "site": "External"}`
+- Slate Auto: `{"ats": "workday", "host": "recar.wd108.myworkdayjobs.com", "site": "SLATEcareers"}`
 
-Wall time: 213s
+Wall time: 246s

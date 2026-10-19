@@ -263,6 +263,73 @@
 "host": "essex.wd5.myworkdayjobs.com",
 "name": "Essex Property Trust",
 "site": "essexcareers"
+},
+{
+"ats": "ashby",
+"name": "Xero",
+"slug": "xero"
+},
+{
+"ats": "ashby",
+"name": "APRIL",
+"slug": "april"
+},
+{
+"ats": "ashby",
+"name": "NerdWallet",
+"slug": "nerdwallet"
+},
+{
+"ats": "ashby",
+"name": "CRUSOE",
+"slug": "Crusoe"
+},
+{
+"ats": "ashby",
+"name": "Jellyfish",
+"slug": "jellyfishcareers"
+},
+{
+"ats": "workday",
+"host": "vantagedc.wd1.myworkdayjobs.com",
+"name": "Vantage",
+"site": "Vantage"
+},
+{
+"ats": "ashby",
+"name": "Gallatin",
+"slug": "gallatin"
+},
+{
+"ats": "workday",
+"host": "solvenergy.wd1.myworkdayjobs.com",
+"name": "SOLV Energy",
+"site": "SOLV_External_Career"
+},
+{
+"ats": "ashby",
+"name": "Critical Materials Group",
+"slug": "criticalmaterialsgroup"
+},
+{
+"ats": "ashby",
+"name": "Agentio",
+"slug": "agentio"
+},
+{
+"ats": "ashby",
+"name": "Counsel Health",
+"slug": "counsel"
+},
+{
+"ats": "ashby",
+"name": "Source Multiplier",
+"slug": "source-multiplier"
+},
+{
+"ats": "ashby",
+"name": "Spring Health",
+"slug": "deaa6ad2-d184-436b-b69e-17f761da1d94"
 }
 ]
 }

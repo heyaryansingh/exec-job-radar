@@ -1,8 +1,15 @@
 # 🎯 Exec Job Radar · Senior Technology Leadership Roles
 
 Director, Senior Director, VP, SVP, Executive Director, Managing Director, Head of, and
-C-level technology roles in the US (and remote), refreshed **every hour** straight from
-employers' own career sites, plus a daily sweep of the major job boards.
+C-level technology roles in the US (and remote), refreshed **every hour**.
+
+**Where the roles come from**
+- Employers' own career sites, read directly: a curated watchlist of major employers plus
+  every other public Workday, Greenhouse, Lever, Ashby, SmartRecruiters and Oracle career
+  site we know of. The list grows on its own: when a job-board result links to an
+  employer's career site, that site is added and read directly from then on.
+- Job boards and aggregators: Indeed, plus The Muse and Adzuna through their official APIs.
+  LinkedIn is not scraped (its terms forbid it).
 
 Focus: cloud and infrastructure, platform engineering, SRE and production operations,
 enterprise architecture, data and AI platforms, security, and technology transformation.
@@ -12,23 +19,23 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**776 open roles** at **217 companies** · **158 new in the last 24 hours** · 499 company career sites watched · updated hourly · last update Oct 19, 2026 04:49 PM ET
+**780 open roles** at **219 companies** · **160 new in the last 24 hours** · 499 company career sites watched · updated hourly · last update Oct 19, 2026 04:57 PM ET
 
-By level: Director 404 · VP 157 · Sr. Director 88 · Head 43 · ED 30 · EVP/SVP 27 · C-level 19 · MD 8
+By level: Director 407 · VP 157 · Sr. Director 89 · Head 43 · ED 30 · EVP/SVP 27 · C-level 19 · MD 8
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · Age = days since posted (or first seen). Every link goes to the employer's own posting.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (158)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (160)](#new-in-the-last-24-hours)
 - [👑 Executive Technology Leadership (19)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (57)](#security-risk-technology)
-- [🧠 Data & AI (233)](#data-ai)
+- [🛡️ Security & Risk Technology (58)](#security-risk-technology)
+- [🧠 Data & AI (234)](#data-ai)
 - [🚦 Reliability & Operations (35)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (89)](#cloud-infrastructure)
-- [🏛️ Architecture (21)](#architecture)
+- [🏛️ Architecture (22)](#architecture)
 - [🔄 Transformation & Delivery (106)](#transformation-delivery)
-- [🛠️ Engineering & Software (164)](#engineering-software)
+- [🛠️ Engineering & Software (165)](#engineering-software)
 - [📌 Other Senior Roles (52)](#other-senior-roles)
 - [🔒 Recently closed (4)](#recently-closed)
 - Daily digests: [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
@@ -39,6 +46,8 @@ By level: Director 404 · VP 157 · Sr. Director 88 · Head 43 · ED 30 · EVP/S
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Gallatin | 🆕 Senior Director, Solutions Architecture | Sr. Director | Austin, TX, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/gallatin/a4c4fdf3-4247-4c65-a220-7738447429ec?utm_source=qZyxO8XDee) |
+| Katalyst Space Technologies | 🆕 Director of National Security Partnerships | Director | Broomfield, CO, USA | $175K–$230K | 0d | [Apply](https://grnh.se/5tyssck64us) |
 | Advocate Aurora Health | 🆕 Director Data Center & Enterprise Operations | Director | Oak Brook, IL, USA | $157K–$251K | 0d | [Apply](https://AdvocateAuroraHealth.contacthr.com/153953834) |
 | Anduril | 🆕 Director, Production Analytics | Director | Costa Mesa, CA, USA |  | 0d | [Apply](https://grnh.se/3y1ln9ut7us) |
 | Bevi | 🆕 Director, Program Management | Director | Boston, MA, USA | $194K–$239K | 0d | [Apply](https://grnh.se/0pwoq69t9us) |
@@ -230,6 +239,7 @@ By level: Director 404 · VP 157 · Sr. Director 88 · Head 43 · ED 30 · EVP/S
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Katalyst Space Technologies | 🆕 Director of National Security Partnerships | Director | Broomfield, CO, USA | $175K–$230K | 0d | [Apply](https://grnh.se/5tyssck64us) |
 | MiniMed | 🆕 Director, Cyber Defense | Director | MN, USA | $186K–$316K | 0d | [Apply](https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/MiniMedCareers/job/Virtual-Minnesota-United-States-of-America/Director--Cyber-Defense_R-802217) |
 | Overwatch Mission Critical | 🆕 VP of Information Systems & Security | VP | Austin, TX, USA |  | 0d | [Apply](https://jobs.gem.com/overwatch/am9icG9zdDpXpvKaoJ2NrkqAtDjqtonp) |
 | Salesforce ⭐ | Senior Director, Security Engineering - Slack | Sr. Director | California - San Francisco +6 | $263K–$401K | 19d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Security-Engineering---Slack_JR361721-2) |
@@ -294,6 +304,7 @@ By level: Director 404 · VP 157 · Sr. Director 88 · Head 43 · ED 30 · EVP/S
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Accenture ⭐ | Strategy Principal Director for Technology & AI-Native Companies | Director | New York, One Manhattan West, Corp +41 | $151K–$388K | 19d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Strategy-Principal-Director-for-Technology---AI-Native-Companies_R00353374) |
 | Advocate Aurora Health | 🆕 Director Data Center & Enterprise Operations | Director | Oak Brook, IL, USA | $157K–$251K | 0d | [Apply](https://AdvocateAuroraHealth.contacthr.com/153953834) |
 | Anduril | 🆕 Director, Production Analytics | Director | Costa Mesa, CA, USA |  | 0d | [Apply](https://grnh.se/3y1ln9ut7us) |
 | BigHat Biosciences | 🆕 Director of Machine Learning | Director | San Mateo, CA, USA | $250K–$365K | 0d | [Apply](https://bighatbiosciences.pinpointhq.com/postings/0c79bfdf-a3f1-4e55-a1e4-93abb5930c45?utm_medium=job_board&utm_source=indeed) |
@@ -672,6 +683,7 @@ By level: Director 404 · VP 157 · Sr. Director 88 · Head 43 · ED 30 · EVP/S
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Gallatin | 🆕 Senior Director, Solutions Architecture | Sr. Director | Austin, TX, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/gallatin/a4c4fdf3-4247-4c65-a220-7738447429ec?utm_source=qZyxO8XDee) |
 | BNY ⭐ | 🆕 Senior Vice President, Solution Architect | EVP/SVP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82101) |
 | Salesforce ⭐ | Sr. Technical Architect / Technical Architect Director - PACE (Products, Auto, Consumer, Or Energy Industry) | Director | Illinois - Chicago Metro - Remote +35 | $208K–$345K | 21d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago-Metro---Remote/Technical-Architect--Products--Auto--Consumer--Or-Energy-Industry-_JR358273) |
 | Salesforce ⭐ | 🆕 Senior Solution Architect/Solution Consulting Director (Field Service) | Director | Illinois - Chicago +7 · Remote | $180K–$298K | 0d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Senior-Solution-Architect-Solution-Consulting-Director--Field-Service-_JR364842-1) |
@@ -813,6 +825,7 @@ By level: Director 404 · VP 157 · Sr. Director 88 · Head 43 · ED 30 · EVP/S
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Accenture ⭐ | Global Capability Center Product Engineering Director | Director | Chicago, Accenture Tower, Corp +38 | $151K–$388K | 21d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Global-Capability-Center-Engineering-Principal-Director_R00342859) |
 | LPL Financial | 🆕 VP, Software Engineering Lead (.NET/AWS) | VP | New York, NY, USA | $171K–$285K | 0d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/New-York/VP--Software-Engineering-Lead--NET-AWS-_R-054347-1) |
 | Pedestal Health | 🆕 Head of Technology | Head | Durham, NC, USA |  | 0d | [Apply](https://grnh.se/ycahr7vl8us) |
 | JPMorgan Chase ⭐ | 🆕 Technical Implementation Manager Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801361) |
@@ -820,11 +833,6 @@ By level: Director 404 · VP 157 · Sr. Director 88 · Head 43 · ED 30 · EVP/S
 | Crusoe | 🆕 Director, Engineering | Director | San Francisco, CA - US +1 | $325K–$370K | 0d | [Apply](https://jobs.ashbyhq.com/crusoe/59824ec7-64a5-433f-894f-e488613b5fca) |
 | Edwards Lifesciences | 🆕 Director, Engineering, Automation | Director | USA - California – Irvine | $159K–$226K | 0d | [Apply](https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/USA---California--Irvine/Director--Engineering--Automation_Req-51512-1) |
 | NVIDIA ⭐ | 🆕 Director, IT | Director | US, CA, Santa Clara |  | 0d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--IT_JR2027359) |
-| Mastercard ⭐ | 🆕 Senior Vice President, Software Engineering – Authentication | EVP/SVP | O'Fallon, Missouri |  | 0d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Vice-President--Software-Engineering---Authentication_R-293272-1) |
-| JPMorgan Chase ⭐ | 🆕 Technical Implementation Manager Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801361) |
-| Accenture ⭐ | Global Capability Center Product Engineering Director | Director | Chicago, Accenture Tower, Corp +38 | $151K–$388K | 21d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Global-Capability-Center-Engineering-Principal-Director_R00342859) |
-| LPL Financial | 🆕 VP, Software Engineering Lead (.NET/AWS) | VP | New York, NY, USA | $171K–$285K | 0d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/New-York/VP--Software-Engineering-Lead--NET-AWS-_R-054347-1) |
-| Pedestal Health | 🆕 Head of Technology | Head | Durham, NC, USA |  | 0d | [Apply](https://grnh.se/ycahr7vl8us) |
 | Avangrid | 🆕 Senior Director - Technology | Sr. Director | Orange, CT, USA | $208K–$272K | 0d | [Apply](https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Senior-Director---Technology_R-34509) |
 | Huntsville Hospital Health System | 🆕 Vice President, Technology Services | VP | Huntsville, AL, USA |  | 0d | [Apply](https://careers-hhsys.icims.com/jobs/76558/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Network Distribution | 🆕 Vice President, Business Technology Services | VP | Schaumburg, IL, USA |  | 0d | [Apply](https://recruiting2.ultipro.com/NET1010NWRK/JobBoard/337433be-8153-4eda-8b37-455548451ef9/OpportunityDetail?opportunityId=888e0bae-0e04-4a24-a34c-24305c7d346b&postingId=a104f3d2-4548-4259-87c5-77a8c06627fa) |

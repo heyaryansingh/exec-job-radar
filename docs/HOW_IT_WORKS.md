@@ -26,6 +26,11 @@ applications in the candidate's own browser, and leaves them for the candidate t
   to their career sites (direct API probes, the Common Crawl directory in
   `tools/ats_directory.py`, then each company's own careers page).
 - `data/STATUS.md`: collector health at a glance.
+- `collector/universe.py`: polls every other known career site (the Common Crawl directory
+  plus employer sites found through job-board links) and learns each employer's name.
+- `collector/aggregators.py`: The Muse and Adzuna official APIs.
+- `.github/workflows/heartbeat.yml`: triggers collection every hour (GitHub's scheduler
+  alone is unreliable on free repos).
 - `PLAYBOOK.md`: what the daily Claude run does, step by step.
 - `candidate_template/`: the files that live in the candidate's `Job Search` folder.
 - `tools/render_dashboard.py`: turns the tracker into the review page.

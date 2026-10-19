@@ -40,9 +40,26 @@ account (about 30 minutes, done with the candidate).
    🆕 new and 🔒 closed markers, and a digest for each day in `data/daily/`. The Claude run
    reads `data/latest.json`; the full role database is `data/roles.json`.
 
+7. **Turn on the heartbeat.** It starts by itself on the first push. To check: **Actions →
+   Heartbeat** should show one run in progress. It triggers "Collect roles" every hour,
+   because GitHub's own scheduler often skips hourly runs on free repositories.
+8. **Optional: Adzuna** (a large job aggregator with an official free API). Sign up at
+   developer.adzuna.com, then add two repository secrets under **Settings → Secrets and
+   variables → Actions**: `ADZUNA_APP_ID` and `ADZUNA_APP_KEY`. Without them it is skipped.
+
+### Testing changes before they go live
+Edits to the collector code run **Actions → Collect (test)** first: a report-only run on a
+sample of 600 career sites plus every job source, written to `data/test_reports/collect.md`.
+The live feed picks up code changes on its next hourly run. Discovery changes have the same
+kind of test (**Discover (test)**, report in `data/test_reports/discover.md`).
+
 ### Keeping it healthy
 - `data/STATUS.md` shows, at a glance: last run, how many company sites are working, and a
   table of failing ones with their errors.
+- The "universe" (every other known career site, several thousand) is read in a rotating
+  order within each run's time budget, so each one is visited every few hours while the
+  watchlist is read every hour. Switch it off with `universe: enabled: false` in
+  config/search.yaml.
 - Broken sites are backed off automatically (retried every 12 hours after 6 straight failures),
   so one bad entry never slows the whole run. Each hourly run has a 40-minute budget and
   checks the least recently checked companies first.

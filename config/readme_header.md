@@ -1,8 +1,15 @@
 # 🎯 Exec Job Radar · Senior Technology Leadership Roles
 
 Director, Senior Director, VP, SVP, Executive Director, Managing Director, Head of, and
-C-level technology roles in the US (and remote), refreshed **every hour** straight from
-employers' own career sites, plus a daily sweep of the major job boards.
+C-level technology roles in the US (and remote), refreshed **every hour**.
+
+**Where the roles come from**
+- Employers' own career sites, read directly: a curated watchlist of major employers plus
+  every other public Workday, Greenhouse, Lever, Ashby, SmartRecruiters and Oracle career
+  site we know of. The list grows on its own: when a job-board result links to an
+  employer's career site, that site is added and read directly from then on.
+- Job boards and aggregators: Indeed, plus The Muse and Adzuna through their official APIs.
+  LinkedIn is not scraped (its terms forbid it).
 
 Focus: cloud and infrastructure, platform engineering, SRE and production operations,
 enterprise architecture, data and AI platforms, security, and technology transformation.

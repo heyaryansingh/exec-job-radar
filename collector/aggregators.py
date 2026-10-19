@@ -103,6 +103,8 @@ def himalayas(cfg: dict, ctx, log) -> list[Posting]:
             log(f"himalayas: failed ({e})")
             break
         jobs = d.get("jobs") or []
+        if offset == 0:
+            log(f"himalayas: {len(jobs)} jobs on first page")
         for j in jobs:
             title = j.get("title") or ""
             if not ctx.title_ok(title):
@@ -136,6 +138,7 @@ def remotive(cfg: dict, ctx, log) -> list[Posting]:
         except Exception as e:
             log(f"remotive: {cat} failed ({e})")
             continue
+        log(f"remotive: {cat}: {len(d.get('jobs') or [])} jobs")
         for j in d.get("jobs") or []:
             title = j.get("title") or ""
             if not ctx.title_ok(title):

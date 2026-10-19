@@ -530,3 +530,19 @@
 - {name: "BNY", ats: "oracle", host: "eofe.fa.us2.oraclecloud.com", site: "BNY-Careers", tier: 1, sector: "bank"}
 - {name: "Tudor Investment", ats: "greenhouse", slug: "tudorgroup", tier: 3, sector: "hedge fund"}
 - {name: "Cerberus Capital Management", ats: "workday", host: "cerberus.wd1.myworkdayjobs.com", site: "CerberusCareers", tier: 3, sector: "private equity"}
+
+# ---- large employers with custom career sites (verified by tools/probe_custom.py, 2026-10-19)
+- {name: Netflix, ats: eightfold, host: explore.jobs.netflix.net, domain: netflix.com, tier: 1, sector: internet}
+- {name: Bayer, ats: eightfold, host: bayer.eightfold.ai, domain: bayer.com, tier: 1, sector: pharma}
+- {name: HPE, ats: phenom, host: careers.hpe.com, locale: us/en, tier: 1, sector: tech}
+- {name: Thermo Fisher Scientific, ats: phenom, host: jobs.thermofisher.com, locale: us/en, tier: 1, sector: life sciences}
+- {name: CVS Health (Phenom), ats: phenom, host: jobs.cvshealth.com, locale: us/en, tier: 1, sector: healthcare}
+- {name: Mastercard (Phenom), ats: phenom, host: careers.mastercard.com, locale: us/en, tier: 1, sector: payments}
+- {name: Lowe's, ats: phenom, host: talent.lowes.com, locale: us/en, tier: 1, sector: retail}
+- {name: UnitedHealth Group, ats: sitemap, sitemap: "https://careers.unitedhealthgroup.com/sitemap.xml", tier: 1, sector: healthcare}
+- {name: Home Depot, ats: sitemap, sitemap: "https://careers.homedepot.com/jobsitemap", tier: 1, sector: retail}
+- {name: Deloitte, ats: sitemap, sitemap: "https://apply.deloitte.com/careers/sitemap_index.xml", tier: 1, sector: consulting}
+- {name: Citi (jobs.citi.com), ats: sitemap, sitemap: "https://jobs.citi.com/sitemap.xml", tier: 1, sector: bank}
+- {name: AT&T, ats: sitemap, sitemap: "https://www.att.jobs/sitemap.xml", tier: 1, sector: telecom}
+- {name: Halliburton, ats: sitemap, sitemap: "https://careers.halliburton.com/sitemap.xml", tier: 1, sector: energy}
+- {name: Amazon, ats: amazon, tier: 1, sector: tech}

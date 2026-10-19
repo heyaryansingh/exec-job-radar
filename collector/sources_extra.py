@@ -19,6 +19,7 @@ import hashlib
 import json
 import re
 from datetime import datetime, timezone
+from html import unescape as html_unescape
 from xml.etree import ElementTree as ET
 
 from .common import Posting, get_json, html_to_text
@@ -207,10 +208,32 @@ def _ld_location(ld: dict) -> str:
     return "; ".join(x for x in out if x)
 
 
+_LOC = re.compile(r"<loc>\s*(.*?)\s*</loc>(?:\s*<lastmod>\s*(.*?)\s*</lastmod>)?", re.S | re.I)
+
+
 def _sitemap_urls(s, url: str, include: re.Pattern, depth: int = 0) -> list[tuple[str, str]]:
     r = s.get(url, timeout=30, headers={"Accept": "application/xml,text/xml,*/*"})
     r.raise_for_status()
-    root = ET.fromstring(r.content)
+    content = r.content
+    if content[:2] == b"\x1f\x8b":  # gzipped sitemap
+        import gzip
+        content = gzip.decompress(content)
+    try:
+        root = ET.fromstring(content)
+    except ET.ParseError:
+        # malformed XML (common: unescaped "&"): fall back to reading <loc> entries directly
+        text = content.decode("utf-8", "replace")
+        pairs = [(html_unescape(a), b or "") for a, b in _LOC.findall(text)]
+        if "<sitemapindex" in text[:500]:
+            out = []
+            for loc, _ in pairs[:200]:
+                if depth < 2 and re.search(r"job|position|career|posting", loc, re.I):
+                    try:
+                        out += _sitemap_urls(s, loc, include, depth + 1)
+                    except Exception:
+                        continue
+            return out
+        return [(a, b) for a, b in pairs if include.search(a)]
     ns = {"sm": root.tag.split("}")[0].strip("{")} if root.tag.startswith("{") else {}
     tag = (lambda t: f"sm:{t}") if ns else (lambda t: t)
     if root.tag.endswith("sitemapindex"):

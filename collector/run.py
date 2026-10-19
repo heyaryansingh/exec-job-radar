@@ -44,7 +44,7 @@ LOG_LINES: list = []
 
 def log(msg: str):
     print(msg, flush=True)
-    if msg.startswith(("boards", "themuse", "adzuna", "  !")):
+    if msg.startswith(("boards", "themuse", "adzuna", "himalayas", "remotive", "usajobs", "jsearch", "  !")):
         LOG_LINES.append(msg)
 
 

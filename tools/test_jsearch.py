@@ -24,11 +24,20 @@ else:
               "date_posted": "week", "country": "us"}
     hdr = {"X-RapidAPI-Key": key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"}
     # the API's search path has changed over time; try the known variants (404s are free)
+    r = None
     for path in ("/search", "/search-v2", "/v2/search", "/search/v2", "/job-search", "/jobs/search", "/v1/search"):
-        r = requests.get("https://jsearch.p.rapidapi.com" + path, timeout=40, headers=hdr, params=params)
+        try:
+            r = requests.get("https://jsearch.p.rapidapi.com" + path, timeout=40, headers=hdr, params=params)
+        except Exception as e:
+            lines.append(f"- {path}: error {str(e)[:120]}")
+            continue
         lines.append(f"- {path}: HTTP {r.status_code} {r.text[:90]!r}")
         if r.status_code != 404:
             break
+    if r is None:
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text("\n".join(lines) + "\n")
+        sys.exit(0)
     lines.append(f"HTTP {r.status_code} via {path}")
     for h in ("x-ratelimit-requests-limit", "x-ratelimit-requests-remaining"):
         if h in r.headers:

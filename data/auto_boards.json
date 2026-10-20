@@ -704,6 +704,17 @@
 "ats": "lever",
 "name": "vivenu GmbH",
 "slug": "vivenu"
+},
+{
+"ats": "ashby",
+"name": "Mimica",
+"slug": "mimica"
+},
+{
+"ats": "workday",
+"host": "wfscorp.wd5.myworkdayjobs.com",
+"name": "World Fuel",
+"site": "wfscareers"
 }
 ]
 }

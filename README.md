@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,484 open roles** at **468 companies** · **416 new in the last 24 hours** · 5,129 company career sites watched · updated hourly · last update Oct 20, 2026 09:21 AM ET
+**1,489 open roles** at **470 companies** · **421 new in the last 24 hours** · 5,131 company career sites watched · updated hourly · last update Oct 20, 2026 10:19 AM ET
 
-By level: Director 703 · VP 352 · Sr. Director 165 · Head 105 · EVP/SVP 83 · ED 37 · C-level 28 · MD 11
+By level: Director 705 · VP 354 · Sr. Director 165 · Head 106 · EVP/SVP 83 · ED 37 · C-level 28 · MD 11
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (416)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (421)](#new-in-the-last-24-hours)
 - [🤠 Houston area (20)](#houston-area)
 - [👑 Executive Technology Leadership (28)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (99)](#security-risk-technology)
-- [🧠 Data & AI (442)](#data-ai)
-- [🚦 Reliability & Operations (68)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (149)](#cloud-infrastructure)
+- [🧠 Data & AI (443)](#data-ai)
+- [🚦 Reliability & Operations (69)](#reliability-operations)
+- [☁️ Cloud & Infrastructure (150)](#cloud-infrastructure)
 - [🏛️ Architecture (41)](#architecture)
 - [🔄 Transformation & Delivery (172)](#transformation-delivery)
-- [🛠️ Engineering & Software (360)](#engineering-software)
+- [🛠️ Engineering & Software (362)](#engineering-software)
 - [📌 Other Senior Roles (125)](#other-senior-roles)
 - [🔒 Recently closed (7)](#recently-closed)
 - Daily digests: [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
@@ -47,9 +47,14 @@ By level: Director 703 · VP 352 · Sr. Director 165 · Head 105 · EVP/SVP 83 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Humana ⭐ | 🆕 Director, AI Engineering | Director | Louisville, KY +2 | $189K–$260K | 0d | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Director--AI-Engineering_R-428390) |
-| Flextronics | 🆕 Director, Operations Engineering | Director | USA, TX, Austin |  | 0d | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Director--Operations-Engineering_WD232222) |
+| Bank of America ⭐ | 🆕 Digital Director - Bill Payments & Transfers Operations | Director | New York +3 |  | 0d | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Digital-Director---Bill-Payments---Transfers-Operations_26036460) |
+| JPMorgan Chase ⭐ | 🆕 Client Technical Implementation Manager Vice President | VP | Chicago, IL, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800909) |
+| AEP | 🆕 Director, Technology (Threat Exposure & Assurance Management) | Director | Columbus, OH +1 |  | 0d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director--Technology--Threat-Exposure---Assurance-Management-_R18638-1) |
+| Ares Insurance Solutions | 🆕 Vice President, AI Engineer | VP | New York, NY | $250K–$270K | 0d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--AI-Engineer_R8603) |
+| Mimica | 🆕 Head of Platform (Infrastructure & DevOps) | Head | Waterloo, CA, USA · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/mimica/bb287245-a114-49be-820e-b602fc220aea?utm_source=4pxX5pn10r) |
 | Avantor | 🆕 Senior Director, Global Engineering | Sr. Director | MA, USA · Remote | $168K–$282K | 0d | [Apply](https://careers.avantorsciences.com/senior-director-global-engineering/job/R-175399) |
+| Flextronics | 🆕 Director, Operations Engineering | Director | USA, TX, Austin |  | 0d | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Director--Operations-Engineering_WD232222) |
+| Humana ⭐ | 🆕 Director, AI Engineering | Director | Louisville, KY +2 | $189K–$260K | 0d | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Director--AI-Engineering_R-428390) |
 | Berkshire Grey | 🆕 Director, Hardware Engineering | Director | Bedford, MA, USA | $160K–$230K | 0d | [Apply](https://berkshiregrey.bamboohr.com/careers/787?source=indeed&src=indeed&postedDate=2026-10-20) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 83111) | VP | Lake Mary, FL, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83111) |
 | Hiscox | 🆕 Director of Technology Product Delivery | Director | Atlanta +1 | $180K–$312K | 0d | [Apply](https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/Atlanta/Director-of-Technology-Product-Delivery_R0020536) |
@@ -342,11 +347,6 @@ By level: Director 703 · VP 352 · Sr. Director 165 · Head 105 · EVP/SVP 83 �
 | Citi (jobs.citi.com) ⭐ | 🆕 Agentic AI and Tableau Applications Lead - Vice President | VP | Pune, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/pune/agentic-ai-and-tableau-applications-lead-vice-president/287/102161084256) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Java Application Development Lead - Trade Management - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/java-application-development-lead-trade-management-vice-president/287/102161084272) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Trade Management Applications Developer - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/trade-management-applications-developer-vice-president/287/102161084288) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Technology Lead - Vice President | VP | Jersey City, NJ, US +2 |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/senior-technology-lead-vice-president/287/102161084512) [alt](https://jobs.citi.com/job/jersey-city/senior-technology-lead-vice-president/287/102161084368) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Python Full Stack Developer - VP | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/python-full-stack-developer-vp/287/102161084608) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Java Engineering Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/java-engineering-lead-vice-president/287/102161084656) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Applications Support Senior Manager - Vice President | VP | Pune, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/pune/applications-support-senior-manager-vice-president/287/102161084912) |
-| TikTok USDS JV | 🆕 Head of Enterprise Security Engineering | Head | Washington, DC, USA | $232K–$554K | 1d | [Apply](https://careers.tiktokusds.com/usds/position/7697320918814198021/detail) |
 
 <a name="houston-area"></a>
 
@@ -524,6 +524,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Ares Insurance Solutions | 🆕 Vice President, AI Engineer | VP | New York, NY | $250K–$270K | 0d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--AI-Engineer_R8603) |
 | Humana ⭐ | 🆕 Director, AI Engineering | Director | Louisville, KY +2 | $189K–$260K | 0d | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Director--AI-Engineering_R-428390) |
 | Takeaway | 🆕 Director - Data Science & Machine Learning (Logistics) | Director | Fleet Place Office |  | 0d | [Apply](https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Fleet-Place-Office/Director---Data-Science---Machine-Learning--Logistics-_R_053917) |
 | DartPoints | 🆕 VICE PRESIDENT OF DATA CENTER QA/QC AND COMMI | VP | USA · Remote |  | 0d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f58ac07c-7f17-460e-a6a3-08b3396d4661&ccId=19000101_000001&jobId=20760&source=IN&lang=en_US) |
@@ -773,9 +774,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Huron Consulting | Director, AI Advisory | Director | Chicago - 550 Van Buren · Remote | $253K–$318K | 7d | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Director--AI-Advisory_JR-0016889) |
 | Prologis ⭐ | Director, Data Center Design Management | Director | Dallas, Texas | $160K–$200K | 7d | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Dallas-Texas/Director--Data-Center-Design-Management_R6814) |
 | DaVita | Sr Director, Data Domain Owner (Technology) | Sr. Director | 05555 - Casa del Mundo Office (Denver HQ) +3 · Remote |  | 7d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Sr-Director--Data-Domain-Owner--Technology-_R0481773) |
-| Labcorp | VP, Data and AI Readiness Platforms | VP | Durham NC |  | 7d | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/VP--Data-and-AI-Readiness-Platforms_2632570) |
 
-_192 older roles in this section are in data/roles.json._
+_193 older roles in this section are in data/roles.json._
 
 <a name="reliability-operations"></a>
 
@@ -783,6 +783,7 @@ _192 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Bank of America ⭐ | 🆕 Digital Director - Bill Payments & Transfers Operations | Director | New York +3 |  | 0d | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Digital-Director---Bill-Payments---Transfers-Operations_26036460) |
 | Flextronics | 🆕 Director, Operations Engineering | Director | USA, TX, Austin |  | 0d | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Director--Operations-Engineering_WD232222) |
 | Nile global | 🆕 Senior Director, Cloud Operations - Onsite, Santa Clara, CA | Sr. Director | San Jose, CA, USA |  | 0d | [Apply](https://recruiterflow.com/nile/jobs/153?source=indeed&utm_channel=recruiterflow-posting&location=7) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Sr. Developer/SRE - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/sr-developer-sre-vice-president/287/102161041568) |
@@ -858,6 +859,7 @@ _192 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Mimica | 🆕 Head of Platform (Infrastructure & DevOps) | Head | Waterloo, CA, USA · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/mimica/bb287245-a114-49be-820e-b602fc220aea?utm_source=4pxX5pn10r) |
 | Fluence Energy | 🆕 Director – Platform Hardware Engineering | Director | Houston, TX, USA |  | 0d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/en-US/fluenceenergy-jobs/job/USA-TX-Houston/Director---Platform-Hardware-Engineering_JR101736) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Full Stack Engineer, ATM Platforms - VP | VP | Irving, TX, US +1 |  | 1d | [Apply](https://jobs.citi.com/job/irving/senior-full-stack-engineer-atm-platforms-vp/287/102161040992) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Pricing Platform Solutions Lead - Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/pricing-platform-solutions-lead-senior-vice-president/287/102161041360) |
@@ -1241,6 +1243,8 @@ _192 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Client Technical Implementation Manager Vice President | VP | Chicago, IL, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800909) |
+| AEP | 🆕 Director, Technology (Threat Exposure & Assurance Management) | Director | Columbus, OH +1 |  | 0d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director--Technology--Threat-Exposure---Assurance-Management-_R18638-1) |
 | Avantor | 🆕 Senior Director, Global Engineering | Sr. Director | MA, USA · Remote | $168K–$282K | 0d | [Apply](https://careers.avantorsciences.com/senior-director-global-engineering/job/R-175399) |
 | Berkshire Grey | 🆕 Director, Hardware Engineering | Director | Bedford, MA, USA | $160K–$230K | 0d | [Apply](https://berkshiregrey.bamboohr.com/careers/787?source=indeed&src=indeed&postedDate=2026-10-20) |
 | Nile global | 🆕 Vice President of Engineering, Distributed Systems - Onsite, Santa Clara, CA | VP | San Jose, CA, USA |  | 0d | [Apply](https://recruiterflow.com/nile/jobs/154?source=indeed&utm_channel=recruiterflow-posting&location=7) |
@@ -1489,10 +1493,8 @@ _192 older roles in this section are in data/roles.json._
 | CWI | Director of Client Services (Information Technology) | Director | Milwaukee, WI |  | 11d | [Apply](https://cwi.wd1.myworkdayjobs.com/CW_Careers/job/Milwaukee-WI/Director-of-Client-Services--Information-Technology-_R16744-1) |
 | Fender | Senior Director of IT, SAP | Sr. Director | Phoenix, AZ | $160K–$205K | 11d | [Apply](https://boards.greenhouse.io/fender/jobs/8268107?gh_jid=8268107) ⚡ |
 | Alta Resource Technologies, Inc. | Director, Bioprocess Engineering | Director | Boulder, Colorado |  | 11d | [Apply](https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4444044009) ⚡ |
-| TENEX.AI | Director of Forward Deployed Engineering | Director | Kansas City Metro +2 · Remote |  | 11d | [Apply](https://jobs.ashbyhq.com/tenex/b2501a2a-4a55-40ff-b08c-430d76fbaa53) ⚡ |
-| Robin Radar | IT & Infosec Director | Director | Delft · Remote |  | 11d | [Apply](https://jobs.ashbyhq.com/robin-radar/d114f9cd-d2a5-4abc-8f3f-32b96fc347db) ⚡ |
 
-_110 older roles in this section are in data/roles.json._
+_112 older roles in this section are in data/roles.json._
 
 <a name="other-senior-roles"></a>
 

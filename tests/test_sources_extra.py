@@ -137,3 +137,55 @@ def test_sources_without_keys_are_not_marked_as_run(monkeypatch):
     monkeypatch.setattr(aggregators, "SOURCES", {"jsearch": (aggregators.jsearch, 24)})
     aggregators.collect({}, ctx(), print, state)
     assert "jsearch" not in state          # runs as soon as a key is added, not a day later
+
+
+def test_jsearch_budget_stops_before_the_plan_runs_out(monkeypatch):
+    monkeypatch.setenv("RAPIDAPI_KEY", "k")
+    calls = []
+
+    class Resp:
+        status_code = 200
+        headers = {"x-ratelimit-requests-remaining": "21"}
+
+        def raise_for_status(self):
+            pass
+
+        def json(self):
+            return {"data": {"jobs": []}}
+
+    class S:
+        headers = {}
+
+        def get(self, url, **kw):
+            calls.append(kw["params"]["query"])
+            Resp.headers = {"x-ratelimit-requests-remaining": str(21 - len(calls))}
+            return Resp()
+    monkeypatch.setattr(aggregators, "session", lambda: S())
+    state = {}
+    monkeypatch.setattr(aggregators, "SOURCES", {"jsearch": (aggregators.jsearch, 24)})
+    cfg = {"aggregators": {"jsearch": {"monthly_cap": 150, "reserve": 20, "queries": ["a", "b", "c"]}}}
+    aggregators.collect(cfg, ctx(), print, state)
+    assert calls == ["a"]                                   # stopped once the plan reported 20 left
+    assert state["jsearch_usage"]["calls"] == 1 and state["jsearch_usage"]["remaining"] == 20
+    # a new month resets the count but the plan's own remaining figure is re-read on the next call
+    state["jsearch_usage"]["month"] = "2000-01"
+    state.pop("jsearch")
+    aggregators.collect(cfg, ctx(), print, state)
+    assert state["jsearch_usage"]["calls"] == 1
+
+
+def test_jsearch_monthly_cap(monkeypatch):
+    monkeypatch.setenv("RAPIDAPI_KEY", "k")
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    state = {"jsearch_usage": {"month": month, "calls": 150}}
+    calls = []
+
+    class S:
+        headers = {}
+
+        def get(self, url, **kw):
+            calls.append(url)
+    monkeypatch.setattr(aggregators, "session", lambda: S())
+    monkeypatch.setattr(aggregators, "SOURCES", {"jsearch": (aggregators.jsearch, 24)})
+    aggregators.collect({"aggregators": {"jsearch": {"monthly_cap": 150}}}, ctx(), print, state)
+    assert calls == [] and state["jsearch_usage"]["calls"] == 150

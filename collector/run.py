@@ -245,7 +245,12 @@ def main(argv=None) -> int:
         extra = []
         try:
             raw_counts: dict = {}
-            board = sweep(cfg, ctx, log, links=links, counts=raw_counts) if time.time() < deadline + 300 else []
+            last_b = health.setdefault("sources_last_run", {}).get("boards")
+            every_b = float((cfg.get("boards") or {}).get("every_hours", 2))
+            due_b = a.test_new or not last_b or _hours_since(last_b) >= every_b - 0.1
+            board = sweep(cfg, ctx, log, links=links, counts=raw_counts) if (due_b and time.time() < deadline + 300) else []
+            if due_b and not a.test_new:
+                health["sources_last_run"]["boards"] = now_iso()
             source_counts.update({f"board-{k} (raw)": v for k, v in raw_counts.items()})
             extra += board
         except Exception as e:  # never let the optional sweep sink the run

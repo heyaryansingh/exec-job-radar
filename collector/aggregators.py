@@ -211,11 +211,32 @@ def jsearch(cfg: dict, ctx, log) -> list[Posting]:
                                         "chief technology officer in USA"])
     for f in cfg.get("focus_locations") or []:
         queries += list(f.get("jsearch_queries") or [])
+    # Hard budget: never spend the plan's monthly calls. Counts every call this calendar
+    # month and also trusts the API's own "requests remaining" header when it has one.
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    use = _STATE.setdefault("jsearch_usage", {})
+    if use.get("month") != month:
+        use.clear()
+        use.update(month=month, calls=0)
+    cap, reserve = int(a.get("monthly_cap", 150)), int(a.get("reserve", 20))
     for q in queries:
+        rem = use.get("remaining")
+        if use["calls"] >= cap or (rem is not None and rem <= reserve):
+            log(f"jsearch: budget reached ({use['calls']} calls this month, {rem} left on the plan); skipping")
+            break
         try:
-            d = get_json(s, "https://jsearch.p.rapidapi.com/search-v2", tries=2,
-                         params={"query": q, "date_posted": a.get("date_posted", "3days"),
-                                 "num_pages": int(a.get("pages", 1)), "country": "us"})
+            r = s.get("https://jsearch.p.rapidapi.com/search-v2", timeout=40,   # one try: retries cost calls
+                      params={"query": q, "date_posted": a.get("date_posted", "3days"),
+                              "num_pages": 1, "country": "us"})
+            use["calls"] += 1
+            if r.headers.get("x-ratelimit-requests-remaining", "").isdigit():
+                use["remaining"] = int(r.headers["x-ratelimit-requests-remaining"])
+            if r.status_code == 429:
+                log("jsearch: plan limit hit (HTTP 429); stopping for today")
+                use["remaining"] = 0
+                break
+            r.raise_for_status()
+            d = r.json()
         except Exception as e:
             log(f"jsearch: '{q}' failed ({e})")
             continue
@@ -255,13 +276,21 @@ SOURCES = {"themuse": (themuse, 1), "adzuna": (adzuna, 1), "himalayas": (himalay
            "remotive": (remotive, 8), "usajobs": (usajobs, 6), "jsearch": (jsearch, 24)}
 
 
+_STATE: dict = {}
+
+
 def collect(cfg: dict, ctx, log, state: dict | None = None) -> tuple[list[Posting], dict]:
-    """Run every due source. `state` remembers when each last ran (persisted by caller)."""
+    """Run every due source. `state` remembers when each last ran and API budgets
+    (persisted by the caller)."""
+    global _STATE
     out, counts = [], {}
     state = state if state is not None else {}
+    _STATE = state
     now = datetime.now(timezone.utc)
     for name, (fn, every) in SOURCES.items():
         last = state.get(name)
+        if not isinstance(last, (str, type(None))):
+            continue
         if last:
             try:
                 if (now - datetime.fromisoformat(last)).total_seconds() < every * 3600 - 300:

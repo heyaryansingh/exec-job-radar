@@ -205,6 +205,7 @@ excluded_companies: []
 # Broad sweep of Indeed + Google Jobs for employers not on the watchlist.
 boards:
   enabled: true
+  every_hours: 2           # Indeed is searched every 2 hours (results cover 1-3 days), to stay polite
   sites: [indeed]   # google and zip_recruiter returned nothing in tests; LinkedIn is not scraped
   hours_old: 24
   results_per_search: 40
@@ -234,6 +235,14 @@ aggregators:
     pages: 4
     max_days_old: 3
     category: it-jobs
+  himalayas:
+    enabled: false   # no senior roles in tests; ~240 calls/day for nothing
+  remotive:
+    enabled: false   # no senior roles in tests; Remotive asks for at most 4 calls/day
+  jsearch:
+    enabled: true
+    monthly_cap: 150 # hard stop; the free plan allows 200/month (5 calls/day uses ~155)
+    reserve: 20      # also stop when the plan reports 20 or fewer calls left
 
 # The universe: also poll every other known career site (Common Crawl directory plus
 # employer sites found through job boards), not just config/companies.yaml.

@@ -2,32 +2,32 @@
 
 ```
 {
- "run_at": "2026-10-19T23:53:53+00:00",
- "seconds": 219,
+ "run_at": "2026-10-20T00:06:44+00:00",
+ "seconds": 319,
  "companies": 512,
  "company_errors": 0,
  "skipped_backoff": 30,
  "skipped_out_of_time": 0,
- "senior_titles_seen": 5158,
- "new_roles": 14,
+ "senior_titles_seen": 5119,
+ "new_roles": 11,
  "merged_duplicates": 0,
  "reposted": 0,
- "closed_after_check": 0,
+ "closed_after_check": 1,
  "removed_by_rule_change": 0,
- "open_roles": 1205,
- "roles_in_latest": 1205,
+ "open_roles": 1201,
+ "roles_in_latest": 1201,
  "universe_boards": 600,
  "universe_polled_ok": 570,
  "universe_errors": 0,
  "names_learned": 0,
- "employer_sites_found_on_boards": 161,
+ "employer_sites_found_on_boards": 179,
  "sources": {
-  "board-indeed (raw)": 305,
+  "board-indeed (raw)": 369,
   "themuse": 0,
-  "himalayas": 5,
+  "himalayas": 4,
   "remotive": 0,
   "jsearch": 0,
-  "senior titles from boards/aggregators": 119
+  "senior titles from boards/aggregators": 129
  },
  "companies_with_open_roles": 429
 }
@@ -35,18 +35,18 @@
 
 ## Senior titles seen, by source
 
-- workday: 2075
-- greenhouse: 1283
-- ashby: 575
-- oracle: 534
-- phenom: 242
-- smartrecruiters: 168
-- sitemap: 116
-- board-indeed: 80
+- workday: 2048
+- greenhouse: 1282
+- ashby: 577
+- oracle: 527
+- phenom: 236
+- smartrecruiters: 167
+- sitemap: 115
+- board-indeed: 86
 - lever: 60
-- amazon: 14
-- eightfold: 6
-- himalayas: 5
+- amazon: 13
+- eightfold: 4
+- himalayas: 4
 
 ## Universe boards: 570 answered, 0 failed
 
@@ -119,7 +119,7 @@
 | 48 | Becton Dickinson | [Director of Platform Engineering & Cloud Operations](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Director-of-Platform-Engineering---Cloud-Operations_R-556493-1) | USA CA - Irvine Laguna Canyon |  |
 | 48 | Highmark | [Director, Enterprise Data Platform Strategy & Engineering](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Direct-of-Data-Platform_J276952) | Pittsburgh PA, 15222, PAP, Penn Avenue P |  |
 
-## Roles from job boards / aggregators that pass (42), sample
+## Roles from job boards / aggregators that pass (41), sample
 
 | Source | Company | Role | Location |
 |---|---|---|---|
@@ -167,18 +167,30 @@
 ## Source log lines
 
 ```
-boards: 'Vice President Cloud Infrastructure' -> 7 results {'indeed': np.int64(7)}
-boards: 'VP Platform Engineering' -> 40 results {'indeed': np.int64(40)}
-boards: 'Head of Site Reliability Engineering' -> 11 results {'indeed': np.int64(11)}
-boards: 'Director Cloud Engineering' -> 40 results {'indeed': np.int64(40)}
-boards: 'Senior Director Infrastructure' -> 40 results {'indeed': np.int64(40)}
-boards: 'VP Technology Infrastructure' -> 29 results {'indeed': np.int64(29)}
+boards: 'Vice President Cloud Infrastructure' @ United States -> 7 results {'indeed': np.int64(7)}
+boards: 'VP Platform Engineering' @ United States -> 40 results {'indeed': np.int64(40)}
+boards: 'Head of Site Reliability Engineering' @ United States -> 11 results {'indeed': np.int64(11)}
+boards: 'Director Cloud Engineering' @ United States -> 40 results {'indeed': np.int64(40)}
+boards: 'Senior Director Infrastructure' @ United States -> 40 results {'indeed': np.int64(40)}
+boards: 'VP Technology Infrastructure' @ United States -> 31 results {'indeed': np.int64(31)}
 boards: 'Head of Enterprise Architecture' -> 0 results
-boards: 'Chief Technology Officer' -> 2 results {'indeed': np.int64(2)}
-boards: 'VP AI Platform' -> 40 results {'indeed': np.int64(40)}
-boards: 'Executive Director Technology' -> 16 results {'indeed': np.int64(16)}
-boards: 'Managing Director Technology Infrastructure' -> 40 results {'indeed': np.int64(40)}
-boards: 'Director Production Engineering' -> 40 results {'indeed': np.int64(40)}
+boards: 'Chief Technology Officer' @ United States -> 2 results {'indeed': np.int64(2)}
+boards: 'VP AI Platform' @ United States -> 40 results {'indeed': np.int64(40)}
+boards: 'Executive Director Technology' @ United States -> 16 results {'indeed': np.int64(16)}
+boards: 'Managing Director Technology Infrastructure' @ United States -> 40 results {'indeed': np.int64(40)}
+boards: 'Director Production Engineering' @ United States -> 40 results {'indeed': np.int64(40)}
+boards: 'Director Information Technology' @ Houston, TX -> 1 results {'indeed': np.int64(1)}
+boards: 'Vice President Technology' -> 0 results
+boards: 'Head of IT' @ Houston, TX -> 40 results {'indeed': np.int64(40)}
+boards: 'Chief Information Officer' -> 0 results
+boards: 'Director Infrastructure' @ Houston, TX -> 12 results {'indeed': np.int64(12)}
+boards: 'Director Cloud' @ Houston, TX -> 3 results {'indeed': np.int64(3)}
+boards: 'Director Enterprise Architecture' -> 0 results
+boards: 'Director Data Analytics' @ Houston, TX -> 4 results {'indeed': np.int64(4)}
+boards: 'VP Digital Transformation' -> 0 results
+boards: 'Director Cybersecurity' @ Houston, TX -> 1 results {'indeed': np.int64(1)}
+boards: 'IT Director Energy' -> 0 results
+boards: 'Executive Director Technology' @ Houston, TX -> 1 results {'indeed': np.int64(1)}
 themuse: page 1 returned 0 items of 149477 total
 himalayas: 20 jobs on first page
 remotive: software-dev: 12 jobs
@@ -186,9 +198,10 @@ remotive: devops: 12 jobs
 remotive: data: 12 jobs
 jsearch: 'vice president technology in USA' -> 0 results
 jsearch: 'director cloud infrastructure in USA' -> 0 results
-jsearch: 'head of engineering in USA' -> 4 results
 jsearch: 'chief technology officer in USA' -> 0 results
-boards/aggregators: {"board-indeed (raw)": 305, "themuse": 0, "himalayas": 5, "remotive": 0, "jsearch": 0, "senior titles from boards/aggregators": 119}; employer sites found: 161
+jsearch: 'technology director in Houston, TX' -> 0 results
+jsearch: 'vice president information technology in Houston, TX' -> 0 results
+boards/aggregators: {"board-indeed (raw)": 369, "themuse": 0, "himalayas": 4, "remotive": 0, "jsearch": 0, "senior titles from boards/aggregators": 129}; employer sites found: 179
 ```
 
 ## Universe sample by career-site type (answered / polled)
@@ -203,7 +216,7 @@ boards/aggregators: {"board-indeed (raw)": 305, "themuse": 0, "himalayas": 5, "r
 
 Passing roles by type: ashby 10, greenhouse 26, oracle 1, phenom 21, smartrecruiters 2, workday 68
 
-## Employer career sites found in board results (161), sample
+## Employer career sites found in board results (179), sample
 
 - Tiverton Advisors: `{"ats": "smartrecruiters", "slug": "TivertonAdvisors"}`
 - STACK Infrastructure US: `{"ats": "workday", "host": "stackinfra.wd108.myworkdayjobs.com", "site": "STACK_AMER"}`
@@ -213,27 +226,27 @@ Passing roles by type: ashby 10, greenhouse 26, oracle 1, phenom 21, smartrecrui
 - VALERIS: `{"ats": "workday", "host": "valeris.wd108.myworkdayjobs.com", "site": "Valeris"}`
 - Filevine: `{"ats": "lever", "slug": "filevine"}`
 - Mozilla Corporation: `{"ats": "greenhouse", "slug": "mozilla"}`
-- Xero: `{"ats": "ashby", "slug": "xero"}`
 - Ascot Group: `{"ats": "oracle", "host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com", "site": "CX"}`
-- Infoblox: `{"ats": "oracle", "host": "efpv.fa.us6.oraclecloud.com", "site": "CX_1"}`
-- Trustly: `{"ats": "ashby", "slug": "trustly"}`
-- Amazon.com: `{"ats": "amazon"}`
 - APRIL: `{"ats": "ashby", "slug": "april"}`
+- Xero: `{"ats": "ashby", "slug": "xero"}`
+- Infoblox: `{"ats": "oracle", "host": "efpv.fa.us6.oraclecloud.com", "site": "CX_1"}`
+- Amazon.com: `{"ats": "amazon"}`
+- Trustly: `{"ats": "ashby", "slug": "trustly"}`
 - Rezolute: `{"ats": "lever", "slug": "rezolutebio"}`
 - Siemens Healthineers: `{"ats": "workday", "host": "onehealthineers.wd3.myworkdayjobs.com", "site": "SHSJB"}`
 - GSK: `{"ats": "phenom", "host": "jobs.gsk.com", "locale": "gb/en"}`
 - GSK: `{"ats": "phenom", "host": "jobs.gsk.com", "locale": "gb/en"}`
 - CRUSOE: `{"ats": "ashby", "slug": "Crusoe"}`
 - Pacific Life: `{"ats": "workday", "host": "pacificlife.wd1.myworkdayjobs.com", "site": "PacificLifeCareers"}`
-- Jellyfish: `{"ats": "ashby", "slug": "jellyfishcareers"}`
 - Turner & Townsend Pty Limited: `{"ats": "smartrecruiters", "slug": "TurnerTownsend"}`
+- Jellyfish: `{"ats": "ashby", "slug": "jellyfishcareers"}`
 - Raptive: `{"ats": "ashby", "slug": "raptive"}`
+- Global Payments: `{"ats": "workday", "host": "tsys.wd1.myworkdayjobs.com", "site": "TSYS"}`
 - Avangrid: `{"ats": "workday", "host": "iberdrola.wd3.myworkdayjobs.com", "site": "Iberdrola"}`
 - MiniMed: `{"ats": "workday", "host": "mdtkangaroo.wd108.myworkdayjobs.com", "site": "MiniMedCareers"}`
-- Wells Fargo: `{"ats": "workday", "host": "wd1.myworkdaysite.com", "tenant": "wf", "site": "WellsFargoJobs", "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs"}`
-- The Cigna Group: `{"ats": "phenom", "host": "jobs.thecignagroup.com", "locale": "us/en"}`
-- Global Payments: `{"ats": "workday", "host": "tsys.wd1.myworkdayjobs.com", "site": "TSYS"}`
+- Vantage: `{"ats": "workday", "host": "vantagedc.wd1.myworkdayjobs.com", "site": "Vantage"}`
+- Shine Early Learning: `{"ats": "workday", "host": "acelero.wd1.myworkdayjobs.com", "site": "ShineEarlyLearningCareers"}`
 - BMO Financial Group: `{"ats": "workday", "host": "bmo.wd3.myworkdayjobs.com", "site": "External"}`
-- Slate Auto: `{"ats": "workday", "host": "recar.wd108.myworkdayjobs.com", "site": "SLATEcareers"}`
+- Wells Fargo: `{"ats": "workday", "host": "wd1.myworkdaysite.com", "tenant": "wf", "site": "WellsFargoJobs", "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs"}`
 
-Wall time: 219s
+Wall time: 319s

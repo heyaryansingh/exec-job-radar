@@ -662,6 +662,16 @@
 "host": "tuckahoeholdings.wd12.myworkdayjobs.com",
 "name": "Novo Health Services",
 "site": "NOVO"
+},
+{
+"ats": "ashby",
+"name": "UpGuard",
+"slug": "upguard"
+},
+{
+"ats": "lever",
+"name": "Wpromote, LLC",
+"slug": "wpromote"
 }
 ]
 }

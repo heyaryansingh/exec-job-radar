@@ -632,6 +632,36 @@
 "ats": "lever",
 "name": "Ahead",
 "slug": "thinkahead"
+},
+{
+"ats": "workday",
+"host": "pfizer.wd1.myworkdayjobs.com",
+"name": "Pfizer",
+"site": "PfizerCareers"
+},
+{
+"ats": "workday",
+"host": "fluenceenergy.wd12.myworkdayjobs.com",
+"name": "Fluence Energy",
+"site": "fluenceenergy-jobs"
+},
+{
+"ats": "workday",
+"host": "thomsonreuters.wd5.myworkdayjobs.com",
+"name": "Thomson Reuters",
+"site": "External_Career_Site"
+},
+{
+"ats": "oracle",
+"host": "eeho.fa.us2.oraclecloud.com",
+"name": "Oracle",
+"site": "CX_1"
+},
+{
+"ats": "workday",
+"host": "tuckahoeholdings.wd12.myworkdayjobs.com",
+"name": "Novo Health Services",
+"site": "NOVO"
 }
 ]
 }

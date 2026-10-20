@@ -214,14 +214,14 @@ def jsearch(cfg: dict, ctx, log) -> list[Posting]:
     for q in queries:
         try:
             d = get_json(s, "https://jsearch.p.rapidapi.com/search-v2", tries=2,
-                         params={"query": q, "date_posted": a.get("date_posted", "today"),
+                         params={"query": q, "date_posted": a.get("date_posted", "3days"),
                                  "num_pages": int(a.get("pages", 1)), "country": "us"})
         except Exception as e:
             log(f"jsearch: '{q}' failed ({e})")
             continue
         data = d.get("data") or []
         jobs = data.get("jobs") or [] if isinstance(data, dict) else data   # v2 nests results under data.jobs
-        log(f"jsearch: '{q}' -> {len(jobs)} results")
+        log(f"jsearch: '{q}' -> {len(jobs)} results, {sum(1 for j in jobs if isinstance(j, dict) and ctx.title_ok(j.get('job_title') or ''))} senior")
         for j in jobs:
             if not isinstance(j, dict):
                 continue

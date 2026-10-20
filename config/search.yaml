@@ -26,6 +26,8 @@ levels:
     - '\b(assistant|associate) vice president\b'
     - '\bavp\b'
     - '\bassociate director\b'
+    - '\bassoc\.? director\b'
+    - '\bsenior manager\s*/'
     - '\b(intern|internship|analyst|coordinator|specialist|recruiter)\b'
     - '\bto the (vp|director|cto|cio)\b'          # "Executive Assistant to the VP"
     - '\bexecutive assistant\b'

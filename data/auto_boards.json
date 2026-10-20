@@ -733,6 +733,18 @@
 "host": "idexcorp.wd5.myworkdayjobs.com",
 "name": "IDEX Health & Science",
 "site": "IDEX_Careers"
+},
+{
+"ats": "workday",
+"host": "tapestry.wd108.myworkdayjobs.com",
+"name": "Tapestry",
+"site": "Tapestry_Careers"
+},
+{
+"ats": "eightfold",
+"domain": "arcadis.com",
+"host": "jobs.arcadis.com",
+"name": "Arcadis"
 }
 ]
 }

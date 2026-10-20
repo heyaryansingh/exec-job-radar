@@ -472,6 +472,43 @@
 "host": "uchicago.wd5.myworkdayjobs.com",
 "name": "The University of Chicago",
 "site": "External"
+},
+{
+"ats": "workday",
+"host": "graybar.wd1.myworkdayjobs.com",
+"name": "Process Distribution Group",
+"site": "Valin_Careers"
+},
+{
+"ats": "phenom",
+"host": "careers.howardhughes.com",
+"locale": "us/en",
+"name": "Howard Hughes Holdings Inc",
+"refnum": "HOHUUSREQ"
+},
+{
+"ats": "oracle",
+"host": "fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com",
+"name": "Weatherford",
+"site": "CX_1"
+},
+{
+"ats": "workday",
+"host": "aero.wd5.myworkdayjobs.com",
+"name": "The Aerospace Corporation",
+"site": "External"
+},
+{
+"ats": "workday",
+"host": "crowe.wd12.myworkdayjobs.com",
+"name": "Crowe",
+"site": "External_Careers"
+},
+{
+"ats": "workday",
+"host": "spgi.wd5.myworkdayjobs.com",
+"name": "S&P Global",
+"site": "SPGI_Careers"
 }
 ]
 }

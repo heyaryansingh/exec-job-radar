@@ -27,7 +27,7 @@ def apply_via(r: dict) -> str:
     return "employer site"
 
 
-def build(open_roles: list[dict], limit: int = 300, max_age_days: int = 5) -> list[dict]:
+def build(open_roles: list[dict], limit: int = 300, max_age_days: int = 5, focus=None) -> list[dict]:
     fresh = [r for r in open_roles if since(r.get("first_seen", ""), 72) and
              (not r.get("posted_at") or age_days(r) <= max_age_days)]
     order = {"quick form": 0, "employer site": 1, "account": 1, "usajobs account": 2, "via job board": 2}
@@ -41,6 +41,7 @@ def build(open_roles: list[dict], limit: int = 300, max_age_days: int = 5) -> li
             "first_seen": r.get("first_seen"), "score": r.get("score"), "tier": r.get("tier"),
             "apply_via": apply_via(r), "questions": (r.get("extra") or {}).get("questions", []),
             "description": (r.get("description") or "")[:3000], "source": r.get("source"),
+            "area": focus(r.get("location") or "") if focus else "",
         })
     return out
 
@@ -51,10 +52,17 @@ def markdown(q: list[dict]) -> str:
              "needed (fastest to apply). The daily Claude run works through this list.", "",
              "| # | Score | Company | Role | Location | Pay | How | Questions |",
              "|---:|---:|---|---|---|---|---|---:|"]
+    areas = sorted({r.get("area") for r in q if r.get("area")})
     for i, r in enumerate(q, 1):
         how = "⚡ quick form" if r["apply_via"] == "quick form" else r["apply_via"]
         pay = f"${r['pay_max']:,}" if r.get("pay_max") else ""
         title = str(r["title"]).replace("|", "/")
         lines.append(f"| {i} | {r.get('score', '')} | {str(r['company']).replace('|', '/')} | [{title}]({r['url']}) | "
                      f"{str(r.get('location', '')).replace('|', '/')[:40]} | {pay} | {how} | {len(r['questions']) or ''} |")
+    for a in areas:
+        rs = [r for r in q if r.get("area") == a]
+        lines += ["", f"## {a} area ({len(rs)})", "", "| Score | Company | Role | Pay | How |", "|---:|---|---|---|---|"]
+        lines += [f"| {r.get('score', '')} | {str(r['company']).replace('|', '/')} | [{str(r['title']).replace('|', '/')}]({r['url']}) | "
+                  f"{('$' + format(r['pay_max'], ',')) if r.get('pay_max') else ''} | "
+                  f"{'⚡ quick form' if r['apply_via'] == 'quick form' else r['apply_via']} |" for r in rs]
     return "\n".join(lines) + "\n"

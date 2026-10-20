@@ -15,18 +15,23 @@ from datetime import datetime
 from pathlib import Path
 
 SECTIONS = [
+    ("human_check", "Needs one click from you now",
+     "A CAPTCHA or emailed code stopped the run. The tab is open and filled: finish the check and click Submit."),
+    ("interviewing", "Interviewing", ""),
+    ("offer", "Offers", ""),
     ("filled", "Ready for you to review and submit",
      "Filled in your browser and waiting on the Submit click. Check flagged fields first."),
+    ("needs_review", "Held for your decision",
+     "Filled, but something needs your judgment first (an agreement, a consent, or an unconfirmed submit)."),
     ("needs_account", "Needs a quick account sign-up",
      "This site needs an account Claude can't create. Sign up once, then the next run fills it."),
     ("needs_input", "Needs your answer",
      "A question only you can answer. Reply in the Claude chat or edit candidate.yaml."),
     ("prepared", "Materials ready (not filled yet)",
      "Tailored resume and cover letter are ready; the form will be filled on the next run."),
-    ("submitted", "Submitted", ""),
-    ("interviewing", "Interviewing", ""),
-    ("offer", "Offers", ""),
+    ("submitted", "Submitted", "Each has proof: the confirmation page or email."),
     ("rejected", "Closed out", ""),
+    ("duplicate", "Duplicates caught", "Already applied; not submitted again."),
     ("closed", "Posting closed", ""),
     ("skipped", "Reviewed and passed on", "Below the bar this time. Tell Claude if any of these deserve a second look."),
 ]
@@ -75,6 +80,11 @@ def card(r: dict) -> str:
     if folder:
         for label, fn in (("Resume", "resume.pdf"), ("Cover letter", "cover_letter.pdf"), ("Answers", "answers.md")):
             links.append(f'<a href="{esc(folder)}/{fn}">{label}</a>')
+    proof = (r.get("proof") or {})
+    proof_html = ""
+    if proof.get("page") or proof.get("email"):
+        ptxt = (proof.get("page") or {}).get("text") or (proof.get("email") or {}).get("subject") or ""
+        proof_html = f'<div class="meta">Proof: {esc(ptxt)[:140]}</div>'
     contacts = r.get("contacts") or []
     contact_html = ""
     if contacts:
@@ -83,7 +93,7 @@ def card(r: dict) -> str:
 <a href="{esc(r.get('url'))}" target="_blank">{esc(r.get('title'))}</a> <span class="co">· {esc(r.get('company'))}</span></div>
 <div class="score">{esc(r.get('claude_score', ''))}</div></div>
 <div class="meta">{esc(r.get('location'))} · {esc(pay)}</div><div>{chips}</div>
-<div class="why">{esc(r.get('reason'))}</div>{contact_html}
+<div class="why">{esc(r.get('reason'))}</div>{contact_html}{proof_html}
 {f'<ul class="attn">{attn}</ul>' if attn else ''}
 <div class="links">{''.join(links)}</div></div>"""
 
@@ -106,6 +116,7 @@ def render(tracker: dict) -> str:
             return False
 
     stats = [
+        (len(by.get("human_check", [])), "need a click now"),
         (len(by.get("filled", [])), "ready to submit"),
         (len(by.get("needs_account", [])) + len(by.get("needs_input", [])), "need you"),
         (sum(1 for r in by.get("submitted", []) if recent(r)), "submitted this week"),
@@ -122,7 +133,7 @@ def render(tracker: dict) -> str:
         items = by.get(key, [])
         if not items:
             continue
-        if key in ("skipped", "closed", "rejected"):
+        if key in ("skipped", "closed", "rejected", "duplicate"):
             rows = "".join(f'<div class="row"><a href="{esc(r.get("url"))}" target=_blank>{esc(r.get("title"))} · '
                            f'{esc(r.get("company"))}</a><span>{esc(r.get("claude_score", ""))} {esc(r.get("reason", ""))[:90]}</span></div>'
                            for r in items[:150])

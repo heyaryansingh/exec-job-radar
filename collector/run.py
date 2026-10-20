@@ -366,10 +366,11 @@ def main(argv=None) -> int:
     _backfill_questions(apply_queue.build(open_roles), store, gh_slugs)
     store.save()
     write_atomic(DATA / "latest.json", dump_lines({"updated": now_iso(), "roles": latest}))
-    queue_roles = apply_queue.build(store.open_roles())
+    queue_roles = apply_queue.build(store.open_roles(), focus=rules.focus_of)
     write_atomic(DATA / "apply_queue.json", dump_lines({"updated": now_iso(), "roles": queue_roles}))
     write_atomic(DATA / "apply_queue.md", apply_queue.markdown(queue_roles))
-    readme.write_all(ROOT, list(store.roles.values()), len(companies) + len(uni), lambda p, t: write_atomic(p, t))
+    focus = [(f["name"], f.get("emoji", "📍"), re.compile(f["match"], re.I)) for f in cfg.get("focus_locations") or []]
+    readme.write_all(ROOT, list(store.roles.values()), len(companies) + len(uni), lambda p, t: write_atomic(p, t), focus)
     old = (date.today() - timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if v.get("first", today) >= old}
     body = ",\n".join(f"{json.dumps(k)}:{json.dumps(seen[k], separators=(',', ':'))}" for k in sorted(seen))

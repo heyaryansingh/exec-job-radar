@@ -237,3 +237,31 @@ aggregators:
 # employer sites found through job boards), not just config/companies.yaml.
 universe:
   enabled: true      # tested 2026-10-19: 570/600 sample boards answered, ~5 min
+
+# Focus locations: their own README section and apply-queue tag, extra job-board searches,
+# and a looser domain filter so senior IT roles at local employers aren't missed.
+focus_locations:
+  - name: Houston
+    emoji: "🤠"
+    # Houston metro (regex, case-insensitive, matched against the role's location)
+    match: '\b(houston|the woodlands|katy|sugar land|spring, (tx|texas)|cypress, (tx|texas)|pearland|humble|pasadena, (tx|texas)|baytown|league city|conroe|tomball|bellaire|stafford, (tx|texas)|missouri city|friendswood|kingwood|clear lake|webster, (tx|texas)|deer park|richmond, (tx|texas)|rosenberg|galveston)\b'
+    description_min_hits: 2        # vs 4 elsewhere
+    board_location: "Houston, TX"
+    board_radius_miles: 50
+    board_hours_old: 72
+    board_terms:
+      - Director Information Technology
+      - Vice President Technology
+      - Head of IT
+      - Chief Information Officer
+      - Director Infrastructure
+      - Director Cloud
+      - Director Enterprise Architecture
+      - Director Data Analytics
+      - VP Digital Transformation
+      - Director Cybersecurity
+      - IT Director Energy
+      - Executive Director Technology
+    jsearch_queries:
+      - technology director in Houston, TX
+      - vice president information technology in Houston, TX

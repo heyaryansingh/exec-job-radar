@@ -207,8 +207,11 @@ def jsearch(cfg: dict, ctx, log) -> list[Posting]:
     s = session()
     s.headers.update({"X-RapidAPI-Key": key, "X-RapidAPI-Host": "jsearch.p.rapidapi.com"})
     out = []
-    for q in a.get("queries") or ["vice president technology in USA", "director cloud infrastructure in USA",
-                                  "head of engineering in USA", "chief technology officer in USA"]:
+    queries = list(a.get("queries") or ["vice president technology in USA", "director cloud infrastructure in USA",
+                                        "chief technology officer in USA"])
+    for f in cfg.get("focus_locations") or []:
+        queries += list(f.get("jsearch_queries") or [])
+    for q in queries:
         try:
             d = get_json(s, "https://jsearch.p.rapidapi.com/search-v2", tries=2,
                          params={"query": q, "date_posted": a.get("date_posted", "today"),

@@ -96,3 +96,19 @@ def test_readme_render(tmp_path):
     for line in md.splitlines():
         if line.startswith("| ") and "---" not in line:
             assert line.count("|") == 8, line
+
+
+def test_houston_focus_section_and_posting_order(tmp_path):
+    import re
+    s = Store(tmp_path / "r.json")
+    s.add(role("H1", location="Houston, TX", title="Director, IT Infrastructure", posted_at="2026-10-10"))
+    s.add(role("H2", location="The Woodlands, Texas", title="VP, Cloud Engineering", posted_at="2026-10-18"))
+    s.add(role("N1", location="New York, NY", title="Director, Cloud Engineering", posted_at="2026-10-19"))
+    focus = [("Houston", "🤠", re.compile(r"\b(houston|the woodlands)\b", re.I))]
+    md = readme.render(list(s.roles.values()), "# T", 10, [], focus)
+    assert "## 🤠 Houston area" in md and "(#houston-area)" in md
+    sec = md.split("## 🤠 Houston area")[1].split("\n## ")[0]
+    assert "VP, Cloud Engineering" in sec and "Director, IT Infrastructure" in sec and "New York" not in sec
+    assert sec.index("VP, Cloud Engineering") < sec.index("Director, IT Infrastructure")   # newest posting first
+    cloud = md.split("## ☁️ Cloud & Infrastructure")[1].split("\n## ")[0]
+    assert cloud.index("Director, Cloud Engineering") < cloud.index("VP, Cloud Engineering")  # 10-19 before 10-18

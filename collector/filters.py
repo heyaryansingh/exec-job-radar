@@ -66,6 +66,8 @@ class Rules:
         self.preferred = [p.lower() for p in loc.get("preferred", [])]
         self.max_age = int(cfg.get("max_age_days", 21))
         self.excluded_companies = {c.lower() for c in cfg.get("excluded_companies", [])}
+        self.focus = [(f["name"], re.compile(f["match"], re.I), int(f.get("description_min_hits", self.desc_min)))
+                      for f in cfg.get("focus_locations") or []]
         self.level_queries = cfg.get("level_queries") or ["Director", "Vice President", "Head of",
                                                           "Chief", "Executive Director"]
 
@@ -81,6 +83,13 @@ class Rules:
         return not any(p.search(title) for p in self.title_excl)
 
     # -- full evaluation
+    def focus_of(self, location: str) -> str:
+        """Name of the focus location this role is in, or ''."""
+        for name, rx, _ in self.focus:
+            if location and rx.search(location):
+                return name
+        return ""
+
     def evaluate(self, p: Posting) -> tuple[bool, str, int]:
         """Return (passed, reason_if_dropped, quick_score)."""
         if p.company.lower() in self.excluded_companies:
@@ -91,7 +100,9 @@ class Rules:
 
         title_hits = sum(1 for k in self.title_kw if k.search(p.title))
         desc_hits = sum(1 for k in self.desc_kw if k.search(p.description)) if p.description else 0
-        if title_hits == 0 and desc_hits < self.desc_min:
+        focus = self.focus_of(p.location)
+        min_hits = min((h for n, rx, h in self.focus if n == focus), default=self.desc_min)
+        if title_hits == 0 and desc_hits < min_hits:
             # No description fetched (e.g. detail call failed): let a generic exec title through
             # only if the title itself says technology.
             return False, "domain", 0

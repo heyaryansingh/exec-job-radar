@@ -128,9 +128,17 @@ def heading(text: str, emoji: str = "") -> str:
     return f'<a name="{anchor(text)}"></a>\n\n## {emoji + " " if emoji else ""}{text}'.replace("\n\n## ", "\n## ", 0)
 
 
-def render(roles: list[dict], header: str, companies_watched: int, digest_links: list[str]) -> str:
+def posted_key(r) -> tuple:
+    """Newest posting first: the posting date, or the day first seen when none is given."""
+    return ((r.get("posted_at") or r.get("first_seen") or "")[:10], r.get("first_seen", ""))
+
+
+def render(roles: list[dict], header: str, companies_watched: int, digest_links: list[str],
+           focus: list | None = None) -> str:
+    """focus: [(name, emoji, compiled_regex)] areas that get their own section."""
+    focus = focus or []
     open_roles = [r for r in roles if r["status"] == "open"]
-    open_roles.sort(key=lambda r: r.get("first_seen", ""), reverse=True)
+    open_roles.sort(key=posted_key, reverse=True)
     recent_closed = sorted((r for r in roles if r["status"] == "closed" and since(r.get("closed_at", ""), 24 * 14)),
                            key=lambda r: r.get("closed_at", ""), reverse=True)
     new24 = [r for r in open_roles if is_new(r)]
@@ -143,6 +151,8 @@ def render(roles: list[dict], header: str, companies_watched: int, digest_links:
     updated = datetime.now(TZ).strftime("%b %d, %Y %I:%M %p ET")
     levels = Counter(level(r["title"]) for r in open_roles)
 
+    by_focus = {name: [r for r in open_roles if rx.search(r.get("location") or "")] for name, _, rx in focus}
+
     out = [header.strip(), "",
            f"**{len(open_roles):,} open roles** at **{n_companies:,} companies** · "
            f"**{len(new24):,} new in the last 24 hours** · {companies_watched:,} company career sites "
@@ -153,6 +163,8 @@ def render(roles: list[dict], header: str, companies_watched: int, digest_links:
            "[Apply queue](data/apply_queue.md): best new roles, ready for fast applying.", "",
            "## Contents", "",
            f"- [🆕 New in the last 24 hours ({len(new24)})](#{anchor('New in the last 24 hours')})"]
+    for name, emoji, _ in focus:
+        out.append(f"- [{emoji} {name} area ({len(by_focus[name])})](#{anchor(name + ' area')})")
     for name, emoji in order:
         if by_cat.get((name, emoji)):
             out.append(f"- [{emoji} {name} ({len(by_cat[(name, emoji)])})](#{anchor(name)})")
@@ -164,6 +176,12 @@ def render(roles: list[dict], header: str, companies_watched: int, digest_links:
     out += [heading("New in the last 24 hours", "🆕"), ""]
     out += [HEAD] + [row(r, twins) for r in new24[:300]] if new24 else ["Nothing new yet today."]
     out.append("")
+    for name, emoji, _ in focus:
+        rs = by_focus[name]
+        out += [heading(f"{name} area", emoji), "",
+                f"Every open role in the {name} area, newest posting first (also listed in its category below)."]
+        out += ["", HEAD] + [row(r, twins) for r in rs[:MAX_PER_SECTION]] if rs else ["", "None open right now."]
+        out.append("")
     for name, emoji in order:
         rs = by_cat.get((name, emoji)) or []
         if not rs:
@@ -198,7 +216,7 @@ def today_local() -> str:
     return datetime.now(TZ).date().isoformat()
 
 
-def write_all(root: Path, roles: list[dict], companies_watched: int, write):
+def write_all(root: Path, roles: list[dict], companies_watched: int, write, focus: list | None = None):
     header_file = root / "config" / "readme_header.md"
     header = header_file.read_text() if header_file.exists() else "# Exec Job Radar"
     ddir = root / "data" / "daily"
@@ -209,4 +227,12 @@ def write_all(root: Path, roles: list[dict], companies_watched: int, write):
     for old in days[45:]:  # keep about six weeks of digests
         (ddir / f"{old}.md").unlink(missing_ok=True)
     links = [f"[{d[5:]}](data/daily/{d}.md)" for d in days[:7]]
-    write(root / "README.md", render(roles, header, companies_watched, links))
+    write(root / "README.md", render(roles, header, companies_watched, links, focus))
+    for name, emoji, rx in focus or []:   # a standalone page per focus area
+        rs = sorted((r for r in roles if r["status"] == "open" and rx.search(r.get("location") or "")),
+                    key=posted_key, reverse=True)
+        twins = Counter(r.get("dup_key") for r in rs)
+        page = [f"# {emoji} Senior technology roles in the {name} area", "",
+                f"{len(rs)} open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).",
+                "", HEAD] + [row(r, twins) for r in rs]
+        write(root / "data" / f"{anchor(name)}.md", "\n".join(page) + "\n")

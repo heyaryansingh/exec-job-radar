@@ -57,10 +57,19 @@ writing:
 
 run:
   repo: OWNER/exec-job-radar          # GitHub repo running the hourly collector
+  # How much a run may do on its own (see PLAYBOOK.md "Autonomy levels"):
+  #   review              fill every form, never submit (start here for the first week)
+  #   submit_quick_forms  also submit one-page forms with no account when every check passes
+  #   submit_signed_in    also submit on account sites the browser is already signed into
+  autonomy: review
+  auto_submit_min_score: 80           # only roles at least this strong are auto-submitted
+  allow_google_signin: false          # true = may use "Continue with Google" with the signed-in account
   daily_target: 10                    # forms filled per run
   prepare_target: 20                  # tailored resume + cover letter sets per run
   min_score: 72
-  max_per_company: 2
+  max_per_company: 2                  # per week
+  company_caps: {}                    # e.g. {Google: [3, 30]} = at most 3 per 30 days
+  extra_holds: []                     # extra things to always leave for the candidate
   hot_run_min_score: 80
   read_job_alert_emails: true
   extra_career_sites: []              # [{name: Goldman Sachs, url: "https://higher.gs.com/results?..."}]

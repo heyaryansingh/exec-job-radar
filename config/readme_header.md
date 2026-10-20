@@ -16,5 +16,5 @@ enterprise architecture, data and AI platforms, security, and technology transfo
 Roles posting pay below $200K are filtered out.
 
 How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for someone:
-[SETUP.md](SETUP.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
+[SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)

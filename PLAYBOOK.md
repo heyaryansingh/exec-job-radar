@@ -98,11 +98,12 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
 
 ## Step 2: Gather new roles
 
-1. **Collector feed.** Read `https://raw.githubusercontent.com/<run.repo>/main/data/apply_queue.json`:
+1. **Collector feed.** Read `https://raw.githubusercontent.com/<run.repo>/data/data/apply_queue.json`
+   (the `data` branch; if that 404s, try the same path on `main`):
    the best roles posted in the last few days, each tagged `apply_via` (`quick form` or
    `account`) and, when the site publishes them, the form's `questions`. Then
-   `data/latest.json` for anything the queue left out. If the queue's `updated` time is more
-   than 6 hours old, read `data/STATUS.md` and mention it. If the feed can't be read, continue
+   `data/latest.json` on the same branch for anything the queue left out. If the queue's
+   `updated` time is more than 6 hours old, read `data/STATUS.md` on `main` and mention it. If the feed can't be read, continue
    with the other sources; never stop the run over it.
 2. **Job-alert emails** (Gmail connector, if `run.read_job_alert_emails`). Alerts since the last
    run from LinkedIn, Indeed, eFinancialCareers, Ladders, ExecThread and similar. Turn each

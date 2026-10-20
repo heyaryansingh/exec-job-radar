@@ -119,7 +119,7 @@ Open a new chat in the Claude desktop app, attach the Job Search folder, and pas
 >    Job Search folder <full path>. Don't apply to anything. Tell me in 1-3 lines if any of
 >    these are true, with the fix: no run in the last 30 hours (computer asleep or app closed);
 >    the last two runs couldn't reach the browser; nothing was filled or submitted in the last
->    2 days even though https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/data/apply_queue.json
+>    2 days even though https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/data/data/apply_queue.json
 >    has strong roles; the feed's updated time is over 6 hours old; any role has been
 >    human_check for over 6 hours. Otherwise reply with one line: today's submitted / filled /
 >    interviews."

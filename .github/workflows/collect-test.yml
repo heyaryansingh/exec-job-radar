@@ -30,6 +30,8 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt pytest
+      - name: Restore the role database from the data branch
+        run: bash tools/data_branch.sh restore
       - name: Unit tests
         run: python -m pytest -q tests
       - name: Dry run with every new source on

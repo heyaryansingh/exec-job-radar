@@ -1,3 +1,13 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# Rewritten every hour; kept on the `data` branch instead (tools/data_branch.sh)
+data/roles.json
+data/latest.json
+data/apply_queue.json
+data/state.json
+data/health.json
+data/board_names.json
+data/auto_boards.json
+data/.restored

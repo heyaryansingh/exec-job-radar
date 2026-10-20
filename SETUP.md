@@ -38,7 +38,9 @@ account (about 30 minutes, done with the candidate).
    it runs every hour on its own. The repo's front page (README) becomes the live role list,
    Simplify-style: grouped by function, newest first, with Apply links, pay, level, age,
    🆕 new and 🔒 closed markers, and a digest for each day in `data/daily/`. The Claude run
-   reads `data/latest.json`; the full role database is `data/roles.json`.
+   reads `data/apply_queue.json` and `data/latest.json`; the full role database is
+   `data/roles.json`. These three (and the collector's state files) live on the `data`
+   branch, which is replaced on every run so the repository doesn't grow by megabytes a day.
 
 7. **Turn on the heartbeat.** It starts by itself on the first push. To check: **Actions →
    Heartbeat** should show one run in progress. It triggers "Collect roles" every hour,

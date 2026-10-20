@@ -30,6 +30,11 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Restore the role database from the data branch
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          bash tools/data_branch.sh restore
       - name: Collect
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
@@ -38,14 +43,16 @@ jobs:
           USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: python -m collector.run --workers 24
-      - name: Commit results
+      - name: Save the role database (data branch, no history)
+        if: always()
+        run: bash tools/data_branch.sh save
+      - name: Commit readable pages
         if: always()
         run: |
-          git config user.name "job-radar-bot"
-          git config user.email "job-radar-bot@users.noreply.github.com"
-          for f in data README.md; do
-            if [ -e "$f" ]; then git add "$f"; fi
-          done
+          # only the readable pages go on main; the JSON lives on the data branch
+          git add README.md data/*.md data/daily 2>/dev/null || true
+          git rm -q --cached --ignore-unmatch data/roles.json data/latest.json data/apply_queue.json \
+            data/state.json data/health.json data/board_names.json data/auto_boards.json
           if git diff --cached --quiet; then echo "no changes"; exit 0; fi
           git commit -m "data: $(date -u +'%Y-%m-%d %H:%M') UTC"
           for i in 1 2 3 4 5; do

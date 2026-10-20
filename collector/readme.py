@@ -188,7 +188,7 @@ def render(roles: list[dict], header: str, companies_watched: int, digest_links:
             continue
         out += [heading(name, emoji), "", HEAD] + [row(r, twins) for r in rs[:MAX_PER_SECTION]]
         if len(rs) > MAX_PER_SECTION:
-            out.append(f"\n_{len(rs) - MAX_PER_SECTION} older roles in this section are in data/roles.json._")
+            out.append(f"\n_{len(rs) - MAX_PER_SECTION} older roles in this section are in data/roles.json on the `data` branch._")
         out.append("")
     out += [heading("Recently closed", "🔒"), "", "<details><summary>Roles that closed in the last 14 days</summary>", "", HEAD]
     out += [row(r) for r in recent_closed[:300]]

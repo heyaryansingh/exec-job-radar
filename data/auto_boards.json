@@ -672,6 +672,16 @@
 "ats": "lever",
 "name": "Wpromote, LLC",
 "slug": "wpromote"
+},
+{
+"ats": "greenhouse",
+"name": "Manifold Bio",
+"slug": "manifoldbio"
+},
+{
+"ats": "lever",
+"name": "Able Services",
+"slug": "ableserve"
 }
 ]
 }

@@ -582,6 +582,28 @@
 "host": "ccfs.wd503.myworkdayjobs.com",
 "name": "CrossCountry Freight Solutions",
 "site": "External_Career_Site"
+},
+{
+"ats": "ashby",
+"name": "clickhouse",
+"slug": "clickhouse"
+},
+{
+"ats": "lever",
+"name": "Shield AI",
+"slug": "shieldai"
+},
+{
+"ats": "workday",
+"host": "inspirebrands.wd5.myworkdayjobs.com",
+"name": "Inspire Brands",
+"site": "InspireCareers"
+},
+{
+"ats": "workday",
+"host": "hp.wd5.myworkdayjobs.com",
+"name": "HP",
+"site": "ExternalCareerSite"
 }
 ]
 }

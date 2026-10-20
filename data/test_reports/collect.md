@@ -2,46 +2,46 @@
 
 ```
 {
- "run_at": "2026-10-20T16:47:27+00:00",
- "seconds": 296,
+ "run_at": "2026-10-20T16:54:49+00:00",
+ "seconds": 269,
  "companies": 512,
  "company_errors": 0,
  "skipped_backoff": 30,
  "skipped_out_of_time": 0,
- "senior_titles_seen": 5067,
- "new_roles": 13,
+ "senior_titles_seen": 5071,
+ "new_roles": 8,
  "merged_duplicates": 1,
  "reposted": 0,
  "closed_after_check": 0,
  "removed_by_rule_change": 0,
- "open_roles": 1531,
- "roles_in_latest": 1531,
+ "open_roles": 1541,
+ "roles_in_latest": 1541,
  "universe_boards": 600,
  "universe_polled_ok": 569,
  "universe_errors": 1,
  "names_learned": 0,
- "employer_sites_found_on_boards": 181,
+ "employer_sites_found_on_boards": 183,
  "sources": {
-  "board-indeed (raw)": 405,
+  "board-indeed (raw)": 406,
   "themuse": 0,
   "himalayas": 16,
   "remotive": 0,
-  "jsearch": 8,
-  "senior titles from boards/aggregators": 187
+  "jsearch": 9,
+  "senior titles from boards/aggregators": 191
  },
- "companies_with_open_roles": 484
+ "companies_with_open_roles": 490
 }
 ```
 
 ## Senior titles seen, by source
 
-- workday: 2022
-- greenhouse: 1271
+- workday: 2015
+- greenhouse: 1270
 - ashby: 571
-- oracle: 553
+- oracle: 558
 - phenom: 244
-- smartrecruiters: 168
-- board-indeed: 125
+- smartrecruiters: 173
+- board-indeed: 127
 - lever: 79
 - amazon: 13
 - himalayas: 13
@@ -55,7 +55,7 @@
 ## Names learned (sample)
 
 
-## Roles from universe boards that pass the rules (164), sample
+## Roles from universe boards that pass the rules (165), sample
 
 | Score | Company | Role | Location | Pay |
 |---:|---|---|---|---|
@@ -71,6 +71,7 @@
 | 64 | Oracle | [Senior Director Product Management, Hardware Engineering (AI Infrastructure)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346878) | Santa Clara, CA, United States | 355400 |
 | 64 | Brown & Brown | [VP, IT Strategy and Architecture](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/VP--IT-Strategy-and-Architecture_R26_0000002301) | Plano, TX, USA |  |
 | 64 | Brown & Brown | [Head of Software Engineering](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Head-of-Software-Engineering_R26_0000003460) | Plano, TX, USA |  |
+| 64 | Experian | [Vice President, Platform Engineering](https://jobs.smartrecruiters.com/Experian/744000153868579-vice-president-platform-engineering) | United States, UNITED STATES, us |  |
 | 63 | BillionToOne | [Senior Director, Software Product Management and Product Engineering](https://job-boards.greenhouse.io/billiontoone/jobs/4741480005) | Menlo Park, CA | 304619 |
 | 63 | Oracle | [Senior Director, Compensation - Oracle Cloud Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/347545) | Nashville, TN, United States | 355400 |
 | 63 | Becton Dickinson | [Director ISC Data and AI](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Director-ISC-Data-and-AI_R-556906) | USA UT - Sandy |  |
@@ -118,9 +119,8 @@
 | 52 | 6sense | [VP, Technology & Data Partnerships](https://boards.greenhouse.io/6sense/jobs/8273672?gh_jid=8273672) | San Francisco, California, United States |  |
 | 52 | Attentive | [Senior Director, Product Management (AI/ML)](https://job-boards.greenhouse.io/attentive/jobs/4415182009) | New York, NY | 352000 |
 | 52 | Planet | [Senior Director, Product Management - Defense and Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/8263945) | San Francisco, CA | 325600 |
-| 52 | AEP | [Director, Technology (Threat Exposure & Assurance Management)](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director--Technology--Threat-Exposure---Assurance-Management-_R18638-1) | Columbus, OH; Austin, TX |  |
 
-## Roles from job boards / aggregators that pass (73), sample
+## Roles from job boards / aggregators that pass (76), sample
 
 | Source | Company | Role | Location |
 |---|---|---|---|
@@ -142,10 +142,12 @@
 | board-indeed | Cisco | [Director, Product Management](https://careers.cisco.com/global/en/job/2028398) | San Jose, CA, USA |
 | board-indeed | Cisco | [Director - ASIC Engineering (Technical Planning and Engineering Execution)](https://careers.cisco.com/global/en/job/2028602) | San Jose, CA, USA |
 | board-indeed | Cresset | [DIRECTOR, HEAD OF AI ENGINEERING & AUTOMATION](https://www.paycomonline.net/v4/ats/web.php/portal/67EEDFE4A70A8BA58D64627B3658C677/jobs/366904?source=Indeed) | Scottsdale, AZ, USA |
+| board-indeed | Cresset | [DIRECTOR, HEAD OF AI ENGINEERING & AUTOMATION](https://www.paycomonline.net/v4/ats/web.php/portal/67EEDFE4A70A8BA58D64627B3658C677/jobs/366904?source=Indeed) | Atlanta, GA, USA |
 | board-indeed | Cresset | [DIRECTOR, HEAD OF AI ENGINEERING & AUTOMATION](https://www.paycomonline.net/v4/ats/web.php/portal/67EEDFE4A70A8BA58D64627B3658C677/jobs/366904?source=Indeed) | Houston, TX, USA |
 | board-indeed | Dana-Farber Cancer Institute | [Senior Director, Philanthropy Technical Services](https://careers.dana-farber.org/job/2346/senior-director-philanthropy-technical-services-it-informatics-us-ma-brookline-10-brookline-place/) | Brookline, MA, USA |
 | board-indeed | DartPoints | [VICE PRESIDENT OF DATA CENTER QA/QC AND COMMI](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f58ac07c-7f17-460e-a6a3-08b3396d4661&ccId=19000101_000001&jobId=20760&source=IN&lang=en_US) | USA |
 | board-indeed | Digital Financial | [Vice President of Product](https://www.indeed.com/viewjob?jk=7ffcd00fe37743d5) | Margaretville, NY, USA |
+| board-indeed | Eaton | [Vice President of Engineering](https://career41.sapsf.com/career?company=eatoncorpo&career_ns=job_listing&career_job_req_id=72912&lang=en_US&source=Indeed) | Highland, IL, USA |
 | board-indeed | Eaton | [Vice President of Engineering](https://career41.sapsf.com/career?company=eatoncorpo&career_ns=job_listing&career_job_req_id=72912&lang=en_US&source=Indeed) | Syracuse, NY, USA |
 | board-indeed | Ellucian | [Director of Campus Modernization (Director, Application Services) at Houston Christian University](https://usa-ellucian.icims.com/jobs/7769/job) | Houston, TX, USA |
 | board-indeed | EPAM Systems | [Chief Technology Officer — Databricks Data & AI Platform](https://careers.epam.com/en/vacancy/bltbgo9kfba0zgmjjw7_en?country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) | Remote, USA |
@@ -162,8 +164,6 @@
 | board-indeed | Lincoln Financial | [Director, AI Native Analytics](https://jobs.lincolnfinancial.com/job/Radnor-Director%2C-AI-Native-Analytics-PA/1441461600/) | Radnor, PA, USA |
 | board-indeed | LPL Financial | [VP, Software Engineering Lead (.NET/AWS)](https://lplfinancial.wd1.myworkdayjobs.com/External/job/New-York/VP--Software-Engineering-Lead--NET-AWS-_R-054347-1) | New York, NY, USA |
 | board-indeed | Merck | [Executive Director, AI Delivery Management](https://jobs.merck.com/us/en/job/R422940) | Rahway, NJ, USA |
-| board-indeed | Meta | [Business Operations Director, Infrastructure Data Centers](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002MAvUAM_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1744866006739403%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D7726a905-cbfb-11f1-8165-af41476b087c%26rx_job%3Da1KiE0000002MAvUAM_1001%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261020T060408Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) | Remote, USA |
-| board-indeed | Mimica | [Head of Platform (Infrastructure & DevOps)](https://jobs.ashbyhq.com/mimica/bb287245-a114-49be-820e-b602fc220aea?utm_source=4pxX5pn10r) | Waterloo, CA, USA |
 
 ## Source log lines
 
@@ -185,7 +185,7 @@ boards: 'Vice President Technology' -> 0 results
 boards: 'Head of IT' @ Houston, TX -> 40 results {'indeed': np.int64(40)}
 boards: 'Chief Information Officer' -> 0 results
 boards: 'Director Infrastructure' @ Houston, TX -> 19 results {'indeed': np.int64(19)}
-boards: 'Director Cloud' @ Houston, TX -> 2 results {'indeed': np.int64(2)}
+boards: 'Director Cloud' @ Houston, TX -> 3 results {'indeed': np.int64(3)}
 boards: 'Director Enterprise Architecture' -> 0 results
 boards: 'Director Data Analytics' @ Houston, TX -> 2 results {'indeed': np.int64(2)}
 boards: 'VP Digital Transformation' -> 0 results
@@ -197,28 +197,28 @@ himalayas: 20 jobs on first page
 remotive: software-dev: 10 jobs
 remotive: devops: 10 jobs
 remotive: data: 10 jobs
-jsearch: 'vice president technology in USA' -> 9 results, 4 senior
-jsearch: 'director cloud infrastructure in USA' -> 4 results, 4 senior
+jsearch: 'vice president technology in USA' -> 10 results, 6 senior
+jsearch: 'director cloud infrastructure in USA' -> 5 results, 3 senior
 jsearch: 'chief technology officer in USA' -> 0 results, 0 senior
-jsearch: 'technology director in Houston, TX' -> 5 results, 0 senior
+jsearch: 'technology director in Houston, TX' -> 4 results, 0 senior
 jsearch: 'vice president information technology in Houston, TX' -> 0 results, 0 senior
-boards/aggregators: {"board-indeed (raw)": 405, "themuse": 0, "himalayas": 16, "remotive": 0, "jsearch": 8, "senior titles from boards/aggregators": 187}; employer sites found: 181
+boards/aggregators: {"board-indeed (raw)": 406, "themuse": 0, "himalayas": 16, "remotive": 0, "jsearch": 9, "senior titles from boards/aggregators": 191}; employer sites found: 183
 ```
 
 ## Universe sample by career-site type (answered / polled)
 
 - ashby: 185 / 187
 - eightfold: 0 / 3
-- greenhouse: 175 / 188
+- greenhouse: 174 / 187
 - lever: 12 / 12
-- oracle: 6 / 6
+- oracle: 7 / 7
 - phenom: 6 / 6
-- smartrecruiters: 10 / 10
-- workday: 175 / 188
+- smartrecruiters: 11 / 11
+- workday: 174 / 187
 
-Passing roles by type: ashby 10, greenhouse 33, lever 2, oracle 23, phenom 23, smartrecruiters 3, workday 70
+Passing roles by type: ashby 10, greenhouse 33, lever 2, oracle 23, phenom 23, smartrecruiters 4, workday 70
 
-## Employer career sites found in board results (181), sample
+## Employer career sites found in board results (183), sample
 
 - Blitzy: `{"ats": "ashby", "slug": "blitzy"}`
 - clickhouse: `{"ats": "ashby", "slug": "clickhouse"}`
@@ -228,11 +228,11 @@ Passing roles by type: ashby 10, greenhouse 33, lever 2, oracle 23, phenom 23, s
 - Tiverton Advisors: `{"ats": "smartrecruiters", "slug": "TivertonAdvisors"}`
 - STACK Infrastructure US: `{"ats": "workday", "host": "stackinfra.wd108.myworkdayjobs.com", "site": "STACK_AMER"}`
 - Blitzy: `{"ats": "ashby", "slug": "blitzy"}`
-- OpenLoop Health: `{"ats": "ashby", "slug": "openloophealth"}`
 - QUALITATE: `{"ats": "ashby", "slug": "qualitate"}`
+- OpenLoop Health: `{"ats": "ashby", "slug": "openloophealth"}`
 - Outset: `{"ats": "ashby", "slug": "outset"}`
-- TD SYNNEX: `{"ats": "phenom", "host": "careers.tdsynnex.com", "locale": "us/en"}`
 - Witness AI: `{"ats": "ashby", "slug": "witnessai"}`
+- TD SYNNEX: `{"ats": "phenom", "host": "careers.tdsynnex.com", "locale": "us/en"}`
 - Cambria: `{"ats": "workday", "host": "cambria.wd1.myworkdayjobs.com", "site": "cambria_careers"}`
 - Wynn Resorts: `{"ats": "smartrecruiters", "slug": "WynnResorts"}`
 - VALERIS: `{"ats": "workday", "host": "valeris.wd108.myworkdayjobs.com", "site": "Valeris"}`
@@ -247,8 +247,8 @@ Passing roles by type: ashby 10, greenhouse 33, lever 2, oracle 23, phenom 23, s
 - GSK: `{"ats": "phenom", "host": "jobs.gsk.com", "locale": "gb/en"}`
 - WD: `{"ats": "smartrecruiters", "slug": "WesternDigital"}`
 - CSC: `{"ats": "oracle", "host": "hczw.fa.us2.oraclecloud.com", "site": "CX_1001"}`
-- Burlington Stores: `{"ats": "workday", "host": "burlington.wd5.myworkdayjobs.com", "site": "BurlingtonCareers"}`
 - Hiscox: `{"ats": "workday", "host": "hiscox.wd3.myworkdayjobs.com", "site": "Hiscox_External_Site"}`
+- American Electric Power: `{"ats": "workday", "host": "aep.wd1.myworkdayjobs.com", "site": "AEPCareerSite"}`
 - Transmedics: `{"ats": "workday", "host": "transmedics.wd1.myworkdayjobs.com", "site": "TransMedics_Careers"}`
 
-Wall time: 296s
+Wall time: 270s

@@ -19,18 +19,18 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,541 open roles** at **486 companies** · **447 new in the last 24 hours** · 5,141 company career sites watched · updated hourly · last update Oct 20, 2026 01:09 PM ET
+**1,542 open roles** at **486 companies** · **448 new in the last 24 hours** · 5,141 company career sites watched · updated hourly · last update Oct 20, 2026 01:17 PM ET
 
-By level: Director 739 · VP 368 · Sr. Director 166 · Head 106 · EVP/SVP 83 · ED 39 · C-level 29 · MD 11
+By level: Director 740 · VP 368 · Sr. Director 166 · Head 106 · EVP/SVP 83 · ED 39 · C-level 29 · MD 11
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (447)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (448)](#new-in-the-last-24-hours)
 - [🤠 Houston area (22)](#houston-area)
 - [👑 Executive Technology Leadership (29)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (99)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (100)](#security-risk-technology)
 - [🧠 Data & AI (454)](#data-ai)
 - [🚦 Reliability & Operations (79)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (153)](#cloud-infrastructure)
@@ -47,6 +47,7 @@ By level: Director 739 · VP 368 · Sr. Director 166 · Head 106 · EVP/SVP 83 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CoreWeave ⭐ | 🆕 Director, Product Security | Director | Livingston, NJ / New York, NY / Sunnyvale, | $227K–$303K | 0d | [Apply](https://coreweave.com/careers/job?4720649006&board=coreweave&gh_jid=4720649006) ⚡ |
 | Oscar Health | 🆕 VP, Provider Integration & Experience | VP | New York, New York, United States | $240K–$315K | 0d | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8303349) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 OMAI - Program Management Lead - Vice President | VP | Getzville, NY, US |  | 0d | [Apply](https://jobs.citi.com/job/getzville/omai-program-management-lead-vice-president/287/102205682896) |
 | Adobe ⭐ | 🆕 Director of Engineering, Real Time Experience (RTX) | Director | San Jose +2 | $186K–$358K | 0d | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Director-of-Engineering--Real-Time-Experience--RTX-_R172776) |
@@ -346,7 +347,6 @@ By level: Director 739 · VP 368 · Sr. Director 166 · Head 106 · EVP/SVP 83 �
 | Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineer, AI Transformation - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/forward-deployed-engineer-ai-transformation-senior-vice-president/287/102161073008) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer Solution Architect - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-developer-solution-architect-vice-president/287/102176698368) |
 | The Aerospace Corporation | 🆕 Systems Director - Objective Force Planning and Integration | Director | Crystal City, VA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Crystal-City-VA/Systems-Director---Objective-Force-Planning-and-Integration_R016572) |
-| ClickHouse | 🆕 Regional VP, AMER Southwest | VP | Denver +1 | $350K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/2137b19e-a226-4e3c-8c8d-0e0ca30415e6) ⚡ |
 
 <a name="houston-area"></a>
 
@@ -421,6 +421,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CoreWeave ⭐ | 🆕 Director, Product Security | Director | Livingston, NJ / New York, NY / Sunnyvale, | $227K–$303K | 0d | [Apply](https://coreweave.com/careers/job?4720649006&board=coreweave&gh_jid=4720649006) ⚡ |
 | Filinvest Group | 🆕 Head of Information Security & Enterprise Risk Management | Head | Remote (United States) |  | 0d | [Apply](https://himalayas.app/companies/filinvest-group/jobs/head-of-information-security-enterprise-risk-management-6920043729?utm_source=api) |
 | National Debt Relief, LLC. | 🆕 Director of Security Operations | Director | Remote (United States) | $198K–$227K | 0d | [Apply](https://himalayas.app/companies/national-debt-relief-llc/jobs/director-of-security-operations?utm_source=api) |
 | Wipro | 🆕 Senior Director - Cyber Advisory, Risk & Compliance | Sr. Director | New York, NY, USA | $200K–$280K | 0d | [Apply](https://careers.wipro.com/job/Senior-Director-Cyber-Advisory%2C-Risk-&-Compliance/211676-en_US) |

@@ -509,6 +509,21 @@
 "host": "spgi.wd5.myworkdayjobs.com",
 "name": "S&P Global",
 "site": "SPGI_Careers"
+},
+{
+"ats": "ashby",
+"name": "Blitzy",
+"slug": "blitzy"
+},
+{
+"ats": "lever",
+"name": "Tutor Intelligence",
+"slug": "tutorintelligence"
+},
+{
+"ats": "ashby",
+"name": "fal - Features & Labels",
+"slug": "fal-ai"
 }
 ]
 }

@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,481 open roles** at **467 companies** · **413 new in the last 24 hours** · 5,129 company career sites watched · updated hourly · last update Oct 20, 2026 08:18 AM ET
+**1,484 open roles** at **468 companies** · **416 new in the last 24 hours** · 5,129 company career sites watched · updated hourly · last update Oct 20, 2026 09:21 AM ET
 
-By level: Director 701 · VP 352 · Sr. Director 164 · Head 105 · EVP/SVP 83 · ED 37 · C-level 28 · MD 11
+By level: Director 703 · VP 352 · Sr. Director 165 · Head 105 · EVP/SVP 83 · ED 37 · C-level 28 · MD 11
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (413)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (416)](#new-in-the-last-24-hours)
 - [🤠 Houston area (20)](#houston-area)
 - [👑 Executive Technology Leadership (28)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (99)](#security-risk-technology)
-- [🧠 Data & AI (441)](#data-ai)
-- [🚦 Reliability & Operations (67)](#reliability-operations)
+- [🧠 Data & AI (442)](#data-ai)
+- [🚦 Reliability & Operations (68)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (149)](#cloud-infrastructure)
 - [🏛️ Architecture (41)](#architecture)
 - [🔄 Transformation & Delivery (172)](#transformation-delivery)
-- [🛠️ Engineering & Software (359)](#engineering-software)
+- [🛠️ Engineering & Software (360)](#engineering-software)
 - [📌 Other Senior Roles (125)](#other-senior-roles)
 - [🔒 Recently closed (7)](#recently-closed)
 - Daily digests: [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
@@ -47,6 +47,9 @@ By level: Director 701 · VP 352 · Sr. Director 164 · Head 105 · EVP/SVP 83 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Humana ⭐ | 🆕 Director, AI Engineering | Director | Louisville, KY +2 | $189K–$260K | 0d | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Director--AI-Engineering_R-428390) |
+| Flextronics | 🆕 Director, Operations Engineering | Director | USA, TX, Austin |  | 0d | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Director--Operations-Engineering_WD232222) |
+| Avantor | 🆕 Senior Director, Global Engineering | Sr. Director | MA, USA · Remote | $168K–$282K | 0d | [Apply](https://careers.avantorsciences.com/senior-director-global-engineering/job/R-175399) |
 | Berkshire Grey | 🆕 Director, Hardware Engineering | Director | Bedford, MA, USA | $160K–$230K | 0d | [Apply](https://berkshiregrey.bamboohr.com/careers/787?source=indeed&src=indeed&postedDate=2026-10-20) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 83111) | VP | Lake Mary, FL, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83111) |
 | Hiscox | 🆕 Director of Technology Product Delivery | Director | Atlanta +1 | $180K–$312K | 0d | [Apply](https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/Atlanta/Director-of-Technology-Product-Delivery_R0020536) |
@@ -344,9 +347,6 @@ By level: Director 701 · VP 352 · Sr. Director 164 · Head 105 · EVP/SVP 83 �
 | Citi (jobs.citi.com) ⭐ | 🆕 Java Engineering Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/java-engineering-lead-vice-president/287/102161084656) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Applications Support Senior Manager - Vice President | VP | Pune, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/pune/applications-support-senior-manager-vice-president/287/102161084912) |
 | TikTok USDS JV | 🆕 Head of Enterprise Security Engineering | Head | Washington, DC, USA | $232K–$554K | 1d | [Apply](https://careers.tiktokusds.com/usds/position/7697320918814198021/detail) |
-| Iqvia | 🆕 Director, AI Platform Engineering & DevOps | Director | Wayne, PA, United States of America |  | 1d | [Apply](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Director--AI-Platform-Engineering---DevOps_R1563456) |
-| USAA ⭐ | 🆕 Director, Business and Data Analytics | Director | Plano Legacy +3 | $165K–$315K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Director--Business-and-Data-Analytics_R0121669) |
-| Osmose Utilities Services, Inc. | 🆕 Senior Director, Cyber Security | Sr. Director | Atlanta, GA, USA |  | 1d | [Apply](https://osmose.hrmdirect.com/employment/view.php?req=3844273&jbsrc=1014&location=df62579c-c73b-aecc-43d5-558d7165302e) |
 
 <a name="houston-area"></a>
 
@@ -524,6 +524,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Humana ⭐ | 🆕 Director, AI Engineering | Director | Louisville, KY +2 | $189K–$260K | 0d | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Director--AI-Engineering_R-428390) |
 | Takeaway | 🆕 Director - Data Science & Machine Learning (Logistics) | Director | Fleet Place Office |  | 0d | [Apply](https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Fleet-Place-Office/Director---Data-Science---Machine-Learning--Logistics-_R_053917) |
 | DartPoints | 🆕 VICE PRESIDENT OF DATA CENTER QA/QC AND COMMI | VP | USA · Remote |  | 0d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f58ac07c-7f17-460e-a6a3-08b3396d4661&ccId=19000101_000001&jobId=20760&source=IN&lang=en_US) |
 | Meta | 🆕 Business Operations Director, Infrastructure Data Centers | Director | Remote, USA | $211K–$272K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002MAvUAM_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1744866006739403%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D7726a905-cbfb-11f1-8165-af41476b087c%26rx_job%3Da1KiE0000002MAvUAM_1001%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261020T060408Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
@@ -773,9 +774,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Prologis ⭐ | Director, Data Center Design Management | Director | Dallas, Texas | $160K–$200K | 7d | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Dallas-Texas/Director--Data-Center-Design-Management_R6814) |
 | DaVita | Sr Director, Data Domain Owner (Technology) | Sr. Director | 05555 - Casa del Mundo Office (Denver HQ) +3 · Remote |  | 7d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Sr-Director--Data-Domain-Owner--Technology-_R0481773) |
 | Labcorp | VP, Data and AI Readiness Platforms | VP | Durham NC |  | 7d | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/VP--Data-and-AI-Readiness-Platforms_2632570) |
-| SS&C Technologies | Director, AI Platform Engineering | Director | San Francisco, CA +3 |  | 7d | [Apply](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/San-Francisco-CA/Director--AI-Platform-Engineering_R44905) |
 
-_191 older roles in this section are in data/roles.json._
+_192 older roles in this section are in data/roles.json._
 
 <a name="reliability-operations"></a>
 
@@ -783,6 +783,7 @@ _191 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Flextronics | 🆕 Director, Operations Engineering | Director | USA, TX, Austin |  | 0d | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Director--Operations-Engineering_WD232222) |
 | Nile global | 🆕 Senior Director, Cloud Operations - Onsite, Santa Clara, CA | Sr. Director | San Jose, CA, USA |  | 0d | [Apply](https://recruiterflow.com/nile/jobs/153?source=indeed&utm_channel=recruiterflow-posting&location=7) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Sr. Developer/SRE - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/sr-developer-sre-vice-president/287/102161041568) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Production Management Global Support Group Manager - Director | Director | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/production-management-global-support-group-manager-director/287/102161042560) |
@@ -1240,6 +1241,7 @@ _191 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Avantor | 🆕 Senior Director, Global Engineering | Sr. Director | MA, USA · Remote | $168K–$282K | 0d | [Apply](https://careers.avantorsciences.com/senior-director-global-engineering/job/R-175399) |
 | Berkshire Grey | 🆕 Director, Hardware Engineering | Director | Bedford, MA, USA | $160K–$230K | 0d | [Apply](https://berkshiregrey.bamboohr.com/careers/787?source=indeed&src=indeed&postedDate=2026-10-20) |
 | Nile global | 🆕 Vice President of Engineering, Distributed Systems - Onsite, Santa Clara, CA | VP | San Jose, CA, USA |  | 0d | [Apply](https://recruiterflow.com/nile/jobs/154?source=indeed&utm_channel=recruiterflow-posting&location=7) |
 | Salesforce ⭐ | 🆕 Senior Director, Forward Deployed Engineering | Sr. Director | California - San Francisco +2 | $216K–$329K | 0d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director-Sr-Director-Expert-Agent-Builder--Forward-Deployed-Engineering_JR362497) |
@@ -1489,9 +1491,8 @@ _191 older roles in this section are in data/roles.json._
 | Alta Resource Technologies, Inc. | Director, Bioprocess Engineering | Director | Boulder, Colorado |  | 11d | [Apply](https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4444044009) ⚡ |
 | TENEX.AI | Director of Forward Deployed Engineering | Director | Kansas City Metro +2 · Remote |  | 11d | [Apply](https://jobs.ashbyhq.com/tenex/b2501a2a-4a55-40ff-b08c-430d76fbaa53) ⚡ |
 | Robin Radar | IT & Infosec Director | Director | Delft · Remote |  | 11d | [Apply](https://jobs.ashbyhq.com/robin-radar/d114f9cd-d2a5-4abc-8f3f-32b96fc347db) ⚡ |
-| Abacus Insights | Head of Technical Product Management | Head | United States |  | 11d | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8881341002?gh_jid=8881341002) ⚡ |
 
-_109 older roles in this section are in data/roles.json._
+_110 older roles in this section are in data/roles.json._
 
 <a name="other-senior-roles"></a>
 

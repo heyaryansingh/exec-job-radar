@@ -693,6 +693,17 @@
 "ats": "ashby",
 "name": "Perplexity",
 "slug": "Perplexity"
+},
+{
+"ats": "eightfold",
+"domain": "microsoft.com",
+"host": "apply.careers.microsoft.com",
+"name": "Microsoft"
+},
+{
+"ats": "lever",
+"name": "vivenu GmbH",
+"slug": "vivenu"
 }
 ]
 }

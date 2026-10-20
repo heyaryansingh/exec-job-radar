@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-21 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+22 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fluence Energy | 🆕 Vice President, Global Services Operations & Excellence | VP | Netherlands - Amsterdam +3 · Remote |  | 0d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/fluenceenergy-jobs/job/Netherlands---Amsterdam/Vice-President--Global-Services-Operations---Excellence_JR101522-1) |
 | Ellucian | 🆕 Director of Campus Modernization (Director, Application Services) at Houston Christian University | Director | Houston, TX, USA |  | 0d | [Apply](https://usa-ellucian.icims.com/jobs/7769/job) |
 | Fluence Energy | 🆕 Director – Platform Hardware Engineering | Director | Houston, TX, USA |  | 0d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/en-US/fluenceenergy-jobs/job/USA-TX-Houston/Director---Platform-Hardware-Engineering_JR101736) |
 | HTI Ltd | 🆕 Director of Strategic Solutions-Mission Critical | Director | Houston, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B9B76F0F5687564F77A0D23AABC0F928/jobs/119534?source=Indeed) |

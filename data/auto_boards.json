@@ -745,6 +745,33 @@
 "domain": "arcadis.com",
 "host": "jobs.arcadis.com",
 "name": "Arcadis"
+},
+{
+"ats": "ashby",
+"name": "QUALITATE",
+"slug": "qualitate"
+},
+{
+"ats": "ashby",
+"name": "Witness AI",
+"slug": "witnessai"
+},
+{
+"ats": "oracle",
+"host": "hczw.fa.us2.oraclecloud.com",
+"name": "CSC",
+"site": "CX_1001"
+},
+{
+"ats": "workday",
+"host": "burlington.wd5.myworkdayjobs.com",
+"name": "Burlington Stores",
+"site": "BurlingtonCareers"
+},
+{
+"ats": "smartrecruiters",
+"name": "Experian",
+"slug": "Experian"
 }
 ]
 }

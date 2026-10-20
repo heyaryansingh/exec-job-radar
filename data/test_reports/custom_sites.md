@@ -19,8 +19,8 @@
 | phenom | HPE | ok, 5 senior | SVP, Engineering; VP & General Manager - GreenLake Flex Solutions; Director Software Engineering (Cloud Security); Director of Strategy & Execution, H |
 | phenom | Thermo Fisher Scientific | ok, 28 senior | Director, Finance – Molecular Biology - $45B Industry Leader!; Sr. Director of Research & Development Controlled Temperature Technologies; Sr. Directo |
 | phenom | AbbVie | fail | phenom: no response from careers.abbvie.com |
-| phenom | CVS Health | ok, 42 senior | Lead Director, Pharma Contracting - Trade Relations; Oak Street Health Regional Director, Operations and Population Health- New Jersey; Vice President |
-| phenom | Mastercard | ok, 88 senior | Vice President, Cybersecurity Strategy and Engagement; Vice President, U.S. Government Cybersecurity Strategy & Engagement; Director, Center for Inclu |
+| phenom | CVS Health | ok, 32 senior | Population Health Director, Field; Lead Director, Pharma Contracting - Trade Relations; Vice President, FP&A - Retail; Oak Street Health Regional Dire |
+| phenom | Mastercard | ok, 88 senior | Vice President, Enterprise Order Management; Vice President, Security Monitoring and Response; Vice President- AI, Center of Excellence; VP, GBSC Valu |
 | phenom | Kroger | fail | phenom: no response from jobs.kroger.com |
 | phenom | Boeing | fail | phenom: no response from jobs.boeing.com |
 | phenom | Accenture | fail | phenom: no response from www.accenture.com |
@@ -35,7 +35,7 @@
 | sitemap | Apple | fail | 404 Client Error: Not Found for url: https://jobs.apple.com/sitemap.xml (1 sitemaps listed) |
 | sitemap | Goldman Sachs | fail | 404 Client Error: Not Found for url: https://higher.gs.com/sitemap.xml (1 sitemaps listed) |
 | sitemap | Lockheed Martin | fail | sitemap: no job URLs (1 sitemaps listed) |
-| sitemap | UnitedHealth Group | ok via https://careers.unitedhealthgroup.com/sitemap.xml, 8 pages read | Medical Director | South Carolina | Colonial Healthcare, a part of Optum; Director, Client Management & Strategy, Behavioral Health; Associate Directo |
+| sitemap | UnitedHealth Group | ok via https://careers.unitedhealthgroup.com/sitemap.xml, 7 pages read | Director of Social Media Operations - Remote; Associate AI/ML Engineer; Account Executive Small Segments - Sales - Kelsey Seybold - Pearland |
 | sitemap | ExxonMobil | fail | sitemap: no job URLs (1 sitemaps listed) |
 | sitemap | IBM | fail | sitemap: no job URLs (5 sitemaps listed) |
 | sitemap | Google | fail | sitemap: no job URLs (1 sitemaps listed) |

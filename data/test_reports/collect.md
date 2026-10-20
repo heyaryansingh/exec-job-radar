@@ -2,49 +2,50 @@
 
 ```
 {
- "run_at": "2026-10-20T00:06:44+00:00",
- "seconds": 319,
+ "run_at": "2026-10-20T00:12:17+00:00",
+ "seconds": 266,
  "companies": 512,
  "company_errors": 0,
  "skipped_backoff": 30,
  "skipped_out_of_time": 0,
- "senior_titles_seen": 5119,
- "new_roles": 11,
- "merged_duplicates": 0,
+ "senior_titles_seen": 5113,
+ "new_roles": 15,
+ "merged_duplicates": 1,
  "reposted": 0,
- "closed_after_check": 1,
- "removed_by_rule_change": 0,
- "open_roles": 1201,
- "roles_in_latest": 1201,
+ "closed_after_check": 0,
+ "removed_by_rule_change": 4,
+ "open_roles": 1215,
+ "roles_in_latest": 1215,
  "universe_boards": 600,
  "universe_polled_ok": 570,
  "universe_errors": 0,
  "names_learned": 0,
- "employer_sites_found_on_boards": 179,
+ "employer_sites_found_on_boards": 178,
  "sources": {
-  "board-indeed (raw)": 369,
+  "board-indeed (raw)": 370,
   "themuse": 0,
   "himalayas": 4,
   "remotive": 0,
-  "jsearch": 0,
-  "senior titles from boards/aggregators": 129
+  "jsearch": 11,
+  "senior titles from boards/aggregators": 138
  },
- "companies_with_open_roles": 429
+ "companies_with_open_roles": 435
 }
 ```
 
 ## Senior titles seen, by source
 
-- workday: 2048
+- workday: 2037
 - greenhouse: 1282
-- ashby: 577
+- ashby: 573
 - oracle: 527
 - phenom: 236
 - smartrecruiters: 167
-- sitemap: 115
-- board-indeed: 86
+- sitemap: 117
+- board-indeed: 84
 - lever: 60
 - amazon: 13
+- jsearch: 9
 - eightfold: 4
 - himalayas: 4
 
@@ -137,6 +138,7 @@
 | board-indeed | EPAM Systems | [Chief Technology Officer — Databricks Data & AI Platform](https://careers.epam.com/en/vacancy/bltbgo9kfba0zgmjjw7_en?country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) | Remote, USA |
 | board-indeed | FNBO - First National Bank of Omaha | [Sr. Director, Advanced Data Scientist](https://firstnational.wd12.myworkdayjobs.com/en-US/fnbocareers/job/Omaha---FN-Tower/Sr-Director--Advanced-Data-Scientist_R-20261856) | Omaha, NE, USA |
 | board-indeed | GSK | [Director, Real World Data Strategy and External Partnerships Lead](https://jobs.gsk.com/gb/en/job/449565?utm_source=indeed&utm_medium=phenom-feeds) | Collegeville, PA, USA |
+| board-indeed | Houston Methodist | [Director Telecom & Data Networks](https://click.appcast.io/t/4aBDlXxMyjXjfta1VXVONd2Tcrd00EX2-aU1zf65Ic0=) | Houston, TX, USA |
 | board-indeed | Huntsville Hospital Health System | [Vice President, Technology Services](https://careers-hhsys.icims.com/jobs/76558/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Huntsville, AL, USA |
 | board-indeed | Katalyst Space Technologies | [Director of National Security Partnerships](https://grnh.se/5tyssck64us) | Broomfield, CO, USA |
 | board-indeed | Lincoln Financial | [Director, AI Native Analytics](https://jobs.lincolnfinancial.com/job/Radnor-Director%2C-AI-Native-Analytics-PA/1441461600/) | Radnor, PA, USA |
@@ -162,7 +164,6 @@
 | board-indeed | United Biosource Corporation | [Director, Software Engineering - Platform Development](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=90ee0c52-4563-4bbb-a44d-0a6cd6964c61&ccId=19000101_000001&jobId=593232&source=IN&lang=en_US) | Remote, USA |
 | board-indeed | Verustruct | [Head of Engineering](https://jobs.ashbyhq.com/verustruct/066cbb11-8a0a-4921-9596-47de948bff28?utm_source=p4jNLwy4oq) | Torrance, CA, USA |
 | board-indeed | Washington State Convention Center | [Director of Information Services](https://secure.entertimeonline.com/ta/6051365.careers?ShowJob=855846218) | Seattle, WA, USA |
-| board-indeed | Global Payments | [Director of AI/ML Platforms](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Director-of-AI-ML-Platforms_R0074964) | Cincinnati, OH, USA |
 
 ## Source log lines
 
@@ -183,7 +184,7 @@ boards: 'Director Information Technology' @ Houston, TX -> 1 results {'indeed': 
 boards: 'Vice President Technology' -> 0 results
 boards: 'Head of IT' @ Houston, TX -> 40 results {'indeed': np.int64(40)}
 boards: 'Chief Information Officer' -> 0 results
-boards: 'Director Infrastructure' @ Houston, TX -> 12 results {'indeed': np.int64(12)}
+boards: 'Director Infrastructure' @ Houston, TX -> 13 results {'indeed': np.int64(13)}
 boards: 'Director Cloud' @ Houston, TX -> 3 results {'indeed': np.int64(3)}
 boards: 'Director Enterprise Architecture' -> 0 results
 boards: 'Director Data Analytics' @ Houston, TX -> 4 results {'indeed': np.int64(4)}
@@ -196,38 +197,38 @@ himalayas: 20 jobs on first page
 remotive: software-dev: 12 jobs
 remotive: devops: 12 jobs
 remotive: data: 12 jobs
-jsearch: 'vice president technology in USA' -> 0 results
-jsearch: 'director cloud infrastructure in USA' -> 0 results
-jsearch: 'chief technology officer in USA' -> 0 results
-jsearch: 'technology director in Houston, TX' -> 0 results
-jsearch: 'vice president information technology in Houston, TX' -> 0 results
-boards/aggregators: {"board-indeed (raw)": 369, "themuse": 0, "himalayas": 4, "remotive": 0, "jsearch": 0, "senior titles from boards/aggregators": 129}; employer sites found: 179
+jsearch: 'vice president technology in USA' -> 10 results, 7 senior
+jsearch: 'director cloud infrastructure in USA' -> 4 results, 2 senior
+jsearch: 'chief technology officer in USA' -> 0 results, 0 senior
+jsearch: 'technology director in Houston, TX' -> 6 results, 1 senior
+jsearch: 'vice president information technology in Houston, TX' -> 2 results, 1 senior
+boards/aggregators: {"board-indeed (raw)": 370, "themuse": 0, "himalayas": 4, "remotive": 0, "jsearch": 11, "senior titles from boards/aggregators": 138}; employer sites found: 178
 ```
 
 ## Universe sample by career-site type (answered / polled)
 
-- ashby: 191 / 193
+- ashby: 190 / 192
 - greenhouse: 179 / 193
 - lever: 3 / 3
-- oracle: 4 / 4
-- phenom: 4 / 4
+- oracle: 5 / 5
+- phenom: 5 / 5
 - smartrecruiters: 10 / 10
-- workday: 179 / 193
+- workday: 178 / 192
 
 Passing roles by type: ashby 10, greenhouse 26, oracle 1, phenom 21, smartrecruiters 2, workday 68
 
-## Employer career sites found in board results (179), sample
+## Employer career sites found in board results (178), sample
 
 - Tiverton Advisors: `{"ats": "smartrecruiters", "slug": "TivertonAdvisors"}`
 - STACK Infrastructure US: `{"ats": "workday", "host": "stackinfra.wd108.myworkdayjobs.com", "site": "STACK_AMER"}`
 - Orchard Marketing New York: `{"ats": "smartrecruiters", "slug": "Enero"}`
-- Wynn Resorts: `{"ats": "smartrecruiters", "slug": "WynnResorts"}`
 - Cambria: `{"ats": "workday", "host": "cambria.wd1.myworkdayjobs.com", "site": "cambria_careers"}`
+- Wynn Resorts: `{"ats": "smartrecruiters", "slug": "WynnResorts"}`
 - VALERIS: `{"ats": "workday", "host": "valeris.wd108.myworkdayjobs.com", "site": "Valeris"}`
 - Filevine: `{"ats": "lever", "slug": "filevine"}`
 - Mozilla Corporation: `{"ats": "greenhouse", "slug": "mozilla"}`
-- Ascot Group: `{"ats": "oracle", "host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com", "site": "CX"}`
 - APRIL: `{"ats": "ashby", "slug": "april"}`
+- Ascot Group: `{"ats": "oracle", "host": "fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com", "site": "CX"}`
 - Xero: `{"ats": "ashby", "slug": "xero"}`
 - Infoblox: `{"ats": "oracle", "host": "efpv.fa.us6.oraclecloud.com", "site": "CX_1"}`
 - Amazon.com: `{"ats": "amazon"}`
@@ -239,14 +240,14 @@ Passing roles by type: ashby 10, greenhouse 26, oracle 1, phenom 21, smartrecrui
 - CRUSOE: `{"ats": "ashby", "slug": "Crusoe"}`
 - Pacific Life: `{"ats": "workday", "host": "pacificlife.wd1.myworkdayjobs.com", "site": "PacificLifeCareers"}`
 - Turner & Townsend Pty Limited: `{"ats": "smartrecruiters", "slug": "TurnerTownsend"}`
-- Jellyfish: `{"ats": "ashby", "slug": "jellyfishcareers"}`
+- Global Payments: `{"ats": "workday", "host": "tsys.wd1.myworkdayjobs.com", "site": "TSYS"}`
 - Raptive: `{"ats": "ashby", "slug": "raptive"}`
 - Global Payments: `{"ats": "workday", "host": "tsys.wd1.myworkdayjobs.com", "site": "TSYS"}`
 - Avangrid: `{"ats": "workday", "host": "iberdrola.wd3.myworkdayjobs.com", "site": "Iberdrola"}`
 - MiniMed: `{"ats": "workday", "host": "mdtkangaroo.wd108.myworkdayjobs.com", "site": "MiniMedCareers"}`
 - Vantage: `{"ats": "workday", "host": "vantagedc.wd1.myworkdayjobs.com", "site": "Vantage"}`
-- Shine Early Learning: `{"ats": "workday", "host": "acelero.wd1.myworkdayjobs.com", "site": "ShineEarlyLearningCareers"}`
 - BMO Financial Group: `{"ats": "workday", "host": "bmo.wd3.myworkdayjobs.com", "site": "External"}`
 - Wells Fargo: `{"ats": "workday", "host": "wd1.myworkdaysite.com", "tenant": "wf", "site": "WellsFargoJobs", "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs"}`
+- Shine Early Learning: `{"ats": "workday", "host": "acelero.wd1.myworkdayjobs.com", "site": "ShineEarlyLearningCareers"}`
 
-Wall time: 319s
+Wall time: 266s

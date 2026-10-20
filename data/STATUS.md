@@ -1,17 +1,10 @@
 # Collector status
 
-- Last run: 2026-10-20T14:19:24+00:00 UTC, 327s
-- Companies working: 510 of 511
-- New roles last run: 5; roles in feed: 1489
-- Universe (all other known career sites): 4619 boards, 3814 checked in the last hour, 1 errors; 1 employer names learned; 2 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 405, "remotive": 0, "senior titles from boards/aggregators": 153}
-- Companies with open roles: 470
+- Last run: 2026-10-20T15:19:16+00:00 UTC, 317s
+- Companies working: 511 of 511
+- New roles last run: 13; roles in feed: 1502
+- Universe (all other known career sites): 4621 boards, 3816 checked in the last hour, 1 errors; 4 employer names learned; 3 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 404, "himalayas": 16, "senior titles from boards/aggregators": 176}
+- Companies with open roles: 475
 - Skipped (backing off broken sites): 804; ran out of time: 0
 
-## Failing companies
-
-| Company | Failures in a row | Last error |
-|---|---:|---|
-| Anduril Industries | 1 | HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=25) |
-
-Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

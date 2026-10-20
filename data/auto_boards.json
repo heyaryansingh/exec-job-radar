@@ -524,6 +524,64 @@
 "ats": "ashby",
 "name": "fal - Features & Labels",
 "slug": "fal-ai"
+},
+{
+"ats": "workday",
+"host": "statestreet.wd1.myworkdayjobs.com",
+"name": "State Street",
+"site": "Global"
+},
+{
+"ats": "ashby",
+"name": "Outset",
+"slug": "outset"
+},
+{
+"ats": "ashby",
+"name": "ONTIC TECHNOLOGIES",
+"slug": "Ontic"
+},
+{
+"ats": "lever",
+"name": "LEMNIS",
+"slug": "lemnis"
+},
+{
+"ats": "ashby",
+"name": "Plug Technologies Inc",
+"slug": "plugmotors"
+},
+{
+"ats": "lever",
+"name": "Panopto",
+"slug": "panopto"
+},
+{
+"ats": "lever",
+"name": "Porter Cares, Inc.",
+"slug": "porter"
+},
+{
+"ats": "ashby",
+"name": "Kamino",
+"slug": "kamino"
+},
+{
+"ats": "lever",
+"name": "Megaport",
+"slug": "megaport"
+},
+{
+"ats": "workday",
+"host": "aig.wd1.myworkdayjobs.com",
+"name": "AIG GLOBAL OPERATIONS, INC.",
+"site": "aig"
+},
+{
+"ats": "workday",
+"host": "ccfs.wd503.myworkdayjobs.com",
+"name": "CrossCountry Freight Solutions",
+"site": "External_Career_Site"
 }
 ]
 }

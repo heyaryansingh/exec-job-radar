@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,220 open roles** at **436 companies** · **184 new in the last 24 hours** · 5,109 company career sites watched · updated hourly · last update Oct 19, 2026 08:11 PM ET
+**1,228 open roles** at **437 companies** · **192 new in the last 24 hours** · 5,109 company career sites watched · updated hourly · last update Oct 19, 2026 08:28 PM ET
 
-By level: Director 657 · VP 219 · Sr. Director 149 · Head 87 · EVP/SVP 37 · ED 37 · C-level 23 · MD 11
+By level: Director 659 · VP 222 · Sr. Director 150 · Head 87 · EVP/SVP 38 · ED 37 · C-level 24 · MD 11
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (184)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (192)](#new-in-the-last-24-hours)
 - [🤠 Houston area (13)](#houston-area)
-- [👑 Executive Technology Leadership (23)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (24)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (88)](#security-risk-technology)
-- [🧠 Data & AI (359)](#data-ai)
+- [🧠 Data & AI (361)](#data-ai)
 - [🚦 Reliability & Operations (61)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (127)](#cloud-infrastructure)
-- [🏛️ Architecture (32)](#architecture)
+- [🏛️ Architecture (33)](#architecture)
 - [🔄 Transformation & Delivery (159)](#transformation-delivery)
-- [🛠️ Engineering & Software (284)](#engineering-software)
-- [📌 Other Senior Roles (87)](#other-senior-roles)
+- [🛠️ Engineering & Software (286)](#engineering-software)
+- [📌 Other Senior Roles (89)](#other-senior-roles)
 - [🔒 Recently closed (6)](#recently-closed)
 - Daily digests: [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
 
@@ -47,14 +47,22 @@ By level: Director 657 · VP 219 · Sr. Director 149 · Head 87 · EVP/SVP 37 ·
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer Solution Architect - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-developer-solution-architect-vice-president/287/102176698368) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Application Development Senior Manager - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/application-development-senior-manager-vice-president/287/102161060656) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-developer-vice-president/287/102161050800) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Head of AI Solutions, COO Technology - MD (C16) | Head | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/head-of-ai-solutions-coo-technology-md-c16/287/102161042112) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineer, AI Transformation - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/forward-deployed-engineer-ai-transformation-senior-vice-president/287/102161073008) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Head of Channels & Platforms – Digital & Client Experience | Head | New York, NY, US +3 |  | 1d | [Apply](https://jobs.citi.com/job/new-york/head-of-channels-and-platforms-digital-and-client-experience/287/102161070608) |
-| The Aerospace Corporation | 🆕 Systems Director - Objective Force Planning and Integration | Director | Crystal City, VA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Crystal-City-VA/Systems-Director---Objective-Force-Planning-and-Integration_R016572) |
+| JPMorgan Chase ⭐ | 🆕 Data Governance and Protection Team - Commercial & Investment Bank Chief Data Office Lead | C-level | Newark, DE, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800152) |
+| Great Plains Manufacturing | 🆕 Director of Information Technology | Director | Salina, KS, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=31675842-64d3-4850-823a-e37f71fa6c05&ccId=19000101_000001&jobId=576961&source=IN&lang=en_US) |
+| Thermo Fisher Scientific ⭐ | 🆕 National Sr. Director, Health Systems Executives | Sr. Director | Pittsburgh, Pennsylvania, United States of |  | 1d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01370296EXTERNALENGLOBAL) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineer - Director | Director | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/forward-deployed-engineer-director/287/102161068528) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Frontend AI Automation Engineer- Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/senior-frontend-ai-automation-engineer-vice-president/287/102161067680) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Architect - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-architect-vice-president/287/102161066784) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Application Development Group Manager -Senior Vice President | EVP/SVP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-development-group-manager-senior-vice-president/287/102161066672) |
+| Citi (jobs.citi.com) ⭐ | 🆕 MarTech Data Engineering & Application Lead, Vice President | VP | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/martech-data-engineering-and-application-lead-vice-president/287/102161066480) |
 | BD | 🆕 Director ISC Data and AI | Director | Sandy, UT, USA |  | 1d | [Apply](https://jobs.bd.com/en/job/sandy/director-isc-data-and-ai/159/102168827488) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Head of AI Solutions, COO Technology - MD (C16) | Head | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/head-of-ai-solutions-coo-technology-md-c16/287/102161042112) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-developer-vice-president/287/102161050800) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Application Development Senior Manager - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/application-development-senior-manager-vice-president/287/102161060656) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Head of Channels & Platforms – Digital & Client Experience | Head | New York, NY, US +3 |  | 1d | [Apply](https://jobs.citi.com/job/new-york/head-of-channels-and-platforms-digital-and-client-experience/287/102161070608) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineer, AI Transformation - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/forward-deployed-engineer-ai-transformation-senior-vice-president/287/102161073008) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer Solution Architect - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-developer-solution-architect-vice-president/287/102176698368) |
+| The Aerospace Corporation | 🆕 Systems Director - Objective Force Planning and Integration | Director | Crystal City, VA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Crystal-City-VA/Systems-Director---Objective-Force-Planning-and-Integration_R016572) |
 | ClickHouse | 🆕 Regional VP, AMER Southwest | VP | Denver +1 | $350K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/2137b19e-a226-4e3c-8c8d-0e0ca30415e6) ⚡ |
 | ClickHouse | 🆕 Regional VP, AMER Southeast | VP | Atlanta +1 | $350K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/4c3c0f54-e955-47e2-8629-8e0c1df347a9) ⚡ |
 | Houston Methodist | 🆕 Director Telecom & Data Networks | Director | Houston, TX, USA |  | 1d | [Apply](https://click.appcast.io/t/4aBDlXxMyjXjfta1VXVONd2Tcrd00EX2-aU1zf65Ic0=) |
@@ -223,8 +231,8 @@ By level: Director 657 · VP 219 · Sr. Director 149 · Head 87 · EVP/SVP 37 ·
 | Altera | 🆕 Senior Director, Silicon Architecture and Design Engineering (Ethernet/PCIe Center of Excellence)) | Sr. Director | San Jose, California, United States | $232K–$341K | 2d | [Apply](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Director--Silicon-Architecture-and-Design-Engineering--Ethernet-_R03226) |
 | NVIDIA ⭐ | 🆕 Director, Forward Deployed Engineering - Open Models | Director | US, CA, Santa Clara |  | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Forward-Deployed-Engineering---Open-Models_JR2028004) |
 | Axos Bank | 🆕 SVP, Technology Strategy & Operations | EVP/SVP | San Diego, California |  | 3d | [Apply](https://www.linkedin.com/jobs/view/svp-technology-strategy-operations-at-axos-bank-4477743504) |
-| Sandia Area Federal Credit Union | 🆕 Chief Information Officer | C-level | Albuquerque, New Mexico |  | 3d | [Apply](https://www.linkedin.com/jobs/view/chief-information-officer-at-sandia-area-federal-credit-union-4472818827) |
 | Honeywell Technologies | 🆕 Sr Director IT Strategy & Transformation | Sr. Director | Houston, Texas | $214K–$268K | 3d | [Apply](https://www.linkedin.com/jobs/view/sr-director-it-strategy-transformation-at-honeywell-technologies-4480572984) |
+| Sandia Area Federal Credit Union | 🆕 Chief Information Officer | C-level | Albuquerque, New Mexico |  | 3d | [Apply](https://www.linkedin.com/jobs/view/chief-information-officer-at-sandia-area-federal-credit-union-4472818827) |
 | AT&T ⭐ | 🆕 Director Cybersecurity - Enterprise Network Security | Director | Middletown, New Jersey, United States |  | 3d | [Apply](https://www.att.jobs/job/middletown/director-cybersecurity-enterprise-network-security/117/102055599776) |
 | AT&T ⭐ | 🆕 Director Cybersecurity - Enterprise Network Security | Director | Atlanta, Georgia, United States |  | 3d | [Apply](https://www.att.jobs/job/atlanta/director-cybersecurity-enterprise-network-security/117/102055599792) |
 | AT&T ⭐ | 🆕 Director Cybersecurity - Enterprise Network Security | Director | Charlotte, North Carolina, United States |  | 3d | [Apply](https://www.att.jobs/job/charlotte/director-cybersecurity-enterprise-network-security/117/102055599840) |
@@ -260,6 +268,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Data Governance and Protection Team - Commercial & Investment Bank Chief Data Office Lead | C-level | Newark, DE, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800152) |
 | EPAM Systems | 🆕 Chief Technology Officer — Databricks Data & AI Platform | C-level | Remote, USA | $230K–$250K | 1d | [Apply](https://careers.epam.com/en/vacancy/bltbgo9kfba0zgmjjw7_en?country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) [alt](https://careers.epam.com/en/vacancy/bltlx5td5mwdb48gb1m_en?city=New%20York&state=NY&country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) |
 | JPMorgan Chase ⭐ | 🆕 VP - Investment Platform - CDO Data Strategy | C-level | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801448) |
 | Sandia Area Federal Credit Union | 🆕 Chief Information Officer | C-level | Albuquerque, New Mexico |  | 3d | [Apply](https://www.linkedin.com/jobs/view/chief-information-officer-at-sandia-area-federal-credit-union-4472818827) |
@@ -385,9 +394,11 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Frontend AI Automation Engineer- Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/senior-frontend-ai-automation-engineer-vice-president/287/102161067680) |
+| Citi (jobs.citi.com) ⭐ | 🆕 MarTech Data Engineering & Application Lead, Vice President | VP | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/martech-data-engineering-and-application-lead-vice-president/287/102161066480) |
+| BD | 🆕 Director ISC Data and AI | Director | Sandy, UT, USA |  | 1d | [Apply](https://jobs.bd.com/en/job/sandy/director-isc-data-and-ai/159/102168827488) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Head of AI Solutions, COO Technology - MD (C16) | Head | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/head-of-ai-solutions-coo-technology-md-c16/287/102161042112) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineer, AI Transformation - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/forward-deployed-engineer-ai-transformation-senior-vice-president/287/102161073008) |
-| BD | 🆕 Director ISC Data and AI | Director | Sandy, UT, USA |  | 1d | [Apply](https://jobs.bd.com/en/job/sandy/director-isc-data-and-ai/159/102168827488) |
 | Houston Methodist | 🆕 Director Telecom & Data Networks | Director | Houston, TX, USA |  | 1d | [Apply](https://click.appcast.io/t/4aBDlXxMyjXjfta1VXVONd2Tcrd00EX2-aU1zf65Ic0=) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineer, AI Transformation -Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/forward-deployed-engineer-ai-transformation-senior-vice-president/287/102161073040) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior AI Engineer, KYC Operations - Vice President | VP | Mumbai, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/mumbai/senior-ai-engineer-kyc-operations-vice-president/287/102161073312) |
@@ -633,10 +644,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Global Payments | Director of Data Governance Operations | Director | ALPHARETTA, GEORGIA |  | 13d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Director-of-Data-Governance-Operations-_R0073215) |
 | Merck | Director Field AI Capabilities | Director | North Wales, Pennsylvania, United States o |  | 13d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR421136ENUS) |
 | Merck | Director of Data Engineering and Analytics | Director | Rahway, New Jersey, United States of Ameri |  | 13d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR421198ENUS) |
-| Mastercard (Phenom) ⭐ | Vice President, Data Scientist (Open Finance) | VP | New York, New York, United States of Ameri |  | 13d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR292482EXTERNALENUS) |
-| Mastercard (Phenom) ⭐ | Vice President- AI, Center of Excellence | VP | San Francisco, California, United States o |  | 13d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR292885EXTERNALENUS) |
 
-_109 older roles in this section are in data/roles.json._
+_111 older roles in this section are in data/roles.json._
 
 <a name="reliability-operations"></a>
 
@@ -846,6 +855,7 @@ _109 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Architect - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-architect-vice-president/287/102161066784) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer Solution Architect - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-developer-solution-architect-vice-president/287/102176698368) |
 | Gallatin | 🆕 Senior Director, Solutions Architecture | Sr. Director | Austin, TX +2 |  | 1d | [Apply](https://jobs.ashbyhq.com/gallatin/a4c4fdf3-4247-4c65-a220-7738447429ec) ⚡ [alt](https://jobs.ashbyhq.com/gallatin/a4c4fdf3-4247-4c65-a220-7738447429ec?utm_source=qZyxO8XDee) |
 | BNY ⭐ | 🆕 Senior Vice President, Solution Architect | EVP/SVP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82101) |
@@ -1051,6 +1061,8 @@ _109 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Great Plains Manufacturing | 🆕 Director of Information Technology | Director | Salina, KS, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=31675842-64d3-4850-823a-e37f71fa6c05&ccId=19000101_000001&jobId=576961&source=IN&lang=en_US) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Application Development Group Manager -Senior Vice President | EVP/SVP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-development-group-manager-senior-vice-president/287/102161066672) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Application Development Senior Manager - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/application-development-senior-manager-vice-president/287/102161060656) |
 | Shield AI | 🆕 Director, IT Project Management (R6372) | Director | Remote | $210K–$320K | 1d | [Apply](https://jobs.lever.co/shieldai/9e9fcaca-678b-45fe-b81b-691c8ff0af39) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineering (FDE) - Director | Director | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/forward-deployed-engineering-fde-director/287/102161077024) |
@@ -1299,10 +1311,8 @@ _109 older roles in this section are in data/roles.json._
 | Wayve | Technical Director, Safety Case | Director | London, United Kingdom +1 · Remote | $290K–$426K | 18d | [Apply](https://jobs.ashbyhq.com/wayve/d042ca75-b5c2-4d47-9a98-da3e9ad45775) ⚡ |
 | Expedia Group ⭐ | Director, Technology | Director | Washington - Seattle Campus |  | 18d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Director--Technology_R-108910-1) |
 | Broadridge | VP Software Engineering, Asset Management Solutions | VP | New York, NY +1 |  | 18d | [Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/VP-Software-Engineering--Asset-Management-Solutions_JR1085913) |
-| JPMorgan Chase ⭐ | Senior Director of Software Engineering - API Marketplace | Sr. Director | Seattle, WA, United States |  | 18d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793287) |
-| CVS Health ⭐ | Lead Director, Software Product Management | Director | Work At Home-Arizona · Remote |  | 18d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Lead-Director--Software-Product-Management_R1054125) |
 
-_34 older roles in this section are in data/roles.json._
+_36 older roles in this section are in data/roles.json._
 
 <a name="other-senior-roles"></a>
 
@@ -1310,6 +1320,8 @@ _34 older roles in this section are in data/roles.json._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Thermo Fisher Scientific ⭐ | 🆕 National Sr. Director, Health Systems Executives | Sr. Director | Pittsburgh, Pennsylvania, United States of |  | 1d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01370296EXTERNALENGLOBAL) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Forward Deployed Engineer - Director | Director | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/forward-deployed-engineer-director/287/102161068528) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-java-developer-vice-president/287/102161050800) |
 | The Aerospace Corporation | 🆕 Systems Director - Objective Force Planning and Integration | Director | Crystal City, VA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Crystal-City-VA/Systems-Director---Objective-Force-Planning-and-Integration_R016572) |
 | ClickHouse | 🆕 Regional VP, AMER Southwest | VP | Denver +1 | $350K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/2137b19e-a226-4e3c-8c8d-0e0ca30415e6) ⚡ |

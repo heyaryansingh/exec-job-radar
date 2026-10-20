@@ -682,6 +682,12 @@
 "ats": "lever",
 "name": "Able Services",
 "slug": "ableserve"
+},
+{
+"ats": "workday",
+"host": "hiscox.wd3.myworkdayjobs.com",
+"name": "Hiscox",
+"site": "Hiscox_External_Site"
 }
 ]
 }

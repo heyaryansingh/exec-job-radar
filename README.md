@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,810 open roles** at **578 companies** · **192 new in the last 24 hours** · 5,220 company career sites watched · updated hourly · last update Oct 21, 2026 07:10 PM ET
+**1,812 open roles** at **579 companies** · **194 new in the last 24 hours** · 5,220 company career sites watched · updated hourly · last update Oct 21, 2026 07:29 PM ET
 
-By level: Director 896 · VP 400 · Sr. Director 202 · Head 128 · EVP/SVP 87 · ED 46 · C-level 35 · MD 16
+By level: Director 896 · VP 401 · Sr. Director 202 · Head 129 · EVP/SVP 87 · ED 46 · C-level 35 · MD 16
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (192)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (194)](#new-in-the-last-24-hours)
 - [🤠 Houston area (31)](#houston-area)
 - [👑 Executive Technology Leadership (36)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (116)](#security-risk-technology)
@@ -37,7 +37,7 @@ By level: Director 896 · VP 400 · Sr. Director 202 · Head 128 · EVP/SVP 87 �
 - [🏛️ Architecture (50)](#architecture)
 - [🔄 Transformation & Delivery (205)](#transformation-delivery)
 - [🛠️ Engineering & Software (448)](#engineering-software)
-- [📌 Other Senior Roles (155)](#other-senior-roles)
+- [📌 Other Senior Roles (157)](#other-senior-roles)
 - [🔒 Recently closed (25)](#recently-closed)
 - Daily digests: [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
 
@@ -47,6 +47,8 @@ By level: Director 896 · VP 400 · Sr. Director 202 · Head 128 · EVP/SVP 87 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Visa | 🆕 Vice President, Acceptance Technologies and Intelligent Commerce | VP | US - Foster City, CA +1 | $229K–$314K | 0d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Vice-President--Acceptance-Technologies-and-Intelligent-Commerce_REF089578W-1) |
+| Protege | 🆕 Head of Research, DataLab | Head | Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/protege/fcfea80e-3412-478d-a8af-e200cd0aa9a9) ⚡ |
 | FOX | 🆕 Senior Director, Broadcast Engineering | Sr. Director | USA - AZ - Tempe - 2010 E Centennial Cir |  | 0d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Senior-Director--Broadcast-Engineering_R50034148) |
 | Kraken | 🆕 Head of Financial Systems Engineering | Head | United States · Remote | $134K–$299K | 0d | [Apply](https://jobs.ashbyhq.com/kraken.com/c1653d03-d959-4032-8591-26a929d1e37d) ⚡ |
 | Bain & Company | 🆕 Director, AI and Machine Learning Engineering | Director | Chicago, IL, USA | $236K–$270K | 0d | [Apply](https://careers.bain.com/jobs/FolderDetail/Director-AI-and-Machine-Learning-Engineering/111321) |
@@ -1476,11 +1478,11 @@ _262 older roles in this section are in data/roles.json on the `data` branch._
 | S&P Global ⭐ | Director, Open-Source Software Manager | Director | Princeton, NJ | $174K–$200K | 3d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Princeton-NJ/Director--Open-Source-Software-Manager_331956-1) [alt](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/Director--Open-Source-Software-Manager_331956-1) |
 | State Street ⭐ | Technology Intelligence – Vice President | VP | London, England +1 |  | 3d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Technology-Intelligence---Vice-President_R-798936-1) |
 | S&P Global ⭐ | Director, Software Engineering | Director | US - VA - VIRTUAL | $110K–$225K | 4d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---VA---VIRTUAL/Director--Software-Engineering_331959-2) |
-| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Bellevue, WA, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156001656-senior-director-process-engineering-noram) ⚡ |
-| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Cary, NC, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156003224-senior-director-process-engineering-noram) ⚡ |
-| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Leonia, NJ, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156003049-senior-director-process-engineering-noram) ⚡ |
-| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Minnetonka, MN, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156001994-senior-director-process-engineering-noram) ⚡ |
 | Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Glen Allen, VA, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155996826-senior-director-process-engineering-noram) ⚡ |
+| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Bellevue, WA, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156001656-senior-director-process-engineering-noram) ⚡ |
+| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Minnetonka, MN, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156001994-senior-director-process-engineering-noram) ⚡ |
+| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Leonia, NJ, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156003049-senior-director-process-engineering-noram) ⚡ |
+| Veolia | Senior Director – Process Engineering NORAM | Sr. Director | Cary, NC, us |  | 5d | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156003224-senior-director-process-engineering-noram) ⚡ |
 | Eli Lilly | Director - Automation Engineering | Director | Boston, Massachusetts, United States of Am |  | 5d | [Apply](https://careers.lilly.com/us/en/job/LILLUSR112626EXTERNALENUS) |
 | Wpromote, LLC | VP of Engineering | VP | Remote, United States | $230K–$285K | 5d | [Apply](https://jobs.lever.co/wpromote/306fe2fa-f9da-4082-ba39-109db8f97609) ⚡ |
 | Home Depot ⭐ | Technology Director, Search and Recommendations | Director | Atlanta, GA, US · Remote |  | 5d | [Apply](https://careers.homedepot.com/job/24019127/technology-director-search-and-recommendations-remote/) |
@@ -1541,6 +1543,8 @@ _198 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Visa | 🆕 Vice President, Acceptance Technologies and Intelligent Commerce | VP | US - Foster City, CA +1 | $229K–$314K | 0d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Vice-President--Acceptance-Technologies-and-Intelligent-Commerce_REF089578W-1) |
+| Protege | 🆕 Head of Research, DataLab | Head | Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/protege/fcfea80e-3412-478d-a8af-e200cd0aa9a9) ⚡ |
 | Leonardo DRS | 🆕 Senior Director Programs - Mission Systems | Sr. Director | Washington, DC, USA | $165K–$250K | 0d | [Apply](https://careers.leonardodrs.com/job/Washington-Senior-Director-Programs-Mission-Systems-DC-20003/1442409600/) |
 | BNY ⭐ | 🆕 Senior Vice President, Full-Stack Engineer (req 80884) | EVP/SVP | Jersey City, NJ, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80884) |
 | Capital One ⭐ | 🆕 Senior Staff Full-Stack Engineer (Sr. Director - IC) | Sr. Director | New York, NY | $343K–$392K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Staff-Full-Stack-Engineer_R1001252-1) |

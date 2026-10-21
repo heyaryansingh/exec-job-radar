@@ -1,6 +1,6 @@
 # 🤠 Senior technology roles in the Houston area
 
-25 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+26 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
@@ -20,6 +20,7 @@
 | JLL ⭐ | Senior Vice President, Data Centers | EVP/SVP | Lufkin, TX +5 · Remote |  | 6d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Lufkin-TX/Senior-Vice-President--Data-Centers_REQ538652) |
 | HP | Senior Director -  Agentic AI Development | Sr. Director | Spring, Texas, United States of America +1 | $200K–$320K | 7d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Senior-Director----Agentic-AI-Development_3168693-2) |
 | JPMorgan Chase ⭐ | Vice President - Lead Site Reliability Engineer | VP | Houston, TX, United States |  | 8d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799206) |
+| Trinzic | ANTARCTICA: Business Systems Director | Director | Houston, Texas, United States of America |  | 13d | [Apply](https://careers.trinzic.com/us/en/job/KIVKBRUSR2129995EXTERNALENUS) |
 | JLL ⭐ | VP Project Controls, Data Centers | VP | Houston, TX +8 · Remote |  | 13d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/VP-Project-Controls--Data-Centers_REQ538668) |
 | Chevron ⭐ | Head of Risk Transformation | Head | Houston, Texas, United States of America |  | 13d | [Apply](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Head-of-Risk-Transformation_R000074282) |
 | Baker Tilly Canada | Managing Director, Public Sector - Fiscal Resiliency | MD | USA CA Los Angeles 11150 Santa Monica Blvd +17 | $216K–$409K | 15d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-Los-Angeles-11150-Santa-Monica-Blvd/Managing-Director--Public-Sector---Fiscal-Resiliency_JR108287) |

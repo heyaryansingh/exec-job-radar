@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,774 open roles** at **565 companies** · **191 new in the last 24 hours** · 5,217 company career sites watched · updated hourly · last update Oct 21, 2026 04:18 PM ET
+**1,774 open roles** at **565 companies** · **191 new in the last 24 hours** · 5,217 company career sites watched · updated hourly · last update Oct 21, 2026 04:24 PM ET
 
 By level: Director 886 · VP 394 · Sr. Director 190 · Head 125 · EVP/SVP 86 · ED 45 · C-level 32 · MD 16
 
@@ -47,22 +47,23 @@ By level: Director 886 · VP 394 · Sr. Director 190 · Head 125 · EVP/SVP 86 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Micron ⭐ | 🆕 Director, OEM Major Compute & Infrastructure Accounts (req JR115686) | Director | Austin, TX | $182K–$248K | 0d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Director--OEM-Major-Compute---Infrastructure-Accounts_JR115686) |
+| JPMorgan Chase ⭐ | 🆕 Vice President, Product Strategy & Transformation | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763580) |
+| Vertiv | 🆕 Director, Solution Architect-Hyperscale Power | Director | Westerville, OH, United States | $253K–$337K | 0d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284739) |
+| Vertiv | 🆕 Director, Solution Architect-Hyperscale Thermal | Director | Westerville, OH, United States | $253K–$337K | 0d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284742) |
 | CVS Health (Phenom) ⭐ | 🆕 Director, Digital Strategy & Operations | Director | Work At Home, Boston, Massachusetts,United |  | 0d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1059632EXTERNALENUS) |
+| Baker Tilly Canada | 🆕 Director, Strategy & Transformation | Director | USA PA Philadelphia +12 · Remote |  | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-PA-Philadelphia/Director--Strategy---Transformation_JR107595) |
 | BlackRock ⭐ | 🆕 Developer Platform & AI, Technology Product Manager - Director | Director | New York, NY |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Developer-Platform---AI--Technology-Product-Manager---Director_R266949) |
-| OneMain Financial | 🆕 Director - Workforce AI Enablement | Director | New York, NY | $230K–$374K | 0d | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/New-York-NY/Director---Workforce-AI-Enablement_R2610-52915) |
 | Capital One ⭐ | 🆕 Senior Staff Full-Stack Engineer (Sr. Director - IC) | Sr. Director | New York, NY | $343K–$392K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Staff-Full-Stack-Engineer_R1001252-1) |
 | Capital One ⭐ | 🆕 Staff Full-Stack Engineer (Director-IC) (req R1002273) | Director | McLean, VA +2 | $269K–$307K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1002273-1) |
 | Capital One ⭐ | 🆕 Staff Full-Stack Engineer (Director - IC) (req R1002399) | Director | McLean, VA | $269K–$307K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1002399-1) |
 | Capital One ⭐ | 🆕 Staff Full-stack Engineer (Director - IC) (req R1002870) | Director | McLean, VA | $269K–$307K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-stack-Engineer_R1002870-1) |
 | Capital One ⭐ | 🆕 Staff Full-Stack Engineer (Director - IC) (req R1003996) | Director | McLean, VA +4 | $294K–$335K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1003996-2) |
-| U.S. Bank | 🆕 BTIG: Research, Equity Research Associate, Vice President (Energy & Infrastructure) | VP | New York, NY |  | 0d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/BTIG--Research--Equity-Research-Associate--Vice-President--Energy---Infrastructure-_2026-0033093-1) |
-| JPMorgan Chase ⭐ | 🆕 Vice President, Product Strategy & Transformation | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763580) |
-| Vertiv | 🆕 Director, Solution Architect-Hyperscale Power | Director | Westerville, OH, United States | $253K–$337K | 0d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284739) |
-| Vertiv | 🆕 Director, Solution Architect-Hyperscale Thermal | Director | Westerville, OH, United States | $253K–$337K | 0d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284742) |
-| Baker Tilly Canada | 🆕 Director, Strategy & Transformation | Director | USA PA Philadelphia +12 · Remote |  | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-PA-Philadelphia/Director--Strategy---Transformation_JR107595) |
+| Micron ⭐ | 🆕 Director, OEM Major Compute & Infrastructure Accounts (req JR115686) | Director | Austin, TX | $182K–$248K | 0d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Director--OEM-Major-Compute---Infrastructure-Accounts_JR115686) |
 | MKS | 🆕 Director of Engineering | Director | Canada Richmond | $160K–$255K | 0d | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersAmericas/job/Canada-Richmond/Director-of-Engineering_R23194) |
 | nVent | 🆕 Director of Program Management – Data Center Solutions | Director | Anoka, MN, US +1 |  | 0d | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Director-of-Program-Management---Data-Center-Solutions--Hyperscalers-_R22606) |
+| OneMain Financial | 🆕 Director - Workforce AI Enablement | Director | New York, NY | $230K–$374K | 0d | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/New-York-NY/Director---Workforce-AI-Enablement_R2610-52915) |
+| U.S. Bank | 🆕 BTIG: Research, Equity Research Associate, Vice President (Energy & Infrastructure) | VP | New York, NY |  | 0d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/BTIG--Research--Equity-Research-Associate--Vice-President--Energy---Infrastructure-_2026-0033093-1) |
+| insitro.com | 🆕 Vice President, FP&A & Financial Transformation | VP | South San Francisco, CA | $300K–$345K | 0d | [Apply](https://jobs.ashbyhq.com/insitro/9d864452-e514-47ca-a77f-0481a60bffff) ⚡ [alt](https://jobs.ashbyhq.com/insitro/9d864452-e514-47ca-a77f-0481a60bffff) |
 | Community Transit | 🆕 Director of Technology Infrastructure and Security | Director | Everett, WA, USA | $137K–$205K | 0d | [Apply](https://careers-commtrans.icims.com/jobs/1960/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Compass | 🆕 Director of Engineering | Director | Madison, NJ, USA | $275K–$306K | 0d | [Apply](https://grnh.se/821lob351us) |
 | Compass | 🆕 Director of Engineering | Director | Manhattan, NY, USA | $275K–$306K | 0d | [Apply](https://grnh.se/821lob351us) |
@@ -80,7 +81,6 @@ By level: Director 886 · VP 394 · Sr. Director 190 · Head 125 · EVP/SVP 86 �
 | Capital One ⭐ | 🆕 Staff Full-Stack Engineer (Director - IC) (req R1003997) | Director | McLean, VA +1 | $269K–$307K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1003997-2) |
 | CVS Health ⭐ | 🆕 Director, Digital Strategy & Operations | Director | MA - Work from home +10 · Remote |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Work-from-home/Director--Digital-Strategy---Operations_R1059632-1) |
 | Equinix | 🆕 Senior Director AI, Chief Revenue Organization | Sr. Director | Redwood City +2 |  | 0d | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Redwood-City/Senior-Director-AI--Chief-Revenue-Organization_JR-164181) |
-| insitro.com | 🆕 Vice President, FP&A & Financial Transformation | VP | South San Francisco, CA | $300K–$345K | 0d | [Apply](https://jobs.ashbyhq.com/insitro/9d864452-e514-47ca-a77f-0481a60bffff) ⚡ [alt](https://jobs.ashbyhq.com/insitro/9d864452-e514-47ca-a77f-0481a60bffff) |
 | ACT1 Federal | 🆕 Director of Supplier Development and Production Acceleration | Director | Arlington, VA | $180K–$200K | 0d | [Apply](https://job-boards.greenhouse.io/act1federal/jobs/4462770009) ⚡ |
 | PatientPoint | 🆕 Director, Technical Program Management, Ad Tech | Director | Remote, US | $163K–$228K | 0d | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4745770005) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Product Manager, Vice President - Data Management | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780609) |
@@ -447,8 +447,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | BlackRock ⭐ | 🆕 Developer Platform & AI, Technology Product Manager - Director | Director | New York, NY |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Developer-Platform---AI--Technology-Product-Manager---Director_R266949) |
-| OneMain Financial | 🆕 Director - Workforce AI Enablement | Director | New York, NY | $230K–$374K | 0d | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/New-York-NY/Director---Workforce-AI-Enablement_R2610-52915) |
 | nVent | 🆕 Director of Program Management – Data Center Solutions | Director | Anoka, MN, US +1 |  | 0d | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Director-of-Program-Management---Data-Center-Solutions--Hyperscalers-_R22606) |
+| OneMain Financial | 🆕 Director - Workforce AI Enablement | Director | New York, NY | $230K–$374K | 0d | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/New-York-NY/Director---Workforce-AI-Enablement_R2610-52915) |
 | McCarthy Holdings | 🆕 Director, Engineering, Data & AI | Director | Houston, TX, USA |  | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oDvZAfwr&loc=Ck4oVfwr&s=Indeed) |
 | McCarthy Holdings | 🆕 Director, Engineering, Data & AI | Director | St. Louis, MO, USA |  | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oDvZAfwr&loc=C0JpVfwN&s=Indeed) |
 | JPMorgan Chase ⭐ | 🆕 Sr Director of Software Engineering- AI Infrastructure Platforms | Sr. Director | Seattle, WA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801905) |

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,654 open roles** at **532 companies** · **305 new in the last 24 hours** · 5,186 company career sites watched · updated hourly · last update Oct 21, 2026 12:49 AM ET
+**1,657 open roles** at **532 companies** · **305 new in the last 24 hours** · 5,190 company career sites watched · updated hourly · last update Oct 21, 2026 12:58 AM ET
 
-By level: Director 811 · VP 379 · Sr. Director 180 · Head 114 · EVP/SVP 84 · ED 41 · C-level 32 · MD 13
+By level: Director 813 · VP 379 · Sr. Director 181 · Head 114 · EVP/SVP 84 · ED 41 · C-level 32 · MD 13
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,12 +31,12 @@ By level: Director 811 · VP 379 · Sr. Director 180 · Head 114 · EVP/SVP 84 �
 - [🤠 Houston area (26)](#houston-area)
 - [👑 Executive Technology Leadership (33)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (106)](#security-risk-technology)
-- [🧠 Data & AI (482)](#data-ai)
+- [🧠 Data & AI (483)](#data-ai)
 - [🚦 Reliability & Operations (92)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (163)](#cloud-infrastructure)
 - [🏛️ Architecture (44)](#architecture)
 - [🔄 Transformation & Delivery (187)](#transformation-delivery)
-- [🛠️ Engineering & Software (408)](#engineering-software)
+- [🛠️ Engineering & Software (410)](#engineering-software)
 - [📌 Other Senior Roles (139)](#other-senior-roles)
 - [🔒 Recently closed (16)](#recently-closed)
 - Daily digests: [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
@@ -47,13 +47,13 @@ By level: Director 811 · VP 379 · Sr. Director 180 · Head 114 · EVP/SVP 84 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Fidelity ⭐ | 🆕 Director, Architecture | Director | Smithfield, RI |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Smithfield-RI/Director--Architecture_2137027-1) |
-| Fidelity ⭐ | 🆕 Director, Data Engineering | Director | 100 New Millennium Way, Bldg 2, Durham NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Director--Data-Engineering_2137039) |
-| Fidelity ⭐ | 🆕 Director, Full Stack Engineering | Director | Durham, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Full-Stack-Engineering_2137032) |
-| Fidelity ⭐ | 🆕 Director, Software Engineering | Director | 100 New Millennium Way, Bldg 2, Durham NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Director--Software-Engineering_2137018) |
-| Fidelity ⭐ | 🆕 Director, Software Engineering | Director | Merrimack, NH |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director--Software-Engineering_2137021) |
 | DeMayo Law Offices, LLP | 🆕 Director of IT Operations | Director | Charlotte, NC, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4602028/DeMayo-Law-Offices-LLP/Director-of-IT-Operations?source=Indeed_Feed) |
 | Quanta Infrastructure Solutions Group | 🆕 Director, Engineering - Transportation | Director | Dallas, TX, USA |  | 0d | [Apply](https://careers2-quanta.icims.com/jobs/19440/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Fidelity ⭐ | 🆕 Director, Software Engineering | Director | 100 New Millennium Way, Bldg 2, Durham NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Director--Software-Engineering_2137018) |
+| Fidelity ⭐ | 🆕 Director, Software Engineering | Director | Merrimack, NH |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director--Software-Engineering_2137021) |
+| Fidelity ⭐ | 🆕 Director, Architecture | Director | Smithfield, RI |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Smithfield-RI/Director--Architecture_2137027-1) |
+| Fidelity ⭐ | 🆕 Director, Full Stack Engineering | Director | Durham, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Full-Stack-Engineering_2137032) |
+| Fidelity ⭐ | 🆕 Director, Data Engineering | Director | 100 New Millennium Way, Bldg 2, Durham NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Director--Data-Engineering_2137039) |
 | Rad AI | 🆕 Head of Quality Engineering | Head | San Francisco - Onsite | $215K–$250K | 0d | [Apply](https://jobs.ashbyhq.com/radai/9c99baec-66cb-420c-bed4-9ebb58311b86) ⚡ |
 | Coke Florida | 🆕 Technology Director, IT Infrastructure, Cyber and Service Delivery | Director | Jacksonville, FL, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/cokeflorida/CANDIDATEPORTAL/jobs/78621) |
 | New York Life | 🆕 Corporate Vice President - Head of Technology Learning & AI Enablement | VP | New York, NY, USA | $160K–$228K | 0d | [Apply](https://careers.newyorklife.com/careers/job/44980831) |
@@ -775,6 +775,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | State Street ⭐ | Data Solutions Architect, Charles River Development – Managing Director | MD | Burlington Massachusetts | $170K–$268K | 6d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--MD_R-792933) |
 | Databricks ⭐ | Product Finance Director, AI Products & GPU Investment Strategy | Director | Mountain View, California +2 | $224K–$308K | 6d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8823189002) ⚡ |
 | Capital One ⭐ | Director, Data Science - Consumer and Developer Experience (Remote-Eligible) | Director | McLean, VA +6 · Remote | $294K–$335K | 6d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Science---Consumer-and-Developer-Experience--Remote-Eligible-_R1003792-1) |
+| Snowflake | Director, Product Management - Data Transformation (Frontier Engineering) | Director | Menlo Park, California, United States |  | 7d | [Apply](https://careers.snowflake.com/us/en/job/SNCOUSF4F6B8F160E64A9F85FD401DC17BC705EXTERNALENUS2C1EDE0E02C94F74B084FC1F5CCD83E2) |
 | GSK | ViiV Healthcare (GSK) Head of Data and Technology Strategy | Head | Durham, North Carolina, United States of A |  | 7d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB449450EXTERNALENGB) |
 | Merck | Director, Study Data Services (Hybrid) | Director | Rahway, New Jersey, United States of Ameri |  | 7d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR422205ENUS) [alt](https://jobs.merck.com/us/en/job/MERCUSR422210ENUS) |
 | Natera | Data Privacy Director | Director | US Remote |  | 7d | [Apply](https://job-boards.greenhouse.io/natera/jobs/6224695004) ⚡ |
@@ -791,9 +792,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | JPMorgan Chase ⭐ | Data Owner Vice President - Card Data Analytics | VP | Brooklyn, NY, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784621) |
 | JPMorgan Chase ⭐ | Vice President, AI Transformation Community of Practice (CoP) – Program Manager | VP | Chicago, IL, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797266) |
 | JPMorgan Chase ⭐ | Executive Director, AI Transformation Community of Practice (CoP) | ED | New York, NY, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797280) |
-| JPMorgan Chase ⭐ | Data Product Owner-Executive Director | ED | New York, NY, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798425) |
 
-_232 older roles in this section are in data/roles.json on the `data` branch._
+_233 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1315,10 +1315,10 @@ _232 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Fidelity ⭐ | 🆕 Director, Full Stack Engineering | Director | Durham, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Full-Stack-Engineering_2137032) |
+| Quanta Infrastructure Solutions Group | 🆕 Director, Engineering - Transportation | Director | Dallas, TX, USA |  | 0d | [Apply](https://careers2-quanta.icims.com/jobs/19440/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering | Director | 100 New Millennium Way, Bldg 2, Durham NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Director--Software-Engineering_2137018) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering | Director | Merrimack, NH |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director--Software-Engineering_2137021) |
-| Quanta Infrastructure Solutions Group | 🆕 Director, Engineering - Transportation | Director | Dallas, TX, USA |  | 0d | [Apply](https://careers2-quanta.icims.com/jobs/19440/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Fidelity ⭐ | 🆕 Director, Full Stack Engineering | Director | Durham, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Full-Stack-Engineering_2137032) |
 | Rad AI | 🆕 Head of Quality Engineering | Head | San Francisco - Onsite | $215K–$250K | 0d | [Apply](https://jobs.ashbyhq.com/radai/9c99baec-66cb-420c-bed4-9ebb58311b86) ⚡ |
 | West Side Beer Distributing | 🆕 Director of IT | Director | Romulus, MI, USA |  | 0d | [Apply](https://www.westsidebeer.com/careers?gnk=job&gni=8a78839ea150ae2901a15a0d5e882427&gns=Indeed+Free) |
 | Woods Rogers | 🆕 Director of Information Technology | Director | Lynchburg, VA, USA | $175K–$250K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fa27999-2e0f-4854-8f4f-3f18553518f1&ccId=19000101_000001&jobId=544844&source=IN&lang=en_US) |
@@ -1566,7 +1566,7 @@ _232 older roles in this section are in data/roles.json on the `data` branch._
 | onsemi | Senior Director, IGBT Technology Development | Sr. Director | Scottsdale, AZ, United States |  | 9d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506920) |
 | Okgov | OID Health Exchange Technology Director | Director | Oklahoma County |  | 9d | [Apply](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/OID-Health-Exchange-Technology-Director_JR66478) |
 
-_158 older roles in this section are in data/roles.json on the `data` branch._
+_160 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

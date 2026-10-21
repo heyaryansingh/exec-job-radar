@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,664 open roles** at **534 companies** · **247 new in the last 24 hours** · 5,190 company career sites watched · updated hourly · last update Oct 21, 2026 03:39 AM ET
+**1,664 open roles** at **534 companies** · **232 new in the last 24 hours** · 5,193 company career sites watched · updated hourly · last update Oct 21, 2026 04:39 AM ET
 
 By level: Director 817 · VP 380 · Sr. Director 183 · Head 114 · EVP/SVP 84 · ED 41 · C-level 32 · MD 13
 
@@ -27,7 +27,7 @@ By level: Director 817 · VP 380 · Sr. Director 183 · Head 114 · EVP/SVP 84 �
 
 ## Contents
 
-- [🆕 New in the last 24 hours (247)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (232)](#new-in-the-last-24-hours)
 - [🤠 Houston area (26)](#houston-area)
 - [👑 Executive Technology Leadership (33)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (108)](#security-risk-technology)
@@ -47,9 +47,9 @@ By level: Director 817 · VP 380 · Sr. Director 183 · Head 114 · EVP/SVP 84 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Qualys | 🆕 Senior Director, Government Product Security Management | Sr. Director | NC, USA |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina/Senior-Director--Government-Product-Security-Management_R0005099) |
-| Coke Florida | 🆕 Technology Director, IT Infrastructure, Cyber and Service Delivery | Director | Tampa, FL, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/cokeflorida/CANDIDATEPORTAL/jobs/78621) |
 | Cisco | 🆕 Director, Physical AI | Director | San Jose, CA, USA | $203K–$334K | 0d | [Apply](https://careers.cisco.com/global/en/job/2027720) |
+| Coke Florida | 🆕 Technology Director, IT Infrastructure, Cyber and Service Delivery | Director | Tampa, FL, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/cokeflorida/CANDIDATEPORTAL/jobs/78621) |
+| Qualys | 🆕 Senior Director, Government Product Security Management | Sr. Director | NC, USA |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina/Senior-Director--Government-Product-Security-Management_R0005099) |
 | RealmOne | 🆕 Senior Director – Artificial Intelligence/Super Intelligence | Sr. Director | Columbia, MD, USA | $260K–$290K | 0d | [Apply](https://realmone.com/job/senior-director-artificial-intelligence-super-intelligence/) |
 | Woods Rogers | 🆕 Director of Information Technology | Director | Norfolk, VA, USA | $175K–$250K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fa27999-2e0f-4854-8f4f-3f18553518f1&ccId=19000101_000001&jobId=544844&source=IN&lang=en_US) |
 | Fidelity ⭐ | 🆕 Vice President, Architecture | VP | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Vice-President--Architecture_2137031) |
@@ -219,11 +219,6 @@ By level: Director 817 · VP 380 · Sr. Director 183 · Head 114 · EVP/SVP 84 �
 | S&P Global ⭐ | 🆕 Head of Enterprise Digital Assets & Tokenization | Head | New York, NY | $185K–$265K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Head-of-Enterprise-Digital-Assets---Tokenization_331697-1) |
 | Salesforce ⭐ | 🆕 Senior Director, Forward Deployed Engineering | Sr. Director | California - San Francisco +2 | $216K–$329K | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director-Sr-Director-Expert-Agent-Builder--Forward-Deployed-Engineering_JR362497) |
 | Takeaway | 🆕 Director - Data Science & Machine Learning (Logistics) | Director | Fleet Place Office |  | 1d | [Apply](https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Fleet-Place-Office/Director---Data-Science---Machine-Learning--Logistics-_R_053917) |
-| DartPoints | 🆕 VICE PRESIDENT OF DATA CENTER QA/QC AND COMMI | VP | USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f58ac07c-7f17-460e-a6a3-08b3396d4661&ccId=19000101_000001&jobId=20760&source=IN&lang=en_US) |
-| Filinvest Group | 🆕 Head of Information Security & Enterprise Risk Management | Head | Remote (United States) |  | 1d | [Apply](https://himalayas.app/companies/filinvest-group/jobs/head-of-information-security-enterprise-risk-management-6920043729?utm_source=api) |
-| National Debt Relief, LLC. | 🆕 Director of Security Operations | Director | Remote (United States) | $198K–$227K | 1d | [Apply](https://himalayas.app/companies/national-debt-relief-llc/jobs/director-of-security-operations?utm_source=api) |
-| TheHiveCareers | 🆕 Chief Digital Assets Officer (CDAO) | C-level | Remote (Bahamas) |  | 1d | [Apply](https://himalayas.app/companies/thehivecareers/jobs/chief-digital-assets-officer-cdao-4994907306?utm_source=api) |
-| Orchard Marketing New York | 🆕 Orchard - VP, Client Services & Digital Transformation (Atlanta) | VP | New York, New York, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/Enero/6000000001505689-orchard-vp-client-services-digital-transformation-atlanta-) ⚡ |
 | Storm4 | 🆕 Chief Technology Officer - Storm4 | C-level | Mt Pleasant, Pennsylvania |  | 2d | [Apply](https://www.talent.com/es/view?id=642094330665502770) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Big Data / PySpark Engineering Lead - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/big-data-pyspark-engineering-lead-vice-president/287/102161038880) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Fullstack Integration Developer Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/fullstack-integration-developer-vice-president/287/102161039200) |
@@ -284,16 +279,6 @@ By level: Director 817 · VP 380 · Sr. Director 183 · Head 114 · EVP/SVP 84 �
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Agentic AI Engineer (VP) | VP | Tampa, FL, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/tampa/senior-agentic-ai-engineer-vp/287/102161044912) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/full-stack-engineer-vice-president/287/102161044944) |
 | Citi (jobs.citi.com) ⭐ | 🆕 GenAI Tech Lead- Senior Vice President | EVP/SVP | Tampa, FL, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/tampa/genai-tech-lead-senior-vice-president/287/102161044976) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Platform Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-data-platform-engineer-vice-president/287/102161045248) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Python GEN AI Development Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-python-gen-ai-development-vice-president/287/102161045488) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Java/React Technical Lead - Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/full-stack-java-react-technical-lead-vice-president/287/102161045872) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Productivity Enablement Lead – Engineering Excellence Director | Director | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/productivity-enablement-lead-engineering-excellence-director/287/102161046048) |
-| Citi (jobs.citi.com) ⭐ | 🆕 CitiDirect Senior Java Dev for Payments Modernization – Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/citidirect-senior-java-dev-for-payments-modernization-vice-president/287/102161046480) |
-| Citi (jobs.citi.com) ⭐ | 🆕 CitiDirect Senior Java Dev for Payments Modernization – Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/citidirect-senior-java-dev-for-payments-modernization-vice-president/287/102161046528) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Lead Software Engineer, Payment Systems - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/senior-lead-software-engineer-payment-systems-vice-president/287/102161046672) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Engineer - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-engineer-senior-vice-president/287/102161046688) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Python Architect/Developer - Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161046784) [alt](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161045536) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Python Developer - Quant Models AI Automation - Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/senior-python-developer-quant-models-ai-automation-vice-president/287/102161046896) |
 
 <a name="houston-area"></a>
 
@@ -340,7 +325,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | LPL Financial | 🆕 EVP, Head of Production Services & Reliability Engineering | EVP/SVP | Fort Mill/Charlotte |  | 1d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/EVP--Head-of-Production-Services---Reliability-Engineering_R-054448) |
 | Wellington Management ⭐ | 🆕 Chief Information Officer, Client Platform | C-level | Boston, MA, United States +1 |  | 1d | [Apply](https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Chief-Information-Officer--Client-Platform_R95062-1) |
 | Boeing ⭐ | 🆕 Mission Systems Software Chief Architect | C-level | USA - Berkeley, MO | $178K–$240K | 1d | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Mission-Systems-Software-Chief-Architect_JR2026520208) |
-| TheHiveCareers | 🆕 Chief Digital Assets Officer (CDAO) | C-level | Remote (Bahamas) |  | 1d | [Apply](https://himalayas.app/companies/thehivecareers/jobs/chief-digital-assets-officer-cdao-4994907306?utm_source=api) |
+| TheHiveCareers | Chief Digital Assets Officer (CDAO) | C-level | Remote (Bahamas) |  | 1d | [Apply](https://himalayas.app/companies/thehivecareers/jobs/chief-digital-assets-officer-cdao-4994907306?utm_source=api) |
 | BillD | Chief Technology & Product Officer | C-level | Austin, TX, USA |  | 1d | [Apply](https://billd.bamboohr.com/careers/274?source=indeed&src=indeed&postedDate=2026-10-19) |
 | TheHiveCareers | Chief Information Security Officer (CISO) — Insurance & Investments | C-level | Remote (Saint Vincent and the Grenadines) |  | 1d | [Apply](https://himalayas.app/companies/thehivecareers/jobs/chief-information-security-officer-ciso-insurance-investments-3346353950?utm_source=api) [alt](https://himalayas.app/companies/thehivecareers/jobs/chief-information-security-officer-ciso-insurance-investments-8823962850?utm_source=api) |
 | JPMorgan Chase ⭐ | Data Governance and Protection Team - Commercial & Investment Bank Chief Data Office Lead | C-level | Newark, DE, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800152) |
@@ -376,8 +361,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Qualys | 🆕 Senior Director, Government Product Security Management | Sr. Director | NC, USA |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina/Senior-Director--Government-Product-Security-Management_R0005099) |
 | Coke Florida | 🆕 Technology Director, IT Infrastructure, Cyber and Service Delivery | Director | Tampa, FL, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/cokeflorida/CANDIDATEPORTAL/jobs/78621) |
+| Qualys | 🆕 Senior Director, Government Product Security Management | Sr. Director | NC, USA |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina/Senior-Director--Government-Product-Security-Management_R0005099) |
 | Coke Florida | 🆕 Technology Director, IT Infrastructure, Cyber and Service Delivery | Director | Jacksonville, FL, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/cokeflorida/CANDIDATEPORTAL/jobs/78621) |
 | State Street ⭐ | 🆕 AI and Automation Lead for Cyber Application Compliance - VP | VP | Quincy, Massachusetts +3 | $120K–$202K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Security-Automation-Engineer-Officer_R-794581) |
 | Superior Essex | 🆕 Director, IT Security & Infrastructure | Director | Atlanta, GA, USA |  | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001230752706&c=1145111&d=ExternalEssexSolutions&rb=INDEED&idUnique=5001230752706) |
@@ -386,8 +371,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | CVS Health (Phenom) ⭐ | 🆕 Executive Director - Cyber Defense Operations | ED | Work at Home, Connecticut, United States |  | 1d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0931983EXTERNALENUS) |
 | CVS Health ⭐ | 🆕 Executive Director - Cyber Defense Operations | ED | CT - Hartford · Remote |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Exec-Director--Cyber-Defense-Operations_R0931983) |
 | CoreWeave ⭐ | 🆕 Director, Product Security | Director | Livingston, NJ / New York, NY / Sunnyvale, | $227K–$303K | 1d | [Apply](https://coreweave.com/careers/job?4720649006&board=coreweave&gh_jid=4720649006) ⚡ |
-| Filinvest Group | 🆕 Head of Information Security & Enterprise Risk Management | Head | Remote (United States) |  | 1d | [Apply](https://himalayas.app/companies/filinvest-group/jobs/head-of-information-security-enterprise-risk-management-6920043729?utm_source=api) |
-| National Debt Relief, LLC. | 🆕 Director of Security Operations | Director | Remote (United States) | $198K–$227K | 1d | [Apply](https://himalayas.app/companies/national-debt-relief-llc/jobs/director-of-security-operations?utm_source=api) |
+| Filinvest Group | Head of Information Security & Enterprise Risk Management | Head | Remote (United States) |  | 1d | [Apply](https://himalayas.app/companies/filinvest-group/jobs/head-of-information-security-enterprise-risk-management-6920043729?utm_source=api) |
+| National Debt Relief, LLC. | Director of Security Operations | Director | Remote (United States) | $198K–$227K | 1d | [Apply](https://himalayas.app/companies/national-debt-relief-llc/jobs/director-of-security-operations?utm_source=api) |
 | Wipro | Senior Director - Cyber Advisory, Risk & Compliance | Sr. Director | New York, NY, USA | $200K–$280K | 1d | [Apply](https://careers.wipro.com/job/Senior-Director-Cyber-Advisory%2C-Risk-&-Compliance/211676-en_US) |
 | Citi (jobs.citi.com) ⭐ | 🆕 SVP Central Risk Technology Lead | EVP/SVP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/svp-central-risk-technology-lead/287/102161039392) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Security Engineer – Digital Assets Platform - VP | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/senior-security-engineer-digital-assets-platform-vp/287/102161044480) |
@@ -530,7 +515,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Ares Insurance Solutions | 🆕 Vice President, AI Engineer | VP | New York, NY | $250K–$270K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--AI-Engineer_R8603) |
 | Humana ⭐ | 🆕 Director, AI Engineering | Director | Louisville, KY +2 | $189K–$260K | 1d | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Director--AI-Engineering_R-428390) |
 | Takeaway | 🆕 Director - Data Science & Machine Learning (Logistics) | Director | Fleet Place Office |  | 1d | [Apply](https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Fleet-Place-Office/Director---Data-Science---Machine-Learning--Logistics-_R_053917) |
-| DartPoints | 🆕 VICE PRESIDENT OF DATA CENTER QA/QC AND COMMI | VP | USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f58ac07c-7f17-460e-a6a3-08b3396d4661&ccId=19000101_000001&jobId=20760&source=IN&lang=en_US) |
+| DartPoints | VICE PRESIDENT OF DATA CENTER QA/QC AND COMMI | VP | USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f58ac07c-7f17-460e-a6a3-08b3396d4661&ccId=19000101_000001&jobId=20760&source=IN&lang=en_US) |
 | Meta | Business Operations Director, Infrastructure Data Centers | Director | Remote, USA | $211K–$272K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002MAvUAM_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1744866006739403%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D7726a905-cbfb-11f1-8165-af41476b087c%26rx_job%3Da1KiE0000002MAvUAM_1001%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261020T060408Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | Cresset | DIRECTOR, HEAD OF AI ENGINEERING & AUTOMATION | Head | Scottsdale, AZ, USA | $175K–$200K | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/67EEDFE4A70A8BA58D64627B3658C677/jobs/366904?source=Indeed) |
 | Walmart | Director, Software Engineering - Walmart Data Ventures | Director | Bellevue, WA, USA | $156K–$312K | 1d | [Apply](https://click.appcast.io/t/e6MJjFEGDNDyRRH8HHWJU61NWVHTRnl-8nuIEytaDO8=) |
@@ -558,9 +543,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | 🆕 Data Quality Tech Lead VP | VP | Chennai, TN, IN |  | 2d | [Apply](https://jobs.citi.com/job/chennai/data-quality-tech-lead-vp/287/102161044320) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Agentic AI Engineer (VP) | VP | Tampa, FL, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/tampa/senior-agentic-ai-engineer-vp/287/102161044912) |
 | Citi (jobs.citi.com) ⭐ | 🆕 GenAI Tech Lead- Senior Vice President | EVP/SVP | Tampa, FL, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/tampa/genai-tech-lead-senior-vice-president/287/102161044976) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Platform Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-data-platform-engineer-vice-president/287/102161045248) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Python GEN AI Development Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-python-gen-ai-development-vice-president/287/102161045488) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Python Developer - Quant Models AI Automation - Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/senior-python-developer-quant-models-ai-automation-vice-president/287/102161046896) |
+| Citi (jobs.citi.com) ⭐ | Senior Data Platform Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-data-platform-engineer-vice-president/287/102161045248) |
+| Citi (jobs.citi.com) ⭐ | Senior Python GEN AI Development Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-python-gen-ai-development-vice-president/287/102161045488) |
+| Citi (jobs.citi.com) ⭐ | Senior Python Developer - Quant Models AI Automation - Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/senior-python-developer-quant-models-ai-automation-vice-president/287/102161046896) |
 | Citi (jobs.citi.com) ⭐ | AI-Augmented Full-Stack Engineer - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/ai-augmented-full-stack-engineer-vice-president/287/102161047008) |
 | Citi (jobs.citi.com) ⭐ | Lead Gen AI Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/lead-gen-ai-engineer-vice-president/287/102161047024) [alt](https://jobs.citi.com/job/pune/lead-gen-ai-engineer-vice-president/287/102161046960) |
 | Citi (jobs.citi.com) ⭐ | Senior Software Engineer, Java and AI Development - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/senior-software-engineer-java-and-ai-development-vice-president/287/102161047104) |
@@ -1025,7 +1010,7 @@ _235 older roles in this section are in data/roles.json on the `data` branch._
 | Farmers Insurance Group | FBS (Mexico) Enterprise Architecture Director SLDC | Director | DE, USA |  | 1d | [Apply](https://jobs.farmersinsurance.com/job/Ciudad-de-Mexico-FBS-%28Mexico%29-Enterprise-Architecture-Director-SLDC/1375295057/) |
 | Citi (jobs.citi.com) ⭐ | 🆕 SVP Next Gen Electronic Trading Technology Lead & Architect | EVP/SVP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/svp-next-gen-electronic-trading-technology-lead-and-architect/287/102161039408) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Solutions Architect-Vice President | VP | New York, NY, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/new-york/solutions-architect-vice-president/287/102161043056) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Python Architect/Developer - Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161046784) [alt](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161045536) |
+| Citi (jobs.citi.com) ⭐ | Senior Python Architect/Developer - Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161046784) [alt](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161045536) |
 | Citi (jobs.citi.com) ⭐ | Lead Architect - Vice President | VP | Chennai, TN, IN |  | 2d | [Apply](https://jobs.citi.com/job/chennai/lead-architect-vice-president/287/102161047520) |
 | Citi (jobs.citi.com) ⭐ | Lead Solutions Architect (VP) | VP | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/lead-solutions-architect-vp/287/102161048160) |
 | Citi (jobs.citi.com) ⭐ | Finance Technology Business Architect, Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/finance-technology-business-architect-vice-president/287/102161049120) |
@@ -1086,12 +1071,12 @@ _235 older roles in this section are in data/roles.json on the `data` branch._
 | Global Payments | 🆕 Transformation Director | Director | ALPHARETTA, GEORGIA |  | 1d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Transformation-Director_R0072975) |
 | Hiscox | 🆕 Director of Technology Product Delivery | Director | Atlanta +1 | $180K–$312K | 1d | [Apply](https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/Atlanta/Director-of-Technology-Product-Delivery_R0020536) |
 | S&P Global ⭐ | 🆕 Head of Enterprise Digital Assets & Tokenization | Head | New York, NY | $185K–$265K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Head-of-Enterprise-Digital-Assets---Tokenization_331697-1) |
-| Orchard Marketing New York | 🆕 Orchard - VP, Client Services & Digital Transformation (Atlanta) | VP | New York, New York, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/Enero/6000000001505689-orchard-vp-client-services-digital-transformation-atlanta-) ⚡ |
+| Orchard Marketing New York | Orchard - VP, Client Services & Digital Transformation (Atlanta) | VP | New York, New York, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/Enero/6000000001505689-orchard-vp-client-services-digital-transformation-atlanta-) ⚡ |
 | Sony Interactive Entertainment | Senior Director, Digital Games Monetization | Sr. Director | San Mateo, CA, USA | $251K–$377K | 1d | [Apply](https://grnh.se/qvwx63ie4us) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Digital S/W Sr Engineer - Vice President | VP | Jacksonville, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/jacksonville/digital-s-w-sr-engineer-vice-president/287/102161040208) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Digital Design Service Pillar Lead - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/digital-design-service-pillar-lead-senior-vice-president/287/102161041184) |
-| Citi (jobs.citi.com) ⭐ | 🆕 CitiDirect Senior Java Dev for Payments Modernization – Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/citidirect-senior-java-dev-for-payments-modernization-vice-president/287/102161046480) |
-| Citi (jobs.citi.com) ⭐ | 🆕 CitiDirect Senior Java Dev for Payments Modernization – Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/citidirect-senior-java-dev-for-payments-modernization-vice-president/287/102161046528) |
+| Citi (jobs.citi.com) ⭐ | CitiDirect Senior Java Dev for Payments Modernization – Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/citidirect-senior-java-dev-for-payments-modernization-vice-president/287/102161046480) |
+| Citi (jobs.citi.com) ⭐ | CitiDirect Senior Java Dev for Payments Modernization – Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/citidirect-senior-java-dev-for-payments-modernization-vice-president/287/102161046528) |
 | Citi (jobs.citi.com) ⭐ | Program Management Lead, Vice President | VP | Getzville, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/getzville/program-management-lead-vice-president/287/102161051568) |
 | Citi (jobs.citi.com) ⭐ | Senior Vice President, Head of Digital Wealth Portfolio | EVP/SVP | Kowloon, KKC, HK |  | 2d | [Apply](https://jobs.citi.com/job/kowloon/senior-vice-president-head-of-digital-wealth-portfolio/287/102161052208) |
 | PlayStation Global | Senior Director, Digital Games Monetization | Sr. Director | United States, San Mateo, CA | $251K–$377K | 2d | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6225249004) ⚡ |
@@ -1337,9 +1322,9 @@ _235 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 Applications Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/applications-development-group-manager-senior-vice-president/287/102161044464) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Software Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-java-software-engineer-vice-president/287/102161044624) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Application Development Lead (Java) - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/application-development-lead-java-senior-vice-president/287/102161044640) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Java/React Technical Lead - Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/full-stack-java-react-technical-lead-vice-president/287/102161045872) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Productivity Enablement Lead – Engineering Excellence Director | Director | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/productivity-enablement-lead-engineering-excellence-director/287/102161046048) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Lead Software Engineer, Payment Systems - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/senior-lead-software-engineer-payment-systems-vice-president/287/102161046672) |
+| Citi (jobs.citi.com) ⭐ | Full Stack Java/React Technical Lead - Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/full-stack-java-react-technical-lead-vice-president/287/102161045872) |
+| Citi (jobs.citi.com) ⭐ | Productivity Enablement Lead – Engineering Excellence Director | Director | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/productivity-enablement-lead-engineering-excellence-director/287/102161046048) |
+| Citi (jobs.citi.com) ⭐ | Senior Lead Software Engineer, Payment Systems - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/senior-lead-software-engineer-payment-systems-vice-president/287/102161046672) |
 | Citi (jobs.citi.com) ⭐ | Apps Development Group Manager - Senior Vice President | EVP/SVP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/apps-development-group-manager-senior-vice-president/287/102161047248) |
 | Citi (jobs.citi.com) ⭐ | Senior Lead Software Engineer Securities Finance SVP | EVP/SVP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-lead-software-engineer-securities-finance-svp/287/102161047264) [alt](https://jobs.citi.com/job/jersey-city/senior-lead-software-engineer-securities-finance-svp/287/102161046368) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Engineering Lead (Payments Technology) — Vice President | VP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/senior-java-engineering-lead-payments-technology-vice-president/287/102161047600) |
@@ -1548,7 +1533,7 @@ _162 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 Java Full Stack Developer - VP | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/java-full-stack-developer-vp/287/102161043392) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Angular Engineer - Tech Lead - Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-java-angular-engineer-tech-lead-vice-president/287/102161043552) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/full-stack-engineer-vice-president/287/102161044944) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Engineer - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-engineer-senior-vice-president/287/102161046688) |
+| Citi (jobs.citi.com) ⭐ | Full Stack Engineer - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-engineer-senior-vice-president/287/102161046688) |
 | Citi (jobs.citi.com) ⭐ | Senior Databricks Engineer, Apache Spark and AWS - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-databricks-engineer-apache-spark-and-aws-vice-president/287/102161047360) |
 | Citi (jobs.citi.com) ⭐ | Principal Engineer - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/principal-engineer-senior-vice-president/287/102161047584) |
 | Citi (jobs.citi.com) ⭐ | Lead Front End Engineer – React (VP) | VP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/lead-front-end-engineer-react-vp/287/102161047664) |

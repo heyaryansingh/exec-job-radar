@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-26 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+27 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Circle | 🆕 Director, Partner Management, Americas | Director | San Francisco - remote first in US +24 | $195K–$242K | 0d | [Apply](https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Director--Partner-Management--Americas_JR101172) |
 | Anuvu | 🆕 VP Information Technology US | VP | Houston, TX, USA |  | 1d | [Apply](https://anuvuops.rec.pro.ukg.net/ANU1500AOLC/JobBoard/2b927c57-047a-489a-8890-53c54ec0b3c8/OpportunityDetail?opportunityId=ad34cf94-55a4-42dd-b5e3-f450de431df6&postingId=c8192f0e-95ec-46e4-81f8-f4b6455561f7) |
 | Fervo Energy | 🆕 Head of Origination | Head | Houston, TX |  | 1d | [Apply](https://job-boards.greenhouse.io/fervoenergy/jobs/4459143009) ⚡ |
 | Fluence Energy | 🆕 Vice President, Global Services Operations & Excellence | VP | Netherlands - Amsterdam +3 · Remote |  | 1d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/fluenceenergy-jobs/job/Netherlands---Amsterdam/Vice-President--Global-Services-Operations---Excellence_JR101522-1) |

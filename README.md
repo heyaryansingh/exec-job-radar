@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,671 open roles** at **536 companies** · **217 new in the last 24 hours** · 5,195 company career sites watched · updated hourly · last update Oct 21, 2026 06:18 AM ET
+**1,671 open roles** at **536 companies** · **200 new in the last 24 hours** · 5,195 company career sites watched · updated hourly · last update Oct 21, 2026 06:39 AM ET
 
 By level: Director 823 · VP 380 · Sr. Director 183 · Head 115 · EVP/SVP 84 · ED 41 · C-level 32 · MD 13
 
@@ -27,7 +27,7 @@ By level: Director 823 · VP 380 · Sr. Director 183 · Head 115 · EVP/SVP 84 �
 
 ## Contents
 
-- [🆕 New in the last 24 hours (217)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (200)](#new-in-the-last-24-hours)
 - [🤠 Houston area (26)](#houston-area)
 - [👑 Executive Technology Leadership (33)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (108)](#security-risk-technology)
@@ -70,8 +70,8 @@ By level: Director 823 · VP 380 · Sr. Director 183 · Head 115 · EVP/SVP 84 �
 | Scotiabank | 🆕 Director, Senior Product Manager, GCM Transformation | Director | Dallas, TX, USA |  | 0d | [Apply](https://jobs.scotiabank.com/job/Dallas-Director%2C-Senior-Product-Manager%2C-GCM-Transformation-TX-75219/607211917/) |
 | West Side Beer Distributing | 🆕 Director of IT | Director | Romulus, MI, USA |  | 0d | [Apply](https://www.westsidebeer.com/careers?gnk=job&gni=8a78839ea150ae2901a15a0d5e882427&gns=Indeed+Free) |
 | Woods Rogers | 🆕 Director of Information Technology | Director | Lynchburg, VA, USA | $175K–$250K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fa27999-2e0f-4854-8f4f-3f18553518f1&ccId=19000101_000001&jobId=544844&source=IN&lang=en_US) |
-| Nexstar Media Group, Inc. | 🆕 Director of Engineering | Director | UT, Salt Lake City |  | 1d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/UT-Salt-Lake-City/Director-of-Engineering_REQ-43400) |
 | Nexstar Media Group, Inc. | 🆕 Production Director | Director | PA, Harrisburg |  | 1d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/PA-Harrisburg/Production-Director_REQ-43397) |
+| Nexstar Media Group, Inc. | 🆕 Director of Engineering | Director | UT, Salt Lake City |  | 1d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/UT-Salt-Lake-City/Director-of-Engineering_REQ-43400) |
 | Western Digital | 🆕 Director Firmware Engineering | Director | San Jose, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000156598550-director-firmware-engineering) ⚡ |
 | State Street ⭐ | 🆕 AI and Automation Lead for Cyber Application Compliance - VP | VP | Quincy, Massachusetts +3 | $120K–$202K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Security-Automation-Engineer-Officer_R-794581) |
 | Hadrian Automation | 🆕 Director of Engineering, Forward Deployed Engineering | Director | San Francisco Bay Area, CA | $300K–$415K | 1d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/1153f8c7-57ca-49bc-b4ea-b1262aebf255) ⚡ |
@@ -247,23 +247,6 @@ By level: Director 823 · VP 380 · Sr. Director 183 · Head 115 · EVP/SVP 84 �
 | Citi (jobs.citi.com) ⭐ | 🆕 AI and Data Client Solutions Lead- VP | VP | New York, NY, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/new-york/ai-and-data-client-solutions-lead-vp/287/102161041344) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Pricing Platform Solutions Lead - Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/pricing-platform-solutions-lead-senior-vice-president/287/102161041360) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Head of Data Architecture - Director | Head | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/head-of-data-architecture-director/287/102161041472) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Test Data Mgmt / Sr App Development Engineer - VP | VP | Jacksonville, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/jacksonville/test-data-mgmt-sr-app-development-engineer-vp/287/102161041552) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Sr. Developer/SRE - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/sr-developer-sre-vice-president/287/102161041568) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Investor Services Technology - Data Solutions Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/investor-services-technology-data-solutions-senior-vice-president/287/102161041584) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Client Servicing Solutions Lead - Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/client-servicing-solutions-lead-senior-vice-president/287/102161041616) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Engineer Lead Java/React- Vice President | VP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/full-stack-engineer-lead-java-react-vice-president/287/102161041728) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Engineer - Vice President - Python Development | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president-python-development/287/102161041824) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Full-stack Java Developer, VP | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-full-stack-java-developer-vp/287/102161042368) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Principal Backend Engineer Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/principal-backend-engineer-vice-president/287/102161042400) |
-| Citi (jobs.citi.com) ⭐ | 🆕 VP - KYC Operations Senior AI Lead | VP | Mumbai, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/mumbai/vp-kyc-operations-senior-ai-lead/287/102161042480) |
-| Citi (jobs.citi.com) ⭐ | 🆕 VP - KYC Operations Data Lead | VP | Mumbai, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042496) [alt](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042432) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Production Management Global Support Group Manager - Director | Director | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/production-management-global-support-group-manager-director/287/102161042560) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | Jacksonville, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/jacksonville/application-support-technical-lead-vice-president/287/102161042576) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Principal Engineer – Vice President | VP | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/principal-engineer-vice-president/287/102161042640) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Solutions Architect-Vice President | VP | New York, NY, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/new-york/solutions-architect-vice-president/287/102161043056) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Technology Lead - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-technology-lead-vice-president/287/102161043072) |
-| Citi (jobs.citi.com) ⭐ | 🆕 VP Senior Applied AI Full-Stack Engineer | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/vp-senior-applied-ai-full-stack-engineer/287/102161043136) |
-| Citi (jobs.citi.com) ⭐ | 🆕 APAC Head of Equity Finance Technology | Head | Kowloon, KKC, HK |  | 2d | [Apply](https://jobs.citi.com/job/kowloon/apac-head-of-equity-finance-technology/287/102161043232) |
 
 <a name="houston-area"></a>
 
@@ -517,12 +500,12 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Python and Generative AI Engineer- Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/lead-python-and-generative-ai-engineer-vice-president/287/102161041088) |
 | Citi (jobs.citi.com) ⭐ | 🆕 AI and Data Client Solutions Lead- VP | VP | New York, NY, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/new-york/ai-and-data-client-solutions-lead-vp/287/102161041344) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Head of Data Architecture - Director | Head | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/head-of-data-architecture-director/287/102161041472) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Test Data Mgmt / Sr App Development Engineer - VP | VP | Jacksonville, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/jacksonville/test-data-mgmt-sr-app-development-engineer-vp/287/102161041552) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Investor Services Technology - Data Solutions Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/investor-services-technology-data-solutions-senior-vice-president/287/102161041584) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Engineer - Vice President - Python Development | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president-python-development/287/102161041824) |
-| Citi (jobs.citi.com) ⭐ | 🆕 VP - KYC Operations Senior AI Lead | VP | Mumbai, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/mumbai/vp-kyc-operations-senior-ai-lead/287/102161042480) |
-| Citi (jobs.citi.com) ⭐ | 🆕 VP - KYC Operations Data Lead | VP | Mumbai, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042496) [alt](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042432) |
-| Citi (jobs.citi.com) ⭐ | 🆕 VP Senior Applied AI Full-Stack Engineer | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/vp-senior-applied-ai-full-stack-engineer/287/102161043136) |
+| Citi (jobs.citi.com) ⭐ | Test Data Mgmt / Sr App Development Engineer - VP | VP | Jacksonville, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/jacksonville/test-data-mgmt-sr-app-development-engineer-vp/287/102161041552) |
+| Citi (jobs.citi.com) ⭐ | Investor Services Technology - Data Solutions Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/investor-services-technology-data-solutions-senior-vice-president/287/102161041584) |
+| Citi (jobs.citi.com) ⭐ | Senior Data Engineer - Vice President - Python Development | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president-python-development/287/102161041824) |
+| Citi (jobs.citi.com) ⭐ | VP - KYC Operations Senior AI Lead | VP | Mumbai, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/mumbai/vp-kyc-operations-senior-ai-lead/287/102161042480) |
+| Citi (jobs.citi.com) ⭐ | VP - KYC Operations Data Lead | VP | Mumbai, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042496) [alt](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042432) |
+| Citi (jobs.citi.com) ⭐ | VP Senior Applied AI Full-Stack Engineer | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/vp-senior-applied-ai-full-stack-engineer/287/102161043136) |
 | Citi (jobs.citi.com) ⭐ | Lead AI/ML Data Scientist - VP | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/lead-ai-ml-data-scientist-vp/287/102161043760) |
 | Citi (jobs.citi.com) ⭐ | Head of Master Reference Data Operations MD (C16) | Head | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/head-of-master-reference-data-operations-md-c16/287/102161043872) |
 | Citi (jobs.citi.com) ⭐ | Director - AIM USCC Innovation and AI Lead | Director | Bengaluru, KA, IN |  | 2d | [Apply](https://jobs.citi.com/job/bengaluru/director-aim-uscc-innovation-and-ai-lead/287/102161043968) |
@@ -746,9 +729,9 @@ _236 older roles in this section are in data/roles.json on the `data` branch._
 | Bank of America ⭐ | 🆕 Digital Director - Bill Payments & Transfers Operations | Director | New York +3 |  | 1d | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Digital-Director---Bill-Payments---Transfers-Operations_26036460) |
 | Flextronics | 🆕 Director, Operations Engineering (req WD232222) | Director | USA, TX, Austin |  | 1d | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Director--Operations-Engineering_WD232222) |
 | Nile global | Senior Director, Cloud Operations - Onsite, Santa Clara, CA | Sr. Director | San Jose, CA, USA |  | 1d | [Apply](https://recruiterflow.com/nile/jobs/153?source=indeed&utm_channel=recruiterflow-posting&location=7) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Sr. Developer/SRE - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/sr-developer-sre-vice-president/287/102161041568) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Production Management Global Support Group Manager - Director | Director | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/production-management-global-support-group-manager-director/287/102161042560) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | Jacksonville, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/jacksonville/application-support-technical-lead-vice-president/287/102161042576) |
+| Citi (jobs.citi.com) ⭐ | Sr. Developer/SRE - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/sr-developer-sre-vice-president/287/102161041568) |
+| Citi (jobs.citi.com) ⭐ | Production Management Global Support Group Manager - Director | Director | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/production-management-global-support-group-manager-director/287/102161042560) |
+| Citi (jobs.citi.com) ⭐ | Application Support Technical Lead - Vice President | VP | Jacksonville, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/jacksonville/application-support-technical-lead-vice-president/287/102161042576) |
 | Citi (jobs.citi.com) ⭐ | Python Development Operations Engineer Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/python-development-operations-engineer-vice-president/287/102161043520) |
 | Citi (jobs.citi.com) ⭐ | Application Support Technical Lead - Vice President | VP | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/application-support-technical-lead-vice-president/287/102161059472) |
 | Merck | Stability Operations Director - Pharmaceutical Analysis and Digital Technologies | Director | West Point, Pennsylvania, United States of |  | 2d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR421679ENUS) |
@@ -996,7 +979,7 @@ _236 older roles in this section are in data/roles.json on the `data` branch._
 | Sysco Corporation ⭐ | 🆕 Senior Director, Enterprise Architecture and Strategy | Sr. Director | Sysco Corporate |  | 1d | [Apply](https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Senior-Director--Enterprise-Architecture-and-Strategy_R272294) |
 | Farmers Insurance Group | FBS (Mexico) Enterprise Architecture Director SLDC | Director | DE, USA |  | 1d | [Apply](https://jobs.farmersinsurance.com/job/Ciudad-de-Mexico-FBS-%28Mexico%29-Enterprise-Architecture-Director-SLDC/1375295057/) |
 | Citi (jobs.citi.com) ⭐ | 🆕 SVP Next Gen Electronic Trading Technology Lead & Architect | EVP/SVP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/svp-next-gen-electronic-trading-technology-lead-and-architect/287/102161039408) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Solutions Architect-Vice President | VP | New York, NY, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/new-york/solutions-architect-vice-president/287/102161043056) |
+| Citi (jobs.citi.com) ⭐ | Solutions Architect-Vice President | VP | New York, NY, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/new-york/solutions-architect-vice-president/287/102161043056) |
 | Citi (jobs.citi.com) ⭐ | Senior Python Architect/Developer - Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161046784) [alt](https://jobs.citi.com/job/jersey-city/senior-python-architect-developer-vice-president/287/102161045536) |
 | Citi (jobs.citi.com) ⭐ | Lead Architect - Vice President | VP | Chennai, TN, IN |  | 2d | [Apply](https://jobs.citi.com/job/chennai/lead-architect-vice-president/287/102161047520) |
 | Citi (jobs.citi.com) ⭐ | Lead Solutions Architect (VP) | VP | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/lead-solutions-architect-vp/287/102161048160) |
@@ -1307,8 +1290,8 @@ _236 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Sr Manager - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/apps-development-sr-manager-vice-president/287/102161040160) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Lead Python Engineer - Applications Development Group Manager - Senior Vice President | EVP/SVP | Rutherford, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/rutherford/senior-lead-python-engineer-applications-development-group-manager-senior-vice-president/287/102161040480) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Client Financials Solutions Lead Department, Apps Development - Director | Director | Tampa, FL, US +2 |  | 2d | [Apply](https://jobs.citi.com/job/tampa/client-financials-solutions-lead-department-apps-development-director/287/102161040928) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Technology Lead - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-technology-lead-vice-president/287/102161043072) |
-| Citi (jobs.citi.com) ⭐ | 🆕 APAC Head of Equity Finance Technology | Head | Kowloon, KKC, HK |  | 2d | [Apply](https://jobs.citi.com/job/kowloon/apac-head-of-equity-finance-technology/287/102161043232) |
+| Citi (jobs.citi.com) ⭐ | Full Stack Technology Lead - Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-technology-lead-vice-president/287/102161043072) |
+| Citi (jobs.citi.com) ⭐ | APAC Head of Equity Finance Technology | Head | Kowloon, KKC, HK |  | 2d | [Apply](https://jobs.citi.com/job/kowloon/apac-head-of-equity-finance-technology/287/102161043232) |
 | Citi (jobs.citi.com) ⭐ | Applications Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/applications-development-group-manager-senior-vice-president/287/102161044464) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Software Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-java-software-engineer-vice-president/287/102161044624) |
 | Citi (jobs.citi.com) ⭐ | Application Development Lead (Java) - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/application-development-lead-java-senior-vice-president/287/102161044640) |
@@ -1513,11 +1496,11 @@ _165 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 Fullstack Integration Developer Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/fullstack-integration-developer-vice-president/287/102161039200) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Developer VP | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/senior-java-developer-vp/287/102161039552) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Python Developer Vice President | VP | Chennai, TN, IN +1 |  | 2d | [Apply](https://jobs.citi.com/job/chennai/senior-python-developer-vice-president/287/102161041168) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Client Servicing Solutions Lead - Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/client-servicing-solutions-lead-senior-vice-president/287/102161041616) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Engineer Lead Java/React- Vice President | VP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/full-stack-engineer-lead-java-react-vice-president/287/102161041728) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Full-stack Java Developer, VP | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-full-stack-java-developer-vp/287/102161042368) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Principal Backend Engineer Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/principal-backend-engineer-vice-president/287/102161042400) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Principal Engineer – Vice President | VP | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/principal-engineer-vice-president/287/102161042640) |
+| Citi (jobs.citi.com) ⭐ | Client Servicing Solutions Lead - Senior Vice President | EVP/SVP | Jersey City, NJ, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/client-servicing-solutions-lead-senior-vice-president/287/102161041616) |
+| Citi (jobs.citi.com) ⭐ | Full Stack Engineer Lead Java/React- Vice President | VP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/full-stack-engineer-lead-java-react-vice-president/287/102161041728) |
+| Citi (jobs.citi.com) ⭐ | Senior Full-stack Java Developer, VP | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-full-stack-java-developer-vp/287/102161042368) |
+| Citi (jobs.citi.com) ⭐ | Principal Backend Engineer Vice President | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/principal-backend-engineer-vice-president/287/102161042400) |
+| Citi (jobs.citi.com) ⭐ | Principal Engineer – Vice President | VP | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/principal-engineer-vice-president/287/102161042640) |
 | Citi (jobs.citi.com) ⭐ | Java Full Stack Developer - VP | VP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/java-full-stack-developer-vp/287/102161043392) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Angular Engineer - Tech Lead - Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-java-angular-engineer-tech-lead-vice-president/287/102161043552) |
 | Citi (jobs.citi.com) ⭐ | Full Stack Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/full-stack-engineer-vice-president/287/102161044944) |

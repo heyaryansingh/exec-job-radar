@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,872 open roles** at **609 companies** · **198 new in the last 24 hours** · 5,236 company career sites watched · updated hourly · last update Oct 22, 2026 05:51 AM ET
+**1,873 open roles** at **610 companies** · **196 new in the last 24 hours** · 5,238 company career sites watched · updated hourly · last update Oct 22, 2026 06:19 AM ET
 
-By level: Director 928 · VP 417 · Sr. Director 206 · Head 132 · EVP/SVP 89 · ED 46 · C-level 37 · MD 17
+By level: Director 929 · VP 417 · Sr. Director 206 · Head 132 · EVP/SVP 89 · ED 46 · C-level 37 · MD 17
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (198)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (196)](#new-in-the-last-24-hours)
 - [🤠 Houston area (32)](#houston-area)
 - [👑 Executive Technology Leadership (38)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (123)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 928 · VP 417 · Sr. Director 206 · Head 132 · EVP/SVP 89 �
 - [☁️ Cloud & Infrastructure (187)](#cloud-infrastructure)
 - [🏛️ Architecture (51)](#architecture)
 - [🔄 Transformation & Delivery (211)](#transformation-delivery)
-- [🛠️ Engineering & Software (472)](#engineering-software)
+- [🛠️ Engineering & Software (473)](#engineering-software)
 - [📌 Other Senior Roles (159)](#other-senior-roles)
 - [🔒 Recently closed (28)](#recently-closed)
 - Daily digests: [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
@@ -47,10 +47,10 @@ By level: Director 928 · VP 417 · Sr. Director 206 · Head 132 · EVP/SVP 89 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Elastic | 🆕 Director of Product Management, Observability | Director | United States | $240K–$379K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538) ⚡ |
 | Airwallex | 🆕 Head of Engineering, Payments Platform | Head | SG - Singapore +3 | $385K–$460K | 0d | [Apply](https://jobs.ashbyhq.com/airwallex/1df645e6-47a1-4317-808c-8ebc07af9f96) ⚡ |
-| Kairos Power | 🆕 Senior Director, Power Plant Engineering | Sr. Director | Alameda, CA | $258K–$330K | 0d | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6223436004) ⚡ |
 | Gooch and Housego | 🆕 Senior Director of Operations, Optical Systems (US) | Sr. Director | Trinity, FL, USA · Remote |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4604159/Gooch-Housego-PLC/Senior-Director-of-Operations-Optical-Systems-US?source=Indeed_Feed) |
+| Elastic | 🆕 Director of Product Management, Observability | Director | United States | $240K–$379K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538) ⚡ |
+| Kairos Power | 🆕 Senior Director, Power Plant Engineering | Sr. Director | Alameda, CA | $258K–$330K | 0d | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6223436004) ⚡ |
 | American Plastics, LLC | 🆕 Director of Design Engineering | Director | NC, USA · Remote |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4605376/American-Plastics-LLC/Director-of-Design-Engineering?source=Indeed_Feed) |
 | Avis Budget Group | 🆕 Director, Digital Analytics & Customer Identity | Director | Parsippany-Troy Hills, NJ, USA | $200K–$240K | 0d | [Apply](https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Director--Digital-Analytics---Customer-Identity_R0191378) |
 | Larson Design Group | 🆕 Chief Technology Officer | C-level | Pittsburgh, PA, USA | $218K–$328K | 0d | [Apply](https://larsondesigngroup.applytojob.com/apply/W9oQev6ZJX/Chief-Technology-Officer?source=INDE&~) |
@@ -242,8 +242,6 @@ By level: Director 928 · VP 417 · Sr. Director 206 · Head 132 · EVP/SVP 89 �
 | Citi (jobs.citi.com) ⭐ | 🆕 Application Development Lead Java Back-End Engineer - Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/application-development-lead-java-back-end-engineer-vice-president/287/102219404320) |
 | Bain & Company | 🆕 Director, Full stack AI Engineer | Director | Chicago, IL, USA | $196K–$246K | 2d | [Apply](https://careers.bain.com/jobs/FolderDetail/Director-Full-stack-AI-Engineer/111270) |
 | IFS | 🆕 Director, Global Value Engineering | Director | Itasca, Illinois, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/IFS1/744000156567464-director-global-value-engineering) ⚡ [alt](https://jobs.smartrecruiters.com/IFS1/744000156567464-director-global-value-engineering) |
-| Nexstar Media Group, Inc. | 🆕 Production Director | Director | PA, Harrisburg |  | 2d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/PA-Harrisburg/Production-Director_REQ-43397) |
-| Nexstar Media Group, Inc. | 🆕 Director of Engineering | Director | UT, Salt Lake City |  | 2d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/UT-Salt-Lake-City/Director-of-Engineering_REQ-43400) |
 | WSP | 🆕 Bridge Inspection Regional Manager/Technical Director | Director | Virginia Beach, VA, United States | $153K–$227K | 3d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97800) |
 
 <a name="houston-area"></a>
@@ -727,8 +725,8 @@ _271 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Elastic | 🆕 Director of Product Management, Observability | Director | United States | $240K–$379K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538) ⚡ |
 | Gooch and Housego | 🆕 Senior Director of Operations, Optical Systems (US) | Sr. Director | Trinity, FL, USA · Remote |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4604159/Gooch-Housego-PLC/Senior-Director-of-Operations-Optical-Systems-US?source=Indeed_Feed) |
+| Elastic | 🆕 Director of Product Management, Observability | Director | United States | $240K–$379K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538) ⚡ |
 | Baker Tilly Canada | 🆕 VP of Platform & Production Engineering | VP | USA CA San Jose 300 Santana Row +11 | $250K–$400K | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-San-Jose-300-Santana-Row/VP-of-Platform---Production-Engineering_JR108737) |
 | Broadcast Management Group | 🆕 Vice President of Sports Production and Client Development | VP | Washington, DC, USA |  | 0d | [Apply](https://broadcastmgmtgroup.bamboohr.com/careers/185?source=indeed&src=indeed&postedDate=2026-10-21) |
 | SRS Distribution | 🆕 Vice President, Infrastructure & Operations | VP | McKinney, TX, USA | $200K–$275K | 0d | [Apply](https://click.appcast.io/t/A1iCIv9eqorzxbmQgdToGQuMkssg39siILuhYA6h8yA=) |
@@ -744,7 +742,7 @@ _271 older roles in this section are in data/roles.json on the `data` branch._
 | Wells Fargo ⭐ | 🆕 Head of Enterprise Financial Crimes Operations Product and Transformation | Head | CHARLOTTE, NC |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Head-of-Enterprise-Financial-Crimes-Operations-Product-and-Transformation_R-572456-1) |
 | Jazwares | 🆕 Senior Director, IT Infrastructure & Operations | Sr. Director | Plantation, FL, USA |  | 1d | [Apply](https://recruiting.ultipro.com/JAZ1000JAZW/JobBoard/a39c6526-612a-4f43-a6fd-029724800732/OpportunityDetail?opportunityId=2829eb5c-cc79-4d73-b54b-a3a76226f261&postingId=f53eaf76-9d9c-4cf7-8900-0b197fe2e7ad) |
 | DeMayo Law Offices, LLP | Director of IT Operations | Director | Charlotte, NC, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4602028/DeMayo-Law-Offices-LLP/Director-of-IT-Operations?source=Indeed_Feed) |
-| Nexstar Media Group, Inc. | 🆕 Production Director | Director | PA, Harrisburg |  | 2d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/PA-Harrisburg/Production-Director_REQ-43397) |
+| Nexstar Media Group, Inc. | Production Director | Director | PA, Harrisburg |  | 2d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/PA-Harrisburg/Production-Director_REQ-43397) |
 | Citi ⭐ | Head of Production Management, Equities Trading, Director | Head | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Head-of-Production-Management--Equities-Trading--Director_261002167) |
 | EVERSANA | VP, Group Director, Integrated Production | VP | New York, NY, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000156667210-vp-group-director-integrated-production) ⚡ |
 | Oracle | Director, Power Operations (on-site Shackelford County, TX) | Director | Abilene, TX, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348095) |
@@ -1371,7 +1369,7 @@ _271 older roles in this section are in data/roles.json on the `data` branch._
 | Diamond Generating Corporation | 🆕 Director – Engineering and Technology | Director | Houston, Texas |  | 2d | [Apply](https://jobs.digitalhire.com/job-listing/opening/5n4X81MSvj9vEgDDH6LjZq) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Application Development Lead Java Back-End Engineer - Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/application-development-lead-java-back-end-engineer-vice-president/287/102219404320) |
 | IFS | 🆕 Director, Global Value Engineering | Director | Itasca, Illinois, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/IFS1/744000156567464-director-global-value-engineering) ⚡ [alt](https://jobs.smartrecruiters.com/IFS1/744000156567464-director-global-value-engineering) |
-| Nexstar Media Group, Inc. | 🆕 Director of Engineering | Director | UT, Salt Lake City |  | 2d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/UT-Salt-Lake-City/Director-of-Engineering_REQ-43400) |
+| Nexstar Media Group, Inc. | Director of Engineering | Director | UT, Salt Lake City |  | 2d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/UT-Salt-Lake-City/Director-of-Engineering_REQ-43400) |
 | Western Digital | Director Firmware Engineering | Director | San Jose, CA, us |  | 2d | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000156598550-director-firmware-engineering) ⚡ |
 | Hadrian Automation | Director of Engineering, Forward Deployed Engineering | Director | San Francisco Bay Area, CA | $300K–$415K | 2d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/1153f8c7-57ca-49bc-b4ea-b1262aebf255) ⚡ |
 | Hadrian Automation | Sr. Director, Forward Deployed Engineering | Sr. Director | San Francisco Bay Area, CA | $300K–$415K | 2d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/64b210f6-83f4-42d6-ba48-98df7c0cdf8c) ⚡ [alt](https://jobs.ashbyhq.com/hadrian-automation/64b210f6-83f4-42d6-ba48-98df7c0cdf8c?utm_source=6ErGOvWZOA) |
@@ -1565,7 +1563,7 @@ _271 older roles in this section are in data/roles.json on the `data` branch._
 | CLEAR - Corporate | Director of Engineering, Members | Director | New York, NY, United States | $435K–$535K | 7d | [Apply](https://job-boards.greenhouse.io/clear/jobs/8287262) ⚡ |
 | Fidelity National Financial | Vice President, Quant Development (Systematic Sustainable Technology) | VP | Boston, MA |  | 7d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Head-of-Systematic-Sustainable-Technology_2131188) |
 
-_222 older roles in this section are in data/roles.json on the `data` branch._
+_223 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,832 open roles** at **589 companies** · **201 new in the last 24 hours** · 5,225 company career sites watched · updated hourly · last update Oct 21, 2026 09:11 PM ET
+**1,832 open roles** at **589 companies** · **200 new in the last 24 hours** · 5,225 company career sites watched · updated hourly · last update Oct 21, 2026 10:01 PM ET
 
 By level: Director 906 · VP 407 · Sr. Director 204 · Head 130 · EVP/SVP 87 · ED 46 · C-level 35 · MD 17
 
@@ -27,7 +27,7 @@ By level: Director 906 · VP 407 · Sr. Director 204 · Head 130 · EVP/SVP 87 �
 
 ## Contents
 
-- [🆕 New in the last 24 hours (201)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (200)](#new-in-the-last-24-hours)
 - [🤠 Houston area (32)](#houston-area)
 - [👑 Executive Technology Leadership (36)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (120)](#security-risk-technology)
@@ -58,9 +58,9 @@ By level: Director 906 · VP 407 · Sr. Director 204 · Head 130 · EVP/SVP 87 �
 | Spectrum | 🆕 Director, AI Infrastructure Strategic Partnerships | Director | Greenwood Village, CO, USA | $96K–$245K | 1d | [Apply](https://jobs.spectrum.com/job/-/-/4673/102256750048) |
 | Walmart | 🆕 (USA) Senior Director, Information Security | Sr. Director | Bentonville, AR, USA | $160K–$320K | 1d | [Apply](https://click.appcast.io/t/CPS1GipySwMmdaG2zzGjGQppQArMVya4ACs3WrpeElo=) |
 | Zions Bancorporation | 🆕 Director of Payments and Commercial Technology | Director | Midvale, UT, USA |  | 1d | [Apply](https://click.appcast.io/t/91pccQkkeEwJhBecjDSbHLkLTtwS-4pudlrN_M-qsAg=) |
+| Samsonite | 🆕 Vice President, Digital Activation & Ecommerce Excellence | VP | Mansfield, MA, United States |  | 1d | [Apply](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9717) [alt](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/9717) |
 | CrowdStrike ⭐ | 🆕 Director of Engineering, Sensor Detection Platform (Remote) | Director | USA - Remote, MN | $195K–$290K | 1d | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Director-of-Engineering--Sensor-Detection-Platform--Remote-_R30435) |
 | United States 2 Avis Budget Car Rental | 🆕 Director, Digital Analytics & Customer Identity | Director | 379 Interpace Pkwy, Parsippany, 07054 | $200K–$240K | 1d | [Apply](https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Director--Digital-Analytics---Customer-Identity_R0191378) |
-| Samsonite | 🆕 Vice President, Digital Activation & Ecommerce Excellence | VP | Mansfield, MA, United States |  | 1d | [Apply](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9717) [alt](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/9717) |
 | Protege | 🆕 Head of Research, DataLab | Head | Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/protege/fcfea80e-3412-478d-a8af-e200cd0aa9a9) ⚡ |
 | Visa | 🆕 Vice President, Acceptance Technologies and Intelligent Commerce | VP | US - Foster City, CA +1 | $229K–$314K | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Vice-President--Acceptance-Technologies-and-Intelligent-Commerce_REF089578W-1) |
 | FOX | 🆕 Senior Director, Broadcast Engineering | Sr. Director | USA - AZ - Tempe - 2010 E Centennial Cir |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Senior-Director--Broadcast-Engineering_R50034148) |
@@ -220,10 +220,10 @@ By level: Director 906 · VP 407 · Sr. Director 204 · Head 130 · EVP/SVP 87 �
 | Scotiabank | 🆕 Director, Senior Product Manager, GCM Transformation | Director | Dallas, TX, USA |  | 1d | [Apply](https://jobs.scotiabank.com/job/Dallas-Director%2C-Senior-Product-Manager%2C-GCM-Transformation-TX-75219/607211917/) |
 | West Side Beer Distributing | 🆕 Director of IT | Director | Romulus, MI, USA |  | 1d | [Apply](https://www.westsidebeer.com/careers?gnk=job&gni=8a78839ea150ae2901a15a0d5e882427&gns=Indeed+Free) |
 | Woods Rogers | 🆕 Director of Information Technology | Director | Lynchburg, VA, USA | $175K–$250K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fa27999-2e0f-4854-8f4f-3f18553518f1&ccId=19000101_000001&jobId=544844&source=IN&lang=en_US) |
-| UTLX | 🆕 Director, IT Strategy & Alignment | Director | Chicago, IL |  | 2d | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Director--IT-Strategy---Alignment_JR0000046477) |
 | CUNY | 🆕 Vice President of Information Technology - IT (ECP) | VP | New York, New York | $225K–$246K | 2d | [Apply](https://cuny.jobs/new-york-ny/vice-president-of-information-technology-it-ecp/700D4B18A3164301BA0A53346442C0DC/job/) |
-| Jobot | 🆕 Director of Engineering, SRE; AI Security​/Startup | Director | Worcester, Massachusetts | $220K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/worcester/massachusetts/info_technology/5555643080/e/) |
 | Diamond Generating Corporation | 🆕 Director – Engineering and Technology | Director | Houston, Texas |  | 2d | [Apply](https://jobs.digitalhire.com/job-listing/opening/5n4X81MSvj9vEgDDH6LjZq) |
+| Jobot | 🆕 Director of Engineering, SRE; AI Security​/Startup | Director | Worcester, Massachusetts | $220K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/worcester/massachusetts/info_technology/5555643080/e/) |
+| UTLX | 🆕 Director, IT Strategy & Alignment | Director | Chicago, IL |  | 2d | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Director--IT-Strategy---Alignment_JR0000046477) |
 | Oracle | 🆕 Consulting Technical Director (Enterprise Architect) | Director | United States | $126K–$264K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348040) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Java Principal Engineer Senior Vice President | EVP/SVP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/senior-java-principal-engineer-senior-vice-president/287/102210703264) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Digital Tagging & Measurement Lead – VP (C13) | VP | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/digital-tagging-and-measurement-lead-vp-c13/287/102210709424) |
@@ -247,7 +247,6 @@ By level: Director 906 · VP 407 · Sr. Director 204 · Head 130 · EVP/SVP 87 �
 | Oracle | 🆕 Director, Platform Software Engineering | Director | WA, United States | $122K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348102) |
 | Capital One ⭐ | 🆕 Director, Technical Program Management - Global Payment Network | Director | McLean, VA +3 | $230K–$263K | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Technical-Program-Management---Global-Payment-Network_R1004197-1) |
 | OneMain Financial | 🆕 VP/Director, Software Engineering – Document Management Services | VP | Baltimore, MD | $185K–$210K | 2d | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Baltimore-MD/VP-Director--Software-Engineering---Document-Management-Services_R2610-52888) |
-| EVERSANA | 🆕 VP, Group Director, Integrated Production | VP | New York, NY, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000156667210-vp-group-director-integrated-production) ⚡ |
 
 <a name="houston-area"></a>
 
@@ -739,7 +738,7 @@ _264 older roles in this section are in data/roles.json on the `data` branch._
 | DeMayo Law Offices, LLP | 🆕 Director of IT Operations | Director | Charlotte, NC, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4602028/DeMayo-Law-Offices-LLP/Director-of-IT-Operations?source=Indeed_Feed) |
 | Nexstar Media Group, Inc. | 🆕 Production Director | Director | PA, Harrisburg |  | 2d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/PA-Harrisburg/Production-Director_REQ-43397) |
 | Citi ⭐ | 🆕 Head of Production Management, Equities Trading, Director | Head | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Head-of-Production-Management--Equities-Trading--Director_261002167) |
-| EVERSANA | 🆕 VP, Group Director, Integrated Production | VP | New York, NY, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000156667210-vp-group-director-integrated-production) ⚡ |
+| EVERSANA | VP, Group Director, Integrated Production | VP | New York, NY, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000156667210-vp-group-director-integrated-production) ⚡ |
 | Oracle | Director, Power Operations (on-site Shackelford County, TX) | Director | Abilene, TX, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348095) |
 | Heartflow | IT Director, Infrastructure and Operations | Director | Rohnert Park, California | $220K–$270K | 2d | [Apply](https://job-boards.greenhouse.io/heartflowinc/jobs/6230221004) ⚡ |
 | Fort Lewis College | Visiting Assistant Professor of Theatre Design,  Technology and Production / Technical Director | Director | Fort Lewis College, Durango Colorado |  | 2d | [Apply](https://fortlewiscollege.wd1.myworkdayjobs.com/FLC/job/Fort-Lewis-College-Durango-Colorado/Visiting-Assistant-Professor-of-Theatre-Design---Technology-and-Production---Technical-Director_JR2380) |

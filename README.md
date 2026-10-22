@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,873 open roles** at **610 companies** · **196 new in the last 24 hours** · 5,238 company career sites watched · updated hourly · last update Oct 22, 2026 06:51 AM ET
+**1,874 open roles** at **610 companies** · **196 new in the last 24 hours** · 5,238 company career sites watched · updated hourly · last update Oct 22, 2026 07:41 AM ET
 
-By level: Director 929 · VP 417 · Sr. Director 206 · Head 132 · EVP/SVP 89 · ED 46 · C-level 37 · MD 17
+By level: Director 929 · VP 418 · Sr. Director 206 · Head 132 · EVP/SVP 89 · ED 46 · C-level 37 · MD 17
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -35,7 +35,7 @@ By level: Director 929 · VP 417 · Sr. Director 206 · Head 132 · EVP/SVP 89 �
 - [🚦 Reliability & Operations (110)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (187)](#cloud-infrastructure)
 - [🏛️ Architecture (51)](#architecture)
-- [🔄 Transformation & Delivery (211)](#transformation-delivery)
+- [🔄 Transformation & Delivery (212)](#transformation-delivery)
 - [🛠️ Engineering & Software (473)](#engineering-software)
 - [📌 Other Senior Roles (159)](#other-senior-roles)
 - [🔒 Recently closed (28)](#recently-closed)
@@ -1267,6 +1267,7 @@ _271 older roles in this section are in data/roles.json on the `data` branch._
 | Mastercard ⭐ | Director, Office of Transformation Process Redesign | Director | Purchase, New York +2 | $185K–$296K | 16d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Office-of-Transformation-Process-Redesign_R-291187) |
 | BlackRock ⭐ | Director, Digital Assets | Director | New York, NY |  | 16d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Managing-Director--Digital-Assets_R258072) |
 | Capital One ⭐ | Senior Director, Technical Program Management (req R1003100) | Sr. Director | McLean, VA +5 | $294K–$336K | 16d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Director--Technical-Program-Management_R1003100-1) |
+| State Street ⭐ | Strategic Client Transformation, Vice President | VP | Boston, Massachusetts |  | 17d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Strategic-Client-Transformation-3_R-799006) |
 | Upenn | Director of Digital and Creative Strategy | Director | Dental School-Evans Building - 1st Floor |  | 17d | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Dental-School-Evans-Building---1st-Floor/Director-of-Digital-and-Creative-Strategy_JR00128469) |
 | Elanco | Senior Director, Site Integration & Transformation Execution | Sr. Director | Fort Dodge, IA |  | 17d | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Senior-Director--Site-Integration---Transformation-Execution_R0027414) |
 | Wayve | Principal / Director, Technical Program Management — Driver Out | Director | Sunnyvale, California USA · Remote | $299K–$373K | 17d | [Apply](https://jobs.ashbyhq.com/wayve/9c321168-ca9d-4ad2-aecf-9c9b399532a0) ⚡ |

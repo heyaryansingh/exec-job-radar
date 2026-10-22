@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,860 open roles** at **602 companies** · **195 new in the last 24 hours** · 5,234 company career sites watched · updated hourly · last update Oct 22, 2026 01:03 AM ET
+**1,858 open roles** at **602 companies** · **194 new in the last 24 hours** · 5,234 company career sites watched · updated hourly · last update Oct 22, 2026 02:00 AM ET
 
-By level: Director 924 · VP 412 · Sr. Director 206 · Head 131 · EVP/SVP 88 · ED 46 · C-level 36 · MD 17
+By level: Director 924 · VP 412 · Sr. Director 204 · Head 131 · EVP/SVP 88 · ED 46 · C-level 36 · MD 17
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (195)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (194)](#new-in-the-last-24-hours)
 - [🤠 Houston area (32)](#houston-area)
 - [👑 Executive Technology Leadership (37)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (122)](#security-risk-technology)
@@ -35,10 +35,10 @@ By level: Director 924 · VP 412 · Sr. Director 206 · Head 131 · EVP/SVP 88 �
 - [🚦 Reliability & Operations (107)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (187)](#cloud-infrastructure)
 - [🏛️ Architecture (51)](#architecture)
-- [🔄 Transformation & Delivery (211)](#transformation-delivery)
+- [🔄 Transformation & Delivery (209)](#transformation-delivery)
 - [🛠️ Engineering & Software (469)](#engineering-software)
 - [📌 Other Senior Roles (159)](#other-senior-roles)
-- [🔒 Recently closed (25)](#recently-closed)
+- [🔒 Recently closed (27)](#recently-closed)
 - Daily digests: [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -223,7 +223,6 @@ By level: Director 924 · VP 412 · Sr. Director 206 · Head 131 · EVP/SVP 88 �
 | Qualys | 🆕 Senior Director, Government Product Security Management | Sr. Director | NC, USA |  | 1d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina/Senior-Director--Government-Product-Security-Management_R0005099) |
 | RealmOne | 🆕 Senior Director – Artificial Intelligence/Super Intelligence | Sr. Director | Columbia, MD, USA | $260K–$290K | 1d | [Apply](https://realmone.com/job/senior-director-artificial-intelligence-super-intelligence/) |
 | Woods Rogers | 🆕 Director of Information Technology | Director | Norfolk, VA, USA | $175K–$250K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fa27999-2e0f-4854-8f4f-3f18553518f1&ccId=19000101_000001&jobId=544844&source=IN&lang=en_US) |
-| Fidelity ⭐ | 🆕 Vice President, Architecture | VP | Westlake, TX |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Vice-President--Architecture_2137031) |
 | WSP | 🆕 Technical Director, Stations Lead | Director | San Jose, CA, United States | $200K–$260K | 2d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97909) |
 | WSP | 🆕 Technical Director, Project Management | Director | Baltimore, MD, United States | $163K–$230K | 2d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97955) |
 | HarbourVest | 🆕 Director, Client Onboarding Technology | Director | Boston |  | 2d | [Apply](https://harbourvest.wd5.myworkdayjobs.com/HVP/job/Boston/Director--Client-Onboarding-Technology_R2567) |
@@ -1035,7 +1034,7 @@ _267 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 Client Solutions Architect- Payments - Vice President | VP | Chicago, IL, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799526) |
 | Vertiv | 🆕 Director, Solution Architect-Hyperscale Power | Director | Westerville, OH, United States | $253K–$337K | 1d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284739) |
 | Vertiv | 🆕 Director, Solution Architect-Hyperscale Thermal | Director | Westerville, OH, United States | $253K–$337K | 1d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284742) |
-| Fidelity ⭐ | 🆕 Vice President, Architecture | VP | Westlake, TX |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Vice-President--Architecture_2137031) |
+| Fidelity ⭐ | Vice President, Architecture | VP | Westlake, TX |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Vice-President--Architecture_2137031) |
 | Fidelity ⭐ | Director, Architecture | Director | Smithfield, RI |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Smithfield-RI/Director--Architecture_2137027-1) |
 | Oracle | 🆕 Consulting Technical Director (Enterprise Architect) | Director | United States | $126K–$264K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348040) |
 | Sysco Corporation ⭐ | Senior Director, Enterprise Architecture and Strategy | Sr. Director | Sysco Corporate |  | 2d | [Apply](https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Senior-Director--Enterprise-Architecture-and-Strategy_R272294) |
@@ -1139,7 +1138,6 @@ _267 older roles in this section are in data/roles.json on the `data` branch._
 | Capital Group ⭐ | Digital Product Director - Private Client Services (PCS) | Director | Los Angeles | $234K–$398K | 3d | [Apply](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/Digital-Product-Director---Private-Client-Services--PCS-_JR7483-1) |
 | Charles Schwab | Director, Program Strategy, Retirement Plan Services Modernization Initiatives (PL) | Director | Lone Tree, CO, USA | $121K–$250K | 3d | [Apply](https://www.schwabjobs.com/job/lone-tree/director-program-strategy-retirement-plan-services-modernization-initiatives-pl/33727/102165289696) |
 | Citi (jobs.citi.com) ⭐ | Digital Cobrand Acquisitions Risk & Controls Lead - US Shift - Vice President | VP | Mumbai, MH, IN |  | 3d | [Apply](https://jobs.citi.com/job/mumbai/digital-cobrand-acquisitions-risk-and-controls-lead-us-shift-vice-president/287/102161083456) |
-| AbbVie ⭐ | Senior Director, People Strategy & Transformation | Sr. Director | Portland, OR, us · Remote |  | 3d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016243646-senior-director-people-strategy-transformation) ⚡ |
 | Pacific Life | Technology Transformation Director | Director | Newport Beach CA-700 +2 |  | 3d | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Transformation-Director_R17589-1) |
 | Pacific Life | Technology Transformation Director | Director | Omaha, NE, USA | $185K–$226K | 3d | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Technology-Transformation-Director_R17589-1) |
 | Finra | Director, Digital Strategy & Governance | Director | Washington, DC (Job Posting) +2 | $137K–$249K | 3d | [Apply](https://finra.wd1.myworkdayjobs.com/FINRA/job/Washington-DC-Job-Posting/Director--Digital-Strategy---Governance_R-010365) |
@@ -1182,7 +1180,6 @@ _267 older roles in this section are in data/roles.json on the `data` branch._
 | Astera Labs | Director ASIC Technical Program Management | Director | San Jose, California, United States | $210K–$275K | 7d | [Apply](https://job-boards.greenhouse.io/asteralabs/jobs/4744234005) ⚡ |
 | Honeywell ⭐ | Sr Director, Software Business Transformation | Sr. Director | Charlotte, NC, United States |  | 7d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155870) |
 | GE Vernova ⭐ | Portfolio Technical Director - Substation (North America) | Director | Remote +3 |  | 7d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Portfolio-Technical-Director---Substation--North-America-_R5054113-2) |
-| AbbVie ⭐ | Senior Director, People Strategy & Transformation | Sr. Director | North Chicago, IL, us |  | 7d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016148826-senior-director-people-strategy-transformation) ⚡ |
 | JPMorgan Chase ⭐ | Executive Director – Strategic Initiatives & Transformation | ED | Jersey City, NJ, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781532) |
 | JPMorgan Chase ⭐ | Payments-Digital Onboarding Lead-Product Executive Director | ED | Plano, TX, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798995) |
 | JPMorgan Chase ⭐ | Payments-Digital & Design-Product Manager-Vice President | VP | Jersey City, NJ, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799384) |
@@ -1733,6 +1730,8 @@ _219 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| AbbVie ⭐ | 🔒 Senior Director, People Strategy & Transformation | Sr. Director | Portland, OR, us · Remote |  | 3d | Closed |
+| AbbVie ⭐ | 🔒 Senior Director, People Strategy & Transformation | Sr. Director | North Chicago, IL, us |  | 7d | Closed |
 | Revecore | 🔒 Director, Product Management | Director | US-Remote |  | 6d | Closed |
 | Expedia Group ⭐ | 🔒 Director, Software Development Engineering - Experience Management Platform | Director | Washington - Seattle Campus |  | 15d | Closed |
 | AbbVie ⭐ | 🔒 Director, Safety Data Sciences (people manager) | Director | North Chicago, IL, us |  | 15d | Closed |

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**1,859 open roles** at **601 companies** · **195 new in the last 24 hours** · 5,232 company career sites watched · updated hourly · last update Oct 22, 2026 12:58 AM ET
+**1,860 open roles** at **602 companies** · **195 new in the last 24 hours** · 5,234 company career sites watched · updated hourly · last update Oct 22, 2026 01:03 AM ET
 
-By level: Director 923 · VP 412 · Sr. Director 206 · Head 131 · EVP/SVP 88 · ED 46 · C-level 36 · MD 17
+By level: Director 924 · VP 412 · Sr. Director 206 · Head 131 · EVP/SVP 88 · ED 46 · C-level 36 · MD 17
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -37,7 +37,7 @@ By level: Director 923 · VP 412 · Sr. Director 206 · Head 131 · EVP/SVP 88 �
 - [🏛️ Architecture (51)](#architecture)
 - [🔄 Transformation & Delivery (211)](#transformation-delivery)
 - [🛠️ Engineering & Software (469)](#engineering-software)
-- [📌 Other Senior Roles (158)](#other-senior-roles)
+- [📌 Other Senior Roles (159)](#other-senior-roles)
 - [🔒 Recently closed (25)](#recently-closed)
 - Daily digests: [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
 
@@ -1709,6 +1709,7 @@ _219 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | Senior Vice President, Full-Stack Engineer (req 82030) | EVP/SVP | Jersey City, NJ, United States |  | 17d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82030) |
 | Sprinklr | Director, Business Intelligence | Director | United States - Texas - Austin +5 · Remote | $161K–$269K | 17d | [Apply](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Austin/Director--Business-Intelligence_113553-JOB) |
 | Waymo ⭐ | Director, Systems Integration, Diagnostics | Director | Mountain View, CA, USA | $323K–$399K | 20d | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8178551) ⚡ |
+| BEUMER Group | Director, Project Execution, Logistic Systems | Director | Somerset, New Jersey, us |  | 21d | [Apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000153025748-director-project-execution-logistic-systems-) ⚡ |
 | GSK | Director, Market Access Account Integration | Director | Durham, North Carolina, United States of A |  | 21d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB448906EXTERNALENGB) |
 | Verkada | Director of Business Systems Product Management | Director | San Mateo, CA United States | $220K–$310K | 21d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5238205007) ⚡ |
 | Capital One ⭐ | Director, Card Tech Risk Advisor | Director | McLean, VA +2 | $230K–$263K | 21d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Card-Tech-Risk-Advisor_R1001971-1) |

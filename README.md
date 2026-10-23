@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,013 open roles** at **674 companies** · **146 new in the last 24 hours** · 5,267 company career sites watched · updated hourly · last update Oct 23, 2026 01:12 AM ET
+**2,013 open roles** at **675 companies** · **147 new in the last 24 hours** · 5,270 company career sites watched · updated hourly · last update Oct 23, 2026 02:12 AM ET
 
-By level: Director 999 · VP 451 · Sr. Director 226 · Head 135 · EVP/SVP 92 · ED 50 · C-level 42 · MD 18
+By level: Director 1000 · VP 451 · Sr. Director 225 · Head 135 · EVP/SVP 92 · ED 50 · C-level 42 · MD 18
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (146)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (147)](#new-in-the-last-24-hours)
 - [🤠 Houston area (33)](#houston-area)
 - [👑 Executive Technology Leadership (43)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (129)](#security-risk-technology)
@@ -35,10 +35,10 @@ By level: Director 999 · VP 451 · Sr. Director 226 · Head 135 · EVP/SVP 92 �
 - [🚦 Reliability & Operations (130)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (192)](#cloud-infrastructure)
 - [🏛️ Architecture (52)](#architecture)
-- [🔄 Transformation & Delivery (234)](#transformation-delivery)
+- [🔄 Transformation & Delivery (233)](#transformation-delivery)
 - [🛠️ Engineering & Software (502)](#engineering-software)
-- [📌 Other Senior Roles (167)](#other-senior-roles)
-- [🔒 Recently closed (38)](#recently-closed)
+- [📌 Other Senior Roles (168)](#other-senior-roles)
+- [🔒 Recently closed (39)](#recently-closed)
 - Daily digests: [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,6 +47,7 @@ By level: Director 999 · VP 451 · Sr. Director 226 · Head 135 · EVP/SVP 92 �
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Megaport | 🆕 Director - Finance Systems | Director | Brisbane, Queensland |  | 0d | [Apply](https://jobs.lever.co/megaport/70c937cf-db24-453c-ba52-d6f99be8e167) ⚡ |
 | Barclays | 🆕 Senior AWS Cloud Engineering Lead - VP | VP | Whippany, NJ, USA | $170K–$230K | 0d | [Apply](https://search.jobs.barclays/job/whippany/senior-aws-cloud-engineering-lead-vp/13015/91177536880) |
 | VisiQuate, Inc. | 🆕 Director of Product Management & Revenue Cycle AI Products | Director | Remote, USA | $175K–$215K | 0d | [Apply](https://visiquate.bamboohr.com/careers/130?source=indeed&src=indeed&postedDate=2026-10-22) |
 | JPMorgan Chase ⭐ | 🆕 Lead Machine Learning Engineer-MLOps Vice President | VP | NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803123) |
@@ -1109,7 +1110,6 @@ _314 older roles in this section are in data/roles.json on the `data` branch._
 | Avantor | Senior Director, Digital Product Management | Sr. Director | IL, USA · Remote |  | 2d | [Apply](https://careers.avantorsciences.com/senior-director-digital-product-management/job/R-176300) |
 | Samsonite | Vice President, Digital Activation & Ecommerce Excellence | VP | Mansfield, MA, United States |  | 2d | [Apply](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9717) [alt](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/9717) |
 | Mastercard (Phenom) ⭐ | Director, Digital Payments Solution Engineer | Director | New York, New York, United States of Ameri |  | 2d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR291792EXTERNALENUS) |
-| Davita | Sr Director, Technical Delivery (Technology) | Sr. Director | 06794 - Falcon Physician-Silver |  | 2d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06794---Falcon-Physician-Silver/Sr-Director--Technical-Delivery--Technology-_R0482861) |
 | JPMorgan Chase ⭐ | Vice President, Product Strategy & Transformation | VP | New York, NY, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763580) |
 | Baker Tilly Canada | Director, Strategy & Transformation | Director | USA PA Philadelphia +12 · Remote |  | 2d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-PA-Philadelphia/Director--Strategy---Transformation_JR107595) |
 | insitro.com | Vice President, FP&A & Financial Transformation | VP | South San Francisco, CA | $300K–$345K | 2d | [Apply](https://jobs.ashbyhq.com/insitro/9d864452-e514-47ca-a77f-0481a60bffff) ⚡ [alt](https://jobs.ashbyhq.com/insitro/9d864452-e514-47ca-a77f-0481a60bffff) |
@@ -1582,6 +1582,7 @@ _252 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Megaport | 🆕 Director - Finance Systems | Director | Brisbane, Queensland |  | 0d | [Apply](https://jobs.lever.co/megaport/70c937cf-db24-453c-ba52-d6f99be8e167) ⚡ |
 | REGENT Craft, Inc. | 🆕 Director, Defense Mission Integration | Director | North Kingstown, Rhode Island, USA |  | 1d | [Apply](https://jobs.ashbyhq.com/REGENT/ecc2a221-7696-4ba1-bdc0-caaf58dd8f6b) ⚡ [alt](https://jobs.ashbyhq.com/REGENT/ecc2a221-7696-4ba1-bdc0-caaf58dd8f6b?utm_source=RxmQzVWLv2) |
 | Rivianvw Tech | 🆕 Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 1d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/63bd3102-a169-4ada-8a6a-39deda7969ed) ⚡ |
 | Diné Development Corporation | 🆕 Director of Integration | Director | Dayton, OH |  | 1d | [Apply](https://ddcdine.wd501.myworkdayjobs.com/DDC_Careers/job/Dayton-OH/Director-of-Intergration_JR100456) |
@@ -1758,6 +1759,7 @@ _252 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Davita | 🔒 Sr Director, Technical Delivery (Technology) | Sr. Director | 06794 - Falcon Physician-Silver |  | 2d | Closed |
 | CVS Health ⭐ | 🔒 Executive Director, Health100 App — Digital Product | ED | RI - Woonsocket · Remote |  | 14d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Content Management Platform Manager, Vice President | VP | Columbus, OH, United States |  | 6d | Closed |
 | BNY ⭐ | 🔒 Senior Vice President, AI Governance Lead - Data, Risk & Regulatory Frameworks | EVP/SVP | New York, NY, United States |  | 8d | Closed |

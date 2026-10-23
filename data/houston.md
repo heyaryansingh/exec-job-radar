@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-33 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+34 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Neumo Holdings LLC | 🆕 VP-Product Management | VP | Houston, TX, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=56dad57d-81b7-4889-9f75-7ef29807fa05&ccId=1990797403_6352&jobId=620159&source=IN&lang=en_US) |
 | Strong Tower Partners | 🆕 Director of Information Technology | Director | The Woodlands, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-information-technology-at-strong-tower-partners-4480724837) |
 | Baker Tilly Canada | Director, Strategy & Transformation | Director | USA PA Philadelphia +12 · Remote |  | 2d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-PA-Philadelphia/Director--Strategy---Transformation_JR107595) |
 | GFL Environmental | National Director, Health & Safety - USA | Director | Sugar Land, TX, USA |  | 2d | [Apply](https://careers.gflenv.com/national-director-health-safety-usa/job/E704BB9127BB1B895378F618A130BD56) |

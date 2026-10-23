@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,013 open roles** at **675 companies** · **147 new in the last 24 hours** · 5,270 company career sites watched · updated hourly · last update Oct 23, 2026 02:12 AM ET
+**2,014 open roles** at **675 companies** · **143 new in the last 24 hours** · 5,270 company career sites watched · updated hourly · last update Oct 23, 2026 03:02 AM ET
 
-By level: Director 1000 · VP 451 · Sr. Director 225 · Head 135 · EVP/SVP 92 · ED 50 · C-level 42 · MD 18
+By level: Director 1001 · VP 451 · Sr. Director 225 · Head 135 · EVP/SVP 92 · ED 50 · C-level 42 · MD 18
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (147)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (143)](#new-in-the-last-24-hours)
 - [🤠 Houston area (33)](#houston-area)
 - [👑 Executive Technology Leadership (43)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (129)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 1000 · VP 451 · Sr. Director 225 · Head 135 · EVP/SVP 92 
 - [☁️ Cloud & Infrastructure (192)](#cloud-infrastructure)
 - [🏛️ Architecture (52)](#architecture)
 - [🔄 Transformation & Delivery (233)](#transformation-delivery)
-- [🛠️ Engineering & Software (502)](#engineering-software)
+- [🛠️ Engineering & Software (503)](#engineering-software)
 - [📌 Other Senior Roles (168)](#other-senior-roles)
 - [🔒 Recently closed (39)](#recently-closed)
 - Daily digests: [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
@@ -190,10 +190,6 @@ By level: Director 1000 · VP 451 · Sr. Director 225 · Head 135 · EVP/SVP 92 
 | Citi (jobs.citi.com) ⭐ | 🆕 Regulatory & Exam Sr Officer I - Operational Risk & Data- Senior Vice President | EVP/SVP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/regulatory-and-exam-sr-officer-i-operational-risk-and-data-senior-vice-president/287/102261602240) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Program Management Lead, Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/program-management-lead-vice-president/287/102261625120) |
 | Delta Dental | 🆕 Director, Data & Analytics Product Management | Director | Boston, MA, USA · Remote | $194K–$229K | 2d | [Apply](https://deltadentalma.hrmdirect.com/employment/view.php?req=3845339&jbsrc=1014&location=ee7e3fbf-c91f-00bc-26bf-093f43107a6b) |
-| Citi ⭐ | 🆕 Program Management Lead, Vice President | VP | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Program-Management-Lead--Vice-President_261002226) |
-| Citi ⭐ | 🆕 OM AI Program Management Lead VP | VP | Tampa Florida United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/OM-AI-Program-Management-Lead-VP_261003246) |
-| Citi ⭐ | 🆕 Regulatory & Exam Sr Officer I - Operational Risk & Data- Senior Vice President | EVP/SVP | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Regulatory---Exam-Sr-Officer-I---Operational-Risk---Data--Senior-Vice-President_261003951) |
-| Citi ⭐ | 🆕 OMAI - Program Management Lead - Vice President | VP | Getzville New York United States |  | 3d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/OMAI---Program-Management-Lead---Vice-President_261002086) |
 
 <a name="houston-area"></a>
 
@@ -473,8 +469,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | 🆕 Head of Americas Corporate Actions and Product Reference Data | Head | Irving, TX, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/irving/head-of-americas-corporate-actions-and-product-reference-data/287/102261597600) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Regulatory & Exam Sr Officer I - Operational Risk & Data- Senior Vice President | EVP/SVP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/regulatory-and-exam-sr-officer-i-operational-risk-and-data-senior-vice-president/287/102261602240) |
 | Delta Dental | 🆕 Director, Data & Analytics Product Management | Director | Boston, MA, USA · Remote | $194K–$229K | 2d | [Apply](https://deltadentalma.hrmdirect.com/employment/view.php?req=3845339&jbsrc=1014&location=ee7e3fbf-c91f-00bc-26bf-093f43107a6b) |
-| Citi ⭐ | 🆕 OM AI Program Management Lead VP | VP | Tampa Florida United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/OM-AI-Program-Management-Lead-VP_261003246) |
-| Citi ⭐ | 🆕 Regulatory & Exam Sr Officer I - Operational Risk & Data- Senior Vice President | EVP/SVP | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Regulatory---Exam-Sr-Officer-I---Operational-Risk---Data--Senior-Vice-President_261003951) |
+| Citi ⭐ | OM AI Program Management Lead VP | VP | Tampa Florida United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/OM-AI-Program-Management-Lead-VP_261003246) |
+| Citi ⭐ | Regulatory & Exam Sr Officer I - Operational Risk & Data- Senior Vice President | EVP/SVP | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Regulatory---Exam-Sr-Officer-I---Operational-Risk---Data--Senior-Vice-President_261003951) |
 | Bain & Company | Head of Data Science | Head | Chicago, IL, USA | $226K–$277K | 2d | [Apply](https://careers.bain.com/jobs/FolderDetail/Head-of-Data-Science/111467) |
 | Bain & Company | Director, AI and Machine Learning Engineering | Director | Boston, MA, USA | $236K–$270K | 2d | [Apply](https://careers.bain.com/jobs/FolderDetail/Director-AI-and-Machine-Learning-Engineering/111321) |
 | McCarthy Holdings | Director, Engineering, Data & AI | Director | Phoenix, AZ, USA |  | 2d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oDvZAfwr&loc=Cq5oVfwy&s=Indeed) |
@@ -1105,7 +1101,7 @@ _314 older roles in this section are in data/roles.json on the `data` branch._
 | Information Technology Senior Management Forum | Senior Director, Technical Program Management | Sr. Director | McLean, VA, USA | $270K–$308K | 1d | [Apply](https://jobs.itsmfleaders.org/job/54tp4l/senior-director-technical-program-management/mclean/va) |
 | Social Capital Resources | 🆕 Vice President, Technology Transformation Lead | VP | Manhattan, Kansas |  | 2d | [Apply](https://www.talent.com/view?id=642551547137434725) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Program Management Lead, Vice President | VP | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/program-management-lead-vice-president/287/102261625120) |
-| Citi ⭐ | 🆕 Program Management Lead, Vice President | VP | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Program-Management-Lead--Vice-President_261002226) |
+| Citi ⭐ | Program Management Lead, Vice President | VP | New York New York United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Program-Management-Lead--Vice-President_261002226) |
 | WSP | Senior Vice President, Project & Program Management | EVP/SVP | Denver, CO, United States |  | 2d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97985) |
 | Avantor | Senior Director, Digital Product Management | Sr. Director | IL, USA · Remote |  | 2d | [Apply](https://careers.avantorsciences.com/senior-director-digital-product-management/job/R-176300) |
 | Samsonite | Vice President, Digital Activation & Ecommerce Excellence | VP | Mansfield, MA, United States |  | 2d | [Apply](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9717) [alt](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/9717) |
@@ -1125,7 +1121,7 @@ _314 older roles in this section are in data/roles.json on the `data` branch._
 | Mastercard ⭐ | Vice President, Product Development, Digital Commerce Services | VP | San Francisco, California +1 | $245K–$391K | 2d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Vice-President--Product-Development--Digital-Commerce-Services_R-294031) |
 | Danaher | Director, Program Management | Director | Boston, Massachusetts, United States +1 · Remote |  | 2d | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Boston-Massachusetts-United-States/Director--Program-Management_R1320987) |
 | Scotiabank | Director, Senior Product Manager, GCM Transformation | Director | Dallas, TX, USA |  | 2d | [Apply](https://jobs.scotiabank.com/job/Dallas-Director%2C-Senior-Product-Manager%2C-GCM-Transformation-TX-75219/607211917/) |
-| Citi ⭐ | 🆕 OMAI - Program Management Lead - Vice President | VP | Getzville New York United States |  | 3d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/OMAI---Program-Management-Lead---Vice-President_261002086) |
+| Citi ⭐ | OMAI - Program Management Lead - Vice President | VP | Getzville New York United States |  | 3d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/OMAI---Program-Management-Lead---Vice-President_261002086) |
 | UTLX | Director, IT Strategy & Alignment | Director | Chicago, IL |  | 3d | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Director--IT-Strategy---Alignment_JR0000046477) |
 | Citi (jobs.citi.com) ⭐ | Digital Tagging & Measurement Lead – VP (C13) | VP | Irving, TX, US +1 |  | 3d | [Apply](https://jobs.citi.com/job/irving/digital-tagging-and-measurement-lead-vp-c13/287/102210709424) |
 | Aspen Technology | Director, Digital Experience | Director | Bedford, Massachusetts |  | 3d | [Apply](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Bedford-Massachusetts/Director--Digital-Experience_R9489) |
@@ -1574,7 +1570,7 @@ _314 older roles in this section are in data/roles.json on the `data` branch._
 | Mwaa | Senior Vice President of Engineering | EVP/SVP | MWAA Headquarters |  | 7d | [Apply](https://mwaa.wd1.myworkdayjobs.com/MWAA/job/MWAA-Headquarters/Senior-Vice-President-of-Engineering_R0007567) |
 | Coke | Senior Director, Software Engineering | Sr. Director | US - GA - Atlanta |  | 7d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director--Software-Engineering_R-144454) |
 
-_252 older roles in this section are in data/roles.json on the `data` branch._
+_253 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

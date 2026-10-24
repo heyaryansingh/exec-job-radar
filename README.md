@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,232 open roles** at **775 companies** · **75 new in the last 24 hours** · 5,347 company career sites watched · updated hourly · last update Oct 24, 2026 04:53 PM ET
+**2,232 open roles** at **775 companies** · **71 new in the last 24 hours** · 5,347 company career sites watched · updated hourly · last update Oct 24, 2026 05:43 PM ET
 
 By level: Director 1109 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1109 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 
 
 ## Contents
 
-- [🆕 New in the last 24 hours (75)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (71)](#new-in-the-last-24-hours)
 - [🤠 Houston area (41)](#houston-area)
 - [👑 Executive Technology Leadership (48)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (140)](#security-risk-technology)
@@ -107,10 +107,6 @@ By level: Director 1109 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 
 | ENDO INTERNATIONAL PLC | 🆕 Head of Engineering, Sterile Injectables | Head | Rochester, Michigan |  | 1d | [Apply](https://endo.wd1.myworkdayjobs.com/External/job/Rochester-Michigan/Head-of-Engineering--Sterile-Injectables_R003428) [alt](https://endo.wd1.myworkdayjobs.com/en-US/External/job/Rochester-Michigan/Head-of-Engineering--Sterile-Injectables_R003428) |
 | U.S. Bank | 🆕 Vice President, People Analytics-Data Science | VP | Minneapolis, MN |  | 1d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Vice-President--People-Analytics-Data-Science_2026-0032322-1) |
 | USAA ⭐ | 🆕 Executive Director, IT/IS Risk Management & Governance | ED | Charlotte, NC - CENTS | $170K–$306K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Executive-Director--IT-IS-Risk-Management---Governance_R0121852-1) |
-| Welltheory | 🆕 Head of Engineering | Head | Remote - US | $205K–$230K | 1d | [Apply](https://jobs.ashbyhq.com/welltheory/17b3bc2c-a70f-4823-9c27-69c6486a9cb2) ⚡ |
-| Coke | 🆕 Senior Director II, Engineering | Sr. Director | US - GA - Atlanta |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director-II--Engineering---Southeast_R-147871) |
-| Sunbelt Rentals | 🆕 Director, Technology Support & Operations | Director | Fort Mill SC 29715 |  | 1d | [Apply](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Fort-Mill-SC-29715/Director--Technology-Support---Operations_2026-17567) |
-| The Aerospace Corporation | 🆕 Director, Data & AI Services | Director | El Segundo, CA +1 |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Director--Data---AI-Services_R017006) |
 | TD | 🆕 Head of Mobile and Agentic Banking Transformation (US) | Head | Mount Laurel, New Jersey +1 | $275K–$375K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Head-of-Mobile-and-Agentic-Banking-Transformation--US-_R_1510827) |
 | BLEND360 | 🆕 CTO​/Senior Architect | C-level | New York, New York |  | 2d | [Apply](https://www.learn4good.com/jobs/new-york-city/new-york/info_technology/5557041351/e/) |
 | Breakthru Beverage | 🆕 Director, Cloud Security Architecture & Engineering | Director | Eastern, Kentucky |  | 2d | [Apply](https://www.recruit.net/job/director-cloud-security-architecture-engineering-jobs/F714D9E48356A892) |
@@ -397,7 +393,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Emerson | 🆕 Director, AI Engineering and Delivery | Director | Shakopee, MN, United States | $202K–$252K | 1d | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012594) [alt](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26012594?utm_medium=jobboard&utm_source=indeed) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Software Engineer - Python and Data - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/senior-software-engineer-python-and-data-vice-president/287/102333954496) |
 | U.S. Bank | 🆕 Vice President, People Analytics-Data Science | VP | Minneapolis, MN |  | 1d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Vice-President--People-Analytics-Data-Science_2026-0032322-1) |
-| The Aerospace Corporation | 🆕 Director, Data & AI Services | Director | El Segundo, CA +1 |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Director--Data---AI-Services_R017006) |
+| The Aerospace Corporation | Director, Data & AI Services | Director | El Segundo, CA +1 |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Director--Data---AI-Services_R017006) |
 | Fiserv | Data and AI Portfolio, Director | Director | Sunnyvale, California, United States of Am |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10405325EXTERNALENUS) |
 | ABC Fitness | Director of Data Architect | Director | Remote, United States |  | 1d | [Apply](https://abcfinancial.wd5.myworkdayjobs.com/ABCFinancialServices/job/Remote-United-States/Director-of-Data-Architect_REQ-1620) |
 | Broadridge | Senior Director, Market Data Strategy & Distribution (Hybrid - Denver, CO or Chicago, IL or NYC) | Sr. Director | Denver, CO | $250K–$275K | 1d | [Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Denver-CO/Senior-Director--Market-Data-Strategy---Distribution--Hybrid---Denver--CO-or-Chicago--IL-or-NYC-_JR1086950) |
@@ -642,7 +638,7 @@ _376 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Openrouter | 🆕 Director, Customer Support | Director | San Francisco Bay Area, California +1 · Remote | $240K–$275K | 1d | [Apply](https://jobs.ashbyhq.com/openrouter/3664588e-861e-4917-8be9-e4e443fafe13) ⚡ |
 | Walmart | 🆕 (USA) Senior Director, Technology Operations - Marketplace Returns | Sr. Director | Bentonville, AR, USA | $130K–$260K | 1d | [Apply](https://click.appcast.io/t/dACNNGpWWGt9AgZ6ZMaiU7QfQJparATxl81jcKXA_nA=) |
-| Sunbelt Rentals | 🆕 Director, Technology Support & Operations | Director | Fort Mill SC 29715 |  | 1d | [Apply](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Fort-Mill-SC-29715/Director--Technology-Support---Operations_2026-17567) |
+| Sunbelt Rentals | Director, Technology Support & Operations | Director | Fort Mill SC 29715 |  | 1d | [Apply](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Fort-Mill-SC-29715/Director--Technology-Support---Operations_2026-17567) |
 | Fidelity ⭐ | Director, Site Reliability Engineering - Digital Assets | Director | Jersey City, NJ |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Jersey-City-NJ/Director--Site-Reliability-Engineering---Digital-Assets_2127347) |
 | OutSystems | Senior Director, Web Strategy and Operations | Sr. Director | US - Remote |  | 1d | [Apply](https://outsystems.wd503.myworkdayjobs.com/OutSystems/job/US---Remote/Senior-Director--Web-Strategy-and-Operations_R1821) [alt](https://outsystems.wd503.myworkdayjobs.com/en-US/OutSystems/job/US---Remote/Senior-Director--Web-Strategy-and-Operations_R1821) |
 | Coke | Technical Operations Senior Director | Sr. Director | US - GA - Atlanta |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Technical-Operations-Senior-Director_R-148122) |
@@ -1356,8 +1352,8 @@ _7 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 VP Senior Software Engineer | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/vp-senior-software-engineer/287/102333956208) |
 | ENDO INTERNATIONAL PLC | 🆕 Head of Engineering, Sterile Injectables | Head | Rochester, Michigan |  | 1d | [Apply](https://endo.wd1.myworkdayjobs.com/External/job/Rochester-Michigan/Head-of-Engineering--Sterile-Injectables_R003428) [alt](https://endo.wd1.myworkdayjobs.com/en-US/External/job/Rochester-Michigan/Head-of-Engineering--Sterile-Injectables_R003428) |
 | USAA ⭐ | 🆕 Executive Director, IT/IS Risk Management & Governance | ED | Charlotte, NC - CENTS | $170K–$306K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Executive-Director--IT-IS-Risk-Management---Governance_R0121852-1) |
-| Welltheory | 🆕 Head of Engineering | Head | Remote - US | $205K–$230K | 1d | [Apply](https://jobs.ashbyhq.com/welltheory/17b3bc2c-a70f-4823-9c27-69c6486a9cb2) ⚡ |
-| Coke | 🆕 Senior Director II, Engineering | Sr. Director | US - GA - Atlanta |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director-II--Engineering---Southeast_R-147871) |
+| Welltheory | Head of Engineering | Head | Remote - US | $205K–$230K | 1d | [Apply](https://jobs.ashbyhq.com/welltheory/17b3bc2c-a70f-4823-9c27-69c6486a9cb2) ⚡ |
+| Coke | Senior Director II, Engineering | Sr. Director | US - GA - Atlanta |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director-II--Engineering---Southeast_R-147871) |
 | Ursa Major | Director, Enterprise Systems & Software | Director | Longmont, Colorado | $180K–$224K | 1d | [Apply](https://ursamajor.com/careers/?gh_jid=4746840005) ⚡ |
 | Tideworks Technology | Director-IT | Director | Seattle, WA, USA | $220K–$260K | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001233778206&c=1179415&d=TWExternal&rb=INDEED&idUnique=5001233778206) |
 | SnapLogic | Director, Software Engineering | Director | San Mateo, CA | $220K–$250K | 1d | [Apply](https://jobs.lever.co/snaplogic/0ad1a451-3344-4ef9-bdd9-3967e17110c5) ⚡ [alt](https://jobs.lever.co/snaplogic/0ad1a451-3344-4ef9-bdd9-3967e17110c5?lever-source=Indeed) |

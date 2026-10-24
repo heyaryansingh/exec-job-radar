@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,235 open roles** at **777 companies** · **60 new in the last 24 hours** · 5,347 company career sites watched · updated hourly · last update Oct 24, 2026 06:35 PM ET
+**2,236 open roles** at **778 companies** · **60 new in the last 24 hours** · 5,350 company career sites watched · updated hourly · last update Oct 24, 2026 06:43 PM ET
 
-By level: Director 1112 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
+By level: Director 1113 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,7 +36,7 @@ By level: Director 1112 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 
 - [☁️ Cloud & Infrastructure (209)](#cloud-infrastructure)
 - [🏛️ Architecture (64)](#architecture)
 - [🔄 Transformation & Delivery (257)](#transformation-delivery)
-- [🛠️ Engineering & Software (558)](#engineering-software)
+- [🛠️ Engineering & Software (559)](#engineering-software)
 - [📌 Other Senior Roles (184)](#other-senior-roles)
 - [🔒 Recently closed (50)](#recently-closed)
 - Daily digests: [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
@@ -48,8 +48,8 @@ By level: Director 1112 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | ADP | 🆕 Director, Finance Transformation & AI | Director | Miami, FL, USA |  | 0d | [Apply](https://click.appcast.io/t/UdjCcUY2pFRGjxBD965IdQuleR6dq7Uj17YUKX1I7OI=) |
-| SAIC | 🆕 Enterprise Architect Exec Director | Director | USA | $260K–$300K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |
 | City of Coronado, CA | 🆕 Assistant Director of Public Services and Engineering | Director | Coronado, CA, USA | $153K–$205K | 0d | [Apply](https://www.governmentjobs.com/careers/coronado/jobs/5523372/assistant-director-of-public-services-and-engineering) |
+| SAIC | 🆕 Enterprise Architect Exec Director | Director | USA | $260K–$300K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |
 | Bain & Company | 🆕 Head of Data Science | Head | Boston, MA, USA | $236K–$289K | 0d | [Apply](https://careers.bain.com/jobs/FolderDetail/Head-of-Data-Science/111467) |
 | EY | 🆕 Data Engineer and Analytics Platform Manager - Assistant Director | Director | Dallas, TX, USA | $124K–$264K | 0d | [Apply](https://careers.ey.com/ey/job/Dallas-Data-Engineer-and-Analytics-Platform-Manager-Assistant-Director-TX-75219/1450925333/) |
 | Oracle | 🆕 Director of Estimating - Data Center Fit-Out Cost Strategy (Nashville, TN) | Director | Nashville, TN, United States | $126K–$264K | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348731) |
@@ -1577,7 +1577,7 @@ _7 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Technical Engineering Leader - Director | Director | Jersey City, NJ, US |  | 5d | [Apply](https://jobs.citi.com/job/jersey-city/technical-engineering-leader-director/287/102161078864) |
 | Muon Space | Senior Director, EO/IR Instrument Engineering | Sr. Director | Mountain View, CA | $256K–$293K | 5d | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5268959007) ⚡ |
 
-_308 older roles in this section are in data/roles.json on the `data` branch._
+_309 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,221 open roles** at **769 companies** · **132 new in the last 24 hours** · 5,338 company career sites watched · updated hourly · last update Oct 24, 2026 12:41 PM ET
+**2,221 open roles** at **769 companies** · **125 new in the last 24 hours** · 5,338 company career sites watched · updated hourly · last update Oct 24, 2026 12:52 PM ET
 
 By level: Director 1100 · VP 491 · Sr. Director 254 · Head 147 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1100 · VP 491 · Sr. Director 254 · Head 147 · EVP/SVP 99 
 
 ## Contents
 
-- [🆕 New in the last 24 hours (132)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (125)](#new-in-the-last-24-hours)
 - [🤠 Houston area (41)](#houston-area)
 - [👑 Executive Technology Leadership (48)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (140)](#security-risk-technology)
@@ -156,12 +156,6 @@ By level: Director 1100 · VP 491 · Sr. Director 254 · Head 147 · EVP/SVP 99 
 | Northwestern Medicine | 🆕 Director Information Services, Consumer Digital Platform | Director | Chicago, IL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000157531699-director-information-services-consumer-digital-platform) ⚡ |
 | FOX | 🆕 Director, Technology Business Operations | Director | Los Angeles, California, USA +1 |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Director--Technology-Business-Operations_R50034173) |
 | Unum | 🆕 VP, Transformation & Product Leader | VP | Portland, Maine, USA +2 |  | 1d | [Apply](https://unum.wd1.myworkdayjobs.com/External/job/Portland-Maine-USA/VP--Transformation---Product-Leader_836578) |
-| Vonage | 🆕 Senior Director, BSS Engineering & Product​ | Sr. Director | Work from Home - Eastern US | $240K–$318K | 1d | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8911717002) ⚡ |
-| JPMorgan Chase ⭐ | 🆕 Vice President, Data Strategy for AI | VP | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801059) |
-| Amgen ⭐ | 🆕 Executive Director, Digital Product Management -Research | ED | US - California - South San Francisco · Remote | $249K–$337K | 1d | [Apply](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Executive-Director--Digital-Product-Management--Research_R-252246) |
-| Capital One ⭐ | 🆕 Director, Technical Program Management - Business Cards & Payments | Director | Richmond, VA +1 | $230K–$263K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Director--TPM_R1004186-1) |
-| Insulet Corporation | 🆕 Director, Applied AI - (Hybrid - Acton, MA) | Director | Acton, Massachusetts |  | 1d | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Director--Applied-AI----Hybrid---Acton--MA-_REQ-2026-18749) |
-| Prudential | 🆕 Vice President, Data and AI Architect | VP | Newark, NJ, USA |  | 1d | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Vice-President--Data-and-AI-Architect_R-125273-2) |
 | TD | 🆕 Head of Mobile and Agentic Banking Transformation (US) | Head | Mount Laurel, New Jersey +1 | $275K–$375K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Head-of-Mobile-and-Agentic-Banking-Transformation--US-_R_1510827) |
 | BLEND360 | 🆕 CTO​/Senior Architect | C-level | New York, New York |  | 2d | [Apply](https://www.learn4good.com/jobs/new-york-city/new-york/info_technology/5557041351/e/) |
 | Breakthru Beverage | 🆕 Director, Cloud Security Architecture & Engineering | Director | Eastern, Kentucky |  | 2d | [Apply](https://www.recruit.net/job/director-cloud-security-architecture-engineering-jobs/F714D9E48356A892) |
@@ -178,7 +172,6 @@ By level: Director 1100 · VP 491 · Sr. Director 254 · Head 147 · EVP/SVP 99 
 | Strada Education Network | 🆕 Vice President, Information Security | VP | Washington, DC | $201K–$223K | 2d | [Apply](https://jobs.lever.co/stradaeducation/50a4dd87-9740-495a-b73b-da446cd5806f) ⚡ [alt](https://jobs.lever.co/stradaeducation/50a4dd87-9740-495a-b73b-da446cd5806f?lever-source=Indeed) |
 | Texas Health and Human Services Commission | 🆕 Director of IT Customer Support Operations Office Support | Director | Austin, TX, USA |  | 2d | [Apply](https://career41.sapsf.com/career?company=northgat01&career_ns=job_listing&career_job_req_id=22649&lang=en_US&source=Indeed) |
 | Berkley Accident and Health (a Berkley Company) | 🆕 VP, Technology and Data Solutions | VP | Harleysville, Pennsylvania | $200K–$225K | 3d | [Apply](https://www.linkedin.com/jobs/view/vp-technology-and-data-solutions-at-berkley-accident-and-health-a-berkley-company-4473552642) |
-| Magna Legal Services | 🆕 Head of Software Engineering | Head | Remote |  | 3d | [Apply](https://jobs.lever.co/magnals/a24d409a-1e27-4756-876d-a3455d88ad6d) ⚡ |
 
 <a name="houston-area"></a>
 
@@ -467,9 +460,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering - Agentic AI | Director | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796859) |
 | JPMorgan Chase ⭐ | 🆕 Data Scientist Director, Executive Director | ED | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799445) |
 | Northwestern Medicine | 🆕 Director Information Services, Consumer Data Intelligence | Director | Chicago, IL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000157531359--director-information-services-consumer-data-intelligence) ⚡ |
-| JPMorgan Chase ⭐ | 🆕 Vice President, Data Strategy for AI | VP | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801059) |
-| Insulet Corporation | 🆕 Director, Applied AI - (Hybrid - Acton, MA) | Director | Acton, Massachusetts |  | 1d | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Director--Applied-AI----Hybrid---Acton--MA-_REQ-2026-18749) |
-| Prudential | 🆕 Vice President, Data and AI Architect | VP | Newark, NJ, USA |  | 1d | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Vice-President--Data-and-AI-Architect_R-125273-2) |
+| JPMorgan Chase ⭐ | Vice President, Data Strategy for AI | VP | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801059) |
+| Insulet Corporation | Director, Applied AI - (Hybrid - Acton, MA) | Director | Acton, Massachusetts |  | 1d | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Director--Applied-AI----Hybrid---Acton--MA-_REQ-2026-18749) |
+| Prudential | Vice President, Data and AI Architect | VP | Newark, NJ, USA |  | 1d | [Apply](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Vice-President--Data-and-AI-Architect_R-125273-2) |
 | JPMorgan Chase ⭐ | Product Manager, Payments Data & Analytics-Vice President | VP | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800700) |
 | Advanced Regenerative Manufacturing Institute | Director of Data Management & Analytics | Director | Manchester, NH, USA |  | 1d | [Apply](https://armiusa.isolvedhire.com/jobs/1890171-190774.html) |
 | JPMorgan Chase ⭐ | Executive Director, AI & Data Governance — Controls Strategy (Client Onboarding and Documentation Operations) | ED | NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802838) |
@@ -1151,8 +1144,8 @@ _370 older roles in this section are in data/roles.json on the `data` branch._
 | USAA ⭐ | 🆕 Director, Strategy & Transformation | Director | San Antonio Home Office I +1 |  | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Strategy---Transformation_R0121620) |
 | Revolution Medicines | 🆕 Executive Director, Portfolio Systems & Strategy Integration | ED | Redwood City, CA, USA | $265K–$331K | 1d | [Apply](https://www.revmed.com/careers-list/?gh_jid=7825028003) |
 | Unum | 🆕 VP, Transformation & Product Leader | VP | Portland, Maine, USA +2 |  | 1d | [Apply](https://unum.wd1.myworkdayjobs.com/External/job/Portland-Maine-USA/VP--Transformation---Product-Leader_836578) |
-| Amgen ⭐ | 🆕 Executive Director, Digital Product Management -Research | ED | US - California - South San Francisco · Remote | $249K–$337K | 1d | [Apply](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Executive-Director--Digital-Product-Management--Research_R-252246) |
-| Capital One ⭐ | 🆕 Director, Technical Program Management - Business Cards & Payments | Director | Richmond, VA +1 | $230K–$263K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Director--TPM_R1004186-1) |
+| Amgen ⭐ | Executive Director, Digital Product Management -Research | ED | US - California - South San Francisco · Remote | $249K–$337K | 1d | [Apply](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Executive-Director--Digital-Product-Management--Research_R-252246) |
+| Capital One ⭐ | Director, Technical Program Management - Business Cards & Payments | Director | Richmond, VA +1 | $230K–$263K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Director--TPM_R1004186-1) |
 | police department | Executive Director, Technology Delivery | ED | Manhattan, NY, USA | $84K–$223K | 1d | [Apply](https://cityjobs.nyc.gov/job/executive-director-technology-delivery-in-manhattan-jid-48576) |
 | Davita | Director, Learning Technology Strategy & Innovation | Director | 09567 - Denver HQ Non-CA or CO Remote |  | 1d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Director--Learning-Technology_R0472493) |
 | Guardian Life | Head of Transformation | Head | New York +1 |  | 1d | [Apply](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/Head-of-Transformation_R000110471-1) |
@@ -1424,7 +1417,7 @@ _7 older roles in this section are in data/roles.json on the `data` branch._
 | Lancer Worldwide | 🆕 VP, Engineering & Innovation | VP | San Antonio, TX, USA |  | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001233626106&c=1181315&d=LancerExternalCareerSite&rb=INDEED&idUnique=5001233626106) |
 | Oddball | 🆕 VP of Engineering | VP | Remote | $200K–$250K | 1d | [Apply](https://job-boards.greenhouse.io/oddball/jobs/8042987003) ⚡ |
 | GSK | 🆕 Senior Director, Technology Risk & Compliance Business Partners - GSC & OT | Sr. Director | Philadelphia, Pennsylvania, United States  |  | 1d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB450076EXTERNALENGB) |
-| Vonage | 🆕 Senior Director, BSS Engineering & Product​ | Sr. Director | Work from Home - Eastern US | $240K–$318K | 1d | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8911717002) ⚡ |
+| Vonage | Senior Director, BSS Engineering & Product​ | Sr. Director | Work from Home - Eastern US | $240K–$318K | 1d | [Apply](https://job-boards.greenhouse.io/vonage/jobs/8911717002) ⚡ |
 | Renesas | Distinguished Engineer (DE) or Senior Director, Central Engineering – SoC Design & Modeling Methodologies | Sr. Director | San Jose, CALIFORNIA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000157508255-distinguished-engineer-de-or-senior-director-central-engineering-soc-design-modeling-methodologies) ⚡ |
 | Otava | VP of Engineering | VP | Denver, CO, USA | $190K–$240K | 1d | [Apply](https://recruiting.ultipro.com/SCH1012SHRZ/JobBoard/813f24f9-0154-46d6-bbb4-966dd708b1ff/OpportunityDetail?opportunityId=094ee1f4-8d40-49ab-8369-b0a0db5fb58f&postingId=e57aed0d-ca25-4aa0-b210-9e0e412a98f6) |
 | AEP | Director of New Generation, Engineering and Technical Services | Director | Tulsa, OK |  | 1d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Director-of-New-Generation--Engineering-and-Technical-Services_R20350) |
@@ -1472,7 +1465,7 @@ _7 older roles in this section are in data/roles.json on the `data` branch._
 | VulcanForms Inc. | Director of Engineering, Mission Systems | Director | Devens, MA, USA | $192K–$264K | 2d | [Apply](https://ats.rippling.com/vulcanforms/jobs/79f98407-fe2e-492b-b969-0abd9b4922d6?jobSite=Indeed) |
 | IDENTITY THEFT GUARD SOLUTIONS INC | Director of Engineering | Director | Beaverton, OR, USA |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4605854/IDENTITY-THEFT-GUARD-SOLUTIONS-INC/Director-of-Engineering?source=Indeed_Feed) |
 | Absher Construction Company | Director of Technology | Director | Puyallup, WA, USA | $165K–$200K | 2d | [Apply](https://grnh.se/u6shz89k9us) |
-| Magna Legal Services | 🆕 Head of Software Engineering | Head | Remote |  | 3d | [Apply](https://jobs.lever.co/magnals/a24d409a-1e27-4756-876d-a3455d88ad6d) ⚡ |
+| Magna Legal Services | Head of Software Engineering | Head | Remote |  | 3d | [Apply](https://jobs.lever.co/magnals/a24d409a-1e27-4756-876d-a3455d88ad6d) ⚡ |
 | Fiserv | Director, Software Engineering | Director | Berkeley Heights, New Jersey, United State |  | 3d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10403185EXTERNALENUS) |
 | Strong Tower Partners | Director of Information Technology | Director | The Woodlands, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-information-technology-at-strong-tower-partners-4480724837) |
 | Compass | Director of Engineering | Director | New York, NY, USA | $275K–$306K | 3d | [Apply](https://grnh.se/821lob351us) |

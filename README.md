@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,207 open roles** at **764 companies** · **182 new in the last 24 hours** · 5,328 company career sites watched · updated hourly · last update Oct 24, 2026 01:29 AM ET
+**2,207 open roles** at **764 companies** · **181 new in the last 24 hours** · 5,332 company career sites watched · updated hourly · last update Oct 24, 2026 02:39 AM ET
 
 By level: Director 1092 · VP 487 · Sr. Director 253 · Head 146 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1092 · VP 487 · Sr. Director 253 · Head 146 · EVP/SVP 99 
 
 ## Contents
 
-- [🆕 New in the last 24 hours (182)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (181)](#new-in-the-last-24-hours)
 - [🤠 Houston area (40)](#houston-area)
 - [👑 Executive Technology Leadership (48)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (139)](#security-risk-technology)
@@ -194,7 +194,6 @@ By level: Director 1092 · VP 487 · Sr. Director 253 · Head 146 · EVP/SVP 99 
 | Upscale, Inc. | 🆕 Senior Director, AMS Layout Engineering | Sr. Director | USA | $306K–$337K | 1d | [Apply](https://jobs.lever.co/upscale-ai/cef4f2ba-ad76-4fa5-9c67-45fbd53b3416?lever-source=Indeed) |
 | Ursa Major Technologies, Inc. | 🆕 Chief Information Security Officer (CISO) | C-level | Longmont, CO, USA | $240K–$300K | 1d | [Apply](https://grnh.se/bnp680yd5us) |
 | Visa | 🆕 Director, Software Engineering | Director | IN - Bengaluru, India |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Director--Software-Engineering_REF089512W-1) |
-| Megaport | 🆕 Director - Finance Systems | Director | Brisbane, Queensland |  | 1d | [Apply](https://jobs.lever.co/megaport/70c937cf-db24-453c-ba52-d6f99be8e167) ⚡ |
 | BLEND360 | 🆕 CTO​/Senior Architect | C-level | New York, New York |  | 2d | [Apply](https://www.learn4good.com/jobs/new-york-city/new-york/info_technology/5557041351/e/) |
 | Breakthru Beverage | 🆕 Director, Cloud Security Architecture & Engineering | Director | Eastern, Kentucky |  | 2d | [Apply](https://www.recruit.net/job/director-cloud-security-architecture-engineering-jobs/F714D9E48356A892) |
 | Google | 🆕 Vice President, Engineering, Core Experience, Google Identity and Engagement | VP | San Jose, California |  | 2d | [Apply](https://www.linkedin.com/jobs/view/vice-president-engineering-core-experience-google-identity-and-engagement-at-google-4481146843) |
@@ -1712,7 +1711,7 @@ _304 older roles in this section are in data/roles.json on the `data` branch._
 | Methodist Le Bonheur Healthcare | 🆕 Director - Business Continuity | Director | Memphis Professional Building |  | 1d | [Apply](https://methodisthealth.wd5.myworkdayjobs.com/MLH/job/Memphis-Professional-Building/Director---Business-Continuity_R-21721) |
 | Methodist Le Bonheur Healthcare | 🆕 Director - Business Continuity | Director | Memphis, TN, USA |  | 1d | [Apply](https://methodisthealth.wd5.myworkdayjobs.com/MLH/job/Memphis-Professional-Building/Director---Business-Continuity_R-21721) |
 | IonQ | 🆕 Director, Product Management - Next Generation Quantum Systems | Director | Bothell, Washington, United States | $212K–$312K | 1d | [Apply](https://ionq.com/job?gh_jid=6230964004) ⚡ |
-| Megaport | 🆕 Director - Finance Systems | Director | Brisbane, Queensland |  | 1d | [Apply](https://jobs.lever.co/megaport/70c937cf-db24-453c-ba52-d6f99be8e167) ⚡ |
+| Megaport | Director - Finance Systems | Director | Brisbane, Queensland |  | 1d | [Apply](https://jobs.lever.co/megaport/70c937cf-db24-453c-ba52-d6f99be8e167) ⚡ |
 | Jacobs | 🆕 Director of Innovation - Energy and Power | Director | Fort Worth, TX, USA | $190K–$248K | 2d | [Apply](https://careers.jacobs.com/en_US/careers/JobDetail/Director-of-Innovation-Energy-and-Power/46857) |
 | REGENT Craft, Inc. | Director, Defense Mission Integration | Director | North Kingstown, Rhode Island, USA |  | 2d | [Apply](https://jobs.ashbyhq.com/REGENT/ecc2a221-7696-4ba1-bdc0-caaf58dd8f6b) ⚡ [alt](https://jobs.ashbyhq.com/REGENT/ecc2a221-7696-4ba1-bdc0-caaf58dd8f6b?utm_source=RxmQzVWLv2) |
 | Rivianvw Tech | Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 2d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/63bd3102-a169-4ada-8a6a-39deda7969ed) ⚡ |

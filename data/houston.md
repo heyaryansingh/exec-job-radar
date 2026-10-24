@@ -1,12 +1,14 @@
 # 🤠 Senior technology roles in the Houston area
 
-35 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+38 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Harris County | 🆕 Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Neumo Holdings LLC | 🆕 VP-Product Management | VP | Houston, TX, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=56dad57d-81b7-4889-9f75-7ef29807fa05&ccId=1990797403_6352&jobId=620159&source=IN&lang=en_US) |
-| Strong Tower Partners | 🆕 Director of Information Technology | Director | The Woodlands, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-information-technology-at-strong-tower-partners-4480724837) |
+| WORLDWIDE POWER PRODUCTS LLC | 🆕 Director of Business and Digital Transformation | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/WORLDWIDE-POWER-PRODUCTS/Job/Director-of-Business-and-Digital-Transformation/-in-Houston,TX?jid=4b8e00f70ac02b09) |
+| Texas Petroleum Group | 🆕 Director of Enterprise Products & Engineering | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/texas-petroleum-group/Job/Director-of-Enterprise-Products-&-Engineering/-in-Houston,TX?jid=7ffbc07cb10603a4) |
+| Strong Tower Partners | Director of Information Technology | Director | The Woodlands, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-information-technology-at-strong-tower-partners-4480724837) |
 | Baker Tilly Canada | Director, Strategy & Transformation | Director | USA PA Philadelphia +12 · Remote |  | 3d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-PA-Philadelphia/Director--Strategy---Transformation_JR107595) |
 | GFL Environmental | National Director, Health & Safety - USA | Director | Sugar Land, TX, USA |  | 3d | [Apply](https://careers.gflenv.com/national-director-health-safety-usa/job/E704BB9127BB1B895378F618A130BD56) |
 | McCarthy Holdings | Director, Engineering, Data & AI | Director | Houston, TX, USA |  | 3d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oDvZAfwr&loc=Ck4oVfwr&s=Indeed) |
@@ -29,6 +31,7 @@
 | JLL ⭐ | Senior Vice President, Data Centers | EVP/SVP | Lufkin, TX +5 · Remote |  | 9d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Lufkin-TX/Senior-Vice-President--Data-Centers_REQ538652) |
 | HP | Senior Director -  Agentic AI Development | Sr. Director | Spring, Texas, United States of America +1 | $200K–$320K | 10d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Senior-Director----Agentic-AI-Development_3168693-2) |
 | JPMorgan Chase ⭐ | Vice President - Lead Site Reliability Engineer | VP | Houston, TX, United States |  | 11d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799206) |
+| Wood Mackenzie | VP, Head of Transmission Products | VP | Houston, US · Remote |  | 12d | [Apply](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Houston-US/VP--Head-of-Transmission-Products_JR3437) |
 | Trinzic | ANTARCTICA: Business Systems Director | Director | Houston, Texas, United States of America |  | 16d | [Apply](https://careers.trinzic.com/us/en/job/KIVKBRUSR2129995EXTERNALENUS) |
 | JLL ⭐ | VP Project Controls, Data Centers | VP | Houston, TX +8 · Remote |  | 16d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/VP-Project-Controls--Data-Centers_REQ538668) |
 | Chevron ⭐ | Head of Risk Transformation | Head | Houston, Texas, United States of America |  | 16d | [Apply](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Head-of-Risk-Transformation_R000074282) |

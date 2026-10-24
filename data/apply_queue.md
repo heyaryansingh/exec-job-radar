@@ -296,14 +296,14 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 290 | 57 | COHOES CITY SCHOOL DISTRICT | [Chief Technology Officer](https://cohoes.recruitfront.com/JobPosting?PTID=5&JID=91687) | Cohoes, NY, USA |  | via job board |  |
 | 291 | 57 | GE HealthCare | [Chief Technology Officer - Surgical Innovations](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4047727EXTERNALENGLOBAL/Chief-Technology-Officer-Surgical-Innovations?utm_source=indeed&utm_medium=phenom-feeds) | Waukesha, WI, USA |  | via job board |  |
 | 292 | 57 | WORLDWIDE POWER PRODUCTS LLC | [Director of Business and Digital Transformation](https://www.ziprecruiter.com/c/WORLDWIDE-POWER-PRODUCTS/Job/Director-of-Business-and-Digital-Transformation/-in-Houston,TX?jid=4b8e00f70ac02b09) | Houston, Texas |  | via job board |  |
-| 293 | 56 | EVERSANA | [VP, Group Director, Integrated Production](https://jobs.smartrecruiters.com/EVERSANA1/744000156667210-vp-group-director-integrated-production) | New York, NY, us |  | ⚡ quick form |  |
-| 294 | 56 | Freeform | [Head of IT](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8040921003) | Los Angeles, CA (On-site) |  | ⚡ quick form | 7 |
-| 295 | 56 | Renesas | [Senior Director, Hardware Engineering](https://jobs.smartrecruiters.com/RenesasElectronics/744000157273800-senior-director-hardware-engineering) | San Jose, CALIFORNIA, us |  | ⚡ quick form |  |
-| 296 | 56 | Anduril Industries | [Head of Production, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5273710007?gh_jid=5273710007) | Santa Ana, California, United States | $292,000 | ⚡ quick form | 14 |
-| 297 | 56 | JLL | [Director, Security Management](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cincinnati-OH/Director--Security-Management_REQ543381) | Cincinnati, OH |  | account |  |
-| 298 | 56 | Vertiv | [Director, Solution Architect-Hyperscale Power](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284739) | Westerville, OH, United States | $337,000 | account |  |
-| 299 | 56 | Vertiv | [Director, Solution Architect-Hyperscale Thermal](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284742) | Westerville, OH, United States | $337,000 | account |  |
-| 300 | 56 | Becton Dickinson | [Group Vice President - GPO Strategy and Health Systems](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/GVP---GPO-Strategy-and-Health-Systems_R-558443) | USA NJ - Franklin Lakes |  | account |  |
+| 293 | 56 | Freeform | [Head of IT](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8040921003) | Los Angeles, CA (On-site) |  | ⚡ quick form | 7 |
+| 294 | 56 | Renesas | [Senior Director, Hardware Engineering](https://jobs.smartrecruiters.com/RenesasElectronics/744000157273800-senior-director-hardware-engineering) | San Jose, CALIFORNIA, us |  | ⚡ quick form |  |
+| 295 | 56 | Anduril Industries | [Head of Production, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5273710007?gh_jid=5273710007) | Santa Ana, California, United States | $292,000 | ⚡ quick form | 14 |
+| 296 | 56 | JLL | [Director, Security Management](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Cincinnati-OH/Director--Security-Management_REQ543381) | Cincinnati, OH |  | account |  |
+| 297 | 56 | Vertiv | [Director, Solution Architect-Hyperscale Power](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284739) | Westerville, OH, United States | $337,000 | account |  |
+| 298 | 56 | Vertiv | [Director, Solution Architect-Hyperscale Thermal](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20284742) | Westerville, OH, United States | $337,000 | account |  |
+| 299 | 56 | Becton Dickinson | [Group Vice President - GPO Strategy and Health Systems](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/GVP---GPO-Strategy-and-Health-Systems_R-558443) | USA NJ - Franklin Lakes |  | account |  |
+| 300 | 56 | Morgan Stanley | [Security Director (Shift Lead, Regional Security Operations Center)](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Security-Director--Shift-Lead--Regional-Security-Operations-Center-_JR045925) | New York, New York, United States of Ame |  | account |  |
 
 ## Houston area (3)
 

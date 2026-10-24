@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,222 open roles** at **769 companies** · **132 new in the last 24 hours** · 5,338 company career sites watched · updated hourly · last update Oct 24, 2026 12:03 PM ET
+**2,221 open roles** at **769 companies** · **132 new in the last 24 hours** · 5,338 company career sites watched · updated hourly · last update Oct 24, 2026 12:41 PM ET
 
-By level: Director 1101 · VP 491 · Sr. Director 254 · Head 147 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
+By level: Director 1100 · VP 491 · Sr. Director 254 · Head 147 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 1101 · VP 491 · Sr. Director 254 · Head 147 · EVP/SVP 99 
 - [☁️ Cloud & Infrastructure (208)](#cloud-infrastructure)
 - [🏛️ Architecture (63)](#architecture)
 - [🔄 Transformation & Delivery (257)](#transformation-delivery)
-- [🛠️ Engineering & Software (555)](#engineering-software)
+- [🛠️ Engineering & Software (554)](#engineering-software)
 - [📌 Other Senior Roles (183)](#other-senior-roles)
-- [🔒 Recently closed (49)](#recently-closed)
+- [🔒 Recently closed (50)](#recently-closed)
 - Daily digests: [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md) · [10-18](data/daily/2026-10-18.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -1647,7 +1647,7 @@ _7 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Java FullStack Engineering Lead - Vice President | VP | Pune, MH, IN |  | 5d | [Apply](https://jobs.citi.com/job/pune/java-fullstack-engineering-lead-vice-president/287/102161081920) |
 | Citi (jobs.citi.com) ⭐ | Java Full Stack Development Lead - Vice President | VP | Chennai, TN, IN |  | 5d | [Apply](https://jobs.citi.com/job/chennai/java-full-stack-development-lead-vice-president/287/102161082096) |
 
-_305 older roles in this section are in data/roles.json on the `data` branch._
+_304 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -1847,6 +1847,7 @@ _305 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Riot Games | 🔒 Director, Technical Product Management: Commerce | Director | Mercer Island, USA |  | 9d | Closed |
 | Oracle | 🔒 Director of Business Intelligence and AI Analytics (Nashville, TN) | Director | Nashville, TN, United States | $126K–$264K | 25d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director Network Platform Solutions | Director | CT - Hartford · Remote |  | 9d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Data Product Owner-Executive Director | ED | New York, NY, United States |  | 10d | Closed |

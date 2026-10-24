@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,216 open roles** at **767 companies** · **162 new in the last 24 hours** · 5,335 company career sites watched · updated hourly · last update Oct 24, 2026 06:13 AM ET
+**2,216 open roles** at **767 companies** · **162 new in the last 24 hours** · 5,336 company career sites watched · updated hourly · last update Oct 24, 2026 07:12 AM ET
 
 By level: Director 1098 · VP 489 · Sr. Director 253 · Head 147 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
 
@@ -47,9 +47,9 @@ By level: Director 1098 · VP 489 · Sr. Director 253 · Head 147 · EVP/SVP 99 
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Herbalife | 🆕 Creative Director, Digital Product | Director | Torrance, CA, USA |  | 0d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Deloitte | 🆕 Director, Salesforce Delivery & Architecture | Director | McLean, VA, USA |  | 0d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Harrison County Sheriff’s Office | 🆕 Director, Budget and Finance | Director | Houston, TX, USA |  | 0d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
+| Herbalife | 🆕 Creative Director, Digital Product | Director | Torrance, CA, USA |  | 0d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Healthmap Solutions | 🆕 Director of Cloud Architecture & Platform Engineering (Remote) | Director | Remote, USA |  | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=o0m0AfwG&s=Indeed) |
 | Sentry | 🆕 Director of Engineering, Platform (Runtime & Stateful Systems) | Director | San Francisco, California · Remote | $300K–$450K | 0d | [Apply](https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e) ⚡ |
 | Aon | 🆕 Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 0d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |

@@ -1,6 +1,6 @@
 # Collector status
 
-- Last run: 2026-10-25T11:42:13+00:00 UTC, 233s
+- Last run: 2026-10-25T12:14:27+00:00 UTC, 273s
 - Companies working: 511 of 511
 - New roles last run: 0; roles in feed: 2247
 - Universe (all other known career sites): 4841 boards, 3595 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards

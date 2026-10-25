@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,246 open roles** at **785 companies** · **47 new in the last 24 hours** · 5,352 company career sites watched · updated hourly · last update Oct 24, 2026 09:43 PM ET
+**2,246 open roles** at **785 companies** · **46 new in the last 24 hours** · 5,352 company career sites watched · updated hourly · last update Oct 24, 2026 10:33 PM ET
 
 By level: Director 1116 · VP 495 · Sr. Director 255 · Head 148 · EVP/SVP 100 · ED 63 · C-level 49 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 148 · EVP/SVP 100
 
 ## Contents
 
-- [🆕 New in the last 24 hours (47)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (46)](#new-in-the-last-24-hours)
 - [🤠 Houston area (41)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (141)](#security-risk-technology)
@@ -74,12 +74,12 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 148 · EVP/SVP 100
 | Submittable | 🆕 Vice President, Engineering | VP | Remote, USA | $220K–$260K | 1d | [Apply](https://grnh.se/wiu5jiw04us) |
 | The Vertex Companies LLC | 🆕 Director of Artificial Intelligence | Director | Remote, USA | $146K–$542K | 1d | [Apply](https://careers.vertexeng.com/jobs/18392808-director-of-artificial-intelligence?tm_job=458&tm_event=view&tm_company=95169) |
 | Ursa Major Technologies, Inc. | 🆕 Director, Enterprise Systems & Software | Director | Longmont, CO, USA | $180K–$224K | 1d | [Apply](https://grnh.se/vq3x14335us) |
-| Moelis & Company | 🆕 Investment Banking Vice President, Technology - New York City | VP | New York, New York |  | 2d | [Apply](https://www.linkedin.com/jobs/view/investment-banking-vice-president-technology-new-york-city-at-moelis-company-4482714536) |
-| Jobrapido | 🆕 Vice President of Artificial Intelligence | VP | Memphis, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=642864173758359248) |
 | Astrion | 🆕 Senior Vice President, Chief Engineer | EVP/SVP | Colorado | $228K–$345K | 2d | [Apply](https://careers.astrion.us/jobs/25372) |
 | Econolite | 🆕 VP of Cloud Development | VP | Remote | $200K–$230K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-cloud-development%09-at-econolite-4481618783) |
-| Larson Design Group | 🆕 Chief Technology Officer | C-level | Cranberry Township, Pennsylvania |  | 2d | [Apply](https://career.io/job/chief-technology-officer-cranberry-twp-larson-design-group-a92a2842c8ffca493878d2f8839a4bbd) |
 | Harrison Clarke | 🆕 Chief Technology Officer at Harrison Clarke - United, Pennsylvania | C-level | Mt Pleasant, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=642864345119132963) |
+| Jobrapido | 🆕 Vice President of Artificial Intelligence | VP | Memphis, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=642864173758359248) |
+| Larson Design Group | 🆕 Chief Technology Officer | C-level | Cranberry Township, Pennsylvania |  | 2d | [Apply](https://career.io/job/chief-technology-officer-cranberry-twp-larson-design-group-a92a2842c8ffca493878d2f8839a4bbd) |
+| Moelis & Company | 🆕 Investment Banking Vice President, Technology - New York City | VP | New York, New York |  | 2d | [Apply](https://www.linkedin.com/jobs/view/investment-banking-vice-president-technology-new-york-city-at-moelis-company-4482714536) |
 | Oracle | 🆕 Director, Platform Software Engineering | Director | United States | $131K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348718) |
 | AstraZeneca | 🆕 Director, Data Science Operations – Early Cardiovascular, Renal and Metabolism | Director | Boston, MA, USA | $182K–$272K | 2d | [Apply](https://careers.astrazeneca.com/job/boston/director-data-science-operations-early-cardiovascular-renal-and-metabolism/7684/102339349040) |
 | Intuitive (Intuitive Surgical) | 🆕 Director, IT Sourcing & Category Management | Director | Sunnyvale, CA, USA | $174K–$307K | 2d | [Apply](https://careers.intuitive.com/en/jobs/744000157541579/JOB218425/director-it-sourcing-category-management/) |
@@ -91,7 +91,6 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 148 · EVP/SVP 100
 | TD | 🆕 Vice President - Product Owner - Digital Assets - Transaction Banking Product, TD Securities | VP | New York, New York | $145K–$225K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President---Product-Owner---Digital-Assets---Transaction-Banking-Product--TD-Securities_R_1518811) |
 | Grady Health System | 🆕 Executive Director of Technology | ED | Main Grady Campus (Downtown Atlanta) |  | 2d | [Apply](https://gmh.wd12.myworkdayjobs.com/External_Careers/job/Main-Grady-Campus-Downtown-Atlanta/Exec-Director-of-Technology_R26002406) |
 | PAE | 🆕 Senior Director, Global Security & Resilience | Sr. Director | US-Remote | $192K–$225K | 2d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-Remote/Senior-Director--Global-Security---Resilience_R0173991) |
-| Santander ⭐ | 🆕 CIB Executive Director, Software Investment Banking | ED | Madison Ave Corp |  | 2d | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Executive-Director--Software-Investment-Banking_Req1610422) |
 | Visa U.S.A. Inc. | 🆕 Vice President, Acceptance Technologies and Intelligent Commerce | VP | Austin, Texas | $229K–$314K | 3d | [Apply](https://www.indeed.com/viewjob?jk=fd6ec557054b7c99) |
 | TD | 🆕 Head of Mobile and Agentic Banking Transformation (US) | Head | Mount Laurel, New Jersey +1 | $275K–$375K | 3d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Head-of-Mobile-and-Agentic-Banking-Transformation--US-_R_1510827) |
 
@@ -151,8 +150,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Larson Design Group | 🆕 Chief Technology Officer | C-level | Cranberry Township, Pennsylvania |  | 2d | [Apply](https://career.io/job/chief-technology-officer-cranberry-twp-larson-design-group-a92a2842c8ffca493878d2f8839a4bbd) |
 | Harrison Clarke | 🆕 Chief Technology Officer at Harrison Clarke - United, Pennsylvania | C-level | Mt Pleasant, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=642864345119132963) |
+| Larson Design Group | 🆕 Chief Technology Officer | C-level | Cranberry Township, Pennsylvania |  | 2d | [Apply](https://career.io/job/chief-technology-officer-cranberry-twp-larson-design-group-a92a2842c8ffca493878d2f8839a4bbd) |
 | Homer Electric Association | Chief Technology Officer | C-level | Homer, AK, USA |  | 2d | [Apply](https://www.applicantpro.com/openings/homerelectric/jobs/4254389-6840) |
 | RNB Consultancy | Founding CTO – AI for Materials Discovery | C-level | New York, NY, USA | $120K–$500K | 2d | [Apply](https://rnb-consultancy.careers-page.com/jobs/4635c347-d4d2-44af-9934-15b393963c05?utm_medium=free_job_board&utm_source=indeed) |
 | Prisma Health | VP - Chief Information Security Officer | C-level | Greenville, SC |  | 2d | [Apply](https://wd5.myworkdaysite.com/recruiting/prismahealth/PrismaHealthCorporate/job/Greenville-SC/VP---Chief-Information-Security-Officer_R1149272) |
@@ -1327,7 +1326,7 @@ _8 older roles in this section are in data/roles.json on the `data` branch._
 | Palo Alto Networks | 🆕 Director, Software Engineer (Prisma Access) | Director | Santa Clara, CA, USA | $252K–$346K | 2d | [Apply](https://jobs.paloaltonetworks.com/en/job/santa-clara/director-software-engineer-prisma-access/47263/102340816960) |
 | Consumers Professional Credit Union | 🆕 Vice President of Information Technology | VP | Lansing, MI, USA |  | 2d | [Apply](https://www.indeed.com/viewjob?jk=872ae3f3ce7e5e9b) |
 | Grady Health System | 🆕 Executive Director of Technology | ED | Main Grady Campus (Downtown Atlanta) |  | 2d | [Apply](https://gmh.wd12.myworkdayjobs.com/External_Careers/job/Main-Grady-Campus-Downtown-Atlanta/Exec-Director-of-Technology_R26002406) |
-| Santander ⭐ | 🆕 CIB Executive Director, Software Investment Banking | ED | Madison Ave Corp |  | 2d | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Executive-Director--Software-Investment-Banking_Req1610422) |
+| Santander ⭐ | CIB Executive Director, Software Investment Banking | ED | Madison Ave Corp |  | 2d | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Executive-Director--Software-Investment-Banking_Req1610422) |
 | ICF | Systems Technical Director | Director | Reston, VA, USA | $159K–$270K | 2d | [Apply](https://careers.icf.com/us/en/job/IIIIIIUSR2603653EXTERNALENUS/Systems-Technical-Director?utm_source=indeed&utm_medium=phenom-feeds) [alt](https://careers.icf.com/us/en/job/IIIIIIUSR2603653EXTERNALENUS) |
 | Suddath | Director of IT Applications | Director | Jacksonville,Florida: United States of Ame |  | 2d | [Apply](https://suddath.wd5.myworkdayjobs.com/NXTPoint/job/JacksonvilleFlorida-United-States-of-America/Director-of-IT-Applications_R12237) [alt](https://suddath.wd5.myworkdayjobs.com/NXTPoint/job/JacksonvilleFlorida-United-States-of-America/Director-of-IT-Applications_R12237) |
 | Coke | Senior Director, Liquid Processing & Capital Projects Engineering | Sr. Director | US – REMOTE +1 |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Senior-Director--Liquid-Processing---Capital-Projects-Engineering_R-147719) |

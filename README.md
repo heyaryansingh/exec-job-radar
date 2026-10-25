@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,247 open roles** at **786 companies** · **31 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 05:23 AM ET
+**2,247 open roles** at **786 companies** · **28 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 06:24 AM ET
 
 By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100 · ED 63 · C-level 49 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100
 
 ## Contents
 
-- [🆕 New in the last 24 hours (31)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (28)](#new-in-the-last-24-hours)
 - [🤠 Houston area (41)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (141)](#security-risk-technology)
@@ -62,9 +62,6 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100
 | Oracle | 🆕 Senior Director of Business Intelligence and AI Analytics (Nashville, TN) | Sr. Director | Nashville, TN, United States | $170K–$355K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348732) |
 | Deloitte | 🆕 Director, Salesforce Delivery & Architecture | Director | Princeton, NJ, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | ADP | 🆕 Director, Finance Transformation & AI | Director | Alpharetta, GA, USA |  | 1d | [Apply](https://click.appcast.io/t/pJp4ZRoKo1eGmiXU5aOGfeZPKkvIYe0N6VG0WTHDpFA=) |
-| Deloitte | 🆕 Director, Salesforce Delivery & Architecture | Director | McLean, VA, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
-| Harrison County Sheriff’s Office | 🆕 Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
-| Herbalife | 🆕 Creative Director, Digital Product | Director | Torrance, CA, USA |  | 1d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Astrion | 🆕 Senior Vice President, Chief Engineer | EVP/SVP | Colorado | $228K–$345K | 2d | [Apply](https://careers.astrion.us/jobs/25372) |
 | Econolite | 🆕 VP of Cloud Development | VP | Remote | $200K–$230K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-cloud-development%09-at-econolite-4481618783) |
 | Harrison Clarke | 🆕 Chief Technology Officer at Harrison Clarke - United, Pennsylvania | C-level | Mt Pleasant, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=642864345119132963) |
@@ -87,7 +84,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Harrison County Sheriff’s Office | 🆕 Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
+| Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 1d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Harris County | Director, Budget and Finance | Director | Houston, TX, USA |  | 2d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
@@ -971,7 +968,7 @@ _380 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | SAIC | 🆕 Enterprise Architect Exec Director | Director | USA | $260K–$300K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |
 | Deloitte | 🆕 Director, Salesforce Delivery & Architecture | Director | Princeton, NJ, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
-| Deloitte | 🆕 Director, Salesforce Delivery & Architecture | Director | McLean, VA, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
+| Deloitte | Director, Salesforce Delivery & Architecture | Director | McLean, VA, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Stamford, CT, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Qualcomm | Sr. Director, SoC Architecture | Sr. Director | TX, USA | $282K–$422K | 1d | [Apply](https://app.eightfold.ai/careers/job/446721660002?domain=qualcomm.com) |
@@ -1041,7 +1038,7 @@ _380 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | L3Harris | 🆕 Director, Program Management | Director | Chantilly, VA, USA | $184K–$342K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102339204432) |
-| Herbalife | 🆕 Creative Director, Digital Product | Director | Torrance, CA, USA |  | 1d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Herbalife | Creative Director, Digital Product | Director | Torrance, CA, USA |  | 1d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 1d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Citi (jobs.citi.com) ⭐ | Digital Assets Technology - Director | Director | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/digital-assets-technology-director/287/102348280608) |
 | TD | Vice President - Product Owner - Digital Assets - Transaction Banking Product, TD Securities | VP | New York, New York | $145K–$225K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President---Product-Owner---Digital-Assets---Transaction-Banking-Product--TD-Securities_R_1518811) |
@@ -1559,7 +1556,7 @@ _311 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | State of Alaska | 🆕 Director, Advanced Train Control Systems | Director | Anchorage, AK, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/Alaska/jobs/5523879/director-advanced-train-control-systems-alaska-railroad-employees-only) |
-| Harrison County Sheriff’s Office | 🆕 Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
+| Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Astrion | 🆕 Senior Vice President, Chief Engineer | EVP/SVP | Colorado | $228K–$345K | 2d | [Apply](https://careers.astrion.us/jobs/25372) |
 | Harris County | Director, Budget and Finance | Director | Houston, TX, USA |  | 2d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Compass Group USA | Vice President, Environmental Health, Safety and Operational Risk - Remote | VP | Charlotte, NC, USA · Remote | $220K–$250K | 2d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/78bb1111d6adc2ece70d05e42ebedbca1870e1d40351192fc3f78ddd/) |

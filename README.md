@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,293 open roles** at **794 companies** · **36 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 05:05 PM ET
+**2,293 open roles** at **794 companies** · **37 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 05:55 PM ET
 
-By level: Director 1146 · VP 499 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
+By level: Director 1145 · VP 500 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (36)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (37)](#new-in-the-last-24-hours)
 - [🤠 Houston area (42)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (146)](#security-risk-technology)
 - [🧠 Data & AI (635)](#data-ai)
 - [🚦 Reliability & Operations (151)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (215)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (214)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
 - [🔄 Transformation & Delivery (267)](#transformation-delivery)
-- [🛠️ Engineering & Software (573)](#engineering-software)
+- [🛠️ Engineering & Software (574)](#engineering-software)
 - [📌 Other Senior Roles (191)](#other-senior-roles)
-- [🔒 Recently closed (54)](#recently-closed)
+- [🔒 Recently closed (55)](#recently-closed)
 - Daily digests: [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,8 +47,9 @@ By level: Director 1146 · VP 499 · Sr. Director 265 · Head 149 · EVP/SVP 100
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
+| SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 0d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
 | Datafy | 🆕 Director of Demand Generation | Director | NJ, USA |  | 0d | [Apply](https://datafy.io/careers/co/new-jersey/D6.472/director-of-demand-generation/all/?coref=1.11.p1E_6D17) |
+| JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
 | S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
 | Excelsior Mining Corporation | 🆕 Director, Health, Safety, and Security | Director | Dragoon, AZ, USA |  | 0d | [Apply](https://gunnisoncopper.com/careers?gnk=job&gni=8a78839fa1559acc01a16ed1222c252b&gns=Indeed+Free) |
 | EY | 🆕 Financial Planning and Analytics Data and Analytics - Assistant Director | Director | Dallas, TX, USA | $104K–$221K | 1d | [Apply](https://careers.ey.com/ey/job/Dallas-Financial-Planning-and-Analytics-Data-and-Analytics-Assistant-Director-TX-75219/1450925633/) |
@@ -972,7 +973,6 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 | Fannie Mae | VP, Cloud Infrastructure | VP | Reston, VA |  | 24d | [Apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/VP--Cloud-Infrastructure_JR2892) |
 | Mayor and City Council of Baltimore | Director of IT Infrastructure (NCS) - BCIT | Director | 401 E Fayette St |  | 25d | [Apply](https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Director-of-IT-Infrastructure--NCS----BCIT_R0019853) |
 | Autodesk ⭐ | Director, Product Management, Platform Trust | Director | Portland, OR, USA |  | 25d | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Director--Product-Management--Platform-Trust_26WD101063-1) |
-| Coupa | Revenue Systems Director, Platform and Architecture - 11911 | Director | Charlotte, North Carolina, United States · Remote | $152K–$213K | 25d | [Apply](https://jobs.lever.co/coupa/7a956998-8e27-43ce-93bf-924e755a5a7b) ⚡ |
 | Nium | Global Vertical Head of Regulatory Compliance – Platforms | Head | San Francisco | $184K–$230K | 25d | [Apply](https://jobs.lever.co/nium/3bdfa1cf-edad-4edd-b4d7-e8d550d4c47d) ⚡ |
 | Mastercard (Phenom) ⭐ | VP, Publisher Experience and Platform, Commerce Media | VP | New York, New York, United States of Ameri |  | 26d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR273046EXTERNALENUS) |
 | Holman | Director - Digital Platform Engineering | Director | Remote, NJ (US) |  | 26d | [Apply](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Remote-NJ-US/Director---Digital-Platform-Engineering_R0056586) |
@@ -1321,6 +1321,7 @@ _17 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 0d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
 | S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
 | City of Coronado, CA | 🆕 Assistant Director of Public Services and Engineering | Director | Coronado, CA, USA | $153K–$205K | 1d | [Apply](https://www.governmentjobs.com/careers/coronado/jobs/5523372/assistant-director-of-public-services-and-engineering) |
 | Eikon Therapeutics | Director, Optical Engineering | Director | Millbrae, CA, USA | $242K–$292K | 1d | [Apply](https://grnh.se/6nifj7tn7us) |
@@ -1570,9 +1571,8 @@ _17 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Head of Markets Finance Desk Technology, Director | Head | New York, NY, US |  | 6d | [Apply](https://jobs.citi.com/job/new-york/head-of-markets-finance-desk-technology-director/287/102161063680) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Technical Lead - Vice President | VP | Pune, MH, IN |  | 6d | [Apply](https://jobs.citi.com/job/pune/senior-java-technical-lead-vice-president/287/102161064912) [alt](https://jobs.citi.com/job/pune/senior-java-technical-lead-vice-president/287/102161045456) |
 | Citi (jobs.citi.com) ⭐ | Applications Development Technology Lead- Vice President | VP | Pune, MH, IN |  | 6d | [Apply](https://jobs.citi.com/job/pune/applications-development-technology-lead-vice-president/287/102161065184) |
-| Citi (jobs.citi.com) ⭐ | Java - IBM BPM Application Development - Vice President | VP | Pune, MH, IN |  | 6d | [Apply](https://jobs.citi.com/job/pune/java-ibm-bpm-application-development-vice-president/287/102161065824) |
 
-_323 older roles in this section are in data/roles.json on the `data` branch._
+_324 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -1580,8 +1580,8 @@ _323 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
 | Datafy | 🆕 Director of Demand Generation | Director | NJ, USA |  | 0d | [Apply](https://datafy.io/careers/co/new-jersey/D6.472/director-of-demand-generation/all/?coref=1.11.p1E_6D17) |
+| JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
 | State of Alaska | 🆕 Director, Advanced Train Control Systems | Director | Anchorage, AK, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/Alaska/jobs/5523879/director-advanced-train-control-systems-alaska-railroad-employees-only) |
 | Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Astrion | 🆕 Senior Vice President, Chief Engineer | EVP/SVP | Colorado | $228K–$345K | 2d | [Apply](https://careers.astrion.us/jobs/25372) |
@@ -1780,6 +1780,7 @@ _323 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Coupa | 🔒 Revenue Systems Director, Platform and Architecture - 11911 | Director | Charlotte, North Carolina, United States · Remote | $152K–$213K | 25d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Executive Director, Global Technology Strategy | ED | New York, NY, United States |  | 16d | Closed |
 | Rivianvw Tech | 🔒 Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 3d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Digital Engineering, Cloud Platform | Director | CT - Hartford · Remote |  | 12d | Closed |

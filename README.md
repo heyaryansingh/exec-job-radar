@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,295 open roles** at **794 companies** · **36 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 06:54 PM ET
+**2,294 open roles** at **794 companies** · **36 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 07:55 PM ET
 
-By level: Director 1146 · VP 501 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
+By level: Director 1145 · VP 501 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,14 +31,14 @@ By level: Director 1146 · VP 501 · Sr. Director 265 · Head 149 · EVP/SVP 100
 - [🤠 Houston area (42)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (146)](#security-risk-technology)
-- [🧠 Data & AI (636)](#data-ai)
+- [🧠 Data & AI (635)](#data-ai)
 - [🚦 Reliability & Operations (151)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (214)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
 - [🔄 Transformation & Delivery (267)](#transformation-delivery)
 - [🛠️ Engineering & Software (575)](#engineering-software)
 - [📌 Other Senior Roles (191)](#other-senior-roles)
-- [🔒 Recently closed (55)](#recently-closed)
+- [🔒 Recently closed (56)](#recently-closed)
 - Daily digests: [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -602,7 +602,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Senior Data Platform Developer - Vice President | VP | Kowloon, KKC, HK |  | 6d | [Apply](https://jobs.citi.com/job/kowloon/senior-data-platform-developer-vice-president/287/102161061712) |
 | Citi (jobs.citi.com) ⭐ | Sr. Data Analytics Developer - VP - Hybrid | VP | Tampa, FL, US |  | 6d | [Apply](https://jobs.citi.com/job/tampa/sr-data-analytics-developer-vp-hybrid/287/102161061936) |
 
-_386 older roles in this section are in data/roles.json on the `data` branch._
+_385 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1779,6 +1779,7 @@ _325 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CVS Health ⭐ | 🔒 Director Product Management – AI / ML Platform | Director | NY - New York +49 · Remote |  | 24d | Closed |
 | Coupa | 🔒 Revenue Systems Director, Platform and Architecture - 11911 | Director | Charlotte, North Carolina, United States · Remote | $152K–$213K | 25d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Executive Director, Global Technology Strategy | ED | New York, NY, United States |  | 16d | Closed |
 | Rivianvw Tech | 🔒 Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 3d | Closed |

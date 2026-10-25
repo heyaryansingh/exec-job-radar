@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,293 open roles** at **794 companies** · **37 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 05:55 PM ET
+**2,295 open roles** at **794 companies** · **36 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 06:46 PM ET
 
-By level: Director 1145 · VP 500 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
+By level: Director 1146 · VP 501 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (37)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (36)](#new-in-the-last-24-hours)
 - [🤠 Houston area (42)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (146)](#security-risk-technology)
-- [🧠 Data & AI (635)](#data-ai)
+- [🧠 Data & AI (636)](#data-ai)
 - [🚦 Reliability & Operations (151)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (214)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
 - [🔄 Transformation & Delivery (267)](#transformation-delivery)
-- [🛠️ Engineering & Software (574)](#engineering-software)
+- [🛠️ Engineering & Software (575)](#engineering-software)
 - [📌 Other Senior Roles (191)](#other-senior-roles)
 - [🔒 Recently closed (55)](#recently-closed)
 - Daily digests: [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md)
@@ -47,6 +47,8 @@ By level: Director 1145 · VP 500 · Sr. Director 265 · Head 149 · EVP/SVP 100
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Software Engineer - Core Java and Equities Tech - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839600) [alt](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839520) |
+| MUFG | 🆕 Director, Data Governance & Transformation | Director | New Jersey Office - 210 Hudson Street +1 |  | 0d | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Director--Data-Governance---Transformation_10078400-WD) |
 | SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 0d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
 | Datafy | 🆕 Director of Demand Generation | Director | NJ, USA |  | 0d | [Apply](https://datafy.io/careers/co/new-jersey/D6.472/director-of-demand-generation/all/?coref=1.11.p1E_6D17) |
 | JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
@@ -56,9 +58,6 @@ By level: Director 1145 · VP 500 · Sr. Director 265 · Head 149 · EVP/SVP 100
 | State of Alaska | 🆕 Director, Advanced Train Control Systems | Director | Anchorage, AK, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/Alaska/jobs/5523879/director-advanced-train-control-systems-alaska-railroad-employees-only) |
 | L3Harris | 🆕 Director, Program Management | Director | Chantilly, VA, USA | $184K–$342K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102339204432) |
 | Meta | 🆕 Data Science Director | Director | San Francisco, CA, USA | $253K–$314K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp00000E1zKgMAJ_1004&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F3489873754638185%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dde21235b-4596-11f0-a6fb-015f4d65c21a%26rx_job%3Da1KDp00000E1zKgMAJ_1004%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261025T000426Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
-| ADP | 🆕 Director, Finance Transformation & AI | Director | Miami, FL, USA |  | 1d | [Apply](https://click.appcast.io/t/UdjCcUY2pFRGjxBD965IdQuleR6dq7Uj17YUKX1I7OI=) |
-| City of Coronado, CA | 🆕 Assistant Director of Public Services and Engineering | Director | Coronado, CA, USA | $153K–$205K | 1d | [Apply](https://www.governmentjobs.com/careers/coronado/jobs/5523372/assistant-director-of-public-services-and-engineering) |
-| SAIC | 🆕 Enterprise Architect Exec Director | Director | USA | $260K–$300K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |
 | Coca-Cola ⭐ | 🆕 Director, Functional Platform Leader | Director | US - GA - Atlanta |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Functional-Platform-Leader_R-146791) |
 | Coca-Cola ⭐ | 🆕 Senior Director, Liquid Processing & Capital Projects Engineering | Sr. Director | US – REMOTE +1 |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Senior-Director--Liquid-Processing---Capital-Projects-Engineering_R-147719) |
 | Coca-Cola ⭐ | 🆕 Senior Director II, Engineering | Sr. Director | US - GA - Atlanta |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director-II--Engineering---Southeast_R-147871) |
@@ -352,9 +351,10 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| MUFG | 🆕 Director, Data Governance & Transformation | Director | New Jersey Office - 210 Hudson Street +1 |  | 0d | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Director--Data-Governance---Transformation_10078400-WD) |
 | EY | 🆕 Financial Planning and Analytics Data and Analytics - Assistant Director | Director | Dallas, TX, USA | $104K–$221K | 1d | [Apply](https://careers.ey.com/ey/job/Dallas-Financial-Planning-and-Analytics-Data-and-Analytics-Assistant-Director-TX-75219/1450925633/) |
 | Meta | 🆕 Data Science Director | Director | San Francisco, CA, USA | $253K–$314K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp00000E1zKgMAJ_1004&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F3489873754638185%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dde21235b-4596-11f0-a6fb-015f4d65c21a%26rx_job%3Da1KDp00000E1zKgMAJ_1004%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261025T000426Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
-| ADP | 🆕 Director, Finance Transformation & AI | Director | Miami, FL, USA |  | 1d | [Apply](https://click.appcast.io/t/UdjCcUY2pFRGjxBD965IdQuleR6dq7Uj17YUKX1I7OI=) |
+| ADP | Director, Finance Transformation & AI | Director | Miami, FL, USA |  | 1d | [Apply](https://click.appcast.io/t/UdjCcUY2pFRGjxBD965IdQuleR6dq7Uj17YUKX1I7OI=) |
 | Bain & Company | Head of Data Science | Head | Boston, MA, USA | $236K–$289K | 1d | [Apply](https://careers.bain.com/jobs/FolderDetail/Head-of-Data-Science/111467) |
 | EY | Data Engineer and Analytics Platform Manager - Assistant Director | Director | Dallas, TX, USA | $124K–$264K | 1d | [Apply](https://careers.ey.com/ey/job/Dallas-Data-Engineer-and-Analytics-Platform-Manager-Assistant-Director-TX-75219/1450925333/) |
 | Oracle | Director of Estimating - Data Center Fit-Out Cost Strategy (Nashville, TN) | Director | Nashville, TN, United States | $126K–$264K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348731) |
@@ -601,9 +601,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Senior Technology Lead, XVA Data Engineering & AI Enablement - SVP | EVP/SVP | Jersey City, NJ, US |  | 6d | [Apply](https://jobs.citi.com/job/jersey-city/senior-technology-lead-xva-data-engineering-and-ai-enablement-svp/287/102161061568) |
 | Citi (jobs.citi.com) ⭐ | Senior Data Platform Developer - Vice President | VP | Kowloon, KKC, HK |  | 6d | [Apply](https://jobs.citi.com/job/kowloon/senior-data-platform-developer-vice-president/287/102161061712) |
 | Citi (jobs.citi.com) ⭐ | Sr. Data Analytics Developer - VP - Hybrid | VP | Tampa, FL, US |  | 6d | [Apply](https://jobs.citi.com/job/tampa/sr-data-analytics-developer-vp-hybrid/287/102161061936) |
-| Citi (jobs.citi.com) ⭐ | Senior Data Analytics Developer - Vice President | VP | Kowloon, KKC, HK |  | 6d | [Apply](https://jobs.citi.com/job/kowloon/senior-data-analytics-developer-vice-president/287/102161061968) |
 
-_385 older roles in this section are in data/roles.json on the `data` branch._
+_386 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -990,7 +989,7 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| SAIC | 🆕 Enterprise Architect Exec Director | Director | USA | $260K–$300K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |
+| SAIC | Enterprise Architect Exec Director | Director | USA | $260K–$300K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Princeton, NJ, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | McLean, VA, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
@@ -1321,9 +1320,10 @@ _17 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Software Engineer - Core Java and Equities Tech - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839600) [alt](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839520) |
 | SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 0d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
 | S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
-| City of Coronado, CA | 🆕 Assistant Director of Public Services and Engineering | Director | Coronado, CA, USA | $153K–$205K | 1d | [Apply](https://www.governmentjobs.com/careers/coronado/jobs/5523372/assistant-director-of-public-services-and-engineering) |
+| City of Coronado, CA | Assistant Director of Public Services and Engineering | Director | Coronado, CA, USA | $153K–$205K | 1d | [Apply](https://www.governmentjobs.com/careers/coronado/jobs/5523372/assistant-director-of-public-services-and-engineering) |
 | Eikon Therapeutics | Director, Optical Engineering | Director | Millbrae, CA, USA | $242K–$292K | 1d | [Apply](https://grnh.se/6nifj7tn7us) |
 | Grady Health System | Executive Director of Technology | ED | Atlanta, GA, USA |  | 1d | [Apply](https://gmh.wd12.myworkdayjobs.com/en-US/external_careers/job/Main-Grady-Campus-Downtown-Atlanta/Exec-Director-of-Technology_R26002406) |
 | Submittable | Vice President, Engineering | VP | Remote, USA | $220K–$260K | 1d | [Apply](https://grnh.se/wiu5jiw04us) |
@@ -1570,9 +1570,8 @@ _17 older roles in this section are in data/roles.json on the `data` branch._
 | Mastercard (Phenom) ⭐ | Senior Vice President, Software Engineering – Authentication | EVP/SVP | O Fallon, Missouri, United States of Ameri |  | 6d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR293272EXTERNALENUS) |
 | Citi (jobs.citi.com) ⭐ | Head of Markets Finance Desk Technology, Director | Head | New York, NY, US |  | 6d | [Apply](https://jobs.citi.com/job/new-york/head-of-markets-finance-desk-technology-director/287/102161063680) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Technical Lead - Vice President | VP | Pune, MH, IN |  | 6d | [Apply](https://jobs.citi.com/job/pune/senior-java-technical-lead-vice-president/287/102161064912) [alt](https://jobs.citi.com/job/pune/senior-java-technical-lead-vice-president/287/102161045456) |
-| Citi (jobs.citi.com) ⭐ | Applications Development Technology Lead- Vice President | VP | Pune, MH, IN |  | 6d | [Apply](https://jobs.citi.com/job/pune/applications-development-technology-lead-vice-president/287/102161065184) |
 
-_324 older roles in this section are in data/roles.json on the `data` branch._
+_325 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

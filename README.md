@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,247 open roles** at **786 companies** · **28 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 06:24 AM ET
+**2,247 open roles** at **786 companies** · **28 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 07:23 AM ET
 
 By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100 · ED 63 · C-level 49 · MD 20
 

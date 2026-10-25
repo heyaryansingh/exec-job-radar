@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,239 open roles** at **780 companies** · **50 new in the last 24 hours** · 5,350 company career sites watched · updated hourly · last update Oct 24, 2026 08:43 PM ET
+**2,239 open roles** at **780 companies** · **50 new in the last 24 hours** · 5,352 company career sites watched · updated hourly · last update Oct 24, 2026 09:17 PM ET
 
 By level: Director 1116 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 · ED 63 · C-level 47 · MD 20
 
@@ -48,8 +48,8 @@ By level: Director 1116 · VP 491 · Sr. Director 255 · Head 148 · EVP/SVP 99 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Excelsior Mining Corporation | 🆕 Director, Health, Safety, and Security | Director | Dragoon, AZ, USA |  | 0d | [Apply](https://gunnisoncopper.com/careers?gnk=job&gni=8a78839fa1559acc01a16ed1222c252b&gns=Indeed+Free) |
-| Meta | 🆕 Data Science Director | Director | San Francisco, CA, USA | $253K–$314K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp00000E1zKgMAJ_1004&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F3489873754638185%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dde21235b-4596-11f0-a6fb-015f4d65c21a%26rx_job%3Da1KDp00000E1zKgMAJ_1004%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261025T000426Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | L3Harris | 🆕 Director, Program Management | Director | Chantilly, VA, USA | $184K–$342K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102339204432) |
+| Meta | 🆕 Data Science Director | Director | San Francisco, CA, USA | $253K–$314K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp00000E1zKgMAJ_1004&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F3489873754638185%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dde21235b-4596-11f0-a6fb-015f4d65c21a%26rx_job%3Da1KDp00000E1zKgMAJ_1004%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261025T000426Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | ADP | 🆕 Director, Finance Transformation & AI | Director | Miami, FL, USA |  | 1d | [Apply](https://click.appcast.io/t/UdjCcUY2pFRGjxBD965IdQuleR6dq7Uj17YUKX1I7OI=) |
 | City of Coronado, CA | 🆕 Assistant Director of Public Services and Engineering | Director | Coronado, CA, USA | $153K–$205K | 1d | [Apply](https://www.governmentjobs.com/careers/coronado/jobs/5523372/assistant-director-of-public-services-and-engineering) |
 | SAIC | 🆕 Enterprise Architect Exec Director | Director | USA | $260K–$300K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |

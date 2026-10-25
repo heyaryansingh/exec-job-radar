@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,247 open roles** at **786 companies** · **35 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 03:23 AM ET
+**2,247 open roles** at **786 companies** · **33 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 04:24 AM ET
 
 By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100 · ED 63 · C-level 49 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100
 
 ## Contents
 
-- [🆕 New in the last 24 hours (35)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
 - [🤠 Houston area (41)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (141)](#security-risk-technology)
@@ -79,9 +79,7 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100
 | Consumers Professional Credit Union | 🆕 Vice President of Information Technology | VP | Lansing, MI, USA |  | 2d | [Apply](https://www.indeed.com/viewjob?jk=872ae3f3ce7e5e9b) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior AI/AML Engineer, Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/senior-ai-aml-engineer-vice-president/287/102340902848) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Digital Assets Technology - Director | Director | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/digital-assets-technology-director/287/102348280608) |
-| TD | 🆕 Vice President - Product Owner - Digital Assets - Transaction Banking Product, TD Securities | VP | New York, New York | $145K–$225K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President---Product-Owner---Digital-Assets---Transaction-Banking-Product--TD-Securities_R_1518811) |
 | Visa U.S.A. Inc. | 🆕 Vice President, Acceptance Technologies and Intelligent Commerce | VP | Austin, Texas | $229K–$314K | 3d | [Apply](https://www.indeed.com/viewjob?jk=fd6ec557054b7c99) |
-| TD | 🆕 Head of Mobile and Agentic Banking Transformation (US) | Head | Mount Laurel, New Jersey +1 | $275K–$375K | 3d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Head-of-Mobile-and-Agentic-Banking-Transformation--US-_R_1510827) |
 
 <a name="houston-area"></a>
 
@@ -1048,7 +1046,7 @@ _380 older roles in this section are in data/roles.json on the `data` branch._
 | Herbalife | 🆕 Creative Director, Digital Product | Director | Torrance, CA, USA |  | 1d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 1d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Digital Assets Technology - Director | Director | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/digital-assets-technology-director/287/102348280608) |
-| TD | 🆕 Vice President - Product Owner - Digital Assets - Transaction Banking Product, TD Securities | VP | New York, New York | $145K–$225K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President---Product-Owner---Digital-Assets---Transaction-Banking-Product--TD-Securities_R_1518811) |
+| TD | Vice President - Product Owner - Digital Assets - Transaction Banking Product, TD Securities | VP | New York, New York | $145K–$225K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President---Product-Owner---Digital-Assets---Transaction-Banking-Product--TD-Securities_R_1518811) |
 | Hammer Financial Group - A Prosperity Capital Advisors Company | VP of Product Strategy | VP | Dayton, OH, USA | $268K–$318K | 2d | [Apply](https://www.indeed.com/viewjob?jk=2d836b3c4df74db4) |
 | Lowe's ⭐ | Director Enterprise Strategy, Integration Management Office | Director | Mooresville, North Carolina, United States |  | 2d | [Apply](https://talent.lowes.com/us/en/job/LOWEUSJR02683070EXTERNALENUS) |
 | Lowe's ⭐ | Director, Digital (Fulfillment) | Director | Mooresville, North Carolina, United States |  | 2d | [Apply](https://talent.lowes.com/us/en/job/LOWEUSJR02532453EXTERNALENUS) |
@@ -1065,7 +1063,7 @@ _380 older roles in this section are in data/roles.json on the `data` branch._
 | Davita | Director, Learning Technology Strategy & Innovation | Director | 09567 - Denver HQ Non-CA or CO Remote |  | 2d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Director--Learning-Technology_R0472493) |
 | Guardian Life | Head of Transformation | Head | New York +1 |  | 2d | [Apply](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/Head-of-Transformation_R000110471-1) |
 | Visa | Senior Director, Head of Digital Ecosystems & Strategic Partnerships | Head | ID - Jakarta, Indonesia |  | 2d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/ID---Jakarta-Indonesia/Senior-Director--Head-of-Digital-Ecosystems---Strategic-Partnerships_REF082812W) |
-| TD | 🆕 Head of Mobile and Agentic Banking Transformation (US) | Head | Mount Laurel, New Jersey +1 | $275K–$375K | 3d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Head-of-Mobile-and-Agentic-Banking-Transformation--US-_R_1510827) |
+| TD | Head of Mobile and Agentic Banking Transformation (US) | Head | Mount Laurel, New Jersey +1 | $275K–$375K | 3d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Head-of-Mobile-and-Agentic-Banking-Transformation--US-_R_1510827) |
 | Social Capital Resources | Vice President, Technology Transformation Lead | VP | US |  | 3d | [Apply](https://www.adzuna.com/details/5938038236) |
 | WORLDWIDE POWER PRODUCTS LLC | Director of Business and Digital Transformation | Director | Houston, Texas |  | 3d | [Apply](https://www.ziprecruiter.com/c/WORLDWIDE-POWER-PRODUCTS/Job/Director-of-Business-and-Digital-Transformation/-in-Houston,TX?jid=4b8e00f70ac02b09) |
 | Citi (jobs.citi.com) ⭐ | Digital Learning Strategist, Delivery / SVP | EVP/SVP | Jacksonville, FL, US |  | 3d | [Apply](https://jobs.citi.com/job/jacksonville/digital-learning-strategist-delivery-svp/287/102296577552) |

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,292 open roles** at **793 companies** · **40 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 03:05 PM ET
+**2,291 open roles** at **793 companies** · **40 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 03:45 PM ET
 
-By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 66 · C-level 49 · MD 20
+By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -35,10 +35,10 @@ By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100
 - [🚦 Reliability & Operations (151)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (215)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
-- [🔄 Transformation & Delivery (268)](#transformation-delivery)
+- [🔄 Transformation & Delivery (267)](#transformation-delivery)
 - [🛠️ Engineering & Software (573)](#engineering-software)
 - [📌 Other Senior Roles (189)](#other-senior-roles)
-- [🔒 Recently closed (53)](#recently-closed)
+- [🔒 Recently closed (54)](#recently-closed)
 - Daily digests: [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -1267,7 +1267,6 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 | CVS Health (Phenom) ⭐ | Executive Director, Health100 App — Digital Product | ED | One CVS Drive, Woonsocket, Rhode Island,Un |  | 16d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1058607EXTERNALENUS) |
 | ASM | Senior Director, Finance Transformation | Sr. Director | Norwalk, CT | $200K–$215K | 16d | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Norwalk-CT/Senior-Director--Finance-Transformation_R100125388) |
 | Kaseya | Director Global Events - Program Management | Director | United States - Remote |  | 16d | [Apply](https://www.kaseya.com/careers/jobs/id/6179877004/?gh_jid=6179877004) ⚡ |
-| JPMorgan Chase ⭐ | Executive Director, Global Technology Strategy | ED | New York, NY, United States |  | 16d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792603) |
 | JPMorgan Chase ⭐ | Control Manager - Program - Controls Room – Program Management Vice President | VP | Jersey City, NJ, United States |  | 16d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797196) |
 | Citi ⭐ | Technology Delivery Director | Director | Irving Texas United States |  | 16d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology-Delivery-Director_26999149) |
 | Capital One ⭐ | Director, Technical Program Management | Director | Cambridge, MA | $230K–$263K | 16d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Director--Technical-Program-Management_R1002718-1) |
@@ -1316,8 +1315,9 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 | Northrop Grumman ⭐ | Program Management Senior Director | Sr. Director | United States-Maryland-Elkridge |  | 23d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/Program-Management-Senior-Director_R10253320-1) |
 | VALERIS | Director, IT Project Management Office (PMO) & Technology Transformation | Director | Louisville, KY |  | 24d | [Apply](https://valeris.wd108.myworkdayjobs.com/Valeris/job/Louisville-KY/Director--IT-Project-Management-Office--PMO----Technology-Transformation_JR782) |
 | Abbott ⭐ | Head of Business Capabilities - Global Digital Activation | Head | United States - Illinois - Lake Forest |  | 24d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Global-Business-Capabilities-Director---Digital-Activation_31155819-1) |
+| Capital One ⭐ | Director, Technical Program Management (req R1002716) | Director | McLean, VA +4 · Remote | $251K–$287K | 24d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Technical-Program-Management_R1002716-1) |
 
-_18 older roles in this section are in data/roles.json on the `data` branch._
+_17 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1782,6 +1782,7 @@ _323 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Executive Director, Global Technology Strategy | ED | New York, NY, United States |  | 16d | Closed |
 | Rivianvw Tech | 🔒 Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 3d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Digital Engineering, Cloud Platform | Director | CT - Hartford · Remote |  | 12d | Closed |
 | CVS Health ⭐ | 🔒 Director, Digital Strategy & Operations | Director | MA - Work from home +10 · Remote |  | 4d | Closed |

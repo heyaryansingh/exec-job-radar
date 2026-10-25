@@ -1,0 +1,105 @@
+# Possible matches to check by hand
+
+These responded with jobs but the address didn't clearly match the company name. If one is right, copy its line into config/companies.yaml.
+
+- Discover Financial: - {name: "Discover Financial", ats: "greenhouse", slug: "disco", tier: 1, sector: "bank"}
+- Huntington Bancshares: - {name: "Huntington Bancshares", ats: "workday", host: "huntingtonlibrary.wd1.myworkdayjobs.com", site: "HuntingtonCareers", tier: 2, sector: "bank"}
+- Citizens Financial Group: - {name: "Citizens Financial Group", ats: "ashby", slug: "Citizen", tier: 2, sector: "bank"}
+- Cadence Bank: - {name: "Cadence Bank", ats: "greenhouse", slug: "cadencehealth", tier: 3, sector: "bank"}
+- First Horizon: - {name: "First Horizon", ats: "workday", host: "horizonmedia.wd1.myworkdayjobs.com", site: "CareerOpportunities", tier: 3, sector: "bank"}
+- American Express: - {name: "American Express", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 1, sector: "bank"}
+- Credit Agricole CIB: - {name: "Credit Agricole CIB", ats: "ashby", slug: "creditgenie", tier: 2, sector: "bank"}
+- Interactive Brokers: - {name: "Interactive Brokers", ats: "greenhouse", slug: "inter", tier: 2, sector: "brokerage"}
+- Intercontinental Exchange: - {name: "Intercontinental Exchange", ats: "greenhouse", slug: "inter", tier: 1, sector: "markets"}
+- Edward Jones: - {name: "Edward Jones", ats: "workday", host: "comfortsystemsusa.wd1.myworkdayjobs.com", site: "Edwards", tier: 2, sector: "brokerage"}
+- Bridgewater Associates: - {name: "Bridgewater Associates", ats: "greenhouse", slug: "bridgewater89", tier: 1, sector: "hedge fund"}
+- Hudson River Trading: - {name: "Hudson River Trading", ats: "ashby", slug: "trading212", tier: 1, sector: "markets"}
+- Navy Federal Credit Union: - {name: "Navy Federal Credit Union", ats: "ashby", slug: "creditgenie", tier: 2, sector: "bank"}
+- PenFed Credit Union: - {name: "PenFed Credit Union", ats: "ashby", slug: "creditgenie", tier: 3, sector: "bank"}
+- IMC Trading: - {name: "IMC Trading", ats: "ashby", slug: "trading212", tier: 2, sector: "markets"}
+- American Century Investments: - {name: "American Century Investments", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 3, sector: "asset management"}
+- Silver Lake: - {name: "Silver Lake", ats: "ashby", slug: "silver", tier: 2, sector: "private equity"}
+- Jackson Financial: - {name: "Jackson Financial", ats: "workday", host: "jacksonhealthcare.wd1.myworkdayjobs.com", site: "careers-jacksonhealthcare", tier: 3, sector: "insurance"}
+- Zurich North America: - {name: "Zurich North America", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 2, sector: "insurance"}
+- Pacific Life: - {name: "Pacific Life", ats: "greenhouse", slug: "pacificfusion", tier: 2, sector: "insurance"}
+- American Family Insurance: - {name: "American Family Insurance", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 2, sector: "insurance"}
+- Shift4: - {name: "Shift4", ats: "ashby", slug: "shift", tier: 3, sector: "payments"}
+- Public.com: - {name: "Public.com", ats: "greenhouse", slug: "public", tier: 3, sector: "fintech"}
+- MoneyLion: - {name: "MoneyLion", ats: "ashby", slug: "gen-digital", tier: 3, sector: "fintech"}
+- Figure Technologies: - {name: "Figure Technologies", ats: "greenhouse", slug: "figure", tier: 3, sector: "fintech"}
+- Q2 Holdings: - {name: "Q2 Holdings", ats: "workday", host: "q2ebanking.wd5.myworkdayjobs.com", site: "Q2", tier: 3, sector: "fintech"}
+- Mercury Technologies: - {name: "Mercury Technologies", ats: "greenhouse", slug: "mercury", tier: 3, sector: "fintech"}
+- Applied Materials: - {name: "Applied Materials", ats: "ashby", slug: "applied", tier: 1, sector: "tech"}
+- F5: - {name: "F5", ats: "workday", host: "ffive.wd5.myworkdayjobs.com", site: "f5jobs", tier: 2, sector: "tech"}
+- Cadence Design Systems: - {name: "Cadence Design Systems", ats: "greenhouse", slug: "cadencehealth", tier: 1, sector: "tech"}
+- Atlassian: - {name: "Atlassian", ats: "ashby", slug: "atlas", tier: 1, sector: "tech"}
+- Booz Allen Hamilton: - {name: "Booz Allen Hamilton", ats: "workday", host: "bah.wd1.myworkdayjobs.com", site: "BAH_Jobs", tier: 1, sector: "consulting"}
+- Character.AI: - {name: "Character.AI", ats: "ashby", slug: "character", tier: 3, sector: "AI"}
+- Compass: - {name: "Compass", ats: "ashby", slug: "compa", tier: 3, sector: "internet"}
+- Warner Bros. Discovery: - {name: "Warner Bros. Discovery", ats: "workday", host: "ensign.wd1.myworkdayjobs.com", site: "DiscoveryCareerSite", tier: 1, sector: "media"}
+- American Tower: - {name: "American Tower", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 1, sector: "telecom"}
+- Crown Castle: - {name: "Crown Castle", ats: "ashby", slug: "castle", tier: 2, sector: "telecom"}
+- Dollar General: - {name: "Dollar General", ats: "workday", host: "hyvee.wd1.myworkdayjobs.com", site: "DollarFresh", tier: 2, sector: "retail"}
+- Dollar Tree: - {name: "Dollar Tree", ats: "workday", host: "hyvee.wd1.myworkdayjobs.com", site: "DollarFresh", tier: 2, sector: "retail"}
+- Advance Auto Parts: - {name: "Advance Auto Parts", ats: "greenhouse", slug: "advancedtechnologyservices", tier: 3, sector: "retail"}
+- Academy Sports + Outdoors: - {name: "Academy Sports + Outdoors", ats: "workday", host: "academy.wd1.myworkdayjobs.com", site: "Careers", tier: 3, sector: "retail"}
+- Bright Health: - {name: "Bright Health", ats: "ashby", slug: "brightwheel", tier: 3, sector: "healthcare"}
+- Blue Shield of California: - {name: "Blue Shield of California", ats: "greenhouse", slug: "californiapsychics", tier: 2, sector: "healthcare"}
+- Community Health Systems: - {name: "Community Health Systems", ats: "workday", host: "communitybrands.wd1.myworkdayjobs.com", site: "Momentive_External_Careers", tier: 3, sector: "healthcare"}
+- Universal Health Services: - {name: "Universal Health Services", ats: "greenhouse", slug: "universaldx", tier: 3, sector: "healthcare"}
+- Advocate Health: - {name: "Advocate Health", ats: "greenhouse", slug: "advocatesforchildrenofnewyork", tier: 2, sector: "healthcare"}
+- Mayo Clinic: - {name: "Mayo Clinic", ats: "ashby", slug: "ClinicallyAI", tier: 1, sector: "healthcare"}
+- Houston Methodist: - {name: "Houston Methodist", ats: "workday", host: "methodisthealthsystem.wd1.myworkdayjobs.com", site: "MHS_Careers", tier: 2, sector: "healthcare"}
+- Memorial Hermann: - {name: "Memorial Hermann", ats: "workday", host: "memorialhealthcare.wd1.myworkdayjobs.com", site: "MHS_Careers", tier: 2, sector: "healthcare"}
+- MD Anderson Cancer Center: - {name: "MD Anderson Cancer Center", ats: "ashby", slug: "centerfield", tier: 1, sector: "healthcare"}
+- Spring Health: - {name: "Spring Health", ats: "greenhouse", slug: "springfertility", tier: 3, sector: "healthcare"}
+- Johnson & Johnson: - {name: "Johnson & Johnson", ats: "workday", host: "wd501.myworkdaysite.com", public_base: "https://wd501.myworkdaysite.com/en-US/recruiting/johnsoncountyiowa/jocoia", site: "jocoia", tenant: "johnsoncountyiowa", tier: 1, sector: "pharma"}
+- Merck: - {name: "Merck", ats: "workday", host: "msd.wd5.myworkdayjobs.com", site: "SearchJobs", tier: 1, sector: "pharma"}
+- Biogen: - {name: "Biogen", ats: "workday", host: "biibhr.wd3.myworkdayjobs.com", site: "external", tier: 2, sector: "pharma"}
+- AstraZeneca: - {name: "AstraZeneca", ats: "ashby", slug: "astra", tier: 1, sector: "pharma"}
+- Charles River Laboratories: - {name: "Charles River Laboratories", ats: "ashby", slug: "river", tier: 3, sector: "life sciences"}
+- BP: - {name: "BP", ats: "workday", host: "bpinternational.wd3.myworkdayjobs.com", site: "bpCareers", tier: 1, sector: "energy"}
+- Kinder Morgan: - {name: "Kinder Morgan", ats: "greenhouse", slug: "morganmorganjobsapplynow", tier: 1, sector: "energy"}
+- Enterprise Products Partners: - {name: "Enterprise Products Partners", ats: "workday", host: "wd5.myworkdaysite.com", public_base: "https://wd5.myworkdaysite.com/en-US/recruiting/enterprisecommunity/EnterpriseCareers", site: "EnterpriseCareers", tenant: "enterprisecommunity", tier: 1, sector: "energy"}
+- Energy Transfer: - {name: "Energy Transfer", ats: "greenhouse", slug: "transfergo", tier: 1, sector: "energy"}
+- Constellation Energy: - {name: "Constellation Energy", ats: "ashby", slug: "constellation", tier: 1, sector: "utilities"}
+- American Electric Power: - {name: "American Electric Power", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 1, sector: "utilities"}
+- Quanta Services: - {name: "Quanta Services", ats: "ashby", slug: "quanta", tier: 2, sector: "industrial"}
+- Aurora Innovation: - {name: "Aurora Innovation", ats: "workday", host: "auroragov.wd1.myworkdayjobs.com", site: "Careers", tier: 2, sector: "automotive"}
+- American Airlines: - {name: "American Airlines", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 1, sector: "transportation"}
+- Union Pacific: - {name: "Union Pacific", ats: "greenhouse", slug: "pacificfusion", tier: 1, sector: "transportation"}
+- BNSF Railway: - {name: "BNSF Railway", ats: "ashby", slug: "railway", tier: 1, sector: "transportation"}
+- Publicis Sapient: - {name: "Publicis Sapient", ats: "greenhouse", slug: "public", tier: 2, sector: "consulting"}
+- Universal Parks: - {name: "Universal Parks", ats: "greenhouse", slug: "universaldx", tier: 2, sector: "hospitality"}
+- Berkshire Hathaway: - {name: "Berkshire Hathaway", ats: "greenhouse", slug: "berkshiregroupllc", tier: 1, sector: "conglomerate"}
+- Archer-Daniels-Midland: - {name: "Archer-Daniels-Midland", ats: "greenhouse", slug: "archer56", tier: 2, sector: "consumer goods"}
+- Berkshire Hathaway Energy: - {name: "Berkshire Hathaway Energy", ats: "greenhouse", slug: "berkshiregroupllc", tier: 2, sector: "utilities"}
+- Energy Transfer LP: - {name: "Energy Transfer LP", ats: "greenhouse", slug: "transfergo", tier: 2, sector: "energy"}
+- International Paper: - {name: "International Paper", ats: "greenhouse", slug: "inter", tier: 2, sector: "industrial"}
+- Sherwin-Williams: - {name: "Sherwin-Williams", ats: "workday", host: "wd5.myworkdaysite.com", public_base: "https://wd5.myworkdaysite.com/en-US/recruiting/williamscollege/External_Career_Site", site: "External_Career_Site", tenant: "williamscollege", tier: 2, sector: "industrial"}
+- World Kinect: - {name: "World Kinect", ats: "workday", host: "wfscorp.wd5.myworkdayjobs.com", site: "wfscareers", tier: 3, sector: "energy"}
+- Motorola Solutions Inc: - {name: "Motorola Solutions Inc", ats: "workday", host: "baldwin.wd1.myworkdayjobs.com", site: "msi", tier: 2, sector: "tech"}
+- Huntington Ingalls Industries: - {name: "Huntington Ingalls Industries", ats: "workday", host: "huntingtonlibrary.wd1.myworkdayjobs.com", site: "HuntingtonCareers", tier: 2, sector: "defense"}
+- Interpublic Group: - {name: "Interpublic Group", ats: "greenhouse", slug: "inter", tier: 2, sector: "media"}
+- Universal Health Realty: - {name: "Universal Health Realty", ats: "greenhouse", slug: "universaldx", tier: 3, sector: "healthcare"}
+- Owens & Minor: - {name: "Owens & Minor", ats: "workday", host: "owens.wd1.myworkdayjobs.com", site: "OCC", tier: 3, sector: "healthcare"}
+- Select Medical: - {name: "Select Medical", ats: "greenhouse", slug: "selectmanagementgroup", tier: 3, sector: "healthcare"}
+- Fidelity National Financial: - {name: "Fidelity National Financial", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/fmr/FidelityCareers", site: "FidelityCareers", tenant: "fmr", tier: 2, sector: "insurance"}
+- American Financial Group: - {name: "American Financial Group", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 3, sector: "insurance"}
+- Reinsurance Group of America: - {name: "Reinsurance Group of America", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 2, sector: "insurance"}
+- Primerica: - {name: "Primerica", ats: "ashby", slug: "primer", tier: 3, sector: "insurance"}
+- Genworth: - {name: "Genworth", ats: "workday", host: "gnw.wd1.myworkdayjobs.com", site: "GNW", tier: 3, sector: "insurance"}
+- Charles Schwab Corporation: - {name: "Charles Schwab Corporation", ats: "greenhouse", slug: "charlesriverassociates", tier: 3, sector: "bank"}
+- Equity Residential: - {name: "Equity Residential", ats: "workday", host: "ghc.wd1.myworkdayjobs.com", site: "Residential_Careers", tier: 3, sector: "real estate"}
+- Vulcan Materials: - {name: "Vulcan Materials", ats: "greenhouse", slug: "vulcanelements", tier: 3, sector: "industrial"}
+- Packaging Corporation of America: - {name: "Packaging Corporation of America", ats: "workday", host: "american.wd1.myworkdayjobs.com", site: "AU", tier: 3, sector: "industrial"}
+- Microchip Technology: - {name: "Microchip Technology", ats: "workday", host: "wd5.myworkdaysite.com", public_base: "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External", site: "External", tenant: "microchiphr", tier: 2, sector: "semiconductors"}
+- MKS Instruments: - {name: "MKS Instruments", ats: "workday", host: "mksinst.wd1.myworkdayjobs.com", site: "MKSCareersEMEA", tier: 3, sector: "semiconductors"}
+- Ampere Computing: - {name: "Ampere Computing", ats: "greenhouse", slug: "amperesand", tier: 2, sector: "semiconductors"}
+- Applied Intuition: - {name: "Applied Intuition", ats: "ashby", slug: "applied", tier: 2, sector: "AI"}
+- Sequoia Capital: - {name: "Sequoia Capital", ats: "ashby", slug: "sequoia", tier: 2, sector: "venture capital"}
+- Advent International: - {name: "Advent International", ats: "workday", host: "adventisthealthcare.wd1.myworkdayjobs.com", site: "AdventistHealthCareCareers", tier: 2, sector: "private equity"}
+- Clayton Dubilier & Rice: - {name: "Clayton Dubilier & Rice", ats: "workday", host: "claytonhomes.wd1.myworkdayjobs.com", site: "ClaytonCareers", tier: 2, sector: "private equity"}
+- Old Mission: - {name: "Old Mission", ats: "greenhouse", slug: "missionlane", tier: 3, sector: "markets"}
+- Wolverine Trading: - {name: "Wolverine Trading", ats: "ashby", slug: "trading212", tier: 3, sector: "markets"}
+- Charles Schwab: - {name: "Charles Schwab", ats: "greenhouse", slug: "charlesriverassociates", tier: 1, sector: "asset management"}

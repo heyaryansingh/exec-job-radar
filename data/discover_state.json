@@ -1,11 +1,28 @@
 {
  "tried": {
   "Synchrony": null,
-  "Huntington Bancshares": null,
+  "Huntington Bancshares": {
+   "review": {
+    "ats": "workday",
+    "host": "huntingtonlibrary.wd1.myworkdayjobs.com",
+    "site": "HuntingtonCareers"
+   }
+  },
   "Goldman Sachs": null,
-  "Discover Financial": null,
+  "Discover Financial": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "disco"
+   }
+  },
   "Fifth Third Bank": null,
-  "American Express": null,
+  "American Express": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Comerica": null,
   "Zions Bancorporation": null,
   "M&T Bank": null,
@@ -20,7 +37,13 @@
    "site": "external"
   },
   "First Citizens Bank": null,
-  "First Horizon": null,
+  "First Horizon": {
+   "review": {
+    "ats": "workday",
+    "host": "horizonmedia.wd1.myworkdayjobs.com",
+    "site": "CareerOpportunities"
+   }
+  },
   "BOK Financial": null,
   "Regions Financial": null,
   "Western Alliance Bank": {
@@ -52,7 +75,11 @@
   "Barclays": null,
   "Flagstar Bank": null,
   "Synovus": null,
-  "Mizuho": null,
+  "Mizuho": {
+   "ats": "workday",
+   "host": "mizuho.wd1.myworkdayjobs.com",
+   "site": "mizuhoamericas"
+  },
   "SMBC": null,
   "Societe Generale": null,
   "Scotiabank": null,
@@ -68,7 +95,12 @@
    "slug": "Stifel"
   },
   "Nomura": null,
-  "Credit Agricole CIB": null,
+  "Credit Agricole CIB": {
+   "review": {
+    "ats": "ashby",
+    "slug": "creditgenie"
+   }
+  },
   "RBC": null,
   "Evercore": null,
   "Lazard": {
@@ -76,15 +108,27 @@
    "host": "icbpjb.fa.ocs.oraclecloud.com",
    "site": "LazardProfessionalCareers"
   },
-  "Raymond James": null,
+  "Raymond James": {
+   "ats": "workday",
+   "host": "raymondjames.wd1.myworkdayjobs.com",
+   "site": "RaymondJamesCareers"
+  },
   "Piper Sandler": null,
-  "LPL Financial": null,
+  "LPL Financial": {
+   "ats": "workday",
+   "host": "lplfinancial.wd1.myworkdayjobs.com",
+   "site": "External"
+  },
   "Ameriprise Financial": {
    "ats": "workday",
    "host": "ameriprise.wd5.myworkdayjobs.com",
    "site": "Ameriprise"
   },
-  "DTCC": null,
+  "DTCC": {
+   "ats": "oracle",
+   "host": "ebxr.fa.us2.oraclecloud.com",
+   "site": "CX_1"
+  },
   "Cboe Global Markets": null,
   "Houlihan Lokey": null,
   "Broadridge": {
@@ -98,10 +142,25 @@
    "host": "spgi.wd5.myworkdayjobs.com",
    "site": "SPGI_Careers"
   },
-  "Cadence Bank": null,
-  "SS&C Technologies": null,
+  "Cadence Bank": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "cadencehealth"
+   }
+  },
+  "SS&C Technologies": {
+   "ats": "workday",
+   "host": "wd1.myworkdaysite.com",
+   "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/ssctech/SSCTechnologies",
+   "site": "SSCTechnologies",
+   "tenant": "ssctech"
+  },
   "MSCI": null,
-  "Bloomberg": null,
+  "Bloomberg": {
+   "ats": "workday",
+   "host": "bloomberg.wd1.myworkdayjobs.com",
+   "site": "Bloombergindustrygroup_External_Career_Site"
+  },
   "Thomson Reuters": {
    "ats": "workday",
    "host": "thomsonreuters.wd5.myworkdayjobs.com",
@@ -109,13 +168,21 @@
   },
   "Moody's": null,
   "Tradeweb": null,
-  "Intercontinental Exchange": null,
+  "Intercontinental Exchange": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "inter"
+   }
+  },
   "Virtu Financial": {
    "ats": "greenhouse",
    "slug": "virtu"
   },
   "MarketAxess": null,
-  "Citadel": null,
+  "Citadel": {
+   "ats": "ashby",
+   "slug": "citadel-ai"
+  },
   "LSEG": {
    "ats": "workday",
    "host": "lseg.wd3.myworkdayjobs.com",
@@ -136,7 +203,12 @@
   "DRW": null,
   "Morningstar": null,
   "Amegy Bank": null,
-  "IMC Trading": null,
+  "IMC Trading": {
+   "review": {
+    "ats": "ashby",
+    "slug": "trading212"
+   }
+  },
   "Optiver": null,
   "Tower Research Capital": {
    "ats": "greenhouse",
@@ -157,12 +229,21 @@
   "Susquehanna International Group": null,
   "Balyasny Asset Management": null,
   "Freddie Mac": null,
-  "Citadel Securities": null,
-  "Interactive Brokers": null,
+  "Citadel Securities": {
+   "duplicate_of": "ashby|citadel-ai||"
+  },
+  "Interactive Brokers": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "inter"
+   }
+  },
   "Sallie Mae": null,
   "Navient": null,
   "BMO": null,
-  "Rocket Companies": null,
+  "Rocket Companies": {
+   "duplicate_of": "greenhouse|rocketlab||"
+  },
   "PennyMac": null,
   "Mr. Cooper": null,
   "loanDepot": null,
@@ -180,16 +261,39 @@
    "host": "creditacceptance.wd5.myworkdayjobs.com",
    "site": "Credit_Acceptance"
   },
-  "Navy Federal Credit Union": null,
-  "Hudson River Trading": null,
+  "Navy Federal Credit Union": {
+   "review": {
+    "ats": "ashby",
+    "slug": "creditgenie"
+   }
+  },
+  "Hudson River Trading": {
+   "review": {
+    "ats": "ashby",
+    "slug": "trading212"
+   }
+  },
   "Santander Consumer USA": {
    "duplicate_of": "workday||santander.wd3.myworkdayjobs.com|santandercareers"
   },
-  "BECU": null,
+  "BECU": {
+   "ats": "workday",
+   "host": "becu.wd1.myworkdayjobs.com",
+   "site": "external"
+  },
   "Vanguard": null,
-  "Invesco": null,
+  "Invesco": {
+   "ats": "workday",
+   "host": "invesco.wd1.myworkdayjobs.com",
+   "site": "IVZ"
+  },
   "State Street Global Advisors": null,
-  "Citizens Financial Group": null,
+  "Citizens Financial Group": {
+   "review": {
+    "ats": "ashby",
+    "slug": "Citizen"
+   }
+  },
   "Franklin Templeton": null,
   "Capital Group": {
    "ats": "workday",
@@ -205,17 +309,33 @@
    "host": "dimensional.wd5.myworkdayjobs.com",
    "site": "DFA_Careers"
   },
-  "Northern Trust Asset Management": null,
+  "Northern Trust Asset Management": {
+   "duplicate_of": "workday||ntrs.wd1.myworkdayjobs.com|northerntrust"
+  },
   "Principal Financial Group": null,
   "Millennium Management": null,
   "Janus Henderson": null,
-  "AllianceBernstein": null,
-  "PIMCO": null,
+  "AllianceBernstein": {
+   "ats": "workday",
+   "host": "abglobal.wd1.myworkdayjobs.com",
+   "site": "alliancebernsteincareers"
+  },
+  "PIMCO": {
+   "ats": "workday",
+   "host": "pimco.wd1.myworkdayjobs.com",
+   "site": "pimco-careers"
+  },
   "Lord Abbett": null,
   "Neuberger Berman": null,
   "Federated Hermes": null,
   "MFS Investment Management": null,
-  "American Century Investments": null,
+  "American Century Investments": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Voya Financial": {
    "ats": "workday",
    "host": "godirect.wd5.myworkdayjobs.com",
@@ -234,8 +354,17 @@
    "ats": "greenhouse",
    "slug": "tpgcareers"
   },
-  "PenFed Credit Union": null,
-  "Brookfield": null,
+  "PenFed Credit Union": {
+   "review": {
+    "ats": "ashby",
+    "slug": "creditgenie"
+   }
+  },
+  "Brookfield": {
+   "ats": "workday",
+   "host": "ensign.wd1.myworkdayjobs.com",
+   "site": "BrookfieldHealthcareCenterCareerSite"
+  },
   "Ares Management": null,
   "Bain Capital": {
    "ats": "workday",
@@ -252,17 +381,37 @@
    "ats": "greenhouse",
    "slug": "generalatlantic"
   },
-  "Edward Jones": null,
+  "Edward Jones": {
+   "review": {
+    "ats": "workday",
+    "host": "comfortsystemsusa.wd1.myworkdayjobs.com",
+    "site": "Edwards"
+   }
+  },
   "Thoma Bravo": null,
   "StepStone Group": {
    "ats": "greenhouse",
    "slug": "stepstone"
   },
   "Putnam Investments": null,
-  "Hamilton Lane": null,
-  "Addepar": null,
+  "Hamilton Lane": {
+   "ats": "workday",
+   "host": "wd3.myworkdaysite.com",
+   "public_base": "https://wd3.myworkdaysite.com/en-US/recruiting/hamilton/hamilton_jobs",
+   "site": "hamilton_jobs",
+   "tenant": "hamilton"
+  },
+  "Addepar": {
+   "ats": "greenhouse",
+   "slug": "addepar1"
+  },
   "Envestnet": null,
-  "Silver Lake": null,
+  "Silver Lake": {
+   "review": {
+    "ats": "ashby",
+    "slug": "silver"
+   }
+  },
   "Wealthfront": {
    "ats": "lever",
    "slug": "wealthfront"
@@ -275,7 +424,12 @@
    "ats": "lever",
    "slug": "metlife"
   },
-  "Bridgewater Associates": null,
+  "Bridgewater Associates": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "bridgewater89"
+   }
+  },
   "iCapital": null,
   "SEI Investments": null,
   "Vista Equity Partners": null,
@@ -306,8 +460,16 @@
    "slug": "NorthwesternMutual"
   },
   "Aflac": null,
-  "Chubb": null,
-  "MassMutual": null,
+  "Chubb": {
+   "ats": "oracle",
+   "host": "fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_2001"
+  },
+  "MassMutual": {
+   "ats": "workday",
+   "host": "massmutual.wd1.myworkdayjobs.com",
+   "site": "mmcareers"
+  },
   "New York Life": null,
   "Guardian Life": {
    "ats": "workday",
@@ -328,7 +490,12 @@
    "host": "unum.wd1.myworkdayjobs.com",
    "site": "External"
   },
-  "Pacific Life": null,
+  "Pacific Life": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "pacificfusion"
+   }
+  },
   "AXA XL": null,
   "Pentagon Federal": null,
   "CNO Financial": null,
@@ -344,7 +511,13 @@
   "Eaton Vance": null,
   "Hanover Insurance": null,
   "Erie Insurance": null,
-  "American Family Insurance": null,
+  "American Family Insurance": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Cincinnati Financial": null,
   "Kemper": {
    "ats": "workday",
@@ -364,7 +537,9 @@
   "Selective Insurance": null,
   "Arch Capital": null,
   "Aon": null,
-  "Everest Group": null,
+  "Everest Group": {
+   "duplicate_of": "workday||wd5.myworkdaysite.com|careers"
+  },
   "Lemonade": {
    "ats": "ashby",
    "slug": "lemonade"
@@ -380,7 +555,11 @@
   },
   "Marsh McLennan": null,
   "Guidewire": null,
-  "Verisk": null,
+  "Verisk": {
+   "ats": "oracle",
+   "host": "fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1"
+  },
   "Duck Creek Technologies": {
    "ats": "workday",
    "host": "duckcreek.wd1.myworkdayjobs.com",
@@ -397,8 +576,15 @@
    "ats": "greenhouse",
    "slug": "adyen"
   },
-  "Square": null,
-  "Shift4": null,
+  "Square": {
+   "duplicate_of": "greenhouse|squarespace||"
+  },
+  "Shift4": {
+   "review": {
+    "ats": "ashby",
+    "slug": "shift"
+   }
+  },
   "Payoneer": {
    "ats": "greenhouse",
    "slug": "payoneer"
@@ -417,7 +603,11 @@
    "ats": "greenhouse",
    "slug": "upstart"
   },
-  "Intuit": null,
+  "Intuit": {
+   "ats": "workday",
+   "host": "intuitive.wd1.myworkdayjobs.com",
+   "site": "irtc_careers"
+  },
   "LendingClub": {
    "ats": "workday",
    "host": "lendingclub.wd1.myworkdayjobs.com",
@@ -456,9 +646,17 @@
   "Robinhood Markets": {
    "duplicate_of": "greenhouse|robinhood||"
   },
-  "Chainalysis": null,
+  "Chainalysis": {
+   "ats": "ashby",
+   "slug": "chainalysis-careers"
+  },
   "W. R. Berkley": null,
-  "Public.com": null,
+  "Public.com": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "public"
+   }
+  },
   "Current": {
    "ats": "greenhouse",
    "slug": "current"
@@ -484,7 +682,12 @@
    "ats": "greenhouse",
    "slug": "gusto"
   },
-  "MoneyLion": null,
+  "MoneyLion": {
+   "review": {
+    "ats": "ashby",
+    "slug": "gen-digital"
+   }
+  },
   "Remote": {
    "ats": "greenhouse",
    "slug": "remote"
@@ -499,10 +702,27 @@
    "slug": "socure"
   },
   "Deel": null,
-  "Jackson Financial": null,
-  "Plaid Inc": null,
-  "Q2 Holdings": null,
-  "MX Technologies": null,
+  "Jackson Financial": {
+   "review": {
+    "ats": "workday",
+    "host": "jacksonhealthcare.wd1.myworkdayjobs.com",
+    "site": "careers-jacksonhealthcare"
+   }
+  },
+  "Plaid Inc": {
+   "duplicate_of": "ashby|plaid||"
+  },
+  "Q2 Holdings": {
+   "review": {
+    "ats": "workday",
+    "host": "q2ebanking.wd5.myworkdayjobs.com",
+    "site": "Q2"
+   }
+  },
+  "MX Technologies": {
+   "ats": "greenhouse",
+   "slug": "mxtechnologiesinc"
+  },
   "Blend": {
    "ats": "greenhouse",
    "slug": "blend"
@@ -518,7 +738,12 @@
    "duplicate_of": "greenhouse|affirm||"
   },
   "Afterpay": null,
-  "Figure Technologies": null,
+  "Figure Technologies": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "figure"
+   }
+  },
   "Airwallex": {
    "ats": "ashby",
    "slug": "airwallex"
@@ -532,7 +757,10 @@
    "ats": "ashby",
    "slug": "nubank"
   },
-  "Tipalti": null,
+  "Tipalti": {
+   "ats": "greenhouse",
+   "slug": "tipaltisolutions"
+  },
   "Coinbase Global": {
    "duplicate_of": "greenhouse|coinbase||"
   },
@@ -543,18 +771,36 @@
   "Carta Inc": {
    "duplicate_of": "greenhouse|carta||"
   },
-  "Mercury Technologies": null,
+  "Mercury Technologies": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "mercury"
+   }
+  },
   "Pipe": null,
-  "Zurich North America": null,
+  "Zurich North America": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Ramp Business": null,
   "Chime Financial": {
    "duplicate_of": "greenhouse|chime||"
   },
-  "AvidXchange": null,
+  "AvidXchange": {
+   "ats": "greenhouse",
+   "slug": "avidxchangeinc"
+  },
   "Payward": {
    "duplicate_of": "ashby|kraken.com||"
   },
-  "Green Dot": null,
+  "Green Dot": {
+   "ats": "workday",
+   "host": "greendotcorp.wd1.myworkdayjobs.com",
+   "site": "gdc"
+  },
   "Nium": {
    "ats": "lever",
    "slug": "nium"
@@ -576,7 +822,10 @@
    "ats": "ashby",
    "slug": "moderntreasury"
   },
-  "Treasury Prime": null,
+  "Treasury Prime": {
+   "ats": "greenhouse",
+   "slug": "treasuryprime"
+  },
   "SoFi Technologies": null,
   "Amazon": null,
   "Revolut": null,
@@ -598,7 +847,9 @@
    "slug": "column"
   },
   "Meta": null,
-  "Brex Inc": null,
+  "Brex Inc": {
+   "duplicate_of": "greenhouse|brex||"
+  },
   "IBM": null,
   "Oracle": null,
   "Uber": {
@@ -623,7 +874,11 @@
    "ats": "smartrecruiters",
    "slug": "IronMountain"
   },
-  "Global Payments": null,
+  "Global Payments": {
+   "ats": "workday",
+   "host": "global.wd1.myworkdayjobs.com",
+   "site": "globalpartnerscareers"
+  },
   "Fastly": {
    "ats": "greenhouse",
    "slug": "fastly"
@@ -634,8 +889,15 @@
    "host": "rackspace.wd1.myworkdayjobs.com",
    "site": "External"
   },
-  "DigitalOcean": null,
-  "Equinix": null,
+  "DigitalOcean": {
+   "ats": "greenhouse",
+   "slug": "digitalocean98"
+  },
+  "Equinix": {
+   "ats": "workday",
+   "host": "equinix.wd1.myworkdayjobs.com",
+   "site": "external"
+  },
   "Farmers Insurance": null,
   "Kyndryl": {
    "ats": "workday",
@@ -675,7 +937,12 @@
    "host": "hitachi.wd1.myworkdayjobs.com",
    "site": "hitachi"
   },
-  "Applied Materials": null,
+  "Applied Materials": {
+   "review": {
+    "ats": "ashby",
+    "slug": "applied"
+   }
+  },
   "Lam Research": null,
   "Marvell": {
    "ats": "workday",
@@ -699,7 +966,13 @@
    "slug": "extremenetworks"
   },
   "Ciena": null,
-  "F5": null,
+  "F5": {
+   "review": {
+    "ats": "workday",
+    "host": "ffive.wd5.myworkdayjobs.com",
+    "site": "f5jobs"
+   }
+  },
   "Corning": null,
   "Teradyne": null,
   "Auto-Owners Insurance": null,
@@ -728,15 +1001,25 @@
    "site": "Logitech"
   },
   "Supermicro": null,
-  "Vertiv": null,
+  "Vertiv": {
+   "ats": "oracle",
+   "host": "egup.fa.us2.oraclecloud.com",
+   "site": "CX"
+  },
   "Groq": null,
-  "Autodesk": null,
+  "Autodesk": {
+   "ats": "workday",
+   "host": "autodesk.wd1.myworkdayjobs.com",
+   "site": "Ext"
+  },
   "Box": null,
   "Zoom": null,
   "Dropbox Inc": {
    "duplicate_of": "greenhouse|dropbox||"
   },
-  "Intuit Inc": null,
+  "Intuit Inc": {
+   "duplicate_of": "workday||intuitive.wd1.myworkdayjobs.com|irtc_careers"
+  },
   "DocuSign": null,
   "Zendesk": {
    "ats": "workday",
@@ -759,13 +1042,21 @@
    "ats": "ashby",
    "slug": "miro"
   },
-  "HubSpot": null,
+  "HubSpot": {
+   "ats": "greenhouse",
+   "slug": "hubspotjobs"
+  },
   "Airtable": {
    "ats": "greenhouse",
    "slug": "airtable"
   },
   "Root Insurance": null,
-  "Atlassian": null,
+  "Atlassian": {
+   "review": {
+    "ats": "ashby",
+    "slug": "atlas"
+   }
+  },
   "Canva": {
    "ats": "smartrecruiters",
    "slug": "Canva"
@@ -790,7 +1081,10 @@
    "ats": "greenhouse",
    "slug": "cockroachlabs"
   },
-  "Couchbase": null,
+  "Couchbase": {
+   "ats": "greenhouse",
+   "slug": "couchbaseinc"
+  },
   "Redis": {
    "ats": "ashby",
    "slug": "redis"
@@ -887,7 +1181,10 @@
    "ats": "greenhouse",
    "slug": "tanium"
   },
-  "Harness": null,
+  "Harness": {
+   "ats": "greenhouse",
+   "slug": "harnessinc"
+  },
   "SolarWinds": {
    "ats": "greenhouse",
    "slug": "solarwinds"
@@ -1025,14 +1322,24 @@
    "slug": "zuora"
   },
   "Paychex": null,
-  "Seismic": null,
+  "Seismic": {
+   "ats": "ashby",
+   "slug": "seismic-change.com"
+  },
   "Anaplan": {
    "ats": "greenhouse",
    "slug": "anaplan"
   },
-  "Clari": null,
+  "Clari": {
+   "ats": "ashby",
+   "slug": "clarify"
+  },
   "Medallia": null,
-  "Blackbaud": null,
+  "Blackbaud": {
+   "ats": "workday",
+   "host": "blackbaud.wd1.myworkdayjobs.com",
+   "site": "ExternalCareers"
+  },
   "Highspot": null,
   "Avalara": null,
   "Workday Inc": {
@@ -1044,7 +1351,11 @@
    "slug": "five9"
   },
   "Clio": null,
-  "Intapp": null,
+  "Intapp": {
+   "ats": "workday",
+   "host": "intapp.wd1.myworkdayjobs.com",
+   "site": "Intapp"
+  },
   "NICE": {
    "ats": "greenhouse",
    "slug": "nice"
@@ -1064,7 +1375,11 @@
   },
   "Salesforce Inc": null,
   "8x8": null,
-  "Genesys": null,
+  "Genesys": {
+   "ats": "workday",
+   "host": "genesys.wd1.myworkdayjobs.com",
+   "site": "Genesys"
+  },
   "Zscaler Inc": {
    "duplicate_of": "greenhouse|zscaler||"
   },
@@ -1078,7 +1393,11 @@
    "host": "ringcentral.wd1.myworkdayjobs.com",
    "site": "RingCentral_Careers"
   },
-  "Fortinet": null,
+  "Fortinet": {
+   "ats": "oracle",
+   "host": "edel.fa.us2.oraclecloud.com",
+   "site": "CX_2001"
+  },
   "Wiz": null,
   "SentinelOne": null,
   "Tenable": {
@@ -1179,7 +1498,13 @@
    "site": "DarktaceExternal"
   },
   "Varonis": null,
-  "Booz Allen Hamilton": null,
+  "Booz Allen Hamilton": {
+   "review": {
+    "ats": "workday",
+    "host": "bah.wd1.myworkdayjobs.com",
+    "site": "BAH_Jobs"
+   }
+  },
   "CACI": {
    "ats": "smartrecruiters",
    "slug": "Caci"
@@ -1199,9 +1524,15 @@
    "ats": "ashby",
    "slug": "perplexity"
   },
-  "DXC Technology": null,
+  "DXC Technology": {
+   "ats": "workday",
+   "host": "dxctechnology.wd1.myworkdayjobs.com",
+   "site": "DXCJobs"
+  },
   "Peraton": null,
-  "Scale": null,
+  "Scale": {
+   "duplicate_of": "greenhouse|scaleai||"
+  },
   "Glean": {
    "ats": "smartrecruiters",
    "slug": "Glean"
@@ -1238,7 +1569,10 @@
    "slug": "replit"
   },
   "Hugging Face": null,
-  "xAI": null,
+  "xAI": {
+   "ats": "greenhouse",
+   "slug": "xai"
+  },
   "Cursor": {
    "ats": "ashby",
    "slug": "cursor"
@@ -1296,7 +1630,12 @@
    "ats": "greenhouse",
    "slug": "dominodatalab"
   },
-  "Character.AI": null,
+  "Character.AI": {
+   "review": {
+    "ats": "ashby",
+    "slug": "character"
+   }
+  },
   "SambaNova Systems": {
    "ats": "greenhouse",
    "slug": "sambanovasystems"
@@ -1321,7 +1660,12 @@
    "ats": "greenhouse",
    "slug": "helsing"
   },
-  "Cadence Design Systems": null,
+  "Cadence Design Systems": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "cadencehealth"
+   }
+  },
   "Weights & Biases": null,
   "Saronic": {
    "ats": "ashby",
@@ -1332,7 +1676,11 @@
   "Instacart Maplebear": {
    "duplicate_of": "greenhouse|instacart||"
   },
-  "DataRobot": null,
+  "DataRobot": {
+   "ats": "workday",
+   "host": "datarobot.wd1.myworkdayjobs.com",
+   "site": "DataRobot_External_Careers"
+  },
   "Airbnb Inc": {
    "duplicate_of": "greenhouse|airbnb||"
   },
@@ -1350,8 +1698,13 @@
    "site": "UberCareers"
   },
   "DoorDash": null,
-  "Lyft Inc": null,
-  "Skild AI": null,
+  "Lyft Inc": {
+   "duplicate_of": "greenhouse|lyft||"
+  },
+  "Skild AI": {
+   "ats": "greenhouse",
+   "slug": "skildai-careers"
+  },
   "Wayfair": {
    "ats": "smartrecruiters",
    "slug": "Wayfair"
@@ -1364,7 +1717,12 @@
    "ats": "greenhouse",
    "slug": "nextdoor"
   },
-  "Compass": null,
+  "Compass": {
+   "review": {
+    "ats": "ashby",
+    "slug": "compa"
+   }
+  },
   "Expedia Group": {
    "ats": "workday",
    "host": "expedia.wd108.myworkdayjobs.com",
@@ -1374,11 +1732,18 @@
   "Pinterest Inc": {
    "duplicate_of": "greenhouse|pinterest||"
   },
-  "Booking Holdings": null,
+  "Booking Holdings": {
+   "ats": "workday",
+   "host": "priceline.wd1.myworkdayjobs.com",
+   "site": "BookingHoldings"
+  },
   "Discord Inc": {
    "duplicate_of": "greenhouse|discord||"
   },
-  "CoStar Group": null,
+  "CoStar Group": {
+   "ats": "greenhouse",
+   "slug": "costar"
+  },
   "Reddit Inc": {
    "duplicate_of": "greenhouse|reddit||"
   },
@@ -1398,8 +1763,17 @@
    "slug": "taketwo"
   },
   "Yelp": null,
-  "Snap": null,
-  "Unity": null,
+  "Snap": {
+   "ats": "workday",
+   "host": "wd1.myworkdaysite.com",
+   "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap",
+   "site": "snap",
+   "tenant": "snapchat"
+  },
+  "Unity": {
+   "ats": "ashby",
+   "slug": "unity-advisory"
+  },
   "Paramount": null,
   "Electronic Arts": null,
   "Chewy": null,
@@ -1407,7 +1781,13 @@
    "ats": "greenhouse",
    "slug": "thenewyorktimes"
   },
-  "Warner Bros. Discovery": null,
+  "Warner Bros. Discovery": {
+   "review": {
+    "ats": "workday",
+    "host": "ensign.wd1.myworkdayjobs.com",
+    "site": "DiscoveryCareerSite"
+   }
+  },
   "iHeartMedia": {
    "ats": "smartrecruiters",
    "slug": "Iheartmedia"
@@ -1429,13 +1809,21 @@
    "ats": "greenhouse",
    "slug": "coursera"
   },
-  "Fox Corporation": null,
+  "Fox Corporation": {
+   "ats": "workday",
+   "host": "fox.wd1.myworkdayjobs.com",
+   "site": "Domestic"
+  },
   "Activision Blizzard": null,
   "Carvana": {
    "ats": "greenhouse",
    "slug": "carvana"
   },
-  "Dow Jones": null,
+  "Dow Jones": {
+   "ats": "workday",
+   "host": "dowjones.wd1.myworkdayjobs.com",
+   "site": "News_Corp_Australia_Careers"
+  },
   "Chegg": null,
   "Thumbtack": {
    "ats": "ashby",
@@ -1483,7 +1871,10 @@
    "ats": "smartrecruiters",
    "slug": "Fiverr"
   },
-  "Canva Inc": null,
+  "Canva Inc": {
+   "ats": "ashby",
+   "slug": "canvas-medical"
+  },
   "AT&T": null,
   "Charter Communications": null,
   "T-Mobile": {
@@ -1496,10 +1887,28 @@
   "DISH Network": null,
   "Altice USA": null,
   "ServiceNow Inc": null,
-  "American Tower": null,
-  "Bumble": null,
-  "EchoStar": null,
-  "Crown Castle": null,
+  "American Tower": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
+  "Bumble": {
+   "ats": "ashby",
+   "slug": "bumbleinc"
+  },
+  "EchoStar": {
+   "ats": "oracle",
+   "host": "efgz-dev2.fa.us6.oraclecloud.com",
+   "site": "CX_1"
+  },
+  "Crown Castle": {
+   "review": {
+    "ats": "ashby",
+    "slug": "castle"
+   }
+  },
   "Zayo": {
    "ats": "workday",
    "host": "zayo.wd1.myworkdayjobs.com",
@@ -1510,7 +1919,11 @@
   "Viasat": null,
   "Amazon Retail": null,
   "Home Depot": null,
-  "Analog Devices": null,
+  "Analog Devices": {
+   "ats": "workday",
+   "host": "analogdevices.wd1.myworkdayjobs.com",
+   "site": "External"
+  },
   "Costco": null,
   "Macy's": null,
   "Nordstrom": {
@@ -1530,13 +1943,29 @@
    "site": "kohlscareers"
   },
   "Ross Stores": null,
-  "Dollar General": null,
-  "Albertsons": null,
+  "Dollar General": {
+   "review": {
+    "ats": "workday",
+    "host": "hyvee.wd1.myworkdayjobs.com",
+    "site": "DollarFresh"
+   }
+  },
+  "Albertsons": {
+   "ats": "oracle",
+   "host": "eofd.fa.us6.oraclecloud.com",
+   "site": "CX_1001"
+  },
   "H-E-B": null,
   "Walmart Global Tech": null,
   "Ahold Delhaize USA": null,
   "7-Eleven": null,
-  "Dollar Tree": null,
+  "Dollar Tree": {
+   "review": {
+    "ats": "workday",
+    "host": "hyvee.wd1.myworkdayjobs.com",
+    "site": "DollarFresh"
+   }
+  },
   "Sam's Club": null,
   "Chipotle": null,
   "Starbucks": null,
@@ -1562,7 +1991,11 @@
    "host": "williams.wd5.myworkdayjobs.com",
    "site": "External"
   },
-  "O'Reilly Auto Parts": null,
+  "O'Reilly Auto Parts": {
+   "ats": "workday",
+   "host": "oreillyauto.wd1.myworkdayjobs.com",
+   "site": "oreilly"
+  },
   "Darden Restaurants": null,
   "Cox Communications": null,
   "SBA Communications": null,
@@ -1575,17 +2008,29 @@
   },
   "Best Buy": null,
   "Lowe's": null,
-  "Coca-Cola": null,
+  "Coca-Cola": {
+   "ats": "workday",
+   "host": "coke.wd1.myworkdayjobs.com",
+   "site": "coca-cola-careers"
+  },
   "Dick's Sporting Goods": {
    "ats": "workday",
    "host": "dickssportinggoods.wd1.myworkdayjobs.com",
    "site": "DSG"
   },
   "AutoZone": null,
-  "General Mills": null,
+  "General Mills": {
+   "ats": "workday",
+   "host": "genmills.wd1.myworkdayjobs.com",
+   "site": "GMI_External_Careers"
+  },
   "Procter & Gamble": null,
   "Mondelez": null,
-  "Kraft Heinz": null,
+  "Kraft Heinz": {
+   "ats": "workday",
+   "host": "heinz.wd1.myworkdayjobs.com",
+   "site": "KraftHeinz_Careers"
+  },
   "Kellanova": null,
   "Colgate-Palmolive": null,
   "Kimberly-Clark": {
@@ -1598,7 +2043,12 @@
    "host": "unilever.wd3.myworkdayjobs.com",
    "site": "Unilever_Experienced_Professionals"
   },
-  "Advance Auto Parts": null,
+  "Advance Auto Parts": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "advancedtechnologyservices"
+   }
+  },
   "Ulta Beauty": null,
   "PepsiCo": null,
   "Mars": null,
@@ -1616,7 +2066,13 @@
   },
   "ADM": null,
   "Optum": null,
-  "HCA Healthcare": null,
+  "HCA Healthcare": {
+   "ats": "workday",
+   "host": "wd3.myworkdaysite.com",
+   "public_base": "https://wd3.myworkdaysite.com/en-US/recruiting/hcahealthcare/hcacareers",
+   "site": "hcacareers",
+   "tenant": "hcahealthcare"
+  },
   "Sysco Corporation": {
    "ats": "workday",
    "host": "wd5.myworkdaysite.com",
@@ -1626,11 +2082,23 @@
   },
   "UnitedHealth Group": null,
   "RH": null,
-  "Molina Healthcare": null,
+  "Molina Healthcare": {
+   "ats": "oracle",
+   "host": "hckd.fa.us2.oraclecloud.com",
+   "site": "CX_1"
+  },
   "US Foods": null,
-  "Highmark Health": null,
+  "Highmark Health": {
+   "ats": "workday",
+   "host": "highmarkhealth.wd1.myworkdayjobs.com",
+   "site": "highmark"
+  },
   "Kaiser Permanente": null,
-  "Health Care Service Corporation": null,
+  "Health Care Service Corporation": {
+   "ats": "workday",
+   "host": "healthcare.wd1.myworkdayjobs.com",
+   "site": "Search"
+  },
   "CareFirst": null,
   "Clover Health": {
    "ats": "greenhouse",
@@ -1641,7 +2109,12 @@
    "host": "fa-etum-saasfaprod1.fa.ocs.oraclecloud.com",
    "site": "floridablue"
   },
-  "Bright Health": null,
+  "Bright Health": {
+   "review": {
+    "ats": "ashby",
+    "slug": "brightwheel"
+   }
+  },
   "Oscar": {
    "duplicate_of": "greenhouse|oscar||"
   },
@@ -1660,39 +2133,111 @@
   },
   "Nestle USA": null,
   "McKesson": null,
-  "Quest Diagnostics": null,
-  "Labcorp": null,
+  "Quest Diagnostics": {
+   "ats": "oracle",
+   "host": "hdox.fa.us6.oraclecloud.com",
+   "site": "CX_1"
+  },
+  "Labcorp": {
+   "ats": "workday",
+   "host": "labcorp.wd1.myworkdayjobs.com",
+   "site": "External"
+  },
   "Fresenius Medical Care": {
    "ats": "workday",
    "host": "freseniusmedicalcare.wd3.myworkdayjobs.com",
    "site": "fme"
   },
-  "DaVita": null,
+  "DaVita": {
+   "ats": "workday",
+   "host": "davita.wd1.myworkdayjobs.com",
+   "site": "DKC_External"
+  },
   "Premera Blue Cross": null,
-  "Universal Health Services": null,
+  "Universal Health Services": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "universaldx"
+   }
+  },
   "Ascension": null,
   "Tractor Supply": null,
   "CommonSpirit Health": null,
-  "Advocate Health": null,
-  "Academy Sports + Outdoors": null,
+  "Advocate Health": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "advocatesforchildrenofnewyork"
+   }
+  },
+  "Academy Sports + Outdoors": {
+   "review": {
+    "ats": "workday",
+    "host": "academy.wd1.myworkdayjobs.com",
+    "site": "Careers"
+   }
+  },
   "Trinity Health": null,
-  "Mayo Clinic": null,
+  "Mayo Clinic": {
+   "review": {
+    "ats": "ashby",
+    "slug": "ClinicallyAI"
+   }
+  },
   "Johns Hopkins Medicine": null,
-  "Memorial Hermann": null,
-  "Cleveland Clinic": null,
-  "MD Anderson Cancer Center": null,
-  "Houston Methodist": null,
-  "Cardinal Health": null,
+  "Memorial Hermann": {
+   "review": {
+    "ats": "workday",
+    "host": "memorialhealthcare.wd1.myworkdayjobs.com",
+    "site": "MHS_Careers"
+   }
+  },
+  "Cleveland Clinic": {
+   "ats": "workday",
+   "host": "ccf.wd1.myworkdayjobs.com",
+   "site": "ClevelandClinicCareersUK"
+  },
+  "MD Anderson Cancer Center": {
+   "review": {
+    "ats": "ashby",
+    "slug": "centerfield"
+   }
+  },
+  "Houston Methodist": {
+   "review": {
+    "ats": "workday",
+    "host": "methodisthealthsystem.wd1.myworkdayjobs.com",
+    "site": "MHS_Careers"
+   }
+  },
+  "Cardinal Health": {
+   "ats": "workday",
+   "host": "cardinalhealth.wd1.myworkdayjobs.com",
+   "site": "EXT"
+  },
   "NYU Langone": null,
   "Tenet Healthcare": null,
-  "Community Health Systems": null,
+  "Community Health Systems": {
+   "review": {
+    "ats": "workday",
+    "host": "communitybrands.wd1.myworkdayjobs.com",
+    "site": "Momentive_External_Careers"
+   }
+  },
   "Epic Systems": null,
   "Providence": null,
   "Change Healthcare": null,
   "Oracle Health": null,
-  "athenahealth": null,
+  "athenahealth": {
+   "ats": "workday",
+   "host": "athenahealth.wd1.myworkdayjobs.com",
+   "site": "External"
+  },
   "Northwell Health": null,
-  "R1 RCM": null,
+  "R1 RCM": {
+   "ats": "workday",
+   "host": "r1rcm.wd1.myworkdayjobs.com",
+   "site": "R1RCM"
+  },
   "Inovalon": {
    "ats": "ashby",
    "slug": "inovalon"
@@ -1730,7 +2275,10 @@
    "ats": "lever",
    "slug": "lyrahealth"
   },
-  "Headspace": null,
+  "Headspace": {
+   "ats": "greenhouse",
+   "slug": "headspaceproviders"
+  },
   "Maven Clinic": {
    "ats": "greenhouse",
    "slug": "mavenclinic"
@@ -1748,7 +2296,11 @@
    "ats": "lever",
    "slug": "includedhealth"
   },
-  "Pfizer": null,
+  "Pfizer": {
+   "ats": "workday",
+   "host": "pfizer.wd1.myworkdayjobs.com",
+   "site": "PfizerCareers"
+  },
   "Cityblock Health": {
    "ats": "workday",
    "host": "cityblockhealth.wd1.myworkdayjobs.com",
@@ -1758,7 +2310,13 @@
    "ats": "smartrecruiters",
    "slug": "AbbVie"
   },
-  "Merck": null,
+  "Merck": {
+   "review": {
+    "ats": "workday",
+    "host": "msd.wd5.myworkdayjobs.com",
+    "site": "SearchJobs"
+   }
+  },
   "Bristol Myers Squibb": null,
   "Amgen": {
    "ats": "workday",
@@ -1768,41 +2326,79 @@
   "Texas Children's Hospital": null,
   "Regeneron": null,
   "Independence Blue Cross": null,
-  "Mass General Brigham": null,
-  "Moderna": null,
-  "Spring Health": null,
-  "Biogen": null,
+  "Mass General Brigham": {
+   "ats": "workday",
+   "host": "massgeneralbrigham.wd1.myworkdayjobs.com",
+   "site": "MGBExternal"
+  },
+  "Moderna": {
+   "ats": "greenhouse",
+   "slug": "modernanimal"
+  },
+  "Spring Health": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "springfertility"
+   }
+  },
+  "Biogen": {
+   "review": {
+    "ats": "workday",
+    "host": "biibhr.wd3.myworkdayjobs.com",
+    "site": "external"
+   }
+  },
   "Novartis": null,
   "Genentech": null,
   "GSK": null,
   "Roche": null,
-  "AstraZeneca": null,
+  "AstraZeneca": {
+   "review": {
+    "ats": "ashby",
+    "slug": "astra"
+   }
+  },
   "Yum! Brands": null,
   "Sanofi": null,
   "Takeda": null,
   "Thermo Fisher Scientific": null,
   "Novo Nordisk": null,
-  "Danaher": null,
+  "Danaher": {
+   "ats": "workday",
+   "host": "danaher.wd1.myworkdayjobs.com",
+   "site": "DanaherJobs"
+  },
   "Abbott": {
    "ats": "workday",
    "host": "abbott.wd5.myworkdayjobs.com",
    "site": "abbottcareers"
   },
   "Tempus AI": null,
-  "Medtronic": null,
+  "Medtronic": {
+   "ats": "workday",
+   "host": "medtronic.wd1.myworkdayjobs.com",
+   "site": "MedtronicCareers"
+  },
   "Stryker": {
    "ats": "workday",
    "host": "stryker.wd1.myworkdayjobs.com",
    "site": "StrykerCareers"
   },
-  "Intuitive Surgical": null,
+  "Intuitive Surgical": {
+   "duplicate_of": "workday||intuitive.wd1.myworkdayjobs.com|irtc_careers"
+  },
   "Boston Scientific": null,
   "Edwards Lifesciences": {
    "ats": "workday",
    "host": "edwards.wd5.myworkdayjobs.com",
    "site": "edwardscareers"
   },
-  "Blue Shield of California": null,
+  "Blue Shield of California": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "californiapsychics"
+   }
+  },
   "Baylor Scott & White": null,
   "Baxter": {
    "ats": "workday",
@@ -1815,7 +2411,15 @@
    "host": "agilent.wd5.myworkdayjobs.com",
    "site": "Agilent_Student_Careers"
   },
-  "Johnson & Johnson": null,
+  "Johnson & Johnson": {
+   "review": {
+    "ats": "workday",
+    "host": "wd501.myworkdaysite.com",
+    "public_base": "https://wd501.myworkdaysite.com/en-US/recruiting/johnsoncountyiowa/jocoia",
+    "site": "jocoia",
+    "tenant": "johnsoncountyiowa"
+   }
+  },
   "ICON": {
    "ats": "ashby",
    "slug": "icon"
@@ -1826,7 +2430,11 @@
    "site": "illumina-careers"
   },
   "Anheuser-Busch": null,
-  "IQVIA": null,
+  "IQVIA": {
+   "ats": "workday",
+   "host": "iqvia.wd1.myworkdayjobs.com",
+   "site": "IQVIA"
+  },
   "Syneos Health": null,
   "Medpace": null,
   "Siemens Healthineers": null,
@@ -1863,13 +2471,23 @@
   },
   "Hess": null,
   "Philips": null,
-  "BP": null,
+  "BP": {
+   "review": {
+    "ats": "workday",
+    "host": "bpinternational.wd3.myworkdayjobs.com",
+    "site": "bpCareers"
+   }
+  },
   "Equinor": {
    "ats": "workday",
    "host": "equinor.wd3.myworkdayjobs.com",
    "site": "EQNR"
   },
-  "NOV": null,
+  "NOV": {
+   "ats": "oracle",
+   "host": "egay.fa.us6.oraclecloud.com",
+   "site": "CX_2001"
+  },
   "Halliburton": null,
   "TotalEnergies": null,
   "TechnipFMC": null,
@@ -1881,9 +2499,27 @@
    "duplicate_of": "workday||williams.wd5.myworkdayjobs.com|external"
   },
   "Zimmer Biomet": null,
-  "Enterprise Products Partners": null,
-  "Kinder Morgan": null,
-  "Energy Transfer": null,
+  "Enterprise Products Partners": {
+   "review": {
+    "ats": "workday",
+    "host": "wd5.myworkdaysite.com",
+    "public_base": "https://wd5.myworkdaysite.com/en-US/recruiting/enterprisecommunity/EnterpriseCareers",
+    "site": "EnterpriseCareers",
+    "tenant": "enterprisecommunity"
+   }
+  },
+  "Kinder Morgan": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "morganmorganjobsapplynow"
+   }
+  },
+  "Energy Transfer": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "transfergo"
+   }
+  },
   "Targa Resources": null,
   "Sempra": null,
   "ONEOK": {
@@ -1891,15 +2527,28 @@
    "host": "oneok.wd1.myworkdayjobs.com",
    "site": "ONEOK"
   },
-  "Plains All American": null,
+  "Plains All American": {
+   "ats": "workday",
+   "host": "plains.wd1.myworkdayjobs.com",
+   "site": "plains"
+  },
   "Weatherford": null,
   "Vistra": null,
   "NRG Energy": null,
   "McDermott": null,
   "Southern Company": null,
   "Dominion Energy": null,
-  "Duke Energy": null,
-  "Charles River Laboratories": null,
+  "Duke Energy": {
+   "ats": "workday",
+   "host": "dukeenergy.wd1.myworkdayjobs.com",
+   "site": "search"
+  },
+  "Charles River Laboratories": {
+   "review": {
+    "ats": "ashby",
+    "slug": "river"
+   }
+  },
   "Xcel Energy": {
    "ats": "workday",
    "host": "xcelenergy.wd1.myworkdayjobs.com",
@@ -1907,11 +2556,22 @@
   },
   "NextEra Energy": null,
   "Entergy": null,
-  "American Electric Power": null,
+  "American Electric Power": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "PG&E": null,
   "APA Corporation": null,
   "Chesapeake Energy": null,
-  "Constellation Energy": null,
+  "Constellation Energy": {
+   "review": {
+    "ats": "ashby",
+    "slug": "constellation"
+   }
+  },
   "PPL": null,
   "FirstEnergy": null,
   "Vertex Pharmaceuticals": null,
@@ -1939,10 +2599,18 @@
    "host": "ercot.wd1.myworkdayjobs.com",
    "site": "ercot_careers"
   },
-  "Dow": null,
+  "Dow": {
+   "ats": "workday",
+   "host": "dow.wd1.myworkdayjobs.com",
+   "site": "ExternalCareers"
+  },
   "LyondellBasell": null,
   "CenterPoint Energy": null,
-  "AES": null,
+  "AES": {
+   "ats": "workday",
+   "host": "aes.wd1.myworkdayjobs.com",
+   "site": "AES_US"
+  },
   "Linde": null,
   "CMS Energy": null,
   "Celanese": {
@@ -1969,7 +2637,12 @@
   },
   "Waste Management": null,
   "Eastman Chemical": null,
-  "Quanta Services": null,
+  "Quanta Services": {
+   "review": {
+    "ats": "ashby",
+    "slug": "quanta"
+   }
+  },
   "Fervo Energy": {
    "ats": "greenhouse",
    "slug": "fervoenergy"
@@ -1979,7 +2652,11 @@
    "host": "gevernova.wd5.myworkdayjobs.com",
    "site": "Vernova_ExternalSite"
   },
-  "Cheniere Energy": null,
+  "Cheniere Energy": {
+   "ats": "oracle",
+   "host": "hcgi.fa.us2.oraclecloud.com",
+   "site": "CX_2"
+  },
   "Schneider Electric": null,
   "Sunrun": {
    "ats": "workday",
@@ -1990,7 +2667,11 @@
   "General Dynamics": {
    "duplicate_of": "greenhouse|general||"
   },
-  "First Solar": null,
+  "First Solar": {
+   "ats": "oracle",
+   "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1"
+  },
   "Enphase Energy": null,
   "Exelon": null,
   "L3Harris": null,
@@ -2009,12 +2690,20 @@
    "host": "rockwellautomation.wd1.myworkdayjobs.com",
    "site": "External_Rockwell_Automation"
   },
-  "Emerson": null,
+  "Emerson": {
+   "ats": "oracle",
+   "host": "hdjq.fa.us2.oraclecloud.com",
+   "site": "CX_1"
+  },
   "Deere & Company": null,
   "Otis": null,
   "Carrier": null,
   "Trane Technologies": null,
-  "Cummins": null,
+  "Cummins": {
+   "ats": "oracle",
+   "host": "fa-espx-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1"
+  },
   "PACCAR": null,
   "Textron": null,
   "Stellantis": null,
@@ -2047,18 +2736,44 @@
    "ats": "greenhouse",
    "slug": "rocketlab"
   },
-  "Relativity Space": null,
+  "Relativity Space": {
+   "ats": "greenhouse",
+   "slug": "relativity"
+  },
   "Blue Origin": null,
-  "Axiom Space": null,
-  "Rivian": null,
+  "Axiom Space": {
+   "ats": "workday",
+   "host": "axiomspace.wd5.myworkdayjobs.com",
+   "site": "External_Career_Site"
+  },
+  "Rivian": {
+   "ats": "ashby",
+   "slug": "rivianvw.tech"
+  },
   "Intuitive Machines": {
    "duplicate_of": "smartrecruiters|intuitive||"
   },
-  "American Airlines": null,
+  "American Airlines": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Delta Air Lines": null,
-  "Aurora Innovation": null,
+  "Aurora Innovation": {
+   "review": {
+    "ats": "workday",
+    "host": "auroragov.wd1.myworkdayjobs.com",
+    "site": "Careers"
+   }
+  },
   "Chevron Phillips Chemical": null,
-  "FedEx": null,
+  "FedEx": {
+   "ats": "workday",
+   "host": "fedex.wd1.myworkdayjobs.com",
+   "site": "FXE-EU_External"
+  },
   "C.H. Robinson": {
    "ats": "workday",
    "host": "chrobinson.wd5.myworkdayjobs.com",
@@ -2070,8 +2785,18 @@
    "host": "jbhunt.wd501.myworkdayjobs.com",
    "site": "Careers"
   },
-  "Union Pacific": null,
-  "BNSF Railway": null,
+  "Union Pacific": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "pacificfusion"
+   }
+  },
+  "BNSF Railway": {
+   "review": {
+    "ats": "ashby",
+    "slug": "railway"
+   }
+  },
   "UPS": null,
   "CSX": {
    "ats": "oracle",
@@ -2123,7 +2848,11 @@
   "HCLTech": null,
   "West Monroe": null,
   "Tech Mahindra": null,
-  "Protiviti": null,
+  "Protiviti": {
+   "ats": "workday",
+   "host": "roberthalf.wd1.myworkdayjobs.com",
+   "site": "ProtivitiNA"
+  },
   "Slalom": null,
   "Gartner": null,
   "Guidehouse": {
@@ -2158,39 +2887,86 @@
    "site": "External"
   },
   "Bain & Company": null,
-  "Huron Consulting": null,
+  "Huron Consulting": {
+   "ats": "workday",
+   "host": "huron.wd1.myworkdayjobs.com",
+   "site": "huroncareers"
+  },
   "United Airlines": null,
   "Hyatt": null,
-  "Publicis Sapient": null,
+  "Publicis Sapient": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "public"
+   }
+  },
   "Las Vegas Sands": null,
-  "Hilton": null,
-  "Universal Parks": null,
-  "Marriott International": null,
+  "Hilton": {
+   "ats": "oracle",
+   "host": "efet.fa.us2.oraclecloud.com",
+   "site": "CX_1"
+  },
+  "Universal Parks": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "universaldx"
+   }
+  },
+  "Marriott International": {
+   "ats": "oracle",
+   "host": "ejwl.fa.us2.oraclecloud.com",
+   "site": "CX"
+  },
   "Walt Disney Company": null,
   "Royal Caribbean": null,
   "MITRE": null,
   "U.S. Digital Service": null,
-  "Berkshire Hathaway": null,
-  "Berkshire Hathaway Energy": null,
+  "Berkshire Hathaway": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "berkshiregroupllc"
+   }
+  },
+  "Berkshire Hathaway Energy": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "berkshiregroupllc"
+   }
+  },
   "McKinsey & Company": null,
   "General Electric": {
    "duplicate_of": "greenhouse|general||"
   },
-  "Cardinal Health Inc": null,
+  "Cardinal Health Inc": {
+   "duplicate_of": "workday||cardinalhealth.wd1.myworkdayjobs.com|ext"
+  },
   "Centene Corporation": {
    "duplicate_of": "workday||centene.wd5.myworkdayjobs.com|centene_external"
   },
   "Carnival Corporation": null,
-  "Elevance": null,
-  "Energy Transfer LP": null,
-  "Walgreens Boots Alliance": null,
+  "Elevance": {
+   "duplicate_of": "workday||elevancehealth.wd1.myworkdayjobs.com|ant"
+  },
+  "Energy Transfer LP": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "transfergo"
+   }
+  },
+  "Walgreens Boots Alliance": {
+   "duplicate_of": "workday||abglobal.wd1.myworkdayjobs.com|alliancebernsteincareers"
+  },
   "Bunge": null,
   "Toyota North America": {
    "ats": "workday",
    "host": "toyota.wd503.myworkdayjobs.com",
    "site": "TMNA"
   },
-  "Caesars Entertainment": null,
+  "Caesars Entertainment": {
+   "ats": "oracle",
+   "host": "edmn.fa.us2.oraclecloud.com",
+   "site": "CX_1&"
+  },
   "MGM Resorts": null,
   "U.S. Steel": null,
   "EPAM Systems": null,
@@ -2199,18 +2975,37 @@
    "host": "alcoa.wd5.myworkdayjobs.com",
    "site": "Careers"
   },
-  "Cleveland-Cliffs": null,
+  "Cleveland-Cliffs": {
+   "duplicate_of": "workday||ccf.wd1.myworkdayjobs.com|clevelandcliniccareersuk"
+  },
   "Freeport-McMoRan": null,
-  "International Paper": null,
+  "International Paper": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "inter"
+   }
+  },
   "Newmont": null,
   "WestRock": null,
-  "Sherwin-Williams": null,
+  "Sherwin-Williams": {
+   "review": {
+    "ats": "workday",
+    "host": "wd5.myworkdaysite.com",
+    "public_base": "https://wd5.myworkdaysite.com/en-US/recruiting/williamscollege/External_Career_Site",
+    "site": "External_Career_Site",
+    "tenant": "williamscollege"
+   }
+  },
   "Whirlpool": null,
   "Ball Corporation": null,
   "Federal Reserve Board": null,
   "Fortive": null,
   "RAND Corporation": null,
-  "Ecolab": null,
+  "Ecolab": {
+   "ats": "workday",
+   "host": "ecolab.wd1.myworkdayjobs.com",
+   "site": "Ecolab_External"
+  },
   "Xylem": {
    "ats": "workday",
    "host": "xylem.wd5.myworkdayjobs.com",
@@ -2223,7 +3018,9 @@
    "slug": "BuildersFirstsource"
   },
   "D.R. Horton": null,
-  "Fannie Mae Corporation": null,
+  "Fannie Mae Corporation": {
+   "duplicate_of": "workday||fanniemae.wd1.myworkdayjobs.com|fanniemaecareers"
+  },
   "Steel Dynamics": null,
   "PulteGroup": {
    "ats": "workday",
@@ -2232,15 +3029,40 @@
   },
   "Dover": null,
   "Nucor": null,
-  "Lennar": null,
+  "Lennar": {
+   "ats": "workday",
+   "host": "lennar.wd1.myworkdayjobs.com",
+   "site": "Lennar_Jobs"
+  },
   "Fastenal": null,
-  "Masco": null,
-  "Avnet": null,
+  "Masco": {
+   "ats": "workday",
+   "host": "masco.wd1.myworkdayjobs.com",
+   "site": "masco"
+  },
+  "Avnet": {
+   "ats": "workday",
+   "host": "wd1.myworkdaysite.com",
+   "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/avnet/External",
+   "site": "External",
+   "tenant": "avnet"
+  },
   "Mohawk Industries": null,
   "TD SYNNEX": null,
   "Insight Enterprises": null,
-  "Archer-Daniels-Midland": null,
-  "World Kinect": null,
+  "Archer-Daniels-Midland": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "archer56"
+   }
+  },
+  "World Kinect": {
+   "review": {
+    "ats": "workday",
+    "host": "wfscorp.wd5.myworkdayjobs.com",
+    "site": "wfscareers"
+   }
+  },
   "Flex": {
    "ats": "greenhouse",
    "slug": "flex"
@@ -2254,7 +3076,13 @@
   "Sanmina": null,
   "Amphenol": null,
   "TE Connectivity": null,
-  "Huntington Ingalls Industries": null,
+  "Huntington Ingalls Industries": {
+   "review": {
+    "ats": "workday",
+    "host": "huntingtonlibrary.wd1.myworkdayjobs.com",
+    "site": "HuntingtonCareers"
+   }
+  },
   "Oshkosh": null,
   "Simon Property Group": {
    "ats": "workday",
@@ -2269,7 +3097,13 @@
    "host": "goodyear.wd1.myworkdayjobs.com",
    "site": "GoodyearCareers"
   },
-  "Motorola Solutions Inc": null,
+  "Motorola Solutions Inc": {
+   "review": {
+    "ats": "workday",
+    "host": "baldwin.wd1.myworkdayjobs.com",
+    "site": "msi"
+   }
+  },
   "Aptiv": null,
   "Penske Automotive Group": null,
   "Group 1 Automotive": null,
@@ -2290,11 +3124,25 @@
    "site": "US_External_Careers"
   },
   "Hershey": null,
-  "Avis Budget Group": null,
+  "Avis Budget Group": {
+   "ats": "workday",
+   "host": "avisbudget.wd1.myworkdayjobs.com",
+   "site": "ABG_Careers"
+  },
   "Keurig Dr Pepper": null,
-  "Conagra Brands": null,
+  "Conagra Brands": {
+   "ats": "workday",
+   "host": "conagrabrands.wd1.myworkdayjobs.com",
+   "site": "Careers_US"
+  },
   "Stanley Black & Decker": null,
-  "Clorox": null,
+  "Clorox": {
+   "ats": "workday",
+   "host": "wd1.myworkdaysite.com",
+   "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/clorox/Clorox",
+   "site": "Clorox",
+   "tenant": "clorox"
+  },
   "Molson Coors": null,
   "CDW": null,
   "Church & Dwight": {
@@ -2302,7 +3150,11 @@
    "host": "churchdwight.wd1.myworkdayjobs.com",
    "site": "chdcareers"
   },
-  "PVH": null,
+  "PVH": {
+   "ats": "workday",
+   "host": "pvh.wd1.myworkdayjobs.com",
+   "site": "PVH_Careers"
+  },
   "VF Corporation": null,
   "Tapestry": {
    "ats": "workday",
@@ -2315,12 +3167,19 @@
   "Foot Locker": null,
   "W.W. Grainger": null,
   "Campbell's": null,
-  "Dillard's": null,
+  "Dillard's": {
+   "ats": "greenhouse",
+   "slug": "dillards"
+  },
   "Altria": null,
   "Omnicom": null,
   "Casey's": null,
   "Qurate Retail": null,
-  "BJ's Wholesale": null,
+  "BJ's Wholesale": {
+   "ats": "workday",
+   "host": "bjswholesaleclub.wd1.myworkdayjobs.com",
+   "site": "BJsCareers"
+  },
   "Live Nation": {
    "ats": "workday",
    "host": "livenation.wd503.myworkdayjobs.com",
@@ -2328,7 +3187,12 @@
   },
   "Netflix Inc": null,
   "Electronic Arts Inc": null,
-  "Interpublic Group": null,
+  "Interpublic Group": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "inter"
+   }
+  },
   "Aramark": {
    "ats": "smartrecruiters",
    "slug": "Aramark"
@@ -2341,8 +3205,16 @@
   "ManpowerGroup": null,
   "Boston Consulting Group": null,
   "Automatic Data Processing": null,
-  "NCR Voyix": null,
-  "Pitney Bowes": null,
+  "NCR Voyix": {
+   "ats": "workday",
+   "host": "ncr.wd1.myworkdayjobs.com",
+   "site": "ext_apac"
+  },
+  "Pitney Bowes": {
+   "ats": "workday",
+   "host": "pitneybowes.wd1.myworkdayjobs.com",
+   "site": "pbcareers"
+  },
   "Arrow Electronics": {
    "ats": "workday",
    "host": "arrow.wd1.myworkdayjobs.com",
@@ -2354,8 +3226,17 @@
    "host": "ncratleos.wd1.myworkdayjobs.com",
    "site": "ext_apacatleos"
   },
-  "Universal Health Realty": null,
-  "Diebold Nixdorf": null,
+  "Universal Health Realty": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "universaldx"
+   }
+  },
+  "Diebold Nixdorf": {
+   "ats": "oracle",
+   "host": "eeug.fa.us6.oraclecloud.com",
+   "site": "CX"
+  },
   "Conduent": null,
   "Henry Schein": {
    "ats": "smartrecruiters",
@@ -2369,7 +3250,13 @@
    "host": "zoetis.wd5.myworkdayjobs.com",
    "site": "zoetis"
   },
-  "Owens & Minor": null,
+  "Owens & Minor": {
+   "review": {
+    "ats": "workday",
+    "host": "owens.wd1.myworkdayjobs.com",
+    "site": "OCC"
+   }
+  },
   "Bio-Rad": null,
   "Viatris": {
    "ats": "workday",
@@ -2377,16 +3264,30 @@
    "site": "External"
   },
   "Perrigo": null,
-  "Select Medical": null,
+  "Select Medical": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "selectmanagementgroup"
+   }
+  },
   "Organon": null,
-  "Labcorp Holdings": null,
-  "Waters": null,
+  "Labcorp Holdings": {
+   "duplicate_of": "workday||labcorp.wd1.myworkdayjobs.com|external"
+  },
+  "Waters": {
+   "ats": "ashby",
+   "slug": "watershed"
+  },
   "Revvity": null,
   "ResMed": {
    "ats": "smartrecruiters",
    "slug": "ResMed"
   },
-  "Dexcom": null,
+  "Dexcom": {
+   "ats": "workday",
+   "host": "dexcom.wd1.myworkdayjobs.com",
+   "site": "Dexcom"
+  },
   "Insulet": null,
   "Teleflex": null,
   "West Pharmaceutical Services": null,
@@ -2397,12 +3298,33 @@
    "host": "loewscorp.wd1.myworkdayjobs.com",
    "site": "loewscorp"
   },
-  "Elevance Health Inc": null,
+  "Elevance Health Inc": {
+   "duplicate_of": "workday||elevancehealth.wd1.myworkdayjobs.com|ant"
+  },
   "Steris": null,
   "Solventum": null,
-  "Genworth": null,
-  "Fidelity National Financial": null,
-  "Primerica": null,
+  "Genworth": {
+   "review": {
+    "ats": "workday",
+    "host": "gnw.wd1.myworkdayjobs.com",
+    "site": "GNW"
+   }
+  },
+  "Fidelity National Financial": {
+   "review": {
+    "ats": "workday",
+    "host": "wd1.myworkdaysite.com",
+    "public_base": "https://wd1.myworkdaysite.com/en-US/recruiting/fmr/FidelityCareers",
+    "site": "FidelityCareers",
+    "tenant": "fmr"
+   }
+  },
+  "Primerica": {
+   "review": {
+    "ats": "ashby",
+    "slug": "primer"
+   }
+  },
   "Ameriprise": {
    "duplicate_of": "workday||ameriprise.wd5.myworkdayjobs.com|ameriprise"
   },
@@ -2416,13 +3338,24 @@
    "host": "ntrs.wd1.myworkdayjobs.com",
    "site": "northerntrust"
   },
-  "Discover": null,
+  "Discover": {
+   "ats": "workday",
+   "host": "ensign.wd1.myworkdayjobs.com",
+   "site": "DiscoveryCareerSite"
+  },
   "Capital One Financial": null,
   "Citigroup": {
    "duplicate_of": "workday||citi.wd5.myworkdayjobs.com|2"
   },
-  "Bank of New York Mellon": null,
-  "Charles Schwab Corporation": null,
+  "Bank of New York Mellon": {
+   "duplicate_of": "oracle||eofe.fa.us2.oraclecloud.com|bny-careers"
+  },
+  "Charles Schwab Corporation": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "charlesriverassociates"
+   }
+  },
   "Genuine Parts": null,
   "Public Storage": {
    "duplicate_of": "greenhouse|public||"
@@ -2431,7 +3364,13 @@
   "CBRE Group": null,
   "AvalonBay": null,
   "Ventas": null,
-  "Equity Residential": null,
+  "Equity Residential": {
+   "review": {
+    "ats": "workday",
+    "host": "ghc.wd1.myworkdayjobs.com",
+    "site": "Residential_Careers"
+   }
+  },
   "Realty Income": {
    "ats": "workday",
    "host": "realtyincome.wd108.myworkdayjobs.com",
@@ -2444,7 +3383,13 @@
   "Welltower": null,
   "Opendoor Technologies": null,
   "Landstar": null,
-  "American Financial Group": null,
+  "American Financial Group": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Knight-Swift": null,
   "Matson": null,
   "GXO Logistics": null,
@@ -2476,10 +3421,18 @@
    "host": "fmc.wd12.myworkdayjobs.com",
    "site": "FMC"
   },
-  "Vulcan Materials": null,
+  "Vulcan Materials": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "vulcanelements"
+   }
+  },
   "Graphic Packaging": null,
   "Corteva": null,
-  "Coherent": null,
+  "Coherent": {
+   "ats": "greenhouse",
+   "slug": "coherentsolutions"
+  },
   "Skyworks": null,
   "Berry Global": null,
   "Amcor": null,
@@ -2493,7 +3446,15 @@
   },
   "ON Semiconductor": null,
   "Infineon": null,
-  "Microchip Technology": null,
+  "Microchip Technology": {
+   "review": {
+    "ats": "workday",
+    "host": "wd5.myworkdaysite.com",
+    "public_base": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External",
+    "site": "External",
+    "tenant": "microchiphr"
+   }
+  },
   "Samsung Semiconductor": {
    "ats": "greenhouse",
    "slug": "samsungsemiconductor"
@@ -2508,13 +3469,23 @@
   },
   "Leidos Health": null,
   "ASML": null,
-  "GlobalFoundries": null,
+  "GlobalFoundries": {
+   "ats": "workday",
+   "host": "globalfoundries.wd1.myworkdayjobs.com",
+   "site": "External"
+  },
   "Entegris": {
    "ats": "workday",
    "host": "entegris.wd1.myworkdayjobs.com",
    "site": "EntegrisCareers"
   },
-  "MKS Instruments": null,
+  "MKS Instruments": {
+   "review": {
+    "ats": "workday",
+    "host": "mksinst.wd1.myworkdayjobs.com",
+    "site": "MKSCareersEMEA"
+   }
+  },
   "Lattice Semiconductor": null,
   "Onto Innovation": {
    "ats": "workday",
@@ -2556,10 +3527,21 @@
    "ats": "greenhouse",
    "slug": "graphcore"
   },
-  "Reinsurance Group of America": null,
+  "Reinsurance Group of America": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Rivos": null,
   "Wayfair Inc": null,
-  "Ampere Computing": null,
+  "Ampere Computing": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "amperesand"
+   }
+  },
   "Ayar Labs": null,
   "Google DeepMind": null,
   "Safe Superintelligence": null,
@@ -2638,7 +3620,9 @@
    "ats": "greenhouse",
    "slug": "cresta"
   },
-  "Broadcom Inc": null,
+  "Broadcom Inc": {
+   "duplicate_of": "workday||broadcom.wd1.myworkdayjobs.com|external_career"
+  },
   "Hyperscience": {
    "ats": "ashby",
    "slug": "hyperscience"
@@ -2654,32 +3638,72 @@
    "ats": "greenhouse",
    "slug": "andurilindustries"
   },
-  "Applied Intuition": null,
-  "Sequoia Capital": null,
+  "Applied Intuition": {
+   "review": {
+    "ats": "ashby",
+    "slug": "applied"
+   }
+  },
+  "Sequoia Capital": {
+   "review": {
+    "ats": "ashby",
+    "slug": "sequoia"
+   }
+  },
   "Nuro Inc": null,
   "Andreessen Horowitz": null,
   "STMicroelectronics": null,
   "Greylock": {
    "duplicate_of": "greenhouse|cresta||"
   },
-  "Accel": null,
+  "Accel": {
+   "ats": "greenhouse",
+   "slug": "accelschools"
+  },
   "Kleiner Perkins": null,
-  "Benchmark": null,
+  "Benchmark": {
+   "ats": "workday",
+   "host": "benchmark.wd1.myworkdayjobs.com",
+   "site": "PGH_Careers"
+  },
   "Insight Partners": {
    "duplicate_of": "greenhouse|insight||"
   },
   "Tiger Global": null,
   "Coatue": null,
-  "Advent International": null,
-  "Intel Corporation": null,
-  "Packaging Corporation of America": null,
+  "Advent International": {
+   "review": {
+    "ats": "workday",
+    "host": "adventisthealthcare.wd1.myworkdayjobs.com",
+    "site": "AdventistHealthCareCareers"
+   }
+  },
+  "Intel Corporation": {
+   "duplicate_of": "workday||intel.wd1.myworkdayjobs.com|external"
+  },
+  "Packaging Corporation of America": {
+   "review": {
+    "ats": "workday",
+    "host": "american.wd1.myworkdayjobs.com",
+    "site": "AU"
+   }
+  },
   "Platinum Equity": null,
-  "Clayton Dubilier & Rice": null,
+  "Clayton Dubilier & Rice": {
+   "review": {
+    "ats": "workday",
+    "host": "claytonhomes.wd1.myworkdayjobs.com",
+    "site": "ClaytonCareers"
+   }
+  },
   "Apollo": {
    "duplicate_of": "workday||athene.wd5.myworkdayjobs.com|apollo_careers"
   },
   "Leonard Green & Partners": null,
-  "EQT": null,
+  "EQT": {
+   "ats": "greenhouse",
+   "slug": "eqtcorporation"
+  },
   "Blackstone Inc": {
    "duplicate_of": "workday||blackstone.wd1.myworkdayjobs.com|blackstone_careers"
   },
@@ -2709,9 +3733,16 @@
    "site": "Careers"
   },
   "Lightspeed Venture Partners": null,
-  "Sixth Street": null,
+  "Sixth Street": {
+   "ats": "workday",
+   "host": "sixthstreet.wd1.myworkdayjobs.com",
+   "site": "sixthstreetcareers"
+  },
   "Elliott Management": null,
-  "Renaissance Technologies": null,
+  "Renaissance Technologies": {
+   "ats": "greenhouse",
+   "slug": "renaissancelearning-nam"
+  },
   "Point72 Asset Management": {
    "duplicate_of": "greenhouse|point72||"
   },
@@ -2720,7 +3751,10 @@
    "slug": "marshallwace"
   },
   "Hellman & Friedman": null,
-  "Viking Global": null,
+  "Viking Global": {
+   "ats": "greenhouse",
+   "slug": "vikingglobalinvestors"
+  },
   "Walleye Capital": {
    "ats": "greenhouse",
    "slug": "walleyecapital-external-students"
@@ -2747,13 +3781,27 @@
    "slug": "belvederetrading"
   },
   "Verition Fund Management": null,
-  "Old Mission": null,
+  "Old Mission": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "missionlane"
+   }
+  },
   "Flow Traders": {
    "ats": "greenhouse",
    "slug": "flowtraders"
   },
-  "Peak6": null,
-  "Wolverine Trading": null,
+  "Peak6": {
+   "ats": "workday",
+   "host": "peak6group.wd1.myworkdayjobs.com",
+   "site": "apexfintechsolutions"
+  },
+  "Wolverine Trading": {
+   "review": {
+    "ats": "ashby",
+    "slug": "trading212"
+   }
+  },
   "Five Rings": {
    "ats": "greenhouse",
    "slug": "fiveringsllc"
@@ -2779,7 +3827,12 @@
    "host": "comcast.wd115.myworkdayjobs.com",
    "site": "Comcast_Careers"
   },
-  "Charles Schwab": null,
+  "Charles Schwab": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "charlesriverassociates"
+   }
+  },
   "Dell Technologies": null,
   "BNY": {
    "ats": "oracle",
@@ -2790,7 +3843,9 @@
    "duplicate_of": "workday||ntrs.wd1.myworkdayjobs.com|northerntrust"
   },
   "Eightfold AI": null,
-  "Anduril": null,
+  "Anduril": {
+   "duplicate_of": "greenhouse|andurilindustries||"
+  },
   "SoftBank Investment Advisers": null,
   "Tudor Investment": {
    "ats": "greenhouse",
@@ -2803,7 +3858,10 @@
    "host": "cerberus.wd1.myworkdayjobs.com",
    "site": "CerberusCareers"
   },
-  "Thinking Machines Lab": null,
+  "Thinking Machines Lab": {
+   "ats": "ashby",
+   "slug": "ThinkingMachines"
+  },
   "Starwood Capital": null
  }
 }

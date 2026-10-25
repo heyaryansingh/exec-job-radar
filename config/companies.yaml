@@ -546,3 +546,122 @@
 - {name: AT&T, ats: sitemap, sitemap: "https://www.att.jobs/sitemap.xml", tier: 1, sector: telecom}
 - {name: Halliburton, ats: sitemap, sitemap: "https://careers.halliburton.com/sitemap.xml", tier: 1, sector: energy}
 - {name: Amazon, ats: amazon, tier: 1, sector: tech}
+- {name: "Mizuho", ats: "workday", host: "mizuho.wd1.myworkdayjobs.com", site: "mizuhoamericas", tier: 1, sector: "bank"}
+- {name: "Raymond James", ats: "workday", host: "raymondjames.wd1.myworkdayjobs.com", site: "RaymondJamesCareers", tier: 2, sector: "bank"}
+- {name: "LPL Financial", ats: "workday", host: "lplfinancial.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "brokerage"}
+- {name: "DTCC", ats: "oracle", host: "ebxr.fa.us2.oraclecloud.com", site: "CX_1", tier: 1, sector: "markets"}
+- {name: "SS&C Technologies", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/ssctech/SSCTechnologies", site: "SSCTechnologies", tenant: "ssctech", tier: 2, sector: "markets"}
+- {name: "Citadel", ats: "ashby", slug: "citadel-ai", tier: 1, sector: "hedge fund"}
+- {name: "Bloomberg", ats: "workday", host: "bloomberg.wd1.myworkdayjobs.com", site: "Bloombergindustrygroup_External_Career_Site", tier: 1, sector: "markets"}
+- {name: "BECU", ats: "workday", host: "becu.wd1.myworkdayjobs.com", site: "external", tier: 3, sector: "bank"}
+- {name: "Invesco", ats: "workday", host: "invesco.wd1.myworkdayjobs.com", site: "IVZ", tier: 2, sector: "asset management"}
+- {name: "PIMCO", ats: "workday", host: "pimco.wd1.myworkdayjobs.com", site: "pimco-careers", tier: 1, sector: "asset management"}
+- {name: "Brookfield", ats: "workday", host: "ensign.wd1.myworkdayjobs.com", site: "BrookfieldHealthcareCenterCareerSite", tier: 1, sector: "private equity"}
+- {name: "AllianceBernstein", ats: "workday", host: "abglobal.wd1.myworkdayjobs.com", site: "alliancebernsteincareers", tier: 2, sector: "asset management"}
+- {name: "Hamilton Lane", ats: "workday", host: "wd3.myworkdaysite.com", public_base: "https://wd3.myworkdaysite.com/en-US/recruiting/hamilton/hamilton_jobs", site: "hamilton_jobs", tenant: "hamilton", tier: 3, sector: "private equity"}
+- {name: "Addepar", ats: "greenhouse", slug: "addepar1", tier: 2, sector: "fintech"}
+- {name: "Chubb", ats: "oracle", host: "fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com", site: "CX_2001", tier: 1, sector: "insurance"}
+- {name: "MassMutual", ats: "workday", host: "massmutual.wd1.myworkdayjobs.com", site: "mmcareers", tier: 1, sector: "insurance"}
+- {name: "Verisk", ats: "oracle", host: "fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com", site: "CX_1", tier: 2, sector: "insurance"}
+- {name: "Global Payments", ats: "workday", host: "global.wd1.myworkdayjobs.com", site: "globalpartnerscareers", tier: 1, sector: "payments"}
+- {name: "Intuit", ats: "workday", host: "intuitive.wd1.myworkdayjobs.com", site: "irtc_careers", tier: 1, sector: "fintech"}
+- {name: "Chainalysis", ats: "ashby", slug: "chainalysis-careers", tier: 3, sector: "fintech"}
+- {name: "MX Technologies", ats: "greenhouse", slug: "mxtechnologiesinc", tier: 3, sector: "fintech"}
+- {name: "AvidXchange", ats: "greenhouse", slug: "avidxchangeinc", tier: 3, sector: "fintech"}
+- {name: "Tipalti", ats: "greenhouse", slug: "tipaltisolutions", tier: 3, sector: "fintech"}
+- {name: "Treasury Prime", ats: "greenhouse", slug: "treasuryprime", tier: 3, sector: "fintech"}
+- {name: "Green Dot", ats: "workday", host: "greendotcorp.wd1.myworkdayjobs.com", site: "gdc", tier: 3, sector: "fintech"}
+- {name: "Equinix", ats: "workday", host: "equinix.wd1.myworkdayjobs.com", site: "external", tier: 1, sector: "tech"}
+- {name: "DigitalOcean", ats: "greenhouse", slug: "digitalocean98", tier: 2, sector: "tech"}
+- {name: "Analog Devices", ats: "workday", host: "analogdevices.wd1.myworkdayjobs.com", site: "External", tier: 1, sector: "tech"}
+- {name: "DXC Technology", ats: "workday", host: "dxctechnology.wd1.myworkdayjobs.com", site: "DXCJobs", tier: 2, sector: "tech"}
+- {name: "Vertiv", ats: "oracle", host: "egup.fa.us2.oraclecloud.com", site: "CX", tier: 2, sector: "tech"}
+- {name: "Autodesk", ats: "workday", host: "autodesk.wd1.myworkdayjobs.com", site: "Ext", tier: 1, sector: "tech"}
+- {name: "HubSpot", ats: "greenhouse", slug: "hubspotjobs", tier: 1, sector: "tech"}
+- {name: "Couchbase", ats: "greenhouse", slug: "couchbaseinc", tier: 3, sector: "tech"}
+- {name: "Harness", ats: "greenhouse", slug: "harnessinc", tier: 2, sector: "tech"}
+- {name: "Blackbaud", ats: "workday", host: "blackbaud.wd1.myworkdayjobs.com", site: "ExternalCareers", tier: 3, sector: "tech"}
+- {name: "Seismic", ats: "ashby", slug: "seismic-change.com", tier: 3, sector: "tech"}
+- {name: "Clari", ats: "ashby", slug: "clarify", tier: 3, sector: "tech"}
+- {name: "Intapp", ats: "workday", host: "intapp.wd1.myworkdayjobs.com", site: "Intapp", tier: 3, sector: "tech"}
+- {name: "Genesys", ats: "workday", host: "genesys.wd1.myworkdayjobs.com", site: "Genesys", tier: 2, sector: "tech"}
+- {name: "Fortinet", ats: "oracle", host: "edel.fa.us2.oraclecloud.com", site: "CX_2001", tier: 1, sector: "security"}
+- {name: "xAI", ats: "greenhouse", slug: "xai", tier: 1, sector: "AI"}
+- {name: "DataRobot", ats: "workday", host: "datarobot.wd1.myworkdayjobs.com", site: "DataRobot_External_Careers", tier: 3, sector: "AI"}
+- {name: "Skild AI", ats: "greenhouse", slug: "skildai-careers", tier: 3, sector: "AI"}
+- {name: "Booking Holdings", ats: "workday", host: "priceline.wd1.myworkdayjobs.com", site: "BookingHoldings", tier: 1, sector: "internet"}
+- {name: "CoStar Group", ats: "greenhouse", slug: "costar", tier: 2, sector: "internet"}
+- {name: "Snap", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap", site: "snap", tenant: "snapchat", tier: 1, sector: "internet"}
+- {name: "Unity", ats: "ashby", slug: "unity-advisory", tier: 2, sector: "internet"}
+- {name: "Fox Corporation", ats: "workday", host: "fox.wd1.myworkdayjobs.com", site: "Domestic", tier: 2, sector: "media"}
+- {name: "Dow Jones", ats: "workday", host: "dowjones.wd1.myworkdayjobs.com", site: "News_Corp_Australia_Careers", tier: 2, sector: "media"}
+- {name: "Bumble", ats: "ashby", slug: "bumbleinc", tier: 3, sector: "internet"}
+- {name: "Canva Inc", ats: "ashby", slug: "canvas-medical", tier: 2, sector: "internet"}
+- {name: "EchoStar", ats: "oracle", host: "efgz-dev2.fa.us6.oraclecloud.com", site: "CX_1", tier: 2, sector: "telecom"}
+- {name: "Albertsons", ats: "oracle", host: "eofd.fa.us6.oraclecloud.com", site: "CX_1001", tier: 2, sector: "retail"}
+- {name: "O'Reilly Auto Parts", ats: "workday", host: "oreillyauto.wd1.myworkdayjobs.com", site: "oreilly", tier: 2, sector: "retail"}
+- {name: "Coca-Cola", ats: "workday", host: "coke.wd1.myworkdayjobs.com", site: "coca-cola-careers", tier: 1, sector: "consumer goods"}
+- {name: "HCA Healthcare", ats: "workday", host: "wd3.myworkdaysite.com", public_base: "https://wd3.myworkdaysite.com/en-US/recruiting/hcahealthcare/hcacareers", site: "hcacareers", tenant: "hcahealthcare", tier: 1, sector: "healthcare"}
+- {name: "Kraft Heinz", ats: "workday", host: "heinz.wd1.myworkdayjobs.com", site: "KraftHeinz_Careers", tier: 2, sector: "consumer goods"}
+- {name: "General Mills", ats: "workday", host: "genmills.wd1.myworkdayjobs.com", site: "GMI_External_Careers", tier: 2, sector: "consumer goods"}
+- {name: "Health Care Service Corporation", ats: "workday", host: "healthcare.wd1.myworkdayjobs.com", site: "Search", tier: 2, sector: "healthcare"}
+- {name: "Highmark Health", ats: "workday", host: "highmarkhealth.wd1.myworkdayjobs.com", site: "highmark", tier: 2, sector: "healthcare"}
+- {name: "Cardinal Health", ats: "workday", host: "cardinalhealth.wd1.myworkdayjobs.com", site: "EXT", tier: 1, sector: "healthcare"}
+- {name: "Molina Healthcare", ats: "oracle", host: "hckd.fa.us2.oraclecloud.com", site: "CX_1", tier: 2, sector: "healthcare"}
+- {name: "DaVita", ats: "workday", host: "davita.wd1.myworkdayjobs.com", site: "DKC_External", tier: 2, sector: "healthcare"}
+- {name: "Labcorp", ats: "workday", host: "labcorp.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "healthcare"}
+- {name: "Quest Diagnostics", ats: "oracle", host: "hdox.fa.us6.oraclecloud.com", site: "CX_1", tier: 2, sector: "healthcare"}
+- {name: "Cleveland Clinic", ats: "workday", host: "ccf.wd1.myworkdayjobs.com", site: "ClevelandClinicCareersUK", tier: 1, sector: "healthcare"}
+- {name: "Mass General Brigham", ats: "workday", host: "massgeneralbrigham.wd1.myworkdayjobs.com", site: "MGBExternal", tier: 1, sector: "healthcare"}
+- {name: "athenahealth", ats: "workday", host: "athenahealth.wd1.myworkdayjobs.com", site: "External", tier: 2, sector: "healthcare"}
+- {name: "R1 RCM", ats: "workday", host: "r1rcm.wd1.myworkdayjobs.com", site: "R1RCM", tier: 3, sector: "healthcare"}
+- {name: "Headspace", ats: "greenhouse", slug: "headspaceproviders", tier: 3, sector: "healthcare"}
+- {name: "Pfizer", ats: "workday", host: "pfizer.wd1.myworkdayjobs.com", site: "PfizerCareers", tier: 1, sector: "pharma"}
+- {name: "Moderna", ats: "greenhouse", slug: "modernanimal", tier: 2, sector: "pharma"}
+- {name: "Danaher", ats: "workday", host: "danaher.wd1.myworkdayjobs.com", site: "DanaherJobs", tier: 1, sector: "life sciences"}
+- {name: "Medtronic", ats: "workday", host: "medtronic.wd1.myworkdayjobs.com", site: "MedtronicCareers", tier: 1, sector: "medtech"}
+- {name: "IQVIA", ats: "workday", host: "iqvia.wd1.myworkdayjobs.com", site: "IQVIA", tier: 1, sector: "life sciences"}
+- {name: "NOV", ats: "oracle", host: "egay.fa.us6.oraclecloud.com", site: "CX_2001", tier: 2, sector: "energy"}
+- {name: "Plains All American", ats: "workday", host: "plains.wd1.myworkdayjobs.com", site: "plains", tier: 2, sector: "energy"}
+- {name: "Duke Energy", ats: "workday", host: "dukeenergy.wd1.myworkdayjobs.com", site: "search", tier: 1, sector: "utilities"}
+- {name: "AES", ats: "workday", host: "aes.wd1.myworkdayjobs.com", site: "AES_US", tier: 2, sector: "utilities"}
+- {name: "Dow", ats: "workday", host: "dow.wd1.myworkdayjobs.com", site: "ExternalCareers", tier: 1, sector: "chemicals"}
+- {name: "First Solar", ats: "oracle", host: "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com", site: "CX_1", tier: 3, sector: "energy"}
+- {name: "Emerson", ats: "oracle", host: "hdjq.fa.us2.oraclecloud.com", site: "CX_1", tier: 1, sector: "industrial"}
+- {name: "Cheniere Energy", ats: "oracle", host: "hcgi.fa.us2.oraclecloud.com", site: "CX_2", tier: 1, sector: "energy"}
+- {name: "Cummins", ats: "oracle", host: "fa-espx-saasfaprod1.fa.ocs.oraclecloud.com", site: "CX_1", tier: 2, sector: "industrial"}
+- {name: "Rivian", ats: "ashby", slug: "rivianvw.tech", tier: 2, sector: "automotive"}
+- {name: "Relativity Space", ats: "greenhouse", slug: "relativity", tier: 3, sector: "aerospace"}
+- {name: "Axiom Space", ats: "workday", host: "axiomspace.wd5.myworkdayjobs.com", site: "External_Career_Site", tier: 3, sector: "aerospace"}
+- {name: "FedEx", ats: "workday", host: "fedex.wd1.myworkdayjobs.com", site: "FXE-EU_External", tier: 1, sector: "logistics"}
+- {name: "Protiviti", ats: "workday", host: "roberthalf.wd1.myworkdayjobs.com", site: "ProtivitiNA", tier: 2, sector: "consulting"}
+- {name: "Marriott International", ats: "oracle", host: "ejwl.fa.us2.oraclecloud.com", site: "CX", tier: 1, sector: "hospitality"}
+- {name: "Hilton", ats: "oracle", host: "efet.fa.us2.oraclecloud.com", site: "CX_1", tier: 1, sector: "hospitality"}
+- {name: "Huron Consulting", ats: "workday", host: "huron.wd1.myworkdayjobs.com", site: "huroncareers", tier: 3, sector: "consulting"}
+- {name: "Ecolab", ats: "workday", host: "ecolab.wd1.myworkdayjobs.com", site: "Ecolab_External", tier: 2, sector: "industrial"}
+- {name: "Lennar", ats: "workday", host: "lennar.wd1.myworkdayjobs.com", site: "Lennar_Jobs", tier: 2, sector: "real estate"}
+- {name: "Masco", ats: "workday", host: "masco.wd1.myworkdayjobs.com", site: "masco", tier: 3, sector: "industrial"}
+- {name: "Avnet", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/avnet/External", site: "External", tenant: "avnet", tier: 2, sector: "tech"}
+- {name: "Caesars Entertainment", ats: "oracle", host: "edmn.fa.us2.oraclecloud.com", site: "CX_1&", tier: 2, sector: "hospitality"}
+- {name: "Avis Budget Group", ats: "workday", host: "avisbudget.wd1.myworkdayjobs.com", site: "ABG_Careers", tier: 3, sector: "transportation"}
+- {name: "Conagra Brands", ats: "workday", host: "conagrabrands.wd1.myworkdayjobs.com", site: "Careers_US", tier: 3, sector: "consumer goods"}
+- {name: "Clorox", ats: "workday", host: "wd1.myworkdaysite.com", public_base: "https://wd1.myworkdaysite.com/en-US/recruiting/clorox/Clorox", site: "Clorox", tenant: "clorox", tier: 3, sector: "consumer goods"}
+- {name: "PVH", ats: "workday", host: "pvh.wd1.myworkdayjobs.com", site: "PVH_Careers", tier: 3, sector: "retail"}
+- {name: "Dillard's", ats: "greenhouse", slug: "dillards", tier: 3, sector: "retail"}
+- {name: "BJ's Wholesale", ats: "workday", host: "bjswholesaleclub.wd1.myworkdayjobs.com", site: "BJsCareers", tier: 3, sector: "retail"}
+- {name: "Pitney Bowes", ats: "workday", host: "pitneybowes.wd1.myworkdayjobs.com", site: "pbcareers", tier: 3, sector: "tech"}
+- {name: "NCR Voyix", ats: "workday", host: "ncr.wd1.myworkdayjobs.com", site: "ext_apac", tier: 3, sector: "tech"}
+- {name: "Diebold Nixdorf", ats: "oracle", host: "eeug.fa.us6.oraclecloud.com", site: "CX", tier: 3, sector: "tech"}
+- {name: "Waters", ats: "ashby", slug: "watershed", tier: 3, sector: "life sciences"}
+- {name: "Dexcom", ats: "workday", host: "dexcom.wd1.myworkdayjobs.com", site: "Dexcom", tier: 2, sector: "medtech"}
+- {name: "Discover", ats: "workday", host: "ensign.wd1.myworkdayjobs.com", site: "DiscoveryCareerSite", tier: 3, sector: "bank"}
+- {name: "Coherent", ats: "greenhouse", slug: "coherentsolutions", tier: 2, sector: "tech"}
+- {name: "GlobalFoundries", ats: "workday", host: "globalfoundries.wd1.myworkdayjobs.com", site: "External", tier: 1, sector: "semiconductors"}
+- {name: "Thinking Machines Lab", ats: "ashby", slug: "ThinkingMachines", tier: 2, sector: "AI"}
+- {name: "Accel", ats: "greenhouse", slug: "accelschools", tier: 2, sector: "venture capital"}
+- {name: "Benchmark", ats: "workday", host: "benchmark.wd1.myworkdayjobs.com", site: "PGH_Careers", tier: 3, sector: "venture capital"}
+- {name: "EQT", ats: "greenhouse", slug: "eqtcorporation", tier: 2, sector: "private equity"}
+- {name: "Renaissance Technologies", ats: "greenhouse", slug: "renaissancelearning-nam", tier: 2, sector: "hedge fund"}
+- {name: "Viking Global", ats: "greenhouse", slug: "vikingglobalinvestors", tier: 3, sector: "hedge fund"}
+- {name: "Peak6", ats: "workday", host: "peak6group.wd1.myworkdayjobs.com", site: "apexfintechsolutions", tier: 3, sector: "markets"}
+- {name: "Sixth Street", ats: "workday", host: "sixthstreet.wd1.myworkdayjobs.com", site: "sixthstreetcareers", tier: 2, sector: "private equity"}

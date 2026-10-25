@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,247 open roles** at **786 companies** · **33 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 04:24 AM ET
+**2,247 open roles** at **786 companies** · **31 new in the last 24 hours** · 5,353 company career sites watched · updated hourly · last update Oct 25, 2026 05:23 AM ET
 
 By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100 · ED 63 · C-level 49 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100
 
 ## Contents
 
-- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (31)](#new-in-the-last-24-hours)
 - [🤠 Houston area (41)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (141)](#security-risk-technology)
@@ -77,8 +77,6 @@ By level: Director 1116 · VP 495 · Sr. Director 255 · Head 149 · EVP/SVP 100
 | Palo Alto Networks | 🆕 Director, Software Engineer (Prisma Access) | Director | Santa Clara, CA, USA | $252K–$346K | 2d | [Apply](https://jobs.paloaltonetworks.com/en/job/santa-clara/director-software-engineer-prisma-access/47263/102340816960) |
 | TransUnion | 🆕 Director, Data Asset Management | Director | Makati City |  | 2d | [Apply](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Makati-City/Director--Data-Asset-Management_19041315) |
 | Consumers Professional Credit Union | 🆕 Vice President of Information Technology | VP | Lansing, MI, USA |  | 2d | [Apply](https://www.indeed.com/viewjob?jk=872ae3f3ce7e5e9b) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior AI/AML Engineer, Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/senior-ai-aml-engineer-vice-president/287/102340902848) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Digital Assets Technology - Director | Director | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/digital-assets-technology-director/287/102348280608) |
 | Visa U.S.A. Inc. | 🆕 Vice President, Acceptance Technologies and Intelligent Commerce | VP | Austin, Texas | $229K–$314K | 3d | [Apply](https://www.indeed.com/viewjob?jk=fd6ec557054b7c99) |
 
 <a name="houston-area"></a>
@@ -355,7 +353,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Jobrapido | 🆕 Vice President of Artificial Intelligence | VP | Memphis, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=642864173758359248) |
 | AstraZeneca | 🆕 Director, Data Science Operations – Early Cardiovascular, Renal and Metabolism | Director | Boston, MA, USA | $182K–$272K | 2d | [Apply](https://careers.astrazeneca.com/job/boston/director-data-science-operations-early-cardiovascular-renal-and-metabolism/7684/102339349040) |
 | TransUnion | 🆕 Director, Data Asset Management | Director | Makati City |  | 2d | [Apply](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Makati-City/Director--Data-Asset-Management_19041315) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior AI/AML Engineer, Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/senior-ai-aml-engineer-vice-president/287/102340902848) |
+| Citi (jobs.citi.com) ⭐ | Senior AI/AML Engineer, Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/senior-ai-aml-engineer-vice-president/287/102340902848) |
 | AXS | SVP - Data Engineering, Data Science & Analytics | EVP/SVP | San Francisco, CA | $450K–$500K | 2d | [Apply](https://job-boards.greenhouse.io/axs/jobs/8913084002) ⚡ |
 | Autodesk | Senior Director, Product Management, AEC Data | Sr. Director | AMER - United States - Massachusetts - Bos +4 |  | 2d | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Massachusetts---Boston-Area---OffsiteHome/Senior-Director--Product-Management--AEC-Data_26WD101506-2) |
 | VSP Vision | Director, AI Platforms & Engineering | Director | Remote US |  | 2d | [Apply](https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Director--AI-Platforms---Engineering_R-10101-1) |
@@ -1045,7 +1043,7 @@ _380 older roles in this section are in data/roles.json on the `data` branch._
 | L3Harris | 🆕 Director, Program Management | Director | Chantilly, VA, USA | $184K–$342K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102339204432) |
 | Herbalife | 🆕 Creative Director, Digital Product | Director | Torrance, CA, USA |  | 1d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 1d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Digital Assets Technology - Director | Director | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/digital-assets-technology-director/287/102348280608) |
+| Citi (jobs.citi.com) ⭐ | Digital Assets Technology - Director | Director | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/digital-assets-technology-director/287/102348280608) |
 | TD | Vice President - Product Owner - Digital Assets - Transaction Banking Product, TD Securities | VP | New York, New York | $145K–$225K | 2d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President---Product-Owner---Digital-Assets---Transaction-Banking-Product--TD-Securities_R_1518811) |
 | Hammer Financial Group - A Prosperity Capital Advisors Company | VP of Product Strategy | VP | Dayton, OH, USA | $268K–$318K | 2d | [Apply](https://www.indeed.com/viewjob?jk=2d836b3c4df74db4) |
 | Lowe's ⭐ | Director Enterprise Strategy, Integration Management Office | Director | Mooresville, North Carolina, United States |  | 2d | [Apply](https://talent.lowes.com/us/en/job/LOWEUSJR02683070EXTERNALENUS) |

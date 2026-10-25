@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,292 open roles** at **793 companies** · **43 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 10:14 AM ET
+**2,292 open roles** at **793 companies** · **42 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 11:14 AM ET
 
 By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 66 · C-level 49 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100
 
 ## Contents
 
-- [🆕 New in the last 24 hours (43)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (42)](#new-in-the-last-24-hours)
 - [🤠 Houston area (42)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (146)](#security-risk-technology)
@@ -60,7 +60,6 @@ By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100
 | EY | 🆕 Data Engineer and Analytics Platform Manager - Assistant Director | Director | Dallas, TX, USA | $124K–$264K | 1d | [Apply](https://careers.ey.com/ey/job/Dallas-Data-Engineer-and-Analytics-Platform-Manager-Assistant-Director-TX-75219/1450925333/) |
 | Oracle | 🆕 Director of Estimating - Data Center Fit-Out Cost Strategy (Nashville, TN) | Director | Nashville, TN, United States | $126K–$264K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348731) |
 | Oracle | 🆕 Senior Director of Business Intelligence and AI Analytics (Nashville, TN) | Sr. Director | Nashville, TN, United States | $170K–$355K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348732) |
-| Deloitte | 🆕 Director, Salesforce Delivery & Architecture | Director | Princeton, NJ, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Coca-Cola ⭐ | 🆕 Director, Functional Platform Leader | Director | US - GA - Atlanta |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Functional-Platform-Leader_R-146791) |
 | Coca-Cola ⭐ | 🆕 Senior Director, Liquid Processing & Capital Projects Engineering | Sr. Director | US – REMOTE +1 |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Senior-Director--Liquid-Processing---Capital-Projects-Engineering_R-147719) |
 | Coca-Cola ⭐ | 🆕 Senior Director II, Engineering | Sr. Director | US - GA - Atlanta |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director-II--Engineering---Southeast_R-147871) |
@@ -998,7 +997,7 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | SAIC | 🆕 Enterprise Architect Exec Director | Director | USA | $260K–$300K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393593-enterprise-architect-exec-director%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db841cb54-cf52-11f1-b365-81f0875918f6%26rx_job%3D2618368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618368) |
-| Deloitte | 🆕 Director, Salesforce Delivery & Architecture | Director | Princeton, NJ, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
+| Deloitte | Director, Salesforce Delivery & Architecture | Director | Princeton, NJ, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | McLean, VA, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Stamford, CT, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |

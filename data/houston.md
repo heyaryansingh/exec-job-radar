@@ -1,6 +1,6 @@
 # 🤠 Senior technology roles in the Houston area
 
-41 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+42 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
@@ -9,6 +9,7 @@
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
 | Harris County | Director, Budget and Finance | Director | Houston, TX, USA |  | 2d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Neumo Holdings LLC | VP-Product Management | VP | Houston, TX, USA |  | 2d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=56dad57d-81b7-4889-9f75-7ef29807fa05&ccId=1990797403_6352&jobId=620159&source=IN&lang=en_US) |
+| Marriott International ⭐ | 🆕 Director of Security & Safety | Director | Houston, TX, United States |  | 3d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26137809) |
 | Texas Petroleum Group | Director of Enterprise Products & Engineering | Director | Houston, Texas |  | 3d | [Apply](https://www.ziprecruiter.com/c/texas-petroleum-group/Job/Director-of-Enterprise-Products-&-Engineering/-in-Houston,TX?jid=7ffbc07cb10603a4) |
 | WORLDWIDE POWER PRODUCTS LLC | Director of Business and Digital Transformation | Director | Houston, Texas |  | 3d | [Apply](https://www.ziprecruiter.com/c/WORLDWIDE-POWER-PRODUCTS/Job/Director-of-Business-and-Digital-Transformation/-in-Houston,TX?jid=4b8e00f70ac02b09) |
 | Strong Tower Partners | Director of Information Technology | Director | The Woodlands, Texas |  | 4d | [Apply](https://www.linkedin.com/jobs/view/director-of-information-technology-at-strong-tower-partners-4480724837) |

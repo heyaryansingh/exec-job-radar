@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,291 open roles** at **793 companies** · **35 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 04:04 PM ET
+**2,293 open roles** at **794 companies** · **36 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 05:05 PM ET
 
-By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
+By level: Director 1146 · VP 499 · Sr. Director 265 · Head 149 · EVP/SVP 100 · ED 65 · C-level 49 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (35)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (36)](#new-in-the-last-24-hours)
 - [🤠 Houston area (42)](#houston-area)
 - [👑 Executive Technology Leadership (50)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (146)](#security-risk-technology)
@@ -37,7 +37,7 @@ By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100
 - [🏛️ Architecture (65)](#architecture)
 - [🔄 Transformation & Delivery (267)](#transformation-delivery)
 - [🛠️ Engineering & Software (573)](#engineering-software)
-- [📌 Other Senior Roles (189)](#other-senior-roles)
+- [📌 Other Senior Roles (191)](#other-senior-roles)
 - [🔒 Recently closed (54)](#recently-closed)
 - Daily digests: [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md)
 
@@ -47,6 +47,8 @@ By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
+| Datafy | 🆕 Director of Demand Generation | Director | NJ, USA |  | 0d | [Apply](https://datafy.io/careers/co/new-jersey/D6.472/director-of-demand-generation/all/?coref=1.11.p1E_6D17) |
 | S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
 | Excelsior Mining Corporation | 🆕 Director, Health, Safety, and Security | Director | Dragoon, AZ, USA |  | 0d | [Apply](https://gunnisoncopper.com/careers?gnk=job&gni=8a78839fa1559acc01a16ed1222c252b&gns=Indeed+Free) |
 | EY | 🆕 Financial Planning and Analytics Data and Analytics - Assistant Director | Director | Dallas, TX, USA | $104K–$221K | 1d | [Apply](https://careers.ey.com/ey/job/Dallas-Financial-Planning-and-Analytics-Data-and-Analytics-Assistant-Director-TX-75219/1450925633/) |
@@ -70,7 +72,6 @@ By level: Director 1145 · VP 498 · Sr. Director 265 · Head 149 · EVP/SVP 100
 | Jobrapido | 🆕 Vice President of Artificial Intelligence | VP | Memphis, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=642864173758359248) |
 | Larson Design Group | 🆕 Chief Technology Officer | C-level | Cranberry Township, Pennsylvania |  | 2d | [Apply](https://career.io/job/chief-technology-officer-cranberry-twp-larson-design-group-a92a2842c8ffca493878d2f8839a4bbd) |
 | Moelis & Company | 🆕 Investment Banking Vice President, Technology - New York City | VP | New York, New York |  | 2d | [Apply](https://www.linkedin.com/jobs/view/investment-banking-vice-president-technology-new-york-city-at-moelis-company-4482714536) |
-| Oracle | 🆕 Director, Platform Software Engineering | Director | United States | $131K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348718) |
 | Marriott International ⭐ | 🆕 Director of Security & Safety | Director | Houston, TX, United States |  | 3d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26137809) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Phoenix, AZ, United States |  | 3d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26137858) |
 | Marriott International ⭐ | 🆕 Director – On-Site Digital Engineering Info Systems & Tech – Bethesda, MD | Director | Bethesda, MD, United States |  | 3d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26138711) |
@@ -773,7 +774,7 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 | Coca-Cola ⭐ | 🆕 Director, Functional Platform Leader | Director | US - GA - Atlanta |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Functional-Platform-Leader_R-146791) |
 | Coca-Cola ⭐ | 🆕 Director, Cloud Software Architect | Director | US - GA - Atlanta |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Cloud-Software-Architect_R-147930) |
 | Econolite | 🆕 VP of Cloud Development | VP | Remote | $200K–$230K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-cloud-development%09-at-econolite-4481618783) |
-| Oracle | 🆕 Director, Platform Software Engineering | Director | United States | $131K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348718) |
+| Oracle | Director, Platform Software Engineering | Director | United States | $131K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348718) |
 | Capgemini | Senior Infrastructure Program Director | Director | Troy, MI, USA | $167K–$261K | 2d | [Apply](https://capgemini.talentnet.community/jobs/4b84bb37-9c0e-4451-9b4d-d02797587f57) |
 | Coke | Director, Functional Platform Leader | Director | US - GA - Atlanta |  | 2d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Functional-Platform-Leader_R-146791) |
 | CoServ | Director of Critical Infrastructure | Director | Corinth, TX, USA |  | 2d | [Apply](https://recruiting2.ultipro.com/DEN1011DCEC/JobBoard/2615a3dd-3aa5-47ba-9a80-f7725d698200/OpportunityDetail?opportunityId=0d3eca91-5a00-48b4-ac0d-3daf72cf4f40&postingId=5c3477af-9e3c-4d6e-8eb2-3ba431e3ac97) |
@@ -1579,6 +1580,8 @@ _323 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
+| Datafy | 🆕 Director of Demand Generation | Director | NJ, USA |  | 0d | [Apply](https://datafy.io/careers/co/new-jersey/D6.472/director-of-demand-generation/all/?coref=1.11.p1E_6D17) |
 | State of Alaska | 🆕 Director, Advanced Train Control Systems | Director | Anchorage, AK, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/Alaska/jobs/5523879/director-advanced-train-control-systems-alaska-railroad-employees-only) |
 | Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 1d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Astrion | 🆕 Senior Vice President, Chief Engineer | EVP/SVP | Colorado | $228K–$345K | 2d | [Apply](https://careers.astrion.us/jobs/25372) |

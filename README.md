@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,305 open roles** at **805 companies** · **26 new in the last 24 hours** · 5,364 company career sites watched · updated hourly · last update Oct 26, 2026 04:35 AM ET
+**2,307 open roles** at **807 companies** · **28 new in the last 24 hours** · 5,364 company career sites watched · updated hourly · last update Oct 26, 2026 05:35 AM ET
 
-By level: Director 1150 · VP 503 · Sr. Director 266 · Head 151 · EVP/SVP 100 · ED 65 · C-level 50 · MD 20
+By level: Director 1151 · VP 504 · Sr. Director 266 · Head 151 · EVP/SVP 100 · ED 65 · C-level 50 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (26)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (28)](#new-in-the-last-24-hours)
 - [🤠 Houston area (46)](#houston-area)
 - [👑 Executive Technology Leadership (51)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (149)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 1150 · VP 503 · Sr. Director 266 · Head 151 · EVP/SVP 100
 - [☁️ Cloud & Infrastructure (214)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
 - [🔄 Transformation & Delivery (269)](#transformation-delivery)
-- [🛠️ Engineering & Software (579)](#engineering-software)
+- [🛠️ Engineering & Software (581)](#engineering-software)
 - [📌 Other Senior Roles (192)](#other-senior-roles)
 - [🔒 Recently closed (60)](#recently-closed)
 - Daily digests: [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md)
@@ -47,6 +47,8 @@ By level: Director 1150 · VP 503 · Sr. Director 266 · Head 151 · EVP/SVP 100
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| SailPoint Technologies | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | USA · Remote | $215K–$362K | 0d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
+| Corning | 🆕 Photonics Connectivity Solutions Commercial Technology Director, United States | Director | USA | $217K–$298K | 0d | [Apply](https://careers.corning.com/us/en/job/77636/Photonics-Connectivity-Solutions-Commercial-Technology-Director-United-States) |
 | USAA ⭐ | 🆕 Director, MarTech Data & Platforms - P&C | Director | San Antonio Home Office I +5 | $143K–$274K | 0d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--MarTech-Data---Platforms---P-C_R0121514) |
 | Fenix Marine Services, LTD | 🆕 Director IT Operations | Director | San Pedro, CA, USA | $180K–$230K | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4608801/Fenix-Marine-Services-LTD/Director-IT-Operations?source=Indeed_Feed) |
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Business Manager - Security and Resiliency Initiative - Global Banking | ED | NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803381) |
@@ -1319,6 +1321,8 @@ _19 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| SailPoint Technologies | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | USA · Remote | $215K–$362K | 0d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
+| Corning | 🆕 Photonics Connectivity Solutions Commercial Technology Director, United States | Director | USA | $217K–$298K | 0d | [Apply](https://careers.corning.com/us/en/job/77636/Photonics-Connectivity-Solutions-Commercial-Technology-Director-United-States) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Software Engineer - Core Java and Equities Tech - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839600) [alt](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839520) |
 | SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 1d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
 | S&P Global ⭐ | Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
@@ -1567,10 +1571,8 @@ _19 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Front-end Software Engineering Lead & Manager, SVP | EVP/SVP | Mississauga, ON, CA |  | 7d | [Apply](https://jobs.citi.com/job/mississauga/front-end-software-engineering-lead-and-manager-svp/287/102161058352) |
 | Citi (jobs.citi.com) ⭐ | Head of Trade and Working Capital Technology MD, C16 | Head | New York, NY, US +1 |  | 7d | [Apply](https://jobs.citi.com/job/new-york/head-of-trade-and-working-capital-technology-md-c16/287/102161059680) |
 | Citi (jobs.citi.com) ⭐ | Issuer Services Technology Senior Developer - Vice President | VP | Mississauga, ON, CA |  | 7d | [Apply](https://jobs.citi.com/job/mississauga/issuer-services-technology-senior-developer-vice-president/287/102161059904) |
-| Citi (jobs.citi.com) ⭐ | Senior Low Latency Electronic Trading Software Engineer (Vice President) | VP | Kowloon, KKC, HK |  | 7d | [Apply](https://jobs.citi.com/job/kowloon/senior-low-latency-electronic-trading-software-engineer-vice-president/287/102161059936) |
-| Citi (jobs.citi.com) ⭐ | Lead Software Engineer – Margin Technology - VP | VP | Mississauga, ON, CA |  | 7d | [Apply](https://jobs.citi.com/job/mississauga/lead-software-engineer-margin-technology-vp/287/102161062064) |
 
-_329 older roles in this section are in data/roles.json on the `data` branch._
+_331 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

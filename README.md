@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,305 open roles** at **803 companies** · **25 new in the last 24 hours** · 5,361 company career sites watched · updated hourly · last update Oct 25, 2026 11:45 PM ET
+**2,304 open roles** at **804 companies** · **25 new in the last 24 hours** · 5,361 company career sites watched · updated hourly · last update Oct 26, 2026 12:46 AM ET
 
-By level: Director 1148 · VP 504 · Sr. Director 266 · Head 151 · EVP/SVP 100 · ED 66 · C-level 50 · MD 20
+By level: Director 1149 · VP 503 · Sr. Director 266 · Head 151 · EVP/SVP 100 · ED 65 · C-level 50 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,15 +31,15 @@ By level: Director 1148 · VP 504 · Sr. Director 266 · Head 151 · EVP/SVP 100
 - [🤠 Houston area (46)](#houston-area)
 - [👑 Executive Technology Leadership (51)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (149)](#security-risk-technology)
-- [🧠 Data & AI (635)](#data-ai)
-- [🚦 Reliability & Operations (151)](#reliability-operations)
+- [🧠 Data & AI (633)](#data-ai)
+- [🚦 Reliability & Operations (152)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (214)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
 - [🔄 Transformation & Delivery (269)](#transformation-delivery)
 - [🛠️ Engineering & Software (580)](#engineering-software)
 - [📌 Other Senior Roles (191)](#other-senior-roles)
-- [🔒 Recently closed (57)](#recently-closed)
-- Daily digests: [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md) · [10-19](data/daily/2026-10-19.md)
+- [🔒 Recently closed (59)](#recently-closed)
+- Daily digests: [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -47,6 +47,7 @@ By level: Director 1148 · VP 504 · Sr. Director 266 · Head 151 · EVP/SVP 100
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fenix Marine Services, LTD | 🆕 Director IT Operations | Director | San Pedro, CA, USA | $180K–$230K | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4608801/Fenix-Marine-Services-LTD/Director-IT-Operations?source=Indeed_Feed) |
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Business Manager - Security and Resiliency Initiative - Global Banking | ED | NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803381) |
 | JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Software Engineer - Core Java and Equities Tech - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839600) [alt](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839520) |
@@ -54,7 +55,6 @@ By level: Director 1148 · VP 504 · Sr. Director 266 · Head 151 · EVP/SVP 100
 | SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 1d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
 | Datafy | 🆕 Director of Demand Generation | Director | NJ, USA |  | 1d | [Apply](https://datafy.io/careers/co/new-jersey/D6.472/director-of-demand-generation/all/?coref=1.11.p1E_6D17) |
 | JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
-| S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
 | Amdocs | 🆕 CTO, Mobile Networks | C-level |  |  | 2d | [Apply](https://www.talent.com/view?id=642908085802893469) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 2d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
 | Clever Inc. | 🆕 VP of Product Engineering | VP | Remote | $340K–$375K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-product-engineering-at-clever-inc-4483187906) |
@@ -599,7 +599,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Senior Data Platform Developer - Vice President | VP | Kowloon, KKC, HK |  | 7d | [Apply](https://jobs.citi.com/job/kowloon/senior-data-platform-developer-vice-president/287/102161061712) |
 | Citi (jobs.citi.com) ⭐ | Sr. Data Analytics Developer - VP - Hybrid | VP | Tampa, FL, US |  | 7d | [Apply](https://jobs.citi.com/job/tampa/sr-data-analytics-developer-vp-hybrid/287/102161061936) |
 
-_385 older roles in this section are in data/roles.json on the `data` branch._
+_383 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -607,6 +607,7 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fenix Marine Services, LTD | 🆕 Director IT Operations | Director | San Pedro, CA, USA | $180K–$230K | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4608801/Fenix-Marine-Services-LTD/Director-IT-Operations?source=Indeed_Feed) |
 | Coca-Cola ⭐ | 🆕 Technical Operations Senior Director | Sr. Director | US - GA - Atlanta |  | 3d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Technical-Operations-Senior-Director_R-148122) |
 | Fox Corporation | 🆕 Director, Technology Business Operations (req R50034173) | Director | Los Angeles, California, USA +1 |  | 3d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Director--Technology-Business-Operations_R50034173) |
 | Openrouter | Director, Customer Support | Director | San Francisco Bay Area, California +1 · Remote | $240K–$275K | 3d | [Apply](https://jobs.ashbyhq.com/openrouter/3664588e-861e-4917-8be9-e4e443fafe13) ⚡ |
@@ -1319,7 +1320,7 @@ _19 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Citi (jobs.citi.com) ⭐ | 🆕 Software Engineer - Core Java and Equities Tech - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839600) [alt](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839520) |
 | SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 1d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
-| S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
+| S&P Global ⭐ | Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 2d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
 | Clever Inc. | 🆕 VP of Product Engineering | VP | Remote | $340K–$375K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-product-engineering-at-clever-inc-4483187906) |
 | HAYS | 🆕 Vice President of Technology | VP | La Cañada Flintridge, California | $250K–$300K | 2d | [Apply](https://www.dice.com/job-detail/f069db6f-f1df-413c-baa7-50abe37afba4) |
@@ -1776,6 +1777,8 @@ _330 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Vice President, AI Product Manager | VP | New York, NY, United States |  | 7d | Closed |
+| CVS Health ⭐ | 🔒 Executive Director, Software Engineering AI Solutions | ED | RI - Woonsocket · Remote |  | 10d | Closed |
 | Santander ⭐ | 🔒 Senior Data Scientist / S4 / Chief Data & AI Office / Milton Keynes | C-level | Milton Keynes |  | 10d | Closed |
 | CVS Health ⭐ | 🔒 Director Product Management – AI / ML Platform | Director | NY - New York +49 · Remote |  | 25d | Closed |
 | Coupa | 🔒 Revenue Systems Director, Platform and Architecture - 11911 | Director | Charlotte, North Carolina, United States · Remote | $152K–$213K | 26d | Closed |

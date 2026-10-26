@@ -19,23 +19,23 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,303 open roles** at **802 companies** · **26 new in the last 24 hours** · 5,359 company career sites watched · updated hourly · last update Oct 25, 2026 09:55 PM ET
+**2,305 open roles** at **803 companies** · **27 new in the last 24 hours** · 5,361 company career sites watched · updated hourly · last update Oct 25, 2026 10:45 PM ET
 
-By level: Director 1148 · VP 504 · Sr. Director 265 · Head 151 · EVP/SVP 100 · ED 65 · C-level 50 · MD 20
+By level: Director 1148 · VP 504 · Sr. Director 266 · Head 151 · EVP/SVP 100 · ED 66 · C-level 50 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (26)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (27)](#new-in-the-last-24-hours)
 - [🤠 Houston area (46)](#houston-area)
 - [👑 Executive Technology Leadership (51)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (148)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (149)](#security-risk-technology)
 - [🧠 Data & AI (635)](#data-ai)
 - [🚦 Reliability & Operations (151)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (214)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
-- [🔄 Transformation & Delivery (268)](#transformation-delivery)
+- [🔄 Transformation & Delivery (269)](#transformation-delivery)
 - [🛠️ Engineering & Software (580)](#engineering-software)
 - [📌 Other Senior Roles (191)](#other-senior-roles)
 - [🔒 Recently closed (57)](#recently-closed)
@@ -47,6 +47,7 @@ By level: Director 1148 · VP 504 · Sr. Director 265 · Head 151 · EVP/SVP 100
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Executive Director, Business Manager - Security and Resiliency Initiative - Global Banking | ED | NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803381) |
 | JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Software Engineer - Core Java and Equities Tech - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839600) [alt](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839520) |
 | MUFG | 🆕 Director, Data Governance & Transformation | Director | New Jersey Office - 210 Hudson Street +1 |  | 1d | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Director--Data-Governance---Transformation_10078400-WD) |
@@ -54,15 +55,15 @@ By level: Director 1148 · VP 504 · Sr. Director 265 · Head 151 · EVP/SVP 100
 | Datafy | 🆕 Director of Demand Generation | Director | NJ, USA |  | 1d | [Apply](https://datafy.io/careers/co/new-jersey/D6.472/director-of-demand-generation/all/?coref=1.11.p1E_6D17) |
 | JPMorgan Chase ⭐ | 🆕 Personalization Product Manager - Vice President | VP | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772104) |
 | S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
-| HAYS | 🆕 Vice President of Technology | VP | La Cañada Flintridge, California | $250K–$300K | 2d | [Apply](https://www.dice.com/job-detail/f069db6f-f1df-413c-baa7-50abe37afba4) |
-| Sparrow Company Executive Search Staffing | 🆕 VP of Technology | VP | El Paso, Texas |  | 2d | [Apply](https://mccarthysearch.com/jobs/45010a69ee2a42ede5f7049b) |
-| Clever Inc. | 🆕 VP of Product Engineering | VP | Remote | $340K–$375K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-product-engineering-at-clever-inc-4483187906) |
-| Fuze Health | 🆕 Chief Technology Officer - FuzeRx | C-level | Pennsylvania | $375K–$400K | 2d | [Apply](https://www.talent.com/view?id=642903339799615354) |
 | Amdocs | 🆕 CTO, Mobile Networks | C-level |  |  | 2d | [Apply](https://www.talent.com/view?id=642908085802893469) |
-| Creative Chemistry Works | 🆕 Head Of Technical Security | Head | Washington, District of Columbia |  | 2d | [Apply](https://www.talent.com/view?id=642902863254791888) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 2d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
-| RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
+| Clever Inc. | 🆕 VP of Product Engineering | VP | Remote | $340K–$375K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-product-engineering-at-clever-inc-4483187906) |
+| Creative Chemistry Works | 🆕 Head Of Technical Security | Head | Washington, District of Columbia |  | 2d | [Apply](https://www.talent.com/view?id=642902863254791888) |
 | FTI Consulting | 🆕 Digital Forensics, Automation Engineering Director - Houston, Texas, US | Director | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=642903351700559738) |
+| Fuze Health | 🆕 Chief Technology Officer - FuzeRx | C-level | Pennsylvania | $375K–$400K | 2d | [Apply](https://www.talent.com/view?id=642903339799615354) |
+| HAYS | 🆕 Vice President of Technology | VP | La Cañada Flintridge, California | $250K–$300K | 2d | [Apply](https://www.dice.com/job-detail/f069db6f-f1df-413c-baa7-50abe37afba4) |
+| RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
+| Sparrow Company Executive Search Staffing | 🆕 VP of Technology | VP | El Paso, Texas |  | 2d | [Apply](https://mccarthysearch.com/jobs/45010a69ee2a42ede5f7049b) |
 | EY | 🆕 Financial Planning and Analytics Data and Analytics - Assistant Director | Director | Dallas, TX, USA | $104K–$221K | 2d | [Apply](https://careers.ey.com/ey/job/Dallas-Financial-Planning-and-Analytics-Data-and-Analytics-Assistant-Director-TX-75219/1450925633/) |
 | State of Alaska | 🆕 Director, Advanced Train Control Systems | Director | Anchorage, AK, USA |  | 2d | [Apply](https://www.governmentjobs.com/careers/Alaska/jobs/5523879/director-advanced-train-control-systems-alaska-railroad-employees-only) |
 | Coca-Cola ⭐ | 🆕 Director, Functional Platform Leader | Director | US - GA - Atlanta |  | 3d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Functional-Platform-Leader_R-146791) |
@@ -84,8 +85,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 |---|---|---|---|---|---:|---|
 | JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 2d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
-| RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
 | FTI Consulting | 🆕 Digital Forensics, Automation Engineering Director - Houston, Texas, US | Director | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=642903351700559738) |
+| RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
 | Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 2d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 2d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 2d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
@@ -135,8 +136,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Fuze Health | 🆕 Chief Technology Officer - FuzeRx | C-level | Pennsylvania | $375K–$400K | 2d | [Apply](https://www.talent.com/view?id=642903339799615354) |
 | Amdocs | 🆕 CTO, Mobile Networks | C-level |  |  | 2d | [Apply](https://www.talent.com/view?id=642908085802893469) |
+| Fuze Health | 🆕 Chief Technology Officer - FuzeRx | C-level | Pennsylvania | $375K–$400K | 2d | [Apply](https://www.talent.com/view?id=642903339799615354) |
 | Harrison Clarke | Chief Technology Officer at Harrison Clarke - United, Pennsylvania | C-level | Mt Pleasant, Pennsylvania |  | 3d | [Apply](https://www.talent.com/view?id=642864345119132963) |
 | Larson Design Group | Chief Technology Officer | C-level | Cranberry Township, Pennsylvania |  | 3d | [Apply](https://career.io/job/chief-technology-officer-cranberry-twp-larson-design-group-a92a2842c8ffca493878d2f8839a4bbd) |
 | Homer Electric Association | Chief Technology Officer | C-level | Homer, AK, USA |  | 3d | [Apply](https://www.applicantpro.com/openings/homerelectric/jobs/4254389-6840) |
@@ -193,6 +194,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Executive Director, Business Manager - Security and Resiliency Initiative - Global Banking | ED | NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803381) |
 | JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Excelsior Mining Corporation | Director, Health, Safety, and Security | Director | Dragoon, AZ, USA |  | 1d | [Apply](https://gunnisoncopper.com/careers?gnk=job&gni=8a78839fa1559acc01a16ed1222c252b&gns=Indeed+Free) |
 | Creative Chemistry Works | 🆕 Head Of Technical Security | Head | Washington, District of Columbia |  | 2d | [Apply](https://www.talent.com/view?id=642902863254791888) |
@@ -1255,6 +1257,7 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 | Okta | Director, M&A People Strategy & Integration | Director | San Francisco, California | $219K–$301K | 14d | [Apply](https://www.okta.com/company/careers/opportunity/8275271?gh_jid=8275271) ⚡ |
 | Okta | Director, M&A People Strategy & Integration | Director | Chicago, Illinois | $219K–$301K | 14d | [Apply](https://www.okta.com/company/careers/opportunity/8275286?gh_jid=8275286) ⚡ |
 | Okta | Director, M&A People Strategy & Integration | Director | Bellevue, Washington | $219K–$301K | 14d | [Apply](https://www.okta.com/company/careers/opportunity/8275287?gh_jid=8275287) ⚡ |
+| FIS Global | Sr. Director, Digital Studio | Sr. Director | Jacksonville, Florida, United States of Am |  | 17d | [Apply](https://careers.fisglobal.com/us/en/job/FIGLUSJR0309587EXTERNAL) |
 | Marriott International ⭐ | FLEX Director, Digital & Technology Transformation Run of Show (CALA) | Director | Plantation, FL, United States |  | 17d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26129007) |
 | Wolters Kluwer | Director, Product Strategy & Transformation | Director | USA-CA-Remote |  | 17d | [Apply](https://wk.wd3.myworkdayjobs.com/External/job/USA-CA-Remote/Director--Product-Strategy---Transformation_R0060547) |
 | CVS Health (Phenom) ⭐ | Executive Director, Health100 App — Digital Product | ED | One CVS Drive, Woonsocket, Rhode Island,Un |  | 17d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1058607EXTERNALENUS) |
@@ -1307,9 +1310,8 @@ _385 older roles in this section are in data/roles.json on the `data` branch._
 | Highmark Health | Director Enterprise Transformation Strategy | Director | Pittsburgh PA, Penn Avenue Place · Remote |  | 24d | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-Penn-Avenue-Place/Director-Enterprise-Transformation-Strategy_J287477) |
 | Northrop Grumman ⭐ | Program Management Senior Director | Sr. Director | United States-Maryland-Elkridge |  | 24d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/Program-Management-Senior-Director_R10253320-1) |
 | VALERIS | Director, IT Project Management Office (PMO) & Technology Transformation | Director | Louisville, KY |  | 25d | [Apply](https://valeris.wd108.myworkdayjobs.com/Valeris/job/Louisville-KY/Director--IT-Project-Management-Office--PMO----Technology-Transformation_JR782) |
-| Abbott ⭐ | Head of Business Capabilities - Global Digital Activation | Head | United States - Illinois - Lake Forest |  | 25d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Global-Business-Capabilities-Director---Digital-Activation_31155819-1) |
 
-_18 older roles in this section are in data/roles.json on the `data` branch._
+_19 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1320,11 +1322,11 @@ _18 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 Software Engineer - Core Java and Equities Tech - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839600) [alt](https://jobs.citi.com/job/pune/software-engineer-core-java-and-equities-tech-vice-president/287/102412839520) |
 | SailPoint | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | United States | $215K–$362K | 1d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
 | S&P Global ⭐ | 🆕 Global Head of Technology, Private Markets | Head | New York, NY | $207K–$350K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Technology--Private-Markets_332392-1) |
-| HAYS | 🆕 Vice President of Technology | VP | La Cañada Flintridge, California | $250K–$300K | 2d | [Apply](https://www.dice.com/job-detail/f069db6f-f1df-413c-baa7-50abe37afba4) |
-| Sparrow Company Executive Search Staffing | 🆕 VP of Technology | VP | El Paso, Texas |  | 2d | [Apply](https://mccarthysearch.com/jobs/45010a69ee2a42ede5f7049b) |
-| Clever Inc. | 🆕 VP of Product Engineering | VP | Remote | $340K–$375K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-product-engineering-at-clever-inc-4483187906) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 2d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
+| Clever Inc. | 🆕 VP of Product Engineering | VP | Remote | $340K–$375K | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-of-product-engineering-at-clever-inc-4483187906) |
+| HAYS | 🆕 Vice President of Technology | VP | La Cañada Flintridge, California | $250K–$300K | 2d | [Apply](https://www.dice.com/job-detail/f069db6f-f1df-413c-baa7-50abe37afba4) |
 | RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
+| Sparrow Company Executive Search Staffing | 🆕 VP of Technology | VP | El Paso, Texas |  | 2d | [Apply](https://mccarthysearch.com/jobs/45010a69ee2a42ede5f7049b) |
 | City of Coronado, CA | Assistant Director of Public Services and Engineering | Director | Coronado, CA, USA | $153K–$205K | 2d | [Apply](https://www.governmentjobs.com/careers/coronado/jobs/5523372/assistant-director-of-public-services-and-engineering) |
 | Eikon Therapeutics | Director, Optical Engineering | Director | Millbrae, CA, USA | $242K–$292K | 2d | [Apply](https://grnh.se/6nifj7tn7us) |
 | Grady Health System | Executive Director of Technology | ED | Atlanta, GA, USA |  | 2d | [Apply](https://gmh.wd12.myworkdayjobs.com/en-US/external_careers/job/Main-Grady-Campus-Downtown-Atlanta/Exec-Director-of-Technology_R26002406) |

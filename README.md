@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,306 open roles** at **805 companies** · **26 new in the last 24 hours** · 5,362 company career sites watched · updated hourly · last update Oct 26, 2026 02:46 AM ET
+**2,305 open roles** at **805 companies** · **26 new in the last 24 hours** · 5,364 company career sites watched · updated hourly · last update Oct 26, 2026 03:36 AM ET
 
-By level: Director 1151 · VP 503 · Sr. Director 266 · Head 151 · EVP/SVP 100 · ED 65 · C-level 50 · MD 20
+By level: Director 1150 · VP 503 · Sr. Director 266 · Head 151 · EVP/SVP 100 · ED 65 · C-level 50 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 1151 · VP 503 · Sr. Director 266 · Head 151 · EVP/SVP 100
 - [☁️ Cloud & Infrastructure (214)](#cloud-infrastructure)
 - [🏛️ Architecture (65)](#architecture)
 - [🔄 Transformation & Delivery (269)](#transformation-delivery)
-- [🛠️ Engineering & Software (580)](#engineering-software)
+- [🛠️ Engineering & Software (579)](#engineering-software)
 - [📌 Other Senior Roles (192)](#other-senior-roles)
-- [🔒 Recently closed (59)](#recently-closed)
+- [🔒 Recently closed (60)](#recently-closed)
 - Daily digests: [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md) · [10-20](data/daily/2026-10-20.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -1570,7 +1570,7 @@ _19 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Senior Low Latency Electronic Trading Software Engineer (Vice President) | VP | Kowloon, KKC, HK |  | 7d | [Apply](https://jobs.citi.com/job/kowloon/senior-low-latency-electronic-trading-software-engineer-vice-president/287/102161059936) |
 | Citi (jobs.citi.com) ⭐ | Lead Software Engineer – Margin Technology - VP | VP | Mississauga, ON, CA |  | 7d | [Apply](https://jobs.citi.com/job/mississauga/lead-software-engineer-margin-technology-vp/287/102161062064) |
 
-_330 older roles in this section are in data/roles.json on the `data` branch._
+_329 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -1779,6 +1779,7 @@ _330 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Expedia Group ⭐ | 🔒 Director, Technology | Director | Washington - Seattle Campus |  | 24d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Vice President, AI Product Manager | VP | New York, NY, United States |  | 7d | Closed |
 | CVS Health ⭐ | 🔒 Executive Director, Software Engineering AI Solutions | ED | RI - Woonsocket · Remote |  | 10d | Closed |
 | Santander ⭐ | 🔒 Senior Data Scientist / S4 / Chief Data & AI Office / Milton Keynes | C-level | Milton Keynes |  | 10d | Closed |

@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-48 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+49 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| DASHIELL CORPORATION | 🆕 Senior Director of Program Management | Sr. Director | Houston, TX, USA |  | 0d | [Apply](https://dashiell.applicantstack.com/x/detail/a2jsjjnytxx0/aaac) |
 | JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 2d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
 | FTI Consulting | 🆕 Digital Forensics, Automation Engineering Director - Houston, Texas, US | Director | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=642903351700559738) |

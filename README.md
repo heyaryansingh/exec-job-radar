@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,421 open roles** at **849 companies** · **119 new in the last 24 hours** · 5,405 company career sites watched · updated hourly · last update Oct 26, 2026 08:34 PM ET
+**2,421 open roles** at **849 companies** · **118 new in the last 24 hours** · 5,405 company career sites watched · updated hourly · last update Oct 26, 2026 09:07 PM ET
 
 By level: Director 1223 · VP 515 · Sr. Director 280 · Head 159 · EVP/SVP 106 · ED 64 · C-level 53 · MD 21
 
@@ -27,7 +27,7 @@ By level: Director 1223 · VP 515 · Sr. Director 280 · Head 159 · EVP/SVP 106
 
 ## Contents
 
-- [🆕 New in the last 24 hours (119)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (118)](#new-in-the-last-24-hours)
 - [🤠 Houston area (49)](#houston-area)
 - [👑 Executive Technology Leadership (55)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (159)](#security-risk-technology)
@@ -60,9 +60,9 @@ By level: Director 1223 · VP 515 · Sr. Director 280 · Head 159 · EVP/SVP 106
 | SAP IT Business Systeme | 🆕 Expert Development Architect SAP Office of the CTO | C-level | San Ramon, CA, USA | $198K–$420K | 1d | [Apply](https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000157926178-expert-development-architect-sap-office-of-the-cto) |
 | Universal Orlando Resort | 🆕 Director, Principal Data Architect | Director | Orlando, FL, USA |  | 1d | [Apply](https://jobs.universalparks.com/job/24056416/director-principal-data-architect-orlando-fl/) |
 | Gong.io | 🆕 VP, Global Revenue Architecture | VP | Austin / Chicago / New York City / Salt La |  | 1d | [Apply](https://job-boards.greenhouse.io/gongio/jobs/4724958006) ⚡ |
-| Prologis ⭐ | 🆕 Director, Digital Customer Experience Technologies | Director | Denver, Colorado +2 | $149K–$205K | 1d | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/Director--Marketing---Digital-Customer-Experience_R6825-1) |
-| Institute on Aging | 🆕 Director, Information Technology | Director | San Francisco, CA | $190K–$210K | 1d | [Apply](https://ioaging.wd12.myworkdayjobs.com/IOA/job/San-Francisco-CA/Sr-Director-Information-Technology_JR1713) [alt](https://ioaging.wd12.myworkdayjobs.com/IOA/job/San-Francisco-CA/Sr-Director-Information-Technology_JR1713) |
 | Barings | 🆕 Infrastructure Client Portfolio Manager, Senior Director | Sr. Director | New York, NY, United States |  | 1d | [Apply](https://barings.wd1.myworkdayjobs.com/Barings/job/New-York-NY-United-States/Infrastructure-Client-Portfolio-Manager--Senior-Director_JR_006738) [alt](https://barings.wd1.myworkdayjobs.com/en-US/Barings/job/New-York-NY-United-States/Infrastructure-Client-Portfolio-Manager--Senior-Director_JR_006738) |
+| Institute on Aging | 🆕 Director, Information Technology | Director | San Francisco, CA | $190K–$210K | 1d | [Apply](https://ioaging.wd12.myworkdayjobs.com/IOA/job/San-Francisco-CA/Sr-Director-Information-Technology_JR1713) [alt](https://ioaging.wd12.myworkdayjobs.com/IOA/job/San-Francisco-CA/Sr-Director-Information-Technology_JR1713) |
+| Prologis ⭐ | 🆕 Director, Digital Customer Experience Technologies | Director | Denver, Colorado +2 | $149K–$205K | 1d | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/Director--Marketing---Digital-Customer-Experience_R6825-1) |
 | Current Advisors | 🆕 Sr. Director, People Technology | Sr. Director | Remote | $187K–$225K | 1d | [Apply](https://jobs.ashbyhq.com/current-advisors/b196ed70-cbd2-4012-bd9f-9a638f560dcd) ⚡ |
 | Lazard | 🆕 Vice President - Technology | VP | San Francisco, United States | $250K–$275K | 1d | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6771) |
 | Fox Corporation | 🆕 Director, Post-Production Engineering & Support | Director | Los Angeles, California, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Director--Post-Production-Engineering---Support_R50034182) |
@@ -156,7 +156,6 @@ By level: Director 1223 · VP 515 · Sr. Director 280 · Head 159 · EVP/SVP 106
 | USAA ⭐ | 🆕 Director, MarTech Data & Platforms - P&C | Director | San Antonio Home Office I +5 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--MarTech-Data---Platforms---P-C_R0121514) |
 | Fenix Marine Services, LTD | 🆕 Director IT Operations | Director | San Pedro, CA, USA | $180K–$230K | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4608801/Fenix-Marine-Services-LTD/Director-IT-Operations?source=Indeed_Feed) |
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Business Manager - Security and Resiliency Initiative - Global Banking | ED | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803381) |
-| JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 2d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Amdocs | 🆕 CTO, Mobile Networks | C-level |  |  | 3d | [Apply](https://www.talent.com/view?id=642908085802893469) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 3d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
 | Clever Inc. | 🆕 VP of Product Engineering | VP | Remote | $340K–$375K | 3d | [Apply](https://www.linkedin.com/jobs/view/vp-of-product-engineering-at-clever-inc-4483187906) |
@@ -176,7 +175,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | DASHIELL CORPORATION | 🆕 Senior Director of Program Management | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://dashiell.applicantstack.com/x/detail/a2jsjjnytxx0/aaac) |
-| JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 2d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
+| JLL ⭐ | Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 2d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 3d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
 | FTI Consulting | 🆕 Digital Forensics, Automation Engineering Director - Houston, Texas, US | Director | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=642903351700559738) |
 | RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
@@ -303,7 +302,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Veterinary Emergency Group (VEG) | 🆕 Director, Security Operations & Intelligence - White Plains, NY | Director | VEG Headquarters, White Plains, NY |  | 1d | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6233799004?gh_jid=6233799004) ⚡ |
 | BlackRock ⭐ | 🆕 Cyber Threat Intelligence, Director – Information Security | Director | XAL-Regional - Alabama |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/XAL-Regional---Alabama/Cyber-Threat-Intelligence--Director---Information-Security_R267003) |
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Business Manager - Security and Resiliency Initiative - Global Banking | ED | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803381) |
-| JLL ⭐ | 🆕 Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 2d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
+| JLL ⭐ | Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 2d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Excelsior Mining Corporation | Director, Health, Safety, and Security | Director | Dragoon, AZ, USA |  | 2d | [Apply](https://gunnisoncopper.com/careers?gnk=job&gni=8a78839fa1559acc01a16ed1222c252b&gns=Indeed+Free) |
 | Creative Chemistry Works | 🆕 Head Of Technical Security | Head | Washington, District of Columbia |  | 3d | [Apply](https://www.talent.com/view?id=642902863254791888) |
 | PAE | Senior Director, Global Security & Resilience | Sr. Director | US-Remote | $192K–$225K | 4d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-Remote/Senior-Director--Global-Security---Resilience_R0173991) |

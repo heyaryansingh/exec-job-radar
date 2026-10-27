@@ -1,14 +1,17 @@
 # 🤠 Senior technology roles in the Houston area
 
-49 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+52 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Goldman Sachs | 🆕 GBM Private, IB Classic, Natural Resources Coverage, Vice President -New York New York · · Vice[...] | VP | Houston, Texas |  | 1d | [Apply](https://jooble.org/jdp/5622677218720753561) |
 | DASHIELL CORPORATION | 🆕 Senior Director of Program Management | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://dashiell.applicantstack.com/x/detail/a2jsjjnytxx0/aaac) |
+| Revance Therapeutics, Inc. | 🆕 Executive Director, Data & AI | ED | Houston, Texas | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5559836877/e/) |
+| DESRI | 🆕 Director Information Technology | Director | Houston, Texas | $200K–$250K | 2d | [Apply](https://simplify.jobs/p/933539e5-e67b-49bd-99a6-c1ddfe65e3a2/Director-Information-Technology) |
 | JLL ⭐ | Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 2d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
-| Capgemini | 🆕 Technical Director | Director | Houston, Texas | $139K–$226K | 3d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
-| FTI Consulting | 🆕 Digital Forensics, Automation Engineering Director - Houston, Texas, US | Director | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=642903351700559738) |
-| RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
+| Capgemini | Technical Director | Director | Houston, Texas | $139K–$226K | 3d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
+| FTI Consulting | Digital Forensics, Automation Engineering Director - Houston, Texas, US | Director | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=642903351700559738) |
+| RJI Search | Director of IT - Bilingual in Spanish | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4483140935) |
 | Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 3d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 3d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 3d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |

@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,440 open roles** at **864 companies** · **126 new in the last 24 hours** · 5,418 company career sites watched · updated hourly · last update Oct 27, 2026 02:25 AM ET
+**2,445 open roles** at **869 companies** · **131 new in the last 24 hours** · 5,418 company career sites watched · updated hourly · last update Oct 27, 2026 02:57 AM ET
 
-By level: Director 1232 · VP 520 · Sr. Director 280 · Head 161 · EVP/SVP 108 · ED 65 · C-level 53 · MD 21
+By level: Director 1234 · VP 521 · Sr. Director 280 · Head 162 · EVP/SVP 108 · ED 65 · C-level 54 · MD 21
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (126)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (131)](#new-in-the-last-24-hours)
 - [🤠 Houston area (53)](#houston-area)
-- [👑 Executive Technology Leadership (56)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (160)](#security-risk-technology)
+- [👑 Executive Technology Leadership (57)](#executive-technology-leadership)
+- [🛡️ Security & Risk Technology (161)](#security-risk-technology)
 - [🧠 Data & AI (664)](#data-ai)
 - [🚦 Reliability & Operations (160)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (226)](#cloud-infrastructure)
 - [🏛️ Architecture (68)](#architecture)
 - [🔄 Transformation & Delivery (288)](#transformation-delivery)
-- [🛠️ Engineering & Software (620)](#engineering-software)
-- [📌 Other Senior Roles (198)](#other-senior-roles)
+- [🛠️ Engineering & Software (622)](#engineering-software)
+- [📌 Other Senior Roles (199)](#other-senior-roles)
 - [🔒 Recently closed (74)](#recently-closed)
 - Daily digests: [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md)
 
@@ -47,6 +47,11 @@ By level: Director 1232 · VP 520 · Sr. Director 280 · Head 161 · EVP/SVP 108
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Parsons | 🆕 Director of Water Innovation | Director | TX, USA | $148K–$267K | 0d | [Apply](https://jobs.parsons.com/jobs/director-of-water-innovation-houston-r-187513-jobs--technical-specialties--) |
+| Sony | 🆕 Director, Cyber Defense | Director | VA, USA | $220K–$240K | 0d | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Virginia/Director--Cyber-Defense_JR-119812) |
+| Hyperbolic | 🆕 VP of Engineering | VP | San Francisco, CA, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/hyperbolic/c6039f86-4915-4d1d-9e10-ac7c2a484d5c?utm_source=yn2LQV88XK) |
+| ETDOX | 🆕 Chief Technology Officer | C-level | Remote, USA |  | 0d | [Apply](https://www.indeed.com/viewjob?jk=25c9a178449b08e6) |
+| Mindful Health Solutions | 🆕 Head of IT | Head | Remote, USA | $210K–$260K | 0d | [Apply](https://ats.rippling.com/mindfulhealthsolutions/jobs/8a91f54b-ee52-4e38-bfd3-5ca54b52cd09?jobSite=Indeed) |
 | Bain & Company | 🆕 Vice President, Enterprise Data Architecture | VP | Houston, TX, USA | $226K–$282K | 0d | [Apply](https://careers.bain.com/jobs/FolderDetail/Vice-President-Enterprise-Data-Architecture/111950) |
 | Charles Schwab | 🆕 Director, Architect Principal - Capacity Planning | Director | Austin, TX, USA | $206K–$249K | 0d | [Apply](https://www.schwabjobs.com/job/austin/director-architect-principal-capacity-planning/33727/102482685520) |
 | Ciena | 🆕 Director, Government Relations — National Security and Economic Security Policy | Director | Remote, USA | $152K–$505K | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949) |
@@ -242,6 +247,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| ETDOX | 🆕 Chief Technology Officer | C-level | Remote, USA |  | 0d | [Apply](https://www.indeed.com/viewjob?jk=25c9a178449b08e6) |
 | University of Pennsylvania | 🆕 Executive Director, EVP IT Integrated Services | EVP/SVP | Philadelphia, PA, USA | $170K–$270K | 0d | [Apply](https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/3401-Walnut-Street-BC-Wing---3rd-Floor/Executive-Director--EVP-IT-Integrated-Services_JR00129497) |
 | SAP IT Business Systeme | 🆕 Expert Development Architect SAP Office of the CTO | C-level | San Ramon, CA, USA | $198K–$420K | 1d | [Apply](https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000157926178-expert-development-architect-sap-office-of-the-cto) |
 | Upenn | 🆕 Executive Director, EVP IT Integrated Services | EVP/SVP | 3401 Walnut Street B/C Wing - 3rd Floor |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/3401-Walnut-Street-BC-Wing---3rd-Floor/Executive-Director--EVP-IT-Integrated-Services_JR00129497) |
@@ -305,6 +311,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Sony | 🆕 Director, Cyber Defense | Director | VA, USA | $220K–$240K | 0d | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Virginia/Director--Cyber-Defense_JR-119812) |
 | Ciena | 🆕 Director, Government Relations — National Security and Economic Security Policy | Director | Remote, USA | $152K–$505K | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949) |
 | Copado | 🆕 Director, Product Security | Director | Chicago, IL, USA | $200K–$240K | 1d | [Apply](https://ats.rippling.com/copado/jobs/c9cb7914-c4e8-4806-902f-aad6f5d6024b?jobSite=Indeed) |
 | Mdlz | 🆕 Sr Director, Global Security | Sr. Director | Global Headquarters – Chicago, USA | $174K–$287K | 1d | [Apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Global-Headquarters--Chicago-USA/Sr-Director--Global-Security_R-161379) |
@@ -1465,6 +1472,8 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Hyperbolic | 🆕 VP of Engineering | VP | San Francisco, CA, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/hyperbolic/c6039f86-4915-4d1d-9e10-ac7c2a484d5c?utm_source=yn2LQV88XK) |
+| Mindful Health Solutions | 🆕 Head of IT | Head | Remote, USA | $210K–$260K | 0d | [Apply](https://ats.rippling.com/mindfulhealthsolutions/jobs/8a91f54b-ee52-4e38-bfd3-5ca54b52cd09?jobSite=Indeed) |
 | Scientific Protein Laboratories | 🆕 Head of Project Engineering | Head | Waunakee, WI, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B87A0A2CC22A6F9981E0CEA932587E3B/jobs/683451?source=Indeed) |
 | Valor Hospitality | 🆕 Resort Director of Engineering & Facilites | Director | Cloudland Rising Fawn, GA |  | 1d | [Apply](https://valorhospitality.wd503.myworkdayjobs.com/who-we-are/job/Cloudland-Rising-Fawn-GA/Resort-Director-of-Engineering---Facilites_JR109195) |
 | Valor Hospitality | 🆕 Resort Director of Engineering & Facilites | Director | Rising Fawn, GA, USA |  | 1d | [Apply](https://valorhospitality.wd503.myworkdayjobs.com/who-we-are/job/Cloudland-Rising-Fawn-GA/Resort-Director-of-Engineering---Facilites_JR109195) |
@@ -1713,10 +1722,8 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Global Head of Prime Technology | Head | New York, NY, US |  | 8d | [Apply](https://jobs.citi.com/job/new-york/global-head-of-prime-technology/287/102161040096) |
 | Citi (jobs.citi.com) ⭐ | Apps Development Sr Manager - Vice President | VP | Mississauga, ON, CA |  | 8d | [Apply](https://jobs.citi.com/job/mississauga/apps-development-sr-manager-vice-president/287/102161040160) |
 | Citi (jobs.citi.com) ⭐ | Senior Lead Python Engineer - Applications Development Group Manager - Senior Vice President | EVP/SVP | Rutherford, NJ, US |  | 8d | [Apply](https://jobs.citi.com/job/rutherford/senior-lead-python-engineer-applications-development-group-manager-senior-vice-president/287/102161040480) |
-| Citi (jobs.citi.com) ⭐ | Client Financials Solutions Lead Department, Apps Development - Director | Director | Tampa, FL, US +2 |  | 8d | [Apply](https://jobs.citi.com/job/tampa/client-financials-solutions-lead-department-apps-development-director/287/102161040928) |
-| Citi (jobs.citi.com) ⭐ | Full Stack Technology Lead - Vice President | VP | Mississauga, ON, CA |  | 8d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-technology-lead-vice-president/287/102161043072) |
 
-_370 older roles in this section are in data/roles.json on the `data` branch._
+_372 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -1724,6 +1731,7 @@ _370 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Parsons | 🆕 Director of Water Innovation | Director | TX, USA | $148K–$267K | 0d | [Apply](https://jobs.parsons.com/jobs/director-of-water-innovation-houston-r-187513-jobs--technical-specialties--) |
 | Goldman Sachs | 🆕 GBM Private, IB Classic, Natural Resources Coverage, Vice President -New York New York · · Vice[...] | VP | Houston, Texas |  | 1d | [Apply](https://jooble.org/jdp/5622677218720753561) |
 | Atmosera | 🆕 VP, Client Success | VP | Remote - US |  | 1d | [Apply](https://jobs.lever.co/atmosera/d1e477d7-e7fc-4fe3-b1d8-70061f5c4a0b) ⚡ [alt](https://jobs.lever.co/atmosera/d1e477d7-e7fc-4fe3-b1d8-70061f5c4a0b?lever-source=Indeed) |
 | Uniphore | 🆕 Vice President, Product Monetization & Pricing | VP | USA - CA - Palo Alto | $250K–$312K | 1d | [Apply](https://uniphore.wd503.myworkdayjobs.com/Uniphore/job/USA---CA---Palo-Alto/Vice-President---Product-Strategy_JR100961-1) |

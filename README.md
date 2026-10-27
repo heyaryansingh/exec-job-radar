@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,454 open roles** at **871 companies** · **139 new in the last 24 hours** · 5,422 company career sites watched · updated hourly · last update Oct 27, 2026 06:49 AM ET
+**2,455 open roles** at **872 companies** · **140 new in the last 24 hours** · 5,422 company career sites watched · updated hourly · last update Oct 27, 2026 07:49 AM ET
 
-By level: Director 1237 · VP 522 · Sr. Director 281 · Head 165 · EVP/SVP 108 · ED 65 · C-level 55 · MD 21
+By level: Director 1237 · VP 523 · Sr. Director 281 · Head 165 · EVP/SVP 108 · ED 65 · C-level 55 · MD 21
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (139)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (140)](#new-in-the-last-24-hours)
 - [🤠 Houston area (53)](#houston-area)
 - [👑 Executive Technology Leadership (58)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (165)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 1237 · VP 522 · Sr. Director 281 · Head 165 · EVP/SVP 108
 - [☁️ Cloud & Infrastructure (227)](#cloud-infrastructure)
 - [🏛️ Architecture (68)](#architecture)
 - [🔄 Transformation & Delivery (288)](#transformation-delivery)
-- [🛠️ Engineering & Software (622)](#engineering-software)
+- [🛠️ Engineering & Software (623)](#engineering-software)
 - [📌 Other Senior Roles (200)](#other-senior-roles)
 - [🔒 Recently closed (75)](#recently-closed)
 - Daily digests: [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md)
@@ -47,6 +47,7 @@ By level: Director 1237 · VP 522 · Sr. Director 281 · Head 165 · EVP/SVP 108
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| BSI Engineering | 🆕 Vice President of Technology | VP | Mason, OH, USA |  | 0d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=78b501e0-4e35-4bdc-9e48-fa9b4e7f3648&ccId=19000101_000001&jobId=92341&source=IN&lang=en_US) |
 | Fox Corporation | 🆕 Director, Data Engineering (req R50034183) | Director | Los Angeles, California, USA |  | 0d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Director--Data-Engineering_R50034183) |
 | Sony | 🆕 Director, Cyber Defense | Director | Remote - Virginia | $220K–$240K | 0d | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Director--Cyber-Defense_JR-119812) |
 | Parsons | 🆕 Director of Water Innovation | Director | TX, USA | $148K–$267K | 0d | [Apply](https://jobs.parsons.com/jobs/director-of-water-innovation-houston-r-187513-jobs--technical-specialties--) |
@@ -1486,6 +1487,7 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| BSI Engineering | 🆕 Vice President of Technology | VP | Mason, OH, USA |  | 0d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=78b501e0-4e35-4bdc-9e48-fa9b4e7f3648&ccId=19000101_000001&jobId=92341&source=IN&lang=en_US) |
 | Hyperbolic | 🆕 VP of Engineering | VP | San Francisco, CA, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/hyperbolic/c6039f86-4915-4d1d-9e10-ac7c2a484d5c?utm_source=yn2LQV88XK) |
 | Mindful Health Solutions | 🆕 Head of IT | Head | Remote, USA | $210K–$260K | 0d | [Apply](https://ats.rippling.com/mindfulhealthsolutions/jobs/8a91f54b-ee52-4e38-bfd3-5ca54b52cd09?jobSite=Indeed) |
 | Scientific Protein Laboratories | 🆕 Head of Project Engineering | Head | Waunakee, WI, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B87A0A2CC22A6F9981E0CEA932587E3B/jobs/683451?source=Indeed) |
@@ -1735,9 +1737,8 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Applications Development Technology Lead – Vice President | VP | Rutherford, NJ, US |  | 8d | [Apply](https://jobs.citi.com/job/rutherford/applications-development-technology-lead-vice-president/287/102161040016) |
 | Citi (jobs.citi.com) ⭐ | Global Head of Prime Technology | Head | New York, NY, US |  | 8d | [Apply](https://jobs.citi.com/job/new-york/global-head-of-prime-technology/287/102161040096) |
 | Citi (jobs.citi.com) ⭐ | Apps Development Sr Manager - Vice President | VP | Mississauga, ON, CA |  | 8d | [Apply](https://jobs.citi.com/job/mississauga/apps-development-sr-manager-vice-president/287/102161040160) |
-| Citi (jobs.citi.com) ⭐ | Senior Lead Python Engineer - Applications Development Group Manager - Senior Vice President | EVP/SVP | Rutherford, NJ, US |  | 8d | [Apply](https://jobs.citi.com/job/rutherford/senior-lead-python-engineer-applications-development-group-manager-senior-vice-president/287/102161040480) |
 
-_372 older roles in this section are in data/roles.json on the `data` branch._
+_373 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

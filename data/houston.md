@@ -6,8 +6,8 @@
 |---|---|---|---|---|---:|---|
 | Goldman Sachs | 🆕 GBM Private, IB Classic, Natural Resources Coverage, Vice President -New York New York · · Vice[...] | VP | Houston, Texas |  | 1d | [Apply](https://jooble.org/jdp/5622677218720753561) |
 | DASHIELL CORPORATION | 🆕 Senior Director of Program Management | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://dashiell.applicantstack.com/x/detail/a2jsjjnytxx0/aaac) |
-| Revance Therapeutics, Inc. | 🆕 Executive Director, Data & AI | ED | Houston, Texas | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5559836877/e/) |
 | DESRI | 🆕 Director Information Technology | Director | Houston, Texas | $200K–$250K | 2d | [Apply](https://simplify.jobs/p/933539e5-e67b-49bd-99a6-c1ddfe65e3a2/Director-Information-Technology) |
+| Revance Therapeutics, Inc. | 🆕 Executive Director, Data & AI | ED | Houston, Texas | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5559836877/e/) |
 | JLL ⭐ | Head of Cyber Customer Trust & Assurance (REMOTE) | Head | Houston, TX |  | 2d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Head-of-Cyber-Customer-Trust---Assurance_REQ522535) |
 | Capgemini | Technical Director | Director | Houston, Texas | $139K–$226K | 3d | [Apply](https://www.theladders.com/job/technical-director-capgemini-houston-tx_89497841) |
 | FTI Consulting | Digital Forensics, Automation Engineering Director - Houston, Texas, US | Director | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=642903351700559738) |

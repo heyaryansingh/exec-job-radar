@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,438 open roles** at **863 companies** · **126 new in the last 24 hours** · 5,415 company career sites watched · updated hourly · last update Oct 27, 2026 12:57 AM ET
+**2,440 open roles** at **864 companies** · **126 new in the last 24 hours** · 5,418 company career sites watched · updated hourly · last update Oct 27, 2026 01:57 AM ET
 
-By level: Director 1231 · VP 519 · Sr. Director 280 · Head 161 · EVP/SVP 108 · ED 65 · C-level 53 · MD 21
+By level: Director 1232 · VP 520 · Sr. Director 280 · Head 161 · EVP/SVP 108 · ED 65 · C-level 53 · MD 21
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 1231 · VP 519 · Sr. Director 280 · Head 161 · EVP/SVP 108
 - [🤠 Houston area (53)](#houston-area)
 - [👑 Executive Technology Leadership (56)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (160)](#security-risk-technology)
-- [🧠 Data & AI (662)](#data-ai)
+- [🧠 Data & AI (664)](#data-ai)
 - [🚦 Reliability & Operations (160)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (226)](#cloud-infrastructure)
 - [🏛️ Architecture (68)](#architecture)
@@ -47,14 +47,15 @@ By level: Director 1231 · VP 519 · Sr. Director 280 · Head 161 · EVP/SVP 108
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| S&P Global ⭐ | 🆕 Head of Multi-Asset & Wealth Data | Head | New York, NY | $150K–$226K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Head-of-Multi-Asset---Wealth-Data_332333-1) |
-| University of Pennsylvania | 🆕 Executive Director, EVP IT Integrated Services | EVP/SVP | Philadelphia, PA, USA | $170K–$270K | 0d | [Apply](https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/3401-Walnut-Street-BC-Wing---3rd-Floor/Executive-Director--EVP-IT-Integrated-Services_JR00129497) |
-| Ciena | 🆕 Director, Government Relations — National Security and Economic Security Policy | Director | Remote, USA | $152K–$505K | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949) |
-| Charles Schwab | 🆕 Director, Architect Principal - Capacity Planning | Director | Austin, TX, USA | $206K–$249K | 0d | [Apply](https://www.schwabjobs.com/job/austin/director-architect-principal-capacity-planning/33727/102482685520) |
-| Paragon Investing | 🆕 VP of Product Strategy | VP | Remote, USA | $210K–$223K | 0d | [Apply](https://www.indeed.com/viewjob?jk=accd50c81ea2ba92) |
 | Bain & Company | 🆕 Vice President, Enterprise Data Architecture | VP | Houston, TX, USA | $226K–$282K | 0d | [Apply](https://careers.bain.com/jobs/FolderDetail/Vice-President-Enterprise-Data-Architecture/111950) |
+| Charles Schwab | 🆕 Director, Architect Principal - Capacity Planning | Director | Austin, TX, USA | $206K–$249K | 0d | [Apply](https://www.schwabjobs.com/job/austin/director-architect-principal-capacity-planning/33727/102482685520) |
+| Ciena | 🆕 Director, Government Relations — National Security and Economic Security Policy | Director | Remote, USA | $152K–$505K | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949) |
+| Paragon Investing | 🆕 VP of Product Strategy | VP | Remote, USA | $210K–$223K | 0d | [Apply](https://www.indeed.com/viewjob?jk=accd50c81ea2ba92) |
+| University of Pennsylvania | 🆕 Executive Director, EVP IT Integrated Services | EVP/SVP | Philadelphia, PA, USA | $170K–$270K | 0d | [Apply](https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/3401-Walnut-Street-BC-Wing---3rd-Floor/Executive-Director--EVP-IT-Integrated-Services_JR00129497) |
+| S&P Global ⭐ | 🆕 Head of Multi-Asset & Wealth Data | Head | New York, NY | $150K–$226K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Head-of-Multi-Asset---Wealth-Data_332333-1) |
 | GE Aerospace | 🆕 Director, Infrastructure and Platform | Director | Evendale, OH, USA · Remote | $222K | 0d | [Apply](https://careers.geaerospace.com/global/en/job/R5041561/Director-Infrastructure-and-Platform?utm_source=indeed&utm_medium=phenom-feeds) |
 | Scientific Protein Laboratories | 🆕 Head of Project Engineering | Head | Waunakee, WI, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B87A0A2CC22A6F9981E0CEA932587E3B/jobs/683451?source=Indeed) |
+| Oracle | 🆕 Director, Data Center Operations | Director | Ashburn, VA, United States | $146K–$306K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348826) |
 | Valor Hospitality | 🆕 Resort Director of Engineering & Facilites | Director | Cloudland Rising Fawn, GA |  | 1d | [Apply](https://valorhospitality.wd503.myworkdayjobs.com/who-we-are/job/Cloudland-Rising-Fawn-GA/Resort-Director-of-Engineering---Facilites_JR109195) |
 | Valor Hospitality | 🆕 Resort Director of Engineering & Facilites | Director | Rising Fawn, GA, USA |  | 1d | [Apply](https://valorhospitality.wd503.myworkdayjobs.com/who-we-are/job/Cloudland-Rising-Fawn-GA/Resort-Director-of-Engineering---Facilites_JR109195) |
 | Goldman Sachs | 🆕 GBM Private, IB Classic, Natural Resources Coverage, Vice President -New York New York · · Vice[...] | VP | Houston, Texas |  | 1d | [Apply](https://jooble.org/jdp/5622677218720753561) |
@@ -167,7 +168,6 @@ By level: Director 1231 · VP 519 · Sr. Director 280 · Head 161 · EVP/SVP 108
 | Fluence Energy | 🆕 Director, Global Network & Systems Design - NSD | Director | USA-VA-Remote +10 |  | 1d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/fluenceenergy-jobs/job/USA-VA-Remote/Director--Global-Network---Systems-Design---NSD_JR101765) |
 | Corning | 🆕 Photonics Connectivity Solutions Commercial Technology Director, United States | Director | USA | $217K–$298K | 1d | [Apply](https://careers.corning.com/us/en/job/77636/Photonics-Connectivity-Solutions-Commercial-Technology-Director-United-States) |
 | SailPoint Technologies | 🆕 VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | USA · Remote | $215K–$362K | 1d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
-| USAA ⭐ | 🆕 Director, MarTech Data & Platforms - P&C | Director | San Antonio Home Office I +5 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--MarTech-Data---Platforms---P-C_R0121514) |
 | DESRI | 🆕 Director Information Technology | Director | Houston, Texas | $200K–$250K | 2d | [Apply](https://simplify.jobs/p/933539e5-e67b-49bd-99a6-c1ddfe65e3a2/Director-Information-Technology) |
 | Greenbrier & Russel, Inc. | 🆕 Oracle COE Director: Cloud Transformation & Growth; Remote | Director | Remote | $152K–$204K | 2d | [Apply](https://www.learn4good.com/jobs/online_remote/info_technology/5559618154/e/) |
 | RealTruck.com | 🆕 Vice President of AI, Data & Analytics | VP | Ann Arbor, Michigan |  | 2d | [Apply](https://www.talent.com/view?id=643001579491956602) |
@@ -472,8 +472,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| S&P Global ⭐ | 🆕 Head of Multi-Asset & Wealth Data | Head | New York, NY | $150K–$226K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Head-of-Multi-Asset---Wealth-Data_332333-1) |
 | Bain & Company | 🆕 Vice President, Enterprise Data Architecture | VP | Houston, TX, USA | $226K–$282K | 0d | [Apply](https://careers.bain.com/jobs/FolderDetail/Vice-President-Enterprise-Data-Architecture/111950) |
+| S&P Global ⭐ | 🆕 Head of Multi-Asset & Wealth Data | Head | New York, NY | $150K–$226K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Head-of-Multi-Asset---Wealth-Data_332333-1) |
+| Oracle | 🆕 Director, Data Center Operations | Director | Ashburn, VA, United States | $146K–$306K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348826) |
 | ServiceTitan | 🆕 Sr Director, Data Science and Analytics | Sr. Director | US Remote |  | 1d | [Apply](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Director--Data-Science-and-Analytics_JR115740) |
 | Citizens | 🆕 Head of Consumer Banking Data Products | Head | Johnston, RI, USA | $170K–$226K | 1d | [Apply](https://jobs.citizensbank.com/job/johnston/head-of-consumer-banking-data-products/288/102466045632) |
 | Comcast (CC) of Willow Grove | 🆕 Executive Director, Workforce Data Insights & Compliance | ED | Philadelphia, PA, USA |  | 1d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Executive-Director--Workforce-Data-Insights---Compliance_R446656) |
@@ -501,7 +502,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Travelers | 🆕 Director, Data Engineering (Underwriting Analytics) | Director | CT - Hartford +4 |  | 1d | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Director--Data-Engineering--Underwriting-Analytics-_R-52199) |
 | GSK | 🆕 Director Product Management, Digital & Growth AI Tech | Director | Philadelphia, Pennsylvania, United States  |  | 1d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB448761EXTERNALENGB) |
 | Guardian Life | 🆕 Head of Portfolio Architecture, Enterprise Data | Head | New York +2 |  | 1d | [Apply](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/Principal-Enterprise-Architect--Data_R000109948-2) |
-| USAA ⭐ | 🆕 Director, MarTech Data & Platforms - P&C | Director | San Antonio Home Office I +5 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--MarTech-Data---Platforms---P-C_R0121514) |
+| USAA ⭐ | Director, MarTech Data & Platforms - P&C | Director | San Antonio Home Office I +5 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--MarTech-Data---Platforms---P-C_R0121514) |
 | RealTruck.com | 🆕 Vice President of AI, Data & Analytics | VP | Ann Arbor, Michigan |  | 2d | [Apply](https://www.talent.com/view?id=643001579491956602) |
 | Revance Therapeutics, Inc. | 🆕 Executive Director, Data & AI | ED | Houston, Texas | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5559836877/e/) |
 | The Bank of New York Mellon | 🆕 Vice President Analytics Systems Lead | VP | Boston, Massachusetts |  | 2d | [Apply](https://www.learn4good.com/jobs/boston/massachusetts/info_technology/5558912075/e/) |
@@ -721,9 +722,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Lead Gen AI Engineer - Vice President | VP | Pune, MH, IN |  | 8d | [Apply](https://jobs.citi.com/job/pune/lead-gen-ai-engineer-vice-president/287/102161047024) [alt](https://jobs.citi.com/job/pune/lead-gen-ai-engineer-vice-president/287/102161046960) |
 | Citi (jobs.citi.com) ⭐ | Senior Software Engineer, Java and AI Development - Vice President | VP | Mississauga, ON, CA |  | 8d | [Apply](https://jobs.citi.com/job/mississauga/senior-software-engineer-java-and-ai-development-vice-president/287/102161047104) |
 | Citi (jobs.citi.com) ⭐ | VP, Applications Development – Tech Lead (Java, UI, PL-SQL & Agentic AI) | VP | Tampa, FL, US +1 |  | 8d | [Apply](https://jobs.citi.com/job/tampa/vp-applications-development-tech-lead-java-ui-pl-sql-and-agentic-ai/287/102161047328) |
-| Citi (jobs.citi.com) ⭐ | Director, Head of Platforms & Data Services, Services | Head | Chiyoda, 13, JP |  | 8d | [Apply](https://jobs.citi.com/job/chiyoda/director-head-of-platforms-and-data-services-services/287/102161047392) |
 
-_412 older roles in this section are in data/roles.json on the `data` branch._
+_414 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

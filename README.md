@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,456 open roles** at **872 companies** · **141 new in the last 24 hours** · 5,422 company career sites watched · updated hourly · last update Oct 27, 2026 08:39 AM ET
+**2,460 open roles** at **872 companies** · **145 new in the last 24 hours** · 5,422 company career sites watched · updated hourly · last update Oct 27, 2026 09:24 AM ET
 
-By level: Director 1240 · VP 522 · Sr. Director 281 · Head 165 · EVP/SVP 108 · ED 64 · C-level 55 · MD 21
+By level: Director 1243 · VP 522 · Sr. Director 282 · Head 165 · EVP/SVP 108 · ED 64 · C-level 55 · MD 21
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (141)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (145)](#new-in-the-last-24-hours)
 - [🤠 Houston area (54)](#houston-area)
 - [👑 Executive Technology Leadership (58)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (164)](#security-risk-technology)
-- [🧠 Data & AI (669)](#data-ai)
+- [🧠 Data & AI (670)](#data-ai)
 - [🚦 Reliability & Operations (160)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (227)](#cloud-infrastructure)
 - [🏛️ Architecture (68)](#architecture)
 - [🔄 Transformation & Delivery (288)](#transformation-delivery)
-- [🛠️ Engineering & Software (622)](#engineering-software)
+- [🛠️ Engineering & Software (625)](#engineering-software)
 - [📌 Other Senior Roles (200)](#other-senior-roles)
 - [🔒 Recently closed (77)](#recently-closed)
 - Daily digests: [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md)
@@ -47,6 +47,10 @@ By level: Director 1240 · VP 522 · Sr. Director 281 · Head 165 · EVP/SVP 108
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Vertiv | 🆕 Director Engineering Management | Director | Delaware, OH, United States |  | 0d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284874) |
+| Fidelity ⭐ | 🆕 Director, Technology Consultant | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Technology-Consultant_2132917) |
+| Northrop Grumman ⭐ | 🆕 Director Systems Engineering 2 | Director | United States-Arizona-Chandler |  | 0d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Director-Systems-Engineering-2_R10257778) |
+| WEX Inc. | 🆕 Senior Director, Semantic Data Platform | Sr. Director | Remote, Maine, United States of America |  | 0d | [Apply](https://careers.wexinc.com/us/en/job/WEXWEXUSR22790EXTERNALENUS) |
 | Accenture ⭐ | 🆕 Enterprise AI Architecture Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 0d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Enterprise-AI-Architecture-Director_R00365625) |
 | Siemens Healthineers | 🆕 AI/ Digital Health Regulatory Strategy Director, Americas | Director | WAS PA · Remote | $178K–$244K | 0d | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/IJMHRMS/job/WAS-PA/AI--Digital-Health-Regulatory-Strategy-Director--Americas_R-31546) |
 | Visa | 🆕 Director, AI & Automation Solutions Strategy & Operations | Director | US - Austin, TX |  | 0d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Director--AI---Automation-Solutions-Strategy---Operations_REF089508W) |
@@ -494,6 +498,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| WEX Inc. | 🆕 Senior Director, Semantic Data Platform | Sr. Director | Remote, Maine, United States of America |  | 0d | [Apply](https://careers.wexinc.com/us/en/job/WEXWEXUSR22790EXTERNALENUS) |
 | Accenture ⭐ | 🆕 Enterprise AI Architecture Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 0d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Enterprise-AI-Architecture-Director_R00365625) |
 | Siemens Healthineers | 🆕 AI/ Digital Health Regulatory Strategy Director, Americas | Director | WAS PA · Remote | $178K–$244K | 0d | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/IJMHRMS/job/WAS-PA/AI--Digital-Health-Regulatory-Strategy-Director--Americas_R-31546) |
 | Visa | 🆕 Director, AI & Automation Solutions Strategy & Operations | Director | US - Austin, TX |  | 0d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Director--AI---Automation-Solutions-Strategy---Operations_REF089508W) |
@@ -743,9 +748,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Data Quality Tech Lead VP | VP | Chennai, TN, IN |  | 8d | [Apply](https://jobs.citi.com/job/chennai/data-quality-tech-lead-vp/287/102161044320) |
 | Citi (jobs.citi.com) ⭐ | Senior Agentic AI Engineer (VP) | VP | Tampa, FL, US +1 |  | 8d | [Apply](https://jobs.citi.com/job/tampa/senior-agentic-ai-engineer-vp/287/102161044912) |
 | Citi (jobs.citi.com) ⭐ | GenAI Tech Lead- Senior Vice President | EVP/SVP | Tampa, FL, US +1 |  | 8d | [Apply](https://jobs.citi.com/job/tampa/genai-tech-lead-senior-vice-president/287/102161044976) |
-| Citi (jobs.citi.com) ⭐ | Senior Data Platform Engineer - Vice President | VP | Pune, MH, IN |  | 8d | [Apply](https://jobs.citi.com/job/pune/senior-data-platform-engineer-vice-president/287/102161045248) |
 
-_419 older roles in this section are in data/roles.json on the `data` branch._
+_420 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1488,6 +1492,9 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Vertiv | 🆕 Director Engineering Management | Director | Delaware, OH, United States |  | 0d | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284874) |
+| Fidelity ⭐ | 🆕 Director, Technology Consultant | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Technology-Consultant_2132917) |
+| Northrop Grumman ⭐ | 🆕 Director Systems Engineering 2 | Director | United States-Arizona-Chandler |  | 0d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Director-Systems-Engineering-2_R10257778) |
 | BSI Engineering | 🆕 Vice President of Technology | VP | Mason, OH, USA |  | 0d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=78b501e0-4e35-4bdc-9e48-fa9b4e7f3648&ccId=19000101_000001&jobId=92341&source=IN&lang=en_US) |
 | Hyperbolic | 🆕 VP of Engineering | VP | San Francisco, CA, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/hyperbolic/c6039f86-4915-4d1d-9e10-ac7c2a484d5c?utm_source=yn2LQV88XK) |
 | Mindful Health Solutions | 🆕 Head of IT | Head | Remote, USA | $210K–$260K | 0d | [Apply](https://ats.rippling.com/mindfulhealthsolutions/jobs/8a91f54b-ee52-4e38-bfd3-5ca54b52cd09?jobSite=Indeed) |
@@ -1735,11 +1742,8 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Senior Java Technology Lead - Vice President | VP | Pune, MH, IN |  | 8d | [Apply](https://jobs.citi.com/job/pune/senior-java-technology-lead-vice-president/287/102161039600) |
 | Citi (jobs.citi.com) ⭐ | Lead Engineer, Prime Brokerage Technology Vice President | VP | Tampa, FL, US |  | 8d | [Apply](https://jobs.citi.com/job/tampa/lead-engineer-prime-brokerage-technology-vice-president/287/102161039968) |
 | Citi (jobs.citi.com) ⭐ | Applications Development Technology Lead – Vice President | VP | Rutherford, NJ, US |  | 8d | [Apply](https://jobs.citi.com/job/rutherford/applications-development-technology-lead-vice-president/287/102161040016) |
-| Citi (jobs.citi.com) ⭐ | Global Head of Prime Technology | Head | New York, NY, US |  | 8d | [Apply](https://jobs.citi.com/job/new-york/global-head-of-prime-technology/287/102161040096) |
-| Citi (jobs.citi.com) ⭐ | Apps Development Sr Manager - Vice President | VP | Mississauga, ON, CA |  | 8d | [Apply](https://jobs.citi.com/job/mississauga/apps-development-sr-manager-vice-president/287/102161040160) |
-| Citi (jobs.citi.com) ⭐ | Senior Lead Python Engineer - Applications Development Group Manager - Senior Vice President | EVP/SVP | Rutherford, NJ, US |  | 8d | [Apply](https://jobs.citi.com/job/rutherford/senior-lead-python-engineer-applications-development-group-manager-senior-vice-president/287/102161040480) |
 
-_372 older roles in this section are in data/roles.json on the `data` branch._
+_375 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

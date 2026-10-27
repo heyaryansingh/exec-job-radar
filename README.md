@@ -19,18 +19,18 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,452 open roles** at **871 companies** · **139 new in the last 24 hours** · 5,422 company career sites watched · updated hourly · last update Oct 27, 2026 03:48 AM ET
+**2,453 open roles** at **871 companies** · **140 new in the last 24 hours** · 5,422 company career sites watched · updated hourly · last update Oct 27, 2026 04:48 AM ET
 
-By level: Director 1237 · VP 521 · Sr. Director 281 · Head 164 · EVP/SVP 108 · ED 65 · C-level 55 · MD 21
+By level: Director 1237 · VP 521 · Sr. Director 281 · Head 165 · EVP/SVP 108 · ED 65 · C-level 55 · MD 21
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (139)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (140)](#new-in-the-last-24-hours)
 - [🤠 Houston area (53)](#houston-area)
 - [👑 Executive Technology Leadership (58)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (164)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (165)](#security-risk-technology)
 - [🧠 Data & AI (666)](#data-ai)
 - [🚦 Reliability & Operations (160)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (226)](#cloud-infrastructure)
@@ -62,10 +62,11 @@ By level: Director 1237 · VP 521 · Sr. Director 281 · Head 164 · EVP/SVP 108
 | S&P Global ⭐ | 🆕 Head of Multi-Asset & Wealth Data | Head | New York, NY | $150K–$226K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Head-of-Multi-Asset---Wealth-Data_332333-1) |
 | GE Aerospace | 🆕 Director, Infrastructure and Platform | Director | Evendale, OH, USA · Remote | $222K | 0d | [Apply](https://careers.geaerospace.com/global/en/job/R5041561/Director-Infrastructure-and-Platform?utm_source=indeed&utm_medium=phenom-feeds) |
 | Scientific Protein Laboratories | 🆕 Head of Project Engineering | Head | Waunakee, WI, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B87A0A2CC22A6F9981E0CEA932587E3B/jobs/683451?source=Indeed) |
+| Visa | 🆕 Senior Director, Head of Professional Services Delivery   Risk & Security Solutions (RAS) — GTMS | Head | US - Atlanta, GA +1 | $180K–$316K | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Senior-Director--Head-of-Professional-Services-Delivery---Risk---Security-Solutions--RAS----GTMS_REF089768W) |
 | FormFactor, Inc. | 🆕 Director, Systems Field Service | Director | Remote, CA |  | 1d | [Apply](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Remote-CA/Director--Systems-Field-Service_JR101217) |
-| Generac Power Systems | 🆕 SVP/CISO Cyber and Product Security | C-level | Waukesha, WI - USA |  | 1d | [Apply](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/SVP-CISO-Cyber-and-Product-Security_JR17734-1) |
 | FTMAI Fortrea Development | 🆕 Executive Director, Head of Data (req 266353) | ED | Durham |  | 1d | [Apply](https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/Executive-Director--Head-of-Data_266353) |
 | GEICO | 🆕 Head of Workday Operations, Data & Analytics and Payroll | Head | New York City, NY |  | 1d | [Apply](https://geico.wd1.myworkdayjobs.com/External/job/New-York-City-NY/Head-of-Workday-Operations--Data---Analytics-and-Payroll_R0065958) |
+| Generac Power Systems | 🆕 SVP/CISO Cyber and Product Security | C-level | Waukesha, WI - USA |  | 1d | [Apply](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/SVP-CISO-Cyber-and-Product-Security_JR17734-1) |
 | Jackson Lewis | 🆕 Sr. Director of Security & Information Governance | Sr. Director | US - NY - New York City +5 |  | 1d | [Apply](https://jacksonlewis.wd1.myworkdayjobs.com/JacksonLewisBusinessandLegalProfessionalsCareers/job/US---NY---New-York-City/Sr-Director-of-Security---Information-Governance_R804-2026) |
 | Oracle | 🆕 Director, Data Center Operations | Director | Ashburn, VA, United States | $146K–$306K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348826) |
 | Valor Hospitality | 🆕 Resort Director of Engineering & Facilites | Director | Cloudland Rising Fawn, GA |  | 1d | [Apply](https://valorhospitality.wd503.myworkdayjobs.com/who-we-are/job/Cloudland-Rising-Fawn-GA/Resort-Director-of-Engineering---Facilites_JR109195) |
@@ -145,7 +146,6 @@ By level: Director 1237 · VP 521 · Sr. Director 281 · Head 164 · EVP/SVP 108
 | LendingClub | 🆕 People Success Director (HRBP) - Technology | Director | San Francisco, CA |  | 1d | [Apply](https://lendingclub.wd1.myworkdayjobs.com/External/job/San-Francisco-CA/People-Success-Director--HRBP----Technology_R0007459) |
 | Huntington Bank | 🆕 Application Security Director | Director | Easton, OH, USA · Remote |  | 1d | [Apply](https://huntington.wd12.myworkdayjobs.com/en-US/HNBcareers/job/Easton-Ops-Cols-C-Oh/Application-Security-Director_R0076286) |
 | Intelisys | 🆕 Intelisys: Sr. Cloud Marketplace Director | Director | Greenville, SC, USA |  | 1d | [Apply](https://recruiting.ultipro.com/SCA1004SCSO/JobBoard/220bcab6-cf46-46e3-8fd5-181b273b0628/OpportunityDetail?opportunityId=25fbda7e-335a-4f53-b24a-871d32180d20&postingId=8ecd0aca-9ec3-40fe-a2ff-524ae4ad2458) |
-| Kofile Technologies | 🆕 Director of Digital Operations | Director | Dallas, TX, USA |  | 1d | [Apply](https://jobs.smartrecruiters.com/KofileInc/744000157848019-director-of-digital-operations-) |
 | Liberty Mutual Insurance | 🆕 Director, Data Science Rollout AI | Director | Remote, USA | $156K–$281K | 1d | [Apply](https://searchjobs.libertymutualgroup.com/careers/job/618520285884?microsite=libertymutual.com&domain=libertymutual.com) |
 | Hilton ⭐ | 🆕 Director of Property Operations and Engineering - Hilton West Palm Beach | Director | West Palm Beach, FL, United States |  | 1d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228688) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Director of Engineering Trade & Working Capital Solutions | Director | Pune, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/pune/director-of-engineering-trade-and-working-capital-solutions/287/102466893328) |
@@ -153,6 +153,7 @@ By level: Director 1237 · VP 521 · Sr. Director 281 · Head 164 · EVP/SVP 108
 | Citi (jobs.citi.com) ⭐ | 🆕 Head of Controls – CTO & Technology Infrastructure | C-level | New York, NY, US +2 |  | 1d | [Apply](https://jobs.citi.com/job/new-york/head-of-controls-cto-and-technology-infrastructure/287/102466900880) |
 | Johnson Controls | 🆕 VP & Managing Director, Global Data Center Solutions [Remote] | MD | Milwaukee-Wisconsin-United States of Ameri | $253K–$396K | 1d | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/VP---Managing-Director--Global-Data-Center-Solutions--Remote-_EB000753129) |
 | Salesforce ⭐ | 🆕 Senior Director - Data Platform | Sr. Director | Washington - Seattle +1 | $263K–$401K | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Senior-Director---Data-Platform_JR365778) |
+| Kofile Technologies | 🆕 Director of Digital Operations | Director | Dallas, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/KofileInc/744000157849068-director-of-digital-operations-) ⚡ [alt](https://jobs.smartrecruiters.com/KofileInc/744000157848019-director-of-digital-operations-) |
 | Lilt- Lega Italiana per la Lotta contro i Tumori | 🆕 Head of Technical Program Management, Applied AI | Head | USA +3 · Remote | $191K–$250K | 1d | [Apply](https://jobs.ashbyhq.com/lilt-corporate/1709d6d3-e232-4457-9774-b1c4016e7e3d) ⚡ |
 | Wayve | 🆕 Director, AV Product Engineering | Director | Sunnyvale, California USA | $348K–$403K | 1d | [Apply](https://jobs.ashbyhq.com/wayve/6cbb86ef-0834-489d-91c7-e1252e0caa99) ⚡ |
 | BNY ⭐ | 🆕 Senior Vice President, Full-Stack Engineer | EVP/SVP | Lake Mary, FL, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77306) |
@@ -323,6 +324,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Sony | 🆕 Director, Cyber Defense | Director | Remote - Virginia | $220K–$240K | 0d | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Director--Cyber-Defense_JR-119812) |
 | Sony | 🆕 Director, Cyber Defense | Director | VA, USA | $220K–$240K | 0d | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Virginia/Director--Cyber-Defense_JR-119812) |
 | Ciena | 🆕 Director, Government Relations — National Security and Economic Security Policy | Director | Remote, USA | $152K–$505K | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949) |
+| Visa | 🆕 Senior Director, Head of Professional Services Delivery   Risk & Security Solutions (RAS) — GTMS | Head | US - Atlanta, GA +1 | $180K–$316K | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Senior-Director--Head-of-Professional-Services-Delivery---Risk---Security-Solutions--RAS----GTMS_REF089768W) |
 | Jackson Lewis | 🆕 Sr. Director of Security & Information Governance | Sr. Director | US - NY - New York City +5 |  | 1d | [Apply](https://jacksonlewis.wd1.myworkdayjobs.com/JacksonLewisBusinessandLegalProfessionalsCareers/job/US---NY---New-York-City/Sr-Director-of-Security---Information-Governance_R804-2026) |
 | Copado | 🆕 Director, Product Security | Director | Chicago, IL, USA | $200K–$240K | 1d | [Apply](https://ats.rippling.com/copado/jobs/c9cb7914-c4e8-4806-902f-aad6f5d6024b?jobSite=Indeed) |
 | Mdlz | 🆕 Sr Director, Global Security | Sr. Director | Global Headquarters – Chicago, USA | $174K–$287K | 1d | [Apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Global-Headquarters--Chicago-USA/Sr-Director--Global-Security_R-161379) |
@@ -756,8 +758,8 @@ _416 older roles in this section are in data/roles.json on the `data` branch._
 | Ellwood Group, Inc. | 🆕 Sr Director of IT Infrastructure and Support | Sr. Director | New Castle, PA, USA |  | 1d | [Apply](https://recruiting.ultipro.com/ELL1002/JobBoard/c52df457-6e46-132d-e53c-62fad57cb087/OpportunityDetail?opportunityId=ecb59bae-f28a-4651-b1a6-5af2e29f8b27&postingId=5e0595e0-5808-4434-ba77-af9925b7bc89) |
 | Danaher ⭐ | 🆕 Director, Technical Operations & Asset Reliability | Director | Muskegon, Michigan, United States |  | 1d | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Muskegon-Michigan-United-States/Director--Technical-Operations---Asset-Reliability_R1318682) |
 | Red Cell Partners | 🆕 Director, Production and Infrastructure Engineering | Director | Seattle, WA (Preferred) or Remote (USA) |  | 1d | [Apply](https://job-boards.greenhouse.io/redcellpartners/jobs/5271180007) ⚡ |
-| Kofile Technologies | 🆕 Director of Digital Operations | Director | Dallas, TX, USA |  | 1d | [Apply](https://jobs.smartrecruiters.com/KofileInc/744000157848019-director-of-digital-operations-) |
 | Hilton ⭐ | 🆕 Director of Property Operations and Engineering - Hilton West Palm Beach | Director | West Palm Beach, FL, United States |  | 1d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228688) |
+| Kofile Technologies | 🆕 Director of Digital Operations | Director | Dallas, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/KofileInc/744000157849068-director-of-digital-operations-) ⚡ [alt](https://jobs.smartrecruiters.com/KofileInc/744000157848019-director-of-digital-operations-) |
 | Fenix Marine Services, LTD | Director IT Operations | Director | San Pedro, CA, USA | $180K–$230K | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4608801/Fenix-Marine-Services-LTD/Director-IT-Operations?source=Indeed_Feed) |
 | Coca-Cola ⭐ | Technical Operations Senior Director | Sr. Director | US - GA - Atlanta |  | 4d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Technical-Operations-Senior-Director_R-148122) |
 | Fox Corporation | Director, Technology Business Operations (req R50034173) | Director | Los Angeles, California, USA +1 |  | 4d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Director--Technology-Business-Operations_R50034173) |

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,627 open roles** at **926 companies** · **183 new in the last 24 hours** · 5,458 company career sites watched · updated hourly · last update Oct 28, 2026 05:00 AM ET
+**2,628 open roles** at **927 companies** · **183 new in the last 24 hours** · 5,458 company career sites watched · updated hourly · last update Oct 28, 2026 05:51 AM ET
 
-By level: Director 1330 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
+By level: Director 1330 · VP 568 · Sr. Director 306 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 1330 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 - [🤠 Houston area (63)](#houston-area)
 - [👑 Executive Technology Leadership (60)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (171)](#security-risk-technology)
-- [🧠 Data & AI (709)](#data-ai)
+- [🧠 Data & AI (710)](#data-ai)
 - [🚦 Reliability & Operations (176)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (244)](#cloud-infrastructure)
 - [🏛️ Architecture (72)](#architecture)
@@ -47,6 +47,7 @@ By level: Director 1330 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Mayo Clinic | 🆕 Senior Director - AI | Sr. Director | Rochester, MN, USA | $248K–$372K | 0d | [Apply](https://jobs.mayoclinic.org/job/rochester/senior-director-ai/33647/102535081472) |
 | Diamond Foundry | 🆕 Application Engineering Director | Director | Bay Area, California | $180K–$270K | 0d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
 | Diamond Foundry | 🆕 Application Engineering Director | Director | San Francisco Bay Area, CA, USA | $180K–$270K | 0d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d?lever-source=Indeed) |
 | Legal Management Group | 🆕 Director of Technology & Artificial Intelligence | Director | Los Angeles, CA, USA |  | 0d | [Apply](https://legal-management-group.careers-page.com/jobs/1f746d09-abbb-4afe-8b50-ad6f034e9621?utm_medium=free_job_board&utm_source=indeed) |
@@ -229,7 +230,6 @@ By level: Director 1330 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 | ServiceNow ⭐ | 🆕 Director, Product Management, Security and Risk Partnerships (req 744000157899260) | Director | Kirkland, Washington, us · Remote | $221K–$387K | 2d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157899260-director-product-management-security-and-risk-partnerships) ⚡ |
 | ServiceNow ⭐ | 🆕 Director of M&A Integration | Director | Santa Clara, California, us | $220K–$343K | 2d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157798849-director-of-m-a-integration-) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 Technical Delivery Lead – Equities Acceleration - Sr. Vice President | VP | Tampa, FL, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/tampa/technical-delivery-lead-equities-acceleration-sr-vice-president/287/102480793712) |
-| Align Technology | 🆕 Vice President, Platform Engineering | VP | San Jose, CA, USA | $297K–$409K | 2d | [Apply](https://jobs.aligntech.com/postings/14d29eb2-d36a-4ef6-8383-329d603d83ae?utm_medium=job_board&utm_source=indeed) |
 
 <a name="houston-area"></a>
 
@@ -554,6 +554,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Mayo Clinic | 🆕 Senior Director - AI | Sr. Director | Rochester, MN, USA | $248K–$372K | 0d | [Apply](https://jobs.mayoclinic.org/job/rochester/senior-director-ai/33647/102535081472) |
 | Legal Management Group | 🆕 Director of Technology & Artificial Intelligence | Director | Los Angeles, CA, USA |  | 0d | [Apply](https://legal-management-group.careers-page.com/jobs/1f746d09-abbb-4afe-8b50-ad6f034e9621?utm_medium=free_job_board&utm_source=indeed) |
 | Information Technology Senior Management Forum | 🆕 Enterprise AI Architecture Director | Director | Chicago, IL, USA | $123K–$338K | 0d | [Apply](https://jobs.itsmfleaders.org/job/6r4qdf/enterprise-ai-architecture-director/chicago/il) |
 | Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161296) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161296) |
@@ -803,9 +804,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | USAA ⭐ | Director, Data Scientist | Director | Plano Legacy +3 | $189K–$362K | 8d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Director--Data-Scientist_R0121670) |
 | Cresset | DIRECTOR, HEAD OF AI ENGINEERING & AUTOMATION | Head | Atlanta, GA, USA | $175K–$200K | 8d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/67EEDFE4A70A8BA58D64627B3658C677/jobs/366904?source=Indeed) |
 | HealthVerity | VP, Data Operations | VP | Philadelphia, PA |  | 8d | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5458350008) ⚡ |
-| Oscar Health | Director, Analytics Engineering | Director | New York, New York, United States | $199K–$261K | 8d | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8301400) ⚡ |
 
-_459 older roles in this section are in data/roles.json on the `data` branch._
+_460 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1014,7 +1014,7 @@ _459 older roles in this section are in data/roles.json on the `data` branch._
 | Rafay | 🆕 Director, Technical Program Management (Infrastructure/Kubernetes) | Director | Fort Worth, Texas |  | 2d | [Apply](https://www.talent.com/view?id=643141896368164131) |
 | Rafay | 🆕 Director, Technical Program Management (Infrastructure/Kubernetes) | Director |  |  | 2d | [Apply](https://www.talent.com/view?id=643140825136758941) [alt](https://www.talent.com/view?id=643142695176771450) |
 | Rafay | 🆕 Director, Technical Program Management (Infrastructure/Kubernetes) | Director | Oakland, California |  | 2d | [Apply](https://www.talent.com/view?id=643146466970707664) |
-| Align Technology | 🆕 Vice President, Platform Engineering | VP | San Jose, CA, USA | $297K–$409K | 2d | [Apply](https://jobs.aligntech.com/postings/14d29eb2-d36a-4ef6-8383-329d603d83ae?utm_medium=job_board&utm_source=indeed) |
+| Align Technology | Vice President, Platform Engineering | VP | San Jose, CA, USA | $297K–$409K | 2d | [Apply](https://jobs.aligntech.com/postings/14d29eb2-d36a-4ef6-8383-329d603d83ae?utm_medium=job_board&utm_source=indeed) |
 | American Association of Insurance Services | Director, Cloud Engineering DevSecOps | Director | USA · Remote | $185K–$250K | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4614473/American-Association-of-Insurance-Services/Director-Cloud-Engineering-DevSecOps?source=Indeed_Feed) |
 | Barings | Infrastructure Client Portfolio Manager, Senior Director | Sr. Director | New York, NY, United States |  | 2d | [Apply](https://barings.wd1.myworkdayjobs.com/Barings/job/New-York-NY-United-States/Infrastructure-Client-Portfolio-Manager--Senior-Director_JR_006738) [alt](https://barings.wd1.myworkdayjobs.com/en-US/Barings/job/New-York-NY-United-States/Infrastructure-Client-Portfolio-Manager--Senior-Director_JR_006738) |
 | Align Technology | Vice President, Platform Engineering | VP | Morrisville, NC, USA |  | 2d | [Apply](https://jobs.aligntech.com/postings/ea717b50-1197-4d51-90e3-5a757cd7e783?utm_medium=job_board&utm_source=indeed) |

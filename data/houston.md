@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-67 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+68 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| TransGrid Energy | 🆕 Director, Investments | Director | Houston, TX, USA | $180K–$210K | 0d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9?utm_source=MqX9elXXvV) |
 | ASM | 🆕 Assistant Director of Safety & Security | Director | Houston, TX |  | 0d | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Assistant-Director-of-Safety---Security_R100126312) |
 | FISK ELECTRIC | 🆕 Senior Vice President of Operations | EVP/SVP | Houston, TX, USA |  | 0d | [Apply](https://tutorperini.wd12.myworkdayjobs.com/external/job/Houston-TX-/Senior-Vice-President-of-Operations_JR103291) |
 | Environmental Resources Management | 🆕 Technical Consulting Director, Cultural Heritage | Director | Houston, Texas +5 |  | 0d | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Houston-Texas/Technical-Consulting-Director--Cultural-Heritage_R00031190-1) |

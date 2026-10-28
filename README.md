@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,627 open roles** at **926 companies** · **184 new in the last 24 hours** · 5,458 company career sites watched · updated hourly · last update Oct 28, 2026 04:00 AM ET
+**2,627 open roles** at **926 companies** · **183 new in the last 24 hours** · 5,458 company career sites watched · updated hourly · last update Oct 28, 2026 05:00 AM ET
 
 By level: Director 1330 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1330 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 
 ## Contents
 
-- [🆕 New in the last 24 hours (184)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (183)](#new-in-the-last-24-hours)
 - [🤠 Houston area (63)](#houston-area)
 - [👑 Executive Technology Leadership (60)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (171)](#security-risk-technology)
@@ -230,7 +230,6 @@ By level: Director 1330 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 | ServiceNow ⭐ | 🆕 Director of M&A Integration | Director | Santa Clara, California, us | $220K–$343K | 2d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157798849-director-of-m-a-integration-) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 Technical Delivery Lead – Equities Acceleration - Sr. Vice President | VP | Tampa, FL, US +1 |  | 2d | [Apply](https://jobs.citi.com/job/tampa/technical-delivery-lead-equities-acceleration-sr-vice-president/287/102480793712) |
 | Align Technology | 🆕 Vice President, Platform Engineering | VP | San Jose, CA, USA | $297K–$409K | 2d | [Apply](https://jobs.aligntech.com/postings/14d29eb2-d36a-4ef6-8383-329d603d83ae?utm_medium=job_board&utm_source=indeed) |
-| Visa | 🆕 Senior Director, Head of Professional Services Delivery   Risk & Security Solutions (RAS) — GTMS | Head | US - Atlanta, GA +1 | $180K–$316K | 2d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Senior-Director--Head-of-Professional-Services-Delivery---Risk---Security-Solutions--RAS----GTMS_REF089768W) |
 
 <a name="houston-area"></a>
 
@@ -389,7 +388,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Sony | Director, Cyber Defense | Director | VA, USA | $220K–$240K | 1d | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Virginia/Director--Cyber-Defense_JR-119812) |
 | Ciena | Director, Government Relations — National Security and Economic Security Policy | Director | Remote, USA | $152K–$505K | 1d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Remote-US/Director--Government-Relations---National-Security-and-Economic-Security-Policy_R031949) |
 | ServiceNow ⭐ | 🆕 Director, Product Management, Security and Risk Partnerships (req 744000157899260) | Director | Kirkland, Washington, us · Remote | $221K–$387K | 2d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157899260-director-product-management-security-and-risk-partnerships) ⚡ |
-| Visa | 🆕 Senior Director, Head of Professional Services Delivery   Risk & Security Solutions (RAS) — GTMS | Head | US - Atlanta, GA +1 | $180K–$316K | 2d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Senior-Director--Head-of-Professional-Services-Delivery---Risk---Security-Solutions--RAS----GTMS_REF089768W) |
+| Visa | Senior Director, Head of Professional Services Delivery   Risk & Security Solutions (RAS) — GTMS | Head | US - Atlanta, GA +1 | $180K–$316K | 2d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Senior-Director--Head-of-Professional-Services-Delivery---Risk---Security-Solutions--RAS----GTMS_REF089768W) |
 | Jackson Lewis | Sr. Director of Security & Information Governance | Sr. Director | US - NY - New York City +5 |  | 2d | [Apply](https://jacksonlewis.wd1.myworkdayjobs.com/JacksonLewisBusinessandLegalProfessionalsCareers/job/US---NY---New-York-City/Sr-Director-of-Security---Information-Governance_R804-2026) |
 | Copado | Director, Product Security | Director | Chicago, IL, USA | $200K–$240K | 2d | [Apply](https://ats.rippling.com/copado/jobs/c9cb7914-c4e8-4806-902f-aad6f5d6024b?jobSite=Indeed) |
 | Mdlz | Sr Director, Global Security | Sr. Director | Global Headquarters – Chicago, USA | $174K–$287K | 2d | [Apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Global-Headquarters--Chicago-USA/Sr-Director--Global-Security_R-161379) |

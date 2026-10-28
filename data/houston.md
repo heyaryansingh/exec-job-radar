@@ -9,10 +9,10 @@
 | HDR | 🆕 Regional Engineering Director - Education/Science/Health | Director | Houston, TX, USA |  | 1d | [Apply](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197375&tz=GMT-05%3A00&tzname=America%2FChicago) |
 | Accenture ⭐ | 🆕 Enterprise AI Architecture Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 1d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Enterprise-AI-Architecture-Director_R00365625) |
 | Bain & Company | 🆕 Vice President, Enterprise Data Architecture | VP | Houston, TX, USA | $226K–$282K | 1d | [Apply](https://careers.bain.com/jobs/FolderDetail/Vice-President-Enterprise-Data-Architecture/111950) |
-| Management Controls | 🆕 CTO — AI-Driven Tech Strategy & Product Leadership | C-level | Houston, Texas |  | 2d | [Apply](https://jobmesh.io/job/23538e63-2b4c-4954-8fbd-5f3d080a84db) |
 | Baylor Scott & White Health | 🆕 Executive Director, Data Science & AI Strategy | ED | Houston, Texas | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5560197091/e/) |
-| Napster Corp. | 🆕 VP, Technology Partnerships & Partner Engineering | VP | Houston, Texas |  | 2d | [Apply](https://jobmesh.io/job/1a6cb2c0-edd1-43c3-8092-07ff1c55b07c) |
 | kadence | 🆕 VP Engineering, AI Agents | VP | Houston, Texas |  | 2d | [Apply](https://jobmesh.io/job/33ac9db0-d074-4638-ab56-be6d4e1c87db) |
+| Management Controls | 🆕 CTO — AI-Driven Tech Strategy & Product Leadership | C-level | Houston, Texas |  | 2d | [Apply](https://jobmesh.io/job/23538e63-2b4c-4954-8fbd-5f3d080a84db) |
+| Napster Corp. | 🆕 VP, Technology Partnerships & Partner Engineering | VP | Houston, Texas |  | 2d | [Apply](https://jobmesh.io/job/1a6cb2c0-edd1-43c3-8092-07ff1c55b07c) |
 | Goldman Sachs | GBM Private, IB Classic, Natural Resources Coverage, Vice President -New York New York · · Vice[...] | VP | Houston, Texas |  | 2d | [Apply](https://jooble.org/jdp/5622677218720753561) |
 | DASHIELL CORPORATION | Senior Director of Program Management | Sr. Director | Houston, TX, USA |  | 2d | [Apply](https://dashiell.applicantstack.com/x/detail/a2jsjjnytxx0/aaac) |
 | DESRI | Director Information Technology | Director | Houston, Texas | $200K–$250K | 3d | [Apply](https://simplify.jobs/p/933539e5-e67b-49bd-99a6-c1ddfe65e3a2/Director-Information-Technology) |

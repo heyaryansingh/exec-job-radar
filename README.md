@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,628 open roles** at **927 companies** · **183 new in the last 24 hours** · 5,458 company career sites watched · updated hourly · last update Oct 28, 2026 05:51 AM ET
+**2,630 open roles** at **928 companies** · **184 new in the last 24 hours** · 5,460 company career sites watched · updated hourly · last update Oct 28, 2026 06:00 AM ET
 
-By level: Director 1330 · VP 568 · Sr. Director 306 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
+By level: Director 1332 · VP 568 · Sr. Director 306 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (183)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (184)](#new-in-the-last-24-hours)
 - [🤠 Houston area (63)](#houston-area)
 - [👑 Executive Technology Leadership (60)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (171)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (172)](#security-risk-technology)
 - [🧠 Data & AI (710)](#data-ai)
 - [🚦 Reliability & Operations (176)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (244)](#cloud-infrastructure)
 - [🏛️ Architecture (72)](#architecture)
 - [🔄 Transformation & Delivery (310)](#transformation-delivery)
-- [🛠️ Engineering & Software (682)](#engineering-software)
+- [🛠️ Engineering & Software (683)](#engineering-software)
 - [📌 Other Senior Roles (203)](#other-senior-roles)
 - [🔒 Recently closed (89)](#recently-closed)
 - Daily digests: [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md)
@@ -47,6 +47,7 @@ By level: Director 1330 · VP 568 · Sr. Director 306 · Head 165 · EVP/SVP 114
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Opensity solutions | 🆕 Director, Technical Engineering | Director | USA-Chicago-IL · Remote |  | 0d | [Apply](https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1) |
 | Mayo Clinic | 🆕 Senior Director - AI | Sr. Director | Rochester, MN, USA | $248K–$372K | 0d | [Apply](https://jobs.mayoclinic.org/job/rochester/senior-director-ai/33647/102535081472) |
 | Diamond Foundry | 🆕 Application Engineering Director | Director | Bay Area, California | $180K–$270K | 0d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
 | Diamond Foundry | 🆕 Application Engineering Director | Director | San Francisco Bay Area, CA, USA | $180K–$270K | 0d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d?lever-source=Indeed) |
@@ -489,6 +490,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Salesforce ⭐ | Security Practices Director | Director | California - Remote +13 | $206K–$298K | 13d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Security-Practices-Director_JR364335) |
 | ServiceNow ⭐ | Director, Product Management, Security and Risk Partnerships (req 744000155831265) | Director | Santa Clara, California, us · Remote | $221K–$387K | 13d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155831265-director-product-management-security-and-risk-partnerships) ⚡ |
 | ServiceNow ⭐ | Director of Expert Services, Security and Risk | Director | Dallas , Texas, us · Remote |  | 13d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000155862349-director-of-expert-services-security-and-risk) ⚡ |
+| Opensity solutions | Director, Information Security | Director | USA-Remote |  | 14d | [Apply](https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Remote/Director--Information-Security_R-02504) |
 | Ankura | Cyber Security Architect, Director | Director | Washington DC +18 |  | 14d | [Apply](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/Cyber-Security-Architect--Director_R105109) |
 | Collibra | Director of Security Assurance & Trust | Director | Raleigh, North Carolina, USA |  | 14d | [Apply](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8281095) ⚡ |
 | Cribl | Director, Product Management (Security) | Director | Remote - United States | $275K–$310K | 14d | [Apply](https://cribl.io/job-detail/?gh_jid=6223331004) ⚡ |
@@ -1585,6 +1587,7 @@ _60 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Opensity solutions | 🆕 Director, Technical Engineering | Director | USA-Chicago-IL · Remote |  | 0d | [Apply](https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1) |
 | Diamond Foundry | 🆕 Application Engineering Director | Director | Bay Area, California | $180K–$270K | 0d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
 | Diamond Foundry | 🆕 Application Engineering Director | Director | San Francisco Bay Area, CA, USA | $180K–$270K | 0d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d?lever-source=Indeed) |
 | GE Aerospace | 🆕 Senior Director, Technical Product Management | Sr. Director | Grand Rapids, MI, USA · Remote | $176K–$270K | 0d | [Apply](https://careers.geaerospace.com/global/en/job/R5041692/Senior-Director-Technical-Product-Management?utm_source=indeed&utm_medium=phenom-feeds) |
@@ -1834,9 +1837,8 @@ _60 older roles in this section are in data/roles.json on the `data` branch._
 | Nexstar Media Group, Inc. | Director of Engineering | Director | UT, Salt Lake City |  | 8d | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/UT-Salt-Lake-City/Director-of-Engineering_REQ-43400) |
 | Western Digital | Director Firmware Engineering | Director | San Jose, CA, us |  | 8d | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000156598550-director-firmware-engineering) ⚡ |
 | Hadrian Automation | Director of Engineering, Forward Deployed Engineering | Director | San Francisco Bay Area, CA | $300K–$415K | 8d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/1153f8c7-57ca-49bc-b4ea-b1262aebf255) ⚡ |
-| Hadrian Automation | Sr. Director, Forward Deployed Engineering | Sr. Director | San Francisco Bay Area, CA | $300K–$415K | 8d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/64b210f6-83f4-42d6-ba48-98df7c0cdf8c) ⚡ [alt](https://jobs.ashbyhq.com/hadrian-automation/64b210f6-83f4-42d6-ba48-98df7c0cdf8c?utm_source=6ErGOvWZOA) |
 
-_432 older roles in this section are in data/roles.json on the `data` branch._
+_433 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

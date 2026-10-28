@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,621 open roles** at **923 companies** · **193 new in the last 24 hours** · 5,451 company career sites watched · updated hourly · last update Oct 28, 2026 01:11 AM ET
+**2,621 open roles** at **923 companies** · **192 new in the last 24 hours** · 5,455 company career sites watched · updated hourly · last update Oct 28, 2026 02:11 AM ET
 
 By level: Director 1324 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
 
@@ -27,7 +27,7 @@ By level: Director 1324 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 
 ## Contents
 
-- [🆕 New in the last 24 hours (193)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (192)](#new-in-the-last-24-hours)
 - [🤠 Houston area (63)](#houston-area)
 - [👑 Executive Technology Leadership (60)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (171)](#security-risk-technology)
@@ -47,8 +47,8 @@ By level: Director 1324 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Information Technology Senior Management Forum | 🆕 Enterprise AI Architecture Director | Director | Chicago, IL, USA | $123K–$338K | 0d | [Apply](https://jobs.itsmfleaders.org/job/6r4qdf/enterprise-ai-architecture-director/chicago/il) |
 | Allegacy Federal Credit Union | 🆕 VP Digital Operations | VP | Winston-Salem, NC, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619325/Allegacy-Financial/VP-Digital-Operations?source=Indeed_Feed) |
+| Information Technology Senior Management Forum | 🆕 Enterprise AI Architecture Director | Director | Chicago, IL, USA | $123K–$338K | 0d | [Apply](https://jobs.itsmfleaders.org/job/6r4qdf/enterprise-ai-architecture-director/chicago/il) |
 | Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161296) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161296) |
 | Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161298) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161298) |
 | Wells Fargo ⭐ | 🆕 Artificial Intelligence Solutions Director | Director | CHARLOTTE, NC +2 |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Artificial-Intelligence-Solutions-Director_R-583960) |
@@ -238,7 +238,6 @@ By level: Director 1324 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 | GEICO | 🆕 Head of Workday Operations, Data & Analytics and Payroll | Head | New York City, NY |  | 2d | [Apply](https://geico.wd1.myworkdayjobs.com/External/job/New-York-City-NY/Head-of-Workday-Operations--Data---Analytics-and-Payroll_R0065958) |
 | Generac Power Systems | 🆕 SVP/CISO Cyber and Product Security | C-level | Waukesha, WI - USA |  | 2d | [Apply](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/SVP-CISO-Cyber-and-Product-Security_JR17734-1) |
 | Jackson Lewis | 🆕 Sr. Director of Security & Information Governance | Sr. Director | US - NY - New York City +5 |  | 2d | [Apply](https://jacksonlewis.wd1.myworkdayjobs.com/JacksonLewisBusinessandLegalProfessionalsCareers/job/US---NY---New-York-City/Sr-Director-of-Security---Information-Governance_R804-2026) |
-| Oracle | 🆕 Director, Data Center Operations | Director | Ashburn, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348826) |
 | Altera | 🆕 Head of Cyber Resilience | Head | San Jose, California, United States | $187K–$271K | 3d | [Apply](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Head-of-Cyber-Resilience_R03355) |
 
 <a name="houston-area"></a>
@@ -614,7 +613,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | kadence | 🆕 VP Engineering, AI Agents | VP | Houston, Texas |  | 2d | [Apply](https://jobmesh.io/job/33ac9db0-d074-4638-ab56-be6d4e1c87db) |
 | FTMAI Fortrea Development | 🆕 Executive Director, Head of Data (req 266353) | ED | Durham |  | 2d | [Apply](https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/Executive-Director--Head-of-Data_266353) |
 | GEICO | 🆕 Head of Workday Operations, Data & Analytics and Payroll | Head | New York City, NY |  | 2d | [Apply](https://geico.wd1.myworkdayjobs.com/External/job/New-York-City-NY/Head-of-Workday-Operations--Data---Analytics-and-Payroll_R0065958) |
-| Oracle | 🆕 Director, Data Center Operations | Director | Ashburn, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348826) |
+| Oracle | Director, Data Center Operations | Director | Ashburn, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348826) |
 | ServiceTitan | Sr Director, Data Science and Analytics | Sr. Director | US Remote |  | 2d | [Apply](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Director--Data-Science-and-Analytics_JR115740) |
 | Citizens | Head of Consumer Banking Data Products | Head | Johnston, RI, USA | $170K–$226K | 2d | [Apply](https://jobs.citizensbank.com/job/johnston/head-of-consumer-banking-data-products/288/102466045632) |
 | Comcast (CC) of Willow Grove | Executive Director, Workforce Data Insights & Compliance | ED | Philadelphia, PA, USA |  | 2d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Executive-Director--Workforce-Data-Insights---Compliance_R446656) |

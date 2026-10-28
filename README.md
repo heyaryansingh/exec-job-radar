@@ -19,27 +19,27 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,618 open roles** at **922 companies** · **194 new in the last 24 hours** · 5,451 company career sites watched · updated hourly · last update Oct 27, 2026 11:10 PM ET
+**2,619 open roles** at **922 companies** · **197 new in the last 24 hours** · 5,451 company career sites watched · updated hourly · last update Oct 28, 2026 12:10 AM ET
 
-By level: Director 1321 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
+By level: Director 1323 · VP 567 · Sr. Director 305 · Head 165 · EVP/SVP 114 · ED 68 · C-level 57 · MD 20
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (194)](#new-in-the-last-24-hours)
-- [🤠 Houston area (61)](#houston-area)
+- [🆕 New in the last 24 hours (197)](#new-in-the-last-24-hours)
+- [🤠 Houston area (63)](#houston-area)
 - [👑 Executive Technology Leadership (60)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (172)](#security-risk-technology)
-- [🧠 Data & AI (704)](#data-ai)
+- [🛡️ Security & Risk Technology (171)](#security-risk-technology)
+- [🧠 Data & AI (707)](#data-ai)
 - [🚦 Reliability & Operations (173)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (244)](#cloud-infrastructure)
-- [🏛️ Architecture (73)](#architecture)
+- [🏛️ Architecture (72)](#architecture)
 - [🔄 Transformation & Delivery (310)](#transformation-delivery)
 - [🛠️ Engineering & Software (679)](#engineering-software)
 - [📌 Other Senior Roles (203)](#other-senior-roles)
-- [🔒 Recently closed (87)](#recently-closed)
-- Daily digests: [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md) · [10-21](data/daily/2026-10-21.md)
+- [🔒 Recently closed (89)](#recently-closed)
+- Daily digests: [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md) · [10-22](data/daily/2026-10-22.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -47,6 +47,9 @@ By level: Director 1321 · VP 568 · Sr. Director 305 · Head 165 · EVP/SVP 114
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Wells Fargo ⭐ | 🆕 Artificial Intelligence Solutions Director | Director | CHARLOTTE, NC +2 |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Artificial-Intelligence-Solutions-Director_R-583960) |
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161296) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161296) |
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161298) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161298) |
 | Caris Life Sciences | 🆕 Vice President - Data Science | VP | Phoenix, AZ, USA |  | 0d | [Apply](https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Tempe-AZ---85281/Vice-President---Data-Science_JR104839) |
 | GE Aerospace | 🆕 Director, DevOps, Support, and Operations | Director | Remote, USA | $152K–$230K | 0d | [Apply](https://careers.geaerospace.com/global/en/job/R5041698/Director-DevOps-Support-and-Operations?utm_source=indeed&utm_medium=phenom-feeds) |
 | GE Aerospace | 🆕 Senior Director, Technical Product Management | Sr. Director | Grand Rapids, MI, USA · Remote | $176K–$270K | 0d | [Apply](https://careers.geaerospace.com/global/en/job/R5041692/Senior-Director-Technical-Product-Management?utm_source=indeed&utm_medium=phenom-feeds) |
@@ -250,6 +253,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161296) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161296) |
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161298) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161298) |
 | HOUSTON GRAND OPERA ASSOCIATION INC | 🆕 Director of Enterprise Analytics Engineering | Director | Houston, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/600E4266CBBC2ABF423D3126C4F748E6/jobs/509681?source=Indeed) |
 | Kinder Morgan | 🆕 Director Engineering / Measurement Technical Services | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.kindermorgan.com/careers-home/jobs/6506/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | HDR | 🆕 Regional Engineering Director - Education/Science/Health | Director | Houston, TX, USA |  | 1d | [Apply](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197375&tz=GMT-05%3A00&tzname=America%2FChicago) |
@@ -425,7 +430,6 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Morgan Stanley ⭐ | Security Director (Shift Lead, Regional Security Operations Center) | Director | New York, New York, United States of Ameri |  | 6d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Security-Director--Shift-Lead--Regional-Security-Operations-Center-_JR045925) |
 | Salesforce ⭐ | Director, Technical Program Management (Security) | Director | California - San Francisco +2 | $206K–$298K | 6d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director--Technical-Program-Management--Security-_JR365131) |
 | Netflix ⭐ | Director, Security & Intelligence - UCAN | Director | Los Angeles,California,United States of Am |  | 6d | [Apply](https://explore.jobs.netflix.net/careers/job/790319071789) |
-| AbbVie ⭐ | Director, Security Protective Services | Director | North Chicago, IL, us |  | 6d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016336411-director-security-protective-services) ⚡ |
 | Avis Budget Group | Director, Digital Analytics & Customer Identity | Director | Parsippany-Troy Hills, NJ, USA | $200K–$240K | 6d | [Apply](https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Director--Digital-Analytics---Customer-Identity_R0191378) |
 | The University of Texas Rio Grande Valley | IT DIRECTOR DATA & NETWORK SECURITY | Director | Edinburg, TX, USA |  | 6d | [Apply](https://careers.utrgv.edu/postings/52917) |
 | Caleres Inc. | Director, Information Security & Compliance | Director | Clayton, MO, USA |  | 6d | [Apply](https://jobs.dayforcehcm.com/en-US/caleres/CaleresCorporate/jobs/183359) |
@@ -564,6 +568,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Wells Fargo ⭐ | 🆕 Artificial Intelligence Solutions Director | Director | CHARLOTTE, NC +2 |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Artificial-Intelligence-Solutions-Director_R-583960) |
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161296) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161296) |
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161298) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161298) |
 | Caris Life Sciences | 🆕 Vice President - Data Science | VP | Phoenix, AZ, USA |  | 0d | [Apply](https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Tempe-AZ---85281/Vice-President---Data-Science_JR104839) |
 | HOUSTON GRAND OPERA ASSOCIATION INC | 🆕 Director of Enterprise Analytics Engineering | Director | Houston, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/600E4266CBBC2ABF423D3126C4F748E6/jobs/509681?source=Indeed) |
 | Information Technology Senior Management Forum | 🆕 Senior Director, Data Scientist - US Card | Sr. Director | McLean, VA, USA | $315K–$392K | 0d | [Apply](https://jobs.itsmfleaders.org/job/vkcnt4/senior-director-data-scientist-us-card/mclean/va) |
@@ -811,11 +818,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Oscar Health | Director, Analytics Engineering | Director | New York, New York, United States | $199K–$261K | 8d | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8301400) ⚡ |
 | CVS Health ⭐ | Lead Director - Digital Product (Causal Analytics) | Director | IL - Work from home +9 · Remote |  | 8d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Lead-Director---Digital-Product--Causal-Analytics-_R1071115) |
 | BNY ⭐ | Vice President, AI / Machine Learning Software Engineer | VP | New York, NY, United States |  | 8d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77301) |
-| JPMorgan Chase ⭐ | Lead Data Architect  - Vice President | VP | Jersey City, NJ, United States |  | 8d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797123) |
-| TD SYNNEX | Vice President, Enterprise Data & AI | VP | Remote, Florida, United States of America |  | 8d | [Apply](https://careers.tdsynnex.com/us/en/job/TSQTSBUSR57173EXTERNALENUS) |
-| BlackRock ⭐ | AI Product Manager - Aladdin Portfolio Management, Vice President | VP | NY7 - 50 Hudson Yards, New York |  | 8d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/AI-Product-Manager---Aladdin-Portfolio-Management--Vice-President_R266725) |
 
-_454 older roles in this section are in data/roles.json on the `data` branch._
+_457 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1308,7 +1312,6 @@ _454 older roles in this section are in data/roles.json on the `data` branch._
 | Fidelity National Financial | Director, Architecture | Director | Merrimack, NH |  | 14d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director--Architecture_2132629) |
 | Flywire | Senior Director, Head of Enterprise Architecture | Head | Chicago, IL | $181K–$259K | 14d | [Apply](https://flywire.wd108.myworkdayjobs.com/flywirecareers/job/Chicago-IL/Senior-Director--Head-of-Enterprise-Architecture_JR-1030) |
 | Fidelity ⭐ | Director, Architecture | Director | Merrimack, NH |  | 14d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director--Architecture_2132629) |
-| Bank of America ⭐ | Vice President; Architect | VP | Farmington |  | 14d | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Farmington/Vice-President--Architect_26037689) |
 | British Stds Institution | Head of Solution Architecture | Head | Covent Garden +1 |  | 15d | [Apply](https://wd3.myworkdaysite.com/recruiting/bsigroup/BSI_Careers/job/Covent-Garden/Head-of-Solution-Architecture_JR0020697-1) |
 | Pennsylvania State University | Department Head of Architecture | Head | Penn State University Park |  | 15d | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-Head-of-Architecture_REQ_0000083106-1) |
 | Salesforce ⭐ | Director, Product Management, Slackforce Architecture | Director | California - San Francisco | $238K–$345K | 15d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director--Product-Management--Slackforce-Architecture_JR356455-1) |
@@ -2064,6 +2067,8 @@ _429 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| AbbVie ⭐ | 🔒 Director, Security Protective Services | Director | North Chicago, IL, us |  | 6d | Closed |
+| Bank of America ⭐ | 🔒 Vice President; Architect | VP | Farmington |  | 14d | Closed |
 | City and County of San Francisco | 🔒 0942 Manager VII – Managing Director, Finance - SFO (Eligible list ID 167697) | MD | San Francisco, CA, us | $215K–$274K | 9d | Closed [alt](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016232883-0942-manager-vii-managing-director-finance-sfo-eligible-list-id-167697-) |
 | Lambda | 🔒 Senior Director, Network Reliability Engineering | Sr. Director | Bellevue Office · Remote | $399K–$531K | 6d | Closed |
 | Schonfeld | 🔒 Head of AI Platform | Head | New York, New York, United States |  | 12d | Closed |

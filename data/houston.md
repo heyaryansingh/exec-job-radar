@@ -1,9 +1,11 @@
 # 🤠 Senior technology roles in the Houston area
 
-61 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+63 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161296) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161296) |
+| Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161298) | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161298) |
 | HOUSTON GRAND OPERA ASSOCIATION INC | 🆕 Director of Enterprise Analytics Engineering | Director | Houston, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/600E4266CBBC2ABF423D3126C4F748E6/jobs/509681?source=Indeed) |
 | Kinder Morgan | 🆕 Director Engineering / Measurement Technical Services | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.kindermorgan.com/careers-home/jobs/6506/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | HDR | 🆕 Regional Engineering Director - Education/Science/Health | Director | Houston, TX, USA |  | 1d | [Apply](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197375&tz=GMT-05%3A00&tzname=America%2FChicago) |

@@ -1,17 +1,16 @@
 # 🤠 Senior technology roles in the Houston area
 
-74 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+73 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Houston-Galveston Area Council | 🆕 Director of Data Analytics & Research | Director | Houston, TX, USA | $149K–$213K | 0d | [Apply](https://houstongalvestonareacouncil.applytojob.com/apply/2jvTOm8VHR/Director-Of-Data-Analytics-Research?source=INDE&~) |
-| Honeywell ⭐ | 🆕 Director Portfolio Management - Utilities | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161113) |
 | Lancium LLC | 🆕 Director, Firm Power Development | Director | Spring, TX, USA |  | 0d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |
 | Alvarez & Marsal | 🆕 Director, PEPI — Data, Cloud & AI Architecture | Director | Houston, TX, USA | $150K–$225K | 1d | [Apply](https://careers.alvarezandmarsal.com/jobs/18417375) [alt](https://careers.alvarezandmarsal.com/en/jobs/18417375-director-pepi-data-cloud-and-ai-architecture?tm_job=202604639-OTHLOC-Cu2bYfwp&tm_event=view&tm_company=47710) |
 | TransGrid Energy | 🆕 Director, Investments | Director | Irvine +1 | $180K–$210K | 1d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9) ⚡ |
 | KIPP Texas Public Schools | 🆕 Director of CTE Systems Analytics and Compliance | Director | Houston, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/KIPP/744000158384467-director-of-cte-systems-analytics-and-compliance) ⚡ |
 | TransGrid Energy | 🆕 Director, Investments | Director | Houston, TX, USA | $180K–$210K | 1d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9?utm_source=MqX9elXXvV) |
-| ASM | 🆕 Assistant Director of Safety & Security | Director | Houston, TX |  | 1d | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Assistant-Director-of-Safety---Security_R100126312) |
+| ASM | Assistant Director of Safety & Security | Director | Houston, TX |  | 1d | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Assistant-Director-of-Safety---Security_R100126312) |
 | FISK ELECTRIC | Senior Vice President of Operations | EVP/SVP | Houston, TX, USA |  | 1d | [Apply](https://tutorperini.wd12.myworkdayjobs.com/external/job/Houston-TX-/Senior-Vice-President-of-Operations_JR103291) |
 | Environmental Resources Management | Technical Consulting Director, Cultural Heritage | Director | Houston, Texas +5 |  | 1d | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Houston-Texas/Technical-Consulting-Director--Cultural-Heritage_R00031190-1) |
 | HP | Director - Agentic AI Computing Foundation | Director | Spring, Texas, United States of America +1 |  | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Director---Agentic-AI-Computing-Foundation_3168691-1) |

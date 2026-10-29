@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,805 open roles** at **989 companies** · **183 new in the last 24 hours** · 5,495 company career sites watched · updated hourly · last update Oct 29, 2026 03:21 AM ET
+**2,806 open roles** at **989 companies** · **183 new in the last 24 hours** · 5,495 company career sites watched · updated hourly · last update Oct 29, 2026 04:13 AM ET
 
-By level: Director 1418 · VP 603 · Sr. Director 335 · Head 171 · EVP/SVP 118 · ED 72 · C-level 63 · MD 25
+By level: Director 1419 · VP 603 · Sr. Director 335 · Head 171 · EVP/SVP 118 · ED 72 · C-level 63 · MD 25
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,7 +36,7 @@ By level: Director 1418 · VP 603 · Sr. Director 335 · Head 171 · EVP/SVP 118
 - [☁️ Cloud & Infrastructure (266)](#cloud-infrastructure)
 - [🏛️ Architecture (81)](#architecture)
 - [🔄 Transformation & Delivery (329)](#transformation-delivery)
-- [🛠️ Engineering & Software (728)](#engineering-software)
+- [🛠️ Engineering & Software (729)](#engineering-software)
 - [📌 Other Senior Roles (211)](#other-senior-roles)
 - [🔒 Recently closed (103)](#recently-closed)
 - Daily digests: [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md)
@@ -47,8 +47,9 @@ By level: Director 1418 · VP 603 · Sr. Director 335 · Head 171 · EVP/SVP 118
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Genpact | 🆕 Delivery Director - Data and Analytics 3 | Director | 1401-G-India: Floor 1 to 12, Hafeezpet Pho |  | 0d | [Apply](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Delivery-Director---Data-and-Analytics-3_JR10033753) |
+| Citi ⭐ | 🆕 Enterprise KYC Technology Development Lead-Director | Director | Jersey City New Jersey United States |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Enterprise-KYC-Technology-Development-Lead-Director_261004619) |
 | Oracle | 🆕 Senior Director, Oracle Health Federal | Sr. Director | United States | $194K–$414K | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/335078) |
+| Genpact | 🆕 Delivery Director - Data and Analytics 3 | Director | 1401-G-India: Floor 1 to 12, Hafeezpet Pho |  | 0d | [Apply](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Delivery-Director---Data-and-Analytics-3_JR10033753) |
 | KARMAN | 🆕 Director, Power Applications | Director | Remote, USA | $210K–$240K | 0d | [Apply](https://karman.applytojob.com/apply/gkXcYWWvZW/Director-Power-Applications?source=INDE&~) |
 | Lancium LLC | 🆕 Director, Firm Power Development | Director | Spring, TX, USA |  | 0d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |
 | NTT DATA | 🆕 Managing Director of Data & AI | MD | Plano, TX, USA |  | 0d | [Apply](https://careers.nttdata.com/global/en/job/393000) |
@@ -212,7 +213,6 @@ By level: Director 1418 · VP 603 · Sr. Director 335 · Head 171 · EVP/SVP 118
 | Securitas | 🆕 Sr. Director of Security Operations | Sr. Director | Bellevue, WA, USA | $200K–$230K | 1d | [Apply](https://ekaw.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/176403) |
 | Opensity solutions | 🆕 Director, Technical Engineering | Director | USA-Chicago-IL · Remote |  | 1d | [Apply](https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1) |
 | Mayo Clinic | 🆕 Senior Director - AI | Sr. Director | Rochester, MN, USA | $248K–$372K | 1d | [Apply](https://jobs.mayoclinic.org/job/rochester/senior-director-ai/33647/102535081472) |
-| Diamond Foundry | 🆕 Application Engineering Director | Director | Bay Area, California | $180K–$270K | 1d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
 | KPMG US | 🆕 Managing Director, Head of AI Product Engineering & Developer Enablement | MD | Montvale, New Jersey | $400K–$525K | 2d | [Apply](https://www.linkedin.com/jobs/view/managing-director-head-of-ai-product-engineering-developer-enablement-at-kpmg-us-4483258946) |
 | Subcritical Systems Inc | 🆕 Head / VP of Engineering | VP | Austin, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/head-vp-of-engineering-at-subcritical-systems-inc-4471748325) |
 | Verra Mobility | 🆕 VP, Product Platform & Engineering | VP | Mesa, Arizona |  | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-product-platform-engineering-at-verra-mobility-4457839200) |
@@ -1638,6 +1638,7 @@ _79 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi ⭐ | 🆕 Enterprise KYC Technology Development Lead-Director | Director | Jersey City New Jersey United States |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Enterprise-KYC-Technology-Development-Lead-Director_261004619) |
 | KARMAN | 🆕 Director, Power Applications | Director | Remote, USA | $210K–$240K | 0d | [Apply](https://karman.applytojob.com/apply/gkXcYWWvZW/Director-Power-Applications?source=INDE&~) |
 | Lancium LLC | 🆕 Director, Firm Power Development | Director | Spring, TX, USA |  | 0d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |
 | Kraft Heinz | 🆕 Associate Finance Director, FP&A/Commercial Finance - Capability & Technology (req R-108041) | Director | Chicago, IL |  | 0d | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Chicago-IL/Associate-Finance-Director--FP-A-Commercial-Finance---Capability---Technology_R-108041) |
@@ -1681,7 +1682,7 @@ _79 older roles in this section are in data/roles.json on the `data` branch._
 | Truist | 🆕 Head of Trust Technology | Head | Charlotte, NC +1 |  | 1d | [Apply](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Head-of-Trust-Technology_R0121252) [alt](https://careers.truist.com/us/en/job/TBJTBFUSR0121252EXTERNALENUS) |
 | Johns Hopkins Health System | 🆕 IT ASSISTANT DIRECTOR | Director | Hanover, MD, USA | $135K–$236K | 1d | [Apply](https://jobs.hopkinsmedicine.org/job/103750/it-assistant-director-information-technology-us-md-hanover-johns-hopkins-health-plans/) |
 | Opensity solutions | 🆕 Director, Technical Engineering | Director | USA-Chicago-IL · Remote |  | 1d | [Apply](https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1) |
-| Diamond Foundry | 🆕 Application Engineering Director | Director | Bay Area, California | $180K–$270K | 1d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
+| Diamond Foundry | Application Engineering Director | Director | Bay Area, California | $180K–$270K | 1d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
 | Diamond Foundry | Application Engineering Director | Director | San Francisco Bay Area, CA, USA | $180K–$270K | 1d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d?lever-source=Indeed) |
 | GE Aerospace | Senior Director, Technical Product Management | Sr. Director | Grand Rapids, MI, USA · Remote | $176K–$270K | 1d | [Apply](https://careers.geaerospace.com/global/en/job/R5041692/Senior-Director-Technical-Product-Management?utm_source=indeed&utm_medium=phenom-feeds) |
 | Kinder Morgan | Director Engineering / Measurement Technical Services | Director | Houston, TX, USA |  | 1d | [Apply](https://careers.kindermorgan.com/careers-home/jobs/6506/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -1887,9 +1888,8 @@ _79 older roles in this section are in data/roles.json on the `data` branch._
 | FOX | Senior Director, Broadcast Engineering (req R50034148) | Sr. Director | USA - AZ - Tempe - 2010 E Centennial Cir |  | 8d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Senior-Director--Broadcast-Engineering_R50034148) |
 | Kraken | Head of Financial Systems Engineering | Head | United States · Remote | $134K–$299K | 8d | [Apply](https://jobs.ashbyhq.com/kraken.com/c1653d03-d959-4032-8591-26a929d1e37d) ⚡ |
 | Banner Health | Executive Director, Software Engineering | ED | Salem, OR, USA · Remote | $183K–$313K | 8d | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Executive-Director--Software-Engineering_R4433442) |
-| Celestica | Director, CRT3 Technology CoE | Director | Richardson, TX, USA |  | 8d | [Apply](https://careers.celestica.com/job/Richardson-Director%2C-CRT3-Technology-CoE-TX-75080/1450007533/) |
 
-_478 older roles in this section are in data/roles.json on the `data` branch._
+_479 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

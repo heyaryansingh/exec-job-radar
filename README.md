@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,912 open roles** at **1,027 companies** · **162 new in the last 24 hours** · 5,521 company career sites watched · updated hourly · last update Oct 29, 2026 05:53 PM ET
+**2,913 open roles** at **1,027 companies** · **161 new in the last 24 hours** · 5,521 company career sites watched · updated hourly · last update Oct 29, 2026 06:44 PM ET
 
-By level: Director 1478 · VP 617 · Sr. Director 352 · Head 180 · EVP/SVP 121 · ED 72 · C-level 66 · MD 26
+By level: Director 1479 · VP 617 · Sr. Director 352 · Head 180 · EVP/SVP 121 · ED 72 · C-level 66 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (162)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (161)](#new-in-the-last-24-hours)
 - [🤠 Houston area (73)](#houston-area)
 - [👑 Executive Technology Leadership (69)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (193)](#security-risk-technology)
-- [🧠 Data & AI (779)](#data-ai)
+- [🧠 Data & AI (780)](#data-ai)
 - [🚦 Reliability & Operations (189)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (271)](#cloud-infrastructure)
 - [🏛️ Architecture (84)](#architecture)
@@ -47,9 +47,10 @@ By level: Director 1478 · VP 617 · Sr. Director 352 · Head 180 · EVP/SVP 121
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Micron ⭐ | 🆕 Director / DMTS, Process Integration Lead – Advanced Packaging (2.5D/3D, HBM) | Director | Boise, ID - Main Site |  | 0d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Director---DMTS--Process-Integration-Lead---Advanced-Packaging--25D-3D--HBM--Hybrid-Bonding-_JR111448) |
-| JPMorgan Chase ⭐ | 🆕 Senior Director of Software Engineering | Sr. Director | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802431) |
+| Eli Lilly | 🆕 Director - Genomics Data Science | Director | Boston, Massachusetts, United States of Am |  | 0d | [Apply](https://careers.lilly.com/us/en/job/LILLUSR114008EXTERNALENUS) |
 | PlayStation Global | 🆕 Director, Program Management | Director | United States, San Diego, CA | $219K–$328K | 0d | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6236996004) ⚡ |
+| JPMorgan Chase ⭐ | 🆕 Senior Director of Software Engineering | Sr. Director | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802431) |
+| Micron ⭐ | 🆕 Director / DMTS, Process Integration Lead – Advanced Packaging (2.5D/3D, HBM) | Director | Boise, ID - Main Site |  | 0d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Director---DMTS--Process-Integration-Lead---Advanced-Packaging--25D-3D--HBM--Hybrid-Bonding-_JR111448) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Cape Coral, FL, United States |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26142115) |
 | DePauw University | 🆕 Senior Director of Advancement Technology and Intelligence | Sr. Director | DePauw University Main Campus - Greencastl |  | 0d | [Apply](https://depauw.wd5.myworkdayjobs.com/DePauw_University/job/DePauw-University-Main-Campus---Greencastle-IN/Senior-Director-of-Advancement-Technology-and-Intelligence_JR100752) |
 | Pennant | 🆕 IT Director of Operations | Director | Eagle, Idaho |  | 0d | [Apply](https://pennant.wd1.myworkdayjobs.com/PennantServicesCareerSite/job/Eagle-Idaho/IT-Director-of-Operations_JR65811) |
@@ -203,11 +204,9 @@ By level: Director 1478 · VP 617 · Sr. Director 352 · Head 180 · EVP/SVP 121
 | CVS Health ⭐ | 🆕 Lead Director, Health100 App - Digital Product | Director | MA - Wellesley +8 · Remote |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Lead-Director--Health100-App---Digital-Product_R1078091) |
 | Hayward Industries | 🆕 Vice President, Information Security & Infrastructure | VP | Charlotte, NC, US |  | 1d | [Apply](https://hayward.wd1.myworkdayjobs.com/External/job/Charlotte-NC-US/Vice-President--Information-Security---Infrastructure_R26_000423) [alt](https://hayward.wd1.myworkdayjobs.com/External/job/Charlotte-NC-US/Vice-President--Information-Security---Infrastructure_R26_000423) |
 | Hayward Industries | 🆕 VP, Enterprise Architecture & AI Innovation | VP | Charlotte, NC, US |  | 1d | [Apply](https://hayward.wd1.myworkdayjobs.com/External/job/Charlotte-NC-US/VP--Enterprise-Architecture---AI-Innovation_R26_000424) [alt](https://hayward.wd1.myworkdayjobs.com/External/job/Charlotte-NC-US/VP--Enterprise-Architecture---AI-Innovation_R26_000424) |
-| Wells Fargo ⭐ | 🆕 Disaster Recovery/Data Center Rotation Technology Program Director | Director | ISELIN, NJ +2 |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Disaster-Recovery-Data-Center-Rotation-Technology-Program-Director_R-583117) |
 | KPMG US | 🆕 Managing Director, Head of AI Product Engineering & Developer Enablement | MD | Montvale, New Jersey | $400K–$525K | 2d | [Apply](https://www.linkedin.com/jobs/view/managing-director-head-of-ai-product-engineering-developer-enablement-at-kpmg-us-4483258946) |
 | Subcritical Systems Inc | 🆕 Head / VP of Engineering | VP | Austin, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/head-vp-of-engineering-at-subcritical-systems-inc-4471748325) |
 | Verra Mobility | 🆕 VP, Product Platform & Engineering | VP | Mesa, Arizona |  | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-product-platform-engineering-at-verra-mobility-4457839200) |
-| Upscale, Inc. | 🆕 Senior Director, SerDes Digital Design | Sr. Director | US - Headquarters | $306K–$337K | 2d | [Apply](https://jobs.lever.co/upscale-ai/90f9abb6-6125-41ee-8c3b-9882c5cb992d) ⚡ |
 | The New York Times | 🆕 Director of Engineering, Games | Director | New York, NY | $200K–$235K | 3d | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4747799005) ⚡ |
 
 <a name="houston-area"></a>
@@ -574,6 +573,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Eli Lilly | 🆕 Director - Genomics Data Science | Director | Boston, Massachusetts, United States of Am |  | 0d | [Apply](https://careers.lilly.com/us/en/job/LILLUSR114008EXTERNALENUS) |
 | Sims Limited | 🆕 VP of AI, Data and Data Science | VP | Chicago, IL, USA |  | 0d | [Apply](https://career41.sapsf.com/career?company=simsmetalm&career_ns=job_listing&career_job_req_id=6899&lang=en_US&source=Indeed) |
 | BlackRock ⭐ | 🆕 AI Product Solutions Lead, Technology Product Management, Vice President | VP | New York, NY |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/AI-Product-Solutions-Lead--Technology-Product-Management--Vice-President_R267009) |
 | Covestro | 🆕 Head of CoE Digital & AI - North America | Head | Pittsburgh, PA |  | 0d | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Head-of-CoE-Digital---AI---North-America_JR-2026-02430) [alt](https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Pittsburgh-PA/Head-of-CoE-Digital---AI---North-America_JR-2026-02430) |
@@ -613,7 +613,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Shared Services | 🆕 VP, AI Data Strategy & Program Management | VP | New York, NY, USA | $214K–$257K | 1d | [Apply](https://brookfield.wd5.myworkdayjobs.com/en-US/bpandc/job/US-NY---New-York-City/VP--AI-Data-Strategy---Program-Management_R2053411?Company=e1d5f561832c100163ccb412c8f90000) |
 | Wingstop | 🆕 Senior Director - AI Products | Sr. Director | Dallas, TX, USA |  | 1d | [Apply](https://iaxmqy.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/1128) |
 | Hayward Industries | 🆕 VP, Enterprise Architecture & AI Innovation | VP | Charlotte, NC, US |  | 1d | [Apply](https://hayward.wd1.myworkdayjobs.com/External/job/Charlotte-NC-US/VP--Enterprise-Architecture---AI-Innovation_R26_000424) [alt](https://hayward.wd1.myworkdayjobs.com/External/job/Charlotte-NC-US/VP--Enterprise-Architecture---AI-Innovation_R26_000424) |
-| Wells Fargo ⭐ | 🆕 Disaster Recovery/Data Center Rotation Technology Program Director | Director | ISELIN, NJ +2 |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Disaster-Recovery-Data-Center-Rotation-Technology-Program-Director_R-583117) |
+| Wells Fargo ⭐ | Disaster Recovery/Data Center Rotation Technology Program Director | Director | ISELIN, NJ +2 |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Disaster-Recovery-Data-Center-Rotation-Technology-Program-Director_R-583117) |
 | KIPP Texas Public Schools | Director of CTE Systems Analytics and Compliance | Director | Houston, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/KIPP/744000158384467-director-of-cte-systems-analytics-and-compliance) ⚡ |
 | Old Dominion University | Assistant VP of Research & AI Enablement | VP | Norfolk, VA, USA | $200K–$230K | 1d | [Apply](https://jobs.odu.edu/postings/27464) |
 | Salute Mission Inc. | Senior Director Data Center Operations | Sr. Director | USA · Remote | $190K–$220K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d5856577-2c4f-400c-bcf3-4f80afedad61&ccId=19000101_000001&jobId=596285&source=IN&lang=en_US) |
@@ -823,9 +823,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Lenovo | Director, Service Solution & AI Integration | Director | Morrisville, NC, USA |  | 7d | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Director-Service-Solution-Integration/82901) |
 | Molina Healthcare | VP, Artificial Intelligence Vendor Governance & Oversight (Remote) | VP | United States |  | 8d | [Apply](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2039461) |
 | Berkley Accident and Health (a Berkley Company) | VP, Technology and Data Solutions | VP | Harleysville, Pennsylvania | $200K–$225K | 8d | [Apply](https://www.linkedin.com/jobs/view/vp-technology-and-data-solutions-at-berkley-accident-and-health-a-berkley-company-4473552642) |
-| Berkley Accident and Health (a Berkley Company) | VP, Technology and Data Solutions | VP | New Jersey | $200K–$225K | 8d | [Apply](https://www.linkedin.com/jobs/view/vp-technology-and-data-solutions-at-berkley-accident-and-health-a-berkley-company-4473556489) |
 
-_529 older roles in this section are in data/roles.json on the `data` branch._
+_530 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1420,7 +1419,7 @@ _21 older roles in this section are in data/roles.json on the `data` branch._
 | Citi ⭐ | Program Management Lead, Vice President | VP | Getzville New York United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Program-Management-Lead--Vice-President_26992993-1) |
 | ERCOT | Director - Grid Transformation | Director | Austin, TX | $221K–$303K | 1d | [Apply](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Director---Grid-Transformation_R2543-1) |
 | Church's Texas Chicken | Senior Director, Technology PMO | Sr. Director | 980 Hammond Drive Atlanta,Georgia |  | 1d | [Apply](https://churchs.wd1.myworkdayjobs.com/Corporate/job/980-Hammond-Drive-AtlantaGeorgia/Senior-Director--Technology-PMO_R0085124) |
-| Upscale, Inc. | 🆕 Senior Director, SerDes Digital Design | Sr. Director | US - Headquarters | $306K–$337K | 2d | [Apply](https://jobs.lever.co/upscale-ai/90f9abb6-6125-41ee-8c3b-9882c5cb992d) ⚡ |
+| Upscale, Inc. | Senior Director, SerDes Digital Design | Sr. Director | US - Headquarters | $306K–$337K | 2d | [Apply](https://jobs.lever.co/upscale-ai/90f9abb6-6125-41ee-8c3b-9882c5cb992d) ⚡ |
 | Liberty Mutual Insurance | Director, Engineering - Property & Specialty (P&S) Delivery - USRM Tech | Director | Boston, Massachusetts, United States +3 |  | 2d | [Apply](https://searchjobs.libertymutualgroup.com/careers/job/618520493550) |
 | Dentsu | VP, Head of Digital Product Engineering | VP | USA - Remote - New York | $196K–$275K | 2d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---New-York/VP--Head-of-Digital-Product-Engineering_R1133350) |
 | Stormont Vail Health | System Director Digital Technology - Information Systems Administration - FT - Day | Director | Remote - Kansas |  | 2d | [Apply](https://stormontvail.wd1.myworkdayjobs.com/SVH/job/Remote---Kansas/System-Director-Digital-Technology---Information-Systems-Administration---FT---Day_req24540) |

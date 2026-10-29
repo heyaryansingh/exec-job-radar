@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,787 open roles** at **983 companies** · **175 new in the last 24 hours** · 5,494 company career sites watched · updated hourly · last update Oct 28, 2026 10:31 PM ET
+**2,788 open roles** at **983 companies** · **175 new in the last 24 hours** · 5,494 company career sites watched · updated hourly · last update Oct 28, 2026 11:22 PM ET
 
-By level: Director 1408 · VP 600 · Sr. Director 332 · Head 170 · EVP/SVP 118 · ED 72 · C-level 63 · MD 24
+By level: Director 1409 · VP 600 · Sr. Director 332 · Head 170 · EVP/SVP 118 · ED 72 · C-level 63 · MD 24
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 1408 · VP 600 · Sr. Director 332 · Head 170 · EVP/SVP 118
 - [🤠 Houston area (71)](#houston-area)
 - [👑 Executive Technology Leadership (66)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (184)](#security-risk-technology)
-- [🧠 Data & AI (749)](#data-ai)
+- [🧠 Data & AI (750)](#data-ai)
 - [🚦 Reliability & Operations (184)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (264)](#cloud-infrastructure)
 - [🏛️ Architecture (79)](#architecture)
@@ -205,9 +205,9 @@ By level: Director 1408 · VP 600 · Sr. Director 332 · Head 170 · EVP/SVP 118
 | Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161296) | Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161296) |
 | Honeywell ⭐ | 🆕 Director, Data Center Strategic Accounts (req 161298) | Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161298) |
 | Wells Fargo ⭐ | 🆕 Artificial Intelligence Solutions Director | Director | CHARLOTTE, NC +2 |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Artificial-Intelligence-Solutions-Director_R-583960) |
+| KPMG US | 🆕 Managing Director, Head of AI Product Engineering & Developer Enablement | MD | Montvale, New Jersey | $400K–$525K | 2d | [Apply](https://www.linkedin.com/jobs/view/managing-director-head-of-ai-product-engineering-developer-enablement-at-kpmg-us-4483258946) |
 | Subcritical Systems Inc | 🆕 Head / VP of Engineering | VP | Austin, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/head-vp-of-engineering-at-subcritical-systems-inc-4471748325) |
 | Verra Mobility | 🆕 VP, Product Platform & Engineering | VP | Mesa, Arizona |  | 2d | [Apply](https://www.linkedin.com/jobs/view/vp-product-platform-engineering-at-verra-mobility-4457839200) |
-| KPMG US | 🆕 Managing Director, Head of AI Product Engineering & Developer Enablement | MD | Montvale, New Jersey | $400K–$525K | 2d | [Apply](https://www.linkedin.com/jobs/view/managing-director-head-of-ai-product-engineering-developer-enablement-at-kpmg-us-4483258946) |
 | Upscale, Inc. | 🆕 Senior Director, SerDes Digital Design | Sr. Director | US - Headquarters | $306K–$337K | 2d | [Apply](https://jobs.lever.co/upscale-ai/90f9abb6-6125-41ee-8c3b-9882c5cb992d) ⚡ |
 | Liberty Mutual Insurance | 🆕 Director, Engineering - Property & Specialty (P&S) Delivery - USRM Tech | Director | Boston, Massachusetts, United States +3 |  | 2d | [Apply](https://searchjobs.libertymutualgroup.com/careers/job/618520493550) |
 | Dentsu | 🆕 VP, Head of Digital Product Engineering | VP | USA - Remote - New York | $196K–$275K | 2d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---New-York/VP--Head-of-Digital-Product-Engineering_R1133350) |
@@ -747,6 +747,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | AMD | Sr. Director, Network and Data Center Engineering, Operations & AIOps | Sr. Director | San Jose, CA, USA |  | 6d | [Apply](https://careers.amd.com/jobs/93701/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | The Vertex Companies LLC | Senior Director - Data Driven Disputes & Analytics | Sr. Director | New York, NY, USA | $128K–$419K | 6d | [Apply](https://careers.vertexeng.com/jobs/18389292-director-slash-senior-director-data-driven-disputes-and-analytics?tm_job=470&tm_event=view&tm_company=95169) |
 | VisiQuate, Inc. | Director of Product Management & Revenue Cycle AI Products | Director | Remote, USA | $175K–$215K | 6d | [Apply](https://visiquate.bamboohr.com/careers/130?source=indeed&src=indeed&postedDate=2026-10-22) |
+| Liberty Mutual Insurance | Assistant Director, Data Science, Reserve Modeling | Director | Remote, Remote, United States +1 |  | 7d | [Apply](https://searchjobs.libertymutualgroup.com/careers/job/618520376373) |
 | Coca-Cola ⭐ | Senior Director, AI Engineering Lead | Sr. Director | US - GA - Atlanta +2 |  | 7d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director--AI-Engineering-Lead_R-145103-1) |
 | hackajob | Senior Director, Data Center Operations | Sr. Director | Dallas, Texas | $170K–$355K | 7d | [Apply](https://www.recruit.net/job/director-data-center-operations-jobs/E74E5DABAAE227E9) |
 | Strut Partners NeoCloud and Data Center Advisors | Managing Director, NeoCloud & Data Center Advisory for AI Enterprise | MD | Arlington, Virginia |  | 7d | [Apply](https://www.talent.com/view?id=642825930388477147) |
@@ -822,9 +823,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Equinix | Senior Director AI, Chief Revenue Organization | Sr. Director | Redwood City +2 |  | 8d | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Redwood-City/Senior-Director-AI--Chief-Revenue-Organization_JR-164181) |
 | JPMorgan Chase ⭐ | Product Manager, Vice President - Data Management | VP | Plano, TX, United States |  | 8d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780609) |
 | JPMorgan Chase ⭐ | Senior Executive Director of Data & AI | ED | Jersey City, NJ, United States |  | 8d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802256) |
-| JPMorgan Chase ⭐ | Executive Director - Senior Technical Account Manager - Data and AI Fusion Platform | ED | New York, NY, United States |  | 8d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802497) |
 
-_499 older roles in this section are in data/roles.json on the `data` branch._
+_500 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

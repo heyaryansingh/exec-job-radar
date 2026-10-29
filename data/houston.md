@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-71 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+72 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Lancium LLC | 🆕 Director, Firm Power Development | Director | Spring, TX, USA |  | 0d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |
 | Alvarez & Marsal | 🆕 Director, PEPI — Data, Cloud & AI Architecture | Director | Houston, TX, USA | $150K–$225K | 1d | [Apply](https://careers.alvarezandmarsal.com/jobs/18417375) [alt](https://careers.alvarezandmarsal.com/en/jobs/18417375-director-pepi-data-cloud-and-ai-architecture?tm_job=202604639-OTHLOC-Cu2bYfwp&tm_event=view&tm_company=47710) |
 | TransGrid Energy | 🆕 Director, Investments | Director | Irvine +1 | $180K–$210K | 1d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9) ⚡ |
 | KIPP Texas Public Schools | 🆕 Director of CTE Systems Analytics and Compliance | Director | Houston, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/KIPP/744000158384467-director-of-cte-systems-analytics-and-compliance) ⚡ |

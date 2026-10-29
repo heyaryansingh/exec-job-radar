@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,819 open roles** at **993 companies** · **191 new in the last 24 hours** · 5,502 company career sites watched · updated hourly · last update Oct 29, 2026 06:12 AM ET
+**2,818 open roles** at **993 companies** · **191 new in the last 24 hours** · 5,502 company career sites watched · updated hourly · last update Oct 29, 2026 07:12 AM ET
 
-By level: Director 1429 · VP 604 · Sr. Director 336 · Head 172 · EVP/SVP 118 · ED 72 · C-level 63 · MD 25
+By level: Director 1429 · VP 604 · Sr. Director 336 · Head 172 · EVP/SVP 118 · ED 71 · C-level 63 · MD 25
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,14 +31,14 @@ By level: Director 1429 · VP 604 · Sr. Director 336 · Head 172 · EVP/SVP 118
 - [🤠 Houston area (72)](#houston-area)
 - [👑 Executive Technology Leadership (66)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (185)](#security-risk-technology)
-- [🧠 Data & AI (763)](#data-ai)
+- [🧠 Data & AI (762)](#data-ai)
 - [🚦 Reliability & Operations (184)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (266)](#cloud-infrastructure)
 - [🏛️ Architecture (82)](#architecture)
 - [🔄 Transformation & Delivery (329)](#transformation-delivery)
 - [🛠️ Engineering & Software (732)](#engineering-software)
 - [📌 Other Senior Roles (212)](#other-senior-roles)
-- [🔒 Recently closed (104)](#recently-closed)
+- [🔒 Recently closed (105)](#recently-closed)
 - Daily digests: [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md) · [10-23](data/daily/2026-10-23.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -761,7 +761,6 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | T-Mobile ⭐ | Sr. Director, AI & Data Engineering | Sr. Director | Bellevue, Washington | $243K–$329K | 6d | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Director--AI---Data-Engineering_REQ356975-1) |
 | Lambda | Director, Data Center Contracts & Commercial Strategy | Director | San Francisco Office (Fremont St) +2 · Remote | $227K–$336K | 6d | [Apply](https://jobs.ashbyhq.com/lambda/91389f25-49c6-41e7-bcfc-747d4f5a25e9) ⚡ |
 | CVS Health (Phenom) ⭐ | Executive Director, AI Engineering | ED | 151 Farmington Avenue, Hartford, Connectic |  | 6d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1084239EXTERNALENUS) |
-| CVS Health ⭐ | Executive Director, AI Engineering | ED | CT - Hartford · Remote |  | 6d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Executive-Director--AI-Engineering_R1084239-1) |
 | Community Hospice and Palliative Care | Enterprise Data & Analytics Director | Director | Jacksonville, FL, USA |  | 6d | [Apply](https://jobs.dayforcehcm.com/en-US/aliviacare/joinourteamcommunityhospiceandpalliativecare/jobs/6479) |
 | JPMorgan Chase ⭐ | Director of Software Engineering - Agentic AI | Director | Jersey City, NJ, United States |  | 6d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796859) |
 | JPMorgan Chase ⭐ | Data Scientist Director, Executive Director | ED | New York, NY, United States |  | 6d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799445) |
@@ -841,8 +840,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Baker Tilly Canada | Head of Data & AI Platform | Head | USA CA San Jose 300 Santana Row +11 | $250K–$400K | 8d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-San-Jose-300-Santana-Row/Head-of-Data---AI-Platform_JR108720) |
 | LendingClub | Director, ECO Technology & Data | Director | San Francisco, CA +2 |  | 8d | [Apply](https://lendingclub.wd1.myworkdayjobs.com/External/job/San-Francisco-CA/Director--ECO-Technology---Data_R0007483) |
 | Elevance Health ⭐ | Staff VP Provider Data Solutions | VP | IN-INDIANAPOLIS, 220 VIRGINIA AVE +6 |  | 8d | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Staff-VP-Provider-Data-Solutions_JR210482) |
+| BlackRock ⭐ | Developer Platform & AI, Technology Product Manager - Director | Director | New York, NY |  | 8d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Developer-Platform---AI--Technology-Product-Manager---Director_R266949) |
 
-_513 older roles in this section are in data/roles.json on the `data` branch._
+_512 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2128,6 +2128,7 @@ _482 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CVS Health ⭐ | 🔒 Executive Director, AI Engineering | ED | CT - Hartford · Remote |  | 6d | Closed |
 | Robin Radar | 🔒 Director of Engineering | Director | Delft · Remote |  | 17d | Closed |
 | Oracle | 🔒 Director, Platform Software Engineering | Director | Seattle, WA, United States | $122K–$355K | 14d | Closed |
 | Expeditors | 🔒 Director, Global Technology - Core | Director | Seattle, WA, us |  | 13d | Closed |

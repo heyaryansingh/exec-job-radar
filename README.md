@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,949 open roles** at **1,051 companies** · **159 new in the last 24 hours** · 5,537 company career sites watched · updated hourly · last update Oct 30, 2026 03:19 AM ET
+**2,949 open roles** at **1,051 companies** · **157 new in the last 24 hours** · 5,537 company career sites watched · updated hourly · last update Oct 30, 2026 03:32 AM ET
 
 By level: Director 1495 · VP 621 · Sr. Director 361 · Head 181 · EVP/SVP 121 · ED 74 · C-level 70 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1495 · VP 621 · Sr. Director 361 · Head 181 · EVP/SVP 121
 
 ## Contents
 
-- [🆕 New in the last 24 hours (159)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (157)](#new-in-the-last-24-hours)
 - [🤠 Houston area (73)](#houston-area)
 - [👑 Executive Technology Leadership (73)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (193)](#security-risk-technology)
@@ -191,8 +191,6 @@ By level: Director 1495 · VP 621 · Sr. Director 361 · Head 181 · EVP/SVP 121
 | Principal Financial Group | 🆕 Director of Engineering, Cyber GRC Data, AI & Automation | Director | Remote, USA | $160K–$210K | 1d | [Apply](https://careers.principal.com/us/jobs/53727/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | West Central Behavioral Health | 🆕 Vice President of Health Information Systems | VP | Lebanon, NH, USA |  | 1d | [Apply](https://secure6.saashr.com/ta/6177729.careers?ShowJob=755402048) |
 | Citi ⭐ | 🆕 Enterprise KYC Technology Development Lead-Director | Director | Jersey City New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Enterprise-KYC-Technology-Development-Lead-Director_261004619) |
-| Oracle | 🆕 Senior Director, Oracle Health Federal | Sr. Director | United States | $194K–$414K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/335078) |
-| Genpact | 🆕 Delivery Director - Data and Analytics 3 | Director | 1401-G-India: Floor 1 to 12, Hafeezpet Pho |  | 1d | [Apply](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Delivery-Director---Data-and-Analytics-3_JR10033753) |
 | Architect Labs | 🆕 Chief Architect | C-level | Palo Alto |  | 2d | [Apply](https://jobs.ashbyhq.com/architect/addc6025-b382-462c-9f1f-e12c552fe7d7) ⚡ |
 | AECOM | 🆕 Principal, NY Metro Transportation Chief Architect | C-level | New York, NY, us |  | 2d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000158339839-principal-ny-metro-transportation-chief-architect) ⚡ |
 | Oracle | 🆕 VP, Technical Programs and Business Operations | VP | United States | $170K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349125) |
@@ -612,7 +610,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Fidelity ⭐ | 🆕 Director, Data Analytics and Insights | Director | 200 Seaport Blvd, Boston MA | $110K–$222K | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/200-Seaport-Blvd-Boston-MA/Director--Data-Analytics-and-Insights_2136458-1) |
 | Alvarez & Marsal | 🆕 Director, PEPI — Data, Cloud & AI Architecture | Director | Charlotte, NC, USA | $150K–$225K | 1d | [Apply](https://careers.alvarezandmarsal.com/en/jobs/18417368-director-pepi-data-cloud-and-ai-architecture?tm_job=202604639-OTHLOC-Cm1bYfwg&tm_event=view&tm_company=47710) |
 | Information Technology Senior Management Forum | 🆕 Director AI Engineer | Director | San Jose, CA, USA | $269K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/xj32f5/director-ai-engineer/san-jose/ca) |
-| Genpact | 🆕 Delivery Director - Data and Analytics 3 | Director | 1401-G-India: Floor 1 to 12, Hafeezpet Pho |  | 1d | [Apply](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Delivery-Director---Data-and-Analytics-3_JR10033753) |
+| Genpact | Delivery Director - Data and Analytics 3 | Director | 1401-G-India: Floor 1 to 12, Hafeezpet Pho |  | 1d | [Apply](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Delivery-Director---Data-and-Analytics-3_JR10033753) |
 | NTT DATA | Managing Director of Data & AI | MD | Plano, TX, USA |  | 1d | [Apply](https://careers.nttdata.com/global/en/job/393000) |
 | Alvarez & Marsal | Director, PEPI — Data, Cloud & AI Architecture | Director | Atlanta, GA, USA | $150K–$225K | 1d | [Apply](https://careers.alvarezandmarsal.com/en/jobs/18417371-director-pepi-data-cloud-and-ai-architecture?tm_job=202604639-OTHLOC-Cj1bYfwd&tm_event=view&tm_company=47710) |
 | D.R. Horton | Senior Director of Data Science – Data Analytics | Sr. Director | Arlington, TX, USA |  | 1d | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605608&tz=GMT-05%3A00&tzname=America%2FChicago) |
@@ -1907,7 +1905,7 @@ _514 older roles in this section are in data/roles.json on the `data` branch._
 | Fluence Energy | 🆕 Director, Global Cybersecurity | Director | USA-VA-Arlington |  | 1d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/fluenceenergy-jobs/job/USA-VA-Arlington/Director_JR101836) |
 | Capital One ⭐ | 🆕 Staff Full-Stack Engineer (Director IC) (req R1001544) | Director | McLean, VA +3 | $269K–$307K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1001544-1) |
 | West Central Behavioral Health | 🆕 Vice President of Health Information Systems | VP | Lebanon, NH, USA |  | 1d | [Apply](https://secure6.saashr.com/ta/6177729.careers?ShowJob=755402048) |
-| Oracle | 🆕 Senior Director, Oracle Health Federal | Sr. Director | United States | $194K–$414K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/335078) |
+| Oracle | Senior Director, Oracle Health Federal | Sr. Director | United States | $194K–$414K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/335078) |
 | TransGrid Energy | Director, Investments | Director | Irvine +1 | $180K–$210K | 2d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9) ⚡ |
 | TransGrid Energy | Director, Investments | Director | Houston, TX, USA | $180K–$210K | 2d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9?utm_source=MqX9elXXvV) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Developer - Vice President | VP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/senior-java-developer-vice-president/287/102559343904) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,949 open roles** at **1,051 companies** · **157 new in the last 24 hours** · 5,537 company career sites watched · updated hourly · last update Oct 30, 2026 03:32 AM ET
+**2,949 open roles** at **1,051 companies** · **156 new in the last 24 hours** · 5,537 company career sites watched · updated hourly · last update Oct 30, 2026 04:23 AM ET
 
 By level: Director 1495 · VP 621 · Sr. Director 361 · Head 181 · EVP/SVP 121 · ED 74 · C-level 70 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1495 · VP 621 · Sr. Director 361 · Head 181 · EVP/SVP 121
 
 ## Contents
 
-- [🆕 New in the last 24 hours (157)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (156)](#new-in-the-last-24-hours)
 - [🤠 Houston area (73)](#houston-area)
 - [👑 Executive Technology Leadership (73)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (193)](#security-risk-technology)
@@ -190,7 +190,6 @@ By level: Director 1495 · VP 621 · Sr. Director 361 · Head 181 · EVP/SVP 121
 | Information Technology Senior Management Forum | 🆕 Director AI Engineer | Director | San Jose, CA, USA | $269K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/xj32f5/director-ai-engineer/san-jose/ca) |
 | Principal Financial Group | 🆕 Director of Engineering, Cyber GRC Data, AI & Automation | Director | Remote, USA | $160K–$210K | 1d | [Apply](https://careers.principal.com/us/jobs/53727/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | West Central Behavioral Health | 🆕 Vice President of Health Information Systems | VP | Lebanon, NH, USA |  | 1d | [Apply](https://secure6.saashr.com/ta/6177729.careers?ShowJob=755402048) |
-| Citi ⭐ | 🆕 Enterprise KYC Technology Development Lead-Director | Director | Jersey City New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Enterprise-KYC-Technology-Development-Lead-Director_261004619) |
 | Architect Labs | 🆕 Chief Architect | C-level | Palo Alto |  | 2d | [Apply](https://jobs.ashbyhq.com/architect/addc6025-b382-462c-9f1f-e12c552fe7d7) ⚡ |
 | AECOM | 🆕 Principal, NY Metro Transportation Chief Architect | C-level | New York, NY, us |  | 2d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000158339839-principal-ny-metro-transportation-chief-architect) ⚡ |
 | Oracle | 🆕 VP, Technical Programs and Business Operations | VP | United States | $170K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349125) |
@@ -1678,7 +1677,7 @@ _106 older roles in this section are in data/roles.json on the `data` branch._
 | Petco | 🆕 Director, Software Engineering (POS) | Director | SSC |  | 1d | [Apply](https://petco.wd504.myworkdayjobs.com/External/job/SSC/Director--Software-Engineering--POS-_R371485) |
 | Gilead Sciences ⭐ | 🆕 Director, IT SAP Product Lifecycle and Quality | Director | United States - California - Foster City +1 |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--IT-SAP-Product-Lifecycle-and-Quality_R0053862) |
 | Moog, Inc | 🆕 Engineering Director EM | Director | Varese, IT +2 |  | 1d | [Apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Varese-IT/Engineering-Director-EM_R-26-21013) |
-| Citi ⭐ | 🆕 Enterprise KYC Technology Development Lead-Director | Director | Jersey City New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Enterprise-KYC-Technology-Development-Lead-Director_261004619) |
+| Citi ⭐ | Enterprise KYC Technology Development Lead-Director | Director | Jersey City New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Enterprise-KYC-Technology-Development-Lead-Director_261004619) |
 | KARMAN | Director, Power Applications | Director | Remote, USA | $210K–$240K | 1d | [Apply](https://karman.applytojob.com/apply/gkXcYWWvZW/Director-Power-Applications?source=INDE&~) |
 | Lancium LLC | Director, Firm Power Development | Director | Spring, TX, USA |  | 1d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |
 | Kraft Heinz | Associate Finance Director, FP&A/Commercial Finance - Capability & Technology (req R-108041) | Director | Chicago, IL |  | 1d | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Chicago-IL/Associate-Finance-Director--FP-A-Commercial-Finance---Capability---Technology_R-108041) |

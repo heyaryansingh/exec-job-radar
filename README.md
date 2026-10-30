@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,961 open roles** at **1,059 companies** · **159 new in the last 24 hours** · 5,540 company career sites watched · updated hourly · last update Oct 30, 2026 07:24 AM ET
+**2,961 open roles** at **1,059 companies** · **159 new in the last 24 hours** · 5,542 company career sites watched · updated hourly · last update Oct 30, 2026 08:23 AM ET
 
 By level: Director 1499 · VP 624 · Sr. Director 362 · Head 182 · EVP/SVP 122 · ED 75 · C-level 71 · MD 26
 
@@ -47,9 +47,9 @@ By level: Director 1499 · VP 624 · Sr. Director 362 · Head 182 · EVP/SVP 122
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Sonos | 🆕 Vice President, Enterprise Acceleration | VP | Boston, MA, USA | $262K–$327K | 0d | [Apply](https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) |
-| boi | 🆕 Head of Engineering | Head | Atlanta, GA, USA · Remote | $225K–$300K | 0d | [Apply](https://apply.workable.com/j/259834A555) |
 | 12M & Ed Tech Recruiting | 🆕 Chief Technology Officer | C-level | New York, NY, USA | $250K–$300K | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5975884) |
+| boi | 🆕 Head of Engineering | Head | Atlanta, GA, USA · Remote | $225K–$300K | 0d | [Apply](https://apply.workable.com/j/259834A555) |
+| Sonos | 🆕 Vice President, Enterprise Acceleration | VP | Boston, MA +1 |  | 0d | [Apply](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) [alt](https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) |
 | State Street ⭐ | 🆕 Head of Transformation, Investment Services  - Senior Vice President | EVP/SVP | Boston, Massachusetts | $225K–$338K | 0d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Head-of-Transformation--Investment-Services----Senior-Vice-President_R-800562) |
 | Flexera | 🆕 Senior Director, Platform | Sr. Director | Remote, USA |  | 0d | [Apply](https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-United-States/Senior-Director--Platform_17615) |
 | Honu Services, Inc | 🆕 Director of Client Services | Director | Remote, USA | $180K–$210K | 0d | [Apply](https://careers-honuservices.icims.com/jobs/3987/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -1903,7 +1903,7 @@ _516 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Sonos | 🆕 Vice President, Enterprise Acceleration | VP | Boston, MA, USA | $262K–$327K | 0d | [Apply](https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) |
+| Sonos | 🆕 Vice President, Enterprise Acceleration | VP | Boston, MA +1 |  | 0d | [Apply](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) [alt](https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) |
 | Honu Services, Inc | 🆕 Director of Client Services | Director | Remote, USA | $180K–$210K | 0d | [Apply](https://careers-honuservices.icims.com/jobs/3987/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | JM HUBER CORPORATION | 🆕 Sr. Director, Enterprise Intelligence | Sr. Director | Atlanta, GA, USA |  | 0d | [Apply](https://careers.huber.com/job/Atlanta-Sr_-Director%2C-Enterprise-Intelligence-GA-30301/1445152000/) |
 | Micron ⭐ | 🆕 Director / DMTS, Process Integration Lead – Advanced Packaging (2.5D/3D, HBM) | Director | Boise, ID - Main Site |  | 1d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Director---DMTS--Process-Integration-Lead---Advanced-Packaging--25D-3D--HBM--Hybrid-Bonding-_JR111448) |

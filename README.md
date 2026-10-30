@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**2,958 open roles** at **1,056 companies** · **156 new in the last 24 hours** · 5,540 company career sites watched · updated hourly · last update Oct 30, 2026 06:23 AM ET
+**2,961 open roles** at **1,059 companies** · **159 new in the last 24 hours** · 5,540 company career sites watched · updated hourly · last update Oct 30, 2026 07:24 AM ET
 
-By level: Director 1499 · VP 623 · Sr. Director 362 · Head 181 · EVP/SVP 122 · ED 75 · C-level 70 · MD 26
+By level: Director 1499 · VP 624 · Sr. Director 362 · Head 182 · EVP/SVP 122 · ED 75 · C-level 71 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (156)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (159)](#new-in-the-last-24-hours)
 - [🤠 Houston area (73)](#houston-area)
-- [👑 Executive Technology Leadership (73)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (74)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (195)](#security-risk-technology)
 - [🧠 Data & AI (795)](#data-ai)
 - [🚦 Reliability & Operations (190)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (276)](#cloud-infrastructure)
 - [🏛️ Architecture (85)](#architecture)
 - [🔄 Transformation & Delivery (358)](#transformation-delivery)
-- [🛠️ Engineering & Software (765)](#engineering-software)
-- [📌 Other Senior Roles (221)](#other-senior-roles)
+- [🛠️ Engineering & Software (766)](#engineering-software)
+- [📌 Other Senior Roles (222)](#other-senior-roles)
 - [🔒 Recently closed (130)](#recently-closed)
 - Daily digests: [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md) · [10-24](data/daily/2026-10-24.md)
 
@@ -47,6 +47,9 @@ By level: Director 1499 · VP 623 · Sr. Director 362 · Head 181 · EVP/SVP 122
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Sonos | 🆕 Vice President, Enterprise Acceleration | VP | Boston, MA, USA | $262K–$327K | 0d | [Apply](https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) |
+| boi | 🆕 Head of Engineering | Head | Atlanta, GA, USA · Remote | $225K–$300K | 0d | [Apply](https://apply.workable.com/j/259834A555) |
+| 12M & Ed Tech Recruiting | 🆕 Chief Technology Officer | C-level | New York, NY, USA | $250K–$300K | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5975884) |
 | State Street ⭐ | 🆕 Head of Transformation, Investment Services  - Senior Vice President | EVP/SVP | Boston, Massachusetts | $225K–$338K | 0d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Head-of-Transformation--Investment-Services----Senior-Vice-President_R-800562) |
 | Flexera | 🆕 Senior Director, Platform | Sr. Director | Remote, USA |  | 0d | [Apply](https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-United-States/Senior-Director--Platform_17615) |
 | Honu Services, Inc | 🆕 Director of Client Services | Director | Remote, USA | $180K–$210K | 0d | [Apply](https://careers-honuservices.icims.com/jobs/3987/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -66,8 +69,8 @@ By level: Director 1499 · VP 623 · Sr. Director 362 · Head 181 · EVP/SVP 122
 | Slalom Consulting | 🆕 Delivery Director, Product Engineering | Director | Nashville, TN, USA | $195K–$244K | 0d | [Apply](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=3994) |
 | The Goley Companies | 🆕 Director of Technology and Innovation | Director | Dupo, IL, USA |  | 0d | [Apply](https://thegoleycompanies.com/careers/?gnk=job&gni=8a7885a8a184742e01a188f0dcef0bc8&gns=Indeed+Free) |
 | Trace3 | 🆕 Senior Regional Director, Engineering | Director | Denver, CO, USA | $230K–$250K | 0d | [Apply](https://grnh.se/m4cuiueg1us) |
-| Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Group Manager E2E Testing Automation Lead Sr Vice President | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/it-quality-group-manager-e2e-testing-automation-lead-sr-vice-president/287/102604407552) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Cloud and DevOps Engineer - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-cloud-and-devops-engineer-vice-president/287/102602560832) |
+| Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Group Manager E2E Testing Automation Lead Sr Vice President | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/it-quality-group-manager-e2e-testing-automation-lead-sr-vice-president/287/102604407552) |
 | Sandia National Laboratories | 🆕 Director, Global Security & Nonproliferation (Center 6800) | Director | Albuquerque, NM, USA | $236K–$401K | 1d | [Apply](https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699535&PostingSeq=1) |
 | Sierra Nevada Corporation | 🆕 Director Security Operations | Director | Sparks, NV |  | 1d | [Apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Director-Security-Operations_R0031302) [alt](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Director-Security-Operations_R0031302) |
 | Breakthru Beverage Group | 🆕 Sr. Director,  AI Software Engineering & Integrations | Sr. Director | Cicero IL USA | $175K–$215K | 1d | [Apply](https://breakthru.wd5.myworkdayjobs.com/BBG-US/job/Cicero-IL-USA/Sr-Director---AI-Software-Engineering---Integrations_R0044400) |
@@ -292,6 +295,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| 12M & Ed Tech Recruiting | 🆕 Chief Technology Officer | C-level | New York, NY, USA | $250K–$300K | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5975884) |
 | Leidos | 🆕 SVP, Chief Technology Officer, Homeland Sector | C-level | Reston, VA, USA | $262K–$422K | 0d | [Apply](https://careers.leidos.com/jobs/18425083-svp-chief-technology-officer-homeland-sector?tm_job=R-00195725&tm_event=view&tm_company=2502) |
 | CHARTER OAK FEDERAL CREDIT UNION | 🆕 SVP CHIEF TECHNOLOGY OFFICER | C-level | Waterford, CT, USA | $176K–$293K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ad93dc8-c852-4d8d-9448-a31d9d9e4fc7&ccId=19000101_000001&jobId=633315&source=IN&lang=en_US) |
 | Innovation Health | 🆕 Chief Technology Officer | C-level | North Little Rock, AR, USA | $220K–$275K | 1d | [Apply](https://www.indeed.com/viewjob?jk=b76a9d8615e9a0c0) |
@@ -1640,6 +1644,7 @@ _108 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| boi | 🆕 Head of Engineering | Head | Atlanta, GA, USA · Remote | $225K–$300K | 0d | [Apply](https://apply.workable.com/j/259834A555) |
 | Moog, Inc | 🆕 Engineering Director - EM (opening #2) | Director | Varese, IT +2 |  | 0d | [Apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Varese-IT/Engineering-Director---EM_R-26-21043) |
 | BNY ⭐ | 🆕 Senior Director, Engineering Group Leader (req 77259) | Sr. Director | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77259) |
 | Jefferies LLC | 🆕 VP, C++ Developer - OMS Technology | VP | New York, NY, United States | $200K–$250K | 0d | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5035) |
@@ -1889,9 +1894,8 @@ _108 older roles in this section are in data/roles.json on the `data` branch._
 | Knights Companies | Director of Technical Services | Director | Summerville, SC, USA |  | 8d | [Apply](https://grnh.se/8sz1tlm39us) |
 | MillerKnoll | VP, Americas Technology | VP | Holland, MI, USA |  | 8d | [Apply](https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Holland/VP--Americas-Technology_JR109906) |
 | Scale Computing | Director of IT | Director | Austin, TX, USA |  | 8d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4607306/Scale-Computing-INC/Director-of-IT?source=Indeed_Feed) |
-| Clark Construction | Director of Software Engineering | Director | Irvine, CA | $190K–$220K | 8d | [Apply](https://clark.wd503.myworkdayjobs.com/ClarkExternal/job/Irvine-CA/Director-of-Software-Engineering_R5025378-1) [alt](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Irvine-CA/Director-of-Software-Engineering_R5025378-1) |
 
-_515 older roles in this section are in data/roles.json on the `data` branch._
+_516 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -1899,6 +1903,7 @@ _515 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Sonos | 🆕 Vice President, Enterprise Acceleration | VP | Boston, MA, USA | $262K–$327K | 0d | [Apply](https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Vice-President--Enterprise-Acceleration_R2891) |
 | Honu Services, Inc | 🆕 Director of Client Services | Director | Remote, USA | $180K–$210K | 0d | [Apply](https://careers-honuservices.icims.com/jobs/3987/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | JM HUBER CORPORATION | 🆕 Sr. Director, Enterprise Intelligence | Sr. Director | Atlanta, GA, USA |  | 0d | [Apply](https://careers.huber.com/job/Atlanta-Sr_-Director%2C-Enterprise-Intelligence-GA-30301/1445152000/) |
 | Micron ⭐ | 🆕 Director / DMTS, Process Integration Lead – Advanced Packaging (2.5D/3D, HBM) | Director | Boise, ID - Main Site |  | 1d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Director---DMTS--Process-Integration-Lead---Advanced-Packaging--25D-3D--HBM--Hybrid-Bonding-_JR111448) |

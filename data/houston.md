@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-73 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+74 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| NAES Corporation | 🆕 Sr Technical Product Director | Director | Spring, TX, USA | $202K–$250K | 0d | [Apply](https://recruiting2.ultipro.com/NAE1000NAES/JobBoard/f858dd65-f751-41a6-add7-7b877e9b6076/OpportunityDetail?opportunityId=c7dc9eaf-af0f-480a-9336-beb7e9ff8e89&postingId=f28e385a-010f-4141-859f-76ca8233b217) |
 | Houston-Galveston Area Council | 🆕 Director of Data Analytics & Research | Director | Houston, TX, USA | $149K–$213K | 1d | [Apply](https://houstongalvestonareacouncil.applytojob.com/apply/2jvTOm8VHR/Director-Of-Data-Analytics-Research?source=INDE&~) |
 | Lancium LLC | Director, Firm Power Development | Director | Spring, TX, USA |  | 1d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |
 | Alvarez & Marsal | Director, PEPI — Data, Cloud & AI Architecture | Director | Houston, TX, USA | $150K–$225K | 2d | [Apply](https://careers.alvarezandmarsal.com/jobs/18417375) [alt](https://careers.alvarezandmarsal.com/en/jobs/18417375-director-pepi-data-cloud-and-ai-architecture?tm_job=202604639-OTHLOC-Cu2bYfwp&tm_event=view&tm_company=47710) |

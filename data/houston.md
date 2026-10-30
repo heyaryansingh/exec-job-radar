@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-74 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+75 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Honeywell ⭐ | 🆕 Director, Semiconductor Global Portfolio Management | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160964) |
 | NAES Corporation | 🆕 Sr Technical Product Director | Director | Spring, TX, USA | $202K–$250K | 0d | [Apply](https://recruiting2.ultipro.com/NAE1000NAES/JobBoard/f858dd65-f751-41a6-add7-7b877e9b6076/OpportunityDetail?opportunityId=c7dc9eaf-af0f-480a-9336-beb7e9ff8e89&postingId=f28e385a-010f-4141-859f-76ca8233b217) |
 | Houston-Galveston Area Council | 🆕 Director of Data Analytics & Research | Director | Houston, TX, USA | $149K–$213K | 1d | [Apply](https://houstongalvestonareacouncil.applytojob.com/apply/2jvTOm8VHR/Director-Of-Data-Analytics-Research?source=INDE&~) |
 | Lancium LLC | Director, Firm Power Development | Director | Spring, TX, USA |  | 1d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |

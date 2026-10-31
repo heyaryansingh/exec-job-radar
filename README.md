@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,165 open roles** at **1,143 companies** · **94 new in the last 24 hours** · 5,591 company career sites watched · updated hourly · last update Oct 31, 2026 06:14 PM ET
+**3,165 open roles** at **1,143 companies** · **90 new in the last 24 hours** · 5,591 company career sites watched · updated hourly · last update Oct 31, 2026 07:05 PM ET
 
 By level: Director 1615 · VP 657 · Sr. Director 383 · Head 195 · EVP/SVP 125 · C-level 85 · ED 79 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1615 · VP 657 · Sr. Director 383 · Head 195 · EVP/SVP 125
 
 ## Contents
 
-- [🆕 New in the last 24 hours (94)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (90)](#new-in-the-last-24-hours)
 - [🤠 Houston area (83)](#houston-area)
 - [👑 Executive Technology Leadership (88)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (202)](#security-risk-technology)
@@ -47,9 +47,9 @@ By level: Director 1615 · VP 657 · Sr. Director 383 · Head 195 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 0d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 0d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
 | Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 0d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
 | City of Lincoln/Lancaster County | 🆕 Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 0d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
 | Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 0d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
@@ -127,10 +127,6 @@ By level: Director 1615 · VP 657 · Sr. Director 383 · Head 195 · EVP/SVP 125
 | Walmart | 🆕 (USA) Senior Director, Product Management | Sr. Director | Bentonville, AR, USA | $160K–$416K | 1d | [Apply](https://click.appcast.io/t/4aQfjuBdA7Q9_OeO5dCg_s7hzbpK0IJtI2QPp-OEjMw=) |
 | NVIDIA ⭐ | 🆕 Director, Autonomous Vehicles Platform | Director | US, CA, Santa Clara |  | 1d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Abstraction-Layer-Engineering---Autonomous-Platform_JR2002272) |
 | Polaris Industries | 🆕 Engineering Director - Design | Director | Wyoming, MN, USA | $182K–$239K | 1d | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Director---Design_R31758) [alt](https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Director---Design_R31758) |
-| Merck | 🆕 Director, US Quality (Analytical Technical Solutions) Lead | Director | De Soto, Kansas, United States of America |  | 1d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424572ENUS) |
-| Merck | 🆕 Director, Data Science, Functional Genomics | Director | Cambridge, Massachusetts, United States of |  | 1d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424842ENUS) |
-| JLL ⭐ | 🆕 Regional Engineering Director | Director | Boston, MA +2 · Remote |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Regional-Engineering-Director_REQ546154) |
-| Macfound | 🆕 Executive Director, Philanthropy Data Commons | ED | Chicago Office |  | 1d | [Apply](https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Executive-Director--Philanthropy-Data-Commons_REQ-000377) |
 | Tempus | 🆕 Director, Revenue Cycle Operations - Tempus AI Diagnostics | Director | Remote - Illinois | $150K–$200K | 2d | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Director--Revenue-Cycle-Operations---Tempus-AI-Diagnostics_JR202601163-1) |
 | BrightKey | 🆕 Chief Technology Officer - BrightKey | C-level | Baltimore, Maryland |  | 2d | [Apply](https://www.talent.com/view?id=643707439632359399) |
 | KADENCE | 🆕 Chief Technology Officer | C-level | White Plains, New York |  | 2d | [Apply](https://www.talent.com/view?id=641833507626484906) |
@@ -553,8 +549,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Momentous | 🆕 Director of Technology & Data Engineering | Director | Park City, Utah, United States |  | 1d | [Apply](https://job-boards.greenhouse.io/momentous/jobs/5468828008) ⚡ |
 | Morgan Stanley ⭐ | 🆕 AI Strategy & Enablement VP | VP | New York, New York, United States of Ameri |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-Strategy---Enablement-VP_PT-JR045843) |
 | NVIDIA ⭐ | 🆕 Director, Product Management – AI Networking Spectrum HW | Director | US, CA, Santa Clara |  | 1d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Product-Management---AI-Networking-Spectrum-X_JR2019242) |
-| Merck | 🆕 Director, Data Science, Functional Genomics | Director | Cambridge, Massachusetts, United States of |  | 1d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424842ENUS) |
-| Macfound | 🆕 Executive Director, Philanthropy Data Commons | ED | Chicago Office |  | 1d | [Apply](https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Executive-Director--Philanthropy-Data-Commons_REQ-000377) |
+| Merck | Director, Data Science, Functional Genomics | Director | Cambridge, Massachusetts, United States of |  | 1d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424842ENUS) |
+| Macfound | Executive Director, Philanthropy Data Commons | ED | Chicago Office |  | 1d | [Apply](https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Executive-Director--Philanthropy-Data-Commons_REQ-000377) |
 | LaunchDarkly | Director, Internal AI Operations | Director | Remote - US |  | 1d | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/8109676003) ⚡ |
 | Citi (jobs.citi.com) ⭐ | Senior AI/AML Engineer, Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/senior-ai-aml-engineer-vice-president/287/102646146336) [alt](https://jobs.citi.com/job/jersey-city/senior-ai-aml-engineer-vice-president/287/102646145808) |
 | Citi (jobs.citi.com) ⭐ | Senior Java/Big Data Developer - VP | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/senior-java-big-data-developer-vp/287/102650417552) |
@@ -1630,8 +1626,8 @@ _134 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
 | Celestica | 🆕 Director, Design Engineering - Software | Director | San Jose, CA, USA |  | 0d | [Apply](https://careers.celestica.com/job/San-Jose-Director%2C-Design-Engineering-Software-CA-95101/1453145133/) |
 | Peraton | 🆕 Director, Software Engineering Solutions | Director | King of Prussia, PA, USA | $146K–$234K | 0d | [Apply](https://www.careers.peraton.com/jobs/director-software-engineering-solutions-king-of-prussia-pennsylvania-173016-jobs--growth--) |
 | CLARK Material Handling Company | 🆕 Director of Engineering | Director | Lexington, KY, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/clarkmhc/CANDIDATEPORTAL/jobs/2283) |
@@ -1654,8 +1650,8 @@ _134 older roles in this section are in data/roles.json on the `data` branch._
 | IE HCR | 🆕 IT Director | Director | Pinehurst, NC, USA |  | 1d | [Apply](https://www.indeed.com/viewjob?jk=81d213efee6c4348) |
 | Novo | 🆕 Associate IT/OT Project Director-DPM US CL2 | Director | Clayton, NC, USA |  | 1d | [Apply](https://careers.novonordisk.com/job/Clayton-Associate-ITOT-Project-Director-DPM-US-CL2-NC/1452717333/) |
 | Polaris Industries | 🆕 Engineering Director - Design | Director | Wyoming, MN, USA | $182K–$239K | 1d | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Director---Design_R31758) [alt](https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Director---Design_R31758) |
-| Merck | 🆕 Director, US Quality (Analytical Technical Solutions) Lead | Director | De Soto, Kansas, United States of America |  | 1d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424572ENUS) |
-| JLL ⭐ | 🆕 Regional Engineering Director | Director | Boston, MA +2 · Remote |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Regional-Engineering-Director_REQ546154) |
+| Merck | Director, US Quality (Analytical Technical Solutions) Lead | Director | De Soto, Kansas, United States of America |  | 1d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424572ENUS) |
+| JLL ⭐ | Regional Engineering Director | Director | Boston, MA +2 · Remote |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Regional-Engineering-Director_REQ546154) |
 | Bland | Director of Technology Partnerships | Director | San Francisco or Remote | $160K–$240K | 1d | [Apply](https://jobs.ashbyhq.com/bland/0393fafd-0681-4b60-82e0-9f97e8e62393) ⚡ |
 | Protiviti | Technology Consulting Microsoft Dynamics Director | Director | DENVER |  | 1d | [Apply](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/DENVER/Technology-Consulting-Microsoft-Dynamics-Director_JR-262093) |
 | University of Texas at Austin | Executive Director of Information Technology, Cockrell School of Engineering | ED | UT MAIN CAMPUS |  | 1d | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Executive-Director-of-Information-Technology--Cockrell-School-of-Engineering_R_00049691) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,142 open roles** at **1,134 companies** · **181 new in the last 24 hours** · 5,582 company career sites watched · updated hourly · last update Oct 31, 2026 10:25 AM ET
+**3,142 open roles** at **1,134 companies** · **178 new in the last 24 hours** · 5,582 company career sites watched · updated hourly · last update Oct 31, 2026 11:28 AM ET
 
 By level: Director 1604 · VP 656 · Sr. Director 379 · Head 191 · EVP/SVP 123 · C-level 84 · ED 79 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1604 · VP 656 · Sr. Director 379 · Head 191 · EVP/SVP 123
 
 ## Contents
 
-- [🆕 New in the last 24 hours (181)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (178)](#new-in-the-last-24-hours)
 - [🤠 Houston area (82)](#houston-area)
 - [👑 Executive Technology Leadership (87)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (201)](#security-risk-technology)
@@ -216,9 +216,6 @@ By level: Director 1604 · VP 656 · Sr. Director 379 · Head 191 · EVP/SVP 123
 | Smith+Nephew | 🆕 IT Director, ERP Portfolio Demand & Delivery | Director | POL - Field |  | 1d | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Field/IT-Director--ERP-Portfolio-Demand---Delivery_R92759) |
 | Smith+Nephew | 🆕 IT Director, ERP Data & MDM | Director | POL - Field |  | 1d | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Field/IT-Director--ERP-Data---MDM_R92760) |
 | Xcel Energy | 🆕 Director Nuclear Engineering Fleet Operations - Welch, MN | Director | Welch, MN, 55089 |  | 1d | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Welch-MN-55089/Director-Nuclear-Engineering-Fleet-Operations---Welch--MN_JR112951-1) |
-| BNY ⭐ | 🆕 Vice President, AI / Machine Learning Data Engineering | VP | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77674) |
-| WSP | 🆕 Telecommunication Engineer - Technical Director | Director | Boise, ID, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98539) |
-| Coca-Cola ⭐ | 🆕 Senior Director, Franchise Strategy & Transformation | Sr. Director | US – REMOTE |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Senior-Director--Franchise-Strategy---Transformation_R-148047) |
 | BrightKey | 🆕 Chief Technology Officer - BrightKey | C-level | Baltimore, Maryland |  | 2d | [Apply](https://www.talent.com/view?id=643707439632359399) |
 | KADENCE | 🆕 Chief Technology Officer | C-level | White Plains, New York |  | 2d | [Apply](https://www.talent.com/view?id=641833507626484906) |
 | Langley Federal Credit Union | 🆕 Vice President, Technology Strategy | VP | Newport News, Virginia | $160K–$220K | 2d | [Apply](https://us.trabajo.org/job-4111-4d058c9efc950068476807b2aa447e99) |
@@ -665,7 +662,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Ares Insurance Solutions | 🆕 Vice President, Data & Reporting | VP | New York, NY | $190K–$210K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Data---Reporting_R8710) |
 | Maxar | 🆕 Director, Applied AI & Data Science | Director | Herndon, VA |  | 1d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Director--Applied-AI---Data-Science_R24809) |
 | Smith+Nephew | 🆕 IT Director, ERP Data & MDM | Director | POL - Field |  | 1d | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Field/IT-Director--ERP-Data---MDM_R92760) |
-| BNY ⭐ | 🆕 Vice President, AI / Machine Learning Data Engineering | VP | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77674) |
+| BNY ⭐ | Vice President, AI / Machine Learning Data Engineering | VP | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77674) |
 | VP DIGITAL TRANSFORMATION & TECHNOLOGY | Assistant VP of Research & AI Enablement | VP | Norfolk, VA, USA | $200K–$230K | 1d | [Apply](https://www.jobs.virginia.gov/jobs/assistant-vp-of-research-ai-enablement-norfolk-virginia-united-states-508e94d0-08ce-4a90-9467-e99fdf0dd41f) |
 | JPMorgan Chase ⭐ | Data Scientist Lead - Business Banking Lending - Vice President | VP | Columbus, OH, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804930) |
 | Coca-Cola ⭐ | Director, Architect, Data & Analytics | Director | US - GA - Atlanta |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Architect--Data---Analytics_R-148286-1) |
@@ -1477,7 +1474,7 @@ _35 older roles in this section are in data/roles.json on the `data` branch._
 | Equinix ⭐ | 🆕 Director, Technology Program Management | Director | Remote Location - United States of America |  | 1d | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Remote-Location---United-States-of-America/Director--Technology-Program-Management_JR-163670) |
 | Hayward Industries | 🆕 Director, IT Governance & PMO | Director | Charlotte, NC, US |  | 1d | [Apply](https://hayward.wd1.myworkdayjobs.com/External/job/Charlotte-NC-US/Director--IT-Governance---PMO_R26_000425) |
 | Smith+Nephew | 🆕 IT Director, ERP Portfolio Demand & Delivery | Director | POL - Field |  | 1d | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Field/IT-Director--ERP-Portfolio-Demand---Delivery_R92759) |
-| Coca-Cola ⭐ | 🆕 Senior Director, Franchise Strategy & Transformation | Sr. Director | US – REMOTE |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Senior-Director--Franchise-Strategy---Transformation_R-148047) |
+| Coca-Cola ⭐ | Senior Director, Franchise Strategy & Transformation | Sr. Director | US – REMOTE |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Senior-Director--Franchise-Strategy---Transformation_R-148047) |
 | State Street ⭐ | Head of Transformation, Investment Services  - Senior Vice President | EVP/SVP | Boston, Massachusetts | $225K–$338K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Head-of-Transformation--Investment-Services----Senior-Vice-President_R-800562) |
 | Information Technology Senior Management Forum | Staff Full-Stack Engineer (Director IC) - Digital Payments | Director | Chicago, IL, USA | $245K–$279K | 1d | [Apply](https://jobs.itsmfleaders.org/job/6cwld5/staff-full-stack-engineer-(director-ic)-digital-payments/chicago/il) |
 | Slalom Consulting | Delivery Director, Product Engineering | Director | Nashville, TN, USA | $195K–$244K | 1d | [Apply](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=3994) |
@@ -1759,7 +1756,7 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 | AbbVie ⭐ | 🆕 Director, Engineering, Technical Expert Sterile Fill (req 3743990016526566) | Director | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016526566-director-engineering-technical-expert-sterile-fill) ⚡ |
 | Benchmark | 🆕 Director of Engineering | Director | Residence Inn Berkeley |  | 1d | [Apply](https://benchmark.wd1.myworkdayjobs.com/PGH_Careers/job/Residence-Inn-Berkeley/Director-of-Engineering_R0068480) |
 | Smith+Nephew | 🆕 IT Director, ERP Solution CoE | Director | POL - Field |  | 1d | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/POL---Field/IT-Director--ERP-Solution-CoE_R92758) |
-| WSP | 🆕 Telecommunication Engineer - Technical Director | Director | Boise, ID, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98539) |
+| WSP | Telecommunication Engineer - Technical Director | Director | Boise, ID, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98539) |
 | Wells Fargo ⭐ | Technology Director (req R-561335) | Director | CHARLOTTE, NC +2 |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Technology-Director_R-561335) |
 | Citi ⭐ | Investment Banking Director - Technology | Director | San Francisco California United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investment-Banking-Director---Technology_26995246) |
 | Kemper | Director - IT Planning & Performance Management | Director | Jacksonville, Florida +6 | $130K–$216K | 1d | [Apply](https://kemper.wd5.myworkdayjobs.com/Kemper_Careers/job/Jacksonville-Florida/Director---IT-Planning---Performance-Management_R-26-0038969) |

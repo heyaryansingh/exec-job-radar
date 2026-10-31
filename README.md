@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,131 open roles** at **1,125 companies** · **194 new in the last 24 hours** · 5,571 company career sites watched · updated hourly · last update Oct 31, 2026 12:45 AM ET
+**3,133 open roles** at **1,127 companies** · **194 new in the last 24 hours** · 5,579 company career sites watched · updated hourly · last update Oct 31, 2026 01:45 AM ET
 
-By level: Director 1595 · VP 655 · Sr. Director 379 · Head 191 · EVP/SVP 123 · C-level 83 · ED 79 · MD 26
+By level: Director 1597 · VP 655 · Sr. Director 379 · Head 191 · EVP/SVP 123 · C-level 83 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -30,14 +30,14 @@ By level: Director 1595 · VP 655 · Sr. Director 379 · Head 191 · EVP/SVP 123
 - [🆕 New in the last 24 hours (194)](#new-in-the-last-24-hours)
 - [🤠 Houston area (82)](#houston-area)
 - [👑 Executive Technology Leadership (86)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (200)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (201)](#security-risk-technology)
 - [🧠 Data & AI (833)](#data-ai)
 - [🚦 Reliability & Operations (204)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (284)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
 - [🔄 Transformation & Delivery (382)](#transformation-delivery)
 - [🛠️ Engineering & Software (816)](#engineering-software)
-- [📌 Other Senior Roles (237)](#other-senior-roles)
+- [📌 Other Senior Roles (238)](#other-senior-roles)
 - [🔒 Recently closed (145)](#recently-closed)
 - Daily digests: [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md) · [10-25](data/daily/2026-10-25.md)
 
@@ -47,19 +47,20 @@ By level: Director 1595 · VP 655 · Sr. Director 379 · Head 191 · EVP/SVP 123
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Lightera | 🆕 SVP, Global IT | EVP/SVP | Norcross, GA, USA |  | 0d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001235376306&c=2173707&d=ExternalCareerSite&rb=INDEED&idUnique=5001235376306) |
-| Word & Brown Companies | 🆕 Director, Solutions Delivery (4791) | Director | Orange, CA, USA | $200K–$220K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/D68D0109E01BF31829D2BE056D8C82DF/jobs/84269) |
-| The Kraft Group | 🆕 Director of IT Operations | Director | Foxborough, MA, USA | $176K–$202K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/BCD29E46F85A4B5DFC77EAEE18775287/jobs/577883?source=Indeed) |
-| Kintegra Health | 🆕 Director of Information Systems | Director | Gastonia, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dba3b3a-988b-4536-970e-dff855707ff9&ccId=9200056745330_2&jobId=597169&source=IN&lang=en_US) |
-| Citrin Cooperman | 🆕 Assurance Acquisition & Integration Director | Director | Manhattan, NY, USA · Remote | $160K–$225K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/E9A2AA28834E20BD25923E295653B2F6/jobs/367018?source=Indeed) |
-| CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
 | AccessHealth | 🆕 Director of Development & External Affairs | Director | Richmond, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/DC8696665A6083E618AF32CA62D76371/jobs/306207?source=Indeed) |
+| CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
+| Citrin Cooperman | 🆕 Assurance Acquisition & Integration Director | Director | Manhattan, NY, USA · Remote | $160K–$225K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/E9A2AA28834E20BD25923E295653B2F6/jobs/367018?source=Indeed) |
+| Kintegra Health | 🆕 Director of Information Systems | Director | Gastonia, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dba3b3a-988b-4536-970e-dff855707ff9&ccId=9200056745330_2&jobId=597169&source=IN&lang=en_US) |
+| Lightera | 🆕 SVP, Global IT | EVP/SVP | Norcross, GA, USA |  | 0d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001235376306&c=2173707&d=ExternalCareerSite&rb=INDEED&idUnique=5001235376306) |
+| The Kraft Group | 🆕 Director of IT Operations | Director | Foxborough, MA, USA | $176K–$202K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/BCD29E46F85A4B5DFC77EAEE18775287/jobs/577883?source=Indeed) |
+| Word & Brown Companies | 🆕 Director, Solutions Delivery (4791) | Director | Orange, CA, USA | $200K–$220K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/D68D0109E01BF31829D2BE056D8C82DF/jobs/84269) |
 | Altamira Technologies Corp. | 🆕 Senior Director of Engineering | Sr. Director | Remote, USA | $184K–$286K | 0d | [Apply](https://www.indeed.com/viewjob?jk=fb020666d46f4d1b) |
 | Central Valley Ag Cooperative | 🆕 Director of Applied Innovation - York, NE | Director | York, NE, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=23a893d8-b6eb-4ddb-8bd2-dfc281b1abe3&ccId=19000101_000001&jobId=1010221&source=IN&lang=en_US) |
 | Glenmede Trust Company | 🆕 Director of Architecture and Engineering | Director | Philadelphia, PA, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91a10898-d8ce-4d8a-8e43-34624df15cff&ccId=19000101_000001&jobId=559455&source=IN&lang=en_US) |
 | Information Technology Senior Management Forum | 🆕 Senior Director, Product Design, Conversational Platform | Sr. Director | McLean, VA, USA | $270K–$308K | 0d | [Apply](https://jobs.itsmfleaders.org/job/92rntw/senior-director-product-design-conversational-platform/mclean/va) |
 | Sysdig | 🆕 FinOps Operational Cost Control, Director | Director | Remote, USA | $198K–$247K | 0d | [Apply](https://jobs.lever.co/sysdig/8eccdb0f-0324-4144-89c1-670cc872d3b4?lever-source=Indeed) |
-| Martin's Point Health Care | 🆕 Director, Enterprise Applications - Remote | Director | Portland, ME, USA · Remote | $166K–$204K | 1d | [Apply](https://martin.wd1.myworkdayjobs.com/en-US/MPHC/job/Portland-ME/Director--Enterprise-Applications---Remote_REQ-2026-380) |
+| The Clearing House Payments Company | 🆕 Director, Information Security | Director | North Carolina Office +1 |  | 1d | [Apply](https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Director--Information-Security_JR100221) |
+| Martin's Point Health Care | 🆕 Director, Enterprise Applications - Remote | Director | Portland, ME |  | 1d | [Apply](https://martin.wd1.myworkdayjobs.com/MPHC/job/Portland-ME/Director--Enterprise-Applications---Remote_REQ-2026-380) [alt](https://martin.wd1.myworkdayjobs.com/en-US/MPHC/job/Portland-ME/Director--Enterprise-Applications---Remote_REQ-2026-380) |
 | Momentous | 🆕 Director of Technology & Data Engineering | Director | Park City, Utah, United States |  | 1d | [Apply](https://job-boards.greenhouse.io/momentous/jobs/5468828008) ⚡ |
 | Academian | 🆕 Vice President - Technology US - Hybrid | VP | Surprise, Arizona | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/surprise/arizona/info_technology/5565927067/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Washington, District of Columbia | $250K–$350K | 1d | [Apply](https://www.learn4good.com/jobs/washington/district-of-columbia/info_technology/5567974942/e/) |
@@ -238,7 +239,6 @@ By level: Director 1595 · VP 655 · Sr. Director 379 · Head 191 · EVP/SVP 123
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Group Manager E2E Testing Automation Lead Sr Vice President | VP | Tampa, FL, US |  | 2d | [Apply](https://jobs.citi.com/job/tampa/it-quality-group-manager-e2e-testing-automation-lead-sr-vice-president/287/102604407552) |
 | Sandia National Laboratories | 🆕 Director, Global Security & Nonproliferation (Center 6800) | Director | Albuquerque, NM, USA | $236K–$401K | 2d | [Apply](https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699535&PostingSeq=1) |
 | Sierra Nevada Corporation | 🆕 Director Security Operations | Director | Sparks, NV |  | 2d | [Apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Director-Security-Operations_R0031302) [alt](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Director-Security-Operations_R0031302) |
-| Breakthru Beverage Group | 🆕 Sr. Director,  AI Software Engineering & Integrations | Sr. Director | Cicero IL USA | $175K–$215K | 2d | [Apply](https://breakthru.wd5.myworkdayjobs.com/BBG-US/job/Cicero-IL-USA/Sr-Director---AI-Software-Engineering---Integrations_R0044400) |
 | Rise Technical | 🆕 Vice President of Artificial Intelligence | VP | Boston, Massachusetts | $250K–$330K | 3d | [Apply](https://www.linkedin.com/jobs/view/vice-president-of-artificial-intelligence-at-rise-technical-4482521301) |
 | RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Stafford, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4484482101) |
 
@@ -250,8 +250,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
 | AccessHealth | 🆕 Director of Development & External Affairs | Director | Richmond, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/DC8696665A6083E618AF32CA62D76371/jobs/306207?source=Indeed) |
+| CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
 | Blue Signal Search | 🆕 IT Compliance Director | Director | Houston, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/it-compliance-director-at-blue-signal-search-4483493656) |
 | HPE | 🆕 Global Head of Employee Mobility | Head | Spring, Texas, United States of America +1 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Global-Head-of-Employee-Mobility_1218166) |
 | HP | 🆕 Vice President - PS Agentic AI PC Architecture & Development | VP | Palo Alto, California, United States of Am +1 | $300K–$350K | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/VP---PS-Agentic-AI-PC-Architecture---Development_3168688-1) |
@@ -432,6 +432,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| The Clearing House Payments Company | 🆕 Director, Information Security | Director | North Carolina Office +1 |  | 1d | [Apply](https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Director--Information-Security_JR100221) |
 | NVIDIA ⭐ | 🆕 Director, Global Event Security | Director | US, CA, Santa Clara |  | 1d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Global-Event-Security_JR2023116) |
 | Allium | 🆕 Head of Security & IT | Head | New York +1 |  | 1d | [Apply](https://jobs.ashbyhq.com/allium/6737cb1d-d03b-406c-9d13-70546fc0504d) ⚡ |
 | Geotab | 🆕 Head of Security Centre | Head | Detroit, MI, USA |  | 1d | [Apply](https://grnh.se/w94r01xu8us) |
@@ -681,7 +682,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Breakthru Beverage Group | Sr. Director, AI Software Engineering & Integrations | Sr. Director | Cicero, IL, USA | $175K–$215K | 1d | [Apply](https://breakthru.wd5.myworkdayjobs.com/BBG-US/job/Cicero-IL-USA/Sr-Director---AI-Software-Engineering---Integrations_R0044400) |
 | Charles Schwab | Director, Data Engineering Senior (PL) | Director | Austin, TX, USA | $224K–$297K | 1d | [Apply](https://www.schwabjobs.com/job/austin/director-data-engineering-senior-pl/33727/102612112384) |
 | Pace Partners of North East Florida | Enterprise Data & Analytics Director | Director | Jacksonville, FL, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/aliviacare/join-our-team-alivia-care/jobs/6550) |
-| Breakthru Beverage Group | 🆕 Sr. Director,  AI Software Engineering & Integrations | Sr. Director | Cicero IL USA | $175K–$215K | 2d | [Apply](https://breakthru.wd5.myworkdayjobs.com/BBG-US/job/Cicero-IL-USA/Sr-Director---AI-Software-Engineering---Integrations_R0044400) |
+| Breakthru Beverage Group | Sr. Director,  AI Software Engineering & Integrations | Sr. Director | Cicero IL USA | $175K–$215K | 2d | [Apply](https://breakthru.wd5.myworkdayjobs.com/BBG-US/job/Cicero-IL-USA/Sr-Director---AI-Software-Engineering---Integrations_R0044400) |
 | Comcast (CC) of Willow Grove | Executive Director, Data & AI Governance, Architecture and Products | ED | Englewood, CO, USA | $296K–$464K | 2d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Executive-Director--Data---AI-Governance--Architecture-and-Products_R447890) |
 | OPPIDAN | Vice President, Data Center Operational Readiness | VP | Excelsior, MN, USA | $225K–$400K | 2d | [Apply](https://oppidan.isolvedhire.com/jobs/1894452-695948.html) |
 | Comcast (CC) of Willow Grove | Executive Director, Data & AI Governance, Architecture and Products | ED | Philadelphia, PA, USA | $296K–$464K | 2d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Executive-Director--Data---AI-Governance--Architecture-and-Products_R447890) |
@@ -1464,8 +1465,8 @@ _34 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Word & Brown Companies | 🆕 Director, Solutions Delivery (4791) | Director | Orange, CA, USA | $200K–$220K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/D68D0109E01BF31829D2BE056D8C82DF/jobs/84269) |
 | CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
+| Word & Brown Companies | 🆕 Director, Solutions Delivery (4791) | Director | Orange, CA, USA | $200K–$220K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/D68D0109E01BF31829D2BE056D8C82DF/jobs/84269) |
 | Resource Label Group | 🆕 Director, IT Portfolio & Product Management | Director | Franklin, TN, USA |  | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001235412306&c=2205039&d=RLGExternalCareerSite&rb=INDEED&idUnique=5001235412306) |
 | NVIDIA ⭐ | 🆕 Director, Carline Program Management - Autonomous Vehicles | Director | US, CA, Santa Clara |  | 1d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Carline-Program-Management---Autonomous-Vehicles_JR2020452) |
 | Masabi | 🆕 Project Delivery Director - Fare Payment Modernization | Director | US - East Coast · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/masabi/aaa1062d-24b5-48b7-92ba-16590bb0c568) ⚡ |
@@ -1723,10 +1724,10 @@ _132 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Lightera | 🆕 SVP, Global IT | EVP/SVP | Norcross, GA, USA |  | 0d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001235376306&c=2173707&d=ExternalCareerSite&rb=INDEED&idUnique=5001235376306) |
 | AccessHealth | 🆕 Director of Development & External Affairs | Director | Richmond, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/DC8696665A6083E618AF32CA62D76371/jobs/306207?source=Indeed) |
+| Lightera | 🆕 SVP, Global IT | EVP/SVP | Norcross, GA, USA |  | 0d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001235376306&c=2173707&d=ExternalCareerSite&rb=INDEED&idUnique=5001235376306) |
 | Altamira Technologies Corp. | 🆕 Senior Director of Engineering | Sr. Director | Remote, USA | $184K–$286K | 0d | [Apply](https://www.indeed.com/viewjob?jk=fb020666d46f4d1b) |
-| Martin's Point Health Care | 🆕 Director, Enterprise Applications - Remote | Director | Portland, ME, USA · Remote | $166K–$204K | 1d | [Apply](https://martin.wd1.myworkdayjobs.com/en-US/MPHC/job/Portland-ME/Director--Enterprise-Applications---Remote_REQ-2026-380) |
+| Martin's Point Health Care | 🆕 Director, Enterprise Applications - Remote | Director | Portland, ME |  | 1d | [Apply](https://martin.wd1.myworkdayjobs.com/MPHC/job/Portland-ME/Director--Enterprise-Applications---Remote_REQ-2026-380) [alt](https://martin.wd1.myworkdayjobs.com/en-US/MPHC/job/Portland-ME/Director--Enterprise-Applications---Remote_REQ-2026-380) |
 | Academian | 🆕 Vice President - Technology US - Hybrid | VP | Surprise, Arizona | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/surprise/arizona/info_technology/5565927067/e/) |
 | Blue Signal Search | 🆕 IT Compliance Director | Director | Houston, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/it-compliance-director-at-blue-signal-search-4483493656) |
 | Sedgwick Claims Management Services Ltd | 🆕 Vice President, IT Internal Audit; Remote | VP | Remote | $190K–$240K | 1d | [Apply](https://www.learn4good.com/jobs/online_remote/info_technology/5565264244/e/) |
@@ -1982,8 +1983,8 @@ _566 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Kintegra Health | 🆕 Director of Information Systems | Director | Gastonia, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dba3b3a-988b-4536-970e-dff855707ff9&ccId=9200056745330_2&jobId=597169&source=IN&lang=en_US) |
 | Citrin Cooperman | 🆕 Assurance Acquisition & Integration Director | Director | Manhattan, NY, USA · Remote | $160K–$225K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/E9A2AA28834E20BD25923E295653B2F6/jobs/367018?source=Indeed) |
+| Kintegra Health | 🆕 Director of Information Systems | Director | Gastonia, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dba3b3a-988b-4536-970e-dff855707ff9&ccId=9200056745330_2&jobId=597169&source=IN&lang=en_US) |
 | Central Valley Ag Cooperative | 🆕 Director of Applied Innovation - York, NE | Director | York, NE, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=23a893d8-b6eb-4ddb-8bd2-dfc281b1abe3&ccId=19000101_000001&jobId=1010221&source=IN&lang=en_US) |
 | Sysdig | 🆕 FinOps Operational Cost Control, Director | Director | Remote, USA | $198K–$247K | 0d | [Apply](https://jobs.lever.co/sysdig/8eccdb0f-0324-4144-89c1-670cc872d3b4?lever-source=Indeed) |
 | Sysdig | 🆕 FinOps Operational Cost Control, Director | Director | Flexible - USA · Remote |  | 1d | [Apply](https://jobs.lever.co/sysdig/0ea52eb6-8242-492b-acf3-6626f243e160) ⚡ |
@@ -2017,6 +2018,7 @@ _566 older roles in this section are in data/roles.json on the `data` branch._
 | ServerFarm | Head of Product | Head | Remote, USA |  | 4d | [Apply](https://jobs.lever.co/serverfarm/9f50b86c-8476-414d-abd0-79fe02b1e27f) ⚡ |
 | Unissant | Senior Director, CBP Programs | Sr. Director | Ashburn, VA, USA | $208K–$264K | 4d | [Apply](https://www.applicantpro.com/openings/unissant/jobs/4256141-221397) |
 | Parsons | Director of Water Innovation | Director | TX, USA | $148K–$267K | 4d | [Apply](https://jobs.parsons.com/jobs/director-of-water-innovation-houston-r-187513-jobs--technical-specialties--) |
+| University of Tennessee Health Science Center | Assistant Director, Degree Audit & Planner Systems - Division of Enrollment Management - UTK | Director | Knoxville, TN, United States |  | 5d | [Apply](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10533) |
 | ServiceNow ⭐ | Director of M&A Integration | Director | Santa Clara, California, us | $220K–$343K | 5d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157798849-director-of-m-a-integration-) ⚡ |
 | FormFactor, Inc. | Director, Systems Field Service | Director | Remote, CA |  | 5d | [Apply](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Remote-CA/Director--Systems-Field-Service_JR101217) |
 | Goldman Sachs | GBM Private, IB Classic, Natural Resources Coverage, Vice President -New York New York · · Vice[...] | VP | Houston, Texas |  | 5d | [Apply](https://jooble.org/jdp/5622677218720753561) |

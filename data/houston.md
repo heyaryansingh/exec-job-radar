@@ -4,8 +4,8 @@
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
 | AccessHealth | 🆕 Director of Development & External Affairs | Director | Richmond, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/DC8696665A6083E618AF32CA62D76371/jobs/306207?source=Indeed) |
+| CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 0d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
 | Blue Signal Search | 🆕 IT Compliance Director | Director | Houston, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/it-compliance-director-at-blue-signal-search-4483493656) |
 | HPE | 🆕 Global Head of Employee Mobility | Head | Spring, Texas, United States of America +1 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Global-Head-of-Employee-Mobility_1218166) |
 | HP | 🆕 Vice President - PS Agentic AI PC Architecture & Development | VP | Palo Alto, California, United States of Am +1 | $300K–$350K | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/VP---PS-Agentic-AI-PC-Architecture---Development_3168688-1) |

@@ -1,15 +1,18 @@
 # 🤠 Senior technology roles in the Houston area
 
-77 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+80 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Blue Signal Search | 🆕 IT Compliance Director | Director | Houston, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/it-compliance-director-at-blue-signal-search-4483493656) |
 | HPE | 🆕 Global Head of Employee Mobility | Head | Spring, Texas, United States of America +1 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Global-Head-of-Employee-Mobility_1218166) |
 | HP | 🆕 Vice President - PS Agentic AI PC Architecture & Development | VP | Palo Alto, California, United States of Am +1 | $300K–$350K | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/VP---PS-Agentic-AI-PC-Architecture---Development_3168688-1) |
 | Honeywell ⭐ | 🆕 Director, Semiconductor Global Portfolio Management | Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160964) |
 | NAES Corporation | 🆕 Sr Technical Product Director | Director | Spring, TX, USA | $202K–$250K | 1d | [Apply](https://recruiting2.ultipro.com/NAE1000NAES/JobBoard/f858dd65-f751-41a6-add7-7b877e9b6076/OpportunityDetail?opportunityId=c7dc9eaf-af0f-480a-9336-beb7e9ff8e89&postingId=f28e385a-010f-4141-859f-76ca8233b217) |
+| SailPoint Technologies Holdings, Inc. | 🆕 VP, Enterprise Technology & Agentic ; Business | VP | Houston, Texas | $215K–$362K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5564313964/e/) |
 | Houston-Galveston Area Council | Director of Data Analytics & Research | Director | Houston, TX, USA | $149K–$213K | 2d | [Apply](https://houstongalvestonareacouncil.applytojob.com/apply/2jvTOm8VHR/Director-Of-Data-Analytics-Research?source=INDE&~) |
 | Lancium LLC | Director, Firm Power Development | Director | Spring, TX, USA |  | 2d | [Apply](https://secure6.saashr.com/ta/6194221.careers?ShowJob=755403074) |
+| RJI Search | 🆕 Director of IT - Bilingual in Spanish | Director | Stafford, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4484482101) |
 | Alvarez & Marsal | Director, PEPI — Data, Cloud & AI Architecture | Director | Houston, TX, USA | $150K–$225K | 3d | [Apply](https://careers.alvarezandmarsal.com/jobs/18417375) [alt](https://careers.alvarezandmarsal.com/en/jobs/18417375-director-pepi-data-cloud-and-ai-architecture?tm_job=202604639-OTHLOC-Cu2bYfwp&tm_event=view&tm_company=47710) |
 | TransGrid Energy | Director, Investments | Director | Irvine +1 | $180K–$210K | 3d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9) ⚡ |
 | KIPP Texas Public Schools | Director of CTE Systems Analytics and Compliance | Director | Houston, TX, us |  | 3d | [Apply](https://jobs.smartrecruiters.com/KIPP/744000158384467-director-of-cte-systems-analytics-and-compliance) ⚡ |
@@ -28,7 +31,7 @@
 | Baylor Scott & White Health | Executive Director, Data Science & AI Strategy | ED | Houston, Texas | $180K–$260K | 5d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5560197091/e/) |
 | kadence | VP Engineering, AI Agents | VP | Houston, Texas |  | 5d | [Apply](https://jobmesh.io/job/33ac9db0-d074-4638-ab56-be6d4e1c87db) |
 | Management Controls | CTO — AI-Driven Tech Strategy & Product Leadership | C-level | Houston, Texas |  | 5d | [Apply](https://jobmesh.io/job/23538e63-2b4c-4954-8fbd-5f3d080a84db) |
-| Napster Corp. | VP, Technology Partnerships & Partner Engineering | VP | Houston, Texas |  | 5d | [Apply](https://jobmesh.io/job/1a6cb2c0-edd1-43c3-8092-07ff1c55b07c) |
+| Napster Corp. | VP, Technology Partnerships & Partner Engineering | VP | Houston, Texas |  | 5d | [Apply](https://jobmesh.io/job/1a6cb2c0-edd1-43c3-8092-07ff1c55b07c) [alt](https://jobmesh.io/job/8ffadd36-1ee4-4881-a9a1-54c053a1e88d) |
 | Goldman Sachs | GBM Private, IB Classic, Natural Resources Coverage, Vice President -New York New York · · Vice[...] | VP | Houston, Texas |  | 5d | [Apply](https://jooble.org/jdp/5622677218720753561) |
 | DASHIELL CORPORATION | Senior Director of Program Management | Sr. Director | Houston, TX, USA |  | 5d | [Apply](https://dashiell.applicantstack.com/x/detail/a2jsjjnytxx0/aaac) |
 | DESRI | Director Information Technology | Director | Houston, Texas | $200K–$250K | 6d | [Apply](https://simplify.jobs/p/933539e5-e67b-49bd-99a6-c1ddfe65e3a2/Director-Information-Technology) |

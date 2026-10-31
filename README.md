@@ -19,23 +19,23 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,157 open roles** at **1,142 companies** · **101 new in the last 24 hours** · 5,587 company career sites watched · updated hourly · last update Oct 31, 2026 05:14 PM ET
+**3,162 open roles** at **1,143 companies** · **103 new in the last 24 hours** · 5,591 company career sites watched · updated hourly · last update Oct 31, 2026 05:45 PM ET
 
-By level: Director 1614 · VP 655 · Sr. Director 381 · Head 194 · EVP/SVP 123 · C-level 85 · ED 79 · MD 26
+By level: Director 1615 · VP 656 · Sr. Director 383 · Head 195 · EVP/SVP 123 · C-level 85 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (101)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (103)](#new-in-the-last-24-hours)
 - [🤠 Houston area (83)](#houston-area)
 - [👑 Executive Technology Leadership (88)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (202)](#security-risk-technology)
-- [🧠 Data & AI (842)](#data-ai)
-- [🚦 Reliability & Operations (205)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (286)](#cloud-infrastructure)
+- [🧠 Data & AI (844)](#data-ai)
+- [🚦 Reliability & Operations (206)](#reliability-operations)
+- [☁️ Cloud & Infrastructure (287)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
-- [🔄 Transformation & Delivery (383)](#transformation-delivery)
+- [🔄 Transformation & Delivery (384)](#transformation-delivery)
 - [🛠️ Engineering & Software (820)](#engineering-software)
 - [📌 Other Senior Roles (242)](#other-senior-roles)
 - [🔒 Recently closed (147)](#recently-closed)
@@ -47,10 +47,11 @@ By level: Director 1614 · VP 655 · Sr. Director 381 · Head 194 · EVP/SVP 123
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 0d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
+| City of Lincoln/Lancaster County | 🆕 Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 0d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
+| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 0d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
 | Geotab | 🆕 Head of Security Centre | Head | Atlanta, GA, USA |  | 0d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
 | Information Technology Senior Management Forum | 🆕 TEMPO- AI Enablement Director - Productivity & Efficiency Leader | Director | Charlotte, NC, USA |  | 0d | [Apply](https://jobs.itsmfleaders.org/job/zrdc3j/tempo-ai-enablement-director-productivity-efficiency-leader/charlotte/nc) |
-| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 0d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
-| City of Lincoln/Lancaster County | 🆕 Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 0d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
 | Celestica | 🆕 Director, Design Engineering - Software | Director | San Jose, CA, USA |  | 0d | [Apply](https://careers.celestica.com/job/San-Jose-Director%2C-Design-Engineering-Software-CA-95101/1453145133/) |
 | NewRocket | 🆕 Director of AI and Enterprise Architecture | Director | Vista, CA, USA |  | 0d | [Apply](https://grnh.se/iex7abyb4us) |
 | Peraton | 🆕 Director, Software Engineering Solutions | Director | King of Prussia, PA, USA | $146K–$234K | 0d | [Apply](https://www.careers.peraton.com/jobs/director-software-engineering-solutions-king-of-prussia-pennsylvania-173016-jobs--growth--) |
@@ -75,6 +76,7 @@ By level: Director 1614 · VP 655 · Sr. Director 381 · Head 194 · EVP/SVP 123
 | Glenmede Trust Company | 🆕 Director of Architecture and Engineering | Director | Philadelphia, PA, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91a10898-d8ce-4d8a-8e43-34624df15cff&ccId=19000101_000001&jobId=559455&source=IN&lang=en_US) |
 | Information Technology Senior Management Forum | 🆕 Senior Director, Product Design, Conversational Platform | Sr. Director | McLean, VA, USA | $270K–$308K | 0d | [Apply](https://jobs.itsmfleaders.org/job/92rntw/senior-director-product-design-conversational-platform/mclean/va) |
 | Sysdig | 🆕 FinOps Operational Cost Control, Director | Director | Remote, USA | $198K–$247K | 0d | [Apply](https://jobs.lever.co/sysdig/8eccdb0f-0324-4144-89c1-670cc872d3b4?lever-source=Indeed) |
+| Genentech | 🆕 Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
 | 9 Dot Education Solutions | 🆕 Director of Technology - Hybrid | Director | Pasadena, CA |  | 1d | [Apply](https://9dot.wd503.myworkdayjobs.com/9Dot_Careers/job/Pasadena-CA/Director-of-Technology---Hybrid_R016813) [alt](https://9dot.wd503.myworkdayjobs.com/en-US/9Dot_Careers/job/Pasadena-CA/Director-of-Technology---Hybrid_R016813) |
 | DP World | 🆕 Director, Data Center Excellence | Director | Atlanta, GA, USA |  | 1d | [Apply](https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27819) |
 | vCluster Labs | 🆕 Sr. Director, VAR & Channel Partnerships | Sr. Director | United States +1 · Remote | $225K–$280K | 1d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/183dfe72-4542-47fe-b182-a484addf245f) ⚡ |
@@ -782,6 +784,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | ADP | Director, Finance Transformation & AI | Director | Alpharetta, GA, USA |  | 7d | [Apply](https://click.appcast.io/t/pJp4ZRoKo1eGmiXU5aOGfeZPKkvIYe0N6VG0WTHDpFA=) |
 | The Vertex Companies LLC | Director of Artificial Intelligence | Director | Remote, USA | $146K–$542K | 7d | [Apply](https://careers.vertexeng.com/jobs/18392808-director-of-artificial-intelligence?tm_job=458&tm_event=view&tm_company=95169) |
 | Domino's | Director, Data Platform Engineering (req 744000157588335) | Director | Ann Arbor, MI, us |  | 7d | [Apply](https://jobs.smartrecruiters.com/Dominos/744000157588335-director-data-platform-engineering) ⚡ |
+| Genentech | Vice President, Global Head of AI for Drug Discovery (AIDD) | VP | South San Francisco, California, United St |  | 8d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127377EXTERNALENUS) |
 | Coca-Cola ⭐ | Director, CRM and Data Integration | Director | US - GA - Atlanta |  | 8d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--CRM-and-Data-Integration_R-147949) |
 | Jobrapido | Vice President of Artificial Intelligence | VP | Memphis, Tennessee |  | 8d | [Apply](https://www.talent.com/view?id=642864173758359248) |
 | AstraZeneca | Director, Data Science Operations – Early Cardiovascular, Renal and Metabolism | Director | Boston, MA, USA | $182K–$272K | 8d | [Apply](https://careers.astrazeneca.com/job/boston/director-data-science-operations-early-cardiovascular-renal-and-metabolism/7684/102339349040) |
@@ -800,9 +803,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Coke | Director, CRM and Data Integration | Director | US - GA - Atlanta |  | 8d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--CRM-and-Data-Integration_R-147949) |
 | T-Mobile ⭐ | Director, Data Engineering & Development | Director | Bellevue, Washington +2 | $181K–$244K | 8d | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Director--Data-Engineering---Development_REQ380231) |
 | Wolters Kluwer | Director, Product Software Engineering - AI | Director | MO, USA | $179K–$320K | 8d | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA-MO-Remote/Director--Product-Software-Engineering---AI_R0060380) |
-| UnitedHealth Group ⭐ | Director of AI Transformation and Business Modernization - Remote | Director | Minnetonka, Minnesota, United States +1 · Remote | $135K–$231K | 8d | [Apply](https://careers.unitedhealthgroup.com/job/minnetonka/director-of-ai-transformation-and-business-modernization-remote/34088/102336385168) |
 
-_592 older roles in this section are in data/roles.json on the `data` branch._
+_594 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -812,6 +814,7 @@ _592 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | ARS Pharmaceuticals Operations, Inc. | 🆕 Director / Senior Director, Technical Operations | Sr. Director | San Diego, California, United States | $225K–$275K | 0d | [Apply](https://job-boards.greenhouse.io/arspharmaceuticalsoperationsinc/jobs/5466578008) ⚡ |
 | The Kraft Group | 🆕 Director of IT Operations | Director | Foxborough, MA, USA | $176K–$202K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/BCD29E46F85A4B5DFC77EAEE18775287/jobs/577883?source=Indeed) |
+| Genentech | 🆕 Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
 | CubeSmart | 🆕 Director of Cloud Infrastructure & Reliability | Director | Reading, Pennsylvania | $180K–$250K | 1d | [Apply](https://www.learn4good.com/jobs/reading/pennsylvania/info_technology/5565699993/e/) |
 | Vertafore | 🆕 Director, Cloud Operations | Director | Arvada, Colorado | $190K–$220K | 1d | [Apply](https://www.learn4good.com/jobs/arvada/colorado/info_technology/5567523573/e/) |
 | NVIDIA ⭐ | 🆕 Director, Production Test Operations Engineering | Director | US, CA, Santa Clara |  | 1d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Production-Test-Operations-Engineering_JR2022744-1) |
@@ -1022,6 +1025,7 @@ _592 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 0d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
 | Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 0d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
 | A10 Networks | 🆕 Area Vice President Sale - North America Infrastructure | VP | Dallas, TX, USA |  | 0d | [Apply](https://osv-a10networks.wd503.myworkdayjobs.com/en-US/A10CareerSite/job/Dallas-Texas/Area-Vice-President-Sale---North-America-Infrastructure_R-101390) |
 | Information Technology Senior Management Forum | 🆕 Senior Director, Product Design, Conversational Platform | Sr. Director | McLean, VA, USA | $270K–$308K | 0d | [Apply](https://jobs.itsmfleaders.org/job/92rntw/senior-director-product-design-conversational-platform/mclean/va) |
@@ -1271,9 +1275,8 @@ _592 older roles in this section are in data/roles.json on the `data` branch._
 | Robinhood ⭐ | Director of Engineering, Brokerage Platform | Director | Menlo Park, CA | $294K–$345K | 24d | [Apply](https://boards.greenhouse.io/robinhood/jobs/8223546?t=gh_src=&gh_jid=8223546) ⚡ |
 | Capital One ⭐ | Director, Product Management, Customer Management Platform Lead | Director | McLean, VA +3 | $251K–$287K | 24d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Product-Management--Customer-Management-Platform-Lead_R1000951-1) |
 | Experian | Vice President, Platform Engineering | VP | United States, UNITED STATES, us · Remote |  | 25d | [Apply](https://jobs.smartrecruiters.com/Experian/744000153868579-vice-president-platform-engineering) ⚡ |
-| Oracle | Director, Platform Software Engineering (req 346779) | Director | Nashville, TN, United States | $122K–$355K | 25d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346779) |
 
-_36 older roles in this section are in data/roles.json on the `data` branch._
+_37 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1562,6 +1565,7 @@ _36 older roles in this section are in data/roles.json on the `data` branch._
 | Mastercard ⭐ | Vice President, Product Development, Digital Commerce Services | VP | San Francisco, California +1 | $245K–$391K | 10d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Vice-President--Product-Development--Digital-Commerce-Services_R-294031) |
 | Danaher | Director, Program Management | Director | Boston, Massachusetts, United States +1 · Remote |  | 10d | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Boston-Massachusetts-United-States/Director--Program-Management_R1320987) |
 | Scotiabank | Director, Senior Product Manager, GCM Transformation | Director | Dallas, TX, USA |  | 10d | [Apply](https://jobs.scotiabank.com/job/Dallas-Director%2C-Senior-Product-Manager%2C-GCM-Transformation-TX-75219/607211917/) |
+| MSD | Director, Digital Tech Transfer & Knowledge Management | Director | West Point, Pennsylvania, United States of |  | 11d | [Apply](https://jobs.msd.com/gb/en/job/MSD1GBR422140ENGB) |
 | Crescent Biopharma | Director, Program Management | Director | Waltham, MA |  | 11d | [Apply](https://jobs.lever.co/crescent-biopharma/0354a9bf-eb99-49d9-be4e-e855472524ef) ⚡ |
 | Chubb ⭐ | VP, Global Head of Digital Experience | VP | New York, NY, United States | $200K–$280K | 11d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/33708) |
 | Fox Corporation | Digital Art Director, Visual Innovation Studio (Motion Designer) (req R50032375) | Director | Los Angeles, California, USA |  | 11d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Digital-Art-Director--Visual-Innovation-Studio_R50032375) |
@@ -1626,9 +1630,8 @@ _36 older roles in this section are in data/roles.json on the `data` branch._
 | Cushman & Wakefield | Global Director, Program Management | Director | Client Site - USA - CA - Santa Clara - 225 |  | 15d | [Apply](https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Santa-Clara---2250-Lawson-Ln/Director--Program-Management_R334460) |
 | Honeywell ⭐ | Sr Director IT Strategy & Transformation | Sr. Director | Charlotte, NC, United States | $214K–$268K | 15d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159991) |
 | AbbVie ⭐ | Director, Program Management | Director | North Chicago, IL, us |  | 15d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016182456-director-program-management) ⚡ |
-| Mastercard ⭐ | Director, Technical Program Management (req R-276338) | Director | O'Fallon, Missouri | $152K–$258K | 15d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Technical-Program-Management_R-276338-1) |
 
-_133 older roles in this section are in data/roles.json on the `data` branch._
+_134 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

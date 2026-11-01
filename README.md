@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,199 open roles** at **1,161 companies** · **40 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 03:26 PM ET
+**3,200 open roles** at **1,161 companies** · **37 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 04:25 PM ET
 
-By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 79 · MD 26
+By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 80 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (40)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (37)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (92)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (204)](#security-risk-technology)
-- [🧠 Data & AI (851)](#data-ai)
+- [🧠 Data & AI (852)](#data-ai)
 - [🚦 Reliability & Operations (210)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
@@ -47,6 +47,7 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 AI Site Lead Executive Director - Director of Software Engineering | ED | Atlanta, GA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791978) |
 | Crux AI | 🆕 VP, Compute | VP | Palo Alto · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/crux/2584654f-8b6a-4c02-b42b-fe160043048b) ⚡ |
 | Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 0d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
 | Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 0d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
@@ -65,10 +66,6 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 | Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
 | Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
-| City of Lincoln/Lancaster County | 🆕 Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 1d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
-| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
-| Geotab | 🆕 Head of Security Centre | Head | Atlanta, GA, USA |  | 1d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
-| Information Technology Senior Management Forum | 🆕 TEMPO- AI Enablement Director - Productivity & Efficiency Leader | Director | Charlotte, NC, USA |  | 1d | [Apply](https://jobs.itsmfleaders.org/job/zrdc3j/tempo-ai-enablement-director-productivity-efficiency-leader/charlotte/nc) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
 | Academian | 🆕 Vice President - Technology US - Hybrid | VP | Goodyear, Arizona | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/goodyear/arizona/info_technology/5565927071/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |
@@ -191,7 +188,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 0d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
-| City of Lincoln/Lancaster County | 🆕 Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 1d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
+| City of Lincoln/Lancaster County | Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 1d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
 | County of Napa, CA | Deputy Chief Technology Officer - Infrastructure/Operations/Security | C-level | Napa, CA, USA | $201K–$244K | 1d | [Apply](https://www.governmentjobs.com/careers/napacounty/jobs/5533729/deputy-chief-technology-officer-infrastructure-operations-security) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |
 | CIRE INVESTMENT SERVICES | 🆕 Chief Technology Officer — AI, Data & Growth Leader | C-level | Philadelphia, Pennsylvania | $180K–$280K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5568565334/e/) |
@@ -289,7 +286,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Geotab | 🆕 Head of Security Centre | Head | Atlanta, GA, USA |  | 1d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
+| Geotab | Head of Security Centre | Head | Atlanta, GA, USA |  | 1d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
 | KPMG US | 🆕 Director, Global Senior Cloud Security Architect | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-global-senior-cloud-security-architect-at-kpmg-us-4484587234) |
 | The Clearing House Payments Company | Director, Information Security | Director | North Carolina Office +1 |  | 2d | [Apply](https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Director--Information-Security_JR100221) |
 | NVIDIA ⭐ | Director, Global Event Security | Director | US, CA, Santa Clara |  | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Global-Event-Security_JR2023116) |
@@ -500,11 +497,12 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 AI Site Lead Executive Director - Director of Software Engineering | ED | Atlanta, GA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791978) |
 | Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
 | Centene | 🆕 Senior Director, AI Lifecycle Management | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Lifecycle-Management_1670354) |
 | Centene | 🆕 Director, AI Vendor Integrations & Standards | Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--AI-Vendor-Integrations---Standards_1670357) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
-| Information Technology Senior Management Forum | 🆕 TEMPO- AI Enablement Director - Productivity & Efficiency Leader | Director | Charlotte, NC, USA |  | 1d | [Apply](https://jobs.itsmfleaders.org/job/zrdc3j/tempo-ai-enablement-director-productivity-efficiency-leader/charlotte/nc) |
+| Information Technology Senior Management Forum | TEMPO- AI Enablement Director - Productivity & Efficiency Leader | Director | Charlotte, NC, USA |  | 1d | [Apply](https://jobs.itsmfleaders.org/job/zrdc3j/tempo-ai-enablement-director-productivity-efficiency-leader/charlotte/nc) |
 | NewRocket | Director of AI and Enterprise Architecture | Director | Vista, CA, USA |  | 1d | [Apply](https://grnh.se/iex7abyb4us) |
 | American Express | Director-Digital Product Management - Enterprise AI Platforms | Director | Sunnyvale, CA, USA | $144K–$256K | 1d | [Apply](https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015752/?intlink=us-amex-career-en-us-search) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
@@ -749,9 +747,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Senior Software Engineer - Python and Data - Vice President | VP | Pune, MH, IN |  | 9d | [Apply](https://jobs.citi.com/job/pune/senior-software-engineer-python-and-data-vice-president/287/102333954496) |
 | U.S. Bank | Vice President, People Analytics-Data Science | VP | Minneapolis, MN |  | 9d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Vice-President--People-Analytics-Data-Science_2026-0032322-1) |
 | The Aerospace Corporation | Director, Data & AI Services | Director | El Segundo, CA +1 |  | 9d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Director--Data---AI-Services_R017006) |
-| Fiserv | Data and AI Portfolio, Director | Director | Sunnyvale, California, United States of Am |  | 9d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10405325EXTERNALENUS) |
 
-_601 older roles in this section are in data/roles.json on the `data` branch._
+_602 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -980,7 +977,7 @@ _601 older roles in this section are in data/roles.json on the `data` branch._
 | JPMC Candidate Experience page | 🆕 Technical Product Owner-Vice President (Corporate Technology, Document Platform) | VP | Jersey City, New Jersey |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210797295) |
 | ShipERP | 🆕 Head of ShipERP Cloud | Head | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=01941100-00e7-48f9-ab7c-eeebe5fa1386&ccId=19000101_000001&jobId=620732&source=IN&lang=en_US) |
 | Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
-| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
+| Genentech | Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
 | A10 Networks | Area Vice President Sale - North America Infrastructure | VP | Dallas, TX, USA |  | 1d | [Apply](https://osv-a10networks.wd503.myworkdayjobs.com/en-US/A10CareerSite/job/Dallas-Texas/Area-Vice-President-Sale---North-America-Infrastructure_R-101390) |
 | Information Technology Senior Management Forum | Senior Director, Product Design, Conversational Platform | Sr. Director | McLean, VA, USA | $270K–$308K | 1d | [Apply](https://jobs.itsmfleaders.org/job/92rntw/senior-director-product-design-conversational-platform/mclean/va) |
 | CubeSmart | 🆕 Director, Cloud Infrastructure | Director |  | $180K–$250K | 2d | [Apply](https://www.learn4good.com/jobs/abington-township/pennsylvania/info_technology/5565792210/e/) |

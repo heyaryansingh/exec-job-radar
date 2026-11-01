@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,195 open roles** at **1,159 companies** · **47 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 05:45 AM ET
+**3,195 open roles** at **1,159 companies** · **45 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 06:44 AM ET
 
 By level: Director 1635 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1635 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 
 ## Contents
 
-- [🆕 New in the last 24 hours (47)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (45)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (91)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (203)](#security-risk-technology)
@@ -72,7 +72,6 @@ By level: Director 1635 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 | Peraton | 🆕 Director, Software Engineering Solutions | Director | King of Prussia, PA, USA | $146K–$234K | 1d | [Apply](https://www.careers.peraton.com/jobs/director-software-engineering-solutions-king-of-prussia-pennsylvania-173016-jobs--growth--) |
 | ARS Pharmaceuticals Operations, Inc. | 🆕 Director / Senior Director, Technical Operations | Sr. Director | San Diego, California, United States | $225K–$275K | 1d | [Apply](https://job-boards.greenhouse.io/arspharmaceuticalsoperationsinc/jobs/5466578008) ⚡ |
 | Hewlett Packard Enterprise / HPE | 🆕 Global Head of Employee Mobility | Head | Spring, TX, USA | $166K–$354K | 1d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1218166EXTERNALENUS/Global-Head-of-Employee-Mobility?utm_source=indeed&utm_medium=phenom-feeds) |
-| McCarthy Building | 🆕 Design Integration Director | Director | Newport Beach, CA, USA | $185K–$210K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=ort2Afwg&s=Indeed) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
 | Academian | 🆕 Vice President - Technology US - Hybrid | VP | Goodyear, Arizona | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/goodyear/arizona/info_technology/5565927071/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |
@@ -91,7 +90,6 @@ By level: Director 1635 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 | Torchbearers | 🆕 Chief Technology Officer | C-level | Rockville, Maryland | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/rockville/maryland/engineering/5570689489/e/) |
 | Genentech | 🆕 Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
 | 9 Dot Education Solutions | 🆕 Director of Technology - Hybrid | Director | Pasadena, CA |  | 2d | [Apply](https://9dot.wd503.myworkdayjobs.com/9Dot_Careers/job/Pasadena-CA/Director-of-Technology---Hybrid_R016813) [alt](https://9dot.wd503.myworkdayjobs.com/en-US/9Dot_Careers/job/Pasadena-CA/Director-of-Technology---Hybrid_R016813) |
-| DP World | 🆕 Director, Data Center Excellence | Director | Atlanta, GA, USA |  | 2d | [Apply](https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27819) |
 | Cencora | 🆕 Director - AI Operations | Director | Harrisburg, Pennsylvania, United States of |  | 3d | [Apply](https://careers.cencora.com/us/en/job/CHKCENUSR2618033EXTERNALENUS) |
 | Tempus | 🆕 Director, Revenue Cycle Operations - Tempus AI Diagnostics | Director | Remote - Illinois | $150K–$200K | 3d | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Director--Revenue-Cycle-Operations---Tempus-AI-Diagnostics_JR202601163-1) |
 
@@ -513,7 +511,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | NewRocket | 🆕 Director of AI and Enterprise Architecture | Director | Vista, CA, USA |  | 1d | [Apply](https://grnh.se/iex7abyb4us) |
 | American Express | Director-Digital Product Management - Enterprise AI Platforms | Director | Sunnyvale, CA, USA | $144K–$256K | 1d | [Apply](https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015752/?intlink=us-amex-career-en-us-search) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
-| DP World | 🆕 Director, Data Center Excellence | Director | Atlanta, GA, USA |  | 2d | [Apply](https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27819) |
+| DP World | Director, Data Center Excellence | Director | Atlanta, GA, USA |  | 2d | [Apply](https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27819) |
 | vCluster Labs | Sr. Global Alliance Director, NVIDIA and AI Clouds | Director | USA - San Francisco · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/cc532bad-b05a-43c3-8a28-a2bd99966769) ⚡ |
 | Momentous | Director of Technology & Data Engineering | Director | Park City, Utah, United States |  | 2d | [Apply](https://job-boards.greenhouse.io/momentous/jobs/5468828008) ⚡ |
 | Morgan Stanley ⭐ | AI Strategy & Enablement VP | VP | New York, New York, United States of Ameri |  | 2d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-Strategy---Enablement-VP_PT-JR045843) |
@@ -1855,7 +1853,7 @@ _580 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Hewlett Packard Enterprise / HPE | 🆕 Global Head of Employee Mobility | Head | Spring, TX, USA | $166K–$354K | 1d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1218166EXTERNALENUS/Global-Head-of-Employee-Mobility?utm_source=indeed&utm_medium=phenom-feeds) |
-| McCarthy Building | 🆕 Design Integration Director | Director | Newport Beach, CA, USA | $185K–$210K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=ort2Afwg&s=Indeed) |
+| McCarthy Building | Design Integration Director | Director | Newport Beach, CA, USA | $185K–$210K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=ort2Afwg&s=Indeed) |
 | Citrin Cooperman | Assurance Acquisition & Integration Director | Director | Manhattan, NY, USA · Remote | $160K–$225K | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/E9A2AA28834E20BD25923E295653B2F6/jobs/367018?source=Indeed) |
 | Kintegra Health | Director of Information Systems | Director | Gastonia, NC, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dba3b3a-988b-4536-970e-dff855707ff9&ccId=9200056745330_2&jobId=597169&source=IN&lang=en_US) |
 | Central Valley Ag Cooperative | Director of Applied Innovation - York, NE | Director | York, NE, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=23a893d8-b6eb-4ddb-8bd2-dfc281b1abe3&ccId=19000101_000001&jobId=1010221&source=IN&lang=en_US) |

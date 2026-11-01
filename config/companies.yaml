@@ -665,3 +665,6 @@
 - {name: "Viking Global", ats: "greenhouse", slug: "vikingglobalinvestors", tier: 3, sector: "hedge fund"}
 - {name: "Peak6", ats: "workday", host: "peak6group.wd1.myworkdayjobs.com", site: "apexfintechsolutions", tier: 3, sector: "markets"}
 - {name: "Sixth Street", ats: "workday", host: "sixthstreet.wd1.myworkdayjobs.com", site: "sixthstreetcareers", tier: 2, sector: "private equity"}
+- {name: "Qualys", ats: "workday", host: "qualys.wd5.myworkdayjobs.com", site: "Careers", tier: 3, sector: "security"}
+- {name: "Carnival Corporation", ats: "oracle", host: "eicl.fa.em5.oraclecloud.com", site: "CORP", tier: 2, sector: "hospitality"}
+- {name: "Magic", ats: "ashby", slug: "magic", tier: 3, sector: "AI"}

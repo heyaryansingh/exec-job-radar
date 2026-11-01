@@ -1426,7 +1426,11 @@
    "slug": "abnormalsecurity"
   },
   "Rapid7": null,
-  "Qualys": null,
+  "Qualys": {
+   "ats": "workday",
+   "host": "qualys.wd5.myworkdayjobs.com",
+   "site": "Careers"
+  },
   "Cloudflare Inc": {
    "duplicate_of": "greenhouse|cloudflare||"
   },
@@ -2943,7 +2947,11 @@
   "Centene Corporation": {
    "duplicate_of": "workday||centene.wd5.myworkdayjobs.com|centene_external"
   },
-  "Carnival Corporation": null,
+  "Carnival Corporation": {
+   "ats": "oracle",
+   "host": "eicl.fa.em5.oraclecloud.com",
+   "site": "CORP"
+  },
   "Elevance": {
    "duplicate_of": "workday||elevancehealth.wd1.myworkdayjobs.com|ant"
   },
@@ -3166,7 +3174,12 @@
   "Burlington Stores": null,
   "Foot Locker": null,
   "W.W. Grainger": null,
-  "Campbell's": null,
+  "Campbell's": {
+   "review": {
+    "ats": "greenhouse",
+    "slug": "campbellcovington"
+   }
+  },
   "Dillard's": {
    "ats": "greenhouse",
    "slug": "dillards"
@@ -3549,7 +3562,10 @@
    "ats": "ashby",
    "slug": "reflectionai"
   },
-  "Magic": null,
+  "Magic": {
+   "ats": "ashby",
+   "slug": "magic"
+  },
   "Poolside": {
    "ats": "ashby",
    "slug": "poolside"

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,195 open roles** at **1,159 companies** · **45 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 08:35 AM ET
+**3,196 open roles** at **1,159 companies** · **45 new in the last 24 hours** · 5,607 company career sites watched · updated hourly · last update Nov 01, 2026 09:05 AM ET
 
-By level: Director 1635 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
+By level: Director 1635 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -30,7 +30,7 @@ By level: Director 1635 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 - [🆕 New in the last 24 hours (45)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (91)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (203)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (204)](#security-risk-technology)
 - [🧠 Data & AI (850)](#data-ai)
 - [🚦 Reliability & Operations (210)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (294)](#cloud-infrastructure)
@@ -384,6 +384,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Coke Florida | Technology Director, IT Infrastructure, Cyber and Service Delivery | Director | Tampa, FL, USA |  | 11d | [Apply](https://jobs.dayforcehcm.com/en-US/cokeflorida/CANDIDATEPORTAL/jobs/78621) |
 | Qualys | Senior Director, Government Product Security Management | Sr. Director | NC, USA |  | 11d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina/Senior-Director--Government-Product-Security-Management_R0005099) |
 | Coke Florida | Technology Director, IT Infrastructure, Cyber and Service Delivery | Director | Jacksonville, FL, USA |  | 11d | [Apply](https://jobs.dayforcehcm.com/en-US/cokeflorida/CANDIDATEPORTAL/jobs/78621) |
+| Qualys | Senior Director, Government Product Security Management | Sr. Director | North Carolina +2 |  | 12d | [Apply](https://qualys.wd5.myworkdayjobs.com/Careers/job/North-Carolina/Senior-Director--Government-Product-Security-Management_R0005099) |
 | Marriott International ⭐ | Director of Safety and Security | Director | Estero, FL, United States |  | 12d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26136537) |
 | DTCC ⭐ | Cyber Security Strategy Executive Director | ED | Jersey City, NJ, United States |  | 12d | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215074) |
 | Jobot | Director of Engineering, SRE; AI Security​/Startup | Director | Worcester, Massachusetts | $220K–$260K | 12d | [Apply](https://www.learn4good.com/jobs/worcester/massachusetts/info_technology/5555643080/e/) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,173 open roles** at **1,148 companies** · **73 new in the last 24 hours** · 5,598 company career sites watched · updated hourly · last update Oct 31, 2026 09:05 PM ET
+**3,173 open roles** at **1,148 companies** · **73 new in the last 24 hours** · 5,598 company career sites watched · updated hourly · last update Oct 31, 2026 09:20 PM ET
 
 By level: Director 1621 · VP 657 · Sr. Director 384 · Head 196 · EVP/SVP 125 · C-level 85 · ED 79 · MD 26
 
@@ -47,11 +47,11 @@ By level: Director 1621 · VP 657 · Sr. Director 384 · Head 196 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Gray Swan AI | 🆕 Director of Technology Alliances | Director | Remote (U.S. Only) |  | 1d | [Apply](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c) ⚡ [alt](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c?utm_source=pX9MbA3w4g) |
 | Empirx Health | 🆕 Director, Quality Engineering and Automation | Director | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=443e85e1-8bb3-4959-a05a-7e75939f9885&ccId=9201285461928_3&jobId=594488&jwId=9201285461928_1&source=IN&lang=en_US) |
 | L3Harris | 🆕 Director, Program Management | Director | Plano, TX, USA |  | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102644364784) |
 | ShipERP | 🆕 Head of ShipERP Cloud | Head | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=01941100-00e7-48f9-ab7c-eeebe5fa1386&ccId=19000101_000001&jobId=620732&source=IN&lang=en_US) |
 | UCLA Health | 🆕 Senior Director Infrastructure & Operations | Sr. Director | Los Angeles, CA, USA | $167K–$404K | 1d | [Apply](https://uclahealth.avature.net/careers/JobDetail?jobId=33952&source=Indeed) |
-| Gray Swan AI | 🆕 Director of Technology Alliances | Director | Remote (U.S. Only) |  | 1d | [Apply](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c) ⚡ [alt](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c?utm_source=pX9MbA3w4g) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
@@ -1610,8 +1610,8 @@ _135 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Empirx Health | 🆕 Director, Quality Engineering and Automation | Director | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=443e85e1-8bb3-4959-a05a-7e75939f9885&ccId=9201285461928_3&jobId=594488&jwId=9201285461928_1&source=IN&lang=en_US) |
 | Gray Swan AI | 🆕 Director of Technology Alliances | Director | Remote (U.S. Only) |  | 1d | [Apply](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c) ⚡ [alt](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c?utm_source=pX9MbA3w4g) |
+| Empirx Health | 🆕 Director, Quality Engineering and Automation | Director | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=443e85e1-8bb3-4959-a05a-7e75939f9885&ccId=9201285461928_3&jobId=594488&jwId=9201285461928_1&source=IN&lang=en_US) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
 | Celestica | 🆕 Director, Design Engineering - Software | Director | San Jose, CA, USA |  | 1d | [Apply](https://careers.celestica.com/job/San-Jose-Director%2C-Design-Engineering-Software-CA-95101/1453145133/) |

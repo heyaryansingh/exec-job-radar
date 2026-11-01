@@ -19,21 +19,21 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,197 open roles** at **1,160 companies** · **45 new in the last 24 hours** · 5,607 company career sites watched · updated hourly · last update Nov 01, 2026 11:35 AM ET
+**3,198 open roles** at **1,160 companies** · **46 new in the last 24 hours** · 5,607 company career sites watched · updated hourly · last update Nov 01, 2026 12:36 PM ET
 
-By level: Director 1635 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 79 · MD 26
+By level: Director 1635 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (45)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (46)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (92)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (204)](#security-risk-technology)
 - [🧠 Data & AI (850)](#data-ai)
 - [🚦 Reliability & Operations (210)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (294)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
 - [🔄 Transformation & Delivery (386)](#transformation-delivery)
 - [🛠️ Engineering & Software (830)](#engineering-software)
@@ -47,6 +47,7 @@ By level: Director 1635 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Crux AI | 🆕 VP, Compute | VP | Palo Alto · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/crux/2584654f-8b6a-4c02-b42b-fe160043048b) ⚡ |
 | Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 0d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
 | Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 0d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
 | Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
@@ -981,6 +982,7 @@ _600 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Crux AI | 🆕 VP, Compute | VP | Palo Alto · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/crux/2584654f-8b6a-4c02-b42b-fe160043048b) ⚡ |
 | JPMC Candidate Experience page | 🆕 Technical Product Owner-Vice President (Corporate Technology, Document Platform) | VP | Jersey City, New Jersey |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210797295) |
 | ShipERP | 🆕 Head of ShipERP Cloud | Head | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=01941100-00e7-48f9-ab7c-eeebe5fa1386&ccId=19000101_000001&jobId=620732&source=IN&lang=en_US) |
 | Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
@@ -1230,9 +1232,8 @@ _600 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | Director, DevOps/ Full-Stack Engineer | Director | Lake Mary, FL, United States |  | 24d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80726) |
 | Anduril Industries | Director of Finance, Platform | Director | Costa Mesa, California, United States | $191K–$253K | 24d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261360007?gh_jid=5261360007) ⚡ |
 | Huron Consulting | Digital Consulting Director, Oracle Cloud Financials | Director | Chicago - 550 Van Buren · Remote | $219K–$304K | 24d | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Digital-Consulting-Director--Oracle-Cloud-Financials_JR-0016814) |
-| Oaktree Capital | Senior Vice President, Network Engineering | EVP/SVP | Los Angeles, California +1 | $200K–$225K | 24d | [Apply](https://oaktree.wd1.myworkdayjobs.com/Oaktree/job/Los-Angeles-California/Senior-Vice-President--Network-Engineering_2026-464-1) |
 
-_44 older roles in this section are in data/roles.json on the `data` branch._
+_45 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 

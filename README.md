@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,200 open roles** at **1,161 companies** · **37 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 04:25 PM ET
+**3,200 open roles** at **1,161 companies** · **32 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 05:25 PM ET
 
 By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 80 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 
 ## Contents
 
-- [🆕 New in the last 24 hours (37)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (32)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (92)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (204)](#security-risk-technology)
@@ -62,10 +62,6 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 | L3Harris | 🆕 Director, Program Management | Director | Plano, TX, USA |  | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102644364784) |
 | ShipERP | 🆕 Head of ShipERP Cloud | Head | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=01941100-00e7-48f9-ab7c-eeebe5fa1386&ccId=19000101_000001&jobId=620732&source=IN&lang=en_US) |
 | UCLA Health | 🆕 Senior Director Infrastructure & Operations | Sr. Director | Los Angeles, CA, USA | $167K–$404K | 1d | [Apply](https://uclahealth.avature.net/careers/JobDetail?jobId=33952&source=Indeed) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
-| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
 | Academian | 🆕 Vice President - Technology US - Hybrid | VP | Goodyear, Arizona | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/goodyear/arizona/info_technology/5565927071/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |
@@ -82,7 +78,6 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 | Patterson Companies, Inc. | 🆕 Senior Director of Cloud & Dev Ops | Sr. Director | Maple Grove, Minnesota | $178K–$237K | 2d | [Apply](https://www.learn4good.com/jobs/maple-grove/minnesota/info_technology/5569862355/e/) |
 | Shield | 🆕 Director, IT Project Management; R6372 | Director | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5569804249/e/) |
 | Torchbearers | 🆕 Chief Technology Officer | C-level | Rockville, Maryland | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/rockville/maryland/engineering/5570689489/e/) |
-| Genentech | 🆕 Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
 | Cencora | 🆕 Director - AI Operations | Director | Harrisburg, Pennsylvania, United States of |  | 3d | [Apply](https://careers.cencora.com/us/en/job/CHKCENUSR2618033EXTERNALENUS) |
 
 <a name="houston-area"></a>
@@ -501,7 +496,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
 | Centene | 🆕 Senior Director, AI Lifecycle Management | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Lifecycle-Management_1670354) |
 | Centene | 🆕 Director, AI Vendor Integrations & Standards | Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--AI-Vendor-Integrations---Standards_1670357) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
+| Citi (jobs.citi.com) ⭐ | Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
 | Information Technology Senior Management Forum | TEMPO- AI Enablement Director - Productivity & Efficiency Leader | Director | Charlotte, NC, USA |  | 1d | [Apply](https://jobs.itsmfleaders.org/job/zrdc3j/tempo-ai-enablement-director-productivity-efficiency-leader/charlotte/nc) |
 | NewRocket | Director of AI and Enterprise Architecture | Director | Vista, CA, USA |  | 1d | [Apply](https://grnh.se/iex7abyb4us) |
 | American Express | Director-Digital Product Management - Enterprise AI Platforms | Director | Sunnyvale, CA, USA | $144K–$256K | 1d | [Apply](https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015752/?intlink=us-amex-career-en-us-search) |
@@ -762,7 +757,7 @@ _602 older roles in this section are in data/roles.json on the `data` branch._
 | The Kraft Group | Director of IT Operations | Director | Foxborough, MA, USA | $176K–$202K | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/BCD29E46F85A4B5DFC77EAEE18775287/jobs/577883?source=Indeed) |
 | CubeSmart | 🆕 Director of Cloud Infrastructure & Reliability | Director | Upper Darby Township, Pennsylvania | $180K–$250K | 2d | [Apply](https://www.learn4good.com/jobs/upper-darby-township/pennsylvania/info_technology/5565699991/e/) |
 | Foundant | 🆕 Senior Director, Cloud Operations | Sr. Director | Philadelphia, Pennsylvania | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5570517511/e/) |
-| Genentech | 🆕 Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
+| Genentech | Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
 | CubeSmart | Director of Cloud Infrastructure & Reliability | Director | Reading, Pennsylvania | $180K–$250K | 2d | [Apply](https://www.learn4good.com/jobs/reading/pennsylvania/info_technology/5565699993/e/) |
 | Vertafore | Director, Cloud Operations | Director | Arvada, Colorado | $190K–$220K | 2d | [Apply](https://www.learn4good.com/jobs/arvada/colorado/info_technology/5567523573/e/) |
 | NVIDIA ⭐ | Director, Production Test Operations Engineering | Director | US, CA, Santa Clara |  | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Production-Test-Operations-Engineering_JR2022744-1) |
@@ -976,7 +971,7 @@ _602 older roles in this section are in data/roles.json on the `data` branch._
 | Crux AI | 🆕 VP, Compute | VP | Palo Alto · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/crux/2584654f-8b6a-4c02-b42b-fe160043048b) ⚡ |
 | JPMC Candidate Experience page | 🆕 Technical Product Owner-Vice President (Corporate Technology, Document Platform) | VP | Jersey City, New Jersey |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210797295) |
 | ShipERP | 🆕 Head of ShipERP Cloud | Head | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=01941100-00e7-48f9-ab7c-eeebe5fa1386&ccId=19000101_000001&jobId=620732&source=IN&lang=en_US) |
-| Genentech | 🆕 Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
+| Genentech | Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS) |
 | Genentech | Global Head of Platform Technology Development, Autonomous Lab Accelerator | Head | San Francisco, CA, USA | $262K–$486K | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610128033EXTERNALENUS/Global-Head-of-Platform-Technology-Development-Autonomous-Lab-Accelerator) |
 | A10 Networks | Area Vice President Sale - North America Infrastructure | VP | Dallas, TX, USA |  | 1d | [Apply](https://osv-a10networks.wd503.myworkdayjobs.com/en-US/A10CareerSite/job/Dallas-Texas/Area-Vice-President-Sale---North-America-Infrastructure_R-101390) |
 | Information Technology Senior Management Forum | Senior Director, Product Design, Conversational Platform | Sr. Director | McLean, VA, USA | $270K–$308K | 1d | [Apply](https://jobs.itsmfleaders.org/job/92rntw/senior-director-product-design-conversational-platform/mclean/va) |
@@ -1590,8 +1585,8 @@ _136 older roles in this section are in data/roles.json on the `data` branch._
 | Tyler Junior College | 🆕 Director, Office of Technology Services | Director | Tyler, TX, USA |  | 0d | [Apply](https://www.schooljobs.com/careers/tjc/jobs/5536511/director-office-of-technology-services) |
 | Gray Swan AI | 🆕 Director of Technology Alliances | Director | Remote (U.S. Only) |  | 1d | [Apply](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c) ⚡ [alt](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c?utm_source=pX9MbA3w4g) |
 | Empirx Health | 🆕 Director, Quality Engineering and Automation | Director | USA · Remote |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=443e85e1-8bb3-4959-a05a-7e75939f9885&ccId=9201285461928_3&jobId=594488&jwId=9201285461928_1&source=IN&lang=en_US) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
+| Citi (jobs.citi.com) ⭐ | Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
+| Citi (jobs.citi.com) ⭐ | Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
 | Celestica | Director, Design Engineering - Software | Director | San Jose, CA, USA |  | 1d | [Apply](https://careers.celestica.com/job/San-Jose-Director%2C-Design-Engineering-Software-CA-95101/1453145133/) |
 | Peraton | Director, Software Engineering Solutions | Director | King of Prussia, PA, USA | $146K–$234K | 1d | [Apply](https://www.careers.peraton.com/jobs/director-software-engineering-solutions-king-of-prussia-pennsylvania-173016-jobs--growth--) |
 | CLARK Material Handling Company | Director of Engineering | Director | Lexington, KY, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/clarkmhc/CANDIDATEPORTAL/jobs/2283) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,199 open roles** at **1,161 companies** · **41 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 02:52 PM ET
+**3,199 open roles** at **1,161 companies** · **40 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 03:26 PM ET
 
 By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 79 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 
 ## Contents
 
-- [🆕 New in the last 24 hours (41)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (40)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (92)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (204)](#security-risk-technology)
@@ -87,7 +87,6 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 | Torchbearers | 🆕 Chief Technology Officer | C-level | Rockville, Maryland | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/rockville/maryland/engineering/5570689489/e/) |
 | Genentech | 🆕 Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
 | Cencora | 🆕 Director - AI Operations | Director | Harrisburg, Pennsylvania, United States of |  | 3d | [Apply](https://careers.cencora.com/us/en/job/CHKCENUSR2618033EXTERNALENUS) |
-| Tempus | 🆕 Director, Revenue Cycle Operations - Tempus AI Diagnostics | Director | Remote - Illinois | $150K–$200K | 3d | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Director--Revenue-Cycle-Operations---Tempus-AI-Diagnostics_JR202601163-1) |
 
 <a name="houston-area"></a>
 
@@ -553,7 +552,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Charles Schwab | Director, Data Engineering Senior (PL) | Director | Austin, TX, USA | $224K–$297K | 2d | [Apply](https://www.schwabjobs.com/job/austin/director-data-engineering-senior-pl/33727/102612112384) |
 | Pace Partners of North East Florida | Enterprise Data & Analytics Director | Director | Jacksonville, FL, USA |  | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/aliviacare/join-our-team-alivia-care/jobs/6550) |
 | Cencora | 🆕 Director - AI Operations | Director | Harrisburg, Pennsylvania, United States of |  | 3d | [Apply](https://careers.cencora.com/us/en/job/CHKCENUSR2618033EXTERNALENUS) |
-| Tempus | 🆕 Director, Revenue Cycle Operations - Tempus AI Diagnostics | Director | Remote - Illinois | $150K–$200K | 3d | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Director--Revenue-Cycle-Operations---Tempus-AI-Diagnostics_JR202601163-1) |
+| Tempus | Director, Revenue Cycle Operations - Tempus AI Diagnostics | Director | Remote - Illinois | $150K–$200K | 3d | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Director--Revenue-Cycle-Operations---Tempus-AI-Diagnostics_JR202601163-1) |
 | Breakthru Beverage Group | Sr. Director,  AI Software Engineering & Integrations | Sr. Director | Cicero IL USA | $175K–$215K | 3d | [Apply](https://breakthru.wd5.myworkdayjobs.com/BBG-US/job/Cicero-IL-USA/Sr-Director---AI-Software-Engineering---Integrations_R0044400) |
 | Comcast (CC) of Willow Grove | Executive Director, Data & AI Governance, Architecture and Products | ED | Englewood, CO, USA | $296K–$464K | 3d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Executive-Director--Data---AI-Governance--Architecture-and-Products_R447890) |
 | OPPIDAN | Vice President, Data Center Operational Readiness | VP | Excelsior, MN, USA | $225K–$400K | 3d | [Apply](https://oppidan.isolvedhire.com/jobs/1894452-695948.html) |

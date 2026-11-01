@@ -19,17 +19,17 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,196 open roles** at **1,159 companies** · **45 new in the last 24 hours** · 5,607 company career sites watched · updated hourly · last update Nov 01, 2026 09:35 AM ET
+**3,197 open roles** at **1,160 companies** · **46 new in the last 24 hours** · 5,607 company career sites watched · updated hourly · last update Nov 01, 2026 10:20 AM ET
 
-By level: Director 1635 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
+By level: Director 1635 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (45)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (46)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
-- [👑 Executive Technology Leadership (91)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (92)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (204)](#security-risk-technology)
 - [🧠 Data & AI (850)](#data-ai)
 - [🚦 Reliability & Operations (210)](#reliability-operations)
@@ -47,6 +47,7 @@ By level: Director 1635 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 0d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
 | Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 0d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
 | Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
 | Centene | 🆕 Senior Director, AI Lifecycle Management | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Lifecycle-Management_1670354) |
@@ -195,6 +196,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 0d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
 | City of Lincoln/Lancaster County | 🆕 Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 1d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
 | County of Napa, CA | Deputy Chief Technology Officer - Infrastructure/Operations/Security | C-level | Napa, CA, USA | $201K–$244K | 1d | [Apply](https://www.governmentjobs.com/careers/napacounty/jobs/5533729/deputy-chief-technology-officer-infrastructure-operations-security) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |

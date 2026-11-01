@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,194 open roles** at **1,158 companies** · **48 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 04:45 AM ET
+**3,195 open roles** at **1,159 companies** · **47 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 05:45 AM ET
 
-By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
+By level: Director 1635 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (48)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (47)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (91)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (203)](#security-risk-technology)
@@ -35,7 +35,7 @@ By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 - [🚦 Reliability & Operations (210)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (294)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
-- [🔄 Transformation & Delivery (385)](#transformation-delivery)
+- [🔄 Transformation & Delivery (386)](#transformation-delivery)
 - [🛠️ Engineering & Software (830)](#engineering-software)
 - [📌 Other Senior Roles (242)](#other-senior-roles)
 - [🔒 Recently closed (149)](#recently-closed)
@@ -47,6 +47,7 @@ By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 0d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
 | Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
 | Centene | 🆕 Senior Director, AI Lifecycle Management | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Lifecycle-Management_1670354) |
 | Centene | 🆕 Director, AI Vendor Integrations & Standards | Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--AI-Vendor-Integrations---Standards_1670357) |
@@ -91,8 +92,6 @@ By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 | Genentech | 🆕 Senior Director, Content Studio and Digital Operations | Sr. Director | South San Francisco, California, United St |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127634EXTERNALENUS) |
 | 9 Dot Education Solutions | 🆕 Director of Technology - Hybrid | Director | Pasadena, CA |  | 2d | [Apply](https://9dot.wd503.myworkdayjobs.com/9Dot_Careers/job/Pasadena-CA/Director-of-Technology---Hybrid_R016813) [alt](https://9dot.wd503.myworkdayjobs.com/en-US/9Dot_Careers/job/Pasadena-CA/Director-of-Technology---Hybrid_R016813) |
 | DP World | 🆕 Director, Data Center Excellence | Director | Atlanta, GA, USA |  | 2d | [Apply](https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27819) |
-| vCluster Labs | 🆕 Sr. Director, VAR & Channel Partnerships | Sr. Director | United States +1 · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/183dfe72-4542-47fe-b182-a484addf245f) ⚡ |
-| vCluster Labs | 🆕 Sr. Global Alliance Director, NVIDIA and AI Clouds | Director | USA - San Francisco · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/cc532bad-b05a-43c3-8a28-a2bd99966769) ⚡ |
 | Cencora | 🆕 Director - AI Operations | Director | Harrisburg, Pennsylvania, United States of |  | 3d | [Apply](https://careers.cencora.com/us/en/job/CHKCENUSR2618033EXTERNALENUS) |
 | Tempus | 🆕 Director, Revenue Cycle Operations - Tempus AI Diagnostics | Director | Remote - Illinois | $150K–$200K | 3d | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Director--Revenue-Cycle-Operations---Tempus-AI-Diagnostics_JR202601163-1) |
 
@@ -515,7 +514,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | American Express | Director-Digital Product Management - Enterprise AI Platforms | Director | Sunnyvale, CA, USA | $144K–$256K | 1d | [Apply](https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015752/?intlink=us-amex-career-en-us-search) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
 | DP World | 🆕 Director, Data Center Excellence | Director | Atlanta, GA, USA |  | 2d | [Apply](https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27819) |
-| vCluster Labs | 🆕 Sr. Global Alliance Director, NVIDIA and AI Clouds | Director | USA - San Francisco · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/cc532bad-b05a-43c3-8a28-a2bd99966769) ⚡ |
+| vCluster Labs | Sr. Global Alliance Director, NVIDIA and AI Clouds | Director | USA - San Francisco · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/cc532bad-b05a-43c3-8a28-a2bd99966769) ⚡ |
 | Momentous | Director of Technology & Data Engineering | Director | Park City, Utah, United States |  | 2d | [Apply](https://job-boards.greenhouse.io/momentous/jobs/5468828008) ⚡ |
 | Morgan Stanley ⭐ | AI Strategy & Enablement VP | VP | New York, New York, United States of Ameri |  | 2d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-Strategy---Enablement-VP_PT-JR045843) |
 | NVIDIA ⭐ | Director, Product Management – AI Networking Spectrum HW | Director | US, CA, Santa Clara |  | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Product-Management---AI-Networking-Spectrum-X_JR2019242) |
@@ -1337,6 +1336,7 @@ _44 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 0d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
 | L3Harris | 🆕 Director, Program Management | Director | Plano, TX, USA |  | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102644364784) |
 | American Express | Director - Digital Product Management | Director | Sunnyvale, CA, USA | $144K–$256K | 1d | [Apply](https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015573/?intlink=us-amex-career-en-us-search) |
 | CenterPoint Energy | Director IT Digital Workplace | Director | Houston, TX, USA |  | 1d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
@@ -1586,9 +1586,8 @@ _44 older roles in this section are in data/roles.json on the `data` branch._
 | Ohio State University | Assistant Director, Digital Media | Director | Columbus Campus |  | 16d | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Assistant-Director--Digital-Media_R160912-1) |
 | Credit Acceptance | Director, Consumer Digital Experience | Director | USA - Remote | $230K–$268K | 16d | [Apply](https://creditacceptance.wd5.myworkdayjobs.com/Credit_Acceptance/job/USA---Remote/Director--Consumer-Digital-Experience_R13975) |
 | Cushman & Wakefield | Global Director, Program Management | Director | Client Site - USA - CA - Santa Clara - 225 |  | 16d | [Apply](https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Santa-Clara---2250-Lawson-Ln/Director--Program-Management_R334460) |
-| Honeywell ⭐ | Sr Director IT Strategy & Transformation | Sr. Director | Charlotte, NC, United States | $214K–$268K | 16d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159991) |
 
-_135 older roles in this section are in data/roles.json on the `data` branch._
+_136 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1861,7 +1860,7 @@ _580 older roles in this section are in data/roles.json on the `data` branch._
 | Kintegra Health | Director of Information Systems | Director | Gastonia, NC, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dba3b3a-988b-4536-970e-dff855707ff9&ccId=9200056745330_2&jobId=597169&source=IN&lang=en_US) |
 | Central Valley Ag Cooperative | Director of Applied Innovation - York, NE | Director | York, NE, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=23a893d8-b6eb-4ddb-8bd2-dfc281b1abe3&ccId=19000101_000001&jobId=1010221&source=IN&lang=en_US) |
 | Sysdig | FinOps Operational Cost Control, Director | Director | Remote, USA | $198K–$247K | 1d | [Apply](https://jobs.lever.co/sysdig/8eccdb0f-0324-4144-89c1-670cc872d3b4?lever-source=Indeed) |
-| vCluster Labs | 🆕 Sr. Director, VAR & Channel Partnerships | Sr. Director | United States +1 · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/183dfe72-4542-47fe-b182-a484addf245f) ⚡ |
+| vCluster Labs | Sr. Director, VAR & Channel Partnerships | Sr. Director | United States +1 · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/183dfe72-4542-47fe-b182-a484addf245f) ⚡ |
 | Sysdig | FinOps Operational Cost Control, Director | Director | Flexible - USA · Remote |  | 2d | [Apply](https://jobs.lever.co/sysdig/0ea52eb6-8242-492b-acf3-6626f243e160) ⚡ |
 | NVIDIA ⭐ | Senior Director, Boards and Systems Supply Planning | Sr. Director | US, CA, Santa Clara |  | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Boards-and-Systems-Supply-Planning_JR2020393) |
 | Walmart | (USA) Senior Director, Product Management | Sr. Director | Bentonville, AR, USA | $160K–$416K | 2d | [Apply](https://click.appcast.io/t/4aQfjuBdA7Q9_OeO5dCg_s7hzbpK0IJtI2QPp-OEjMw=) |

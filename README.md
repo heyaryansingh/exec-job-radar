@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,200 open roles** at **1,161 companies** · **32 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 06:16 PM ET
+**3,201 open roles** at **1,161 companies** · **32 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 06:45 PM ET
 
-By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 80 · MD 26
+By level: Director 1637 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 80 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -35,7 +35,7 @@ By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 - [🚦 Reliability & Operations (210)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
-- [🔄 Transformation & Delivery (386)](#transformation-delivery)
+- [🔄 Transformation & Delivery (387)](#transformation-delivery)
 - [🛠️ Engineering & Software (830)](#engineering-software)
 - [📌 Other Senior Roles (242)](#other-senior-roles)
 - [🔒 Recently closed (149)](#recently-closed)
@@ -1422,6 +1422,7 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 | Northern Trust Corporation | Spclst, Digital Transformation-Vice President (req R163630) | VP | Chicago, IL |  | 5d | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Spclst--Digital-Transformation-Vice-President_R163630) |
 | Merck | Director, Digital Plant Lead | Director |  |  | 5d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR423740ENUS) |
 | Paragon Investing | VP of Product Strategy | VP | Remote, USA | $210K–$223K | 5d | [Apply](https://www.indeed.com/viewjob?jk=accd50c81ea2ba92) |
+| Oracle | Director, Program Management | Director | Nashville, TN, United States | $146K–$306K | 6d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348839) |
 | BAE Systems, Inc. | P&S Vice President - Information Technology & Digital Officer | VP | Minnesota |  | 6d | [Apply](https://builtin.com/job/p-s-vice-president-information-technology-digital-officer/10562448) |
 | Citi (jobs.citi.com) ⭐ | Technical Delivery Lead – Equities Acceleration - Sr. Vice President | VP | Tampa, FL, US +1 |  | 6d | [Apply](https://jobs.citi.com/job/tampa/technical-delivery-lead-equities-acceleration-sr-vice-president/287/102480793712) |
 | Ankura | Director/Senior Director, Office of the CFO Finance Transformation | Sr. Director | Chicago, IL +2 | $110K–$200K | 6d | [Apply](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/Director-Senior-Director--Office-of-the-CFO-Finance-Transformation_R104972-1) |
@@ -1572,9 +1573,8 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 | Mastercard (Phenom) ⭐ | Director, Finance Business Partner, Digital Payments | Director | Purchase, New York, United States of Ameri |  | 16d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR286876EXTERNALENUS) |
 | Ohio State University | Assistant Director, Digital Media | Director | Columbus Campus |  | 16d | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Assistant-Director--Digital-Media_R160912-1) |
 | Credit Acceptance | Director, Consumer Digital Experience | Director | USA - Remote | $230K–$268K | 16d | [Apply](https://creditacceptance.wd5.myworkdayjobs.com/Credit_Acceptance/job/USA---Remote/Director--Consumer-Digital-Experience_R13975) |
-| Cushman & Wakefield | Global Director, Program Management | Director | Client Site - USA - CA - Santa Clara - 225 |  | 16d | [Apply](https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Santa-Clara---2250-Lawson-Ln/Director--Program-Management_R334460) |
 
-_136 older roles in this section are in data/roles.json on the `data` branch._
+_137 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,198 open roles** at **1,160 companies** · **46 new in the last 24 hours** · 5,607 company career sites watched · updated hourly · last update Nov 01, 2026 12:36 PM ET
+**3,199 open roles** at **1,161 companies** · **46 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 01:26 PM ET
 
-By level: Director 1635 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 79 · MD 26
+By level: Director 1636 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 89 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 1635 · VP 661 · Sr. Director 388 · Head 195 · EVP/SVP 125
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (92)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (204)](#security-risk-technology)
-- [🧠 Data & AI (850)](#data-ai)
+- [🧠 Data & AI (851)](#data-ai)
 - [🚦 Reliability & Operations (210)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
@@ -757,7 +757,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | The Aerospace Corporation | Director, Data & AI Services | Director | El Segundo, CA +1 |  | 9d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Director--Data---AI-Services_R017006) |
 | Fiserv | Data and AI Portfolio, Director | Director | Sunnyvale, California, United States of Am |  | 9d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10405325EXTERNALENUS) |
 
-_600 older roles in this section are in data/roles.json on the `data` branch._
+_601 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,194 open roles** at **1,158 companies** · **49 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 03:45 AM ET
+**3,194 open roles** at **1,158 companies** · **48 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 04:45 AM ET
 
 By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 
 ## Contents
 
-- [🆕 New in the last 24 hours (49)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (48)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (91)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (203)](#security-risk-technology)
@@ -72,7 +72,6 @@ By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125
 | ARS Pharmaceuticals Operations, Inc. | 🆕 Director / Senior Director, Technical Operations | Sr. Director | San Diego, California, United States | $225K–$275K | 1d | [Apply](https://job-boards.greenhouse.io/arspharmaceuticalsoperationsinc/jobs/5466578008) ⚡ |
 | Hewlett Packard Enterprise / HPE | 🆕 Global Head of Employee Mobility | Head | Spring, TX, USA | $166K–$354K | 1d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1218166EXTERNALENUS/Global-Head-of-Employee-Mobility?utm_source=indeed&utm_medium=phenom-feeds) |
 | McCarthy Building | 🆕 Design Integration Director | Director | Newport Beach, CA, USA | $185K–$210K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=ort2Afwg&s=Indeed) |
-| County of Napa, CA | 🆕 Deputy Chief Technology Officer - Infrastructure/Operations/Security | C-level | Napa, CA, USA | $201K–$244K | 1d | [Apply](https://www.governmentjobs.com/careers/napacounty/jobs/5533729/deputy-chief-technology-officer-infrastructure-operations-security) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
 | Academian | 🆕 Vice President - Technology US - Hybrid | VP | Goodyear, Arizona | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/goodyear/arizona/info_technology/5565927071/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |
@@ -200,7 +199,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | City of Lincoln/Lancaster County | 🆕 Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 1d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
-| County of Napa, CA | 🆕 Deputy Chief Technology Officer - Infrastructure/Operations/Security | C-level | Napa, CA, USA | $201K–$244K | 1d | [Apply](https://www.governmentjobs.com/careers/napacounty/jobs/5533729/deputy-chief-technology-officer-infrastructure-operations-security) |
+| County of Napa, CA | Deputy Chief Technology Officer - Infrastructure/Operations/Security | C-level | Napa, CA, USA | $201K–$244K | 1d | [Apply](https://www.governmentjobs.com/careers/napacounty/jobs/5533729/deputy-chief-technology-officer-infrastructure-operations-security) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |
 | CIRE INVESTMENT SERVICES | 🆕 Chief Technology Officer — AI, Data & Growth Leader | C-level | Philadelphia, Pennsylvania | $180K–$280K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5568565334/e/) |
 | Torchbearers | 🆕 Chief Technology Officer | C-level | Rockville, Maryland | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/rockville/maryland/engineering/5570689489/e/) |

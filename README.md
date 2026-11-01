@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,195 open roles** at **1,158 companies** · **49 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 02:43 AM ET
+**3,194 open roles** at **1,158 companies** · **49 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 02:54 AM ET
 
-By level: Director 1634 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
+By level: Director 1634 · VP 660 · Sr. Director 387 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -33,12 +33,12 @@ By level: Director 1634 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125
 - [🛡️ Security & Risk Technology (203)](#security-risk-technology)
 - [🧠 Data & AI (850)](#data-ai)
 - [🚦 Reliability & Operations (210)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (294)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
 - [🔄 Transformation & Delivery (385)](#transformation-delivery)
 - [🛠️ Engineering & Software (830)](#engineering-software)
 - [📌 Other Senior Roles (242)](#other-senior-roles)
-- [🔒 Recently closed (148)](#recently-closed)
+- [🔒 Recently closed (149)](#recently-closed)
 - Daily digests: [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -1234,7 +1234,7 @@ _600 older roles in this section are in data/roles.json on the `data` branch._
 | Huron Consulting | Digital Consulting Director, Oracle Cloud Financials | Director | Chicago - 550 Van Buren · Remote | $219K–$304K | 24d | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Digital-Consulting-Director--Oracle-Cloud-Financials_JR-0016814) |
 | Oaktree Capital | Senior Vice President, Network Engineering | EVP/SVP | Los Angeles, California +1 | $200K–$225K | 24d | [Apply](https://oaktree.wd1.myworkdayjobs.com/Oaktree/job/Los-Angeles-California/Senior-Vice-President--Network-Engineering_2026-464-1) |
 
-_45 older roles in this section are in data/roles.json on the `data` branch._
+_44 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2107,6 +2107,7 @@ _580 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Expedia Group ⭐ | 🔒 Sr Director Engineering - Experience Platform | Sr. Director | Washington - Seattle Campus +1 |  | 30d | Closed |
 | Tutor Intelligence | 🔒 Head of Fleet and Data | Head | Watertown, MA | $175K–$300K | 2d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Private Bank Digital Product Manager, VP | VP | New York, NY, United States |  | 2d | Closed |
 | Expedia Group ⭐ | 🔒 Sr Director. Agent Tools Product & Technology | Sr. Director | Washington - Seattle Campus |  | 16d | Closed |

@@ -1,6 +1,6 @@
 # 🤠 Senior technology roles in the Houston area
 
-86 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+87 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
@@ -8,8 +8,8 @@
 | AccessHealth | 🆕 Director of Development & External Affairs | Director | Richmond, TX, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/DC8696665A6083E618AF32CA62D76371/jobs/306207?source=Indeed) |
 | CenterPoint Energy | 🆕 Director IT Digital Workplace | Director | Houston, TX, USA |  | 1d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |
 | The Edge Group | 🆕 Director of AI Search & Organic Acquisition | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-ai-search-organic-acquisition-at-the-edge-group-4471167211) |
-| Shield | 🆕 Director, IT Project Management; R6372 | Director | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5569804249/e/) |
 | KPMG US | 🆕 Director, Global Senior Cloud Security Architect | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-global-senior-cloud-security-architect-at-kpmg-us-4484587234) |
+| Shield | 🆕 Director, IT Project Management; R6372 | Director | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5569804249/e/) |
 | Blue Signal Search | IT Compliance Director | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/it-compliance-director-at-blue-signal-search-4483493656) |
 | HPE | Global Head of Employee Mobility | Head | Spring, Texas, United States of America +1 |  | 2d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Global-Head-of-Employee-Mobility_1218166) |
 | HP | Vice President - PS Agentic AI PC Architecture & Development | VP | Palo Alto, California, United States of Am +1 | $300K–$350K | 2d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/VP---PS-Agentic-AI-PC-Architecture---Development_3168688-1) |
@@ -77,6 +77,7 @@
 | Accenture ⭐ | Strategy Principal Director, Data & AI Strategy - Life Sciences | Director | New York, One Manhattan West, Corp +39 | $151K–$388K | 17d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Strategy-Principal-Director--Data---AI-Strategy---Life-Sciences_R00364140) |
 | JLL ⭐ | Senior Vice President, Data Centers | EVP/SVP | Lufkin, TX +5 · Remote |  | 17d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Lufkin-TX/Senior-Vice-President--Data-Centers_REQ538652) |
 | HP | Senior Director -  Agentic AI Development | Sr. Director | Spring, Texas, United States of America +1 | $200K–$320K | 18d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Senior-Director----Agentic-AI-Development_3168693-2) |
+| Memorial Hermann Health System | Director, Engineering Services NE Hospital (Humble) | Director | Humble, Texas, United States of America |  | 19d | [Apply](https://jobs.memorialhermann.org/us/en/job/MHHSUS100187833EXTERNALENUS) |
 | JPMorgan Chase ⭐ | Vice President - Lead Site Reliability Engineer | VP | Houston, TX, United States |  | 19d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799206) |
 | Huntington Bank | Technology Risk & Control Director – Resiliency, Third Party, and Infrastructure | Director | Charlotte, NC +5 |  | 20d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Charlotte-NC/Technology-Risk---Control-Director---Resiliency--Third-Party--and-Infrastructure_R0076432) |
 | Wood Mackenzie | VP, Head of Transmission Products | VP | Houston, US · Remote |  | 20d | [Apply](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Houston-US/VP--Head-of-Transmission-Products_JR3437) |

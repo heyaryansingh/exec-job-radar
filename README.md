@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,192 open roles** at **1,158 companies** · **52 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 12:55 AM ET
+**3,195 open roles** at **1,158 companies** · **54 new in the last 24 hours** · 5,604 company career sites watched · updated hourly · last update Nov 01, 2026 01:55 AM ET
 
-By level: Director 1633 · VP 660 · Sr. Director 386 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
+By level: Director 1634 · VP 660 · Sr. Director 388 · Head 195 · EVP/SVP 125 · C-level 88 · ED 79 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (52)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (54)](#new-in-the-last-24-hours)
 - [🤠 Houston area (87)](#houston-area)
 - [👑 Executive Technology Leadership (91)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (203)](#security-risk-technology)
-- [🧠 Data & AI (847)](#data-ai)
+- [🧠 Data & AI (850)](#data-ai)
 - [🚦 Reliability & Operations (210)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
@@ -47,6 +47,9 @@ By level: Director 1633 · VP 660 · Sr. Director 386 · Head 195 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Centene | 🆕 Director, AI Vendor Integrations & Standards | Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--AI-Vendor-Integrations---Standards_1670357) |
+| Centene | 🆕 Senior Director, AI Lifecycle Management | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Lifecycle-Management_1670354) |
+| Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
 | Tyler Junior College | 🆕 Director, Office of Technology Services | Director | Tyler, TX, USA |  | 0d | [Apply](https://www.schooljobs.com/careers/tjc/jobs/5536511/director-office-of-technology-services) |
 | Parsons | 🆕 DC Office Operations Manager/Senior Program Director, Transportation Engineering | Director | Washington, DC, USA | $158K–$284K | 1d | [Apply](https://jobs.parsons.com/jobs/dc-office-operations-manager-senior-program-director-transportation-engineering-washington-r-188081-jobs--project-program-management--) |
 | JPMC Candidate Experience page | 🆕 Technical Product Owner-Vice President (Corporate Technology, Document Platform) | VP | Jersey City, New Jersey |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210797295) |
@@ -96,7 +99,6 @@ By level: Director 1633 · VP 660 · Sr. Director 386 · Head 195 · EVP/SVP 125
 | DP World | 🆕 Director, Data Center Excellence | Director | Atlanta, GA, USA |  | 2d | [Apply](https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27819) |
 | vCluster Labs | 🆕 Sr. Director, VAR & Channel Partnerships | Sr. Director | United States +1 · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/183dfe72-4542-47fe-b182-a484addf245f) ⚡ |
 | vCluster Labs | 🆕 Sr. Global Alliance Director, NVIDIA and AI Clouds | Director | USA - San Francisco · Remote | $225K–$280K | 2d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/cc532bad-b05a-43c3-8a28-a2bd99966769) ⚡ |
-| The Clearing House Payments Company | 🆕 Director, Information Security | Director | North Carolina Office +1 |  | 2d | [Apply](https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Director--Information-Security_JR100221) |
 | Cencora | 🆕 Director - AI Operations | Director | Harrisburg, Pennsylvania, United States of |  | 3d | [Apply](https://careers.cencora.com/us/en/job/CHKCENUSR2618033EXTERNALENUS) |
 | Tempus | 🆕 Director, Revenue Cycle Operations - Tempus AI Diagnostics | Director | Remote - Illinois | $150K–$200K | 3d | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---Illinois/Director--Revenue-Cycle-Operations---Tempus-AI-Diagnostics_JR202601163-1) |
 
@@ -302,7 +304,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 |---|---|---|---|---|---:|---|
 | Geotab | 🆕 Head of Security Centre | Head | Atlanta, GA, USA |  | 1d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
 | KPMG US | 🆕 Director, Global Senior Cloud Security Architect | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-global-senior-cloud-security-architect-at-kpmg-us-4484587234) |
-| The Clearing House Payments Company | 🆕 Director, Information Security | Director | North Carolina Office +1 |  | 2d | [Apply](https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Director--Information-Security_JR100221) |
+| The Clearing House Payments Company | Director, Information Security | Director | North Carolina Office +1 |  | 2d | [Apply](https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Director--Information-Security_JR100221) |
 | NVIDIA ⭐ | Director, Global Event Security | Director | US, CA, Santa Clara |  | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Global-Event-Security_JR2023116) |
 | Allium | Head of Security & IT | Head | New York +1 |  | 2d | [Apply](https://jobs.ashbyhq.com/allium/6737cb1d-d03b-406c-9d13-70546fc0504d) ⚡ |
 | Geotab | Head of Security Centre | Head | Detroit, MI, USA |  | 2d | [Apply](https://grnh.se/w94r01xu8us) |
@@ -510,6 +512,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Centene | 🆕 Director, AI Vendor Integrations & Standards | Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--AI-Vendor-Integrations---Standards_1670357) |
+| Centene | 🆕 Senior Director, AI Lifecycle Management | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Lifecycle-Management_1670354) |
+| Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Principal Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/principal-generative-ai-engineering-lead-senior-vice-president/287/102659498576) |
 | Information Technology Senior Management Forum | 🆕 TEMPO- AI Enablement Director - Productivity & Efficiency Leader | Director | Charlotte, NC, USA |  | 1d | [Apply](https://jobs.itsmfleaders.org/job/zrdc3j/tempo-ai-enablement-director-productivity-efficiency-leader/charlotte/nc) |
 | NewRocket | 🆕 Director of AI and Enterprise Architecture | Director | Vista, CA, USA |  | 1d | [Apply](https://grnh.se/iex7abyb4us) |
@@ -757,11 +762,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | U.S. Bank | Vice President, People Analytics-Data Science | VP | Minneapolis, MN |  | 9d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Vice-President--People-Analytics-Data-Science_2026-0032322-1) |
 | The Aerospace Corporation | Director, Data & AI Services | Director | El Segundo, CA +1 |  | 9d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Director--Data---AI-Services_R017006) |
 | Fiserv | Data and AI Portfolio, Director | Director | Sunnyvale, California, United States of Am |  | 9d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10405325EXTERNALENUS) |
-| ABC Fitness | Director of Data Architect | Director | Remote, United States |  | 9d | [Apply](https://abcfinancial.wd5.myworkdayjobs.com/ABCFinancialServices/job/Remote-United-States/Director-of-Data-Architect_REQ-1620) |
-| Broadridge | Senior Director, Market Data Strategy & Distribution (Hybrid - Denver, CO or Chicago, IL or NYC) | Sr. Director | Denver, CO | $250K–$275K | 9d | [Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Denver-CO/Senior-Director--Market-Data-Strategy---Distribution--Hybrid---Denver--CO-or-Chicago--IL-or-NYC-_JR1086950) |
-| Coke | Director, CRM and Data Integration | Director | US - GA - Atlanta |  | 9d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--CRM-and-Data-Integration_R-147949) |
 
-_597 older roles in this section are in data/roles.json on the `data` branch._
+_600 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

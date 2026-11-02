@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,216 open roles** at **1,171 companies** · **18 new in the last 24 hours** · 5,609 company career sites watched · updated hourly · last update Nov 02, 2026 04:56 AM ET
+**3,216 open roles** at **1,171 companies** · **17 new in the last 24 hours** · 5,609 company career sites watched · updated hourly · last update Nov 02, 2026 05:56 AM ET
 
 By level: Director 1641 · VP 664 · Sr. Director 390 · Head 196 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
 
@@ -27,7 +27,7 @@ By level: Director 1641 · VP 664 · Sr. Director 390 · Head 196 · EVP/SVP 125
 
 ## Contents
 
-- [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (17)](#new-in-the-last-24-hours)
 - [🤠 Houston area (91)](#houston-area)
 - [👑 Executive Technology Leadership (97)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (205)](#security-risk-technology)
@@ -59,7 +59,6 @@ By level: Director 1641 · VP 664 · Sr. Director 390 · Head 196 · EVP/SVP 125
 | JPMorgan Chase ⭐ | 🆕 AI Site Lead Executive Director - Director of Software Engineering | ED | Atlanta, GA, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791978) |
 | Crux AI | 🆕 VP, Compute | VP | Palo Alto · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/crux/2584654f-8b6a-4c02-b42b-fe160043048b) ⚡ |
 | Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 1d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
-| Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 1d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | New York, New York | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/new-york-city/new-york/info_technology/5573115558/e/) |
 | Confidential | 🆕 Vice Chancellor for Information Technology Services and Chief Information Officer - Confidential | C-level | Greensboro, North Carolina |  | 2d | [Apply](https://www.talent.com/view?id=643146451474327248) |
 | Harrison Clarke | 🆕 Chief Technology Officer | C-level | Richmond, Virginia |  | 2d | [Apply](https://www.talent.com/view?id=641140517441176491) |
@@ -1325,7 +1324,7 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 | S&P Global ⭐ | 🆕 Sr Director, Enterprise FP&A and Transformation | Sr. Director | New York, NY | $150K–$260K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Director--Enterprise-FP-A-and-Transformation_332559-1) |
 | Caturus | 🆕 Head of IT & Cybersecurity for Enterprise Transformation | Head | Houston, Texas | $180K–$280K | 1d | [Apply](https://www.jobleads.com/us/job/head-of-it-cybersecurity-for-enterprise-transformation--houston--e3eac989e4e82e867407fbb0f7871d5d7) |
 | Pearl Meyer | 🆕 Vice President of Transformation | VP | New York, New York | $125K–$225K | 1d | [Apply](https://us.trabajo.org/job-4112-f786f396e6faabc5946bc8b321f143c9) |
-| Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 1d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
+| Nationwide Mutual Insurance Company | Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 1d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
 | L3Harris | Director, Program Management | Director | Plano, TX, USA |  | 2d | [Apply](https://careers.harris.com/job/-/-/4832/102644364784) |
 | American Express | Director - Digital Product Management | Director | Sunnyvale, CA, USA | $144K–$256K | 2d | [Apply](https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015573/?intlink=us-amex-career-en-us-search) |
 | CenterPoint Energy | Director IT Digital Workplace | Director | Houston, TX, USA |  | 2d | [Apply](https://careers.centerpointenergy.com/job/Houston-Director-IT-Digital-Workplace-TX-77002/1446425500/) |

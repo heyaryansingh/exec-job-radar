@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,212 open roles** at **1,170 companies** · **18 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 10:16 PM ET
+**3,212 open roles** at **1,170 companies** · **18 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 11:06 PM ET
 
 By level: Director 1640 · VP 664 · Sr. Director 388 · Head 196 · EVP/SVP 125 · C-level 93 · ED 80 · MD 26
 
@@ -49,9 +49,9 @@ By level: Director 1640 · VP 664 · Sr. Director 388 · Head 196 · EVP/SVP 125
 |---|---|---|---|---|---:|---|
 | MD Anderson Cancer Center | 🆕 Director, Operations and Maintenance | Director | Houston, TX, USA | $228K–$268K | 0d | [Apply](https://jobs.mdanderson.org/search/jobdetails/director-operations-and-maintenance/4363bdc3-9fc8-4504-aa80-f8161155f9ce?utm_campaign=indeed_organic&utm_medium=organic_job_board&utm_source=indeed) |
 | Averro | 🆕 Staff Vice President, Technology Operations | VP | Washington, District of Columbia | $185K–$215K | 1d | [Apply](https://www.talent.com/view?id=642543278366269254) |
-| Pearl Meyer | 🆕 Vice President of Transformation | VP | New York, New York | $125K–$225K | 1d | [Apply](https://us.trabajo.org/job-4112-f786f396e6faabc5946bc8b321f143c9) |
-| Leadex Cy Ltd | 🆕 Principal Mulesoft Architect, co-CTO | C-level | Philadelphia, Pennsylvania | $180K–$300K | 1d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/software_development/5573359312/e/) |
 | Caturus | 🆕 Head of IT & Cybersecurity for Enterprise Transformation | Head | Houston, Texas | $180K–$280K | 1d | [Apply](https://www.jobleads.com/us/job/head-of-it-cybersecurity-for-enterprise-transformation--houston--e3eac989e4e82e867407fbb0f7871d5d7) |
+| Leadex Cy Ltd | 🆕 Principal Mulesoft Architect, co-CTO | C-level | Philadelphia, Pennsylvania | $180K–$300K | 1d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/software_development/5573359312/e/) |
+| Pearl Meyer | 🆕 Vice President of Transformation | VP | New York, New York | $125K–$225K | 1d | [Apply](https://us.trabajo.org/job-4112-f786f396e6faabc5946bc8b321f143c9) |
 | Resources Legacy Fund | 🆕 Technology and Operations Director | Director | Houston, Texas | $180K–$210K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5576957326/e/) |
 | JPMorgan Chase ⭐ | 🆕 AI Site Lead Executive Director - Director of Software Engineering | ED | Atlanta, GA, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791978) |
 | Crux AI | 🆕 VP, Compute | VP | Palo Alto · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/crux/2584654f-8b6a-4c02-b42b-fe160043048b) ⚡ |
@@ -60,11 +60,11 @@ By level: Director 1640 · VP 664 · Sr. Director 388 · Head 196 · EVP/SVP 125
 | Centene | 🆕 Senior Director, AI Productivity & LCNC AI | Sr. Director | Remote-MO +15 |  | 1d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Productivity---LCNC-AI_1670353) |
 | Centene | 🆕 Senior Director, AI Lifecycle Management | Sr. Director | Remote-MO +15 |  | 1d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--AI-Lifecycle-Management_1670354) |
 | Centene | 🆕 Director, AI Vendor Integrations & Standards | Director | Remote-MO +15 |  | 1d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--AI-Vendor-Integrations---Standards_1670357) |
-| Viventium Software | 🆕 VP, Information Technology | VP | Remote |  | 2d | [Apply](https://www.ziprecruiter.com/c/viventium-software/Job/VP,-Information-Technology/-in-Remote,US?jid=c08e6bcfc8ad3d08) |
-| Immunovant | 🆕 Director, Infrastructure & Data Platforms | Director | Winston-Salem, North Carolina | $200K–$240K | 2d | [Apply](https://www.learn4good.com/jobs/winston-salem/north-carolina/info_technology/5572842737/e/) |
-| Harrison Clarke | 🆕 Chief Technology Officer | C-level | Richmond, Virginia |  | 2d | [Apply](https://www.talent.com/view?id=641140517441176491) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | New York, New York | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/new-york-city/new-york/info_technology/5573115558/e/) |
 | Confidential | 🆕 Vice Chancellor for Information Technology Services and Chief Information Officer - Confidential | C-level | Greensboro, North Carolina |  | 2d | [Apply](https://www.talent.com/view?id=643146451474327248) |
+| Harrison Clarke | 🆕 Chief Technology Officer | C-level | Richmond, Virginia |  | 2d | [Apply](https://www.talent.com/view?id=641140517441176491) |
+| Immunovant | 🆕 Director, Infrastructure & Data Platforms | Director | Winston-Salem, North Carolina | $200K–$240K | 2d | [Apply](https://www.learn4good.com/jobs/winston-salem/north-carolina/info_technology/5572842737/e/) |
+| Viventium Software | 🆕 VP, Information Technology | VP | Remote |  | 2d | [Apply](https://www.ziprecruiter.com/c/viventium-software/Job/VP,-Information-Technology/-in-Remote,US?jid=c08e6bcfc8ad3d08) |
 
 <a name="houston-area"></a>
 
@@ -173,9 +173,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 |---|---|---|---|---|---:|---|
 | Leadex Cy Ltd | 🆕 Principal Mulesoft Architect, co-CTO | C-level | Philadelphia, Pennsylvania | $180K–$300K | 1d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/software_development/5573359312/e/) |
 | Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 1d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
-| Harrison Clarke | 🆕 Chief Technology Officer | C-level | Richmond, Virginia |  | 2d | [Apply](https://www.talent.com/view?id=641140517441176491) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | New York, New York | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/new-york-city/new-york/info_technology/5573115558/e/) |
 | Confidential | 🆕 Vice Chancellor for Information Technology Services and Chief Information Officer - Confidential | C-level | Greensboro, North Carolina |  | 2d | [Apply](https://www.talent.com/view?id=643146451474327248) |
+| Harrison Clarke | 🆕 Chief Technology Officer | C-level | Richmond, Virginia |  | 2d | [Apply](https://www.talent.com/view?id=641140517441176491) |
 | City of Lincoln/Lancaster County | Chief Information Officer | C-level | Lincoln, NE, USA | $150K–$225K | 2d | [Apply](https://www.governmentjobs.com/careers/lincolnne/jobs/5533087/chief-information-officer) |
 | County of Napa, CA | Deputy Chief Technology Officer - Infrastructure/Operations/Security | C-level | Napa, CA, USA | $201K–$244K | 2d | [Apply](https://www.governmentjobs.com/careers/napacounty/jobs/5533729/deputy-chief-technology-officer-infrastructure-operations-security) |
 | American Physical Society | Chief digital information officer; CDIO | C-level | Waldorf, Maryland | $200K–$300K | 3d | [Apply](https://www.learn4good.com/jobs/waldorf/maryland/info_technology/5568673256/e/) |
@@ -1319,8 +1319,8 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Pearl Meyer | 🆕 Vice President of Transformation | VP | New York, New York | $125K–$225K | 1d | [Apply](https://us.trabajo.org/job-4112-f786f396e6faabc5946bc8b321f143c9) |
 | Caturus | 🆕 Head of IT & Cybersecurity for Enterprise Transformation | Head | Houston, Texas | $180K–$280K | 1d | [Apply](https://www.jobleads.com/us/job/head-of-it-cybersecurity-for-enterprise-transformation--houston--e3eac989e4e82e867407fbb0f7871d5d7) |
+| Pearl Meyer | 🆕 Vice President of Transformation | VP | New York, New York | $125K–$225K | 1d | [Apply](https://us.trabajo.org/job-4112-f786f396e6faabc5946bc8b321f143c9) |
 | Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 1d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
 | L3Harris | Director, Program Management | Director | Plano, TX, USA |  | 2d | [Apply](https://careers.harris.com/job/-/-/4832/102644364784) |
 | American Express | Director - Digital Product Management | Director | Sunnyvale, CA, USA | $144K–$256K | 2d | [Apply](https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015573/?intlink=us-amex-career-en-us-search) |

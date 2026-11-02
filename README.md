@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,353 open roles** at **1,201 companies** · **145 new in the last 24 hours** · 5,629 company career sites watched · updated hourly · last update Nov 02, 2026 06:33 PM ET
+**3,355 open roles** at **1,201 companies** · **145 new in the last 24 hours** · 5,629 company career sites watched · updated hourly · last update Nov 02, 2026 06:46 PM ET
 
-By level: Director 1700 · VP 692 · Sr. Director 403 · Head 220 · EVP/SVP 132 · C-level 95 · ED 83 · MD 28
+By level: Director 1702 · VP 692 · Sr. Director 403 · Head 220 · EVP/SVP 132 · C-level 95 · ED 83 · MD 28
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -33,10 +33,10 @@ By level: Director 1700 · VP 692 · Sr. Director 403 · Head 220 · EVP/SVP 132
 - [🛡️ Security & Risk Technology (220)](#security-risk-technology)
 - [🧠 Data & AI (887)](#data-ai)
 - [🚦 Reliability & Operations (221)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (305)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (306)](#cloud-infrastructure)
 - [🏛️ Architecture (94)](#architecture)
 - [🔄 Transformation & Delivery (401)](#transformation-delivery)
-- [🛠️ Engineering & Software (872)](#engineering-software)
+- [🛠️ Engineering & Software (873)](#engineering-software)
 - [📌 Other Senior Roles (255)](#other-senior-roles)
 - [🔒 Recently closed (154)](#recently-closed)
 - Daily digests: [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md)
@@ -47,12 +47,12 @@ By level: Director 1700 · VP 692 · Sr. Director 403 · Head 220 · EVP/SVP 132
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| The Hartford | 🆕 VP AI Data Engineering, Business Insurance | VP | Hartford, CT +1 | $222K–$334K | 0d | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/VP-AI-Data-Engineering--Business-Insurance_R2627586) |
+| Helius | 🆕 Head of Security | Head | North America · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/helius/5256ef0f-55d0-4a1f-9696-edd6fe56bf1e) ⚡ |
 | Honeywell ⭐ | 🆕 Director Engineering - UOP | Director | Rosemont, IL, United States | $195K–$244K | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160279) |
 | AVEVA | 🆕 Director of Technology Vendor Management | Director | Lake Forest, California, United States of  |  | 0d | [Apply](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Director-of-Technology-Vendor-Management_R015984) |
 | embecta | 🆕 VP, Commercial and G&A IT | VP | USA NJ - Parsippany |  | 0d | [Apply](https://embecta.wd1.myworkdayjobs.com/en-US/embectacareers/job/USA-NJ---Parsippany/VP--Commercial-and-G-A-IT_R21-00608407) |
 | Pennant | 🆕 Director of Engineering | Director | Remote, USA |  | 0d | [Apply](https://pennant.wd1.myworkdayjobs.com/PennantServicesCareerSite/job/Remote-USA/Director-of-Engineering_JR65896) |
-| Helius | 🆕 Head of Security | Head | North America · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/helius/5256ef0f-55d0-4a1f-9696-edd6fe56bf1e) ⚡ |
+| The Hartford | 🆕 VP AI Data Engineering, Business Insurance | VP | Hartford, CT +1 | $222K–$334K | 0d | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/VP-AI-Data-Engineering--Business-Insurance_R2627586) |
 | OpenAI ⭐ | 🆕 Head of Data Science, Strategic Finance | Head | San Francisco | $459K–$536K | 0d | [Apply](https://jobs.ashbyhq.com/openai/961d2951-ff59-494f-971e-fe25414c234c) ⚡ |
 | ABM Industries Inc. | 🆕 Director, Business Information Security Officer (BISO) | Director | Cumming, GA, USA | $177K–$240K | 0d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/170725) |
 | AST SpaceMobile | 🆕 VP Telco Network Architecture & Cyber Security | VP | Dallas, TX, USA |  | 0d | [Apply](https://grnh.se/3wc8wpue5us) |
@@ -1240,6 +1240,7 @@ _637 older roles in this section are in data/roles.json on the `data` branch._
 | Fiserv | Head of Infrastructure - MoneyPass Group | Head | Atlanta, Georgia, United States of America |  | 10d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10405094EXTERNALENUS) |
 | Sanmina | Director of Technical Solution Architect, Server & Storage Solutions | Director | Colorado Springs, CO, USA | $150K–$200K | 10d | [Apply](https://jobs.talemetry.com/sanmina/jobs/apply?job_list_id=10303&tj_id=18387464&tm_company=96474&tm_job=98224&tm_event=view) |
 | Barclays | Senior AWS Cloud Engineering Lead - VP | VP | Whippany, NJ, USA | $170K–$230K | 10d | [Apply](https://search.jobs.barclays/job/whippany/senior-aws-cloud-engineering-lead-vp/13015/91177536880) |
+| Oracle | Oracle Consulting Technical Director, Chief Cloud Architect- GDI | Director | Reston, VA, United States | $126K–$264K | 11d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348549) |
 | Future Secure AI | Head of Product, Core Platform | Head | Austin, TX, USA |  | 11d | [Apply](https://grnh.se/f9f3a75lanz) |
 | Micron Technology | Director, OEM Major Compute & Infrastructure Accounts | Director | Austin, TX, USA | $182K–$248K | 11d | [Apply](https://careers.micron.com/careers/job/45062679?utm_source=indeed&domain=micron.com) |
 | Expedia Group ⭐ | Sr Director, Product Management - Content Platform | Sr. Director | Washington - Seattle Campus |  | 11d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Sr-Director--Product-Management---Content-Platform_R-110838) |
@@ -1371,9 +1372,8 @@ _637 older roles in this section are in data/roles.json on the `data` branch._
 | ZoomInfo | Senior Director, Product Management, Agentic Platform | Sr. Director | Remote-US | $193K–$303K | 24d | [Apply](https://www.zoominfo.com/careers?gh_jid=8876309002) ⚡ |
 | Santander ⭐ | Structured Notes Issuance & Platform Oversight Associate / Vice President | VP | Boadilla del Monte |  | 24d | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Structured-Notes-Issuance---Platform-Oversight-Associate---Vice-President_Req1626010-1) |
 | Santander ⭐ | Structured Notes Platform Development & Automation Associate / Vice President | VP | Boadilla del Monte |  | 24d | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Structured-Notes-Platform-Development---Automation-Associate---Vice-President_Req1626011-1) |
-| NVIDIA ⭐ | Director, Software Engineering – Cloud Compute and Infrastructure | Director | US, CA, Santa Clara |  | 24d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Software-Engineering---Cloud-Compute-and-Infrastructure_JR2027691) |
 
-_55 older roles in this section are in data/roles.json on the `data` branch._
+_56 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1992,7 +1992,7 @@ _151 older roles in this section are in data/roles.json on the `data` branch._
 | Northrop Grumman ⭐ | Director Systems Engineering 2 | Director | United States-Arizona-Chandler |  | 6d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Director-Systems-Engineering-2_R10257778) |
 | BSI Engineering | Vice President of Technology | VP | Mason, OH, USA |  | 6d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=78b501e0-4e35-4bdc-9e48-fa9b4e7f3648&ccId=19000101_000001&jobId=92341&source=IN&lang=en_US) |
 
-_622 older roles in this section are in data/roles.json on the `data` branch._
+_623 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

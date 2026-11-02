@@ -19,18 +19,18 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,214 open roles** at **1,170 companies** · **17 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 02, 2026 02:07 AM ET
+**3,215 open roles** at **1,170 companies** · **18 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 02, 2026 03:07 AM ET
 
-By level: Director 1640 · VP 664 · Sr. Director 389 · Head 196 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
+By level: Director 1640 · VP 664 · Sr. Director 390 · Head 196 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (17)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
 - [🤠 Houston area (90)](#houston-area)
 - [👑 Executive Technology Leadership (97)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (204)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (205)](#security-risk-technology)
 - [🧠 Data & AI (853)](#data-ai)
 - [🚦 Reliability & Operations (213)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
@@ -38,7 +38,7 @@ By level: Director 1640 · VP 664 · Sr. Director 389 · Head 196 · EVP/SVP 125
 - [🔄 Transformation & Delivery (390)](#transformation-delivery)
 - [🛠️ Engineering & Software (831)](#engineering-software)
 - [📌 Other Senior Roles (242)](#other-senior-roles)
-- [🔒 Recently closed (149)](#recently-closed)
+- [🔒 Recently closed (148)](#recently-closed)
 - Daily digests: [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,6 +47,7 @@ By level: Director 1640 · VP 664 · Sr. Director 389 · Head 196 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CrowdStrike ⭐ | 🆕 Senior Director, AI Security Systems (Remote) | Sr. Director | USA - Remote | $235K–$355K | 0d | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Director--AI-Security-Systems--Remote-_R30677-1) |
 | S&P Global ⭐ | 🆕 Sr Director, Enterprise FP&A and Transformation | Sr. Director | New York, NY | $150K–$260K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Director--Enterprise-FP-A-and-Transformation_332559-1) |
 | Wells Fargo ⭐ | 🆕 Head of CDO AI Strategy, Enablement and Delivery | C-level | CHARLOTTE, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Head-of-CDO-AI-Strategy--Enablement-and-Delivery_R-584150) |
 | MD Anderson Cancer Center | 🆕 Director, Operations and Maintenance | Director | Houston, TX, USA | $228K–$268K | 0d | [Apply](https://jobs.mdanderson.org/search/jobdetails/director-operations-and-maintenance/4363bdc3-9fc8-4504-aa80-f8161155f9ce?utm_campaign=indeed_organic&utm_medium=organic_job_board&utm_source=indeed) |
@@ -274,6 +275,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CrowdStrike ⭐ | 🆕 Senior Director, AI Security Systems (Remote) | Sr. Director | USA - Remote | $235K–$355K | 0d | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Director--AI-Security-Systems--Remote-_R30677-1) |
 | Geotab | Head of Security Centre | Head | Atlanta, GA, USA |  | 2d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
 | KPMG US | Director, Global Senior Cloud Security Architect | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-global-senior-cloud-security-architect-at-kpmg-us-4484587234) |
 | The Clearing House Payments Company | Director, Information Security | Director | North Carolina Office +1 |  | 3d | [Apply](https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Director--Information-Security_JR100221) |
@@ -2236,7 +2238,6 @@ _581 older roles in this section are in data/roles.json on the `data` branch._
 | Nubank | 🔒 Chief Information Security Officer | C-level | Bogota · Remote |  | 34d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Executive Director, Partner Product Modernization | ED | New York, NY, United States |  | 33d | Closed |
 | Vonage | 🔒 SVP, Partners | EVP/SVP | Work from Home -US | $260K–$340K | 31d | Closed |
-| Workday ⭐ | 🔒 Sr Director, Software Development Engineering | Sr. Director | USA, CA, Pleasanton +2 | $244K–$366K | 18d | Closed |
 
 </details>
 

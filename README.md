@@ -19,27 +19,27 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,212 open roles** at **1,170 companies** · **18 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 01, 2026 11:06 PM ET
+**3,214 open roles** at **1,170 companies** · **20 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 02, 2026 12:08 AM ET
 
-By level: Director 1640 · VP 664 · Sr. Director 388 · Head 196 · EVP/SVP 125 · C-level 93 · ED 80 · MD 26
+By level: Director 1640 · VP 664 · Sr. Director 389 · Head 196 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (20)](#new-in-the-last-24-hours)
 - [🤠 Houston area (90)](#houston-area)
-- [👑 Executive Technology Leadership (96)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (97)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (204)](#security-risk-technology)
 - [🧠 Data & AI (853)](#data-ai)
 - [🚦 Reliability & Operations (213)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
-- [🔄 Transformation & Delivery (389)](#transformation-delivery)
+- [🔄 Transformation & Delivery (390)](#transformation-delivery)
 - [🛠️ Engineering & Software (831)](#engineering-software)
 - [📌 Other Senior Roles (242)](#other-senior-roles)
 - [🔒 Recently closed (149)](#recently-closed)
-- Daily digests: [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md) · [10-26](data/daily/2026-10-26.md)
+- Daily digests: [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -47,6 +47,8 @@ By level: Director 1640 · VP 664 · Sr. Director 388 · Head 196 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Wells Fargo ⭐ | 🆕 Head of CDO AI Strategy, Enablement and Delivery | C-level | CHARLOTTE, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Head-of-CDO-AI-Strategy--Enablement-and-Delivery_R-584150) |
+| S&P Global ⭐ | 🆕 Sr Director, Enterprise FP&A and Transformation | Sr. Director | New York, NY | $150K–$260K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Director--Enterprise-FP-A-and-Transformation_332559-1) |
 | MD Anderson Cancer Center | 🆕 Director, Operations and Maintenance | Director | Houston, TX, USA | $228K–$268K | 0d | [Apply](https://jobs.mdanderson.org/search/jobdetails/director-operations-and-maintenance/4363bdc3-9fc8-4504-aa80-f8161155f9ce?utm_campaign=indeed_organic&utm_medium=organic_job_board&utm_source=indeed) |
 | Averro | 🆕 Staff Vice President, Technology Operations | VP | Washington, District of Columbia | $185K–$215K | 1d | [Apply](https://www.talent.com/view?id=642543278366269254) |
 | Caturus | 🆕 Head of IT & Cybersecurity for Enterprise Transformation | Head | Houston, Texas | $180K–$280K | 1d | [Apply](https://www.jobleads.com/us/job/head-of-it-cybersecurity-for-enterprise-transformation--houston--e3eac989e4e82e867407fbb0f7871d5d7) |
@@ -171,6 +173,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Wells Fargo ⭐ | 🆕 Head of CDO AI Strategy, Enablement and Delivery | C-level | CHARLOTTE, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Head-of-CDO-AI-Strategy--Enablement-and-Delivery_R-584150) |
 | Leadex Cy Ltd | 🆕 Principal Mulesoft Architect, co-CTO | C-level | Philadelphia, Pennsylvania | $180K–$300K | 1d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/software_development/5573359312/e/) |
 | Brain Builder Africa | 🆕 CTO/CEO (Enterprise Data Partnership) | C-level | Remote, USA | $100K–$2.00M | 1d | [Apply](https://www.indeed.com/viewjob?jk=e9ededfb481a2073) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | New York, New York | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/new-york-city/new-york/info_technology/5573115558/e/) |
@@ -1319,6 +1322,7 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| S&P Global ⭐ | 🆕 Sr Director, Enterprise FP&A and Transformation | Sr. Director | New York, NY | $150K–$260K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Director--Enterprise-FP-A-and-Transformation_332559-1) |
 | Caturus | 🆕 Head of IT & Cybersecurity for Enterprise Transformation | Head | Houston, Texas | $180K–$280K | 1d | [Apply](https://www.jobleads.com/us/job/head-of-it-cybersecurity-for-enterprise-transformation--houston--e3eac989e4e82e867407fbb0f7871d5d7) |
 | Pearl Meyer | 🆕 Vice President of Transformation | VP | New York, New York | $125K–$225K | 1d | [Apply](https://us.trabajo.org/job-4112-f786f396e6faabc5946bc8b321f143c9) |
 | Nationwide Mutual Insurance Company | 🆕 Director, Business Program Management (Product Operating Model & Agile Coaching Lead) | Director | Columbus, OH, USA · Remote |  | 1d | [Apply](https://careers.nationwide.com/director-business-program-management-product-operating-model-agile-coaching-lead/job/B691554441D800B323DCC7E8204EB5F8) |
@@ -1568,9 +1572,8 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 | Siemens Healthineers | Head of IT DX Strategy & Management Services | Head | Remote, USA | $244K–$336K | 15d | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TAR-B/Head-of-IT-DX-Strategy---Management-Services_R-31383) |
 | Honeywell Technologies | Sr Director IT Strategy & Transformation | Sr. Director | Houston, Texas | $214K–$268K | 16d | [Apply](https://www.linkedin.com/jobs/view/sr-director-it-strategy-transformation-at-honeywell-technologies-4480572984) |
 | Mastercard (Phenom) ⭐ | Director, Technical Program Management | Director | O Fallon, Missouri, United States of Ameri |  | 17d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR276338EXTERNALENUS) [alt](https://careers.mastercard.com/us/en/job/MASRUSR292366EXTERNALENUS) |
-| Mastercard (Phenom) ⭐ | Director, Finance Business Partner, Digital Payments | Director | Purchase, New York, United States of Ameri |  | 17d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR286876EXTERNALENUS) |
 
-_139 older roles in this section are in data/roles.json on the `data` branch._
+_140 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

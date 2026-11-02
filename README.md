@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,219 open roles** at **1,172 companies** · **20 new in the last 24 hours** · 5,609 company career sites watched · updated hourly · last update Nov 02, 2026 06:56 AM ET
+**3,224 open roles** at **1,172 companies** · **25 new in the last 24 hours** · 5,609 company career sites watched · updated hourly · last update Nov 02, 2026 07:57 AM ET
 
-By level: Director 1642 · VP 664 · Sr. Director 391 · Head 197 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
+By level: Director 1643 · VP 664 · Sr. Director 393 · Head 199 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (20)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (25)](#new-in-the-last-24-hours)
 - [🤠 Houston area (91)](#houston-area)
 - [👑 Executive Technology Leadership (97)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (205)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (206)](#security-risk-technology)
 - [🧠 Data & AI (855)](#data-ai)
 - [🚦 Reliability & Operations (214)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
-- [🔄 Transformation & Delivery (390)](#transformation-delivery)
-- [🛠️ Engineering & Software (831)](#engineering-software)
+- [🔄 Transformation & Delivery (392)](#transformation-delivery)
+- [🛠️ Engineering & Software (833)](#engineering-software)
 - [📌 Other Senior Roles (243)](#other-senior-roles)
 - [🔒 Recently closed (148)](#recently-closed)
 - Daily digests: [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md)
@@ -47,6 +47,11 @@ By level: Director 1642 · VP 664 · Sr. Director 391 · Head 197 · EVP/SVP 125
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Bank of America ⭐ | 🆕 Head of Global Trade Transformation & Change | Head | New York +2 |  | 0d | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Head-of-Global-Trade-Transformation---Change_26040470) |
+| Genesys | 🆕 Director, Forward Deployed Engineering | Director | Texas, USA +7 |  | 0d | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Texas-USA/Director--Forward-Deployed-Engineering_JR112884) |
+| Citi ⭐ | 🆕 Head of Demand, Delivery, and Transformation, Director | Head | Irving Texas United States +1 |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Head-of-Demand--Delivery--and-Transformation--Director_261001035) |
+| BNY ⭐ | 🆕 Senior Director, Engineering Group Leader (req 79494) | Sr. Director | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79494) |
+| Baker Tilly Canada | 🆕 Senior Director, Identity and Access Management | Sr. Director | USA IL Chicago 800 W Fulton +5 · Remote | $252K–$297K | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Chicago-800-W-Fulton/Senior-Director--Identity-and-Access-Management_JR108836) |
 | GoDaddy | 🆕 Director AI Ecosystem Partnerships | Director | United States | $185K–$278K | 0d | [Apply](https://careers.godaddy/jobs?gh_jid=8036011003) ⚡ |
 | GE Vernova ⭐ | 🆕 Head of IT Operations & Infrastructure - UK | Head | Rugby |  | 0d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rugby/Staff-End-User-Support-Engineer_R5057154-2) |
 | Visa | 🆕 Sr. Director - Software Engineering (Java, GenAI, Payment Risk, Cloud, NoSQL - 18+ years' exp) | Sr. Director | IN - Bengaluru, India |  | 0d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Director---Software-Engineering--Java--GenAI--Payment-Risk--Cloud--NoSQL---18--years--exp-_REF088645W-1) |
@@ -278,6 +283,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Baker Tilly Canada | 🆕 Senior Director, Identity and Access Management | Sr. Director | USA IL Chicago 800 W Fulton +5 · Remote | $252K–$297K | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Chicago-800-W-Fulton/Senior-Director--Identity-and-Access-Management_JR108836) |
 | CrowdStrike ⭐ | 🆕 Senior Director, AI Security Systems (Remote) | Sr. Director | USA - Remote | $235K–$355K | 0d | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Director--AI-Security-Systems--Remote-_R30677-1) |
 | Geotab | Head of Security Centre | Head | Atlanta, GA, USA |  | 2d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
 | KPMG US | Director, Global Senior Cloud Security Architect | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-global-senior-cloud-security-architect-at-kpmg-us-4484587234) |
@@ -1325,6 +1331,8 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Bank of America ⭐ | 🆕 Head of Global Trade Transformation & Change | Head | New York +2 |  | 0d | [Apply](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Head-of-Global-Trade-Transformation---Change_26040470) |
+| Citi ⭐ | 🆕 Head of Demand, Delivery, and Transformation, Director | Head | Irving Texas United States +1 |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Head-of-Demand--Delivery--and-Transformation--Director_261001035) |
 | S&P Global ⭐ | 🆕 Sr Director, Enterprise FP&A and Transformation | Sr. Director | New York, NY | $150K–$260K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Director--Enterprise-FP-A-and-Transformation_332559-1) |
 | Caturus | 🆕 Head of IT & Cybersecurity for Enterprise Transformation | Head | Houston, Texas | $180K–$280K | 1d | [Apply](https://www.jobleads.com/us/job/head-of-it-cybersecurity-for-enterprise-transformation--houston--e3eac989e4e82e867407fbb0f7871d5d7) |
 | Pearl Meyer | 🆕 Vice President of Transformation | VP | New York, New York | $125K–$225K | 1d | [Apply](https://us.trabajo.org/job-4112-f786f396e6faabc5946bc8b321f143c9) |
@@ -1573,10 +1581,8 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 | Truist | Head of Digital Assets | Head | Charlotte, NC +1 |  | 14d | [Apply](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Head-of-Digital-Assets_R0118611) [alt](https://careers.truist.com/us/en/job/TBJTBFUSR0118611EXTERNALENUS) |
 | Siemens Healthineers | Head of IT DX Strategy & Management Services | Head | TAR B · Remote | $244K–$336K | 15d | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TAR-B/Head-of-IT-DX-Strategy---Management-Services_R-31383) |
 | Siemens Healthineers | Head of IT DX Strategy & Management Services | Head | Remote, USA | $244K–$336K | 15d | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TAR-B/Head-of-IT-DX-Strategy---Management-Services_R-31383) |
-| Honeywell Technologies | Sr Director IT Strategy & Transformation | Sr. Director | Houston, Texas | $214K–$268K | 16d | [Apply](https://www.linkedin.com/jobs/view/sr-director-it-strategy-transformation-at-honeywell-technologies-4480572984) |
-| Mastercard (Phenom) ⭐ | Director, Technical Program Management | Director | O Fallon, Missouri, United States of Ameri |  | 17d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR276338EXTERNALENUS) [alt](https://careers.mastercard.com/us/en/job/MASRUSR292366EXTERNALENUS) |
 
-_140 older roles in this section are in data/roles.json on the `data` branch._
+_142 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1584,6 +1590,8 @@ _140 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Genesys | 🆕 Director, Forward Deployed Engineering | Director | Texas, USA +7 |  | 0d | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Texas-USA/Director--Forward-Deployed-Engineering_JR112884) |
+| BNY ⭐ | 🆕 Senior Director, Engineering Group Leader (req 79494) | Sr. Director | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79494) |
 | Tyler Junior College | Director, Office of Technology Services | Director | Tyler, TX, USA |  | 1d | [Apply](https://www.schooljobs.com/careers/tjc/jobs/5536511/director-office-of-technology-services) |
 | Viventium Software | 🆕 VP, Information Technology | VP | Remote |  | 2d | [Apply](https://www.ziprecruiter.com/c/viventium-software/Job/VP,-Information-Technology/-in-Remote,US?jid=c08e6bcfc8ad3d08) |
 | Gray Swan AI | Director of Technology Alliances | Director | Remote (U.S. Only) |  | 2d | [Apply](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c) ⚡ [alt](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c?utm_source=pX9MbA3w4g) |
@@ -1832,10 +1840,8 @@ _140 older roles in this section are in data/roles.json on the `data` branch._
 | Travelers | Director Software Engineer | Director | GA - Atlanta |  | 7d | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Director-Software-Engineer_R-52427) |
 | HawkEye 360 | Director, Enterprise IT & Applications | Director | Herndon, VA | $155K–$200K | 7d | [Apply](https://job-boards.greenhouse.io/hawkeye360/jobs/4467042009) ⚡ |
 | Corning | Photonics Connectivity Solutions Commercial Technology Director, United States | Director | USA | $217K–$298K | 7d | [Apply](https://careers.corning.com/us/en/job/77636/Photonics-Connectivity-Solutions-Commercial-Technology-Director-United-States) |
-| SailPoint Technologies | VP, Enterprise Technology & Agentic Experience (Business Applications) | VP | USA · Remote | $215K–$362K | 7d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/VP--Enterprise-Technology---Agentic-Experience--Business-Applications-_R014452) |
-| DESRI | Director Information Technology | Director | Houston, Texas | $200K–$250K | 8d | [Apply](https://simplify.jobs/p/933539e5-e67b-49bd-99a6-c1ddfe65e3a2/Director-Information-Technology) |
 
-_581 older roles in this section are in data/roles.json on the `data` branch._
+_583 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,242 open roles** at **1,178 companies** · **43 new in the last 24 hours** · 5,610 company career sites watched · updated hourly · last update Nov 02, 2026 10:52 AM ET
+**3,250 open roles** at **1,177 companies** · **52 new in the last 24 hours** · 5,611 company career sites watched · updated hourly · last update Nov 02, 2026 11:16 AM ET
 
-By level: Director 1654 · VP 667 · Sr. Director 393 · Head 201 · EVP/SVP 127 · C-level 93 · ED 81 · MD 26
+By level: Director 1657 · VP 672 · Sr. Director 393 · Head 201 · EVP/SVP 127 · C-level 93 · ED 81 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (43)](#new-in-the-last-24-hours)
-- [🤠 Houston area (91)](#houston-area)
+- [🆕 New in the last 24 hours (52)](#new-in-the-last-24-hours)
+- [🤠 Houston area (92)](#houston-area)
 - [👑 Executive Technology Leadership (96)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (207)](#security-risk-technology)
-- [🧠 Data & AI (858)](#data-ai)
-- [🚦 Reliability & Operations (217)](#reliability-operations)
+- [🧠 Data & AI (860)](#data-ai)
+- [🚦 Reliability & Operations (218)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
-- [🏛️ Architecture (89)](#architecture)
+- [🏛️ Architecture (90)](#architecture)
 - [🔄 Transformation & Delivery (394)](#transformation-delivery)
-- [🛠️ Engineering & Software (838)](#engineering-software)
+- [🛠️ Engineering & Software (842)](#engineering-software)
 - [📌 Other Senior Roles (248)](#other-senior-roles)
-- [🔒 Recently closed (151)](#recently-closed)
+- [🔒 Recently closed (152)](#recently-closed)
 - Daily digests: [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,13 +47,22 @@ By level: Director 1654 · VP 667 · Sr. Director 393 · Head 201 · EVP/SVP 127
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| CVS Health ⭐ | 🆕 Lead Director - Network and Data Center Engineering | Director | NY - New York · Remote |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Lead-Director---Network-and-Data-Center-Engineering_R0945793) |
-| Citi ⭐ | 🆕 Enterprise Data Governance Director | Director | Tampa Florida United States |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Enterprise-Data-Governance-Director_261003366) |
-| JPMorgan Chase ⭐ | 🆕 Home Lending Production Planning & Analysis, Executive Director | ED | OH, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789919) |
-| WSP | 🆕 Senior Vice President, Project & Program Management (req 98650) | EVP/SVP | New York, NY, United States |  | 0d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98650) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Java Full Stack Software Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/java-full-stack-software-engineer-vice-president/287/102756321840) [alt](https://jobs.citi.com/job/pune/java-full-stack-software-engineer-vice-president/287/102756321616) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Oracle and Python Technology Lead - Vice President | VP | Chennai, TN, IN |  | 0d | [Apply](https://jobs.citi.com/job/chennai/oracle-and-python-technology-lead-vice-president/287/102756320816) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java and AI Engineer - Vice President | VP | Pune, MH, IN +1 |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-java-and-ai-engineer-vice-president/287/102756316304) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Lead Architect - C++ and Java - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/lead-architect-c-and-java-vice-president/287/102756312000) |
+| GE Vernova ⭐ | 🆕 Heavy Duty Combine Cycle Gas Turbine NU Technical Academy Director | Director | Atlanta +4 · Remote |  | 0d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Heavy-Duty-Combine-Cycle-Gas-Turbine-NU-Technical-Academy-Director_R5056077) |
+| Wells Fargo ⭐ | 🆕 Technology Director | Director | ISELIN, NJ |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Technology-Director_R-585147) |
+| JPMorgan Chase ⭐ | 🆕 Data Scientist Lead, Vice President | VP | Columbus, OH, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790084) |
+| Truist | 🆕 Director, Production Support Operations - Consumer and Small Banking Business | Director | Charlotte, North Carolina, USA |  | 0d | [Apply](https://careers.truist.com/us/en/job/TBJTBFUSR0121417EXTERNALENUS) |
+| Environmental Resources Management | 🆕 Technical Consulting Director, EHS and Air Compliance and Management Systems | Director | Indianapolis, Indiana +1 |  | 0d | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Indianapolis-Indiana/Technical-Consulting-Director--EHS-and-Air-Compliance-and-Management-Systems_R00032072-2) |
+| Exodigo | 🆕 Director of Geotechnical Engineering | Director | Remote, USA | $160K–$260K | 0d | [Apply](https://www.exodigo.com/careers?coref=1.11.pB7_8D1D) |
 | Newcode.ai | 🆕 Head of Forward Deployed Engineering | Head | Chicago, IL, USA |  | 0d | [Apply](https://apply.workable.com/j/CC05B639B3) |
 | Statara Solutions | 🆕 Director, Data Solutions & Engineering | Director | USA · Remote |  | 0d | [Apply](https://apply.workable.com/j/0C4A919CC1) |
-| Exodigo | 🆕 Director of Geotechnical Engineering | Director | Remote, USA | $160K–$260K | 0d | [Apply](https://www.exodigo.com/careers?coref=1.11.pB7_8D1D) |
+| JPMorgan Chase ⭐ | 🆕 Home Lending Production Planning & Analysis, Executive Director | ED | OH, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789919) |
+| WSP | 🆕 Senior Vice President, Project & Program Management (req 98650) | EVP/SVP | New York, NY, United States |  | 0d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98650) |
+| Citi ⭐ | 🆕 Enterprise Data Governance Director | Director | Tampa Florida United States |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Enterprise-Data-Governance-Director_261003366) |
+| CVS Health ⭐ | 🆕 Lead Director - Network and Data Center Engineering | Director | NY - New York · Remote |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Lead-Director---Network-and-Data-Center-Engineering_R0945793) |
 | BNY ⭐ | 🆕 Vice President, Information Security | VP | Jersey City, NJ, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81104) |
 | Gaig | 🆕 Senior Casualty Claims Specialit/Claims Technical Director - Alternative Markets | Director | Remote (USA) |  | 0d | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Casualty-Claims-Specialit-Claims-Technical-Director---Alternative-Markets_R9833) |
 | General Datatech | 🆕 Practice Director, Data Architecture | Director | Remote-North Carolina |  | 0d | [Apply](https://gdt.wd1.myworkdayjobs.com/GDT_Careers/job/Remote-North-Carolina/Practice-Director--Data-Architecture_R-101930) |
@@ -99,6 +108,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| GE Vernova ⭐ | 🆕 Heavy Duty Combine Cycle Gas Turbine NU Technical Academy Director | Director | Atlanta +4 · Remote |  | 0d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Heavy-Duty-Combine-Cycle-Gas-Turbine-NU-Technical-Academy-Director_R5056077) |
 | MD Anderson Cancer Center | 🆕 Director, Operations and Maintenance | Director | Houston, TX, USA | $228K–$268K | 0d | [Apply](https://jobs.mdanderson.org/search/jobdetails/director-operations-and-maintenance/4363bdc3-9fc8-4504-aa80-f8161155f9ce?utm_campaign=indeed_organic&utm_medium=organic_job_board&utm_source=indeed) [alt](https://jsv3.recruitics.com/redirect?rx_cid=3708&rx_jobId=183928&rx_url=https%3A%2F%2Fjobs.mdanderson.org%2Fsearch%2Fjobdetails%2Fdirector-operations-and-maintenance%2F4363bdc3-9fc8-4504-aa80-f8161155f9ce%3Fafid%3Dbb5141b5-ab13-405b-a113-690fda969884%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D460772%26rx_id%3Db00fb561-d643-11f1-b743-2790e18f1913%26rx_job%3D183928%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261102T140414Z%26rx_vp%3Dcpc%26utm_source%3Drecruitics_indeed_organic) |
 | Caturus | 🆕 Head of IT & Cybersecurity for Enterprise Transformation | Head | Houston, Texas | $180K–$280K | 1d | [Apply](https://www.jobleads.com/us/job/head-of-it-cybersecurity-for-enterprise-transformation--houston--e3eac989e4e82e867407fbb0f7871d5d7) |
 | Resources Legacy Fund | 🆕 Technology and Operations Director | Director | Houston, Texas | $180K–$210K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5576957326/e/) |
@@ -514,9 +524,11 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| CVS Health ⭐ | 🆕 Lead Director - Network and Data Center Engineering | Director | NY - New York · Remote |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Lead-Director---Network-and-Data-Center-Engineering_R0945793) |
-| Citi ⭐ | 🆕 Enterprise Data Governance Director | Director | Tampa Florida United States |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Enterprise-Data-Governance-Director_261003366) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Java and AI Engineer - Vice President | VP | Pune, MH, IN +1 |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-java-and-ai-engineer-vice-president/287/102756316304) |
+| JPMorgan Chase ⭐ | 🆕 Data Scientist Lead, Vice President | VP | Columbus, OH, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790084) |
 | Statara Solutions | 🆕 Director, Data Solutions & Engineering | Director | USA · Remote |  | 0d | [Apply](https://apply.workable.com/j/0C4A919CC1) |
+| Citi ⭐ | 🆕 Enterprise Data Governance Director | Director | Tampa Florida United States |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Enterprise-Data-Governance-Director_261003366) |
+| CVS Health ⭐ | 🆕 Lead Director - Network and Data Center Engineering | Director | NY - New York · Remote |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Lead-Director---Network-and-Data-Center-Engineering_R0945793) |
 | General Datatech | 🆕 Practice Director, Data Architecture | Director | Remote-North Carolina |  | 0d | [Apply](https://gdt.wd1.myworkdayjobs.com/GDT_Careers/job/Remote-North-Carolina/Practice-Director--Data-Architecture_R-101930) |
 | USAA ⭐ | 🆕 Director, Business and Data Analytics - P&C Pricing Analytics (Open) | Director | San Antonio Home Office I +5 | $165K–$315K | 0d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Business-and-Data-Analytics---P-C-Pricing-Analytics--Open-_R0122234) |
 | GoDaddy | 🆕 Director AI Ecosystem Partnerships | Director | United States | $185K–$278K | 0d | [Apply](https://careers.godaddy/jobs?gh_jid=8036011003) ⚡ |
@@ -762,10 +774,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Genentech | Vice President, Global Head of AI for Drug Discovery (AIDD) | VP | South San Francisco, California, United St |  | 10d | [Apply](https://careers.gene.com/us/en/job/GENEUS202610127377EXTERNALENUS) |
 | Coca-Cola ⭐ | Director, CRM and Data Integration | Director | US - GA - Atlanta |  | 10d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--CRM-and-Data-Integration_R-147949) |
 | Jobrapido | Vice President of Artificial Intelligence | VP | Memphis, Tennessee |  | 10d | [Apply](https://www.talent.com/view?id=642864173758359248) |
-| AstraZeneca | Director, Data Science Operations – Early Cardiovascular, Renal and Metabolism | Director | Boston, MA, USA | $182K–$272K | 10d | [Apply](https://careers.astrazeneca.com/job/boston/director-data-science-operations-early-cardiovascular-renal-and-metabolism/7684/102339349040) |
-| TransUnion | Director, Data Asset Management | Director | Makati City |  | 10d | [Apply](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Makati-City/Director--Data-Asset-Management_19041315) |
 
-_608 older roles in this section are in data/roles.json on the `data` branch._
+_610 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -773,6 +783,7 @@ _608 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Truist | 🆕 Director, Production Support Operations - Consumer and Small Banking Business | Director | Charlotte, North Carolina, USA |  | 0d | [Apply](https://careers.truist.com/us/en/job/TBJTBFUSR0121417EXTERNALENUS) |
 | JPMorgan Chase ⭐ | 🆕 Home Lending Production Planning & Analysis, Executive Director | ED | OH, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789919) |
 | O'Reilly Auto Parts | 🆕 Director Digital Commerce Experience & Operations | Director | Headquarters |  | 0d | [Apply](https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Director-Omnichannel---Content_R165741) |
 | University of Maryland University College | 🆕 TETC Transportation Systems Management & Operations (TSMO) Program Director | Director | University of Maryland College Park |  | 0d | [Apply](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/TETC-Transportation-Systems-Management---Operations--TSMO--Program-Director_JR105302-1) |
@@ -1256,6 +1267,7 @@ _45 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Lead Architect - C++ and Java - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/lead-architect-c-and-java-vice-president/287/102756312000) |
 | Glenmede Trust Company | Director of Architecture and Engineering | Director | Philadelphia, PA, USA |  | 2d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91a10898-d8ce-4d8a-8e43-34624df15cff&ccId=19000101_000001&jobId=559455&source=IN&lang=en_US) |
 | DOSS | Director of Solution Architecture | Director | San Francisco |  | 3d | [Apply](https://jobs.ashbyhq.com/doss/d104c524-5bc6-4cbe-b280-99ff5f58d227) ⚡ [alt](https://jobs.ashbyhq.com/doss/d104c524-5bc6-4cbe-b280-99ff5f58d227?utm_source=5lRXd94WWN) |
 | NVIDIA ⭐ | Director, Server CPU Product Architecture | Director | US, CA, Santa Clara +1 |  | 3d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Server-CPU-Product-Architecture_JR2025321) |
@@ -1611,8 +1623,13 @@ _144 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Newcode.ai | 🆕 Head of Forward Deployed Engineering | Head | Chicago, IL, USA |  | 0d | [Apply](https://apply.workable.com/j/CC05B639B3) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Java Full Stack Software Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/java-full-stack-software-engineer-vice-president/287/102756321840) [alt](https://jobs.citi.com/job/pune/java-full-stack-software-engineer-vice-president/287/102756321616) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Oracle and Python Technology Lead - Vice President | VP | Chennai, TN, IN |  | 0d | [Apply](https://jobs.citi.com/job/chennai/oracle-and-python-technology-lead-vice-president/287/102756320816) |
+| GE Vernova ⭐ | 🆕 Heavy Duty Combine Cycle Gas Turbine NU Technical Academy Director | Director | Atlanta +4 · Remote |  | 0d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Heavy-Duty-Combine-Cycle-Gas-Turbine-NU-Technical-Academy-Director_R5056077) |
+| Wells Fargo ⭐ | 🆕 Technology Director | Director | ISELIN, NJ |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Technology-Director_R-585147) |
+| Environmental Resources Management | 🆕 Technical Consulting Director, EHS and Air Compliance and Management Systems | Director | Indianapolis, Indiana +1 |  | 0d | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Indianapolis-Indiana/Technical-Consulting-Director--EHS-and-Air-Compliance-and-Management-Systems_R00032072-2) |
 | Exodigo | 🆕 Director of Geotechnical Engineering | Director | Remote, USA | $160K–$260K | 0d | [Apply](https://www.exodigo.com/careers?coref=1.11.pB7_8D1D) |
+| Newcode.ai | 🆕 Head of Forward Deployed Engineering | Head | Chicago, IL, USA |  | 0d | [Apply](https://apply.workable.com/j/CC05B639B3) |
 | Gaig | 🆕 Senior Casualty Claims Specialit/Claims Technical Director - Alternative Markets | Director | Remote (USA) |  | 0d | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Casualty-Claims-Specialit-Claims-Technical-Director---Alternative-Markets_R9833) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Palo Alto, CA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805190) |
 | BNY ⭐ | 🆕 Senior Director, Engineering Group Leader (req 79494) | Sr. Director | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79494) |
@@ -1647,7 +1664,6 @@ _144 older roles in this section are in data/roles.json on the `data` branch._
 | iBio | Director, Antibody Engineering and Discovery | Director | San Diego, CA, USA | $184K–$244K | 3d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4623502/iBio-Inc/Director-Antibody-Engineering-and-Discovery?source=Indeed_Feed) |
 | IE HCR | IT Director | Director | Pinehurst, NC, USA |  | 3d | [Apply](https://www.indeed.com/viewjob?jk=81d213efee6c4348) |
 | Novo | Associate IT/OT Project Director-DPM US CL2 | Director | Clayton, NC, USA |  | 3d | [Apply](https://careers.novonordisk.com/job/Clayton-Associate-ITOT-Project-Director-DPM-US-CL2-NC/1452717333/) |
-| Polaris Industries | Engineering Director - Design | Director | Wyoming, MN, USA | $182K–$239K | 3d | [Apply](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Director---Design_R31758) [alt](https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Director---Design_R31758) |
 | Merck | Director, US Quality (Analytical Technical Solutions) Lead | Director | De Soto, Kansas, United States of America |  | 3d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424572ENUS) |
 | JLL ⭐ | Regional Engineering Director | Director | Boston, MA +2 · Remote |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Regional-Engineering-Director_REQ546154) |
 | Bland | Director of Technology Partnerships | Director | San Francisco or Remote | $160K–$240K | 3d | [Apply](https://jobs.ashbyhq.com/bland/0393fafd-0681-4b60-82e0-9f97e8e62393) ⚡ |
@@ -1857,12 +1873,8 @@ _144 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Director of Engineering Trade & Working Capital Solutions | Director | Pune, MH, IN +1 |  | 7d | [Apply](https://jobs.citi.com/job/pune/director-of-engineering-trade-and-working-capital-solutions/287/102466893328) |
 | Citi (jobs.citi.com) ⭐ | IT Project Senior Manager - VP | VP | Pune, MH, IN +1 |  | 7d | [Apply](https://jobs.citi.com/job/pune/it-project-senior-manager-vp/287/102466896160) |
 | Wayve | Director, AV Product Engineering | Director | Sunnyvale, California USA | $348K–$403K | 7d | [Apply](https://jobs.ashbyhq.com/wayve/6cbb86ef-0834-489d-91c7-e1252e0caa99) ⚡ |
-| DXC Technology | Technical Head of Claims | Head | GBR - ANY CITY |  | 7d | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---ANY-CITY/Technical-Head-of-Claims_51589515-1) |
-| JPMorgan Chase ⭐ | Risk Management & Compliance - Technology Investment Governance Vice President | VP | Jersey City, NJ, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764151) |
-| JPMorgan Chase ⭐ | Technical Implementation Manager Vice President (req 210803344) | VP | Chicago, IL, United States |  | 7d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803344) |
-| Global Payments | Director, Salesforce Engineering | Director | ALPHARETTA, GEORGIA |  | 7d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Director--Salesforce-Engineering_R0075443) |
 
-_588 older roles in this section are in data/roles.json on the `data` branch._
+_592 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2127,6 +2139,7 @@ _588 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Polaris Industries | 🔒 Engineering Director - Design | Director | Wyoming, MN, USA | $182K–$239K | 3d | Closed [alt](https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Wyoming-MN-USA/Engineering-Director---Design_R31758) |
 | MUFG | 🔒 VP, Data Office Transformation | VP | New Jersey Office - 210 Hudson Street |  | 12d | Closed |
 | DaVita | 🔒 Vice President, CISO | C-level | 01553 - New York Remote |  | 4d | Closed |
 | 6sense | 🔒 VP, Technology & Data Partnerships | VP | San Francisco, California, United States |  | 21d | Closed |

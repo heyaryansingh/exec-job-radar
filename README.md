@@ -19,16 +19,16 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,215 open roles** at **1,170 companies** · **18 new in the last 24 hours** · 5,608 company career sites watched · updated hourly · last update Nov 02, 2026 03:07 AM ET
+**3,216 open roles** at **1,171 companies** · **18 new in the last 24 hours** · 5,609 company career sites watched · updated hourly · last update Nov 02, 2026 03:57 AM ET
 
-By level: Director 1640 · VP 664 · Sr. Director 390 · Head 196 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
+By level: Director 1641 · VP 664 · Sr. Director 390 · Head 196 · EVP/SVP 125 · C-level 94 · ED 80 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
 - [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
-- [🤠 Houston area (90)](#houston-area)
+- [🤠 Houston area (91)](#houston-area)
 - [👑 Executive Technology Leadership (97)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (205)](#security-risk-technology)
 - [🧠 Data & AI (853)](#data-ai)
@@ -37,7 +37,7 @@ By level: Director 1640 · VP 664 · Sr. Director 390 · Head 196 · EVP/SVP 125
 - [🏛️ Architecture (89)](#architecture)
 - [🔄 Transformation & Delivery (390)](#transformation-delivery)
 - [🛠️ Engineering & Software (831)](#engineering-software)
-- [📌 Other Senior Roles (242)](#other-senior-roles)
+- [📌 Other Senior Roles (243)](#other-senior-roles)
 - [🔒 Recently closed (148)](#recently-closed)
 - Daily digests: [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md)
 
@@ -104,6 +104,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Honeywell ⭐ | Director, Data Center Strategic Accounts (req 161298) | Director | Houston, TX, United States |  | 5d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161298) |
 | HOUSTON GRAND OPERA ASSOCIATION INC | Director of Enterprise Analytics Engineering | Director | Houston, TX, USA |  | 5d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/600E4266CBBC2ABF423D3126C4F748E6/jobs/509681?source=Indeed) |
 | Kinder Morgan | Director Engineering / Measurement Technical Services | Director | Houston, TX, USA |  | 5d | [Apply](https://careers.kindermorgan.com/careers-home/jobs/6506/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) [alt](https://www.linkedin.com/jobs/view/director-engineering-measurement-technical-services-at-kinder-morgan-inc-4484090710) |
+| Texas Children's Hospital | Director of Accounts Payable | Director | Bellaire, TX, United States |  | 6d | [Apply](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/427247) |
 | HDR | Regional Engineering Director - Education/Science/Health | Director | Houston, TX, USA |  | 6d | [Apply](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197375&tz=GMT-05%3A00&tzname=America%2FChicago) |
 | Accenture ⭐ | Enterprise AI Architecture Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 6d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Enterprise-AI-Architecture-Director_R00365625) |
 | Bain & Company | Vice President, Enterprise Data Architecture | VP | Houston, TX, USA | $226K–$282K | 6d | [Apply](https://careers.bain.com/jobs/FolderDetail/Vice-President-Enterprise-Data-Architecture/111950) |
@@ -1873,6 +1874,7 @@ _581 older roles in this section are in data/roles.json on the `data` branch._
 | SentinelOne | Director, Product Management | Director | United States - Remote | $206K–$309K | 5d | [Apply](https://www.sentinelone.com/jobs/?gh_jid=8040890003) ⚡ |
 | apiphani | Global Alliance Director | Director | United States | $175K–$225K | 5d | [Apply](https://job-boards.greenhouse.io/apiphani/jobs/5265325007) ⚡ |
 | Genpact | Product Director 3 | Director | 1401-G-India: Floor 1 to 12, Hafeezpet Pho |  | 5d | [Apply](https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Product-Director-3_JR10033577) |
+| Texas Children's Hospital | Director of Accounts Payable | Director | Bellaire, TX, United States |  | 6d | [Apply](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/427247) |
 | Medrio | Director of Quality Assurance | Director | San Francisco, CA, USA · Remote | $185K–$205K | 6d | [Apply](https://grnh.se/jfoxmep92us) |
 | ServerFarm | Head of Product | Head | Remote, USA |  | 6d | [Apply](https://jobs.lever.co/serverfarm/9f50b86c-8476-414d-abd0-79fe02b1e27f) ⚡ |
 | Unissant | Senior Director, CBP Programs | Sr. Director | Ashburn, VA, USA | $208K–$264K | 6d | [Apply](https://www.applicantpro.com/openings/unissant/jobs/4256141-221397) |

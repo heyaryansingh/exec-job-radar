@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,230 open roles** at **1,172 companies** · **31 new in the last 24 hours** · 5,610 company career sites watched · updated hourly · last update Nov 02, 2026 08:49 AM ET
+**3,237 open roles** at **1,175 companies** · **37 new in the last 24 hours** · 5,610 company career sites watched · updated hourly · last update Nov 02, 2026 09:51 AM ET
 
-By level: Director 1645 · VP 667 · Sr. Director 393 · Head 199 · EVP/SVP 126 · C-level 94 · ED 80 · MD 26
+By level: Director 1650 · VP 668 · Sr. Director 393 · Head 200 · EVP/SVP 126 · C-level 94 · ED 80 · MD 26
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (31)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (37)](#new-in-the-last-24-hours)
 - [🤠 Houston area (91)](#houston-area)
 - [👑 Executive Technology Leadership (97)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (206)](#security-risk-technology)
-- [🧠 Data & AI (854)](#data-ai)
-- [🚦 Reliability & Operations (214)](#reliability-operations)
+- [🛡️ Security & Risk Technology (207)](#security-risk-technology)
+- [🧠 Data & AI (856)](#data-ai)
+- [🚦 Reliability & Operations (216)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (295)](#cloud-infrastructure)
 - [🏛️ Architecture (89)](#architecture)
 - [🔄 Transformation & Delivery (393)](#transformation-delivery)
-- [🛠️ Engineering & Software (834)](#engineering-software)
+- [🛠️ Engineering & Software (836)](#engineering-software)
 - [📌 Other Senior Roles (248)](#other-senior-roles)
 - [🔒 Recently closed (149)](#recently-closed)
 - Daily digests: [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md) · [10-27](data/daily/2026-10-27.md)
@@ -47,11 +47,17 @@ By level: Director 1645 · VP 667 · Sr. Director 393 · Head 199 · EVP/SVP 126
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| USAA ⭐ | 🆕 Director, Business and Data Analytics - P&C Pricing Analytics (Open) | Director | San Antonio Home Office I +5 | $165K–$315K | 0d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Business-and-Data-Analytics---P-C-Pricing-Analytics--Open-_R0122234) |
+| O'Reilly Auto Parts | 🆕 Director Digital Commerce Experience & Operations | Director | Headquarters |  | 0d | [Apply](https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Director-Omnichannel---Content_R165741) |
+| BNY ⭐ | 🆕 Vice President, Information Security | VP | Jersey City, NJ, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81104) |
+| General Datatech | 🆕 Practice Director, Data Architecture | Director | Remote-North Carolina |  | 0d | [Apply](https://gdt.wd1.myworkdayjobs.com/GDT_Careers/job/Remote-North-Carolina/Practice-Director--Data-Architecture_R-101930) |
+| Gaig | 🆕 Senior Casualty Claims Specialit/Claims Technical Director - Alternative Markets | Director | Remote (USA) |  | 0d | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Casualty-Claims-Specialit-Claims-Technical-Director---Alternative-Markets_R9833) |
+| University of Maryland University College | 🆕 TETC Transportation Systems Management & Operations (TSMO) Program Director | Director | University of Maryland College Park |  | 0d | [Apply](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/TETC-Transportation-Systems-Management---Operations--TSMO--Program-Director_JR105302-1) |
+| BNY ⭐ | 🆕 Senior Vice President, Full-Stack Engineer | EVP/SVP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81912) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81913) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81913) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81914) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81914) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81915) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81915) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81916) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81916) |
-| BNY ⭐ | 🆕 Senior Vice President, Full-Stack Engineer | EVP/SVP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81912) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Palo Alto, CA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805190) |
 | BNY ⭐ | 🆕 Senior Director, Engineering Group Leader (req 79494) | Sr. Director | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79494) |
 | Baker Tilly Canada | 🆕 Senior Director, Identity and Access Management | Sr. Director | USA IL Chicago 800 W Fulton +5 · Remote | $252K–$297K | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Chicago-800-W-Fulton/Senior-Director--Identity-and-Access-Management_JR108836) |
@@ -289,6 +295,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| BNY ⭐ | 🆕 Vice President, Information Security | VP | Jersey City, NJ, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81104) |
 | Baker Tilly Canada | 🆕 Senior Director, Identity and Access Management | Sr. Director | USA IL Chicago 800 W Fulton +5 · Remote | $252K–$297K | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Chicago-800-W-Fulton/Senior-Director--Identity-and-Access-Management_JR108836) |
 | CrowdStrike ⭐ | 🆕 Senior Director, AI Security Systems (Remote) | Sr. Director | USA - Remote | $235K–$355K | 0d | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Director--AI-Security-Systems--Remote-_R30677-1) |
 | Geotab | Head of Security Centre | Head | Atlanta, GA, USA |  | 2d | [Apply](https://careers.geotab.com/jobs/description/5443697008/) |
@@ -502,6 +509,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| USAA ⭐ | 🆕 Director, Business and Data Analytics - P&C Pricing Analytics (Open) | Director | San Antonio Home Office I +5 | $165K–$315K | 0d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Business-and-Data-Analytics---P-C-Pricing-Analytics--Open-_R0122234) |
+| General Datatech | 🆕 Practice Director, Data Architecture | Director | Remote-North Carolina |  | 0d | [Apply](https://gdt.wd1.myworkdayjobs.com/GDT_Careers/job/Remote-North-Carolina/Practice-Director--Data-Architecture_R-101930) |
 | GoDaddy | 🆕 Director AI Ecosystem Partnerships | Director | United States | $185K–$278K | 0d | [Apply](https://careers.godaddy/jobs?gh_jid=8036011003) ⚡ |
 | Visa | 🆕 Sr. Director - Software Engineering (Java, GenAI, Payment Risk, Cloud, NoSQL - 18+ years' exp) | Sr. Director | IN - Bengaluru, India |  | 0d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Director---Software-Engineering--Java--GenAI--Payment-Risk--Cloud--NoSQL---18--years--exp-_REF088645W-1) |
 | JPMorgan Chase ⭐ | 🆕 AI Site Lead Executive Director - Director of Software Engineering | ED | Atlanta, GA, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791978) |
@@ -750,10 +759,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Senior AI/AML Engineer, Vice President | VP | Irving, TX, US |  | 10d | [Apply](https://jobs.citi.com/job/irving/senior-ai-aml-engineer-vice-president/287/102340902848) |
 | AXS | SVP - Data Engineering, Data Science & Analytics | EVP/SVP | San Francisco, CA | $450K–$500K | 10d | [Apply](https://job-boards.greenhouse.io/axs/jobs/8913084002) ⚡ |
 | Autodesk | Senior Director, Product Management, AEC Data | Sr. Director | AMER - United States - Massachusetts - Bos +4 |  | 10d | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Massachusetts---Boston-Area---OffsiteHome/Senior-Director--Product-Management--AEC-Data_26WD101506-2) |
-| VSP Vision | Director, AI Platforms & Engineering | Director | Remote US |  | 10d | [Apply](https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Director--AI-Platforms---Engineering_R-10101-1) |
-| Emerson | Director, AI Engineering and Delivery | Director | Shakopee, MN, United States | $202K–$252K | 10d | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012594) [alt](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26012594?utm_medium=jobboard&utm_source=indeed) |
 
-_604 older roles in this section are in data/roles.json on the `data` branch._
+_606 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -761,6 +768,8 @@ _604 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| O'Reilly Auto Parts | 🆕 Director Digital Commerce Experience & Operations | Director | Headquarters |  | 0d | [Apply](https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Director-Omnichannel---Content_R165741) |
+| University of Maryland University College | 🆕 TETC Transportation Systems Management & Operations (TSMO) Program Director | Director | University of Maryland College Park |  | 0d | [Apply](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/TETC-Transportation-Systems-Management---Operations--TSMO--Program-Director_JR105302-1) |
 | GE Vernova ⭐ | 🆕 Head of IT Operations & Infrastructure - UK | Head | Rugby |  | 0d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rugby/Staff-End-User-Support-Engineer_R5057154-2) |
 | MD Anderson Cancer Center | 🆕 Director, Operations and Maintenance | Director | Houston, TX, USA | $228K–$268K | 0d | [Apply](https://jobs.mdanderson.org/search/jobdetails/director-operations-and-maintenance/4363bdc3-9fc8-4504-aa80-f8161155f9ce?utm_campaign=indeed_organic&utm_medium=organic_job_board&utm_source=indeed) |
 | Averro | 🆕 Staff Vice President, Technology Operations | VP | Washington, District of Columbia | $185K–$215K | 1d | [Apply](https://www.talent.com/view?id=642543278366269254) |
@@ -1596,6 +1605,7 @@ _143 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Gaig | 🆕 Senior Casualty Claims Specialit/Claims Technical Director - Alternative Markets | Director | Remote (USA) |  | 0d | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Casualty-Claims-Specialit-Claims-Technical-Director---Alternative-Markets_R9833) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Palo Alto, CA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805190) |
 | BNY ⭐ | 🆕 Senior Director, Engineering Group Leader (req 79494) | Sr. Director | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/79494) |
 | Genesys | 🆕 Director, Forward Deployed Engineering | Director | Texas, USA +7 |  | 0d | [Apply](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Texas-USA/Director--Forward-Deployed-Engineering_JR112884) |
@@ -1669,6 +1679,7 @@ _143 older roles in this section are in data/roles.json on the `data` branch._
 | Tutor Intelligence | Head of Hardware Engineering | Head | Watertown, MA | $250K–$350K | 3d | [Apply](https://jobs.lever.co/tutorintelligence/6f01b814-9fd4-4f96-8372-e71a6d3d1f50) ⚡ |
 | The Goley Companies | Director of Technology and Innovation | Director | Dupo, IL, USA |  | 3d | [Apply](https://thegoleycompanies.com/careers/?gnk=job&gni=8a7885a8a184742e01a188f0dcef0bc8&gns=Indeed+Free) |
 | Trace3 | Senior Regional Director, Engineering | Director | Denver, CO, USA | $230K–$250K | 3d | [Apply](https://grnh.se/m4cuiueg1us) |
+| Citi ⭐ | Head of Enterprise KYC Technology Risk Engine Development- Director | Head | Jersey City New Jersey United States |  | 4d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Head-of-Enterprise-KYC-Technology-Risk-Engine-Development--Director_261004591-1) |
 | SailPoint Technologies Holdings, Inc. | VP, Enterprise Technology & Agentic ; Business | VP | Houston, Texas | $215K–$362K | 4d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5564313964/e/) |
 | Citi (jobs.citi.com) ⭐ | IT Quality Group Manager E2E Testing Automation Lead Sr Vice President | VP | Tampa, FL, US |  | 4d | [Apply](https://jobs.citi.com/job/tampa/it-quality-group-manager-e2e-testing-automation-lead-sr-vice-president/287/102604407552) |
 | Architect Labs | Vice President of ASIC Engineering | VP | Palo Alto |  | 4d | [Apply](https://jobs.ashbyhq.com/architect/4125ab78-144c-4295-ab2e-f89f38bd5b6b) ⚡ [alt](https://jobs.ashbyhq.com/architect/4125ab78-144c-4295-ab2e-f89f38bd5b6b?utm_source=Ljjl3o6zXn) |
@@ -1844,10 +1855,8 @@ _143 older roles in this section are in data/roles.json on the `data` branch._
 | Global Payments | Director, Salesforce Engineering | Director | ALPHARETTA, GEORGIA |  | 7d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Director--Salesforce-Engineering_R0075443) |
 | GlobalFoundries ⭐ | Director Design Engineering | Director | Richardson +1 |  | 7d | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Director-Design-Engineering_JR-2606162) |
 | Travelers | Director, Software Engineering | Director | CT - Hartford +3 |  | 7d | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Director--Software-Engineering_R-51279) |
-| Travelers | Director Software Engineer | Director | GA - Atlanta |  | 7d | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Director-Software-Engineer_R-52427) |
-| HawkEye 360 | Director, Enterprise IT & Applications | Director | Herndon, VA | $155K–$200K | 7d | [Apply](https://job-boards.greenhouse.io/hawkeye360/jobs/4467042009) ⚡ |
 
-_584 older roles in this section are in data/roles.json on the `data` branch._
+_586 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -1855,11 +1864,11 @@ _584 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| BNY ⭐ | 🆕 Senior Vice President, Full-Stack Engineer | EVP/SVP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81912) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81913) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81913) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81914) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81914) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81915) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81915) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 81916) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81916) |
-| BNY ⭐ | 🆕 Senior Vice President, Full-Stack Engineer | EVP/SVP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81912) |
 | Hewlett Packard Enterprise / HPE | Global Head of Employee Mobility | Head | Spring, TX, USA | $166K–$354K | 2d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1218166EXTERNALENUS/Global-Head-of-Employee-Mobility?utm_source=indeed&utm_medium=phenom-feeds) |
 | McCarthy Building | Design Integration Director | Director | Newport Beach, CA, USA | $185K–$210K | 2d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=ort2Afwg&s=Indeed) |
 | Citrin Cooperman | Assurance Acquisition & Integration Director | Director | Manhattan, NY, USA · Remote | $160K–$225K | 2d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/E9A2AA28834E20BD25923E295653B2F6/jobs/367018?source=Indeed) |

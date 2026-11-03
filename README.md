@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,410 open roles** at **1,232 companies** · **188 new in the last 24 hours** · 5,645 company career sites watched · updated hourly · last update Nov 03, 2026 04:12 AM ET
+**3,409 open roles** at **1,232 companies** · **188 new in the last 24 hours** · 5,645 company career sites watched · updated hourly · last update Nov 03, 2026 05:11 AM ET
 
-By level: Director 1736 · VP 696 · Sr. Director 410 · Head 225 · EVP/SVP 134 · C-level 99 · ED 81 · MD 29
+By level: Director 1736 · VP 695 · Sr. Director 410 · Head 225 · EVP/SVP 134 · C-level 99 · ED 81 · MD 29
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,14 +31,14 @@ By level: Director 1736 · VP 696 · Sr. Director 410 · Head 225 · EVP/SVP 134
 - [🤠 Houston area (105)](#houston-area)
 - [👑 Executive Technology Leadership (102)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (228)](#security-risk-technology)
-- [🧠 Data & AI (898)](#data-ai)
+- [🧠 Data & AI (897)](#data-ai)
 - [🚦 Reliability & Operations (227)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (311)](#cloud-infrastructure)
 - [🏛️ Architecture (95)](#architecture)
 - [🔄 Transformation & Delivery (405)](#transformation-delivery)
 - [🛠️ Engineering & Software (887)](#engineering-software)
 - [📌 Other Senior Roles (257)](#other-senior-roles)
-- [🔒 Recently closed (158)](#recently-closed)
+- [🔒 Recently closed (159)](#recently-closed)
 - Daily digests: [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -951,7 +951,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Universal Orlando Resort | Director, Principal Data Architect | Director | Orlando, FL, USA |  | 8d | [Apply](https://jobs.universalparks.com/job/24056416/director-principal-data-architect-orlando-fl/) |
 | Fox Corporation | Director, Data Engineering (req R50034184) | Director | Los Angeles, California, USA |  | 8d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Director--Data-Engineering_R50034184) |
 
-_648 older roles in this section are in data/roles.json on the `data` branch._
+_647 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2333,6 +2333,7 @@ _7 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Molina Healthcare | 🔒 VP, Artificial Intelligence Vendor Governance & Oversight (Remote) | VP | United States |  | 13d | Closed |
 | CVS Health ⭐ | 🔒 Executive Director - Cyber Defense Operations | ED | CT - Hartford · Remote |  | 14d | Closed |
 | CVS Health ⭐ | 🔒 Executive Director, Appeals Process & Technology – Aetna | ED | CT - Hartford · Remote |  | 14d | Closed |
 | Acadia Pharmaceuticals Inc. | 🔒 Executive Director, P&P Technology & Operations | ED | Princeton, New Jersey, United States +1 | $248K–$310K | 12d | Closed |

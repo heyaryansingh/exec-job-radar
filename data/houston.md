@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-105 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+106 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Cornerstone Capital Bank | 🆕 Director, Integrated Security | Director | Houston, TX, USA |  | 0d | [Apply](https://recruiting2.ultipro.com/COR1029CHLI/JobBoard/91ecc0f9-b3ab-48c5-85d8-67154b89ba17/OpportunityDetail?opportunityId=3b62a936-5f91-4392-a913-1c2d0848298b&postingId=161f6d85-90db-4e00-af9f-63047122a34b) |
 | Logic, Inc. | 🆕 Strategy Principal Director, Data & AI Strategy (Utilities) | Director | Houston, TX, USA | $151K–$388K | 0d | [Apply](https://www.accenture.com/us-en/careers/jobdetails?id=R00368788_en&title=Strategy+Principal+Director%2C+Data+%26+AI+Strategy+%28Utilities%29) |
 | Accenture ⭐ | 🆕 Strategy Principal Director, Data & AI Strategy (Utilities) | Director | Houston, 1301 Fannin, Corp +1 | $151K–$388K | 1d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Houston-1301-Fannin-Corp/Strategy-Principal-Director--Data---AI-Strategy--Utilities-_R00368788) |
 | AWC, Inc | 🆕 Senior Director, Software Engineering & Data | Sr. Director | Deer Park, Texas |  | 1d | [Apply](https://www.ziprecruiter.com/c/awc/Job/Senior-Director,-Software-Engineering-&-Data/-in-Deer-Park,TX?jid=42fb7ac5eaed49fc) |
@@ -11,7 +12,7 @@
 | ABM Industries Inc. | 🆕 Director, AI Security Enablement | Director | Sugar Land, TX, USA | $177K–$260K | 1d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/171245) |
 | ABM Industries Inc. | 🆕 Director, Business Information Security Officer (BISO) | Director | Sugar Land, TX, USA | $177K–$240K | 1d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/170725) |
 | HPE | 🆕 Sr. Director, Global Networking | Sr. Director | San Jose, California +5 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/Sr-Director--Global-IT-Networking_1206495) |
-| Kuraray America | 🆕 Technical Service and Development Director | Director | Pasadena, TX, USA |  | 1d | [Apply](https://www.applicantpro.com/openings/kuraray/jobs/4262946-9482) |
+| Kuraray America | Technical Service and Development Director | Director | Pasadena, TX, USA |  | 1d | [Apply](https://www.applicantpro.com/openings/kuraray/jobs/4262946-9482) |
 | GE Vernova ⭐ | Heavy Duty Combine Cycle Gas Turbine NU Technical Academy Director | Director | Atlanta +4 · Remote |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Heavy-Duty-Combine-Cycle-Gas-Turbine-NU-Technical-Academy-Director_R5056077) |
 | MD Anderson Cancer Center | Director, Operations and Maintenance | Director | Houston, TX, USA | $228K–$268K | 1d | [Apply](https://jobs.mdanderson.org/search/jobdetails/director-operations-and-maintenance/4363bdc3-9fc8-4504-aa80-f8161155f9ce?utm_campaign=indeed_organic&utm_medium=organic_job_board&utm_source=indeed) [alt](https://jsv3.recruitics.com/redirect?rx_cid=3708&rx_jobId=183928&rx_url=https%3A%2F%2Fjobs.mdanderson.org%2Fsearch%2Fjobdetails%2Fdirector-operations-and-maintenance%2F4363bdc3-9fc8-4504-aa80-f8161155f9ce%3Fafid%3Dbb5141b5-ab13-405b-a113-690fda969884%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D460772%26rx_id%3Db00fb561-d643-11f1-b743-2790e18f1913%26rx_job%3D183928%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261102T140414Z%26rx_vp%3Dcpc%26utm_source%3Drecruitics_indeed_organic) |
 | Celestica | 🆕 Senior Director, Engineering Program/Project Management | Sr. Director | Houston, Texas |  | 2d | [Apply](https://www.nexxt.com/jobs/senior-director-engineering-program-project-management-houston-tx-3485672716-job.html) |

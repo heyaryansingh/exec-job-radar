@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,410 open roles** at **1,232 companies** · **188 new in the last 24 hours** · 5,644 company career sites watched · updated hourly · last update Nov 03, 2026 03:22 AM ET
+**3,410 open roles** at **1,232 companies** · **188 new in the last 24 hours** · 5,645 company career sites watched · updated hourly · last update Nov 03, 2026 04:12 AM ET
 
 By level: Director 1736 · VP 696 · Sr. Director 410 · Head 225 · EVP/SVP 134 · C-level 99 · ED 81 · MD 29
 
@@ -47,9 +47,6 @@ By level: Director 1736 · VP 696 · Sr. Director 410 · Head 225 · EVP/SVP 134
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Aqua Finance | 🆕 Director, Software Engineering (Digital Engagement) | Director | Remote, USA |  | 0d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) |
-| Aqua Finance | 🆕 Director, Software Engineering (Account Servicing & Finance) | Director | Remote, USA |  | 0d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) |
-| Aqua Finance | 🆕 Director, Software Engineering (Credit & Funding) | Director | Remote, USA |  | 0d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Credit---Funding-_494) |
 | ADP | 🆕 Director, Enterprise Learning Platforms | Director | Roseland, NJ, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/0ULzPCe3U-jtdBlOdHT9M9GnT7wrRPEKUieH993Q5Dc=) |
 | Fasanara Capital | 🆕 Chief Technology Officer | C-level | Remote, USA | $230K–$280K | 0d | [Apply](https://www.indeed.com/viewjob?jk=3022ff6de4bc7461) |
 | Logic, Inc. | 🆕 Strategy Principal Director, Data & AI Strategy (Utilities) | Director | Houston, TX, USA | $151K–$388K | 0d | [Apply](https://www.accenture.com/us-en/careers/jobdetails?id=R00368788_en&title=Strategy+Principal+Director%2C+Data+%26+AI+Strategy+%28Utilities%29) |
@@ -69,6 +66,9 @@ By level: Director 1736 · VP 696 · Sr. Director 410 · Head 225 · EVP/SVP 134
 | Synovus | 🆕 Head of Engineering - Trust and Wealth Tech (Atlanta, GA OR Nashville, TN onsite) | Head | Birmingham, AL, USA |  | 0d | [Apply](https://myjobs.adp.com/synovuscareers/cx/job-details?reqId=5001234762906) |
 | Partiful | 🆕 🦾 Head of Engineering | Head | New York, NY | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/partiful/e45a69cf-aee6-4a2b-a955-2b894894c573) ⚡ |
 | ABM Industries Inc. | 🆕 Director, AI Security Enablement | Director | New York, NY, USA | $177K–$260K | 1d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/171245) |
+| Aqua Finance | 🆕 Director, Software Engineering (Account Servicing & Finance) | Director | Remote -  United States +4 |  | 1d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) |
+| Aqua Finance | 🆕 Director, Software Engineering (Credit & Funding) | Director | Remote -  United States +4 |  | 1d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Credit---Funding-_494) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Credit---Funding-_494) |
+| Aqua Finance | 🆕 Director, Software Engineering (Digital Engagement) | Director | Remote -  United States +4 |  | 1d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) |
 | ABM Industries Inc. | 🆕 Director, Business Information Security Officer (BISO) | Director | New York, NY, USA | $177K–$240K | 1d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/170725) |
 | Accenture ⭐ | 🆕 Strategy Principal Director, Data & AI Strategy (Utilities) | Director | Houston, 1301 Fannin, Corp +1 | $151K–$388K | 1d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Houston-1301-Fannin-Corp/Strategy-Principal-Director--Data---AI-Strategy--Utilities-_R00368788) |
 | RTX ⭐ | 🆕 Program Director, Electronic Warfare Systems | Director | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BL +2 |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Program-Director--Electronic-Warfare-Systems_01886125) |
@@ -1554,8 +1554,8 @@ _61 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Aqua Finance | 🆕 Director, Software Engineering (Digital Engagement) | Director | Remote, USA |  | 0d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) |
 | Edible brands | 🆕 Director, Digital Marketplace & Growth | Director | Atlanta, GA, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3496665c-85f2-452a-8263-0aeb92099601&ccId=9203671254918_2&jobId=601539&source=IN&lang=en_US) |
+| Aqua Finance | 🆕 Director, Software Engineering (Digital Engagement) | Director | Remote -  United States +4 |  | 1d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) |
 | RTX ⭐ | 🆕 Program Director, Electronic Warfare Systems | Director | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BL +2 |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Program-Director--Electronic-Warfare-Systems_01886125) |
 | Honeywell ⭐ | 🆕 Senior Director Program Management | Sr. Director | Rosemont, IL, United States | $213K–$266K | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161013) |
 | BlackRock ⭐ | 🆕 Managing Director, Global Head of Digital Workplace | MD | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Managing-Director--Global-Head-of-Digital-Workplace_R267107) |
@@ -1813,8 +1813,6 @@ _155 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Aqua Finance | 🆕 Director, Software Engineering (Account Servicing & Finance) | Director | Remote, USA |  | 0d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) |
-| Aqua Finance | 🆕 Director, Software Engineering (Credit & Funding) | Director | Remote, USA |  | 0d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Credit---Funding-_494) |
 | Scout Clean Energy | 🆕 Senior Director, Engineering | Sr. Director | Boulder, CO, USA | $220K–$250K | 0d | [Apply](https://apply.workable.com/j/C4B477917F) |
 | Tomball Controls | 🆕 Director of Engineering/Process Improvement | Director | Von Ormy, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4634381/Tomball-Controls-LLC/Director-of-EngineeringProcess-Improvement?source=Indeed_Feed) |
 | Oracle | 🆕 Senior Director, Application Software Engineering | Sr. Director | United States | $150K–$355K | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349458) |
@@ -1822,6 +1820,8 @@ _155 older roles in this section are in data/roles.json on the `data` branch._
 | Alvarez & Marsal | 🆕 Director, Product & Technology, Technology Industry Group - Private Equity | Director | New York, NY, USA | $150K–$225K | 0d | [Apply](https://careers.alvarezandmarsal.com/en/jobs/18439310-director-product-and-technology-technology-industry-group-private-equity?tm_job=202604665&tm_event=view&tm_company=47710) |
 | Synovus | 🆕 Head of Engineering - Trust and Wealth Tech (Atlanta, GA OR Nashville, TN onsite) | Head | Birmingham, AL, USA |  | 0d | [Apply](https://myjobs.adp.com/synovuscareers/cx/job-details?reqId=5001234762906) |
 | Partiful | 🆕 🦾 Head of Engineering | Head | New York, NY | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/partiful/e45a69cf-aee6-4a2b-a955-2b894894c573) ⚡ |
+| Aqua Finance | 🆕 Director, Software Engineering (Account Servicing & Finance) | Director | Remote -  United States +4 |  | 1d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) |
+| Aqua Finance | 🆕 Director, Software Engineering (Credit & Funding) | Director | Remote -  United States +4 |  | 1d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Credit---Funding-_494) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Credit---Funding-_494) |
 | Storm4 | 🆕 Senior Vice President of Engineering | EVP/SVP | Austin, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/senior-vice-president-of-engineering-at-storm4-4486146398) |
 | United Way of Northern New Jersey | 🆕 Senior Vice President Technology | EVP/SVP | Hanover, New Jersey |  | 1d | [Apply](https://www.idealist.org/en/nonprofit-job/6ab9fd46286543058d0c63033d9963df-senior-vice-president-technology-united-way-of-northern-new-jersey-cedar-knolls) |
 | Millennium Physician Group | 🆕 Director, Risk Adjustment Product & Technology | Director | US - Remote |  | 1d | [Apply](https://verawholehealth.wd1.myworkdayjobs.com/External/job/US---Remote/Director--Risk-Adjustment-Product---Technology_M105147) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,405 open roles** at **1,231 companies** · **184 new in the last 24 hours** · 5,641 company career sites watched · updated hourly · last update Nov 03, 2026 01:21 AM ET
+**3,405 open roles** at **1,231 companies** · **184 new in the last 24 hours** · 5,644 company career sites watched · updated hourly · last update Nov 03, 2026 02:04 AM ET
 
 By level: Director 1731 · VP 696 · Sr. Director 410 · Head 225 · EVP/SVP 134 · C-level 99 · ED 81 · MD 29
 
@@ -48,9 +48,9 @@ By level: Director 1731 · VP 696 · Sr. Director 410 · Head 225 · EVP/SVP 134
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Fasanara Capital | 🆕 Chief Technology Officer | C-level | Remote, USA | $230K–$280K | 0d | [Apply](https://www.indeed.com/viewjob?jk=3022ff6de4bc7461) |
+| Logic, Inc. | 🆕 Strategy Principal Director, Data & AI Strategy (Utilities) | Director | Houston, TX, USA | $151K–$388K | 0d | [Apply](https://www.accenture.com/us-en/careers/jobdetails?id=R00368788_en&title=Strategy+Principal+Director%2C+Data+%26+AI+Strategy+%28Utilities%29) |
 | Scout Clean Energy | 🆕 Senior Director, Engineering | Sr. Director | Boulder, CO, USA | $220K–$250K | 0d | [Apply](https://apply.workable.com/j/C4B477917F) |
 | Tomball Controls | 🆕 Director of Engineering/Process Improvement | Director | Von Ormy, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4634381/Tomball-Controls-LLC/Director-of-EngineeringProcess-Improvement?source=Indeed_Feed) |
-| Logic, Inc. | 🆕 Strategy Principal Director, Data & AI Strategy (Utilities) | Director | Houston, TX, USA | $151K–$388K | 0d | [Apply](https://www.accenture.com/us-en/careers/jobdetails?id=R00368788_en&title=Strategy+Principal+Director%2C+Data+%26+AI+Strategy+%28Utilities%29) |
 | Oracle | 🆕 Senior Director, Application Software Engineering | Sr. Director | United States | $150K–$355K | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349458) |
 | S&P Global ⭐ | 🆕 Head of Multi-Asset Engineering | Head | New York, NY +1 | $177K–$260K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Director--Head-of-Multi-Asset-Engineering_332572-1) |
 | Alvarez & Marsal | 🆕 Director, Product & Technology, Technology Industry Group - Private Equity | Director | New York, NY, USA | $150K–$225K | 0d | [Apply](https://careers.alvarezandmarsal.com/en/jobs/18439310-director-product-and-technology-technology-industry-group-private-equity?tm_job=202604665&tm_event=view&tm_company=47710) |

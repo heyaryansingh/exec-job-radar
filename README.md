@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,409 open roles** at **1,232 companies** · **188 new in the last 24 hours** · 5,645 company career sites watched · updated hourly · last update Nov 03, 2026 05:11 AM ET
+**3,413 open roles** at **1,232 companies** · **192 new in the last 24 hours** · 5,645 company career sites watched · updated hourly · last update Nov 03, 2026 06:12 AM ET
 
-By level: Director 1736 · VP 695 · Sr. Director 410 · Head 225 · EVP/SVP 134 · C-level 99 · ED 81 · MD 29
+By level: Director 1740 · VP 695 · Sr. Director 410 · Head 225 · EVP/SVP 134 · C-level 99 · ED 81 · MD 29
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (188)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (192)](#new-in-the-last-24-hours)
 - [🤠 Houston area (105)](#houston-area)
 - [👑 Executive Technology Leadership (102)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (228)](#security-risk-technology)
 - [🧠 Data & AI (897)](#data-ai)
 - [🚦 Reliability & Operations (227)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (311)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (312)](#cloud-infrastructure)
 - [🏛️ Architecture (95)](#architecture)
-- [🔄 Transformation & Delivery (405)](#transformation-delivery)
-- [🛠️ Engineering & Software (887)](#engineering-software)
+- [🔄 Transformation & Delivery (406)](#transformation-delivery)
+- [🛠️ Engineering & Software (889)](#engineering-software)
 - [📌 Other Senior Roles (257)](#other-senior-roles)
 - [🔒 Recently closed (159)](#recently-closed)
 - Daily digests: [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md) · [10-28](data/daily/2026-10-28.md)
@@ -47,6 +47,10 @@ By level: Director 1736 · VP 695 · Sr. Director 410 · Head 225 · EVP/SVP 134
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| GlobalFoundries ⭐ | 🆕 Director, Systems Engineering | Director | Richardson +1 |  | 0d | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Director--Systems-Engineering_JR-2603563) |
+| ADP | 🆕 Director, Enterprise Learning Platforms | Director | Augusta, GA, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/63bgqTCwXwtMSTBG_yHjAEpk3-wp6boVSq7V4nB_Qcc=) |
+| L3Harris | 🆕 Director, Program Management | Director | Washington, DC, USA | $160K–$341K | 0d | [Apply](https://careers.harris.com/job/-/-/4832/102767731488) |
+| L3Harris | 🆕 Director, Aerospace Engineering | Director | Waco, TX, USA |  | 0d | [Apply](https://careers.harris.com/job/-/-/4832/102789757280) |
 | ADP | 🆕 Director, Enterprise Learning Platforms | Director | Roseland, NJ, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/0ULzPCe3U-jtdBlOdHT9M9GnT7wrRPEKUieH993Q5Dc=) |
 | Fasanara Capital | 🆕 Chief Technology Officer | C-level | Remote, USA | $230K–$280K | 0d | [Apply](https://www.indeed.com/viewjob?jk=3022ff6de4bc7461) |
 | Logic, Inc. | 🆕 Strategy Principal Director, Data & AI Strategy (Utilities) | Director | Houston, TX, USA | $151K–$388K | 0d | [Apply](https://www.accenture.com/us-en/careers/jobdetails?id=R00368788_en&title=Strategy+Principal+Director%2C+Data+%26+AI+Strategy+%28Utilities%29) |
@@ -1193,6 +1197,7 @@ _647 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| ADP | 🆕 Director, Enterprise Learning Platforms | Director | Augusta, GA, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/63bgqTCwXwtMSTBG_yHjAEpk3-wp6boVSq7V4nB_Qcc=) |
 | ADP | 🆕 Director, Enterprise Learning Platforms | Director | Roseland, NJ, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/0ULzPCe3U-jtdBlOdHT9M9GnT7wrRPEKUieH993Q5Dc=) |
 | GNC | 🆕 Senior Director and Head of Infrastructure & Technology Services | Head | Remote | $190K–$220K | 1d | [Apply](https://www.linkedin.com/jobs/view/senior-director-and-head-of-infrastructure-technology-services-at-gnc-4464021184) |
 | Zurich Insurance | 🆕 IT - Head of Architecture, Platform & QA | Head | Schaumburg, IL, USA | $175K–$287K | 1d | [Apply](https://www.careers.zurich.com/job/Schaumburg-IT-Head-of-Architecture%2C-Platform-&-QA-IL-60159/1376477757/) |
@@ -1442,9 +1447,8 @@ _647 older roles in this section are in data/roles.json on the `data` branch._
 | Insulet Corporation | Director,  Digital Platform Engineering (Hybrid - Acton, MA) | Director | Acton, Massachusetts |  | 22d | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Director---Digital-Platform-Engineering--Hybrid---Acton--MA-_REQ-2026-18585) |
 | Fidelity National Financial | Director, Portfolio Reporting Platform | Director | Westlake, TX |  | 22d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Portfolio-Reporting-Platform_2134369-1) |
 | Fidelity ⭐ | Director, Portfolio Reporting Platform | Director | Westlake, TX |  | 22d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Portfolio-Reporting-Platform_2134369-1) |
-| NVIDIA ⭐ | Head of Global Customer Engineering - Internal EDA Infrastructure | Head | US, WA, Remote +5 |  | 23d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Remote/Head-of-Global-Customer-Engineering---Internal-EDA-Infrastructure_JR2025101) |
 
-_61 older roles in this section are in data/roles.json on the `data` branch._
+_62 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1554,6 +1558,7 @@ _61 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| L3Harris | 🆕 Director, Program Management | Director | Washington, DC, USA | $160K–$341K | 0d | [Apply](https://careers.harris.com/job/-/-/4832/102767731488) |
 | Edible brands | 🆕 Director, Digital Marketplace & Growth | Director | Atlanta, GA, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3496665c-85f2-452a-8263-0aeb92099601&ccId=9203671254918_2&jobId=601539&source=IN&lang=en_US) |
 | Aqua Finance | 🆕 Director, Software Engineering (Digital Engagement) | Director | Remote -  United States +4 |  | 1d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Digital-Engagement-_495) |
 | RTX ⭐ | 🆕 Program Director, Electronic Warfare Systems | Director | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BL +2 |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Program-Director--Electronic-Warfare-Systems_01886125) |
@@ -1803,9 +1808,8 @@ _61 older roles in this section are in data/roles.json on the `data` branch._
 | Orchard Marketing New York | Orchard - VP, Client Services & Digital Transformation | VP | New York, New York, us |  | 15d | [Apply](https://jobs.smartrecruiters.com/Enero/6000000001500101-orchard-vp-client-services-digital-transformation) ⚡ |
 | American Lebanese Syrian Associated Charities | Director - IT PMO and Agile Delivery | Director | Memphis, TN |  | 15d | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Director---IT-PMO-and-Agile-Delivery_R0011262) |
 | Pfizer | Vice President, Digital Finance | VP | United States - New York - New York City |  | 15d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Vice-President--Digital-Finance_4966112-1) |
-| PGA TOUR Superstore | Sr. Director, Digital & Ecommerce | Sr. Director | Store Support Center - Roswell, GA |  | 15d | [Apply](https://pgatoursuperstore.wd12.myworkdayjobs.com/PGAT_SS/job/Store-Support-Center---Roswell-GA/Sr-Director--Digital---Ecommerce_JR7956) |
 
-_155 older roles in this section are in data/roles.json on the `data` branch._
+_156 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1813,6 +1817,8 @@ _155 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| GlobalFoundries ⭐ | 🆕 Director, Systems Engineering | Director | Richardson +1 |  | 0d | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Director--Systems-Engineering_JR-2603563) |
+| L3Harris | 🆕 Director, Aerospace Engineering | Director | Waco, TX, USA |  | 0d | [Apply](https://careers.harris.com/job/-/-/4832/102789757280) |
 | Scout Clean Energy | 🆕 Senior Director, Engineering | Sr. Director | Boulder, CO, USA | $220K–$250K | 0d | [Apply](https://apply.workable.com/j/C4B477917F) |
 | Tomball Controls | 🆕 Director of Engineering/Process Improvement | Director | Von Ormy, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4634381/Tomball-Controls-LLC/Director-of-EngineeringProcess-Improvement?source=Indeed_Feed) |
 | Oracle | 🆕 Senior Director, Application Software Engineering | Sr. Director | United States | $150K–$355K | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349458) |
@@ -2061,10 +2067,8 @@ _155 older roles in this section are in data/roles.json on the `data` branch._
 | Mastercard ⭐ | Director, Technology Finance Business Partner | Director | O'Fallon, Missouri | $142K–$234K | 7d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Finance-Business-Partner_R-284497) |
 | Mastercard ⭐ | Vice President, Software Engineering | VP | New York City, New York | $254K–$407K | 7d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Vice-President--Software-Engineering_R-286632) |
 | Mastercard ⭐ | Vice President, Technology Risk Managment | VP | O'Fallon, Missouri | $189K–$312K | 7d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Vice-President--Technology-Risk-Managment_R-288068-1) |
-| Mastercard ⭐ | Vice President, Software Engineering | VP | O'Fallon, Missouri | $212K–$339K | 7d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Vice-President--Software-Engineering_R-289562) |
-| Mastercard ⭐ | Vice President, Software Engineering | VP | San Francisco, California +2 | $254K–$407K | 7d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Vice-President--Software-Engineering_R-290779) |
 
-_637 older roles in this section are in data/roles.json on the `data` branch._
+_639 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,585 open roles** at **1,292 companies** · **188 new in the last 24 hours** · 5,681 company career sites watched · updated hourly · last update Nov 04, 2026 01:33 AM ET
+**3,590 open roles** at **1,294 companies** · **193 new in the last 24 hours** · 5,681 company career sites watched · updated hourly · last update Nov 04, 2026 02:33 AM ET
 
-By level: Director 1839 · VP 723 · Sr. Director 436 · Head 231 · EVP/SVP 139 · C-level 102 · ED 85 · MD 30
+By level: Director 1841 · VP 724 · Sr. Director 436 · Head 233 · EVP/SVP 139 · C-level 102 · ED 85 · MD 30
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (188)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (193)](#new-in-the-last-24-hours)
 - [🤠 Houston area (109)](#houston-area)
 - [👑 Executive Technology Leadership (105)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (241)](#security-risk-technology)
-- [🧠 Data & AI (941)](#data-ai)
+- [🧠 Data & AI (942)](#data-ai)
 - [🚦 Reliability & Operations (244)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (331)](#cloud-infrastructure)
-- [🏛️ Architecture (99)](#architecture)
-- [🔄 Transformation & Delivery (433)](#transformation-delivery)
-- [🛠️ Engineering & Software (925)](#engineering-software)
+- [🏛️ Architecture (100)](#architecture)
+- [🔄 Transformation & Delivery (434)](#transformation-delivery)
+- [🛠️ Engineering & Software (927)](#engineering-software)
 - [📌 Other Senior Roles (266)](#other-senior-roles)
 - [🔒 Recently closed (166)](#recently-closed)
 - Daily digests: [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md)
@@ -47,11 +47,13 @@ By level: Director 1839 · VP 723 · Sr. Director 436 · Head 231 · EVP/SVP 139
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Fidelity ⭐ | 🆕 Director, IT Audit Program Manager | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--IT-Audit-Program-Manager_2137738) |
+| Bjak | 🆕 AI Phone - Head of Android / AOSP (req 31bafe77-8106-4641-96f9-) | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/31bafe77-8106-4641-96f9-b80de1cd5b67) ⚡ |
+| Omatic Software | 🆕 Vice President of Engineering | VP | Remote, USA |  | 0d | [Apply](https://omatic.applytojob.com/apply/IOglWmI9hN/Vice-President-Of-Engineering?source=INDE&~) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2137712) | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2137712) |
+| Fidelity ⭐ | 🆕 Director, IT Audit Program Manager | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--IT-Audit-Program-Manager_2137738) |
 | UnitedHealth Group ⭐ | 🆕 Sr. Director Product Management - Healthcare Data & Analytics - Remote | Sr. Director | Basking Ridge, New Jersey, United States +1 · Remote | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/basking-ridge/sr-director-product-management-healthcare-data-and-analytics-remote/34088/102836964816) |
 | Fidelity ⭐ | 🆕 Director, Data Modeling | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Data-Modeling_2137731) |
-| Bjak | 🆕 AI Phone - Head of Android / AOSP | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/61b25498-8711-4e24-99cc-273ebddc08e7) ⚡ |
+| Bjak | 🆕 AI Phone - Head of Android / AOSP (req 61b25498-8711-4e24-99cc-) | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/61b25498-8711-4e24-99cc-273ebddc08e7) ⚡ |
 | Charles Schwab | 🆕 Director, Architect Principal - Workplace Services Engineering | Director | Southlake, TX, USA | $221K–$252K | 0d | [Apply](https://www.schwabjobs.com/job/southlake/director-architect-principal-workplace-services-engineering/33727/102826240160) |
 | Ciena | 🆕 VP, Information Technology Strategy Leader | VP | Baltimore, MD, USA |  | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Baltimore/VP--Information-Technology-Strategy-Leader_R031986-1) |
 | First Tech Federal Credit Union | 🆕 Director, Oracle Financials & Platform Engineering | Director | Hillsboro, OR, USA | $184K–$220K | 0d | [Apply](https://firsttechfedcareers.ttcportals.com/jobs/18441465-director-oracle-financials-and-platform-engineering?tm_job=2026-0620&tm_event=view&tm_company=48443) |
@@ -75,6 +77,9 @@ By level: Director 1839 · VP 723 · Sr. Director 436 · Head 231 · EVP/SVP 139
 | Realtor.com | 🆕 Director - Consumer Program Management | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.realtor.com/en/jobs/18443759-director-consumer-program-management?tm_job=3346&tm_event=view&tm_company=96206) |
 | Terumo Neuro | 🆕 Director, Quality Engineering Production Support | Director | Aliso Viejo, CA, USA | $180K–$225K | 0d | [Apply](https://www.microvention.com/jobs/15046BR) |
 | Twenty-Six Defense | 🆕 Director Engineering - Site Lead | Director | Merrimack, NH, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/esa/ESACAREERSITE/jobs/9838) |
+| EY | 🆕 Technology Architect Assistant Director | Director | Hoboken, NJ, USA | $132K–$269K | 1d | [Apply](https://careers.ey.com/ey/job/Hoboken-Technology-Architect-Assistant-Director-NJ-07030/1453927633/) |
+| Hoerbiger | 🆕 Global Head of Information Technology - IEP Technologies | Head | Marlborough, MA, USA | $190K–$215K | 1d | [Apply](https://careers.hoerbiger.com/job/Global-Head-of-Information-Technology-IEP-Technologies/1701-en_US) |
+| Anduril | 🆕 Director of MRO Transformation | Director | San Diego, CA, USA | $209K–$278K | 1d | [Apply](https://grnh.se/6nmoa6uc7us) |
 | Anduril | 🆕 Director of MRO Transformation | Director | Orange, CA, USA | $209K–$278K | 1d | [Apply](https://grnh.se/6nmoa6uc7us) |
 | Farm Bureau Financial Services | 🆕 Business Transformation Delivery VP | VP | West Des Moines, IA, USA |  | 1d | [Apply](https://fbfs.csod.com/ux/ats/careersite/1/home/requisition/6767?c=fbfs) |
 | Dentsu | 🆕 Paid Media Platforms Director | Director | CDMX – 1458 Avenida Insurgentes Sur |  | 1d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/CDMX--1458-Avenida-Insurgentes-Sur/Paid-Media-Platforms-Director_R1133527) |
@@ -720,9 +725,10 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Bjak | 🆕 AI Phone - Head of Android / AOSP (req 31bafe77-8106-4641-96f9-) | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/31bafe77-8106-4641-96f9-b80de1cd5b67) ⚡ |
 | UnitedHealth Group ⭐ | 🆕 Sr. Director Product Management - Healthcare Data & Analytics - Remote | Sr. Director | Basking Ridge, New Jersey, United States +1 · Remote | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/basking-ridge/sr-director-product-management-healthcare-data-and-analytics-remote/34088/102836964816) |
 | Fidelity ⭐ | 🆕 Director, Data Modeling | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Data-Modeling_2137731) |
-| Bjak | 🆕 AI Phone - Head of Android / AOSP | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/61b25498-8711-4e24-99cc-273ebddc08e7) ⚡ |
+| Bjak | 🆕 AI Phone - Head of Android / AOSP (req 61b25498-8711-4e24-99cc-) | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/61b25498-8711-4e24-99cc-273ebddc08e7) ⚡ |
 | Optum | 🆕 Sr. Director Product Management - Healthcare Data & Analytics - Remote | Sr. Director | Basking Ridge, NJ, USA | $159K–$273K | 0d | [Apply](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2385069&lang=en) |
 | Siemens | 🆕 Head of Data Domain Software | Head | Bellevue, WA, USA | $204K–$367K | 0d | [Apply](https://jobs.siemens.com/externaljobs/JobDetail/528134?source=Indeed) |
 | Fidelity ⭐ | 🆕 Director, Advanced Data Analytics and Insights | Director | 100 New Millennium Way, Bldg 2, Durham NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/100-New-Millennium-Way-Bldg-2-Durham-NC/Director--Advanced-Data-Analytics-and-Insights_2137726) |
@@ -969,9 +975,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Wealth Lending AI Product Manager - Director | Director | New York, NY, US |  | 8d | [Apply](https://jobs.citi.com/job/new-york/wealth-lending-ai-product-manager-director/287/102524385648) |
 | Valvoline Global Operations | VP Global Data Science & AI | VP | Cincinnati, OH, USA |  | 8d | [Apply](https://career41.sapsf.com/career?company=vgpholding&career_ns=job_listing&career_job_req_id=2706&lang=en_US&source=Indeed) |
 | Zendesk | Senior Director, Services Consulting, AI | Sr. Director | Austin, Texas, United States of America +9 · Remote |  | 8d | [Apply](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Senior-Director--Services-Consulting--AI_R35515) |
-| MUFG | Senior Power Platform & Agentic AI Engineer, VP | VP | Jersey City, NJ +1 | $264K–$426K | 8d | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Microsoft-Ai---Automation-Governance-Engineer---Productivity-Intelligence--Financial-Services---VP_10075906-WD) |
 
-_691 older roles in this section are in data/roles.json on the `data` branch._
+_692 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1490,6 +1495,7 @@ _81 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Charles Schwab | 🆕 Director, Architect Principal - Workplace Services Engineering | Director | Southlake, TX, USA | $221K–$252K | 0d | [Apply](https://www.schwabjobs.com/job/southlake/director-architect-principal-workplace-services-engineering/33727/102826240160) |
+| EY | 🆕 Technology Architect Assistant Director | Director | Hoboken, NJ, USA | $132K–$269K | 1d | [Apply](https://careers.ey.com/ey/job/Hoboken-Technology-Architect-Assistant-Director-NJ-07030/1453927633/) |
 | Brown & Brown Insurance | 🆕 VP, Enterprise Architecture | VP | Plano, TX, USA |  | 1d | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Enterprise-Architect--Core-Systems_R26_0000003762-1) |
 | Brown & Brown | 🆕 VP, Enterprise Architecture | VP | Plano, TX, USA |  | 1d | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Enterprise-Architect--Core-Systems_R26_0000003762-1) |
 | Morgan Stanley ⭐ | 🆕 Vice President - Architecture Futurist / Product Owner | VP | New York, New York, United States of Ameri |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Vice-President---Architecture-Futurist---Product-Owner_PT-JR045392) |
@@ -1601,6 +1607,7 @@ _81 older roles in this section are in data/roles.json on the `data` branch._
 | Southwest Airlines | 🆕 VP Digital | VP | Dallas, TX, USA |  | 0d | [Apply](https://careers.southwestair.com/us/en/job/SOUTUSR202674085ENUSEXTERNAL/VP-Digital?utm_source=indeed&utm_medium=phenom-feeds) [alt](https://careers.southwestair.com/us/en/job/SOUTUSR202674085ENUSEXTERNAL) |
 | JPMorgan Chase ⭐ | 🆕 Accessibility Lead Vice President - Digital Agentic | VP | Seattle, WA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804935) |
 | Realtor.com | 🆕 Director - Consumer Program Management | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.realtor.com/en/jobs/18443759-director-consumer-program-management?tm_job=3346&tm_event=view&tm_company=96206) |
+| Anduril | 🆕 Director of MRO Transformation | Director | San Diego, CA, USA | $209K–$278K | 1d | [Apply](https://grnh.se/6nmoa6uc7us) |
 | Anduril | 🆕 Director of MRO Transformation | Director | Orange, CA, USA | $209K–$278K | 1d | [Apply](https://grnh.se/6nmoa6uc7us) |
 | Farm Bureau Financial Services | 🆕 Business Transformation Delivery VP | VP | West Des Moines, IA, USA |  | 1d | [Apply](https://fbfs.csod.com/ux/ats/careersite/1/home/requisition/6767?c=fbfs) |
 | Cvent | 🆕 Senior Director / Vice President, Customer Services Strategy & Transformation | VP | Tysons, Virginia |  | 1d | [Apply](https://www.linkedin.com/jobs/view/senior-director-vice-president-customer-services-strategy-transformation-at-cvent-4472332117) |
@@ -1844,9 +1851,8 @@ _81 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Director, Technical Program Managment | Director | McLean, VA +1 | $230K–$263K | 15d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Technical-Program-Managment_R1004156-1) |
 | Davita | Director, Program Management (IKC) | Director | 05555 - Casa del Mundo Office (Denver HQ) |  | 15d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Director--Program-Management--IKC-_R0482884) |
 | Huron | Digital Consulting Senior Director, Oracle Healthcare | Sr. Director | Chicago - 550 Van Buren | $280K–$358K | 15d | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Digital-Consulting-Senior-Director--Oracle-Healthcare_JR-0016970) |
-| Citi (jobs.citi.com) ⭐ | OMAI - Program Management Lead - Vice President | VP | Getzville, NY, US |  | 15d | [Apply](https://jobs.citi.com/job/getzville/omai-program-management-lead-vice-president/287/102205682896) |
 
-_183 older roles in this section are in data/roles.json on the `data` branch._
+_184 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1854,11 +1860,13 @@ _183 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Omatic Software | 🆕 Vice President of Engineering | VP | Remote, USA |  | 0d | [Apply](https://omatic.applytojob.com/apply/IOglWmI9hN/Vice-President-Of-Engineering?source=INDE&~) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2137712) | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2137712) |
 | Republic Services | 🆕 VP Information Technology | VP | Phoenix, AZ, USA |  | 0d | [Apply](https://jobs.republicservices.com/us/en/job/R-187675) [alt](https://jobs.republicservices.com/us/en/job/ROURSAUSR187675EXTERNALENUS) |
 | Fidelity ⭐ | 🆕 Director, Full Stack Engineering (req 2137719) | Director | Durham, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Full-Stack-Engineering_2137719) |
 | Fidelity ⭐ | 🆕 Director, Full Stack Engineering (req 2137733) | Director | Durham, NC |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Full-Stack-Engineering_2137733) |
 | Twenty-Six Defense | 🆕 Director Engineering - Site Lead | Director | Merrimack, NH, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/esa/ESACAREERSITE/jobs/9838) |
+| Hoerbiger | 🆕 Global Head of Information Technology - IEP Technologies | Head | Marlborough, MA, USA | $190K–$215K | 1d | [Apply](https://careers.hoerbiger.com/job/Global-Head-of-Information-Technology-IEP-Technologies/1701-en_US) |
 | L3Harris | 🆕 Director, Aerospace Engineering | Director | Greenville, TX, USA |  | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102789757344) |
 | Sunflower Imaging LLC | 🆕 Director of IT | Director | Wichita, KS, USA |  | 1d | [Apply](https://www.indeed.com/viewjob?jk=9f8c9a80bb36d627) |
 | Teladoc Health | 🆕 Director, Software Engineering, Healthcare Interoperability | Director | USA - Any Location (Remote) | $180K–$215K | 1d | [Apply](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Director--Software-Engineering--Healthcare-Interoperability_JR21317) |
@@ -2102,10 +2110,8 @@ _183 older roles in this section are in data/roles.json on the `data` branch._
 | Opensity solutions | Director, Technical Engineering | Director | USA-Chicago-IL · Remote |  | 7d | [Apply](https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1) |
 | Diamond Foundry | Application Engineering Director | Director | Bay Area, California | $180K–$270K | 7d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
 | Diamond Foundry | Application Engineering Director | Director | San Francisco Bay Area, CA, USA | $180K–$270K | 7d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d?lever-source=Indeed) |
-| GE Aerospace | Senior Director, Technical Product Management | Sr. Director | Grand Rapids, MI, USA · Remote | $176K–$270K | 7d | [Apply](https://careers.geaerospace.com/global/en/job/R5041692/Senior-Director-Technical-Product-Management?utm_source=indeed&utm_medium=phenom-feeds) |
-| Kinder Morgan | Director Engineering / Measurement Technical Services | Director | Houston, TX, USA |  | 7d | [Apply](https://careers.kindermorgan.com/careers-home/jobs/6506/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) [alt](https://www.linkedin.com/jobs/view/director-engineering-measurement-technical-services-at-kinder-morgan-inc-4484090710) |
 
-_675 older roles in this section are in data/roles.json on the `data` branch._
+_677 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

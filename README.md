@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,545 open roles** at **1,273 companies** · **178 new in the last 24 hours** · 5,672 company career sites watched · updated hourly · last update Nov 03, 2026 08:35 PM ET
+**3,545 open roles** at **1,273 companies** · **178 new in the last 24 hours** · 5,672 company career sites watched · updated hourly · last update Nov 03, 2026 08:46 PM ET
 
 By level: Director 1815 · VP 714 · Sr. Director 433 · Head 229 · EVP/SVP 139 · C-level 100 · ED 85 · MD 30
 
@@ -56,12 +56,12 @@ By level: Director 1815 · VP 714 · Sr. Director 433 · Head 229 · EVP/SVP 139
 | OKX | 🆕 Director, Model Risk — AI & Fraud | Director | New York, United States +1 | $200K–$300K | 1d | [Apply](https://job-boards.greenhouse.io/okx/jobs/8184388003) ⚡ |
 | OKX | 🆕 Director, Model Risk — AI & Fraud | Director | San Jose, California, United States |  | 1d | [Apply](https://job-boards.greenhouse.io/okx/jobs/8184389003) ⚡ |
 | PsiQuantum | 🆕 Director Quality, Reliability & I/O | Director | New York | $192K–$225K | 1d | [Apply](https://www.psiquantum.com/apply?gh_jid=8184378003) ⚡ |
+| CampusWorks | 🆕 Director of Information Security, Center of Excellence | Director | Remote |  | 1d | [Apply](https://jobs.lever.co/campusworksinc/fa43bb09-8394-4ec8-89bc-04158154e734) ⚡ [alt](https://jobs.lever.co/campusworksinc/fa43bb09-8394-4ec8-89bc-04158154e734) |
 | JPMorgan Chase ⭐ | 🆕 Lead Credit Officer - Infrastructure and Green Economy Credit Risk - Vice President | VP | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804475) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US +1 |  | 1d | [Apply](https://jobs.citi.com/job/irving/generative-ai-engineering-lead-senior-vice-president/287/102816963472) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Applications Engineering Lead - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/applications-engineering-lead-senior-vice-president/287/102816970832) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Technical Lead - Java and Test Automation - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/senior-technical-lead-java-and-test-automation-vice-president/287/102816998816) |
 | Altera | 🆕 Director, IT PLM | Director | San Jose, California, United States | $187K–$250K | 1d | [Apply](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Director--IT-PLM_R03425) |
-| CampusWorks | 🆕 Director of Information Security, Center of Excellence | Director | Remote |  | 1d | [Apply](https://jobs.lever.co/campusworksinc/fa43bb09-8394-4ec8-89bc-04158154e734) ⚡ [alt](https://jobs.lever.co/campusworksinc/fa43bb09-8394-4ec8-89bc-04158154e734) |
 | Donaldson | 🆕 Senior Director, Infrastructure, Enterprise Architecture & End User Services | Sr. Director | Bloomington, MN (USA) | $218K–$272K | 1d | [Apply](https://donaldson.wd115.myworkdayjobs.com/DonaldsonCareers/job/Bloomington-MN-USA/Senior-Director--Infrastructure--Enterprise-Architecture---End-User-Services_JR-28404) [alt](https://donaldson.wd115.myworkdayjobs.com/en-US/DonaldsonCareers/job/Bloomington-MN-USA/Senior-Director--Infrastructure--Enterprise-Architecture---End-User-Services_JR-28404) |
 | Oracle | 🆕 Senior Director, Technical Program Management | Sr. Director | Santa Clara, CA, United States | $170K–$355K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349605) |
 | WSP | 🆕 Technical Director, Transportation Project Manager | Director | South Jordan, UT, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98757) |

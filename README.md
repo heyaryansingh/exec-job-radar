@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,588 open roles** at **1,293 companies** · **187 new in the last 24 hours** · 5,683 company career sites watched · updated hourly · last update Nov 04, 2026 04:24 AM ET
+**3,593 open roles** at **1,293 companies** · **192 new in the last 24 hours** · 5,683 company career sites watched · updated hourly · last update Nov 04, 2026 04:37 AM ET
 
-By level: Director 1840 · VP 724 · Sr. Director 436 · Head 232 · EVP/SVP 139 · C-level 102 · ED 85 · MD 30
+By level: Director 1845 · VP 724 · Sr. Director 436 · Head 232 · EVP/SVP 139 · C-level 102 · ED 85 · MD 30
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (187)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (192)](#new-in-the-last-24-hours)
 - [🤠 Houston area (109)](#houston-area)
 - [👑 Executive Technology Leadership (105)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (241)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (242)](#security-risk-technology)
 - [🧠 Data & AI (941)](#data-ai)
 - [🚦 Reliability & Operations (244)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (331)](#cloud-infrastructure)
 - [🏛️ Architecture (100)](#architecture)
 - [🔄 Transformation & Delivery (434)](#transformation-delivery)
-- [🛠️ Engineering & Software (927)](#engineering-software)
+- [🛠️ Engineering & Software (931)](#engineering-software)
 - [📌 Other Senior Roles (265)](#other-senior-roles)
 - [🔒 Recently closed (168)](#recently-closed)
 - Daily digests: [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md)
@@ -47,6 +47,11 @@ By level: Director 1840 · VP 724 · Sr. Director 436 · Head 232 · EVP/SVP 139
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Apple | 🆕 Director of Privacy Engineering, Services | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200672379-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200672379-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D513e1c94-d7fe-11f1-a4b8-0328b4b5feb8%26rx_job%3D200672379-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director of Software Engineering - Security | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200663004-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200663004-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ed94b3b-d7fe-11f1-b895-0328b4b5feb8%26rx_job%3D200663004-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director, Software Test Engineering & Quality Assurance | Director | Sunnyvale, CA, USA | $260K–$416K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200686152-3956-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200686152-3956%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4c09dc6b-d7fe-11f1-b9d3-0328b4b5feb8%26rx_job%3D200686152-3956-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director of Algorithms, Ads Engineering | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200658682-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200658682-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ecc9c5a-d7fe-11f1-a621-0328b4b5feb8%26rx_job%3D200658682-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| AMD | 🆕 DFT Engineering Director, CPU Cores Design for Testability | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/94490/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Bjak | 🆕 AI Phone - Head of Android / AOSP (opening #2) | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/31bafe77-8106-4641-96f9-b80de1cd5b67) ⚡ |
 | Omatic Software | 🆕 Vice President of Engineering | VP | Remote, USA |  | 0d | [Apply](https://omatic.applytojob.com/apply/IOglWmI9hN/Vice-President-Of-Engineering?source=INDE&~) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2137712) | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2137712) |
@@ -471,6 +476,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Apple | 🆕 Director of Software Engineering - Security | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200663004-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200663004-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ed94b3b-d7fe-11f1-b895-0328b4b5feb8%26rx_job%3D200663004-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | CampusWorks | 🆕 Director of Information Security, Center of Excellence | Director | Remote |  | 1d | [Apply](https://jobs.lever.co/campusworksinc/fa43bb09-8394-4ec8-89bc-04158154e734) ⚡ [alt](https://jobs.lever.co/campusworksinc/fa43bb09-8394-4ec8-89bc-04158154e734) |
 | S&P Global ⭐ | 🆕 Director, Cyber Governance and Compliance | Director | New York, NY +3 | $150K–$205K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Director--Risk-and-Compliance_332039) |
 | American College of Education | 🆕 Vice President of Information Security and Infrastructure | VP | Remote, USA | $240K | 1d | [Apply](https://ats.rippling.com/ace/jobs/ac4aa711-4c87-42a2-b291-88e3488ee8f8?jobSite=Indeed) |
@@ -1689,7 +1695,7 @@ _81 older roles in this section are in data/roles.json on the `data` branch._
 | Guidehouse | Director - Performance Transformation | Director | US - Remote (Any location) |  | 6d | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Director---Performance-Transformation_45993) |
 | Arm | Senior Director, Silicon Technical Program Management | Sr. Director | San Jose, CA, USA | $313K–$424K | 6d | [Apply](https://careers.arm.com/job/san-jose/senior-director-silicon-technical-program-management/33099/102580711328) |
 | PODS | VP - Transformation | VP | Clearwater, FL, USA |  | 6d | [Apply](https://recruiting.ultipro.com/POD1000PODSE/JobBoard/9d07ea8d-f781-41bb-9e04-740ffea710c1/OpportunityDetail?opportunityId=63d2d97d-e706-4f57-9efb-7bce529d4249&postingId=0dc37e11-60d6-4fc2-a304-0ac6a927cd8a) [alt](https://careers.pods.com/us/en/job/PODPODUSVPFIN007110EXTERNALENUS/VP-Transformation?utm_source=indeed&utm_medium=phenom-feeds) |
-| Apple | Director of Engineering Program Management, IS&T | Director | Sunnyvale, CA, USA | $296K–$474K | 6d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200691683-3956&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200691683-3956%2Fdirector-of-engineering-program-management-is-t%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D46ca9198-d351-11f1-b467-d3cd8c42f872%26rx_job%3D200691683-3956%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261029T140443Z%26rx_vp%3Dcpc%26team%3DSFTWR) |
+| Apple | Director of Engineering Program Management, IS&T | Director | Sunnyvale, CA, USA | $296K–$474K | 6d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200691683-3956&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200691683-3956%2Fdirector-of-engineering-program-management-is-t%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D46ca9198-d351-11f1-b467-d3cd8c42f872%26rx_job%3D200691683-3956%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261029T140443Z%26rx_vp%3Dcpc%26team%3DSFTWR) [alt](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200691683-3956-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200691683-3956%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D49df7db0-d7fe-11f1-a8f9-0328b4b5feb8%26rx_job%3D200691683-3956-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | JPMorgan Chase ⭐ | Corporate Development, Digital Partnerships – Vice President | VP | New York, NY, United States |  | 6d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794609) |
 | ABB | Director, International Business Transformation & Strategy Execution (flexible location) | Director | Remote, Arkansas, USA |  | 6d | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Arkansas-USA/Director--International-Business-Transformation---Strategy-Execution--flexible-location-_JR00049173) |
 | Capital One ⭐ | Staff Full-Stack Engineer (Director IC) - Digital Payments | Director | Chicago, IL +4 | $269K–$307K | 6d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Staff-Full-Stack-Engineer_R1003189-2) |
@@ -1854,6 +1860,10 @@ _184 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Apple | 🆕 Director of Privacy Engineering, Services | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200672379-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200672379-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D513e1c94-d7fe-11f1-a4b8-0328b4b5feb8%26rx_job%3D200672379-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director, Software Test Engineering & Quality Assurance | Director | Sunnyvale, CA, USA | $260K–$416K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200686152-3956-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200686152-3956%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4c09dc6b-d7fe-11f1-b9d3-0328b4b5feb8%26rx_job%3D200686152-3956-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director of Algorithms, Ads Engineering | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200658682-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200658682-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ecc9c5a-d7fe-11f1-a621-0328b4b5feb8%26rx_job%3D200658682-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| AMD | 🆕 DFT Engineering Director, CPU Cores Design for Testability | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/94490/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Omatic Software | 🆕 Vice President of Engineering | VP | Remote, USA |  | 0d | [Apply](https://omatic.applytojob.com/apply/IOglWmI9hN/Vice-President-Of-Engineering?source=INDE&~) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2137712) | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2137712) |
 | Republic Services | 🆕 VP Information Technology | VP | Phoenix, AZ, USA |  | 0d | [Apply](https://jobs.republicservices.com/us/en/job/R-187675) [alt](https://jobs.republicservices.com/us/en/job/ROURSAUSR187675EXTERNALENUS) |
@@ -2100,12 +2110,8 @@ _184 older roles in this section are in data/roles.json on the `data` branch._
 | Bevi | Director, Hardware Quality Engineering | Director | Boston | $185K–$228K | 7d | [Apply](https://job-boards.greenhouse.io/bevicareers/jobs/4470486009) ⚡ |
 | BNY ⭐ | Senior Director, Engineering Group Leader (req 76021) | Sr. Director | New York, NY, United States |  | 7d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/76021) |
 | Truist | Head of Trust Technology | Head | Charlotte, NC +1 |  | 7d | [Apply](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Head-of-Trust-Technology_R0121252) [alt](https://careers.truist.com/us/en/job/TBJTBFUSR0121252EXTERNALENUS) |
-| Johns Hopkins Health System | IT ASSISTANT DIRECTOR | Director | Hanover, MD, USA | $135K–$236K | 7d | [Apply](https://jobs.hopkinsmedicine.org/job/103750/it-assistant-director-information-technology-us-md-hanover-johns-hopkins-health-plans/) |
-| Opensity solutions | Director, Technical Engineering | Director | USA-Chicago-IL · Remote |  | 7d | [Apply](https://k2services.wd503.myworkdayjobs.com/Opensity/job/USA-Chicago-IL/VP--Technical-Engineering_R-02178-1) |
-| Diamond Foundry | Application Engineering Director | Director | Bay Area, California | $180K–$270K | 7d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d) ⚡ |
-| Diamond Foundry | Application Engineering Director | Director | San Francisco Bay Area, CA, USA | $180K–$270K | 7d | [Apply](https://jobs.lever.co/diamondfoundry/d5c439a1-f7d1-4450-8325-ce919c607a7d?lever-source=Indeed) |
 
-_677 older roles in this section are in data/roles.json on the `data` branch._
+_681 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2298,7 +2304,7 @@ _677 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | Vice President, Full-Stack Engineer (req 76383) | VP | Lake Mary, FL, United States |  | 16d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/76383) |
 | Ameriprise Financial | Vice President - Forward Deployed Engineer | VP | Boston, Massachusetts +1 | $242K–$333K | 16d | [Apply](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Vice-President---Forward-Deployed-Engineer_R26_3037-2) |
 | BlackRock ⭐ | Senior Quality Assurance Engineer, Vice President | VP | B3G - Skyline Belgrade, Kneza Milosa 88, B |  | 16d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/B3G---Skyline-Belgrade-Kneza-Milosa-88-Belgrade/Senior-Quality-Assurance-Engineer--Vice-President_R265321) |
-| Apple | Director, Evaluation and Quality Assurance, Services Special Projects | Director | Cupertino, CA, USA | $311K–$497K | 17d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200688194-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200688194-0836%2Fdirector-evaluation-and-quality-assurance-services-special-projects%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D5f6b2fcc-caac-11f1-8182-33e277e81f23%26rx_job%3D200688194-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261018T220404Z%26rx_vp%3Dcpc%26team%3DSFTWR) |
+| Apple | Director, Evaluation and Quality Assurance, Services Special Projects | Director | Cupertino, CA, USA | $311K–$497K | 17d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200688194-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200688194-0836%2Fdirector-evaluation-and-quality-assurance-services-special-projects%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D5f6b2fcc-caac-11f1-8182-33e277e81f23%26rx_job%3D200688194-0836%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261018T220404Z%26rx_vp%3Dcpc%26team%3DSFTWR) [alt](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200688194-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200688194-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4c1a5260-d7fe-11f1-8860-0328b4b5feb8%26rx_job%3D200688194-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | Rula | Director of Finance Systems (Remote) | Director | Remote - United States | $189K–$245K | 18d | [Apply](https://jobs.ashbyhq.com/rula/8f49abb1-6c5c-4fed-b2d3-a171dece403b) ⚡ |
 | NAVBLUE US, Inc. | Head of Systems | Head | Portsmouth |  | 19d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Head-of-Systems_JR10406866) |
 | MiniMed | Quality Systems Director | Director | Los Angeles, California, United States of  |  | 19d | [Apply](https://mdtkangaroo.wd108.myworkdayjobs.com/MiniMedCareers/job/Los-Angeles-California-United-States-of-America/Quality-Systems-Director_R-802133) |

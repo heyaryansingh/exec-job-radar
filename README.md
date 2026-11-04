@@ -19,22 +19,22 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,593 open roles** at **1,293 companies** · **192 new in the last 24 hours** · 5,683 company career sites watched · updated hourly · last update Nov 04, 2026 04:37 AM ET
+**3,594 open roles** at **1,293 companies** · **193 new in the last 24 hours** · 5,685 company career sites watched · updated hourly · last update Nov 04, 2026 05:25 AM ET
 
-By level: Director 1845 · VP 724 · Sr. Director 436 · Head 232 · EVP/SVP 139 · C-level 102 · ED 85 · MD 30
+By level: Director 1845 · VP 724 · Sr. Director 436 · Head 232 · EVP/SVP 140 · C-level 102 · ED 85 · MD 30
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (192)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (193)](#new-in-the-last-24-hours)
 - [🤠 Houston area (109)](#houston-area)
 - [👑 Executive Technology Leadership (105)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (242)](#security-risk-technology)
 - [🧠 Data & AI (941)](#data-ai)
 - [🚦 Reliability & Operations (244)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (331)](#cloud-infrastructure)
-- [🏛️ Architecture (100)](#architecture)
+- [🏛️ Architecture (101)](#architecture)
 - [🔄 Transformation & Delivery (434)](#transformation-delivery)
 - [🛠️ Engineering & Software (931)](#engineering-software)
 - [📌 Other Senior Roles (265)](#other-senior-roles)
@@ -47,11 +47,12 @@ By level: Director 1845 · VP 724 · Sr. Director 436 · Head 232 · EVP/SVP 139
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| NAVBLUE US, Inc. | 🆕 SVP Personal Secretary for the Airbus Chief Industrial Architect (M/F) | EVP/SVP | Toulouse Area |  | 0d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/SVP-Personal-Secretary-for-the-Airbus-Chief-Industrial-Architect--M-F-_JR10452540-1) |
+| AMD | 🆕 DFT Engineering Director, CPU Cores Design for Testability | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/94490/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Apple | 🆕 Director of Algorithms, Ads Engineering | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200658682-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200658682-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ecc9c5a-d7fe-11f1-a621-0328b4b5feb8%26rx_job%3D200658682-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director, Software Test Engineering & Quality Assurance | Director | Sunnyvale, CA, USA | $260K–$416K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200686152-3956-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200686152-3956%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4c09dc6b-d7fe-11f1-b9d3-0328b4b5feb8%26rx_job%3D200686152-3956-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | Apple | 🆕 Director of Privacy Engineering, Services | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200672379-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200672379-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D513e1c94-d7fe-11f1-a4b8-0328b4b5feb8%26rx_job%3D200672379-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | Apple | 🆕 Director of Software Engineering - Security | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200663004-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200663004-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ed94b3b-d7fe-11f1-b895-0328b4b5feb8%26rx_job%3D200663004-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
-| Apple | 🆕 Director, Software Test Engineering & Quality Assurance | Director | Sunnyvale, CA, USA | $260K–$416K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200686152-3956-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200686152-3956%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4c09dc6b-d7fe-11f1-b9d3-0328b4b5feb8%26rx_job%3D200686152-3956-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
-| Apple | 🆕 Director of Algorithms, Ads Engineering | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200658682-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200658682-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ecc9c5a-d7fe-11f1-a621-0328b4b5feb8%26rx_job%3D200658682-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
-| AMD | 🆕 DFT Engineering Director, CPU Cores Design for Testability | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/94490/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Bjak | 🆕 AI Phone - Head of Android / AOSP (opening #2) | Head | United States · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/bjakcareer/31bafe77-8106-4641-96f9-b80de1cd5b67) ⚡ |
 | Omatic Software | 🆕 Vice President of Engineering | VP | Remote, USA |  | 0d | [Apply](https://omatic.applytojob.com/apply/IOglWmI9hN/Vice-President-Of-Engineering?source=INDE&~) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2137712) | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2137712) |
@@ -1494,6 +1495,7 @@ _81 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| NAVBLUE US, Inc. | 🆕 SVP Personal Secretary for the Airbus Chief Industrial Architect (M/F) | EVP/SVP | Toulouse Area |  | 0d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/SVP-Personal-Secretary-for-the-Airbus-Chief-Industrial-Architect--M-F-_JR10452540-1) |
 | Charles Schwab | 🆕 Director, Architect Principal - Workplace Services Engineering | Director | Southlake, TX, USA | $221K–$252K | 0d | [Apply](https://www.schwabjobs.com/job/southlake/director-architect-principal-workplace-services-engineering/33727/102826240160) |
 | EY | 🆕 Technology Architect Assistant Director | Director | Hoboken, NJ, USA | $132K–$269K | 1d | [Apply](https://careers.ey.com/ey/job/Hoboken-Technology-Architect-Assistant-Director-NJ-07030/1453927633/) |
 | Brown & Brown Insurance | 🆕 VP, Enterprise Architecture | VP | Plano, TX, USA |  | 1d | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Enterprise-Architect--Core-Systems_R26_0000003762-1) |
@@ -1860,10 +1862,10 @@ _184 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Apple | 🆕 Director of Privacy Engineering, Services | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200672379-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200672379-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D513e1c94-d7fe-11f1-a4b8-0328b4b5feb8%26rx_job%3D200672379-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
-| Apple | 🆕 Director, Software Test Engineering & Quality Assurance | Director | Sunnyvale, CA, USA | $260K–$416K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200686152-3956-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200686152-3956%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4c09dc6b-d7fe-11f1-b9d3-0328b4b5feb8%26rx_job%3D200686152-3956-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
-| Apple | 🆕 Director of Algorithms, Ads Engineering | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200658682-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200658682-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ecc9c5a-d7fe-11f1-a621-0328b4b5feb8%26rx_job%3D200658682-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | AMD | 🆕 DFT Engineering Director, CPU Cores Design for Testability | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/94490/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Apple | 🆕 Director of Algorithms, Ads Engineering | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200658682-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200658682-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ecc9c5a-d7fe-11f1-a621-0328b4b5feb8%26rx_job%3D200658682-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director, Software Test Engineering & Quality Assurance | Director | Sunnyvale, CA, USA | $260K–$416K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200686152-3956-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200686152-3956%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4c09dc6b-d7fe-11f1-b9d3-0328b4b5feb8%26rx_job%3D200686152-3956-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
+| Apple | 🆕 Director of Privacy Engineering, Services | Director | Cupertino, CA, USA | $311K–$497K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200672379-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200672379-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D513e1c94-d7fe-11f1-a4b8-0328b4b5feb8%26rx_job%3D200672379-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | Omatic Software | 🆕 Vice President of Engineering | VP | Remote, USA |  | 0d | [Apply](https://omatic.applytojob.com/apply/IOglWmI9hN/Vice-President-Of-Engineering?source=INDE&~) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2137712) | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2137712) |
 | Republic Services | 🆕 VP Information Technology | VP | Phoenix, AZ, USA |  | 0d | [Apply](https://jobs.republicservices.com/us/en/job/R-187675) [alt](https://jobs.republicservices.com/us/en/job/ROURSAUSR187675EXTERNALENUS) |

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,597 open roles** at **1,296 companies** · **186 new in the last 24 hours** · 5,686 company career sites watched · updated hourly · last update Nov 04, 2026 08:24 AM ET
+**3,598 open roles** at **1,296 companies** · **186 new in the last 24 hours** · 5,686 company career sites watched · updated hourly · last update Nov 04, 2026 09:16 AM ET
 
-By level: Director 1846 · VP 725 · Sr. Director 436 · Head 233 · EVP/SVP 140 · C-level 102 · ED 85 · MD 30
+By level: Director 1846 · VP 725 · Sr. Director 437 · Head 233 · EVP/SVP 140 · C-level 102 · ED 85 · MD 30
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 1846 · VP 725 · Sr. Director 436 · Head 233 · EVP/SVP 140
 - [☁️ Cloud & Infrastructure (331)](#cloud-infrastructure)
 - [🏛️ Architecture (101)](#architecture)
 - [🔄 Transformation & Delivery (434)](#transformation-delivery)
-- [🛠️ Engineering & Software (933)](#engineering-software)
+- [🛠️ Engineering & Software (934)](#engineering-software)
 - [📌 Other Senior Roles (265)](#other-senior-roles)
-- [🔒 Recently closed (169)](#recently-closed)
+- [🔒 Recently closed (167)](#recently-closed)
 - Daily digests: [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,6 +47,7 @@ By level: Director 1846 · VP 725 · Sr. Director 436 · Head 233 · EVP/SVP 140
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Senior Director of eSoftware Engineering – Ultra-Low-Latency C++ / Equities Technology | Sr. Director | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805109) |
 | CircleCI | 🆕 VP, Customer Engineering & Success | VP | San Francisco, CA | $262K–$327K | 0d | [Apply](http://www.circleci.com/careers/jobs/8918381002/?gh_jid=8918381002) ⚡ |
 | Marrow Therapeutics | 🆕 Director, Information Technology | Director | Watertown, MA, USA |  | 0d | [Apply](https://marrow-therapeutics.careers-page.com/jobs/d46d8887-3d7f-45d2-b77a-2f4e82471ad6?utm_medium=free_job_board&utm_source=indeed) |
 | Visa | 🆕 Senior Director, Head of Data & Analytics Delivery, VCA-X | Head | IN - Bengaluru, India |  | 0d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Senior-Director--Head-of-Data---Analytics-Delivery--VCA-X--Visa-Consulting---Analytics_REF088841W) |
@@ -232,7 +233,6 @@ By level: Director 1846 · VP 725 · Sr. Director 436 · Head 233 · EVP/SVP 140
 | Four Seasons | 🆕 Director, Security and Safety | Director | Chicago, Illinois, United States of Americ |  | 2d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10396815EXTERNALENUS) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Fixed Income Algo Technology, Director | Director | New York, NY, US |  | 2d | [Apply](https://jobs.citi.com/job/new-york/fixed-income-algo-technology-director/287/102782077648) |
 | ABM Industries Inc. | 🆕 Director, AI Security Enablement | Director | Dunwoody, GA, USA | $177K–$260K | 2d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/171245) |
-| Grant Thornton | 🆕 Advisory Senior Director Client Relationship Executive – Cyber & Risk | Sr. Director | Philadelphia, PA, United States |  | 2d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116278) |
 
 <a name="houston-area"></a>
 
@@ -487,7 +487,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Integrated Pain Associates | Director of Information Technology and Information Security | Director | TX, USA |  | 1d | [Apply](https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887aca18473d901a188b6ed1e0b01&source=Indeed+Free) |
 | Four Seasons | 🆕 Director, Security and Safety | Director | Chicago, Illinois, United States of Americ |  | 2d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10396815EXTERNALENUS) |
 | ABM Industries Inc. | 🆕 Director, AI Security Enablement | Director | Dunwoody, GA, USA | $177K–$260K | 2d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/171245) |
-| Grant Thornton | 🆕 Advisory Senior Director Client Relationship Executive – Cyber & Risk | Sr. Director | Philadelphia, PA, United States |  | 2d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116278) |
+| Grant Thornton | Advisory Senior Director Client Relationship Executive – Cyber & Risk | Sr. Director | Philadelphia, PA, United States |  | 2d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116278) |
 | ABM Industries Inc. | Director, AI Security Enablement | Director | New York, NY, USA | $177K–$260K | 2d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/171245) |
 | ABM Industries Inc. | Director, Business Information Security Officer (BISO) | Director | New York, NY, USA | $177K–$240K | 2d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/170725) |
 | ABM Industries Inc. | Director, AI Security Enablement | Director | Cumming, GA, USA | $177K–$260K | 2d | [Apply](https://eiqg.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/171245) |
@@ -1855,6 +1855,7 @@ _184 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Senior Director of eSoftware Engineering – Ultra-Low-Latency C++ / Equities Technology | Sr. Director | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805109) |
 | CircleCI | 🆕 VP, Customer Engineering & Success | VP | San Francisco, CA | $262K–$327K | 0d | [Apply](http://www.circleci.com/careers/jobs/8918381002/?gh_jid=8918381002) ⚡ |
 | Marrow Therapeutics | 🆕 Director, Information Technology | Director | Watertown, MA, USA |  | 0d | [Apply](https://marrow-therapeutics.careers-page.com/jobs/d46d8887-3d7f-45d2-b77a-2f4e82471ad6?utm_medium=free_job_board&utm_source=indeed) |
 | AMD | 🆕 DFT Engineering Director, CPU Cores Design for Testability | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/94490/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -2104,9 +2105,8 @@ _184 older roles in this section are in data/roles.json on the `data` branch._
 | State Street ⭐ | Senior MS Teams & M365 Engineering Lead, VP | VP | Irvine, California +6 | $125K–$215K | 7d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Senior-MS-Teams---M365-Engineering-Lead--VP_R-800283-1) |
 | From, The Digital Transformation Agency( | NFL - Director of IT - Media Applications (Temp-3 month contract) | Director | New York, NY, USA |  | 7d | [Apply](https://www.indeed.com/viewjob?jk=a9514a136f278eea) |
 | USAA ⭐ | Director, Information Technology - Testing CoE | Director | San Antonio Home Office I +1 | $143K–$274K | 7d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Information-Technology---Testing-CoE_R0121735-1) |
-| Bevi | Director, Hardware Quality Engineering | Director | Boston | $185K–$228K | 7d | [Apply](https://job-boards.greenhouse.io/bevicareers/jobs/4470486009) ⚡ |
 
-_683 older roles in this section are in data/roles.json on the `data` branch._
+_684 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2542,8 +2542,6 @@ _15 older roles in this section are in data/roles.json on the `data` branch._
 | Vercel Inc | 🔒 Director of Engineering | Director | Hybrid - San Francisco, New York City | $262K–$348K | 15d | Closed |
 | GitLab | 🔒 Director of Engineering, Database Excellence | Director | Remote, Canada +1 | $230K–$346K | 36d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Vice President, Data Modernization — Data Readiness & Metadata Standards | VP | Jersey City, NJ, United States |  | 22d | Closed |
-| EVERSANA | 🔒 Director, Data & Analytics - Waltz Health | Director | Chicago, IL, us |  | 15d | Closed |
-| Robin Radar | 🔒 IT & Infosec Director | Director | Delft · Remote |  | 26d | Closed |
 
 </details>
 

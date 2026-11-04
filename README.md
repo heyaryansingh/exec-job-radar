@@ -19,23 +19,23 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,633 open roles** at **1,307 companies** · **179 new in the last 24 hours** · 5,692 company career sites watched · updated hourly · last update Nov 04, 2026 01:14 PM ET
+**3,635 open roles** at **1,307 companies** · **181 new in the last 24 hours** · 5,692 company career sites watched · updated hourly · last update Nov 04, 2026 01:28 PM ET
 
-By level: Director 1860 · VP 730 · Sr. Director 446 · Head 235 · EVP/SVP 141 · C-level 105 · ED 85 · MD 31
+By level: Director 1861 · VP 731 · Sr. Director 446 · Head 235 · EVP/SVP 141 · C-level 105 · ED 85 · MD 31
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (179)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (181)](#new-in-the-last-24-hours)
 - [🤠 Houston area (111)](#houston-area)
 - [👑 Executive Technology Leadership (108)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (248)](#security-risk-technology)
 - [🧠 Data & AI (949)](#data-ai)
-- [🚦 Reliability & Operations (248)](#reliability-operations)
+- [🚦 Reliability & Operations (249)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (335)](#cloud-infrastructure)
 - [🏛️ Architecture (101)](#architecture)
-- [🔄 Transformation & Delivery (434)](#transformation-delivery)
+- [🔄 Transformation & Delivery (435)](#transformation-delivery)
 - [🛠️ Engineering & Software (943)](#engineering-software)
 - [📌 Other Senior Roles (267)](#other-senior-roles)
 - [🔒 Recently closed (164)](#recently-closed)
@@ -47,23 +47,25 @@ By level: Director 1860 · VP 730 · Sr. Director 446 · Head 235 · EVP/SVP 141
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Anduril Industries | 🆕 Program Director, Air Dominance & Strike (Production) | Director | Ashville, Ohio, United States +1 | $241K–$319K | 0d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5284884007?gh_jid=5284884007) ⚡ |
+| Mastercard ⭐ | 🆕 Vice President, Risk Management - Digital Assets | VP | New York City, New York | $227K–$374K | 0d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Vice-President--Risk-Management---Digital-Assets_R-295132) |
 | Thoughtworks | 🆕 Vice President - Technology Advisory Partner | VP | Chicago, Illinois, USA +2 | $450K–$500K | 0d | [Apply](https://www.thoughtworks.com/careers/jobs/7912616?gh_jid=7912616) ⚡ |
+| Honeywell ⭐ | 🆕 🔁 Director Portfolio Management - Utilities | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161392) |
 | Darktrace | 🆕 Director, Technical Success  - LATAM | Director | Miami Office, United States +2 |  | 0d | [Apply](https://darktrace.wd3.myworkdayjobs.com/DarktaceExternal/job/Miami-Office-United-States/Director--Technical-Success----LATAM_JR102489) |
 | OneMain Financial | 🆕 VP/MD, Technology Business Operations | VP | Baltimore, MD | $240K–$275K | 0d | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Baltimore-MD/VP-MD--Technology-Business-Operations_R2611-53084) |
 | Salesforce ⭐ | 🆕 Director, Enterprise Security - Business Information Security Officer (BISO) | Director | Texas - Dallas +6 | $238K–$345K | 0d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Director--Enterprise-Security---Business-Information-Security-Officer--BISO-_JR366745) |
-| Honeywell ⭐ | 🆕 🔁 Director Portfolio Management - Utilities | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161392) |
 | U.S. Bank | 🆕 Audit Project Manager – CIO | C-level | Minneapolis, MN +6 |  | 0d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Audit-Project-Manager---CIO_2026-0021811) |
 | Cox Enterprises | 🆕 Senior Director, Finance Systems & Process Improvement | Sr. Director | Atlanta, GA, USA | $163K–$272K | 0d | [Apply](https://click.appcast.io/t/IymCOYB53iltGUJZ9F285ID0x4D-_3CW7w3OZ-ELGcI=) |
 | Deseret Mutual Benefit Administrators | 🆕 Chief Technology Officer | C-level | Salt Lake City, UT, USA |  | 0d | [Apply](https://www.applicantpro.com/openings/dmba/jobs/4266550-80566) |
 | Wingstop | 🆕 Senior Director, Enterprise Infrastructure | Sr. Director | Dallas, TX, USA |  | 0d | [Apply](https://iaxmqy.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/1139) |
 | BNY ⭐ | 🆕 Senior Director, Business Planning and Analysis Lead - Data & Analytics | Sr. Director | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83478) |
 | JPMorgan Chase ⭐ | 🆕 Global Security - Executive Security - Strategy Preparedness and Governance Director | Director | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805990) |
+| Sofitel | 🆕 Director of Engineering and Security | Director | Philadelphia, PA, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000159675769-director-of-engineering-and-security-) ⚡ [alt](https://jobs.smartrecruiters.com/AccorHotel/744000159675596-director-of-engineering-and-security-) |
 | DaVita | 🆕 Sr Director, AI Capabilities (Technology) | Sr. Director | 05555 - Casa del Mundo Office (Denver HQ) |  | 0d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Sr-Director--AI-Capabilities--Technology-_R0484818) |
 | Healogics | 🆕 Vice President, Data & AI (Remote or Hybrid) | VP | Jacksonville, FL - ZC0FL  - Corporate Flor | $180K–$240K | 0d | [Apply](https://healogics.wd5.myworkdayjobs.com/healogics/job/Jacksonville-FL---ZC0FL----Corporate-Florida/Vice-President--Data---AI--Remote-or-Hybrid-_JR106991) |
 | Johnson Controls | 🆕 Sr. Director of Cloud Engineering | Sr. Director | Westford-Massachusetts-United States of Am |  | 0d | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Sr-Director-of-Cloud-Engineering_WD30283750) |
 | Johnson Controls | 🆕 Director of Engineering - Video Solutions | Director | Fishers-Indiana-United States of America |  | 0d | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Fishers-Indiana-United-States-of-America/Director-of-Engineering---Video-Solutions_WD30283751) |
 | U.S. Bank | 🆕 SVP, Head of Corporate Digital Analytics & Insights | EVP/SVP | San Francisco, CA +1 |  | 0d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Francisco-CA/SVP--Head-of-Corporate-Digital-Analytics---Insights_2026-0033294) |
-| Sofitel | 🆕 Director of Engineering and Security | Director | Philadelphia, PA, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000159675769-director-of-engineering-and-security-) ⚡ [alt](https://jobs.smartrecruiters.com/AccorHotel/744000159675596-director-of-engineering-and-security-) |
 | Flagship Pioneering, Inc. | 🆕 Senior Director, Platform Experience | Sr. Director | Cambridge, MA USA | $223K–$294K | 0d | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8924780002?gh_jid=8924780002) ⚡ |
 | FTMAI Fortrea Development | 🆕 Senior Director, Enterprise AI Enablement | Sr. Director | Durham · Remote |  | 0d | [Apply](https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/Senior-Director--Enterprise-AI-Enablement_266607) |
 | Ingredion | 🆕 Sr. Director Global Operations Digital Partner | Sr. Director | Westchester, IL |  | 0d | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Sr-Director-Global-Operations-Digital-Partner_Req-38484) |
@@ -982,6 +984,7 @@ _699 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Anduril Industries | 🆕 Program Director, Air Dominance & Strike (Production) | Director | Ashville, Ohio, United States +1 | $241K–$319K | 0d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5284884007?gh_jid=5284884007) ⚡ |
 | OneMain Financial | 🆕 VP/MD, Technology Business Operations | VP | Baltimore, MD | $240K–$275K | 0d | [Apply](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Baltimore-MD/VP-MD--Technology-Business-Operations_R2611-53084) |
 | Ingredion | 🆕 Sr. Director Global Operations Digital Partner | Sr. Director | Westchester, IL |  | 0d | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Sr-Director-Global-Operations-Digital-Partner_Req-38484) |
 | NetApp | 🆕 VP of Engineering, Reliability & Quality | VP | San Jose, CA, USA | $323K–$418K | 0d | [Apply](https://careers.netapp.com/job/san-jose/vp-of-engineering-reliability-and-quality/27600/102839923824) |
@@ -1604,6 +1607,7 @@ _85 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Mastercard ⭐ | 🆕 Vice President, Risk Management - Digital Assets | VP | New York City, New York | $227K–$374K | 0d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Vice-President--Risk-Management---Digital-Assets_R-295132) |
 | Honeywell ⭐ | 🆕 🔁 Director Portfolio Management - Utilities | Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161392) |
 | Fidelity ⭐ | 🆕 Director, IT Audit Program Manager | Director | Westlake, TX |  | 0d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--IT-Audit-Program-Manager_2137738) |
 | Ciena | 🆕 VP, Information Technology Strategy Leader | VP | Baltimore, MD, USA |  | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Baltimore/VP--Information-Technology-Strategy-Leader_R031986-1) |
@@ -1853,9 +1857,8 @@ _85 older roles in this section are in data/roles.json on the `data` branch._
 | FOX | Digital Art Director, Visual Innovation Studio (Motion Designer) (req R50032375) | Director | Los Angeles, California, USA |  | 15d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Digital-Art-Director--Visual-Innovation-Studio_R50032375) |
 | Pacific Life | Director, Technology Delivery and Release Management | Director | Newport Beach CA-700 +2 |  | 15d | [Apply](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Director--Technology-Delivery-and-Release-Management_R17952) |
 | Capital One ⭐ | Director, Technical Program Managment | Director | McLean, VA +1 | $230K–$263K | 15d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Technical-Program-Managment_R1004156-1) |
-| Davita | Director, Program Management (IKC) | Director | 05555 - Casa del Mundo Office (Denver HQ) |  | 15d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Director--Program-Management--IKC-_R0482884) |
 
-_184 older roles in this section are in data/roles.json on the `data` branch._
+_185 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

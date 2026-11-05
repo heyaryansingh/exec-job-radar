@@ -6,7 +6,7 @@
 |---|---|---|---|---|---:|---|
 | FTI Consulting | 🆕 Director, Case Manager eDiscovery- Technology Consulting | Director | Houston, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/director-case-manager-ediscovery-technology-consulting-at-fti-consulting-4487288788) |
 | Honeywell ⭐ | 🆕 🔁 Director Portfolio Management - Utilities | Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161392) |
-| Protiviti | 🆕 Technology Consulting - Enterprise Data & Analytics & AI Managing Director | MD | HOUSTON |  | 1d | [Apply](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Technology-Consulting---Enterprise-Data---Analytics---AI-Managing-Director_JR-262135-2) |
+| Protiviti | Technology Consulting - Enterprise Data & Analytics & AI Managing Director | MD | HOUSTON |  | 1d | [Apply](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Technology-Consulting---Enterprise-Data---Analytics---AI-Managing-Director_JR-262135-2) |
 | AI Pulse | 🆕 VP, AI | VP | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-28643-696e0835fabe0df81ad84e96040f0726) |
 | Fluence | 🆕 Global Director, Cloud Infra | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-2439-4bbe71295276a9fc32af2cc70ce26277) |
 | Pwc | 🆕 SAP Tech Director Generalist ( S/4 Migration, Appdev,integration, brown/blue, RISE+ AI) | Director | Houston, Texas | $155K–$410K | 2d | [Apply](https://www.ziprecruiter.com/c/pwc/Job/SAP-Tech-Director-Generalist-(-S-4-Migration,-Appdev,integration,-brown-blue,-RISE+-AI)/-in-Houston,TX?jid=98f93319e08f068d) |

@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,727 open roles** at **1,351 companies** · **147 new in the last 24 hours** · 5,718 company career sites watched · updated hourly · last update Nov 05, 2026 01:45 AM ET
+**3,728 open roles** at **1,351 companies** · **148 new in the last 24 hours** · 5,718 company career sites watched · updated hourly · last update Nov 05, 2026 02:05 AM ET
 
-By level: Director 1911 · VP 749 · Sr. Director 456 · Head 239 · EVP/SVP 145 · C-level 109 · ED 87 · MD 31
+By level: Director 1911 · VP 750 · Sr. Director 456 · Head 239 · EVP/SVP 145 · C-level 109 · ED 87 · MD 31
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (147)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (148)](#new-in-the-last-24-hours)
 - [🤠 Houston area (115)](#houston-area)
 - [👑 Executive Technology Leadership (112)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (252)](#security-risk-technology)
@@ -35,7 +35,7 @@ By level: Director 1911 · VP 749 · Sr. Director 456 · Head 239 · EVP/SVP 145
 - [🚦 Reliability & Operations (257)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (348)](#cloud-infrastructure)
 - [🏛️ Architecture (103)](#architecture)
-- [🔄 Transformation & Delivery (449)](#transformation-delivery)
+- [🔄 Transformation & Delivery (450)](#transformation-delivery)
 - [🛠️ Engineering & Software (967)](#engineering-software)
 - [📌 Other Senior Roles (275)](#other-senior-roles)
 - [🔒 Recently closed (167)](#recently-closed)
@@ -47,6 +47,7 @@ By level: Director 1911 · VP 749 · Sr. Director 456 · Head 239 · EVP/SVP 145
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Georgia's Own Credit Union | 🆕 VP, Digital | VP | Hybrid - Georgia |  | 0d | [Apply](https://georgiasown.wd1.myworkdayjobs.com/en-US/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544) |
 | Coinigy | 🆕 Chief Technology Officer | C-level | Milwaukee, WI, USA | $250K–$350K | 0d | [Apply](https://www.indeed.com/viewjob?jk=e1e31dca993c5fdb) |
 | GE HealthCare | 🆕 Sr Director - Program Management | Sr. Director | Waukesha, WI, USA | $172K–$258K | 0d | [Apply](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4048786EXTERNALENGLOBAL/Sr-Director-Program-Management?utm_source=indeed&utm_medium=phenom-feeds) |
 | Georgia's Own Credit Union | 🆕 VP, Digital | VP | GA, USA |  | 0d | [Apply](https://georgiasown.wd1.myworkdayjobs.com/en-US/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544) |
@@ -1590,6 +1591,7 @@ _98 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Georgia's Own Credit Union | 🆕 VP, Digital | VP | Hybrid - Georgia |  | 0d | [Apply](https://georgiasown.wd1.myworkdayjobs.com/en-US/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544) |
 | GE HealthCare | 🆕 Sr Director - Program Management | Sr. Director | Waukesha, WI, USA | $172K–$258K | 0d | [Apply](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4048786EXTERNALENGLOBAL/Sr-Director-Program-Management?utm_source=indeed&utm_medium=phenom-feeds) |
 | Georgia's Own Credit Union | 🆕 VP, Digital | VP | GA, USA |  | 0d | [Apply](https://georgiasown.wd1.myworkdayjobs.com/en-US/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544) |
 | Charm Industrial | 🆕 Director, Program and Systems Engineering | Director | Fort Lupton, CO | $185K–$220K | 1d | [Apply](https://jobs.lever.co/charmindustrial/19507c45-121f-4960-9f94-cdd5330779d9) ⚡ [alt](https://jobs.lever.co/charmindustrial/19507c45-121f-4960-9f94-cdd5330779d9?lever-source=Indeed) |
@@ -1839,9 +1841,8 @@ _98 older roles in this section are in data/roles.json on the `data` branch._
 | U.S. Bank | Head of ETF Transformation | Head | Boston, MA |  | 15d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Head-of-ETF-Transformation_2026-0033022) |
 | Capital One ⭐ | Senior Director, Technical Program Management (req R1004233) | Sr. Director | McLean, VA | $270K–$308K | 15d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Director--Technical-Program-Management_R1004233-1) |
 | Mastercard ⭐ | Vice President, Product Development, Digital Commerce Services | VP | San Francisco, California +1 | $245K–$391K | 15d | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Vice-President--Product-Development--Digital-Commerce-Services_R-294031) |
-| Danaher | Director, Program Management | Director | Boston, Massachusetts, United States +1 · Remote |  | 15d | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Boston-Massachusetts-United-States/Director--Program-Management_R1320987) |
 
-_199 older roles in this section are in data/roles.json on the `data` branch._
+_200 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

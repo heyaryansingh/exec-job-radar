@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,697 open roles** at **1,334 companies** · **159 new in the last 24 hours** · 5,704 company career sites watched · updated hourly · last update Nov 04, 2026 07:55 PM ET
+**3,699 open roles** at **1,334 companies** · **160 new in the last 24 hours** · 5,704 company career sites watched · updated hourly · last update Nov 04, 2026 08:54 PM ET
 
-By level: Director 1891 · VP 745 · Sr. Director 454 · Head 236 · EVP/SVP 145 · C-level 108 · ED 87 · MD 31
+By level: Director 1892 · VP 745 · Sr. Director 454 · Head 237 · EVP/SVP 145 · C-level 108 · ED 87 · MD 31
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (159)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (160)](#new-in-the-last-24-hours)
 - [🤠 Houston area (111)](#houston-area)
 - [👑 Executive Technology Leadership (111)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (251)](#security-risk-technology)
-- [🧠 Data & AI (960)](#data-ai)
+- [🧠 Data & AI (961)](#data-ai)
 - [🚦 Reliability & Operations (255)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (343)](#cloud-infrastructure)
 - [🏛️ Architecture (102)](#architecture)
 - [🔄 Transformation & Delivery (445)](#transformation-delivery)
-- [🛠️ Engineering & Software (959)](#engineering-software)
+- [🛠️ Engineering & Software (960)](#engineering-software)
 - [📌 Other Senior Roles (271)](#other-senior-roles)
 - [🔒 Recently closed (168)](#recently-closed)
 - Daily digests: [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md) · [10-29](data/daily/2026-10-29.md)
@@ -47,6 +47,8 @@ By level: Director 1891 · VP 745 · Sr. Director 454 · Head 236 · EVP/SVP 145
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Rivian | 🆕 Head of Technology Foundations | Head | Remote: US | $175K–$359K | 0d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3308832c-0b02-4086-a610-2371532e5e99) ⚡ |
+| GSK | 🆕 Director, Commercial Data Products | Director | Philadelphia, Pennsylvania, United States  |  | 1d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB450381EXTERNALENGB) |
 | Thermo Fisher Scientific ⭐ | 🆕 Director, Engineering Systems Design | Director | Pleasanton, California, United States of A |  | 1d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01372212EXTERNALENGLOBAL) |
 | 26th Street Partners | 🆕 Director of Digital Transformation | Director | Atlanta, GA, USA | $180K–$233K | 1d | [Apply](https://www.indeed.com/viewjob?jk=550093c0e4012b33) |
 | Doctor's Best, Inc. | 🆕 Director of Information Technology | Director | Tustin, CA, USA | $170K–$225K | 1d | [Apply](https://www.indeed.com/viewjob?jk=a8c5ce2c103cc29b) |
@@ -54,8 +56,8 @@ By level: Director 1891 · VP 745 · Sr. Director 454 · Head 236 · EVP/SVP 145
 | Omniscius Consulting | 🆕 The Vice President, Enterprise Technology & Innovation | VP | Ashburn, VA, USA |  | 1d | [Apply](https://omnisciusconsulting.applytojob.com/apply/w7a5tMop8d/The-Vice-President-Enterprise-Technology-Innovation?source=INDE&~) |
 | Oneida Engineering Solutions | 🆕 Engineering Director (Infrastructure) | Director | Milwaukee, WI, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4638807/ALL-JOBS/Engineering-Director-Infrastructure?source=Indeed_Feed) |
 | GM Financial | 🆕 VP IT Operations - Workplace Experience | VP | Arlington, TX, United States |  | 1d | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261234) [alt](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/261234) |
-| Cambridge Investment Research, Inc. | 🆕 Director, Application & Production Operations | Director | Phoenix, AZ +1 |  | 1d | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) [alt](https://cir.wd108.myworkdayjobs.com/en-US/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) |
 | Cambridge Investment Research, Inc. | 🆕 Director, IT Infrastructure and Platform Operations | Director | Phoenix, AZ +1 |  | 1d | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Director--Technology-Operations_R-2025-289) [alt](https://cir.wd108.myworkdayjobs.com/en-US/CIR_External_Career_Site/job/Phoenix-AZ/Director--Technology-Operations_R-2025-289) |
+| Cambridge Investment Research, Inc. | 🆕 Director, Application & Production Operations | Director | Phoenix, AZ +1 |  | 1d | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) [alt](https://cir.wd108.myworkdayjobs.com/en-US/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) |
 | WelbeHealth | 🆕 Director, IT Portfolio & Delivery | Director | Remote, CA, USA |  | 1d | [Apply](https://job-boards.greenhouse.io/welbehealth/jobs/8927656002) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Engineering Lead - Java - Senior Vice President | EVP/SVP | Pune, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/pune/senior-engineering-lead-java-senior-vice-president/287/100981286144) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Capital Management Technology Engineering Lead - SVP | EVP/SVP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/capital-management-technology-engineering-lead-svp/287/102860938208) |
@@ -204,7 +206,6 @@ By level: Director 1891 · VP 745 · Sr. Director 454 · Head 236 · EVP/SVP 145
 | Hearst Networks EMEA | 🆕 Director, Analytics Engineering | Director | New York, NY, USA | $171K–$200K | 2d | [Apply](https://aenetworks.wd1.myworkdayjobs.com/en-US/AE-Careers/job/New-York/Director--Analytics-Engineering_R0010955) |
 | L3Harris | 🆕 Director, Aerospace Engineering | Director | Greenville, TX, USA |  | 2d | [Apply](https://careers.harris.com/job/-/-/4832/102789757344) |
 | Sunflower Imaging LLC | 🆕 Director of IT | Director | Wichita, KS, USA |  | 2d | [Apply](https://www.indeed.com/viewjob?jk=9f8c9a80bb36d627) |
-| Teladoc Health | 🆕 Director, Software Engineering, Healthcare Interoperability | Director | USA - Any Location (Remote) | $180K–$215K | 2d | [Apply](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Director--Software-Engineering--Healthcare-Interoperability_JR21317) |
 | Origin Bank | 🆕 Director of Technology and AI Governance | Director | Houston, Texas |  | 3d | [Apply](https://www.ziprecruiter.com/c/origin-bank/Job/Director-of-Technology-and-AI-Governance/-in-Houston,TX?jid=bc1901690022ab40) |
 
 <a name="houston-area"></a>
@@ -710,6 +711,7 @@ _1 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| GSK | 🆕 Director, Commercial Data Products | Director | Philadelphia, Pennsylvania, United States  |  | 1d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB450381EXTERNALENGB) |
 | Highmark Health | 🆕 Director AI Finance Transformation | Director | PA, Working at Home - Pennsylvania +51 · Remote |  | 1d | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Director-AI-Finance-Transformation_J291435) |
 | JPMorgan Chase ⭐ | 🆕 AI/ML Data and Analytics - Strategic Product Manager, Vice President | VP | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796321) |
 | LPL Financial | 🆕 SVP, Head of Development Practices & AI Product Development Lifecycle | EVP/SVP | Austin TX +2 |  | 1d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/SVP--Head-of-Development-Practices---AI-Product-Development-Lifecycle_R-054699) |
@@ -959,9 +961,8 @@ _1 older roles in this section are in data/roles.json on the `data` branch._
 | American Lebanese Syrian Associated Charities | Sr Director - Data Governance & Enablement (Memphis, TN or Remote in USA) | Sr. Director | Memphis, TN |  | 8d | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Sr-Director---Data-Governance---Enablement--Memphis--TN-or-Remote-in-USA-_R0011285-1) |
 | Capital One ⭐ | Business Director - AI/ML Product Strategy & Operations | Director | New York, NY +1 | $251K–$287K | 8d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Business-Director---AI-ML-Product-Strategy---Operations_R1004640-2) |
 | CarMax | Director, Data Engineering and Platform | Director | Corporate - Richmond +1 |  | 8d | [Apply](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Director--Data-Engineering-and-Platform_JR-188804) |
-| Mayo Clinic | Senior Director - AI | Sr. Director | Rochester, MN, USA | $248K–$372K | 8d | [Apply](https://jobs.mayoclinic.org/job/rochester/senior-director-ai/33647/102535081472) |
 
-_710 older roles in this section are in data/roles.json on the `data` branch._
+_711 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -970,8 +971,8 @@ _710 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | GM Financial | 🆕 VP IT Operations - Workplace Experience | VP | Arlington, TX, United States |  | 1d | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261234) [alt](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/261234) |
-| Cambridge Investment Research, Inc. | 🆕 Director, Application & Production Operations | Director | Phoenix, AZ +1 |  | 1d | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) [alt](https://cir.wd108.myworkdayjobs.com/en-US/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) |
 | Cambridge Investment Research, Inc. | 🆕 Director, IT Infrastructure and Platform Operations | Director | Phoenix, AZ +1 |  | 1d | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Director--Technology-Operations_R-2025-289) [alt](https://cir.wd108.myworkdayjobs.com/en-US/CIR_External_Career_Site/job/Phoenix-AZ/Director--Technology-Operations_R-2025-289) |
+| Cambridge Investment Research, Inc. | 🆕 Director, Application & Production Operations | Director | Phoenix, AZ +1 |  | 1d | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) [alt](https://cir.wd108.myworkdayjobs.com/en-US/CIR_External_Career_Site/job/Phoenix-AZ/Director--Application---Production-Operations_R-2025-290) |
 | Fidelity ⭐ | 🆕 Director, Digital Assets Operations - InvestOne & Registered Funds | Director | Boston, MA |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Director--Digital-Assets-Accounting_2130920) |
 | University of Virginia | 🆕 Director of Operations, Department of Systems and Information Engineering (SIE) | Director | Charlottesville, Virginia, United States o |  | 1d | [Apply](https://careers.uvahealth.org/us/en/job/UOVUNIUSR0088930EXTERNALENUS) |
 | Redis | 🆕 Director, Engineering Operations | Director | United States · Remote | $175K–$250K | 1d | [Apply](https://jobs.ashbyhq.com/redis/d0c71974-3e7c-4080-ad97-7f3c7241fb48) ⚡ |
@@ -1855,6 +1856,7 @@ _195 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Rivian | 🆕 Head of Technology Foundations | Head | Remote: US | $175K–$359K | 0d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3308832c-0b02-4086-a610-2371532e5e99) ⚡ |
 | Thermo Fisher Scientific ⭐ | 🆕 Director, Engineering Systems Design | Director | Pleasanton, California, United States of A |  | 1d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01372212EXTERNALENGLOBAL) |
 | Doctor's Best, Inc. | 🆕 Director of Information Technology | Director | Tustin, CA, USA | $170K–$225K | 1d | [Apply](https://www.indeed.com/viewjob?jk=a8c5ce2c103cc29b) |
 | Omniscius Consulting | 🆕 The Vice President, Enterprise Technology & Innovation | VP | Ashburn, VA, USA |  | 1d | [Apply](https://omnisciusconsulting.applytojob.com/apply/w7a5tMop8d/The-Vice-President-Enterprise-Technology-Innovation?source=INDE&~) |
@@ -1895,7 +1897,7 @@ _195 older roles in this section are in data/roles.json on the `data` branch._
 | Hoerbiger | 🆕 Global Head of Information Technology - IEP Technologies | Head | Marlborough, MA, USA | $190K–$215K | 2d | [Apply](https://careers.hoerbiger.com/job/Global-Head-of-Information-Technology-IEP-Technologies/1701-en_US) |
 | L3Harris | 🆕 Director, Aerospace Engineering | Director | Greenville, TX, USA |  | 2d | [Apply](https://careers.harris.com/job/-/-/4832/102789757344) |
 | Sunflower Imaging LLC | 🆕 Director of IT | Director | Wichita, KS, USA |  | 2d | [Apply](https://www.indeed.com/viewjob?jk=9f8c9a80bb36d627) |
-| Teladoc Health | 🆕 Director, Software Engineering, Healthcare Interoperability | Director | USA - Any Location (Remote) | $180K–$215K | 2d | [Apply](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Director--Software-Engineering--Healthcare-Interoperability_JR21317) |
+| Teladoc Health | Director, Software Engineering, Healthcare Interoperability | Director | USA - Any Location (Remote) | $180K–$215K | 2d | [Apply](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Director--Software-Engineering--Healthcare-Interoperability_JR21317) |
 | Penguin Solutions | Director, Integration Engineering | Director | Durham, NC, USA | $215K–$230K | 2d | [Apply](https://careers.penguinsolutions.com/job/Durham-Director%2C-Integration-Engineering-NC-27703/1447353100/) |
 | Super Micro Computer, Inc. | Director, Optical Transceiver Engineering & Product Management | Director | San Jose, CA, USA | $240K–$270K | 2d | [Apply](https://jobs.supermicro.com/job/San-Jose-Director%2C-Optical-Transceiver-Engineering-&-Product-Management-Cali/1447092500/) |
 | Citi (jobs.citi.com) ⭐ | Applications Engineering Lead - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/applications-engineering-lead-senior-vice-president/287/102816970832) |
@@ -2104,9 +2106,8 @@ _195 older roles in this section are in data/roles.json on the `data` branch._
 | Axon | Sr Director, Software Engineering | Sr. Director | Seattle, Washington, United States | $220K–$352K | 8d | [Apply](https://job-boards.greenhouse.io/axon/jobs/6308656003) ⚡ |
 | Evenlite Inc. | Director of Engineering | Director | Trevose, PA, USA |  | 8d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=494f391d-bb9f-41bb-9884-63111137d2f2&ccId=9203072133624_4&jobId=575188&jwId=9203072133624_2&source=IN&lang=en_US) |
 | Trellis AI | Director of Engineering | Director | San Francisco | $250K–$285K | 8d | [Apply](https://jobs.ashbyhq.com/runtrellis/7733faee-aba4-49d3-b81a-59cccbcbe674) ⚡ [alt](https://jobs.ashbyhq.com/runtrellis/7733faee-aba4-49d3-b81a-59cccbcbe674?utm_source=EPxRDkVRov) |
-| Altek Inc | Director of IS/IT | Director | Liberty Lake, WA, USA |  | 8d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9669c168-826a-4c4d-a513-df073126c538&ccId=19000101_000001&jobId=574836&source=IN&lang=en_US) |
 
-_709 older roles in this section are in data/roles.json on the `data` branch._
+_710 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

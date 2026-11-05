@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,730 open roles** at **1,353 companies** · **145 new in the last 24 hours** · 5,718 company career sites watched · updated hourly · last update Nov 05, 2026 02:45 AM ET
+**3,731 open roles** at **1,353 companies** · **146 new in the last 24 hours** · 5,724 company career sites watched · updated hourly · last update Nov 05, 2026 03:45 AM ET
 
-By level: Director 1912 · VP 750 · Sr. Director 457 · Head 239 · EVP/SVP 145 · C-level 109 · ED 87 · MD 31
+By level: Director 1912 · VP 750 · Sr. Director 458 · Head 239 · EVP/SVP 145 · C-level 109 · ED 87 · MD 31
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (145)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (146)](#new-in-the-last-24-hours)
 - [🤠 Houston area (115)](#houston-area)
 - [👑 Executive Technology Leadership (112)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (252)](#security-risk-technology)
-- [🧠 Data & AI (965)](#data-ai)
+- [🧠 Data & AI (966)](#data-ai)
 - [🚦 Reliability & Operations (257)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (348)](#cloud-infrastructure)
 - [🏛️ Architecture (103)](#architecture)
 - [🔄 Transformation & Delivery (450)](#transformation-delivery)
 - [🛠️ Engineering & Software (968)](#engineering-software)
 - [📌 Other Senior Roles (275)](#other-senior-roles)
-- [🔒 Recently closed (167)](#recently-closed)
+- [🔒 Recently closed (166)](#recently-closed)
 - Daily digests: [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,8 +47,8 @@ By level: Director 1912 · VP 750 · Sr. Director 457 · Head 239 · EVP/SVP 145
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Opentrons Labworks | 🆕 Director of Hardware Engineering | Director | Long Island City, NY, USA | $230K–$260K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=o7A0Afw1&s=Indeed) |
 | Gemological Institute of America | 🆕 Sr. Director, Enterprise Applications & Data Science (AI) | Sr. Director | Carlsbad, CA, USA | $210K–$260K | 0d | [Apply](https://gia.wd1.myworkdayjobs.com/en-US/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Sr-Director--Enterprise-Applications---Data-Science--AI-_R0011675) |
+| Opentrons Labworks | 🆕 Director of Hardware Engineering | Director | Long Island City, NY, USA | $230K–$260K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=o7A0Afw1&s=Indeed) |
 | Georgia's Own Credit Union | 🆕 VP, Digital | VP | Hybrid - Georgia |  | 0d | [Apply](https://georgiasown.wd1.myworkdayjobs.com/en-US/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544) |
 | Coinigy | 🆕 Chief Technology Officer | C-level | Milwaukee, WI, USA | $250K–$350K | 0d | [Apply](https://www.indeed.com/viewjob?jk=e1e31dca993c5fdb) |
 | GE HealthCare | 🆕 Sr Director - Program Management | Sr. Director | Waukesha, WI, USA | $172K–$258K | 0d | [Apply](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4048786EXTERNALENGLOBAL/Sr-Director-Program-Management?utm_source=indeed&utm_medium=phenom-feeds) |
@@ -60,6 +60,7 @@ By level: Director 1912 · VP 750 · Sr. Director 457 · Head 239 · EVP/SVP 145
 | Information Technology Senior Management Forum | 🆕 Director, Risk Advisory - Global Payment Networks | Director | McLean, VA, USA | $210K–$287K | 0d | [Apply](https://jobs.itsmfleaders.org/job/dj3xmb/director-risk-advisory-global-payment-networks/mclean/va) |
 | UForce | 🆕 Director of Mission Operations – Unmanned Systems | Director | VA, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/uforce/d86d6f15-dc50-43f9-a43a-9baab423e99e?utm_source=g8OE11Jzp6) |
 | Rivian | 🆕 Head of Technology Foundations | Head | Remote: US | $175K–$359K | 0d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3308832c-0b02-4086-a610-2371532e5e99) ⚡ |
+| Gemological Institute of America | 🆕 Sr. Director, Enterprise Applications & Data Science (AI) | Sr. Director | Gemological Institute of America, Inc. (Ca | $210K–$260K | 1d | [Apply](https://gia.wd1.myworkdayjobs.com/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Sr-Director--Enterprise-Applications---Data-Science--AI-_R0011675) |
 | Linxon | 🆕 Project Director, Energy and Infrastructure (Raleigh, NC) | Director | US.NC.Raleigh.940 Main Campus Drive | $135K–$261K | 1d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Project-Director--Energy-and-Infrastructure--Raleigh--NC-_R-170998-1) |
 | Apple | 🆕 Director, Automation & Tools - Camera & Photos | Director | Cupertino, CA, USA | $311K–$497K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200665545-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200665545-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4edf2ad2-d7fe-11f1-a309-0328b4b5feb8%26rx_job%3D200665545-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261105T040407Z%26rx_vp%3Dcpc) |
 | AtkinsRéalis | 🆕 Project Director, Energy and Infrastructure (Raleigh, NC) | Director | Raleigh, NC, USA | $135K–$261K | 1d | [Apply](https://careers.atkinsrealis.com/en/jobs/project-director-energy-and-infrastructure-raleigh-nc-r-170998?utm_source=indeed_feed) |
@@ -702,6 +703,7 @@ _2 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Gemological Institute of America | 🆕 Sr. Director, Enterprise Applications & Data Science (AI) | Sr. Director | Carlsbad, CA, USA | $210K–$260K | 0d | [Apply](https://gia.wd1.myworkdayjobs.com/en-US/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Sr-Director--Enterprise-Applications---Data-Science--AI-_R0011675) |
+| Gemological Institute of America | 🆕 Sr. Director, Enterprise Applications & Data Science (AI) | Sr. Director | Gemological Institute of America, Inc. (Ca | $210K–$260K | 1d | [Apply](https://gia.wd1.myworkdayjobs.com/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Sr-Director--Enterprise-Applications---Data-Science--AI-_R0011675) |
 | American National Red Cross | 🆕 Analytics Director, Data Modeling and Automation | Director | Statewide, DC +7 · Remote |  | 1d | [Apply](https://americanredcross.wd1.myworkdayjobs.com/American_Red_Cross_Careers/job/Statewide-DC/Analytics-Director--Data-Modeling-and-Automation_RC92181) |
 | GSK | 🆕 Director, Commercial Data Products | Director | Philadelphia, Pennsylvania, United States  |  | 1d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB450381EXTERNALENGB) |
 | Highmark Health | 🆕 Director AI Finance Transformation | Director | PA, Working at Home - Pennsylvania +51 · Remote |  | 1d | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Director-AI-Finance-Transformation_J291435) |
@@ -950,9 +952,8 @@ _2 older roles in this section are in data/roles.json on the `data` branch._
 | Fidelity ⭐ | Director, Software Engineering- Machine Learning (Individual Contributor) | Director | Boston, MA |  | 8d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Director--Software-Engineering--Machine-Learning--Individual-Contributor-_2137574) |
 | Guidehouse | Director - AI & Data - Energy Providers | Director | US - CO, Boulder +1 · Remote |  | 8d | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CO-Boulder/Director---AI---Data---Energy-Providers_45751) |
 | HP | Director - Product Ownership for Agentic AI PCs | Director | Palo Alto, California, United States of Am +1 |  | 8d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Director---Product-Ownership-for-Agentic-AI-PCs_3168690-1) |
-| HP | Director - Agentic AI Computing Foundation | Director | Spring, Texas, United States of America +1 |  | 8d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Director---Agentic-AI-Computing-Foundation_3168691-1) |
 
-_715 older roles in this section are in data/roles.json on the `data` branch._
+_716 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2533,7 +2534,6 @@ _25 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🔒 Executive Director - Senior Solutions Director - Data and AI Fusion Platform | ED | New York, NY, United States |  | 17d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Vice President, Data Management Strategy | VP | Jersey City, NJ, United States |  | 22d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Digital Product Director | Director | NY, United States |  | 15d | Closed |
-| CVS Health ⭐ | 🔒 Lead Director, Platform Management | Director | AZ - Work from home +17 · Remote |  | 15d | Closed |
 
 </details>
 

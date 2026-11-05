@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,730 open roles** at **1,352 companies** · **140 new in the last 24 hours** · 5,724 company career sites watched · updated hourly · last update Nov 05, 2026 04:36 AM ET
+**3,733 open roles** at **1,355 companies** · **142 new in the last 24 hours** · 5,724 company career sites watched · updated hourly · last update Nov 05, 2026 05:34 AM ET
 
-By level: Director 1912 · VP 749 · Sr. Director 458 · Head 239 · EVP/SVP 145 · C-level 109 · ED 87 · MD 31
+By level: Director 1912 · VP 749 · Sr. Director 458 · Head 240 · EVP/SVP 145 · C-level 110 · ED 88 · MD 31
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (140)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (142)](#new-in-the-last-24-hours)
 - [🤠 Houston area (115)](#houston-area)
-- [👑 Executive Technology Leadership (112)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (113)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (252)](#security-risk-technology)
 - [🧠 Data & AI (966)](#data-ai)
-- [🚦 Reliability & Operations (257)](#reliability-operations)
+- [🚦 Reliability & Operations (258)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (348)](#cloud-infrastructure)
 - [🏛️ Architecture (103)](#architecture)
 - [🔄 Transformation & Delivery (450)](#transformation-delivery)
-- [🛠️ Engineering & Software (967)](#engineering-software)
+- [🛠️ Engineering & Software (968)](#engineering-software)
 - [📌 Other Senior Roles (275)](#other-senior-roles)
 - [🔒 Recently closed (167)](#recently-closed)
 - Daily digests: [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md) · [10-30](data/daily/2026-10-30.md)
@@ -47,6 +47,9 @@ By level: Director 1912 · VP 749 · Sr. Director 458 · Head 239 · EVP/SVP 145
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Tacit | 🆕 Head of Software | Head | San Francisco, CA, USA | $200K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/tacit/f2369d80-b161-47cd-a595-ba2debfa7d50?utm_source=ZvL84Ov3gV) |
+| City of Tacoma | 🆕 Chief Technology Officer | C-level | Tacoma, WA, USA | $203K–$285K | 0d | [Apply](https://www.governmentjobs.com/careers/tacoma/jobs/5514412/chief-technology-officer) |
+| Gwinnett County Public Schools | 🆕 Executive Director Enterprise Application Development, Administration, and Support | ED | Suwanee, GA, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5982327) |
 | Gemological Institute of America | 🆕 Sr. Director, Enterprise Applications & Data Science (AI) | Sr. Director | Carlsbad, CA, USA | $210K–$260K | 0d | [Apply](https://gia.wd1.myworkdayjobs.com/en-US/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Sr-Director--Enterprise-Applications---Data-Science--AI-_R0011675) |
 | Opentrons Labworks | 🆕 Director of Hardware Engineering | Director | Long Island City, NY, USA | $230K–$260K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=o7A0Afw1&s=Indeed) |
 | Georgia's Own Credit Union | 🆕 VP, Digital | VP | Hybrid - Georgia |  | 0d | [Apply](https://georgiasown.wd1.myworkdayjobs.com/en-US/GeorgiasOwnCareers/job/Hybrid---Georgia/VP--Digital_R-101544) |
@@ -178,7 +181,6 @@ By level: Director 1912 · VP 749 · Sr. Director 458 · Head 239 · EVP/SVP 145
 | CircleCI | 🆕 VP, Customer Engineering & Success | VP | San Francisco, CA | $262K–$327K | 1d | [Apply](http://www.circleci.com/careers/jobs/8918381002/?gh_jid=8918381002) ⚡ |
 | Marrow Therapeutics | 🆕 Director, Information Technology | Director | Watertown, MA, USA |  | 1d | [Apply](https://marrow-therapeutics.careers-page.com/jobs/d46d8887-3d7f-45d2-b77a-2f4e82471ad6?utm_medium=free_job_board&utm_source=indeed) |
 | Visa | 🆕 Senior Director, Head of Data & Analytics Delivery, VCA-X | Head | IN - Bengaluru, India |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Senior-Director--Head-of-Data---Analytics-Delivery--VCA-X--Visa-Consulting---Analytics_REF088841W) |
-| NAVBLUE US, Inc. | 🆕 SVP Personal Secretary for the Airbus Chief Industrial Architect (M/F) | EVP/SVP | Toulouse Area |  | 1d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/SVP-Personal-Secretary-for-the-Airbus-Chief-Industrial-Architect--M-F-_JR10452540-1) |
 | AI Pulse | 🆕 VP, AI | VP | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-28643-696e0835fabe0df81ad84e96040f0726) |
 | Fluence | 🆕 Global Director, Cloud Infra | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-2439-4bbe71295276a9fc32af2cc70ce26277) |
 | Pwc | 🆕 SAP Tech Director Generalist ( S/4 Migration, Appdev,integration, brown/blue, RISE+ AI) | Director | Houston, Texas | $155K–$410K | 2d | [Apply](https://www.ziprecruiter.com/c/pwc/Job/SAP-Tech-Director-Generalist-(-S-4-Migration,-Appdev,integration,-brown-blue,-RISE+-AI)/-in-Houston,TX?jid=98f93319e08f068d) |
@@ -318,6 +320,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| City of Tacoma | 🆕 Chief Technology Officer | C-level | Tacoma, WA, USA | $203K–$285K | 0d | [Apply](https://www.governmentjobs.com/careers/tacoma/jobs/5514412/chief-technology-officer) |
 | Coinigy | 🆕 Chief Technology Officer | C-level | Milwaukee, WI, USA | $250K–$350K | 0d | [Apply](https://www.indeed.com/viewjob?jk=e1e31dca993c5fdb) |
 | Baxter Health | 🆕 Chief Information Office RHTT - Information Systems | C-level | Mountain Home, AR, USA |  | 1d | [Apply](https://pm.healthcaresource.com/CS/baxter/#/job/10709?source=Indeed) |
 | Pueblo Community College | 🆕 Chief Information Officer and Executive Director of the Governor's Office of Information Technology | C-level | Denver, CO, USA | $231K | 1d | [Apply](https://www.governmentjobs.com/careers/colorado/jobs/5538074/chief-information-officer-and-executive-director-of-the-governors-office-of-info) |
@@ -955,6 +958,7 @@ _716 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Gwinnett County Public Schools | 🆕 Executive Director Enterprise Application Development, Administration, and Support | ED | Suwanee, GA, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5982327) |
 | UForce | 🆕 Director of Mission Operations – Unmanned Systems | Director | VA, USA |  | 0d | [Apply](https://jobs.ashbyhq.com/uforce/d86d6f15-dc50-43f9-a43a-9baab423e99e?utm_source=g8OE11Jzp6) |
 | UForce | 🆕 Director of Mission Operations – Unmanned Systems | Director | United States / Virginia · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/uforce/d86d6f15-dc50-43f9-a43a-9baab423e99e) ⚡ |
 | GM Financial | 🆕 VP IT Operations - Workplace Experience | VP | Arlington, TX, United States |  | 1d | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261234) [alt](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/261234) |
@@ -1204,9 +1208,8 @@ _716 older roles in this section are in data/roles.json on the `data` branch._
 | IQVIA ⭐ | Director, Business Operations, IQVIA Digital | Director | New York, NY,  United States of America +2 |  | 31d | [Apply](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-York-NY--United-States-of-America/Director--Business-Operations--IQVIA-Digital_R1547978) |
 | Salesforce ⭐ | Senior Director, Controllership & Operations Transformation | Sr. Director | Indiana - Indianapolis +1 |  | 34d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Senior-Director--Controllership---Operations_JR357789) |
 | BNY ⭐ | Senior Vice President, Application Support SDG Lead | EVP/SVP | Pittsburgh, PA, United States |  | 34d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80919) |
-| Amazon ⭐ | Director, Software Development, Builder Operations, Amazon SW Builder Experience | Director | Seattle, Washington, USA |  | 35d | [Apply](https://www.amazon.jobs/en/jobs/10567305/director-software-development-builder-operations-amazon-sw-builder-experience) |
 
-_7 older roles in this section are in data/roles.json on the `data` branch._
+_8 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1475,7 +1478,7 @@ _98 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | University of Maryland Global Campus | 🆕 Director, Enterprise Architecture | Director | Adelphi, MD, USA | $200K–$220K | 0d | [Apply](https://careers.umgc.edu/job/director-enterprise-architecture-it-and-project-management-adelphi-md-10026576/) |
 | Thermo Fisher Scientific ⭐ | 🆕 Director, System Architecture & Innovation | Director | Pleasanton, California, United States of A |  | 1d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01372215EXTERNALENGLOBAL) |
-| NAVBLUE US, Inc. | 🆕 SVP Personal Secretary for the Airbus Chief Industrial Architect (M/F) | EVP/SVP | Toulouse Area |  | 1d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/SVP-Personal-Secretary-for-the-Airbus-Chief-Industrial-Architect--M-F-_JR10452540-1) |
+| NAVBLUE US, Inc. | SVP Personal Secretary for the Airbus Chief Industrial Architect (M/F) | EVP/SVP | Toulouse Area |  | 1d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/SVP-Personal-Secretary-for-the-Airbus-Chief-Industrial-Architect--M-F-_JR10452540-1) |
 | Charles Schwab | Director, Architect Principal - Workplace Services Engineering | Director | Southlake, TX, USA | $221K–$252K | 1d | [Apply](https://www.schwabjobs.com/job/southlake/director-architect-principal-workplace-services-engineering/33727/102826240160) |
 | EY | Technology Architect Assistant Director | Director | Hoboken, NJ, USA | $132K–$269K | 2d | [Apply](https://careers.ey.com/ey/job/Hoboken-Technology-Architect-Assistant-Director-NJ-07030/1453927633/) |
 | Brown & Brown Insurance | VP, Enterprise Architecture | VP | Plano, TX, USA |  | 2d | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Enterprise-Architect--Core-Systems_R26_0000003762-1) |
@@ -1842,6 +1845,7 @@ _200 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Tacit | 🆕 Head of Software | Head | San Francisco, CA, USA | $200K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/tacit/f2369d80-b161-47cd-a595-ba2debfa7d50?utm_source=ZvL84Ov3gV) |
 | Opentrons Labworks | 🆕 Director of Hardware Engineering | Director | Long Island City, NY, USA | $230K–$260K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=o7A0Afw1&s=Indeed) |
 | Rivian and Volkswagen Group Technologies | 🆕 Head of Technology Foundations | Head | Remote, USA | $175K–$359K | 0d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3308832c-0b02-4086-a610-2371532e5e99) |
 | Havasu Regional Medical Center | 🆕 Market Director of Information Technology & Systems | Director | Fort Mohave, AZ, USA |  | 0d | [Apply](https://ibnjjb.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/360725) |
@@ -2091,9 +2095,8 @@ _200 older roles in this section are in data/roles.json on the `data` branch._
 | TE Connectivity | Sr. Director, Machine Development Engineering - Optics | Sr. Director | Rochester, PA, USA · Remote | $238K–$356K | 7d | [Apply](https://careers.te.com/job/Sr_-Director%2C-Machine-Development-Engineering-Optics/161677-en_US) |
 | ServiceNow ⭐ | Director, Software Engineering | Director | Santa Clara, CALIFORNIA, us | $221K–$387K | 7d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000158408529-director-software-engineering) ⚡ |
 | RJI Search | Director of IT - Bilingual in Spanish | Director | Stafford, Texas |  | 8d | [Apply](https://www.linkedin.com/jobs/view/director-of-it-bilingual-in-spanish-at-rji-search-4484482101) |
-| Marriott Vacations Worldwide | Director Release Management, Test Environment & Quality Engineering | Director | MVW Headquarters |  | 8d | [Apply](https://mymvw.wd5.myworkdayjobs.com/MVW/job/MVW-Headquarters/Director-Release-Management--Test-Environment---Quality-Engineering_JR95241) |
 
-_717 older roles in this section are in data/roles.json on the `data` branch._
+_718 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

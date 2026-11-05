@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-118 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+119 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Altus Group | 🆕 Director, Product Management | Director | 835 -  New York +2 | $180K–$210K | 0d | [Apply](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/835----New-York/Director-Product-Management_R0014110-1) |
 | Netrality Data Centers | 🆕 Director, Data Center Development | Director | Houston, TX, USA |  | 0d | [Apply](https://ats.rippling.com/netrality-careers/jobs/d7da88d8-d332-4d28-8e8f-bee267ae2ffc?jobSite=Indeed) |
 | Ankura | 🆕 Director/Senior Director, Digital Transformation (IT Services) | Sr. Director | Chicago, IL +14 | $110K–$200K | 0d | [Apply](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/Director-Senior-Director--Digital-Transformation--IT-Services-_R104922) |
 | HPE | 🆕 Senior Director, Storage as a Service | Sr. Director | Andover, Massachusetts, United States of A +1 |  | 0d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/Senior-Director--Storage-as-a-Service_1218364-2) |

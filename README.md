@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,925 open roles** at **1,432 companies** · **203 new in the last 24 hours** · 5,778 company career sites watched · updated hourly · last update Nov 06, 2026 05:46 AM ET
+**3,926 open roles** at **1,433 companies** · **204 new in the last 24 hours** · 5,778 company career sites watched · updated hourly · last update Nov 06, 2026 06:10 AM ET
 
-By level: Director 2012 · VP 777 · Sr. Director 484 · Head 253 · EVP/SVP 151 · C-level 118 · ED 97 · MD 33
+By level: Director 2012 · VP 777 · Sr. Director 484 · Head 254 · EVP/SVP 151 · C-level 118 · ED 97 · MD 33
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (203)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (204)](#new-in-the-last-24-hours)
 - [🤠 Houston area (124)](#houston-area)
 - [👑 Executive Technology Leadership (121)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (268)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2012 · VP 777 · Sr. Director 484 · Head 253 · EVP/SVP 151
 - [☁️ Cloud & Infrastructure (363)](#cloud-infrastructure)
 - [🏛️ Architecture (106)](#architecture)
 - [🔄 Transformation & Delivery (478)](#transformation-delivery)
-- [🛠️ Engineering & Software (1015)](#engineering-software)
+- [🛠️ Engineering & Software (1016)](#engineering-software)
 - [📌 Other Senior Roles (290)](#other-senior-roles)
 - [🔒 Recently closed (173)](#recently-closed)
 - Daily digests: [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md)
@@ -47,14 +47,15 @@ By level: Director 2012 · VP 777 · Sr. Director 484 · Head 253 · EVP/SVP 151
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Hitachi Vantara | 🆕 Senior Director - Technical Alliances | Sr. Director | Santa Clara, California, United States | $275K–$350K | 0d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Senior-Director---Technical-Alliances_R0149117) |
-| Cooper's Hawk Winery & Restaurants | 🆕 Senior Director of Engineering | Sr. Director | Downers Grove, IL, USA | $180K–$220K | 0d | [Apply](https://careers.chwinery.com/en/jobs/18452432-senior-director-of-engineering?tm_job=26-2315&tm_event=view&tm_company=48623) |
-| Penn Medicine | 🆕 Senior Director, Cybersecurity Data and Application | Sr. Director | Philadelphia, PA, USA |  | 0d | [Apply](https://careers.pennmedicine.org/en/jobs/18451872-senior-director-cybersecurity-data-and-application?tm_job=UPHS-INFOR-347349&tm_event=view&tm_company=47008) |
-| Emory University | 🆕 Senior Director of Data Governance | Sr. Director | Atlanta, GA, USA |  | 0d | [Apply](https://staff-emory.icims.com/jobs/184543/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Sensorfact | 🆕 Head of Frontend Engineering | Head | Utrecht Office · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) ⚡ |
 | Amazon Web Services | 🆕 Sr. Principal/Director PMT, Secure Work Enablement | Director | Sunnyvale, CA, USA | $217K–$323K | 0d | [Apply](https://www.amazon.jobs/jobs/10598441/sr-principaldirector-pmt-secure-work-enablement?cmpid=DA_INAD200785B) |
+| Cooper's Hawk Winery & Restaurants | 🆕 Senior Director of Engineering | Sr. Director | Downers Grove, IL, USA | $180K–$220K | 0d | [Apply](https://careers.chwinery.com/en/jobs/18452432-senior-director-of-engineering?tm_job=26-2315&tm_event=view&tm_company=48623) |
+| Emory University | 🆕 Senior Director of Data Governance | Sr. Director | Atlanta, GA, USA |  | 0d | [Apply](https://staff-emory.icims.com/jobs/184543/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | GULF COPPER | 🆕 Director of Information Security Governance Risk and Compliance | Director | Remote, USA |  | 0d | [Apply](https://gulfcopper.applytojob.com/apply/1TQiF8KNtB/Director-Of-Information-Security-Governance-Risk-And-Compliance?source=INDE&~) |
-| Qualus | 🆕 Director, Geospatial Solutions | Director | AZ, USA · Remote |  | 0d | [Apply](https://talent.qualuscorp.com/jobs/5853/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Penn Medicine | 🆕 Senior Director, Cybersecurity Data and Application | Sr. Director | Philadelphia, PA, USA |  | 0d | [Apply](https://careers.pennmedicine.org/en/jobs/18451872-senior-director-cybersecurity-data-and-application?tm_job=UPHS-INFOR-347349&tm_event=view&tm_company=47008) |
 | QED Technologies International | 🆕 Director of Engineering | Director | Rochester, NY, USA | $170K–$206K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91186510-f89c-431c-a1b3-0c8e2a7caac0&ccId=19000101_000001&jobId=616606&source=IN&lang=en_US) |
+| Qualus | 🆕 Director, Geospatial Solutions | Director | AZ, USA · Remote |  | 0d | [Apply](https://talent.qualuscorp.com/jobs/5853/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Hitachi Vantara | 🆕 Senior Director - Technical Alliances | Sr. Director | Santa Clara, California, United States | $275K–$350K | 0d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Senior-Director---Technical-Alliances_R0149117) |
 | Baker Tilly Canada | 🆕 Managing Director, Enterprise Data & Analytics | MD | USA IL Chicago 800 W Fulton +5 |  | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Chicago-800-W-Fulton/Managing-Director--Enterprise-Data---Analytics_JR108937) |
 | Crux AI | 🆕 VP, AI Ops | VP | Palo Alto · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/crux/b48c9435-876c-4f38-89e1-c7cd4cded36e) ⚡ |
 | Compass Group USA | 🆕 Vice President, Data Center Technology | VP | Charlotte, NC, USA |  | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/44dbeadd82458b7689f951ca2fe4aae4f4d2179d48e0868d9c7b436a/) |
@@ -777,8 +778,8 @@ _18 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Penn Medicine | 🆕 Senior Director, Cybersecurity Data and Application | Sr. Director | Philadelphia, PA, USA |  | 0d | [Apply](https://careers.pennmedicine.org/en/jobs/18451872-senior-director-cybersecurity-data-and-application?tm_job=UPHS-INFOR-347349&tm_event=view&tm_company=47008) |
 | Emory University | 🆕 Senior Director of Data Governance | Sr. Director | Atlanta, GA, USA |  | 0d | [Apply](https://staff-emory.icims.com/jobs/184543/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Penn Medicine | 🆕 Senior Director, Cybersecurity Data and Application | Sr. Director | Philadelphia, PA, USA |  | 0d | [Apply](https://careers.pennmedicine.org/en/jobs/18451872-senior-director-cybersecurity-data-and-application?tm_job=UPHS-INFOR-347349&tm_event=view&tm_company=47008) |
 | Baker Tilly Canada | 🆕 Managing Director, Enterprise Data & Analytics | MD | USA IL Chicago 800 W Fulton +5 |  | 0d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Chicago-800-W-Fulton/Managing-Director--Enterprise-Data---Analytics_JR108937) |
 | Crux AI | 🆕 VP, AI Ops | VP | Palo Alto · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/crux/b48c9435-876c-4f38-89e1-c7cd4cded36e) ⚡ |
 | Compass Group USA | 🆕 Vice President, Data Center Technology | VP | Charlotte, NC, USA |  | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/44dbeadd82458b7689f951ca2fe4aae4f4d2179d48e0868d9c7b436a/) |
@@ -1926,9 +1927,10 @@ _228 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Hitachi Vantara | 🆕 Senior Director - Technical Alliances | Sr. Director | Santa Clara, California, United States | $275K–$350K | 0d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Senior-Director---Technical-Alliances_R0149117) |
+| Sensorfact | 🆕 Head of Frontend Engineering | Head | Utrecht Office · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) ⚡ |
 | Cooper's Hawk Winery & Restaurants | 🆕 Senior Director of Engineering | Sr. Director | Downers Grove, IL, USA | $180K–$220K | 0d | [Apply](https://careers.chwinery.com/en/jobs/18452432-senior-director-of-engineering?tm_job=26-2315&tm_event=view&tm_company=48623) |
 | QED Technologies International | 🆕 Director of Engineering | Director | Rochester, NY, USA | $170K–$206K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91186510-f89c-431c-a1b3-0c8e2a7caac0&ccId=19000101_000001&jobId=616606&source=IN&lang=en_US) |
+| Hitachi Vantara | 🆕 Senior Director - Technical Alliances | Sr. Director | Santa Clara, California, United States | $275K–$350K | 0d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Senior-Director---Technical-Alliances_R0149117) |
 | Johns Hopkins Health System | 🆕 IT Assistant Director | Director | Baltimore, MD, USA | $135K–$236K | 0d | [Apply](https://jobs.hopkinsmedicine.org/job/104085/it-assistant-director-information-technology-us-md-baltimore-johns-hopkins-care-at-home/) |
 | Professional Case Management | 🆕 Senior Director, Research Technology | Sr. Director | Almont, CO, USA | $135K–$225K | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/3e72c7524de70d30c17fdb757805c67307a47d7e8b94c3ebf43e5b73/) |
 | 474 MS Services Group, Inc. | 🆕 Vice President - Java Lead for Investment Banking Advisory Technology | VP | US |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Vice-President---Java-Lead-for-Investment-Banking-Advisory-Technology_PT-JR046034) |
@@ -2175,9 +2177,8 @@ _228 older roles in this section are in data/roles.json on the `data` branch._
 | boi | Head of Engineering | Head | Atlanta, GA, USA · Remote | $225K–$300K | 7d | [Apply](https://apply.workable.com/j/259834A555) |
 | Moog, Inc | Engineering Director - EM (opening #2) | Director | Varese, IT +2 |  | 7d | [Apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Varese-IT/Engineering-Director---EM_R-26-21043) |
 | BNY ⭐ | Senior Director, Engineering Group Leader (req 77259) | Sr. Director | New York, NY, United States |  | 7d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77259) |
-| Jefferies LLC | VP, C++ Developer - OMS Technology | VP | New York, NY, United States | $200K–$250K | 7d | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5035) |
 
-_765 older roles in this section are in data/roles.json on the `data` branch._
+_766 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-125 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+126 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Grant Thornton | 🆕 Transformation Director - Anaplan | Director | Houston, TX, United States |  | 0d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116215) |
 | ClickHouse | 🆕 Head of Developer Relations | Head | United States +16 · Remote | $196K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/clickhouse/f8d77096-72a6-41bd-bea5-af2932e394fd) ⚡ |
 | ALDF | 🆕 Technology Director: AI Governance & Salesforce Security | Director | Houston, Texas | $150K–$210K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) |
 | Confidential | 🆕 Senior Vice President of Global IT | EVP/SVP | Houston, Texas |  | 1d | [Apply](https://www.recruit.net/job/vice-president-global-jobs/54774BDABC597555) |

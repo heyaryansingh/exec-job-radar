@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,911 open roles** at **1,423 companies** · **196 new in the last 24 hours** · 5,776 company career sites watched · updated hourly · last update Nov 06, 2026 12:55 AM ET
+**3,911 open roles** at **1,423 companies** · **195 new in the last 24 hours** · 5,777 company career sites watched · updated hourly · last update Nov 06, 2026 01:54 AM ET
 
 By level: Director 2006 · VP 775 · Sr. Director 480 · Head 253 · EVP/SVP 151 · C-level 118 · ED 96 · MD 32
 
@@ -27,7 +27,7 @@ By level: Director 2006 · VP 775 · Sr. Director 480 · Head 253 · EVP/SVP 151
 
 ## Contents
 
-- [🆕 New in the last 24 hours (196)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (195)](#new-in-the-last-24-hours)
 - [🤠 Houston area (124)](#houston-area)
 - [👑 Executive Technology Leadership (121)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (266)](#security-risk-technology)
@@ -38,7 +38,7 @@ By level: Director 2006 · VP 775 · Sr. Director 480 · Head 253 · EVP/SVP 151
 - [🔄 Transformation & Delivery (477)](#transformation-delivery)
 - [🛠️ Engineering & Software (1013)](#engineering-software)
 - [📌 Other Senior Roles (288)](#other-senior-roles)
-- [🔒 Recently closed (173)](#recently-closed)
+- [🔒 Recently closed (172)](#recently-closed)
 - Daily digests: [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -240,7 +240,6 @@ By level: Director 2006 · VP 775 · Sr. Director 480 · Head 253 · EVP/SVP 151
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Project Tech Lead / AI Program Manager - Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/it-project-tech-lead-ai-program-manager-vice-president/287/102872844864) |
 | Guerrilla RF | 🆕 Senior Director of Applications Engineering | Sr. Director | Greensboro, NC, USA | $150K–$200K | 2d | [Apply](https://www.indeed.com/viewjob?jk=0beb126c8663e2ca) |
 | Gemological Institute of America | 🆕 Sr. Director, Enterprise Applications & Data Science (AI) | Sr. Director | Gemological Institute of America, Inc. (Ca | $210K–$260K | 2d | [Apply](https://gia.wd1.myworkdayjobs.com/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Sr-Director--Enterprise-Applications---Data-Science--AI-_R0011675) |
-| Linxon | 🆕 Project Director, Energy and Infrastructure (Raleigh, NC) | Director | US.NC.Raleigh.940 Main Campus Drive | $135K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Project-Director--Energy-and-Infrastructure--Raleigh--NC-_R-170998-1) |
 | Perficient | 🆕 Vice President, Head of Service Practice | VP | Houston, Texas | $200K–$275K | 3d | [Apply](https://www.theladders.com/job/vice-president-head-of-service-practice-perficient-houston-tx_89635927) |
 | Gartner | 🆕 VP, Associate Support & Digital Experience | VP | Stamford, CT +1 |  | 3d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/VP--Associate-Support---Digital-Experience_112516) |
 
@@ -1304,7 +1303,7 @@ _27 older roles in this section are in data/roles.json on the `data` branch._
 | Linxon | Project Director, Energy and Infrastructure (Raleigh, NC) | Director | Raleigh, NC, USA | $135K–$261K | 1d | [Apply](https://slihrms.wd3.myworkdayjobs.com/en-US/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Project-Director--Energy-and-Infrastructure--Raleigh--NC-_R-170998-1) |
 | Google | 🆕 Director, Engineering, Compute Infrastructure, Google Distributed Cloud | Director | San Francisco, California | $307K–$427K | 2d | [Apply](https://www.localjobs.com/job/san-francisco-ca-director-engineering-compute-infrastructure-google-distributed-cloud) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Network Technical Project Manager, Vice President | VP | Mississauga, ON, CA +1 |  | 2d | [Apply](https://jobs.citi.com/job/mississauga/network-technical-project-manager-vice-president/287/102872844608) |
-| Linxon | 🆕 Project Director, Energy and Infrastructure (Raleigh, NC) | Director | US.NC.Raleigh.940 Main Campus Drive | $135K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Project-Director--Energy-and-Infrastructure--Raleigh--NC-_R-170998-1) |
+| Linxon | Project Director, Energy and Infrastructure (Raleigh, NC) | Director | US.NC.Raleigh.940 Main Campus Drive | $135K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Project-Director--Energy-and-Infrastructure--Raleigh--NC-_R-170998-1) |
 | AtkinsRéalis | Project Director, Energy and Infrastructure (Raleigh, NC) | Director | Raleigh, NC, USA | $135K–$261K | 2d | [Apply](https://careers.atkinsrealis.com/en/jobs/project-director-energy-and-infrastructure-raleigh-nc-r-170998?utm_source=indeed_feed) |
 | Axon Enterprise | Senior Director, Cloud Infrastructure | Sr. Director | Seattle, Washington |  | 2d | [Apply](https://us.trabajo.org/job-2439-ccee5b049fc186f54267ed9df0935fe3) |
 | Cambro Manufacturing | Head of Global IT Infrastructure & Cloud | Head | Huntington Beach, California | $165K–$200K | 2d | [Apply](https://www.careerboard.com/us/en/extjob/HEAD-OF-GLOBAL-IT-INFRASTRUCTURE-CLOUD-in-Huntington-Beach-California-USA-12303B50A7B782E117/) |
@@ -2611,7 +2610,6 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | IFS | 🔒 Director, Global Value Engineering | Director | Itasca, Illinois, us · Remote |  | 17d | Closed [alt](https://jobs.smartrecruiters.com/IFS1/744000156567464-director-global-value-engineering) |
 | Shield AI | 🔒 Director, IT Infrastructure Services (R6338) | Director | United States | $190K–$340K | 19d | Closed [alt](https://jobs.lever.co/shieldai/581cc2e0-9ad3-4a5a-98e4-d21500210ee9) |
 | Shield AI | 🔒 Director, IT Project Management (R6372) | Director | Remote | $210K–$320K | 18d | Closed |
-| Davita | 🔒 Sr Director, Technical Delivery (Technology) | Sr. Director | 06794 - Falcon Physician-Silver |  | 16d | Closed |
 
 </details>
 

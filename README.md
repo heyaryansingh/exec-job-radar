@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,926 open roles** at **1,433 companies** · **204 new in the last 24 hours** · 5,778 company career sites watched · updated hourly · last update Nov 06, 2026 06:10 AM ET
+**3,926 open roles** at **1,433 companies** · **203 new in the last 24 hours** · 5,778 company career sites watched · updated hourly · last update Nov 06, 2026 06:46 AM ET
 
 By level: Director 2012 · VP 777 · Sr. Director 484 · Head 254 · EVP/SVP 151 · C-level 118 · ED 97 · MD 33
 
@@ -27,7 +27,7 @@ By level: Director 2012 · VP 777 · Sr. Director 484 · Head 254 · EVP/SVP 151
 
 ## Contents
 
-- [🆕 New in the last 24 hours (204)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (203)](#new-in-the-last-24-hours)
 - [🤠 Houston area (124)](#houston-area)
 - [👑 Executive Technology Leadership (121)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (268)](#security-risk-technology)
@@ -250,7 +250,6 @@ By level: Director 2012 · VP 777 · Sr. Director 484 · Head 254 · EVP/SVP 151
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Project Tech Lead / AI Program Manager - Vice President | VP | Irving, TX, US |  | 2d | [Apply](https://jobs.citi.com/job/irving/it-project-tech-lead-ai-program-manager-vice-president/287/102872844864) |
 | Guerrilla RF | 🆕 Senior Director of Applications Engineering | Sr. Director | Greensboro, NC, USA | $150K–$200K | 2d | [Apply](https://www.indeed.com/viewjob?jk=0beb126c8663e2ca) |
 | Perficient | 🆕 Vice President, Head of Service Practice | VP | Houston, Texas | $200K–$275K | 3d | [Apply](https://www.theladders.com/job/vice-president-head-of-service-practice-perficient-houston-tx_89635927) |
-| Gartner | 🆕 VP, Associate Support & Digital Experience | VP | Stamford, CT +1 |  | 3d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/VP--Associate-Support---Digital-Experience_112516) |
 
 <a name="houston-area"></a>
 
@@ -1074,7 +1073,7 @@ _756 older roles in this section are in data/roles.json on the `data` branch._
 | The Estate Lawyers APC | Director of Operations and Technology | Director | Irvine, CA, USA | $175K–$220K | 2d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=393af692-b33b-4d1c-b643-23b35220ef0d&ccId=19000101_000001&jobId=16018&source=IN&lang=en_US) |
 | Freeman | Director Technology Support | Director | Dallas, TX, USA |  | 2d | [Apply](https://career8.successfactors.com/career?career%5fns=job%5flisting&company=freemanP1&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=94861&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=eKWPGtsh0ZYw4mWUQBE1hFLRhEtEkY94In9Iri1DZLs%3d) |
 | Terumo Neuro | Director, Quality Engineering Production Support | Director | Aliso Viejo, CA, USA | $180K–$225K | 2d | [Apply](https://www.microvention.com/jobs/15046BR) |
-| Gartner | 🆕 VP, Associate Support & Digital Experience | VP | Stamford, CT +1 |  | 3d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/VP--Associate-Support---Digital-Experience_112516) |
+| Gartner | VP, Associate Support & Digital Experience | VP | Stamford, CT +1 |  | 3d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/VP--Associate-Support---Digital-Experience_112516) |
 | Travere | Vice President, People Technology and Operations | VP | San Diego +1 · Remote |  | 3d | [Apply](https://travere.wd1.myworkdayjobs.com/TravereCareers/job/San-Diego/Vice-President--People-Technology-and-Operations_R-101007) [alt](https://travere.wd1.myworkdayjobs.com/traverecareers/job/san-diego/vice-president--people-technology-and-operations_r-101007) |
 | Agri Beef Co. | IT Operations Director | Director | Boise, ID, USA |  | 3d | [Apply](https://recruiting2.ultipro.com/AGR1002AGRI/JobBoard/499dd440-51ce-40a2-b3ef-2f613e6e888b/OpportunityDetail?opportunityId=477e0b85-1b7e-46df-b9de-c8b8c1e08921&postingId=88a5ce09-72fe-4e53-ab96-4b604ffedfcc) |
 | PsiQuantum | Director Quality, Reliability & I/O | Director | New York | $192K–$225K | 3d | [Apply](https://www.psiquantum.com/apply?gh_jid=8184378003) ⚡ |

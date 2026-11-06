@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**3,887 open roles** at **1,411 companies** · **196 new in the last 24 hours** · 5,767 company career sites watched · updated hourly · last update Nov 05, 2026 09:06 PM ET
+**3,887 open roles** at **1,411 companies** · **196 new in the last 24 hours** · 5,767 company career sites watched · updated hourly · last update Nov 05, 2026 09:40 PM ET
 
 By level: Director 1992 · VP 768 · Sr. Director 481 · Head 252 · EVP/SVP 150 · C-level 116 · ED 96 · MD 32
 
@@ -50,13 +50,14 @@ By level: Director 1992 · VP 768 · Sr. Director 481 · Head 252 · EVP/SVP 150
 | Fortive | 🆕 Senior Director, Product & AI Security | Sr. Director | Remote, USA | $192K–$358K | 0d | [Apply](https://fortive.eightfold.ai/careers/job/893398475334?domain=fortive.com) |
 | Professional Case Management | 🆕 Senior Director, Research Technology | Sr. Director | Almont, CO, USA | $135K–$225K | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/3e72c7524de70d30c17fdb757805c67307a47d7e8b94c3ebf43e5b73/) |
 | Experian | 🆕 Vice President, Data Governance | VP | United States, UNITED STATES, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Experian/744000159995328-vice-president-data-governance) ⚡ |
+| Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | Oakland, California, United States, AMER | $208K–$260K | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8196773003) ⚡ |
 | Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | Denver, Colorado, United States, AMER |  | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8197314003) ⚡ |
 | Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | USA - New York (dbt) | $208K–$260K | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8197319003) ⚡ |
-| Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | Oakland, California, United States, AMER | $208K–$260K | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8196773003) ⚡ |
 | Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | USA - Austin (dbt) |  | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8197321003) ⚡ |
-| HPE | 🆕 Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, California, United States of Am +1 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Director-Product-Manager--Cloud-Infrastructure-and-AI-Networking_1217321-1) |
+| HPE | 🆕 Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, California, United States of Am +1 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Director-Product-Manager--Cloud-Infrastructure-and-AI-Networking_1217321-1) [alt](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS) |
 | Markel Corporation | 🆕 Director, IT | Director | Richmond, VA |  | 1d | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Director--IT_R0024305) |
 | Mount Sinai Medical Center | 🆕 Director - Technology Activation | Director | Miami Beach, FL |  | 1d | [Apply](https://msmc.wd12.myworkdayjobs.com/msmc_careers/job/Miami-Beach-FL/Director---Technology-Activation_JR104684-1) |
+| Form Energy | 🆕 Director, Supplier Industrialization Engineering | Director | Berkeley, CA | $230K–$294K | 1d | [Apply](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe) ⚡ [alt](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe?utm_source=QeK3j8aJ8Z) |
 | Inovonics Wireless | 🆕 Chief Architect | C-level | Westminster, CO, USA | $180K–$240K | 1d | [Apply](https://recruiting.ultipro.com/ROP1001ROPER/JobBoard/c816fd0e-4c92-4fcf-bf2a-68a0fb087430/OpportunityDetail?opportunityId=58a6a281-0446-4fb0-9524-acf6f93d3a56&postingId=5ae2bf16-ba4c-4f8a-a20f-714f7c0fd050) |
 | Mount Sinai Medical Center | 🆕 Director - Technology Activation | Director | Miami, FL, USA |  | 1d | [Apply](https://msmc.wd12.myworkdayjobs.com/msmc_careers/job/Miami-Beach-FL/Director---Technology-Activation_JR104684-1) |
 | New York Life | 🆕 Corporate Vice President - Google Cloud Lead Engineer (GCP) | VP | New York, NY, USA | $148K–$211K | 1d | [Apply](https://careers.newyorklife.com/careers/job/45276990) |
@@ -66,9 +67,8 @@ By level: Director 1992 · VP 768 · Sr. Director 481 · Head 252 · EVP/SVP 150
 | University of Minnesota | 🆕 Deputy Chief Information Officer | C-level | Minneapolis, MN, USA | $250K–$300K | 1d | [Apply](https://hr.myu.umn.edu/jobs/ext/377020) |
 | Urenco | 🆕 Head of Maintenance & Reliability | Head | Eunice, NM, USA | $200K–$250K | 1d | [Apply](https://urencousa-jobs.dzconnex.com/job-details/head-of-maintenance-reliability-in-industrial-maintenance-jobs-1787893) |
 | DigiCert | 🆕 Director of Technical Enablement | Director | US, Remote | $165K–$205K | 1d | [Apply](https://www.digicert.com/careers/?gh_jid=8931096002) ⚡ |
-| WEX Inc. | 🆕 Director, Software Engineering | Director | Seattle, Washington, United States of Amer |  | 1d | [Apply](https://careers.wexinc.com/us/en/job/WEXWEXUSR23226EXTERNALENUS) |
-| Form Energy | 🆕 Director, Supplier Industrialization Engineering | Director | Berkeley, CA | $230K–$294K | 1d | [Apply](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe) ⚡ [alt](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe?utm_source=QeK3j8aJ8Z) |
 | Arrive Logistics | 🆕 Director of Security | Director | Austin, TX |  | 1d | [Apply](https://jobs.lever.co/arrivelogistics/6a259705-aaba-4457-bc73-d482c44d8c7e) ⚡ [alt](https://jobs.lever.co/arrivelogistics/6a259705-aaba-4457-bc73-d482c44d8c7e?lever-source=Indeed) |
+| WEX Inc. | 🆕 Director, Software Engineering | Director | Seattle, Washington, United States of Amer |  | 1d | [Apply](https://careers.wexinc.com/us/en/job/WEXWEXUSR23226EXTERNALENUS) |
 | University of Miami | 🆕 Executive Director, Information Technology (H) | ED | Miami, FL |  | 1d | [Apply](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Executive-Director--Information-Technology--H-_R100102794-1) [alt](https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Executive-Director--Information-Technology--H-_R100102794-1) |
 | Oracle | 🆕 Environmental Health & Safety Director | Director | Nashville, TN, United States | $115K–$235K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349847) |
 | Capital One ⭐ | 🆕 Senior Director, AI Engineering -Agentic AI Platform(Remote Eligible) | Sr. Director | San Jose, CA +5 · Remote | $343K–$392K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Director--AI-Engineering--Agentic-AI-Platform-Remote-Eligible-_R1005337-1) |
@@ -764,7 +764,7 @@ _12 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Experian | 🆕 Vice President, Data Governance | VP | United States, UNITED STATES, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Experian/744000159995328-vice-president-data-governance) ⚡ |
-| HPE | 🆕 Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, California, United States of Am +1 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Director-Product-Manager--Cloud-Infrastructure-and-AI-Networking_1217321-1) |
+| HPE | 🆕 Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, California, United States of Am +1 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Director-Product-Manager--Cloud-Infrastructure-and-AI-Networking_1217321-1) [alt](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS) |
 | Capital One ⭐ | 🆕 Senior Director, AI Engineering -Agentic AI Platform(Remote Eligible) | Sr. Director | San Jose, CA +5 · Remote | $343K–$392K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Senior-Director--AI-Engineering--Agentic-AI-Platform-Remote-Eligible-_R1005337-1) |
 | GitLab | 🆕 Director, Data Science | Director | Remote, Canada +1 | $210K–$314K | 1d | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8931768002) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Wealth Management - Senior Lead Data Architect - Vice President | VP | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806950) |
@@ -1022,9 +1022,9 @@ _748 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | Oakland, California, United States, AMER | $208K–$260K | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8196773003) ⚡ |
 | Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | Denver, Colorado, United States, AMER |  | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8197314003) ⚡ |
 | Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | USA - New York (dbt) | $208K–$260K | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8197319003) ⚡ |
-| Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | Oakland, California, United States, AMER | $208K–$260K | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8196773003) ⚡ |
 | Fivetran | 🆕 Global Head of Deal Strategy and Operations | Head | USA - Austin (dbt) |  | 1d | [Apply](https://www.fivetran.com/careers/job?gh_jid=8197321003) ⚡ |
 | Toshiba Global Commerce Solutions | 🆕 Executive Director of Software Engineering and Operations | ED | Cary, NC, USA |  | 1d | [Apply](https://grnh.se/5bkchjcl7us) |
 | Urenco | 🆕 Head of Maintenance & Reliability | Head | Eunice, NM, USA | $200K–$250K | 1d | [Apply](https://urencousa-jobs.dzconnex.com/job-details/head-of-maintenance-reliability-in-industrial-maintenance-jobs-1787893) |
@@ -1915,11 +1915,11 @@ _223 older roles in this section are in data/roles.json on the `data` branch._
 | Professional Case Management | 🆕 Senior Director, Research Technology | Sr. Director | Almont, CO, USA | $135K–$225K | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/3e72c7524de70d30c17fdb757805c67307a47d7e8b94c3ebf43e5b73/) |
 | Markel Corporation | 🆕 Director, IT | Director | Richmond, VA |  | 1d | [Apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Director--IT_R0024305) |
 | Mount Sinai Medical Center | 🆕 Director - Technology Activation | Director | Miami Beach, FL |  | 1d | [Apply](https://msmc.wd12.myworkdayjobs.com/msmc_careers/job/Miami-Beach-FL/Director---Technology-Activation_JR104684-1) |
+| Form Energy | 🆕 Director, Supplier Industrialization Engineering | Director | Berkeley, CA | $230K–$294K | 1d | [Apply](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe) ⚡ [alt](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe?utm_source=QeK3j8aJ8Z) |
 | Mount Sinai Medical Center | 🆕 Director - Technology Activation | Director | Miami, FL, USA |  | 1d | [Apply](https://msmc.wd12.myworkdayjobs.com/msmc_careers/job/Miami-Beach-FL/Director---Technology-Activation_JR104684-1) |
 | Signicast | 🆕 DIRECTOR - INFORMATION TECHNOLOGY | Director | Hartford, WI, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/formtechnologies/SIGNICAST/jobs/2390) |
 | DigiCert | 🆕 Director of Technical Enablement | Director | US, Remote | $165K–$205K | 1d | [Apply](https://www.digicert.com/careers/?gh_jid=8931096002) ⚡ |
 | WEX Inc. | 🆕 Director, Software Engineering | Director | Seattle, Washington, United States of Amer |  | 1d | [Apply](https://careers.wexinc.com/us/en/job/WEXWEXUSR23226EXTERNALENUS) |
-| Form Energy | 🆕 Director, Supplier Industrialization Engineering | Director | Berkeley, CA | $230K–$294K | 1d | [Apply](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe) ⚡ [alt](https://jobs.ashbyhq.com/formenergy/28362a59-c8ab-4e62-a01a-7e97da7e5ebe?utm_source=QeK3j8aJ8Z) |
 | University of Miami | 🆕 Executive Director, Information Technology (H) | ED | Miami, FL |  | 1d | [Apply](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Executive-Director--Information-Technology--H-_R100102794-1) [alt](https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Executive-Director--Information-Technology--H-_R100102794-1) |
 | Faith Regional Health Services | 🆕 Director-Information Technology | Director | Norfolk, NE, USA |  | 1d | [Apply](https://CSS-FAITHREGIONAL-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(100,2535,1).JobPostingDisplayNav?csk.HROrganization=100&csk.JobBoard=EXTERNAL) |
 | Parsons | 🆕 Technical Director, Aviation Sector | Director | Remote, USA | $201K–$384K | 1d | [Apply](https://jobs.parsons.com/jobs/technical-director-aviation-sector-virtual-r-188269-jobs--executive--) |

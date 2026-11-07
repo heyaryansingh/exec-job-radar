@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,099 open roles** at **1,512 companies** · **187 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 07:53 AM ET
+**4,099 open roles** at **1,512 companies** · **184 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 08:53 AM ET
 
 By level: Director 2110 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154 · C-level 126 · ED 103 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2110 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (187)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (184)](#new-in-the-last-24-hours)
 - [🤠 Houston area (134)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (276)](#security-risk-technology)
@@ -48,9 +48,9 @@ By level: Director 2110 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Chubb Insurance | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, USA | $200K–$230K | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/37870) |
+| Levy | 🆕 Director of Artificial Intelligence | Director | Chicago, IL, USA | $140K–$200K | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/465d42e19bec84706265ee0e089f72c086dd43723d53c49d951ff816/) |
 | Marvell Technology | 🆕 Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 0d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
 | THE LITTLE LIGHT HOUSE | 🆕 Director of Information Technology | Director | Tulsa, OK, USA |  | 0d | [Apply](https://www.hralliance.net/Apply/JobInfo.aspx?positionId=49405&locationId=13238&source=Indeed) |
-| Levy | 🆕 Director of Artificial Intelligence | Director | Chicago, IL, USA | $140K–$200K | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/465d42e19bec84706265ee0e089f72c086dd43723d53c49d951ff816/) |
 | Mutual of Omaha | 🆕 IS Area Director | Director | Remote, USA | $190K–$215K | 0d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
 | Mutual of Omaha | 🆕 Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 0d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
 | DoorLoop | 🆕 Director of AI Engineering | Director | Tel Aviv (IL) · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/doorloop/ae0c6c65-d1ce-4f3a-8744-31985e6d2146) ⚡ |
@@ -213,9 +213,6 @@ By level: Director 2110 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154
 | BNY ⭐ | 🆕 Director, Technology Controls Management Framework | Director | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75273) |
 | BNY ⭐ | 🆕 Director, Applied AI Product Manager | Director | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75944) |
 | CVS Health ⭐ | 🆕 Executive Director Digital Product Growth and Membership | ED | FL - Work from home +48 · Remote |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Executive-Director-Digital-Product-Growth-and-Membership_R1080859) |
-| WSP | 🆕 Technical Director - Instrumentation & Controls | Director | Oradell, NJ, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98766) |
-| BMO Financial Group | 🆕 Managing Director, U.S. FCM Platform Lead | MD | New York, NY, USA |  | 1d | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Managing-Director--US-FCM-Platform-Lead_R260030828) |
-| Upenn | 🆕 Assistant Director, Technology Licensing | Director | 3600 Civic Center Boulevard - 9th Floor |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/3600-Civic-Center-Boulevard---9th-Floor/Assistant-Director--Technology-Licensing_JR00120037) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
 | DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 2d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
@@ -1310,7 +1307,7 @@ _36 older roles in this section are in data/roles.json on the `data` branch._
 | Deloitte | 🆕 Director, Deloitte Global Network Services | Director | Hermitage, TN, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=374167) |
 | Ashby | 🆕 Head of Platform & Infrastructure Engineering | Head | Remote - US +6 | $340K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/Ashby/5d4863d7-e1d9-4f4e-aed4-79d558185ac9) ⚡ |
 | Cargill | 🆕 Sr. Director, Global Service Now Platform | Sr. Director | Wayzata, MN, USA | $190K–$280K | 1d | [Apply](https://careers.cargill.com/en/job/-/-/23251/102909090976) |
-| BMO Financial Group | 🆕 Managing Director, U.S. FCM Platform Lead | MD | New York, NY, USA |  | 1d | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Managing-Director--US-FCM-Platform-Lead_R260030828) |
+| BMO Financial Group | Managing Director, U.S. FCM Platform Lead | MD | New York, NY, USA |  | 1d | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Managing-Director--US-FCM-Platform-Lead_R260030828) |
 | Energy Exemplar Pty Ltd | 🆕 Director Cloud Architecture & Delivery | Director | Thornton, Colorado | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/thornton/colorado/info_technology/5584360586/e/) |
 | Jobot | 🆕 Director of IT and Infrastructure - FinTech | Director | White Plains, New York | $180K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/white-plains/new-york/info_technology/5584096008/e/) |
 | Business Information Group, Inc. | Director Of Cloud & Infrastructure Services | Director | York Haven, Pennsylvania | $150K–$210K | 2d | [Apply](https://www.learn4good.com/jobs/pennsylvania/info_technology/5587008534/e/) |
@@ -1989,8 +1986,8 @@ _249 older roles in this section are in data/roles.json on the `data` branch._
 | RBC | 🆕 Managing Director - Head of Multi-Asset Agency Solution Technology and Prime Trading Technology | MD | New York, NY, USA | $300K–$400K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191878&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191878%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D834d4f6c-d989-11f1-931e-032fc6ea15f6%26rx_job%3DR-0000191878%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261106T140406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic) |
 | Supabase | 🆕 Director of Technology Partnerships | Director | Remote, San Francisco, CA, US |  | 1d | [Apply](https://jobs.ashbyhq.com/supabase/090aa2a7-e0ee-49a6-837e-6817147d2d31) ⚡ |
 | BNY ⭐ | 🆕 Director, Technology Controls Management Framework | Director | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75273) |
-| WSP | 🆕 Technical Director - Instrumentation & Controls | Director | Oradell, NJ, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98766) |
-| Upenn | 🆕 Assistant Director, Technology Licensing | Director | 3600 Civic Center Boulevard - 9th Floor |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/3600-Civic-Center-Boulevard---9th-Floor/Assistant-Director--Technology-Licensing_JR00120037) |
+| WSP | Technical Director - Instrumentation & Controls | Director | Oradell, NJ, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98766) |
+| Upenn | Assistant Director, Technology Licensing | Director | 3600 Civic Center Boulevard - 9th Floor |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/3600-Civic-Center-Boulevard---9th-Floor/Assistant-Director--Technology-Licensing_JR00120037) |
 | Sensorfact | Head of Frontend Engineering | Head | Utrecht Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) ⚡ |
 | Cooper's Hawk Winery & Restaurants | Senior Director of Engineering | Sr. Director | Downers Grove, IL, USA | $180K–$220K | 1d | [Apply](https://careers.chwinery.com/en/jobs/18452432-senior-director-of-engineering?tm_job=26-2315&tm_event=view&tm_company=48623) |
 | QED Technologies International | Director of Engineering | Director | Rochester, NY, USA | $170K–$206K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91186510-f89c-431c-a1b3-0c8e2a7caac0&ccId=19000101_000001&jobId=616606&source=IN&lang=en_US) |

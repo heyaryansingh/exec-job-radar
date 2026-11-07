@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,095 open roles** at **1,508 companies** · **187 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 05:53 AM ET
+**4,095 open roles** at **1,508 companies** · **186 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 06:53 AM ET
 
 By level: Director 2107 · VP 796 · Sr. Director 510 · Head 261 · EVP/SVP 154 · C-level 126 · ED 103 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2107 · VP 796 · Sr. Director 510 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (187)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (186)](#new-in-the-last-24-hours)
 - [🤠 Houston area (134)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (276)](#security-risk-technology)
@@ -215,7 +215,6 @@ By level: Director 2107 · VP 796 · Sr. Director 510 · Head 261 · EVP/SVP 154
 | AMD | 🆕 Director, Customer Program Management Data Center GPU | Director | Bellevue, WA, USA |  | 1d | [Apply](https://careers.amd.com/jobs/97257/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | RBC | 🆕 Director - Ultra Low-latency Trading System Architect | Director | New York, NY, USA | $210K–$275K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191880&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191880%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D834d6598-d989-11f1-84a8-032fc6ea15f6%26rx_job%3DR-0000191880%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261106T120407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic) |
 | BNY ⭐ | 🆕 Vice President, Data Delivery and Channels | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/78087) |
-| Sensorfact | 🆕 Head of Frontend Engineering | Head | Utrecht Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) ⚡ |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
 | DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 2d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
@@ -1990,7 +1989,7 @@ _248 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | 🆕 Director, Technology Controls Management Framework | Director | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75273) |
 | WSP | 🆕 Technical Director - Instrumentation & Controls | Director | Oradell, NJ, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98766) |
 | Upenn | 🆕 Assistant Director, Technology Licensing | Director | 3600 Civic Center Boulevard - 9th Floor |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/3600-Civic-Center-Boulevard---9th-Floor/Assistant-Director--Technology-Licensing_JR00120037) |
-| Sensorfact | 🆕 Head of Frontend Engineering | Head | Utrecht Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) ⚡ |
+| Sensorfact | Head of Frontend Engineering | Head | Utrecht Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) ⚡ |
 | Cooper's Hawk Winery & Restaurants | Senior Director of Engineering | Sr. Director | Downers Grove, IL, USA | $180K–$220K | 1d | [Apply](https://careers.chwinery.com/en/jobs/18452432-senior-director-of-engineering?tm_job=26-2315&tm_event=view&tm_company=48623) |
 | QED Technologies International | Director of Engineering | Director | Rochester, NY, USA | $170K–$206K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=91186510-f89c-431c-a1b3-0c8e2a7caac0&ccId=19000101_000001&jobId=616606&source=IN&lang=en_US) |
 | Hitachi Vantara | Senior Director - Technical Alliances | Sr. Director | Santa Clara, California, United States | $275K–$350K | 1d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Senior-Director---Technical-Alliances_R0149117) |

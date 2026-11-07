@@ -1,10 +1,10 @@
 # Collector status
 
-- Last run: 2026-11-07T22:34:07+00:00 UTC, 417s
-- Companies working: 632 of 633
-- New roles last run: 4; roles in feed: 1642
+- Last run: 2026-11-07T23:34:44+00:00 UTC, 457s
+- Companies working: 631 of 633
+- New roles last run: 0; roles in feed: 1642
 - Universe (all other known career sites): 5180 boards, 4327 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 416, "senior titles from boards/aggregators": 195}
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
 - Companies with open roles: 1519
 - Skipped (backing off broken sites): 854; ran out of time: 0
 
@@ -13,5 +13,6 @@
 | Company | Failures in a row | Last error |
 |---|---:|---|
 | Anyscale | 16 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
+| Home Depot | 1 | 403 Client Error: Forbidden for url: https://careers.homedepot.com/jobsitemap |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

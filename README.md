@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,101 open roles** at **1,512 companies** · **161 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 11:39 AM ET
+**4,101 open roles** at **1,512 companies** · **161 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 11:46 AM ET
 
 By level: Director 2111 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
@@ -38,7 +38,7 @@ By level: Director 2111 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154
 - [🔄 Transformation & Delivery (499)](#transformation-delivery)
 - [🛠️ Engineering & Software (1072)](#engineering-software)
 - [📌 Other Senior Roles (308)](#other-senior-roles)
-- [🔒 Recently closed (186)](#recently-closed)
+- [🔒 Recently closed (185)](#recently-closed)
 - Daily digests: [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -2612,7 +2612,6 @@ _58 older roles in this section are in data/roles.json on the `data` branch._
 | Rivianvw Tech | 🔒 Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 16d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Digital Engineering, Cloud Platform | Director | CT - Hartford · Remote |  | 25d | Closed |
 | CVS Health ⭐ | 🔒 Director, Digital Strategy & Operations | Director | MA - Work from home +10 · Remote |  | 17d | Closed |
-| Riot Games | 🔒 Director, Technical Product Management: Commerce | Director | Mercer Island, USA |  | 23d | Closed |
 
 </details>
 

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,101 open roles** at **1,513 companies** · **135 new in the last 24 hours** · 5,812 company career sites watched · updated hourly · last update Nov 07, 2026 01:43 PM ET
+**4,101 open roles** at **1,513 companies** · **128 new in the last 24 hours** · 5,812 company career sites watched · updated hourly · last update Nov 07, 2026 02:34 PM ET
 
 By level: Director 2112 · VP 796 · Sr. Director 510 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2112 · VP 796 · Sr. Director 510 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (135)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (128)](#new-in-the-last-24-hours)
 - [🤠 Houston area (134)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (276)](#security-risk-technology)
@@ -159,13 +159,6 @@ By level: Director 2112 · VP 796 · Sr. Director 510 · Head 261 · EVP/SVP 154
 | ICON | 🆕 Technical Director, Off Planet Programs | Director | Austin, Texas, United States |  | 1d | [Apply](https://job-boards.greenhouse.io/iconcareers/jobs/6251845004) ⚡ |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Saint Petersburg, FL, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26132861) |
 | Axiom Space | 🆕 Director, Engineering Analysis | Director | Houston |  | 1d | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Director--Engineering-Analysis_JR100471) |
-| Ashby | 🆕 Head of Platform & Infrastructure Engineering | Head | Remote - US +6 | $340K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/Ashby/5d4863d7-e1d9-4f4e-aed4-79d558185ac9) ⚡ |
-| Marriott International ⭐ | 🆕 Director of Engineering | Director | Washington, DC, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26129974) |
-| Marriott International ⭐ | 🆕 Director, Network Observability & Compliance | Director | Bethesda, MD, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26144275) |
-| MTS Systems Corporation | 🆕 Director, Engineering and Strategic Sourcing | Director | Appleton, Wisconsin, United States of Amer |  | 1d | [Apply](https://careers.itw.com/us/en/job/ITWITWUSJR11004EXTERNALENUS) |
-| USAA ⭐ | 🆕 Director, Information Technology - Database Security | Director | San Antonio Home Office I +1 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Information-Technology---Database-Security_R0120601) |
-| Visa | 🆕 Vice President, Digital Enablement Solutions (DES) | VP | US - Austin, TX |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Vice-President--Digital-Enablement-Solutions--DES-_REF083013W) |
-| Visa | 🆕 Director, VAS Finance Ops & Transformation | Director | US - Foster City, CA |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Director--VAS-Finance-Ops---Transformation_REF087547W) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
 | DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 2d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
@@ -475,7 +468,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Four Seasons | 🆕 Director, Security and Safety | Director | Teton Village, Wyoming, United States of A |  | 1d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10397466EXTERNALENUS) |
 | Pax8 | 🆕 Director of Security GRC | Director | United States |  | 1d | [Apply](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/United-States/Director-of-Security-GRC_R-102512) |
 | BHS | 🆕 System Director, Security and Emergency Management | Director | Louisville, KY |  | 1d | [Apply](https://bhs.wd1.myworkdayjobs.com/careers/job/Louisville-KY/System-Director--Security-and-Emergency-Management_R26109526) |
-| USAA ⭐ | 🆕 Director, Information Technology - Database Security | Director | San Antonio Home Office I +1 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Information-Technology---Database-Security_R0120601) |
+| USAA ⭐ | Director, Information Technology - Database Security | Director | San Antonio Home Office I +1 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Information-Technology---Database-Security_R0120601) |
 | GULF COPPER | Director of Information Security Governance Risk and Compliance | Director | Remote, USA |  | 1d | [Apply](https://gulfcopper.applytojob.com/apply/1TQiF8KNtB/Director-Of-Information-Security-Governance-Risk-And-Compliance?source=INDE&~) |
 | UnitedHealth Group ⭐ | Director, Security Trust Office - On Site MN | Director | Eden Prairie, Minnesota, United States | $135K–$231K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-security-trust-office-on-site-mn/34088/102927102464) |
 | Etix | Head of Information Security | Head | Morrisville, NC, USA |  | 1d | [Apply](https://ats.rippling.com/etix/jobs/22cba9c0-127f-466e-ac5d-13a9d31c2232?jobSite=Indeed) |
@@ -991,7 +984,7 @@ _792 older roles in this section are in data/roles.json on the `data` branch._
 | United Airlines | 🆕 Managing Director - Digital Infrastructure and Reliability | MD | Chicago, Illinois, United States |  | 1d | [Apply](https://careers.united.com/us/en/job/UAIUADUSWHQ00027045EXTERNALENUSTALEO) |
 | World Finance | 🆕 Director of IT Cloud Operations | Director | Greenville, SC, United States |  | 1d | [Apply](https://worldacceptance.wd12.myworkdayjobs.com/World_Finance/job/Greenville-SC-United-States/Director-of-IT-Cloud-Operations_R19562) [alt](https://worldacceptance.wd12.myworkdayjobs.com/World_Finance/job/Greenville-SC-United-States/Director-of-IT-Cloud-Operations_R19562) |
 | Northeastern | 🆕 Director, IT Business Operations | Director | Boston, MA (Main Campus) |  | 1d | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Director--IT-Business-Operations_R140979) |
-| Marriott International ⭐ | 🆕 Director, Network Observability & Compliance | Director | Bethesda, MD, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26144275) |
+| Marriott International ⭐ | Director, Network Observability & Compliance | Director | Bethesda, MD, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26144275) |
 | HarbourVest | Assistant Director, Multimedia Production | Director | Boston |  | 1d | [Apply](https://harbourvest.wd5.myworkdayjobs.com/HVP/job/Boston/Assistant-Director--Multimedia-Production_R2611-1) |
 | Health Care Service | Executive Director Operations Strategy & Transformation - LH | ED | IL - Rosemont · Remote |  | 1d | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Rosemont/Executive-Director-Operations-Strategy---Transformation---LH_R0056372) |
 | BlackRock ⭐ | Vice President, GIP Infrastructure Credit Fund Finance & Operations | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Vice-President--Fund-Finance---GIP-Infrastructure-Credit_R266309) |
@@ -1256,7 +1249,7 @@ _36 older roles in this section are in data/roles.json on the `data` branch._
 | Verizon ⭐ | 🆕 Senior Director-Internal Audit (Network) | Sr. Director | Basking Ridge, New Jersey +3 |  | 1d | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-Director-Internal-Audit--Network-_R-1102896-1) |
 | Year Up United | 🆕 Director, People Platforms (HRIS) | Director | Atlanta +4 |  | 1d | [Apply](https://yearup.wd503.myworkdayjobs.com/YearUp/job/Atlanta/Director--People-Platforms--HRIS-_R3115) |
 | Deloitte | 🆕 Director, Deloitte Global Network Services | Director | Hermitage, TN, USA |  | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=374167) |
-| Ashby | 🆕 Head of Platform & Infrastructure Engineering | Head | Remote - US +6 | $340K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/Ashby/5d4863d7-e1d9-4f4e-aed4-79d558185ac9) ⚡ |
+| Ashby | Head of Platform & Infrastructure Engineering | Head | Remote - US +6 | $340K–$400K | 1d | [Apply](https://jobs.ashbyhq.com/Ashby/5d4863d7-e1d9-4f4e-aed4-79d558185ac9) ⚡ |
 | Cargill | Sr. Director, Global Service Now Platform | Sr. Director | Wayzata, MN, USA | $190K–$280K | 1d | [Apply](https://careers.cargill.com/en/job/-/-/23251/102909090976) |
 | BMO Financial Group | Managing Director, U.S. FCM Platform Lead | MD | New York, NY, USA |  | 1d | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Managing-Director--US-FCM-Platform-Lead_R260030828) |
 | Energy Exemplar Pty Ltd | 🆕 Director Cloud Architecture & Delivery | Director | Thornton, Colorado | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/thornton/colorado/info_technology/5584360586/e/) |
@@ -1631,8 +1624,8 @@ _129 older roles in this section are in data/roles.json on the `data` branch._
 | AbbVie ⭐ | 🆕 Director II, Market Access Transformation and Enablement | Director | Mettawa, IL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016706762-director-ii-market-access-transformation-and-enablement) ⚡ |
 | State Street ⭐ | 🆕 Transformation Director, Managing Director | MD | Boston, Massachusetts +3 | $170K–$252K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Transformation-Director--Managing-Director_R-800884) |
 | Xcel Energy | 🆕 Director, Large Load Program Management | Director | Minneapolis, MN, 55401 +3 |  | 1d | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Director--Large-Load-Program-Management_JR117020-2) |
-| Visa | 🆕 Vice President, Digital Enablement Solutions (DES) | VP | US - Austin, TX |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Vice-President--Digital-Enablement-Solutions--DES-_REF083013W) |
-| Visa | 🆕 Director, VAS Finance Ops & Transformation | Director | US - Foster City, CA |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Director--VAS-Finance-Ops---Transformation_REF087547W) |
+| Visa | Vice President, Digital Enablement Solutions (DES) | VP | US - Austin, TX |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Vice-President--Digital-Enablement-Solutions--DES-_REF083013W) |
+| Visa | Director, VAS Finance Ops & Transformation | Director | US - Foster City, CA |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Director--VAS-Finance-Ops---Transformation_REF087547W) |
 | Coca-Cola ⭐ | Director, RGM Execution Walmart Digital an Still | Director | US - AR - Rogers |  | 1d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---AR---Rogers/Director--RGM-Execution-Walmart-Digital-an-Still_R-148324) |
 | Direct Travel | Sr. Director, Global Technology PMO Leader | Sr. Director | Remote, USA |  | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001236647706&c=2213439&d=ExternalCareerSite&rb=INDEED&idUnique=5001236647706) |
 | Grant Thornton | Transformation Director - Anaplan | Director | Houston, TX, United States |  | 1d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116215) |
@@ -1919,8 +1912,8 @@ _249 older roles in this section are in data/roles.json on the `data` branch._
 | ICON | 🆕 Technical Director, Off Planet Programs | Director | Austin, Texas, United States |  | 1d | [Apply](https://job-boards.greenhouse.io/iconcareers/jobs/6251845004) ⚡ |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Saint Petersburg, FL, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26132861) |
 | Axiom Space | 🆕 Director, Engineering Analysis | Director | Houston |  | 1d | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Director--Engineering-Analysis_JR100471) |
-| Marriott International ⭐ | 🆕 Director of Engineering | Director | Washington, DC, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26129974) |
-| MTS Systems Corporation | 🆕 Director, Engineering and Strategic Sourcing | Director | Appleton, Wisconsin, United States of Amer |  | 1d | [Apply](https://careers.itw.com/us/en/job/ITWITWUSJR11004EXTERNALENUS) |
+| Marriott International ⭐ | Director of Engineering | Director | Washington, DC, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26129974) |
+| MTS Systems Corporation | Director, Engineering and Strategic Sourcing | Director | Appleton, Wisconsin, United States of Amer |  | 1d | [Apply](https://careers.itw.com/us/en/job/ITWITWUSJR11004EXTERNALENUS) |
 | DTCC ⭐ | Automation Engineering Executive Director | ED | Jersey City, NJ, United States |  | 1d | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215100) |
 | Merck | Director, Technical Servies - US Livestock | Director | De Soto, Kansas, United States of America |  | 1d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424752ENUS) |
 | TD | Head of Technology, AML Investigations | Head | New York, New York | $200K–$280K | 1d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Head-of-Technology--AML-Investigations_R_1513946) |

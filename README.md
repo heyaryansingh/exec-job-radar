@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,099 open roles** at **1,512 companies** · **184 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 08:53 AM ET
+**4,099 open roles** at **1,512 companies** · **180 new in the last 24 hours** · 5,810 company career sites watched · updated hourly · last update Nov 07, 2026 09:43 AM ET
 
 By level: Director 2110 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154 · C-level 126 · ED 103 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2110 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (184)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (180)](#new-in-the-last-24-hours)
 - [🤠 Houston area (134)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (276)](#security-risk-technology)
@@ -209,10 +209,6 @@ By level: Director 2110 · VP 797 · Sr. Director 510 · Head 261 · EVP/SVP 154
 | BlackRock ⭐ | 🆕 Vice President, GIP Infrastructure Credit Fund Finance & Operations | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Vice-President--Fund-Finance---GIP-Infrastructure-Credit_R266309) |
 | Jade Global | 🆕 Director, Program Management - Hospitality Client Portfolio | Director | Chicago |  | 1d | [Apply](https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Chicago/Director--Program-Management---Hospitality-Client-Portfolio_R-106557) [alt](https://jadeglobal.wd5.myworkdayjobs.com/en-US/Jade_Careers/job/Chicago/Director--Program-Management---Hospitality-Client-Portfolio_R-106557) |
 | Salesforce ⭐ | 🆕 AI Partnerships, Director | Director | California - San Francisco +4 · Remote | $238K–$345K | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Partnerships--Director_JR350903) |
-| Supabase | 🆕 Director of Technology Partnerships | Director | Remote, San Francisco, CA, US |  | 1d | [Apply](https://jobs.ashbyhq.com/supabase/090aa2a7-e0ee-49a6-837e-6817147d2d31) ⚡ |
-| BNY ⭐ | 🆕 Director, Technology Controls Management Framework | Director | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75273) |
-| BNY ⭐ | 🆕 Director, Applied AI Product Manager | Director | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75944) |
-| CVS Health ⭐ | 🆕 Executive Director Digital Product Growth and Membership | ED | FL - Work from home +48 · Remote |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Executive-Director-Digital-Product-Growth-and-Membership_R1080859) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
 | DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 2d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
@@ -813,7 +809,7 @@ _26 older roles in this section are in data/roles.json on the `data` branch._
 | Socure | 🆕 Head of Data Science, Compliance Products | Head | Hub - San Francisco +3 · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/socure/ab418664-d561-4939-b490-f54886b4dc04) ⚡ |
 | Campaign Finance Board | 🆕 Senior Director of Data | Sr. Director | Manhattan, NY, USA | $200K–$215K | 1d | [Apply](https://cityjobs.nyc.gov/job/senior-director-of-data-in-manhattan-jid-49004) |
 | Salesforce ⭐ | 🆕 AI Partnerships, Director | Director | California - San Francisco +4 · Remote | $238K–$345K | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Partnerships--Director_JR350903) |
-| BNY ⭐ | 🆕 Director, Applied AI Product Manager | Director | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75944) |
+| BNY ⭐ | Director, Applied AI Product Manager | Director | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75944) |
 | AMD | Director, Customer Program Management Data Center GPU | Director | Bellevue, WA, USA |  | 1d | [Apply](https://careers.amd.com/jobs/97257/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | BNY ⭐ | Vice President, Data Delivery and Channels | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/78087) |
 | Emory University | Senior Director of Data Governance | Sr. Director | Atlanta, GA, USA |  | 1d | [Apply](https://staff-emory.icims.com/jobs/184543/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -1689,7 +1685,7 @@ _129 older roles in this section are in data/roles.json on the `data` branch._
 | Egis Group | 🆕 Program Director - TSMO and Emerging Technology | Director | Tampa, FL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000160236309-program-director-tsmo-and-emerging-technology) ⚡ |
 | University of Notre Dame | 🆕 Director of Technology & Digital Strategy | Director | Notre Dame, IN, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016691805-director-of-technology-digital-strategy) ⚡ |
 | Jade Global | 🆕 Director, Program Management - Hospitality Client Portfolio | Director | Chicago |  | 1d | [Apply](https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Chicago/Director--Program-Management---Hospitality-Client-Portfolio_R-106557) [alt](https://jadeglobal.wd5.myworkdayjobs.com/en-US/Jade_Careers/job/Chicago/Director--Program-Management---Hospitality-Client-Portfolio_R-106557) |
-| CVS Health ⭐ | 🆕 Executive Director Digital Product Growth and Membership | ED | FL - Work from home +48 · Remote |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Executive-Director-Digital-Product-Growth-and-Membership_R1080859) |
+| CVS Health ⭐ | Executive Director Digital Product Growth and Membership | ED | FL - Work from home +48 · Remote |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Executive-Director-Digital-Product-Growth-and-Membership_R1080859) |
 | Zylo | Director of Digital and Demand Generation | Director | Indianapolis, IN, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4644442/ZYLO-INC/Director-of-Digital-and-Demand-Generation?source=Indeed_Feed) |
 | DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 2d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
 | Enerflex | 🆕 Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
@@ -1984,8 +1980,8 @@ _249 older roles in this section are in data/roles.json on the `data` branch._
 | USAA ⭐ | 🆕 Director, SASE Engineering | Director | San Antonio Home Office I |  | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--SASE-Engineering_R0122031) |
 | Hitachi Energy | 🆕 Senior Director - Technical Alliances | Sr. Director | Santa Clara, CA, USA | $275K–$350K | 1d | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Senior-Director---Technical-Alliances_R0149117) |
 | RBC | 🆕 Managing Director - Head of Multi-Asset Agency Solution Technology and Prime Trading Technology | MD | New York, NY, USA | $300K–$400K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191878&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191878%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D834d4f6c-d989-11f1-931e-032fc6ea15f6%26rx_job%3DR-0000191878%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261106T140406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic) |
-| Supabase | 🆕 Director of Technology Partnerships | Director | Remote, San Francisco, CA, US |  | 1d | [Apply](https://jobs.ashbyhq.com/supabase/090aa2a7-e0ee-49a6-837e-6817147d2d31) ⚡ |
-| BNY ⭐ | 🆕 Director, Technology Controls Management Framework | Director | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75273) |
+| Supabase | Director of Technology Partnerships | Director | Remote, San Francisco, CA, US |  | 1d | [Apply](https://jobs.ashbyhq.com/supabase/090aa2a7-e0ee-49a6-837e-6817147d2d31) ⚡ |
+| BNY ⭐ | Director, Technology Controls Management Framework | Director | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75273) |
 | WSP | Technical Director - Instrumentation & Controls | Director | Oradell, NJ, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98766) |
 | Upenn | Assistant Director, Technology Licensing | Director | 3600 Civic Center Boulevard - 9th Floor |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/3600-Civic-Center-Boulevard---9th-Floor/Assistant-Director--Technology-Licensing_JR00120037) |
 | Sensorfact | Head of Frontend Engineering | Head | Utrecht Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) ⚡ |

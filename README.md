@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,053 open roles** at **1,478 companies** · **182 new in the last 24 hours** · 5,800 company career sites watched · updated hourly · last update Nov 06, 2026 09:13 PM ET
+**4,053 open roles** at **1,478 companies** · **182 new in the last 24 hours** · 5,800 company career sites watched · updated hourly · last update Nov 06, 2026 09:59 PM ET
 
 By level: Director 2089 · VP 784 · Sr. Director 507 · Head 259 · EVP/SVP 153 · C-level 120 · ED 103 · MD 38
 
@@ -55,8 +55,8 @@ By level: Director 2089 · VP 784 · Sr. Director 507 · Head 259 · EVP/SVP 153
 | Walmart | 🆕 Group Director, Technical Program Management - Strategic Partnerships - AI Natives | Director | San Bruno, CA, USA | $254K–$481K | 0d | [Apply](https://click.appcast.io/t/wv3YAKgx-sN3_nCKnXufSlHJM99X9gzRGx3YGA6qSHk=) |
 | Wpromote, LLC | 🆕 Director, Digital PR | Director | Remote, United States |  | 0d | [Apply](https://jobs.lever.co/wpromote/e63e82d1-1cf0-4cbb-b019-0f380b3ed76d) ⚡ |
 | SambaNova Systems | 🆕 Senior Director of IT | Sr. Director | Austin, Texas, United States +1 | $2K–$1,000K | 1d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6233377004) ⚡ |
-| SiFive | 🆕 Sr Director, SW Product Management | Sr. Director | Oregon +1 |  | 1d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Blue Origin | 🆕 Sr. Director, New Glenn Mission Management - National Security | Sr. Director | Space Coast, FL +4 |  | 1d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Sr-Director--New-Glenn-Mission-Management---National-Security_R75149) |
+| SiFive | 🆕 Sr Director, SW Product Management | Sr. Director | Oregon +1 |  | 1d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Capgemini Invent | 🆕 VP, Insurance Leader | VP | New York, NY, USA | $275K–$350K | 1d | [Apply](https://www.capgemini.com/jobs/588711-en_GB_SAPBTP/) |
 | Capgemini Invent | 🆕 Senior Director, Applied AI - Customer Data | Sr. Director | New York, NY, USA | $180K–$280K | 1d | [Apply](https://www.capgemini.com/jobs/593117-en_US_SAPBTP/) |
 | Metropolitan Transportation Authority | 🆕 Senior Director, Product Development | Sr. Director | New York, NY, USA | $202K–$238K | 1d | [Apply](https://careers.mta.org/jobs/18458734-senior-director-product-development) |

@@ -208,9 +208,9 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 202 | 62 | Google | [Director, Engineering, Compute Infrastructure, Google Distributed Cloud](https://www.localjobs.com/job/san-francisco-ca-director-engineering-compute-infrastructure-google-distributed-cloud) | San Francisco, California | $427,000 | via job board |  |
 | 203 | 62 | AdventHealth Corporate | [Executive Director of AI Strategy Portfolio and Partnerships](https://AdventHealth.contacthr.com/154164194) | Altamonte Springs, FL, USA | $316,284 | via job board |  |
 | 204 | 62 | WorldVia | [Vice President of Technology](https://apply.workable.com/j/7EF39D79CB) | Roswell, GA, USA |  | via job board |  |
-| 205 | 62 | Wild Marketing Group | [Vice President of Information Technology](https://www.talent.com/view?id=644900719329157128) | Big Bend, Wisconsin |  | via job board |  |
-| 206 | 62 | Dynamic Recycling | [Executive Vice President, Digital Transformation](https://us.trabajo.org/job-5381-0ea8cf1d62ea92f0fa8b51c7eb67eedc) | Madison, Wisconsin |  | via job board |  |
-| 207 | 62 | SteerBridge, Inc. | [Deputy CHIEF Technology Officer](https://us.trabajo.org/job-5381-9b08cc4b7402fa844baab489d5d729fd) | Vienna, Virginia |  | via job board |  |
+| 205 | 62 | Dynamic Recycling | [Executive Vice President, Digital Transformation](https://us.trabajo.org/job-5381-0ea8cf1d62ea92f0fa8b51c7eb67eedc) | Madison, Wisconsin |  | via job board |  |
+| 206 | 62 | SteerBridge, Inc. | [Deputy CHIEF Technology Officer](https://us.trabajo.org/job-5381-9b08cc4b7402fa844baab489d5d729fd) | Vienna, Virginia |  | via job board |  |
+| 207 | 62 | Wild Marketing Group | [Vice President of Information Technology](https://www.talent.com/view?id=644900719329157128) | Big Bend, Wisconsin |  | via job board |  |
 | 208 | 61 | Commvault | [Head of Global Systems Integrator Alliances](https://job-boards.greenhouse.io/commvault/jobs/5466407008) | United States |  | ⚡ quick form | 19 |
 | 209 | 61 | First Tech Federal Credit Union | [Director, Oracle Financials & Platform Engineering](https://firsttechfedcareers.ttcportals.com/jobs/18441465-director-oracle-financials-and-platform-engineering?tm_job=2026-0620&tm_event=view&tm_company=48443) | Hillsboro, OR, USA | $220,500 | via job board |  |
 | 210 | 61 | Vantor | [Director, DevOps and Mission Infrastructure](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director--DevOps-and-Mission-Infrastructure_R24839) | Westminster, CO, USA | $242,000 | via job board |  |
@@ -264,8 +264,8 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 258 | 59 | General Mills | [Head of Content and Production](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Head-of-Content-and-Production_10131552) | Minneapolis, MN | $214,900 | account |  |
 | 259 | 59 | Neurocrine Biosciences | [Vice President, Chief Information Security Officer (CISO)](https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers/job/US-CA-San-Diego/Vice-President--Chief-Information-Security-Officer--CISO-_R7426) | US CA San Diego |  | account |  |
 | 260 | 59 | Jacuzzi | [VP of IT Strategy & Growth](https://www.learn4good.com/jobs/houston/texas/info_technology/5583739687/e/) | Houston, Texas | $260,000 | via job board |  |
-| 261 | 59 | Stüssy | [Vice President, Technology](https://www.learn4good.com/jobs/long-beach/california/info_technology/5586439123/e/) | Long Beach, California | $350,000 | via job board |  |
-| 262 | 59 | GEODIS | [IT VP](https://workatgeodis.com/it-vp/job/170C089162F88FBF7AAF5CD28205D449) | Brentwood, Tennessee |  | via job board |  |
+| 261 | 59 | GEODIS | [IT VP](https://workatgeodis.com/it-vp/job/170C089162F88FBF7AAF5CD28205D449) | Brentwood, Tennessee |  | via job board |  |
+| 262 | 59 | Stüssy | [Vice President, Technology](https://www.learn4good.com/jobs/long-beach/california/info_technology/5586439123/e/) | Long Beach, California | $350,000 | via job board |  |
 | 263 | 58 | Bjak | [AI Phone - Head of Android / AOSP](https://jobs.ashbyhq.com/bjakcareer/31bafe77-8106-4641-96f9-b80de1cd5b67) | United States |  | ⚡ quick form |  |
 | 264 | 58 | Honeywell | [Director Portfolio Management - Utilities](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161392) | Houston, TX, United States |  | account |  |
 | 265 | 58 | OneMain Financial | [VP/MD, Technology Business Operations](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Baltimore-MD/VP-MD--Technology-Business-Operations_R2611-53084) | Baltimore, MD | $275,000 | account |  |

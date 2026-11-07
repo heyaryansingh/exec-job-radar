@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,077 open roles** at **1,494 companies** · **187 new in the last 24 hours** · 5,802 company career sites watched · updated hourly · last update Nov 06, 2026 11:14 PM ET
+**4,077 open roles** at **1,494 companies** · **185 new in the last 24 hours** · 5,803 company career sites watched · updated hourly · last update Nov 07, 2026 12:04 AM ET
 
 By level: Director 2100 · VP 791 · Sr. Director 507 · Head 260 · EVP/SVP 154 · C-level 124 · ED 103 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2100 · VP 791 · Sr. Director 507 · Head 260 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (187)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (185)](#new-in-the-last-24-hours)
 - [🤠 Houston area (134)](#houston-area)
 - [👑 Executive Technology Leadership (128)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (276)](#security-risk-technology)
@@ -38,8 +38,8 @@ By level: Director 2100 · VP 791 · Sr. Director 507 · Head 260 · EVP/SVP 154
 - [🔄 Transformation & Delivery (497)](#transformation-delivery)
 - [🛠️ Engineering & Software (1065)](#engineering-software)
 - [📌 Other Senior Roles (305)](#other-senior-roles)
-- [🔒 Recently closed (186)](#recently-closed)
-- Daily digests: [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md) · [10-31](data/daily/2026-10-31.md)
+- [🔒 Recently closed (185)](#recently-closed)
+- Daily digests: [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -58,11 +58,11 @@ By level: Director 2100 · VP 791 · Sr. Director 507 · Head 260 · EVP/SVP 154
 | ShipFusion | 🆕 Director, IT | Director | Irving, TX, USA |  | 0d | [Apply](https://grnh.se/3iag29y18us) |
 | Walmart | 🆕 Group Director, Technical Program Management - Strategic Partnerships - AI Natives | Director | San Bruno, CA, USA | $254K–$481K | 0d | [Apply](https://click.appcast.io/t/wv3YAKgx-sN3_nCKnXufSlHJM99X9gzRGx3YGA6qSHk=) |
 | Wpromote, LLC | 🆕 Director, Digital PR | Director | Remote, United States |  | 0d | [Apply](https://jobs.lever.co/wpromote/e63e82d1-1cf0-4cbb-b019-0f380b3ed76d) ⚡ |
-| Wild Marketing Group | 🆕 Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 1d | [Apply](https://www.talent.com/view?id=644900719329157128) |
-| Eaton Corporation | 🆕 Vice President of Engineering, ARS | VP | Coraopolis, Pennsylvania | $227K–$333K | 1d | [Apply](https://eaton.eightfold.ai/careers/job/687240031164-vice-president-of-engineering-ars-charlotte-north-carolina-usa-28273?domain=eaton.com) |
-| MedFlo AI | 🆕 Chief Technology Officer | C-level | Lakewood, New Jersey |  | 1d | [Apply](https://us.trabajo.org/job-5380-8a965d125532aada5b6dba81c5907770) |
 | DBR | 🆕 Technology Design Director | Director | Houston, Texas |  | 1d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
+| Eaton Corporation | 🆕 Vice President of Engineering, ARS | VP | Coraopolis, Pennsylvania | $227K–$333K | 1d | [Apply](https://eaton.eightfold.ai/careers/job/687240031164-vice-president-of-engineering-ars-charlotte-north-carolina-usa-28273?domain=eaton.com) |
 | KPMG US | 🆕 Director, Identity Access Management | Director | Houston, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/director-identity-access-management-at-kpmg-us-4486918452?refId=uHpRYbeFt3vri9dUpof05A%3D%3D&trackingId=AN1lJFDV3iGxh073uHDrsQ%3D%3D) |
+| MedFlo AI | 🆕 Chief Technology Officer | C-level | Lakewood, New Jersey |  | 1d | [Apply](https://us.trabajo.org/job-5380-8a965d125532aada5b6dba81c5907770) |
+| Wild Marketing Group | 🆕 Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 1d | [Apply](https://www.talent.com/view?id=644900719329157128) |
 | DBV Technologies | 🆕 Vice President, Information Systems | VP | NJ, USA | $300K–$350K | 1d | [Apply](https://careers.dbv-technologies.com/jobs/8684539-vice-president-information-systems) |
 | Geotab | 🆕 Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 1d | [Apply](https://grnh.se/lzrm1k1e8us) |
 | UnitedHealth Group ⭐ | 🆕 Director, Software Engineering | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering/34088/102961794048) |
@@ -212,19 +212,17 @@ By level: Director 2100 · VP 791 · Sr. Director 507 · Head 260 · EVP/SVP 154
 | UnitedHealth Group ⭐ | 🆕 Director, Security Trust Office - On Site MN | Director | Eden Prairie, Minnesota, United States | $135K–$231K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-security-trust-office-on-site-mn/34088/102927102464) |
 | Etix | 🆕 Head of Information Security | Head | Morrisville, NC, USA |  | 1d | [Apply](https://ats.rippling.com/etix/jobs/22cba9c0-127f-466e-ac5d-13a9d31c2232?jobSite=Indeed) |
 | Hewlett Packard Enterprise / HPE | 🆕 Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, CA, USA | $197K–$420K | 1d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS/Director-Product-Manager-Cloud-Infrastructure-and-AI-Networking?utm_source=indeed&utm_medium=phenom-feeds) |
-| Amazon ⭐ | 🆕 Sr. Principal/Director PMT, Secure Work Enablement | Director | Seattle, Washington, USA |  | 1d | [Apply](https://www.amazon.jobs/en/jobs/10598441/sr-principal-director-pmt-secure-work-enablement) |
-| SentiLink | 🆕 Director of Security & Risk | Director | United States · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sentilink/2106637d-2635-48b1-9c10-427b2d22eed7) ⚡ |
-| Stüssy | 🆕 Vice President, Technology | VP | Long Beach, California | $280K–$350K | 2d | [Apply](https://www.learn4good.com/jobs/long-beach/california/info_technology/5586439123/e/) |
-| Dynamic Recycling | 🆕 Executive Vice President, Digital Transformation | EVP/SVP | Madison, Wisconsin |  | 2d | [Apply](https://us.trabajo.org/job-5381-0ea8cf1d62ea92f0fa8b51c7eb67eedc) |
-| GEODIS | 🆕 IT VP | VP | Brentwood, Tennessee |  | 2d | [Apply](https://workatgeodis.com/it-vp/job/170C089162F88FBF7AAF5CD28205D449) |
-| DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 2d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
+| American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
+| DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 2d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
+| Dynamic Recycling | 🆕 Executive Vice President, Digital Transformation | EVP/SVP | Madison, Wisconsin |  | 2d | [Apply](https://us.trabajo.org/job-5381-0ea8cf1d62ea92f0fa8b51c7eb67eedc) |
+| Enerflex | 🆕 Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
 | Energy Exemplar Pty Ltd | 🆕 Director Cloud Architecture & Delivery | Director | Thornton, Colorado | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/thornton/colorado/info_technology/5584360586/e/) |
+| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
+| GEODIS | 🆕 IT VP | VP | Brentwood, Tennessee |  | 2d | [Apply](https://workatgeodis.com/it-vp/job/170C089162F88FBF7AAF5CD28205D449) |
 | Jobot | 🆕 Director of IT and Infrastructure - FinTech | Director | White Plains, New York | $180K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/white-plains/new-york/info_technology/5584096008/e/) |
 | MedFlo AI | 🆕 Chief Technology Officer (Ocean County) | C-level |  |  | 2d | [Apply](https://www.talent.com/view?id=644723833943887851) |
-| American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
-| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
-| Enerflex | 🆕 Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
+| Stüssy | 🆕 Vice President, Technology | VP | Long Beach, California | $280K–$350K | 2d | [Apply](https://www.learn4good.com/jobs/long-beach/california/info_technology/5586439123/e/) |
 | Oracle | 🆕 Director, Compliance & Property Management | Director | NM, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349801) |
 | Vertex Pharmaceuticals | 🆕 Director, AI Product Delivery Owner | Director | Boston, MA | $219K–$329K | 2d | [Apply](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Director--AI-Product-Delivery-Owner_REQ-30534) |
 | Toshiba Global Commerce Solutions | 🆕 Executive Director of Software Engineering and Operations | ED | Holly Springs, NC, USA |  | 2d | [Apply](https://grnh.se/5bkchjcl7us) |
@@ -251,8 +249,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Grant Thornton | 🆕 Transformation Director - Anaplan | Director | Houston, TX, United States |  | 1d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116215) |
 | ClickHouse | 🆕 Head of Developer Relations | Head | United States +16 · Remote | $196K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/f8d77096-72a6-41bd-bea5-af2932e394fd) ⚡ |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
-| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
 | Enerflex | 🆕 Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
+| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
 | ALDF | Technology Director: AI Governance & Salesforce Security | Director | Houston, Texas | $150K–$210K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) |
 | Confidential | Senior Vice President of Global IT | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.recruit.net/job/vice-president-global-jobs/54774BDABC597555) |
 | Altus Group | Director, Product Management | Director | 835 -  New York +2 | $180K–$210K | 2d | [Apply](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/835----New-York/Director-Product-Management_R0014110-1) |
@@ -387,9 +385,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | MedFlo AI | 🆕 Chief Technology Officer | C-level | Lakewood, New Jersey |  | 1d | [Apply](https://us.trabajo.org/job-5380-8a965d125532aada5b6dba81c5907770) |
 | JPMorgan Chase ⭐ | 🆕 Data Governance Team - CIB Chief Data Office VP | C-level | Newark, DE, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807299) |
 | Neurocrine Biosciences | 🆕 Vice President, Chief Information Security Officer (CISO) | C-level | US CA San Diego |  | 1d | [Apply](https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers/job/US-CA-San-Diego/Vice-President--Chief-Information-Security-Officer--CISO-_R7426) |
+| American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | Dynamic Recycling | 🆕 Executive Vice President, Digital Transformation | EVP/SVP | Madison, Wisconsin |  | 2d | [Apply](https://us.trabajo.org/job-5381-0ea8cf1d62ea92f0fa8b51c7eb67eedc) |
 | MedFlo AI | 🆕 Chief Technology Officer (Ocean County) | C-level |  |  | 2d | [Apply](https://www.talent.com/view?id=644723833943887851) |
-| American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | American Physical Society | Chief digital information officer; CDIO | C-level | Columbia, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/columbia/maryland/info_technology/5585663104/e/) |
 | ClearanceJobs | AMDS Chief Data Officer Jobs | C-level | Laurel, Maryland |  | 2d | [Apply](https://us.trabajo.org/job-5381-0b40883823e102164e79f20871639926) |
 | Inovonics Wireless | Chief Architect | C-level | Westminster, CO, USA | $180K–$240K | 2d | [Apply](https://recruiting.ultipro.com/ROP1001ROPER/JobBoard/c816fd0e-4c92-4fcf-bf2a-68a0fb087430/OpportunityDetail?opportunityId=58a6a281-0446-4fb0-9524-acf6f93d3a56&postingId=5ae2bf16-ba4c-4f8a-a20f-714f7c0fd050) |
@@ -529,7 +527,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | GULF COPPER | 🆕 Director of Information Security Governance Risk and Compliance | Director | Remote, USA |  | 1d | [Apply](https://gulfcopper.applytojob.com/apply/1TQiF8KNtB/Director-Of-Information-Security-Governance-Risk-And-Compliance?source=INDE&~) |
 | UnitedHealth Group ⭐ | 🆕 Director, Security Trust Office - On Site MN | Director | Eden Prairie, Minnesota, United States | $135K–$231K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-security-trust-office-on-site-mn/34088/102927102464) |
 | Etix | 🆕 Head of Information Security | Head | Morrisville, NC, USA |  | 1d | [Apply](https://ats.rippling.com/etix/jobs/22cba9c0-127f-466e-ac5d-13a9d31c2232?jobSite=Indeed) |
-| SentiLink | 🆕 Director of Security & Risk | Director | United States · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sentilink/2106637d-2635-48b1-9c10-427b2d22eed7) ⚡ |
+| SentiLink | Director of Security & Risk | Director | United States · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/sentilink/2106637d-2635-48b1-9c10-427b2d22eed7) ⚡ |
 | IREN | Director, Facility and OT Security | Director | TX, USA · Remote |  | 1d | [Apply](https://iren.careers.hibob.com/jobs/cef2ef99-3e38-43dd-af54-faa6814363f5) |
 | Fortive | Senior Director, Product & AI Security | Sr. Director | Remote, USA | $192K–$358K | 1d | [Apply](https://fortive.eightfold.ai/careers/job/893398475334?domain=fortive.com) |
 | ALDF | Technology Director: AI Governance & Salesforce Security | Director | Houston, Texas | $150K–$210K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) |
@@ -1935,9 +1933,9 @@ _247 older roles in this section are in data/roles.json on the `data` branch._
 | Promevo | 🆕 Director, Information Technology | Director | Remote, USA |  | 0d | [Apply](https://promevo.com/careers?gnk=job&gni=8a7885aca18473fa01a1b1d475fd7f81&gns=Indeed+Free) |
 | ShipFusion | 🆕 Director, IT | Director | Dallas, TX, USA |  | 0d | [Apply](https://grnh.se/3iag29y18us) |
 | ShipFusion | 🆕 Director, IT | Director | Irving, TX, USA |  | 0d | [Apply](https://grnh.se/3iag29y18us) |
-| Wild Marketing Group | 🆕 Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 1d | [Apply](https://www.talent.com/view?id=644900719329157128) |
-| Eaton Corporation | 🆕 Vice President of Engineering, ARS | VP | Coraopolis, Pennsylvania | $227K–$333K | 1d | [Apply](https://eaton.eightfold.ai/careers/job/687240031164-vice-president-of-engineering-ars-charlotte-north-carolina-usa-28273?domain=eaton.com) |
 | DBR | 🆕 Technology Design Director | Director | Houston, Texas |  | 1d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
+| Eaton Corporation | 🆕 Vice President of Engineering, ARS | VP | Coraopolis, Pennsylvania | $227K–$333K | 1d | [Apply](https://eaton.eightfold.ai/careers/job/687240031164-vice-president-of-engineering-ars-charlotte-north-carolina-usa-28273?domain=eaton.com) |
+| Wild Marketing Group | 🆕 Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 1d | [Apply](https://www.talent.com/view?id=644900719329157128) |
 | Geotab | 🆕 Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 1d | [Apply](https://grnh.se/lzrm1k1e8us) |
 | UnitedHealth Group ⭐ | 🆕 Director, Software Engineering | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering/34088/102961794048) |
 | SambaNova Systems | 🆕 Senior Director of IT | Sr. Director | Austin, Texas, United States +1 | $2K–$1,000K | 1d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6233377004) ⚡ |
@@ -1988,9 +1986,9 @@ _247 older roles in this section are in data/roles.json on the `data` branch._
 | Hitachi Vantara | 🆕 Senior Director - Technical Alliances | Sr. Director | Santa Clara, California, United States | $275K–$350K | 1d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Senior-Director---Technical-Alliances_R0149117) |
 | Johns Hopkins Health System | IT Assistant Director | Director | Baltimore, MD, USA | $135K–$236K | 1d | [Apply](https://jobs.hopkinsmedicine.org/job/104085/it-assistant-director-information-technology-us-md-baltimore-johns-hopkins-care-at-home/) |
 | Professional Case Management | Senior Director, Research Technology | Sr. Director | Almont, CO, USA | $135K–$225K | 1d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/3e72c7524de70d30c17fdb757805c67307a47d7e8b94c3ebf43e5b73/) |
-| Stüssy | 🆕 Vice President, Technology | VP | Long Beach, California | $280K–$350K | 2d | [Apply](https://www.learn4good.com/jobs/long-beach/california/info_technology/5586439123/e/) |
-| GEODIS | 🆕 IT VP | VP | Brentwood, Tennessee |  | 2d | [Apply](https://workatgeodis.com/it-vp/job/170C089162F88FBF7AAF5CD28205D449) |
 | FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
+| GEODIS | 🆕 IT VP | VP | Brentwood, Tennessee |  | 2d | [Apply](https://workatgeodis.com/it-vp/job/170C089162F88FBF7AAF5CD28205D449) |
+| Stüssy | 🆕 Vice President, Technology | VP | Long Beach, California | $280K–$350K | 2d | [Apply](https://www.learn4good.com/jobs/long-beach/california/info_technology/5586439123/e/) |
 | 474 MS Services Group, Inc. | Vice President - Java Lead for Investment Banking Advisory Technology | VP | US |  | 2d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Vice-President---Java-Lead-for-Investment-Banking-Advisory-Technology_PT-JR046034) |
 | Confidential | Vice President, Technology Risk & Control | VP | New Jersey |  | 2d | [Apply](https://www.recruit.net/job/vice-president-technology-risk-control-jobs/71F9B1B1EA8D0BA2) |
 | Confidential | Senior Vice President of Global IT | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.recruit.net/job/vice-president-global-jobs/54774BDABC597555) |
@@ -2206,7 +2204,7 @@ _815 older roles in this section are in data/roles.json on the `data` branch._
 | ClickHouse | 🆕 Head of Developer Relations | Head | United States +16 · Remote | $196K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/f8d77096-72a6-41bd-bea5-af2932e394fd) ⚡ |
 | Amazon Web Services | 🆕 Sr. Principal/Director PMT, Secure Work Enablement | Director | Sunnyvale, CA, USA | $217K–$323K | 1d | [Apply](https://www.amazon.jobs/jobs/10598441/sr-principaldirector-pmt-secure-work-enablement?cmpid=DA_INAD200785B) |
 | Qualus | 🆕 Director, Geospatial Solutions | Director | AZ, USA · Remote |  | 1d | [Apply](https://talent.qualuscorp.com/jobs/5853/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Amazon ⭐ | 🆕 Sr. Principal/Director PMT, Secure Work Enablement | Director | Seattle, Washington, USA |  | 1d | [Apply](https://www.amazon.jobs/en/jobs/10598441/sr-principal-director-pmt-secure-work-enablement) |
+| Amazon ⭐ | Sr. Principal/Director PMT, Secure Work Enablement | Director | Seattle, Washington, USA |  | 1d | [Apply](https://www.amazon.jobs/en/jobs/10598441/sr-principal-director-pmt-secure-work-enablement) |
 | Oracle | 🆕 Director, Compliance & Property Management | Director | NM, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349801) |
 | Trellix | Director | Director | Remote, USA | $225K–$275K | 2d | [Apply](https://careers.trellix.com/jobs/director-customer-response-engineering/) |
 | Oracle | Environmental Health & Safety Director | Director | Nashville, TN, United States | $115K–$235K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349847) |
@@ -2635,7 +2633,6 @@ _55 older roles in this section are in data/roles.json on the `data` branch._
 | CVS Health ⭐ | 🔒 Director, Digital Strategy & Operations | Director | MA - Work from home +10 · Remote |  | 17d | Closed |
 | Riot Games | 🔒 Director, Technical Product Management: Commerce | Director | Mercer Island, USA |  | 23d | Closed |
 | Oracle | 🔒 Director of Business Intelligence and AI Analytics (Nashville, TN) | Director | Nashville, TN, United States | $126K–$264K | 39d | Closed |
-| CVS Health ⭐ | 🔒 Lead Director Network Platform Solutions | Director | CT - Hartford · Remote |  | 23d | Closed |
 
 </details>
 

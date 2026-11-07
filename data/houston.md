@@ -12,8 +12,8 @@
 | Grant Thornton | 🆕 Transformation Director - Anaplan | Director | Houston, TX, United States |  | 1d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116215) |
 | ClickHouse | 🆕 Head of Developer Relations | Head | United States +16 · Remote | $196K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/f8d77096-72a6-41bd-bea5-af2932e394fd) ⚡ |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
-| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
 | Enerflex | 🆕 Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
+| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
 | ALDF | Technology Director: AI Governance & Salesforce Security | Director | Houston, Texas | $150K–$210K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) |
 | Confidential | Senior Vice President of Global IT | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.recruit.net/job/vice-president-global-jobs/54774BDABC597555) |
 | Altus Group | Director, Product Management | Director | 835 -  New York +2 | $180K–$210K | 2d | [Apply](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/835----New-York/Director-Product-Management_R0014110-1) |

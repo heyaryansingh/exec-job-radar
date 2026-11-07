@@ -1,21 +1,27 @@
 # 🤠 Senior technology roles in the Houston area
 
-128 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+134 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Confidential | 🆕 Vice President, Global People Operations & Transformation | VP | Houston, Texas |  | 0d | [Apply](https://www.recruit.net/job/vice-president-global-people-operations-jobs/390AB4851407E140) |
+| DBR | 🆕 Technology Design Director | Director | Houston, Texas |  | 1d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
+| KPMG US | 🆕 Director, Identity Access Management | Director | Houston, Texas |  | 1d | [Apply](https://www.linkedin.com/jobs/view/director-identity-access-management-at-kpmg-us-4486918452?refId=uHpRYbeFt3vri9dUpof05A%3D%3D&trackingId=AN1lJFDV3iGxh073uHDrsQ%3D%3D) |
 | Rockwell Automation | 🆕 Director, AI4IT Office | Director | Milwaukee, Wisconsin, United States +2 |  | 1d | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Director--AI4IT-Office_R26-8060-1) |
 | Axiom Space | 🆕 Director, Engineering Analysis | Director | Houston |  | 1d | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Director--Engineering-Analysis_JR100471) |
 | Grant Thornton | 🆕 Transformation Director - Anaplan | Director | Houston, TX, United States |  | 1d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116215) |
 | ClickHouse | 🆕 Head of Developer Relations | Head | United States +16 · Remote | $196K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/clickhouse/f8d77096-72a6-41bd-bea5-af2932e394fd) ⚡ |
-| ALDF | 🆕 Technology Director: AI Governance & Salesforce Security | Director | Houston, Texas | $150K–$210K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) |
-| Confidential | 🆕 Senior Vice President of Global IT | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.recruit.net/job/vice-president-global-jobs/54774BDABC597555) |
+| BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
+| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
+| Enerflex | 🆕 Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 2d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
+| ALDF | Technology Director: AI Governance & Salesforce Security | Director | Houston, Texas | $150K–$210K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) |
+| Confidential | Senior Vice President of Global IT | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.recruit.net/job/vice-president-global-jobs/54774BDABC597555) |
 | Altus Group | Director, Product Management | Director | 835 -  New York +2 | $180K–$210K | 2d | [Apply](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/835----New-York/Director-Product-Management_R0014110-1) |
 | Netrality Data Centers | Director, Data Center Development | Director | Houston, TX, USA |  | 2d | [Apply](https://ats.rippling.com/netrality-careers/jobs/d7da88d8-d332-4d28-8e8f-bee267ae2ffc?jobSite=Indeed) |
 | Ankura | Director/Senior Director, Digital Transformation (IT Services) | Sr. Director | Chicago, IL +14 | $110K–$200K | 2d | [Apply](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/Director-Senior-Director--Digital-Transformation--IT-Services-_R104922) |
 | HPE | Senior Director, Storage as a Service | Sr. Director | Andover, Massachusetts, United States of A +1 |  | 2d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/Senior-Director--Storage-as-a-Service_1218364-2) |
-| Anuvu | 🆕 Global VP of IT Operations & Cybersecurity | VP | Houston, Texas | $180K–$320K | 3d | [Apply](https://www.jobleads.com/us/job/global-vp-of-it-operations-cybersecurity--houston--e45617ef9f95bf0269e10eb906640c97c) |
-| Jacuzzi | 🆕 VP of IT Strategy & Growth | VP | Houston, Texas | $180K–$260K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5583739687/e/) |
+| Anuvu | Global VP of IT Operations & Cybersecurity | VP | Houston, Texas | $180K–$320K | 3d | [Apply](https://www.jobleads.com/us/job/global-vp-of-it-operations-cybersecurity--houston--e45617ef9f95bf0269e10eb906640c97c) |
+| Jacuzzi | VP of IT Strategy & Growth | VP | Houston, Texas | $180K–$260K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5583739687/e/) |
 | FTI Consulting | Director, Case Manager eDiscovery- Technology Consulting | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-case-manager-ediscovery-technology-consulting-at-fti-consulting-4487288788) |
 | Honeywell ⭐ | 🔁 Director Portfolio Management - Utilities | Director | Houston, TX, United States |  | 3d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161392) |
 | Protiviti | Technology Consulting - Enterprise Data & Analytics & AI Managing Director | MD | HOUSTON |  | 3d | [Apply](https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Technology-Consulting---Enterprise-Data---Analytics---AI-Managing-Director_JR-262135-2) |

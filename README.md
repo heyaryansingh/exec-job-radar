@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,087 open roles** at **1,502 companies** · **193 new in the last 24 hours** · 5,803 company career sites watched · updated hourly · last update Nov 07, 2026 01:03 AM ET
+**4,086 open roles** at **1,502 companies** · **193 new in the last 24 hours** · 5,806 company career sites watched · updated hourly · last update Nov 07, 2026 02:08 AM ET
 
-By level: Director 2102 · VP 796 · Sr. Director 508 · Head 261 · EVP/SVP 154 · C-level 125 · ED 103 · MD 38
+By level: Director 2101 · VP 796 · Sr. Director 508 · Head 261 · EVP/SVP 154 · C-level 125 · ED 103 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 2102 · VP 796 · Sr. Director 508 · Head 261 · EVP/SVP 154
 - [☁️ Cloud & Infrastructure (376)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (498)](#transformation-delivery)
-- [🛠️ Engineering & Software (1067)](#engineering-software)
+- [🛠️ Engineering & Software (1066)](#engineering-software)
 - [📌 Other Senior Roles (306)](#other-senior-roles)
-- [🔒 Recently closed (186)](#recently-closed)
+- [🔒 Recently closed (187)](#recently-closed)
 - Daily digests: [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,17 +47,17 @@ By level: Director 2102 · VP 796 · Sr. Director 508 · Head 261 · EVP/SVP 154
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Chubb ⭐ | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, United States | $200K–$230K | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37870) |
-| Gartner | 🆕 Vice President, Technology & Analytics | VP | Stamford, CT +1 |  | 0d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Vice-President--Technology---Analytivs_115888) |
-| US LBM Holdings | 🆕 US LBM VP of Product & Engineering | VP | Atlanta, GA, USA |  | 0d | [Apply](https://click.appcast.io/t/KhyNOhlJ91ngys5I4nfvQJzgO4SxOiTIMFg3OERZcYc=) |
-| AGS | 🆕 VP of Data & Analytics | VP | Las Vegas, NV, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648558/AGS/VP-of-Data-Analytics?source=Indeed_Feed) |
-| Walker & Dunlop | 🆕 VP, Analytics, Data Science & AI Data Enablement | VP | Remote, USA | $220K–$260K | 0d | [Apply](https://walkerdunlop.wd1.myworkdayjobs.com/en-US/WD/job/Remote---USA/VP--Analytics--Data-Science---AI-Data-Enablement_Req-2019) |
-| AstraZeneca | 🆕 Head of Data, Technology & Platforms — US BBU | Head | Wilmington, DE, USA | $203K–$305K | 0d | [Apply](https://careers.astrazeneca.com/job/wilmington/head-of-data-technology-and-platforms-us-bbu/7684/102956461696) |
 | ACN COMMUNICATIONS SERVICES LLC | 🆕 Director of Architecture & Engineering | Director | Charlotte, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f433356-bdd4-4e3e-92bb-26374d745a32&ccId=19000101_000001&jobId=569419&source=IN&lang=en_US) |
+| AGS | 🆕 VP of Data & Analytics | VP | Las Vegas, NV, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648558/AGS/VP-of-Data-Analytics?source=Indeed_Feed) |
+| AstraZeneca | 🆕 Head of Data, Technology & Platforms — US BBU | Head | Wilmington, DE, USA | $203K–$305K | 0d | [Apply](https://careers.astrazeneca.com/job/wilmington/head-of-data-technology-and-platforms-us-bbu/7684/102956461696) |
+| Chipotle Mexican Grill | 🆕 Sr. Director, Digital Design | Sr. Director | Newport Beach, CA, USA | $275K–$325K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01466267_20261106&rx_url=https%3A%2F%2Fjobs.chipotle.com%2Fen%2Fjob%2F-%2F-%2F282%2F102949515968%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D5bfdc8ee-da21-11f1-82ed-b5b1f7834f8e%26rx_job%3DJR-2026-01466267_20261106%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261107T040507Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063) |
+| Physician Care Coordination Consultants (PC3) | 🆕 Chief Technology Officer | C-level | Louisville, KY, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648968/Physician-Care-Coordination-Consultants/Chief-Technology-Officer?source=Indeed_Feed) |
 | Relativity | 🆕 Director, Innovation and Enablement | Director | VA, USA | $211K–$317K | 0d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia/Director--Innovation-and-Enablement_26-0527-1) |
 | The Walt Disney Company | 🆕 Director, Strategic Sourcing - Technology | Director | Burbank, CA, USA | $226K–$276K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164637EXTERNALENGLOBAL/Director-Strategic-Sourcing-Technology?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
-| Physician Care Coordination Consultants (PC3) | 🆕 Chief Technology Officer | C-level | Louisville, KY, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648968/Physician-Care-Coordination-Consultants/Chief-Technology-Officer?source=Indeed_Feed) |
-| Chipotle Mexican Grill | 🆕 Sr. Director, Digital Design | Sr. Director | Newport Beach, CA, USA | $275K–$325K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01466267_20261106&rx_url=https%3A%2F%2Fjobs.chipotle.com%2Fen%2Fjob%2F-%2F-%2F282%2F102949515968%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D5bfdc8ee-da21-11f1-82ed-b5b1f7834f8e%26rx_job%3DJR-2026-01466267_20261106%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261107T040507Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063) |
+| US LBM Holdings | 🆕 US LBM VP of Product & Engineering | VP | Atlanta, GA, USA |  | 0d | [Apply](https://click.appcast.io/t/KhyNOhlJ91ngys5I4nfvQJzgO4SxOiTIMFg3OERZcYc=) |
+| Walker & Dunlop | 🆕 VP, Analytics, Data Science & AI Data Enablement | VP | Remote, USA | $220K–$260K | 0d | [Apply](https://walkerdunlop.wd1.myworkdayjobs.com/en-US/WD/job/Remote---USA/VP--Analytics--Data-Science---AI-Data-Enablement_Req-2019) |
+| Chubb ⭐ | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, United States | $200K–$230K | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37870) |
+| Gartner | 🆕 Vice President, Technology & Analytics | VP | Stamford, CT +1 |  | 0d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Vice-President--Technology---Analytivs_115888) |
 | Confidential | 🆕 Vice President, Global People Operations & Transformation | VP | Houston, Texas |  | 0d | [Apply](https://www.recruit.net/job/vice-president-global-people-operations-jobs/390AB4851407E140) |
 | Jeff Wyler Automotive Family | 🆕 Director of Artificial Intelligence & Innovation Milford, Ohio | Director | Milford, OH, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B6B357672D1C8F6DF84101D75941E5E7/jobs/354883?source=Indeed) |
 | Milwaukee Bucks | 🆕 Director, Operation Technology | Director | Milwaukee, WI, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=035c77cb-5b5c-4e48-b858-605ab1663076&ccId=19000101_000001&jobId=573621&source=IN&lang=en_US) |
@@ -785,10 +785,10 @@ _26 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Gartner | 🆕 Vice President, Technology & Analytics | VP | Stamford, CT +1 |  | 0d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Vice-President--Technology---Analytivs_115888) |
 | AGS | 🆕 VP of Data & Analytics | VP | Las Vegas, NV, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648558/AGS/VP-of-Data-Analytics?source=Indeed_Feed) |
-| Walker & Dunlop | 🆕 VP, Analytics, Data Science & AI Data Enablement | VP | Remote, USA | $220K–$260K | 0d | [Apply](https://walkerdunlop.wd1.myworkdayjobs.com/en-US/WD/job/Remote---USA/VP--Analytics--Data-Science---AI-Data-Enablement_Req-2019) |
 | AstraZeneca | 🆕 Head of Data, Technology & Platforms — US BBU | Head | Wilmington, DE, USA | $203K–$305K | 0d | [Apply](https://careers.astrazeneca.com/job/wilmington/head-of-data-technology-and-platforms-us-bbu/7684/102956461696) |
+| Walker & Dunlop | 🆕 VP, Analytics, Data Science & AI Data Enablement | VP | Remote, USA | $220K–$260K | 0d | [Apply](https://walkerdunlop.wd1.myworkdayjobs.com/en-US/WD/job/Remote---USA/VP--Analytics--Data-Science---AI-Data-Enablement_Req-2019) |
+| Gartner | 🆕 Vice President, Technology & Analytics | VP | Stamford, CT +1 |  | 0d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Vice-President--Technology---Analytivs_115888) |
 | Jeff Wyler Automotive Family | 🆕 Director of Artificial Intelligence & Innovation Milford, Ohio | Director | Milford, OH, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B6B357672D1C8F6DF84101D75941E5E7/jobs/354883?source=Indeed) |
 | Worldpac | 🆕 Director, AI Product Management | Director | Oak Brook, IL, USA | $200K–$225K | 0d | [Apply](https://careers.worldpac.com/careers-home/jobs/5783/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Information Technology Senior Management Forum | 🆕 Senior Director, AI Engineering -Agentic AI Platform(Remote Eligible) | Sr. Director | San Jose, CA, USA | $286K–$392K | 0d | [Apply](https://jobs.itsmfleaders.org/job/hzdb27/senior-director-ai-engineering-agentic-ai-platform(remote-eligible)/san-jose/ca) |
@@ -1679,8 +1679,8 @@ _126 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Chubb ⭐ | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, United States | $200K–$230K | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37870) |
 | Chipotle Mexican Grill | 🆕 Sr. Director, Digital Design | Sr. Director | Newport Beach, CA, USA | $275K–$325K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01466267_20261106&rx_url=https%3A%2F%2Fjobs.chipotle.com%2Fen%2Fjob%2F-%2F-%2F282%2F102949515968%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D5bfdc8ee-da21-11f1-82ed-b5b1f7834f8e%26rx_job%3DJR-2026-01466267_20261106%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261107T040507Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063) |
+| Chubb ⭐ | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, United States | $200K–$230K | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37870) |
 | Wpromote, LLC | 🆕 Director, Digital PR | Director | Remote, United States |  | 0d | [Apply](https://jobs.lever.co/wpromote/e63e82d1-1cf0-4cbb-b019-0f380b3ed76d) ⚡ |
 | DocuSign | 🆕 Director, Technical Program Management | Director | San Francisco, CA, USA | $212K–$343K | 1d | [Apply](https://careers.docusign.com/careers-home/jobs/30655?lang=en-us&previousLocale=en-US) |
 | Cloudflare ⭐ | 🆕 Senior Director Digital Native, Customer Engineering | Sr. Director | Hybrid | $326K–$513K | 1d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8260956?gh_jid=8260956) ⚡ |
@@ -1938,8 +1938,8 @@ _248 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| US LBM Holdings | 🆕 US LBM VP of Product & Engineering | VP | Atlanta, GA, USA |  | 0d | [Apply](https://click.appcast.io/t/KhyNOhlJ91ngys5I4nfvQJzgO4SxOiTIMFg3OERZcYc=) |
 | The Walt Disney Company | 🆕 Director, Strategic Sourcing - Technology | Director | Burbank, CA, USA | $226K–$276K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164637EXTERNALENGLOBAL/Director-Strategic-Sourcing-Technology?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
+| US LBM Holdings | 🆕 US LBM VP of Product & Engineering | VP | Atlanta, GA, USA |  | 0d | [Apply](https://click.appcast.io/t/KhyNOhlJ91ngys5I4nfvQJzgO4SxOiTIMFg3OERZcYc=) |
 | Milwaukee Bucks | 🆕 Director, Operation Technology | Director | Milwaukee, WI, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=035c77cb-5b5c-4e48-b858-605ab1663076&ccId=19000101_000001&jobId=573621&source=IN&lang=en_US) |
 | Optum | 🆕 Director, Software Engineering | Director | Eden Prairie, MN, USA | $135K–$231K | 0d | [Apply](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2391928&lang=en) |
 | Promevo | 🆕 Director, Information Technology | Director | Remote, USA |  | 0d | [Apply](https://promevo.com/careers?gnk=job&gni=8a7885aca18473fa01a1b1d475fd7f81&gns=Indeed+Free) |
@@ -2189,7 +2189,7 @@ _248 older roles in this section are in data/roles.json on the `data` branch._
 | AccessHealth | Director of Development & External Affairs | Director | Richmond, TX, USA |  | 7d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/DC8696665A6083E618AF32CA62D76371/jobs/306207?source=Indeed) |
 | Lightera | SVP, Global IT | EVP/SVP | Norcross, GA, USA |  | 7d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001235376306&c=2173707&d=ExternalCareerSite&rb=INDEED&idUnique=5001235376306) |
 
-_817 older roles in this section are in data/roles.json on the `data` branch._
+_816 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2458,6 +2458,7 @@ _56 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Hilton ⭐ | 🔒 Assistant Director of Engineering - Conrad Orlando | Director | Orlando, FL, United States |  | 30d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director, Health100 App - Digital Product | Director | MA - Wellesley +8 · Remote |  | 10d | Closed |
 | Pivot Bio | 🔒 Director, Data & Information Architecture | Director | Minnetonka, MN | $165K–$206K | 23d | Closed |
 | onsemi | 🔒 Senior Director, IGBT Technology Development | Sr. Director | Scottsdale, AZ, United States |  | 26d | Closed |

@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,128 open roles** at **1,528 companies** · **44 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 02:32 AM ET
+**4,129 open roles** at **1,528 companies** · **45 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 03:14 AM ET
 
-By level: Director 2129 · VP 803 · Sr. Director 513 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
+By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (44)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (45)](#new-in-the-last-24-hours)
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
@@ -37,7 +37,7 @@ By level: Director 2129 · VP 803 · Sr. Director 513 · Head 261 · EVP/SVP 154
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (501)](#transformation-delivery)
 - [🛠️ Engineering & Software (1080)](#engineering-software)
-- [📌 Other Senior Roles (310)](#other-senior-roles)
+- [📌 Other Senior Roles (311)](#other-senior-roles)
 - [🔒 Recently closed (186)](#recently-closed)
 - Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
 
@@ -78,6 +78,7 @@ By level: Director 2129 · VP 803 · Sr. Director 513 · Head 261 · EVP/SVP 154
 | Mutual of Omaha | 🆕 Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
 | DoorLoop | 🆕 Director of AI Engineering | Director | Tel Aviv (IL) · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/doorloop/ae0c6c65-d1ce-4f3a-8744-31985e6d2146) ⚡ |
 | Three Pillars Senior Living Communities | 🆕 Director of Technology | Director | Dousman, WI, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4649492/Three-Pillars/Director-of-Technology?source=Indeed_Feed) |
+| SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Severn, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/severn/maryland/info_technology/5600008976/e/) |
 | American-College-of-Educatio | 🆕 VP, Enterprise Security & Infrastructure Strategy | VP | Houston, Texas | $216K–$264K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597185333/e/) |
@@ -2059,6 +2060,7 @@ _830 older roles in this section are in data/roles.json on the `data` branch._
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Huntsville, AL, USA |  | 1d | [Apply](https://adtran.wd3.myworkdayjobs.com/en-US/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | Mutual of Omaha | 🆕 IS Area Director | Director | Remote, USA | $190K–$215K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
 | Relativity | Director, Innovation and Enablement | Director | VA, USA | $211K–$317K | 1d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia/Director--Innovation-and-Enablement_26-0527-1) |
+| SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted Yesterday) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | DBV Technologies | Vice President, Information Systems | VP | NJ, USA | $300K–$350K | 2d | [Apply](https://careers.dbv-technologies.com/jobs/8684539-vice-president-information-systems) |
@@ -2305,9 +2307,8 @@ _830 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | Senior Vice President, Full-Stack Engineer | EVP/SVP | New York, NY, United States |  | 25d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77031) |
 | Dexcom | Director, Product Systems & Integration | Director | San Diego, California |  | 25d | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Director--Product-Systems---Integration_JR121379) |
 | Fidelity ⭐ | Director, Mainframe DB2 Performance and Capacity | Director | Westlake, TX |  | 25d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Mainframe-DB2-Performance-and-Capacity_2133418-1) |
-| Capital One ⭐ | Sr. Director, Integration Engineer | Sr. Director | McLean, VA +1 · Remote | $270K–$308K | 25d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Director--Integration-Engineer_R1003746-1) |
 
-_60 older roles in this section are in data/roles.json on the `data` branch._
+_61 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

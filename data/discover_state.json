@@ -976,7 +976,11 @@
   "Corning": null,
   "Teradyne": null,
   "Auto-Owners Insurance": null,
-  "Zebra Technologies": null,
+  "Zebra Technologies": {
+   "ats": "workday",
+   "host": "zebra.wd501.myworkdayjobs.com",
+   "site": "Zebra_careers"
+  },
   "Garmin": null,
   "CoreWeave": {
    "ats": "greenhouse",
@@ -3163,7 +3167,13 @@
    "host": "pvh.wd1.myworkdayjobs.com",
    "site": "PVH_Careers"
   },
-  "VF Corporation": null,
+  "VF Corporation": {
+   "review": {
+    "ats": "workday",
+    "host": "vfc.wd5.myworkdayjobs.com",
+    "site": "vfc_careers"
+   }
+  },
   "Tapestry": {
    "ats": "workday",
    "host": "tapestry.wd108.myworkdayjobs.com",
@@ -3426,7 +3436,11 @@
    "host": "odfl.wd1.myworkdayjobs.com",
    "site": "ODFL_Careers"
   },
-  "Martin Marietta": null,
+  "Martin Marietta": {
+   "ats": "workday",
+   "host": "martinmarietta.wd5.myworkdayjobs.com",
+   "site": "Martin_Marietta_Careers"
+  },
   "CF Industries": null,
   "CRH": null,
   "FMC": {

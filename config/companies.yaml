@@ -668,3 +668,5 @@
 - {name: "Qualys", ats: "workday", host: "qualys.wd5.myworkdayjobs.com", site: "Careers", tier: 3, sector: "security"}
 - {name: "Carnival Corporation", ats: "oracle", host: "eicl.fa.em5.oraclecloud.com", site: "CORP", tier: 2, sector: "hospitality"}
 - {name: "Magic", ats: "ashby", slug: "magic", tier: 3, sector: "AI"}
+- {name: "Zebra Technologies", ats: "workday", host: "zebra.wd501.myworkdayjobs.com", site: "Zebra_careers", tier: 2, sector: "tech"}
+- {name: "Martin Marietta", ats: "workday", host: "martinmarietta.wd5.myworkdayjobs.com", site: "Martin_Marietta_Careers", tier: 3, sector: "industrial"}

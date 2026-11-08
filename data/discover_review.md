@@ -104,3 +104,4 @@ These responded with jobs but the address didn't clearly match the company name.
 - Wolverine Trading: - {name: "Wolverine Trading", ats: "ashby", slug: "trading212", tier: 3, sector: "markets"}
 - Charles Schwab: - {name: "Charles Schwab", ats: "greenhouse", slug: "charlesriverassociates", tier: 1, sector: "asset management"}
 - Campbell's: - {name: "Campbell's", ats: "greenhouse", slug: "campbellcovington", tier: 3, sector: "consumer goods"}
+- VF Corporation: - {name: "VF Corporation", ats: "workday", host: "vfc.wd5.myworkdayjobs.com", site: "vfc_careers", tier: 3, sector: "retail"}

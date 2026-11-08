@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,129 open roles** at **1,528 companies** · **36 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 07:05 AM ET
+**4,129 open roles** at **1,528 companies** · **32 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 08:05 AM ET
 
 By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (36)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (32)](#new-in-the-last-24-hours)
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
@@ -70,10 +70,6 @@ By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154
 | Technology Credit Union | 🆕 Director, Information Security | Director | San Jose, CA, USA | $154K–$222K | 1d | [Apply](https://careers-techcu.icims.com/jobs/3213/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | L3Harris | 🆕 Director, Electronic Warfare Engineering | Director | Clifton, NJ, USA | $175K–$325K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102941813824) |
 | police department | 🆕 Executive Director, Applied Engineering Division | ED | Manhattan, NY, USA | $94K–$243K | 1d | [Apply](https://cityjobs.nyc.gov/job/executive-director-applied-engineering-division-in-manhattan-jid-49087) |
-| Chubb Insurance | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, USA | $200K–$230K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/37870) |
-| Levy | 🆕 Director of Artificial Intelligence | Director | Chicago, IL, USA | $140K–$200K | 1d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/465d42e19bec84706265ee0e089f72c086dd43723d53c49d951ff816/) |
-| Marvell Technology | 🆕 Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
-| THE LITTLE LIGHT HOUSE | 🆕 Director of Information Technology | Director | Tulsa, OK, USA |  | 1d | [Apply](https://www.hralliance.net/Apply/JobInfo.aspx?positionId=49405&locationId=13238&source=Indeed) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Severn, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/severn/maryland/info_technology/5600008976/e/) |
@@ -640,7 +636,7 @@ _30 older roles in this section are in data/roles.json on the `data` branch._
 | USAA ⭐ | 🆕 Director of Business Data & Analytics – AI Governance | Director | San Antonio Home Office I +3 | $165K–$315K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director-of-Business-Data---Analytics---AI-Governance_R0122198) |
 | Meta | 🆕 Data Center Facility Operations Area Director | Director | Remote, USA | $272K–$318K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004Wu9UAE_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F893926973732328%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33bbb689-dac8-11f1-8385-ad323b5e1405%26rx_job%3Da1KiE0000004Wu9UAE_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261107T220406Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | Berkley | 🆕 Director, Financial Data Operations and Delivery | Director | Urbandale, IA, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15195/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Levy | 🆕 Director of Artificial Intelligence | Director | Chicago, IL, USA | $140K–$200K | 1d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/465d42e19bec84706265ee0e089f72c086dd43723d53c49d951ff816/) |
+| Levy | Director of Artificial Intelligence | Director | Chicago, IL, USA | $140K–$200K | 1d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/465d42e19bec84706265ee0e089f72c086dd43723d53c49d951ff816/) |
 | DoorLoop | Director of AI Engineering | Director | Tel Aviv (IL) · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/doorloop/ae0c6c65-d1ce-4f3a-8744-31985e6d2146) ⚡ |
 | AGS | VP of Data & Analytics | VP | Las Vegas, NV, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648558/AGS/VP-of-Data-Analytics?source=Indeed_Feed) |
 | AstraZeneca | Head of Data, Technology & Platforms — US BBU | Head | Wilmington, DE, USA | $203K–$305K | 1d | [Apply](https://careers.astrazeneca.com/job/wilmington/head-of-data-technology-and-platforms-us-bbu/7684/102956461696) |
@@ -1159,7 +1155,7 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | Lincoln Motor Company | 🆕 Director, Cloud Platform Engineering | Director | Bluffton, South Carolina | $142K–$268K | 1d | [Apply](https://www.learn4good.com/jobs/bluffton/south-carolina/info_technology/5603241473/e/) |
 | OpenKrill | 🆕 Director, Cloud Infrastructure | Director | San Jose, California | $180K–$220K | 1d | [Apply](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) |
 | U.S. Anesthesia Partners | 🆕 Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |
-| Marvell Technology | 🆕 Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
+| Marvell Technology | Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
 | Mutual of Omaha | Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
 | Cargill | Sr. Director, Global Service Now Platform | Sr. Director | Atlanta, GA, USA | $190K–$280K | 2d | [Apply](https://careers.cargill.com/en/job/-/-/23251/102909090976) |
 | Marvell ⭐ | Director Product Management - HW Platforms | Director | Santa Clara, CA |  | 2d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
@@ -1532,7 +1528,7 @@ _134 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Oracle | 🆕 Director, Technical Program Management | Director | United States |  | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349745) |
 | Dental Care Alliance | 🆕 Director, Digital Experience & Web Strategy | Director | USA |  | 1d | [Apply](https://dcacareers-dentalcarealliance.icims.com/jobs/36841/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Chubb Insurance | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, USA | $200K–$230K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/37870) |
+| Chubb Insurance | VP, Digital Technology (Consumer) | VP | Jersey City, NJ, USA | $200K–$230K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/37870) |
 | Chipotle Mexican Grill | Sr. Director, Digital Design | Sr. Director | Newport Beach, CA, USA | $275K–$325K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01466267_20261106&rx_url=https%3A%2F%2Fjobs.chipotle.com%2Fen%2Fjob%2F-%2F-%2F282%2F102949515968%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D5bfdc8ee-da21-11f1-82ed-b5b1f7834f8e%26rx_job%3DJR-2026-01466267_20261106%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261107T040507Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063) |
 | Chubb ⭐ | VP, Digital Technology (Consumer) | VP | Jersey City, NJ, United States | $200K–$230K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37870) |
 | Wpromote, LLC | Director, Digital PR | Director | Remote, United States |  | 1d | [Apply](https://jobs.lever.co/wpromote/e63e82d1-1cf0-4cbb-b019-0f380b3ed76d) ⚡ |
@@ -1795,7 +1791,7 @@ _251 older roles in this section are in data/roles.json on the `data` branch._
 | PGNA | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648728/PiovanGroup-North-America/Director-Engineering-New-Product-Development?source=Indeed_Feed) |
 | L3Harris | 🆕 Director, Electronic Warfare Engineering | Director | Clifton, NJ, USA | $175K–$325K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102941813824) |
 | police department | 🆕 Executive Director, Applied Engineering Division | ED | Manhattan, NY, USA | $94K–$243K | 1d | [Apply](https://cityjobs.nyc.gov/job/executive-director-applied-engineering-division-in-manhattan-jid-49087) |
-| THE LITTLE LIGHT HOUSE | 🆕 Director of Information Technology | Director | Tulsa, OK, USA |  | 1d | [Apply](https://www.hralliance.net/Apply/JobInfo.aspx?positionId=49405&locationId=13238&source=Indeed) |
+| THE LITTLE LIGHT HOUSE | Director of Information Technology | Director | Tulsa, OK, USA |  | 1d | [Apply](https://www.hralliance.net/Apply/JobInfo.aspx?positionId=49405&locationId=13238&source=Indeed) |
 | Three Pillars Senior Living Communities | Director of Technology | Director | Dousman, WI, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4649492/Three-Pillars/Director-of-Technology?source=Indeed_Feed) |
 | The Walt Disney Company | Director, Strategic Sourcing - Technology | Director | Burbank, CA, USA | $226K–$276K | 1d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164637EXTERNALENGLOBAL/Director-Strategic-Sourcing-Technology?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
 | US LBM Holdings | US LBM VP of Product & Engineering | VP | Atlanta, GA, USA |  | 1d | [Apply](https://click.appcast.io/t/KhyNOhlJ91ngys5I4nfvQJzgO4SxOiTIMFg3OERZcYc=) |

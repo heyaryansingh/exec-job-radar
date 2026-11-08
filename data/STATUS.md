@@ -1,6 +1,6 @@
 # Collector status
 
-- Last run: 2026-11-08T18:54:39+00:00 UTC, 394s
+- Last run: 2026-11-08T19:45:31+00:00 UTC, 438s
 - Companies working: 633 of 635
 - New roles last run: 0; roles in feed: 1461
 - Universe (all other known career sites): 5189 boards, 4336 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
@@ -13,6 +13,6 @@
 | Company | Failures in a row | Last error |
 |---|---:|---|
 | Anyscale | 18 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
-| Blackstone | 3 | 401 Client Error: Unauthorized for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone |
+| Blackstone | 4 | 401 Client Error: Unauthorized for url: https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

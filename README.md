@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,129 open roles** at **1,528 companies** · **40 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 05:05 AM ET
+**4,129 open roles** at **1,528 companies** · **36 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 06:05 AM ET
 
 By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (40)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (36)](#new-in-the-last-24-hours)
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
@@ -74,8 +74,6 @@ By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154
 | Levy | 🆕 Director of Artificial Intelligence | Director | Chicago, IL, USA | $140K–$200K | 1d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/465d42e19bec84706265ee0e089f72c086dd43723d53c49d951ff816/) |
 | Marvell Technology | 🆕 Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
 | THE LITTLE LIGHT HOUSE | 🆕 Director of Information Technology | Director | Tulsa, OK, USA |  | 1d | [Apply](https://www.hralliance.net/Apply/JobInfo.aspx?positionId=49405&locationId=13238&source=Indeed) |
-| Mutual of Omaha | 🆕 IS Area Director | Director | Remote, USA | $190K–$215K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
-| Mutual of Omaha | 🆕 Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Severn, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/severn/maryland/info_technology/5600008976/e/) |
@@ -85,8 +83,6 @@ By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154
 | Fidelity Technology Group, LLC | 🆕 Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 2d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
 | RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
-| Columbia Bank | 🆕 Model Development & Decision Science Director | Director | Lake Oswego, Oregon |  | 2d | [Apply](https://columbiabank.wd108.myworkdayjobs.com/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) [alt](https://columbiabank.wd108.myworkdayjobs.com/en-US/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) |
-| Western Governors University | 🆕 Director, Software Engineer | Director | Salt Lake City, UT |  | 2d | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) [alt](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) |
 
 <a name="houston-area"></a>
 
@@ -1164,7 +1160,7 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | OpenKrill | 🆕 Director, Cloud Infrastructure | Director | San Jose, California | $180K–$220K | 1d | [Apply](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) |
 | U.S. Anesthesia Partners | 🆕 Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |
 | Marvell Technology | 🆕 Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
-| Mutual of Omaha | 🆕 Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
+| Mutual of Omaha | Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
 | Cargill | Sr. Director, Global Service Now Platform | Sr. Director | Atlanta, GA, USA | $190K–$280K | 2d | [Apply](https://careers.cargill.com/en/job/-/-/23251/102909090976) |
 | Marvell ⭐ | Director Product Management - HW Platforms | Director | Santa Clara, CA |  | 2d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
 | S&P Global ⭐ | Global Head of Cloud & Infrastructure | Head | US - DC - WASHINGTON 1200 G STREET | $220K–$350K | 2d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---DC---WASHINGTON-1200-G-STREET/Global-Head-of-Cloud---Infrastructure_330450-2) |
@@ -1813,8 +1809,8 @@ _251 older roles in this section are in data/roles.json on the `data` branch._
 | Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
 | Fidelity Technology Group, LLC | 🆕 Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 2d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
 | RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
-| Columbia Bank | 🆕 Model Development & Decision Science Director | Director | Lake Oswego, Oregon |  | 2d | [Apply](https://columbiabank.wd108.myworkdayjobs.com/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) [alt](https://columbiabank.wd108.myworkdayjobs.com/en-US/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) |
-| Western Governors University | 🆕 Director, Software Engineer | Director | Salt Lake City, UT |  | 2d | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) [alt](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) |
+| Columbia Bank | Model Development & Decision Science Director | Director | Lake Oswego, Oregon |  | 2d | [Apply](https://columbiabank.wd108.myworkdayjobs.com/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) [alt](https://columbiabank.wd108.myworkdayjobs.com/en-US/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) |
+| Western Governors University | Director, Software Engineer | Director | Salt Lake City, UT |  | 2d | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) [alt](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) |
 | DBR | Technology Design Director | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
 | Eaton Corporation | Vice President of Engineering, ARS | VP | Coraopolis, Pennsylvania | $227K–$333K | 2d | [Apply](https://eaton.eightfold.ai/careers/job/687240031164-vice-president-of-engineering-ars-charlotte-north-carolina-usa-28273?domain=eaton.com) |
 | Wild Marketing Group | Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 2d | [Apply](https://www.talent.com/view?id=644900719329157128) |
@@ -2053,7 +2049,7 @@ _830 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Huntsville, AL, USA |  | 1d | [Apply](https://adtran.wd3.myworkdayjobs.com/en-US/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
-| Mutual of Omaha | 🆕 IS Area Director | Director | Remote, USA | $190K–$215K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
+| Mutual of Omaha | IS Area Director | Director | Remote, USA | $190K–$215K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
 | Relativity | Director, Innovation and Enablement | Director | VA, USA | $211K–$317K | 1d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia/Director--Innovation-and-Enablement_26-0527-1) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |

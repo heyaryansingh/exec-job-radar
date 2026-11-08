@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,108 open roles** at **1,518 companies** · **76 new in the last 24 hours** · 5,814 company career sites watched · updated hourly · last update Nov 07, 2026 07:24 PM ET
+**4,109 open roles** at **1,519 companies** · **77 new in the last 24 hours** · 5,814 company career sites watched · updated hourly · last update Nov 07, 2026 07:49 PM ET
 
-By level: Director 2118 · VP 796 · Sr. Director 512 · Head 261 · EVP/SVP 154 · C-level 125 · ED 104 · MD 38
+By level: Director 2119 · VP 796 · Sr. Director 512 · Head 261 · EVP/SVP 154 · C-level 125 · ED 104 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (76)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (77)](#new-in-the-last-24-hours)
 - [🤠 Houston area (134)](#houston-area)
 - [👑 Executive Technology Leadership (129)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (278)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2118 · VP 796 · Sr. Director 512 · Head 261 · EVP/SVP 154
 - [☁️ Cloud & Infrastructure (379)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (500)](#transformation-delivery)
-- [🛠️ Engineering & Software (1072)](#engineering-software)
+- [🛠️ Engineering & Software (1073)](#engineering-software)
 - [📌 Other Senior Roles (310)](#other-senior-roles)
 - [🔒 Recently closed (187)](#recently-closed)
 - Daily digests: [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md)
@@ -47,6 +47,7 @@ By level: Director 2118 · VP 796 · Sr. Director 512 · Head 261 · EVP/SVP 154
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| eSentire | 🆕 Director, Software Development | Director | USA · Remote | $242K–$252K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/esentire/CANDIDATEPORTAL/jobs/5916) |
 | Dental Care Alliance | 🆕 Director, Digital Experience & Web Strategy | Director | USA |  | 1d | [Apply](https://dcacareers-dentalcarealliance.icims.com/jobs/36841/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Meta | 🆕 Data Center Facility Operations Area Director | Director | Remote, USA | $272K–$318K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004Wu9UAE_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F893926973732328%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33bbb689-dac8-11f1-8385-ad323b5e1405%26rx_job%3Da1KiE0000004Wu9UAE_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261107T220406Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | PGNA | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648728/PiovanGroup-North-America/Director-Engineering-New-Product-Development?source=Indeed_Feed) |
@@ -1821,6 +1822,7 @@ _250 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| eSentire | 🆕 Director, Software Development | Director | USA · Remote | $242K–$252K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/esentire/CANDIDATEPORTAL/jobs/5916) |
 | PGNA | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648728/PiovanGroup-North-America/Director-Engineering-New-Product-Development?source=Indeed_Feed) |
 | L3Harris | 🆕 Director, Electronic Warfare Engineering | Director | Clifton, NJ, USA | $175K–$325K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102941813824) |
 | police department | 🆕 Executive Director, Applied Engineering Division | ED | Manhattan, NY, USA | $94K–$243K | 1d | [Apply](https://cityjobs.nyc.gov/job/executive-director-applied-engineering-division-in-manhattan-jid-49087) |
@@ -2070,9 +2072,8 @@ _250 older roles in this section are in data/roles.json on the `data` branch._
 | Gray Swan AI | Director of Technology Alliances | Director | Remote (U.S. Only) |  | 8d | [Apply](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c) ⚡ [alt](https://jobs.ashbyhq.com/Gray%20Swan%20AI/c376a8e9-622e-4bb6-8841-87d954eb678c?utm_source=pX9MbA3w4g) |
 | Empirx Health | Director, Quality Engineering and Automation | Director | USA · Remote |  | 8d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=443e85e1-8bb3-4959-a05a-7e75939f9885&ccId=9201285461928_3&jobId=594488&jwId=9201285461928_1&source=IN&lang=en_US) |
 | Citi (jobs.citi.com) ⭐ | Lead Front End Software Engineer - Vice President | VP | Jersey City, NJ, US |  | 8d | [Apply](https://jobs.citi.com/job/jersey-city/lead-front-end-software-engineer-vice-president/287/102659492368) |
-| Citi (jobs.citi.com) ⭐ | Apps Development Group Manager - Senior Vice President | EVP/SVP | Tampa, FL, US |  | 8d | [Apply](https://jobs.citi.com/job/tampa/apps-development-group-manager-senior-vice-president/287/102659506048) |
 
-_822 older roles in this section are in data/roles.json on the `data` branch._
+_823 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

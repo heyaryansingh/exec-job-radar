@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,129 open roles** at **1,529 companies** · **32 new in the last 24 hours** · 5,824 company career sites watched · updated hourly · last update Nov 08, 2026 10:23 AM ET
+**4,131 open roles** at **1,530 companies** · **30 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 10:54 AM ET
 
-By level: Director 2128 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
+By level: Director 2130 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (32)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (30)](#new-in-the-last-24-hours)
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
@@ -35,8 +35,8 @@ By level: Director 2128 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154
 - [🚦 Reliability & Operations (288)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (383)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
-- [🔄 Transformation & Delivery (501)](#transformation-delivery)
-- [🛠️ Engineering & Software (1081)](#engineering-software)
+- [🔄 Transformation & Delivery (502)](#transformation-delivery)
+- [🛠️ Engineering & Software (1082)](#engineering-software)
 - [📌 Other Senior Roles (311)](#other-senior-roles)
 - [🔒 Recently closed (186)](#recently-closed)
 - Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
@@ -68,8 +68,6 @@ By level: Director 2128 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Huntsville, AL, USA |  | 1d | [Apply](https://adtran.wd3.myworkdayjobs.com/en-US/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | Berkley | 🆕 Director, Financial Data Operations and Delivery | Director | Urbandale, IA, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15195/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Technology Credit Union | 🆕 Director, Information Security | Director | San Jose, CA, USA | $154K–$222K | 1d | [Apply](https://careers-techcu.icims.com/jobs/3213/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| L3Harris | 🆕 Director, Electronic Warfare Engineering | Director | Clifton, NJ, USA | $175K–$325K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102941813824) |
-| police department | 🆕 Executive Director, Applied Engineering Division | ED | Manhattan, NY, USA | $94K–$243K | 1d | [Apply](https://cityjobs.nyc.gov/job/executive-director-applied-engineering-division-in-manhattan-jid-49087) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Severn, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/severn/maryland/info_technology/5600008976/e/) |
@@ -1737,6 +1735,7 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 | Northern Trust Corporation | Spclst, Digital Transformation-Vice President (req R163630) | VP | Chicago, IL |  | 12d | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Spclst--Digital-Transformation-Vice-President_R163630) |
 | Merck | Director, Digital Plant Lead | Director |  |  | 12d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR423740ENUS) |
 | Paragon Investing | VP of Product Strategy | VP | Remote, USA | $210K–$223K | 12d | [Apply](https://www.indeed.com/viewjob?jk=accd50c81ea2ba92) |
+| LivaNova | Director, Workforce Strategy & Transformation | Director | Remote, Texas, United States of America |  | 13d | [Apply](https://careers.livanova.com/us/en/job/LIKLIVUSJR14650EXTERNALENUS) |
 | NAVBLUE US, Inc. | Head of AH Finance Transformation and Systems: Planning & Reporting (f/m) | Head | Marseille Area |  | 13d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/Head-of-AH-Finance-Transformation-and-Systems--Planning---Reporting--f-m-_JR10441598) |
 | Oracle | Director, Program Management | Director | Nashville, TN, United States | $146K–$306K | 13d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348839) |
 | BAE Systems, Inc. | P&S Vice President - Information Technology & Digital Officer | VP | Minnesota |  | 13d | [Apply](https://builtin.com/job/p-s-vice-president-information-technology-digital-officer/10562448) |
@@ -1775,9 +1774,8 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Director, Technical Program Management - Business Cards & Payments | Director | Richmond, VA +1 | $230K–$263K | 16d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Director--TPM_R1004186-1) |
 | police department | Executive Director, Technology Delivery | ED | Manhattan, NY, USA | $84K–$223K | 16d | [Apply](https://cityjobs.nyc.gov/job/executive-director-technology-delivery-in-manhattan-jid-48576) |
 | Guardian Life | Head of Transformation | Head | New York +1 |  | 16d | [Apply](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/Head-of-Transformation_R000110471-1) |
-| Visa | Senior Director, Head of Digital Ecosystems & Strategic Partnerships | Head | ID - Jakarta, Indonesia |  | 16d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/ID---Jakarta-Indonesia/Senior-Director--Head-of-Digital-Ecosystems---Strategic-Partnerships_REF082812W) |
 
-_251 older roles in this section are in data/roles.json on the `data` branch._
+_252 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1789,8 +1787,8 @@ _251 older roles in this section are in data/roles.json on the `data` branch._
 | PIOVAN | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 1d | [Apply](https://www.piovan.com/it/job/director-engineering-new-product-development/) |
 | eSentire | 🆕 Director, Software Development | Director | USA · Remote | $242K–$252K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/esentire/CANDIDATEPORTAL/jobs/5916) |
 | PGNA | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648728/PiovanGroup-North-America/Director-Engineering-New-Product-Development?source=Indeed_Feed) |
-| L3Harris | 🆕 Director, Electronic Warfare Engineering | Director | Clifton, NJ, USA | $175K–$325K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102941813824) |
-| police department | 🆕 Executive Director, Applied Engineering Division | ED | Manhattan, NY, USA | $94K–$243K | 1d | [Apply](https://cityjobs.nyc.gov/job/executive-director-applied-engineering-division-in-manhattan-jid-49087) |
+| L3Harris | Director, Electronic Warfare Engineering | Director | Clifton, NJ, USA | $175K–$325K | 1d | [Apply](https://careers.harris.com/job/-/-/4832/102941813824) |
+| police department | Executive Director, Applied Engineering Division | ED | Manhattan, NY, USA | $94K–$243K | 1d | [Apply](https://cityjobs.nyc.gov/job/executive-director-applied-engineering-division-in-manhattan-jid-49087) |
 | THE LITTLE LIGHT HOUSE | Director of Information Technology | Director | Tulsa, OK, USA |  | 1d | [Apply](https://www.hralliance.net/Apply/JobInfo.aspx?positionId=49405&locationId=13238&source=Indeed) |
 | Three Pillars Senior Living Communities | Director of Technology | Director | Dousman, WI, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4649492/Three-Pillars/Director-of-Technology?source=Indeed_Feed) |
 | The Walt Disney Company | Director, Strategic Sourcing - Technology | Director | Burbank, CA, USA | $226K–$276K | 1d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164637EXTERNALENGLOBAL/Director-Strategic-Sourcing-Technology?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
@@ -2036,7 +2034,7 @@ _251 older roles in this section are in data/roles.json on the `data` branch._
 | Exodigo | Director of Geotechnical Engineering | Director | Remote, USA | $160K–$260K | 6d | [Apply](https://www.exodigo.com/careers?coref=1.11.pB7_8D1D) |
 | Newcode.ai | Head of Forward Deployed Engineering | Head | Chicago, IL, USA |  | 6d | [Apply](https://apply.workable.com/j/CC05B639B3) |
 
-_831 older roles in this section are in data/roles.json on the `data` branch._
+_832 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

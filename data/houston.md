@@ -1,19 +1,26 @@
 # 🤠 Senior technology roles in the Houston area
 
-134 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+141 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Confidential | 🆕 Vice President, Global People Operations & Transformation | VP | Houston, Texas |  | 1d | [Apply](https://www.recruit.net/job/vice-president-global-people-operations-jobs/390AB4851407E140) |
-| DBR | 🆕 Technology Design Director | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
-| KPMG US | 🆕 Director, Identity Access Management | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-identity-access-management-at-kpmg-us-4486918452?refId=uHpRYbeFt3vri9dUpof05A%3D%3D&trackingId=AN1lJFDV3iGxh073uHDrsQ%3D%3D) |
+| U.S. Anesthesia Partners | 🆕 Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |
+| Winston Taylor | 🆕 Houston - Director, Information Security | Director | Houston, Texas | $240K–$280K | 1d | [Apply](https://www.linkedin.com/jobs/view/houston-director-information-security-at-winston-taylor-4441076930) |
+| Confidential | Vice President, Global People Operations & Transformation | VP | Houston, Texas |  | 1d | [Apply](https://www.recruit.net/job/vice-president-global-people-operations-jobs/390AB4851407E140) |
+| Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
+| RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
+| Buyers Edge Platform | 🆕 Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
+| Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
+| American-College-of-Educatio | 🆕 VP, Enterprise Security & Infrastructure Strategy | VP | Houston, Texas | $216K–$264K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597185333/e/) |
+| DBR | Technology Design Director | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
+| KPMG US | Director, Identity Access Management | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-identity-access-management-at-kpmg-us-4486918452?refId=uHpRYbeFt3vri9dUpof05A%3D%3D&trackingId=AN1lJFDV3iGxh073uHDrsQ%3D%3D) |
 | Rockwell Automation | Director, AI4IT Office | Director | Milwaukee, Wisconsin, United States +2 |  | 2d | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Director--AI4IT-Office_R26-8060-1) |
 | Axiom Space | Director, Engineering Analysis | Director | Houston |  | 2d | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Director--Engineering-Analysis_JR100471) |
 | Grant Thornton | Transformation Director - Anaplan | Director | Houston, TX, United States |  | 2d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116215) |
 | ClickHouse | Head of Developer Relations | Head | United States +16 · Remote | $196K–$300K | 2d | [Apply](https://jobs.ashbyhq.com/clickhouse/f8d77096-72a6-41bd-bea5-af2932e394fd) ⚡ |
-| BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
-| Enerflex | 🆕 Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 3d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
-| FTI Consulting, Inc. | 🆕 Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 3d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
+| BrainWorks | Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
+| Enerflex | Transformation & IT Governance Director ERP Modernization | Director | Houston, Texas |  | 3d | [Apply](https://us.trabajo.org/job-5381-41082be210ab0bdf31444ad810b9d094) |
+| FTI Consulting, Inc. | Director, Case Management - Technology Consulting | Director | Houston, Texas |  | 3d | [Apply](https://www.ziprecruiter.com/c/fti-consulting/Job/Director,-Case-Management-Technology-Consulting/-in-Houston,TX?jid=1c5a53b13df70b92) |
 | ALDF | Technology Director: AI Governance & Salesforce Security | Director | Houston, Texas | $150K–$210K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) |
 | Confidential | Senior Vice President of Global IT | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://www.recruit.net/job/vice-president-global-jobs/54774BDABC597555) |
 | Altus Group | Director, Product Management | Director | 835 -  New York +2 | $180K–$210K | 3d | [Apply](https://altusgroup.wd3.myworkdayjobs.com/AltusGroup/job/835----New-York/Director-Product-Management_R0014110-1) |

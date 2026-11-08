@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,133 open roles** at **1,531 companies** · **29 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 03:44 PM ET
+**4,133 open roles** at **1,531 companies** · **28 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 04:45 PM ET
 
 By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 39
 
@@ -27,7 +27,7 @@ By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (29)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (28)](#new-in-the-last-24-hours)
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
@@ -75,7 +75,6 @@ By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154
 | Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
 | Fidelity Technology Group, LLC | 🆕 Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 2d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
 | RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
-| Adtran | 🆕 Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 
 <a name="houston-area"></a>
 
@@ -2045,7 +2044,7 @@ _833 older roles in this section are in data/roles.json on the `data` branch._
 | Mutual of Omaha | IS Area Director | Director | Remote, USA | $190K–$215K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
 | Relativity | Director, Innovation and Enablement | Director | VA, USA | $211K–$317K | 1d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia/Director--Innovation-and-Enablement_26-0527-1) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
-| Adtran | 🆕 Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
+| Adtran | Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | SiFive | Sr Director, SW Product Management (req Posted Yesterday) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | DBV Technologies | Vice President, Information Systems | VP | NJ, USA | $300K–$350K | 2d | [Apply](https://careers.dbv-technologies.com/jobs/8684539-vice-president-information-systems) |
 | SiFive | Sr Director, SW Product Management (req Posted Today) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |

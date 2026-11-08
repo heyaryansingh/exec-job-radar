@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,130 open roles** at **1,529 companies** · **32 new in the last 24 hours** · 5,824 company career sites watched · updated hourly · last update Nov 08, 2026 09:11 AM ET
+**4,129 open roles** at **1,529 companies** · **32 new in the last 24 hours** · 5,824 company career sites watched · updated hourly · last update Nov 08, 2026 09:54 AM ET
 
-By level: Director 2129 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
+By level: Director 2128 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -33,12 +33,12 @@ By level: Director 2129 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
 - [🧠 Data & AI (1045)](#data-ai)
 - [🚦 Reliability & Operations (288)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (384)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (383)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (501)](#transformation-delivery)
 - [🛠️ Engineering & Software (1081)](#engineering-software)
 - [📌 Other Senior Roles (311)](#other-senior-roles)
-- [🔒 Recently closed (185)](#recently-closed)
+- [🔒 Recently closed (186)](#recently-closed)
 - Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -1266,7 +1266,6 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | Information Technology Senior Management Forum | Director, International Strategy & Enablement - Global Payment Network Risk & Advisory | Director | McLean, VA, USA | $210K–$263K | 9d | [Apply](https://jobs.itsmfleaders.org/job/b92z4e/director-international-strategy-enablement-global-payment-network-risk-advisory/mclean/va) |
 | Flexera | Senior Director, Platform | Sr. Director | Remote, USA |  | 9d | [Apply](https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-United-States/Senior-Director--Platform_17615) |
 | Citi (jobs.citi.com) ⭐ | Senior Cloud and DevOps Engineer - Vice President | VP | Mississauga, ON, CA |  | 10d | [Apply](https://jobs.citi.com/job/mississauga/senior-cloud-and-devops-engineer-vice-president/287/102602560832) |
-| Oracle | Director, Core Infrastructure Engineering | Director | Austin, TX, United States | $170K–$355K | 10d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349224) |
 | STERIS | Director, Salesforce Platform & Delivery | Director | Cleveland, Ohio, United States |  | 10d | [Apply](https://careers.steris.com/us/en/job/SCZSCCUS56972EXTERNALENUS) |
 | Baltimore Corps | Director of IT Infrastructure | Director | Baltimore, MD, USA | $123K–$202K | 10d | [Apply](https://baltimorecorps2.my.site.com/lynxsoft/s/career-page?id=a0uQO00000IaLy1YAF) |
 | Capital One ⭐ | Senior Director, Product Design, Conversational Platform | Sr. Director | McLean, VA +1 | $294K–$336K | 10d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Director--Product-Design--Conversational-Platform_R1004731-2) |
@@ -1400,8 +1399,9 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Java Developer - Distributed Platform Engineering - Vice President | VP | Pune, MH, IN |  | 20d | [Apply](https://jobs.citi.com/job/pune/java-developer-distributed-platform-engineering-vice-president/287/102161044704) |
 | Citi (jobs.citi.com) ⭐ | Senior Engineering Lead – Payments Platform (SVP) | EVP/SVP | Tampa, FL, US +1 |  | 20d | [Apply](https://jobs.citi.com/job/tampa/senior-engineering-lead-payments-platform-svp/287/102161047776) |
 | Fluence Energy | Director – Platform Hardware Engineering | Director | USA-TX-Houston |  | 20d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/fluenceenergy-jobs/job/USA-TX-Houston/Director---Platform-Hardware-Engineering_JR101736) |
+| Citi (jobs.citi.com) ⭐ | Head of Digital Platforms & Customer Experience COE - Senior Vice President | EVP/SVP | Chennai, TN, IN |  | 20d | [Apply](https://jobs.citi.com/job/chennai/head-of-digital-platforms-and-customer-experience-coe-senior-vice-president/287/102161056304) |
 
-_134 older roles in this section are in data/roles.json on the `data` branch._
+_133 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2305,6 +2305,7 @@ _61 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Oracle | 🔒 Director, Core Infrastructure Engineering | Director | Austin, TX, United States | $170K–$355K | 10d | Closed |
 | Covestro | 🔒 Head of CoE Digital & AI - North America | Head | Pittsburgh, PA |  | 10d | Closed [alt](https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Pittsburgh-PA/Head-of-CoE-Digital---AI---North-America_JR-2026-02430) |
 | Clera | 🔒 CTO / Technical Co-Founder | C-level | San Francisco |  | 3d | Closed |
 | WSP | 🔒 Vice President - Rail Vehicle Engineering | VP | Boston, MA, United States | $119K–$219K | 5d | Closed |

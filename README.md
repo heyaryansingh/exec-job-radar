@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,132 open roles** at **1,530 companies** · **31 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 02:45 PM ET
+**4,133 open roles** at **1,531 companies** · **32 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 02:53 PM ET
 
-By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
+By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 39
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (31)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (32)](#new-in-the-last-24-hours)
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154
 - [☁️ Cloud & Infrastructure (383)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (503)](#transformation-delivery)
-- [🛠️ Engineering & Software (1082)](#engineering-software)
+- [🛠️ Engineering & Software (1083)](#engineering-software)
 - [📌 Other Senior Roles (311)](#other-senior-roles)
 - [🔒 Recently closed (185)](#recently-closed)
 - Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
@@ -47,6 +47,7 @@ By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| West Monroe | 🆕 Managing Director, Software Engineering | MD | Chicago, IL, USA | $280K–$378K | 0d | [Apply](https://westmonroe.com/careers/job-details-experienced-professionals?gh_jid=6251132004) |
 | PAE | 🆕 VP, Finance Excellence and Transformation | VP | US-Remote |  | 0d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-Remote/VP-Finance-Excellence-and-Transformation_R0158818) |
 | S&P Global ⭐ | 🆕 Director, DevOps Engineering | Director | Princeton, NJ | $177K–$210K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Princeton-NJ/Director--DevOps-Engineering_332522-1) |
 | S&P Global ⭐ | 🆕 Director, Infrastructure – Project Finance, New York | Director | New York, NY | $180K–$240K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Director--Infrastructure---Project-Finance--New-York_332536-1) |
@@ -1784,6 +1785,7 @@ _253 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| West Monroe | 🆕 Managing Director, Software Engineering | MD | Chicago, IL, USA | $280K–$378K | 0d | [Apply](https://westmonroe.com/careers/job-details-experienced-professionals?gh_jid=6251132004) |
 | WorldVia | 🆕 Vice President of Technology | VP | Remote |  | 1d | [Apply](https://jobs.workable.com/view/czqEG4rjz958eoe8RZA3ke/remote-vice-president-of-technology-in-roswell-at-worldvia) |
 | PIOVAN | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 1d | [Apply](https://www.piovan.com/it/job/director-engineering-new-product-development/) |
 | eSentire | 🆕 Director, Software Development | Director | USA · Remote | $242K–$252K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/esentire/CANDIDATEPORTAL/jobs/5916) |
@@ -2033,9 +2035,8 @@ _253 older roles in this section are in data/roles.json on the `data` branch._
 | GE Vernova ⭐ | Heavy Duty Combine Cycle Gas Turbine NU Technical Academy Director | Director | Atlanta +4 · Remote |  | 6d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/Heavy-Duty-Combine-Cycle-Gas-Turbine-NU-Technical-Academy-Director_R5056077) |
 | Wells Fargo ⭐ | Technology Director | Director | ISELIN, NJ |  | 6d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Technology-Director_R-585147) |
 | Exodigo | Director of Geotechnical Engineering | Director | Remote, USA | $160K–$260K | 6d | [Apply](https://www.exodigo.com/careers?coref=1.11.pB7_8D1D) |
-| Newcode.ai | Head of Forward Deployed Engineering | Head | Chicago, IL, USA |  | 6d | [Apply](https://apply.workable.com/j/CC05B639B3) |
 
-_832 older roles in this section are in data/roles.json on the `data` branch._
+_833 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

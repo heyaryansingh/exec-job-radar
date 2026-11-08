@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,129 open roles** at **1,528 companies** · **32 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 09:04 AM ET
+**4,130 open roles** at **1,529 companies** · **32 new in the last 24 hours** · 5,824 company career sites watched · updated hourly · last update Nov 08, 2026 09:11 AM ET
 
-By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
+By level: Director 2129 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,7 +36,7 @@ By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154
 - [☁️ Cloud & Infrastructure (384)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (501)](#transformation-delivery)
-- [🛠️ Engineering & Software (1080)](#engineering-software)
+- [🛠️ Engineering & Software (1081)](#engineering-software)
 - [📌 Other Senior Roles (311)](#other-senior-roles)
 - [🔒 Recently closed (185)](#recently-closed)
 - Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
@@ -1990,6 +1990,7 @@ _251 older roles in this section are in data/roles.json on the `data` branch._
 | Alvarez & Marsal | Director, Product & Technology, Technology Industry Group - Private Equity | Director | New York, NY, USA | $150K–$225K | 5d | [Apply](https://careers.alvarezandmarsal.com/en/jobs/18439310-director-product-and-technology-technology-industry-group-private-equity?tm_job=202604665&tm_event=view&tm_company=47710) |
 | Synovus | Head of Engineering - Trust and Wealth Tech (Atlanta, GA OR Nashville, TN onsite) | Head | Birmingham, AL, USA |  | 5d | [Apply](https://myjobs.adp.com/synovuscareers/cx/job-details?reqId=5001234762906) |
 | Partiful | 🦾 Head of Engineering | Head | New York, NY | $250K–$300K | 5d | [Apply](https://jobs.ashbyhq.com/partiful/e45a69cf-aee6-4a2b-a955-2b894894c573) ⚡ |
+| Zebra Technologies | VP Engineering | VP | Lincolnshire, Illinois |  | 6d | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/VP-Engineering_JR103821) |
 | Oracle | Senior Director, Employee Experience Solution Engineering | Sr. Director | Nashville, TN, United States | $194K–$414K | 6d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349408) |
 | Four Seasons | Assistant Director of Engineering | Director | Boston, Massachusetts, United States of Am |  | 6d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10375867EXTERNALENUS) |
 | Citi (jobs.citi.com) ⭐ | Fixed Income Algo Technology, Director | Director | New York, NY, US |  | 6d | [Apply](https://jobs.citi.com/job/new-york/fixed-income-algo-technology-director/287/102782077648) |
@@ -2034,9 +2035,8 @@ _251 older roles in this section are in data/roles.json on the `data` branch._
 | Wells Fargo ⭐ | Technology Director | Director | ISELIN, NJ |  | 6d | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Technology-Director_R-585147) |
 | Exodigo | Director of Geotechnical Engineering | Director | Remote, USA | $160K–$260K | 6d | [Apply](https://www.exodigo.com/careers?coref=1.11.pB7_8D1D) |
 | Newcode.ai | Head of Forward Deployed Engineering | Head | Chicago, IL, USA |  | 6d | [Apply](https://apply.workable.com/j/CC05B639B3) |
-| Gaig | Senior Casualty Claims Specialit/Claims Technical Director - Alternative Markets | Director | Remote (USA) |  | 6d | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Senior-Casualty-Claims-Specialit-Claims-Technical-Director---Alternative-Markets_R9833) |
 
-_830 older roles in this section are in data/roles.json on the `data` branch._
+_831 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

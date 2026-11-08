@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,129 open roles** at **1,528 companies** · **32 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 08:05 AM ET
+**4,129 open roles** at **1,528 companies** · **32 new in the last 24 hours** · 5,822 company career sites watched · updated hourly · last update Nov 08, 2026 09:04 AM ET
 
 By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
@@ -38,7 +38,7 @@ By level: Director 2129 · VP 803 · Sr. Director 514 · Head 261 · EVP/SVP 154
 - [🔄 Transformation & Delivery (501)](#transformation-delivery)
 - [🛠️ Engineering & Software (1080)](#engineering-software)
 - [📌 Other Senior Roles (311)](#other-senior-roles)
-- [🔒 Recently closed (186)](#recently-closed)
+- [🔒 Recently closed (185)](#recently-closed)
 - Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -2490,7 +2490,6 @@ _61 older roles in this section are in data/roles.json on the `data` branch._
 | CVS Health ⭐ | 🔒 Director Product Management – AI / ML Platform | Director | NY - New York +49 · Remote |  | 38d | Closed |
 | Coupa | 🔒 Revenue Systems Director, Platform and Architecture - 11911 | Director | Charlotte, North Carolina, United States · Remote | $152K–$213K | 39d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Executive Director, Global Technology Strategy | ED | New York, NY, United States |  | 30d | Closed |
-| Rivianvw Tech | 🔒 Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 17d | Closed |
 
 </details>
 

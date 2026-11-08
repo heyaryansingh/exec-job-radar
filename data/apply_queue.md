@@ -58,8 +58,8 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 52 | 71 | JPMorgan Chase | [Data Governance Team - CIB Chief Data Office VP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807299) | Newark, DE, United States |  | account |  |
 | 53 | 71 | City of Tacoma | [Chief Technology Officer](https://www.governmentjobs.com/careers/tacoma/jobs/5514412/chief-technology-officer) | Tacoma, WA, USA | $285,168 | via job board |  |
 | 54 | 71 | American Physical Society | [Chief digital information officer; CDIO](https://www.learn4good.com/jobs/columbia/maryland/info_technology/5585663104/e/) | Columbia, Maryland | $400,000 | via job board |  |
-| 55 | 71 | U.S. Anesthesia Partners | [Senior Director, Technology Delivery & Platform Excellence](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) | Houston, Texas | $260,000 | via job board |  |
-| 56 | 71 | American-College-of-Educatio | [VP, Enterprise Security & Infrastructure Strategy](https://www.learn4good.com/jobs/houston/texas/info_technology/5597185333/e/) | Houston, Texas | $264,000 | via job board |  |
+| 55 | 71 | American-College-of-Educatio | [VP, Enterprise Security & Infrastructure Strategy](https://www.learn4good.com/jobs/houston/texas/info_technology/5597185333/e/) | Houston, Texas | $264,000 | via job board |  |
+| 56 | 71 | U.S. Anesthesia Partners | [Senior Director, Technology Delivery & Platform Excellence](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) | Houston, Texas | $260,000 | via job board |  |
 | 57 | 70 | Shield AI | [Director, Systems Engineering & Architecture - Hivemind Enterprise](https://jobs.lever.co/shieldai/d14aa0d6-f825-441d-9a11-2949d68bc4f8) | San Diego, California | $325,000 | ⚡ quick form |  |
 | 58 | 70 | AIG | [Head of Financial Lines Technical Claims](https://aig.wd1.myworkdayjobs.com/aig/job/NY-New-York/Head-of-Financial-Lines-Technical-Claims_JR2604128-1) | NY-New York | $315,000 | account |  |
 | 59 | 70 | Morgan Stanley | [Vice President - Java Lead for Investment Banking Advisory Technology](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Vice-President---Java-Lead-for-Investment-Banking-Advisory-Technology_PT-JR046034) | New York, New York, United States of Ame |  | account |  |
@@ -162,8 +162,8 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 156 | 62 | Dynamic Recycling | [Executive Vice President, Digital Transformation](https://us.trabajo.org/job-5381-0ea8cf1d62ea92f0fa8b51c7eb67eedc) | Madison, Wisconsin |  | via job board |  |
 | 157 | 62 | SteerBridge, Inc. | [Deputy CHIEF Technology Officer](https://us.trabajo.org/job-5381-9b08cc4b7402fa844baab489d5d729fd) | Vienna, Virginia |  | via job board |  |
 | 158 | 62 | Wild Marketing Group | [Vice President of Information Technology](https://www.talent.com/view?id=644900719329157128) | Big Bend, Wisconsin |  | via job board |  |
-| 159 | 62 | WorldVia | [Vice President of Technology](https://jobs.workable.com/view/czqEG4rjz958eoe8RZA3ke/remote-vice-president-of-technology-in-roswell-at-worldvia) |  |  | via job board |  |
-| 160 | 62 | Travere Therapeutics | [Vice President, Technology and Operations](https://www.learn4good.com/jobs/marshalltown/iowa/info_technology/5601911458/e/) | Marshalltown, Iowa | $385,000 | via job board |  |
+| 159 | 62 | Travere Therapeutics | [Vice President, Technology and Operations](https://www.learn4good.com/jobs/marshalltown/iowa/info_technology/5601911458/e/) | Marshalltown, Iowa | $385,000 | via job board |  |
+| 160 | 62 | WorldVia | [Vice President of Technology](https://jobs.workable.com/view/czqEG4rjz958eoe8RZA3ke/remote-vice-president-of-technology-in-roswell-at-worldvia) |  |  | via job board |  |
 | 161 | 61 | Commvault | [Head of Global Systems Integrator Alliances](https://job-boards.greenhouse.io/commvault/jobs/5466407008) | United States |  | ⚡ quick form | 19 |
 | 162 | 61 | University of Maryland Global Campus | [Director, Enterprise Architecture](https://careers.umgc.edu/job/director-enterprise-architecture-it-and-project-management-adelphi-md-10026576/) | Adelphi, MD, USA | $220,000 | via job board |  |
 | 163 | 61 | ActionStep | [Engineering Director- AI Products](https://apply.workable.com/j/46141D5DAE) | Denver, CO, USA | $225,000 | via job board |  |
@@ -176,8 +176,8 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 170 | 61 | Partner Engineering and Science, Inc | [Director, Software Engineering](https://recruiting.ultipro.com/PAR1017/JobBoard/fad04b97-00fa-bfd5-7029-ea0d0540ccf3/OpportunityDetail?opportunityId=d7a9a5b1-ccae-4f2b-b137-b0f963b1417f&postingId=c7968f63-808d-4668-9f4c-8ad61fb39d1d) | Torrance, CA, USA | $215,000 | via job board |  |
 | 171 | 61 | Optum | [Director, Software Engineering](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2391928&lang=en) | Eden Prairie, MN, USA | $230,800 | via job board |  |
 | 172 | 61 | Cargill | [Sr. Director, Global Service Now Platform](https://careers.cargill.com/en/job/-/-/23251/102909090976) | Atlanta, GA, USA | $280,000 | via job board |  |
-| 173 | 61 | OpenKrill | [Director, Cloud Infrastructure](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) | San Jose, California | $220,000 | via job board |  |
-| 174 | 61 | Lincoln Motor Company | [Director, Cloud Platform Engineering](https://www.learn4good.com/jobs/bluffton/south-carolina/info_technology/5603241473/e/) | Bluffton, South Carolina | $268,000 | via job board |  |
+| 173 | 61 | Lincoln Motor Company | [Director, Cloud Platform Engineering](https://www.learn4good.com/jobs/bluffton/south-carolina/info_technology/5603241473/e/) | Bluffton, South Carolina | $268,000 | via job board |  |
+| 174 | 61 | OpenKrill | [Director, Cloud Infrastructure](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) | San Jose, California | $220,000 | via job board |  |
 | 175 | 60 | Tacit | [Head of Software](https://jobs.ashbyhq.com/tacit/f2369d80-b161-47cd-a595-ba2debfa7d50) | San Francisco | $300,000 | ⚡ quick form |  |
 | 176 | 60 | 3Cloud | [Consulting Director - Cloud Security](https://job-boards.greenhouse.io/3cloud/jobs/8932804002?gh_jid=8932804002) | Remote - US |  | ⚡ quick form | 2 |
 | 177 | 60 | Sensorfact | [Head of Frontend Engineering](https://jobs.ashbyhq.com/sensorfact/fbbc1b10-612b-4b24-9b7d-448668060924) | Utrecht Office |  | ⚡ quick form |  |
@@ -312,8 +312,8 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 78 | Buyers Edge Platform | [Vice President, Information Technology](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) | $320,000 | via job board |
 | 75 | Adaptive Biotechnologies | [VP, Information Technology](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) | $450,000 | via job board |
 | 74 | Ankura | [Director/Senior Director, Digital Transformation (IT Services)](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Chicago-IL/Director-Senior-Director--Digital-Transformation--IT-Services-_R104922) | $200,000 | account |
-| 71 | U.S. Anesthesia Partners | [Senior Director, Technology Delivery & Platform Excellence](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) | $260,000 | via job board |
 | 71 | American-College-of-Educatio | [VP, Enterprise Security & Infrastructure Strategy](https://www.learn4good.com/jobs/houston/texas/info_technology/5597185333/e/) | $264,000 | via job board |
+| 71 | U.S. Anesthesia Partners | [Senior Director, Technology Delivery & Platform Excellence](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) | $260,000 | via job board |
 | 69 | ALDF | [Technology Director: AI Governance & Salesforce Security](https://www.learn4good.com/jobs/houston/texas/info_technology/5584253744/e/) | $210,000 | via job board |
 | 66 | BrainWorks | [Director of IT Infrastructure & Operations — Hybrid Cloud Leader](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) | $225,000 | via job board |
 | 65 | ClickHouse | [Head of Developer Relations](https://jobs.ashbyhq.com/clickhouse/f8d77096-72a6-41bd-bea5-af2932e394fd) | $300,000 | ⚡ quick form |

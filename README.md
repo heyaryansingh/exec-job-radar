@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,127 open roles** at **1,529 companies** · **53 new in the last 24 hours** · 5,820 company career sites watched · updated hourly · last update Nov 07, 2026 11:25 PM ET
+**4,126 open roles** at **1,528 companies** · **53 new in the last 24 hours** · 5,820 company career sites watched · updated hourly · last update Nov 08, 2026 12:15 AM ET
 
-By level: Director 2127 · VP 803 · Sr. Director 513 · Head 262 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
+By level: Director 2127 · VP 803 · Sr. Director 513 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,15 +31,15 @@ By level: Director 2127 · VP 803 · Sr. Director 513 · Head 262 · EVP/SVP 154
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
-- [🧠 Data & AI (1046)](#data-ai)
+- [🧠 Data & AI (1045)](#data-ai)
 - [🚦 Reliability & Operations (288)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (382)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (501)](#transformation-delivery)
 - [🛠️ Engineering & Software (1080)](#engineering-software)
 - [📌 Other Senior Roles (310)](#other-senior-roles)
-- [🔒 Recently closed (187)](#recently-closed)
-- Daily digests: [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md) · [11-01](data/daily/2026-11-01.md)
+- [🔒 Recently closed (186)](#recently-closed)
+- Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -49,13 +49,13 @@ By level: Director 2127 · VP 803 · Sr. Director 513 · Head 262 · EVP/SVP 154
 |---|---|---|---|---|---:|---|
 | Oracle | 🆕 Director, Technical Program Management | Director | United States |  | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349745) |
 | Domino's | 🆕 Director, Data Platform Engineering (req 744000160454149) | Director | Ann Arbor, MI, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Dominos/744000160454149-director-data-platform-engineering) ⚡ |
-| WorldVia | 🆕 Vice President of Technology | VP | Remote |  | 1d | [Apply](https://jobs.workable.com/view/czqEG4rjz958eoe8RZA3ke/remote-vice-president-of-technology-in-roswell-at-worldvia) |
-| Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Marshalltown, Iowa | $285K–$385K | 1d | [Apply](https://www.learn4good.com/jobs/marshalltown/iowa/info_technology/5601911458/e/) |
 | Ladders | 🆕 Vice President, Technology and Operations | VP | Fort Worth, Texas | $285K–$385K | 1d | [Apply](https://www.learn4good.com/jobs/fort-worth/texas/info_technology/5601820339/e/) |
-| OpenKrill | 🆕 Director, Cloud Infrastructure | Director | San Jose, California | $180K–$220K | 1d | [Apply](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) |
 | Lincoln Motor Company | 🆕 Director, Cloud Platform Engineering | Director | Bluffton, South Carolina | $142K–$268K | 1d | [Apply](https://www.learn4good.com/jobs/bluffton/south-carolina/info_technology/5603241473/e/) |
+| OpenKrill | 🆕 Director, Cloud Infrastructure | Director | San Jose, California | $180K–$220K | 1d | [Apply](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) |
+| Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Marshalltown, Iowa | $285K–$385K | 1d | [Apply](https://www.learn4good.com/jobs/marshalltown/iowa/info_technology/5601911458/e/) |
 | U.S. Anesthesia Partners | 🆕 Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |
 | Winston Taylor | 🆕 Houston - Director, Information Security | Director | Houston, Texas | $240K–$280K | 1d | [Apply](https://www.linkedin.com/jobs/view/houston-director-information-security-at-winston-taylor-4441076930) |
+| WorldVia | 🆕 Vice President of Technology | VP | Remote |  | 1d | [Apply](https://jobs.workable.com/view/czqEG4rjz958eoe8RZA3ke/remote-vice-president-of-technology-in-roswell-at-worldvia) |
 | USAA ⭐ | 🆕 Director of Business Data & Analytics – AI Governance | Director | San Antonio Home Office I +3 | $165K–$315K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director-of-Business-Data---Analytics---AI-Governance_R0122198) |
 | PIOVAN | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 1d | [Apply](https://www.piovan.com/it/job/director-engineering-new-product-development/) |
 | eSentire | 🆕 Director, Software Development | Director | USA · Remote | $242K–$252K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/esentire/CANDIDATEPORTAL/jobs/5916) |
@@ -87,13 +87,13 @@ By level: Director 2127 · VP 803 · Sr. Director 513 · Head 262 · EVP/SVP 154
 | Walker & Dunlop | 🆕 VP, Analytics, Data Science & AI Data Enablement | VP | Remote, USA | $220K–$260K | 1d | [Apply](https://walkerdunlop.wd1.myworkdayjobs.com/en-US/WD/job/Remote---USA/VP--Analytics--Data-Science---AI-Data-Enablement_Req-2019) |
 | Chubb ⭐ | 🆕 VP, Digital Technology (Consumer) | VP | Jersey City, NJ, United States | $200K–$230K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37870) |
 | Gartner | 🆕 Vice President, Technology & Analytics | VP | Stamford, CT +1 |  | 1d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Vice-President--Technology---Analytivs_115888) |
-| Fidelity Technology Group, LLC | 🆕 Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 2d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
-| American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Severn, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/severn/maryland/info_technology/5600008976/e/) |
-| Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
-| RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
-| Buyers Edge Platform | 🆕 Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
+| American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Severn, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/severn/maryland/info_technology/5600008976/e/) |
 | American-College-of-Educatio | 🆕 VP, Enterprise Security & Infrastructure Strategy | VP | Houston, Texas | $216K–$264K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597185333/e/) |
+| Buyers Edge Platform | 🆕 Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
+| Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
+| Fidelity Technology Group, LLC | 🆕 Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 2d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
+| RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | Columbia Bank | 🆕 Model Development & Decision Science Director | Director | Lake Oswego, Oregon |  | 2d | [Apply](https://columbiabank.wd108.myworkdayjobs.com/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) [alt](https://columbiabank.wd108.myworkdayjobs.com/en-US/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) |
 | Western Governors University | 🆕 Director, Software Engineer | Director | Salt Lake City, UT |  | 2d | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) [alt](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) |
@@ -112,11 +112,11 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | U.S. Anesthesia Partners | 🆕 Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |
 | Winston Taylor | 🆕 Houston - Director, Information Security | Director | Houston, Texas | $240K–$280K | 1d | [Apply](https://www.linkedin.com/jobs/view/houston-director-information-security-at-winston-taylor-4441076930) |
 | Confidential | Vice President, Global People Operations & Transformation | VP | Houston, Texas |  | 1d | [Apply](https://www.recruit.net/job/vice-president-global-people-operations-jobs/390AB4851407E140) |
-| Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
-| RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
-| Buyers Edge Platform | 🆕 Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | American-College-of-Educatio | 🆕 VP, Enterprise Security & Infrastructure Strategy | VP | Houston, Texas | $216K–$264K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597185333/e/) |
+| Buyers Edge Platform | 🆕 Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
+| Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
+| RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
 | DBR | Technology Design Director | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
 | KPMG US | Director, Identity Access Management | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-identity-access-management-at-kpmg-us-4486918452?refId=uHpRYbeFt3vri9dUpof05A%3D%3D&trackingId=AN1lJFDV3iGxh073uHDrsQ%3D%3D) |
 | Rockwell Automation | Director, AI4IT Office | Director | Milwaukee, Wisconsin, United States +2 |  | 2d | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Director--AI4IT-Office_R26-8060-1) |
@@ -904,7 +904,7 @@ _30 older roles in this section are in data/roles.json on the `data` branch._
 | Freshworks | Senior Director, AI Platform | Sr. Director | San Mateo, CA, us | $290K–$360K | 9d | [Apply](https://jobs.smartrecruiters.com/Freshworks/744000158808860-senior-director-ai-platform) ⚡ |
 | Dentsu | Data Director | Director | Cudinamarca |  | 9d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Cudinamarca/Data-Director_R1129923) |
 
-_796 older roles in this section are in data/roles.json on the `data` branch._
+_795 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -912,8 +912,8 @@ _796 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Marshalltown, Iowa | $285K–$385K | 1d | [Apply](https://www.learn4good.com/jobs/marshalltown/iowa/info_technology/5601911458/e/) |
 | Ladders | 🆕 Vice President, Technology and Operations | VP | Fort Worth, Texas | $285K–$385K | 1d | [Apply](https://www.learn4good.com/jobs/fort-worth/texas/info_technology/5601820339/e/) |
+| Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Marshalltown, Iowa | $285K–$385K | 1d | [Apply](https://www.learn4good.com/jobs/marshalltown/iowa/info_technology/5601911458/e/) |
 | Confidential | Vice President, Global People Operations & Transformation | VP | Houston, Texas |  | 1d | [Apply](https://www.recruit.net/job/vice-president-global-people-operations-jobs/390AB4851407E140) |
 | United Airlines | Managing Director - Digital Infrastructure and Reliability | MD | Chicago, Illinois, United States |  | 2d | [Apply](https://careers.united.com/us/en/job/UAIUADUSWHQ00027045EXTERNALENUSTALEO) |
 | World Finance | Director of IT Cloud Operations | Director | Greenville, SC, United States |  | 2d | [Apply](https://worldacceptance.wd12.myworkdayjobs.com/World_Finance/job/Greenville-SC-United-States/Director-of-IT-Cloud-Operations_R19562) [alt](https://worldacceptance.wd12.myworkdayjobs.com/World_Finance/job/Greenville-SC-United-States/Director-of-IT-Cloud-Operations_R19562) |
@@ -1171,8 +1171,8 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| OpenKrill | 🆕 Director, Cloud Infrastructure | Director | San Jose, California | $180K–$220K | 1d | [Apply](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) |
 | Lincoln Motor Company | 🆕 Director, Cloud Platform Engineering | Director | Bluffton, South Carolina | $142K–$268K | 1d | [Apply](https://www.learn4good.com/jobs/bluffton/south-carolina/info_technology/5603241473/e/) |
+| OpenKrill | 🆕 Director, Cloud Infrastructure | Director | San Jose, California | $180K–$220K | 1d | [Apply](https://www.learn4good.com/jobs/san-jose/california/info_technology/5602476519/e/) |
 | U.S. Anesthesia Partners | 🆕 Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |
 | Marvell Technology | 🆕 Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
 | Mutual of Omaha | 🆕 Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 1d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
@@ -1821,11 +1821,11 @@ _251 older roles in this section are in data/roles.json on the `data` branch._
 | Promevo | Director, Information Technology | Director | Remote, USA |  | 1d | [Apply](https://promevo.com/careers?gnk=job&gni=8a7885aca18473fa01a1b1d475fd7f81&gns=Indeed+Free) |
 | ShipFusion | Director, IT | Director | Dallas, TX, USA |  | 1d | [Apply](https://grnh.se/3iag29y18us) |
 | ShipFusion | Director, IT | Director | Irving, TX, USA |  | 1d | [Apply](https://grnh.se/3iag29y18us) |
-| Fidelity Technology Group, LLC | 🆕 Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 2d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
-| Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
-| RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
-| Buyers Edge Platform | 🆕 Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
+| Buyers Edge Platform | 🆕 Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
+| Confidential | 🆕 Head of Automation Technology | Head | Houston, Texas |  | 2d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
+| Fidelity Technology Group, LLC | 🆕 Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 2d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
+| RAB Lighting | 🆕 Director of Business Technology | Director | Houston, Texas | $150K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
 | Columbia Bank | 🆕 Model Development & Decision Science Director | Director | Lake Oswego, Oregon |  | 2d | [Apply](https://columbiabank.wd108.myworkdayjobs.com/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) [alt](https://columbiabank.wd108.myworkdayjobs.com/en-US/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) |
 | Western Governors University | 🆕 Director, Software Engineer | Director | Salt Lake City, UT |  | 2d | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) [alt](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Director--Software-Engineer_JR-026558) |
 | DBR | Technology Design Director | Director | Houston, Texas |  | 2d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
@@ -2326,6 +2326,7 @@ _60 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Covestro | 🔒 Head of CoE Digital & AI - North America | Head | Pittsburgh, PA |  | 10d | Closed [alt](https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Pittsburgh-PA/Head-of-CoE-Digital---AI---North-America_JR-2026-02430) |
 | Clera | 🔒 CTO / Technical Co-Founder | C-level | San Francisco |  | 3d | Closed |
 | WSP | 🔒 Vice President - Rail Vehicle Engineering | VP | Boston, MA, United States | $119K–$219K | 5d | Closed |
 | Hilton ⭐ | 🔒 Assistant Director of Engineering - Conrad Orlando | Director | Orlando, FL, United States |  | 31d | Closed |
@@ -2511,8 +2512,6 @@ _60 older roles in this section are in data/roles.json on the `data` branch._
 | Coupa | 🔒 Revenue Systems Director, Platform and Architecture - 11911 | Director | Charlotte, North Carolina, United States · Remote | $152K–$213K | 39d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Executive Director, Global Technology Strategy | ED | New York, NY, United States |  | 30d | Closed |
 | Rivianvw Tech | 🔒 Director - Infotainment and Connectivity Integration | Director | Palo Alto, California · Remote | $219K–$359K | 17d | Closed |
-| CVS Health ⭐ | 🔒 Lead Director - Digital Engineering, Cloud Platform | Director | CT - Hartford · Remote |  | 26d | Closed |
-| CVS Health ⭐ | 🔒 Director, Digital Strategy & Operations | Director | MA - Work from home +10 · Remote |  | 18d | Closed |
 
 </details>
 

@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,131 open roles** at **1,530 companies** · **30 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 11:54 AM ET
+**4,132 open roles** at **1,530 companies** · **31 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 12:55 PM ET
 
-By level: Director 2130 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
+By level: Director 2130 · VP 805 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 126 · ED 104 · MD 38
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (30)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (31)](#new-in-the-last-24-hours)
 - [🤠 Houston area (141)](#houston-area)
 - [👑 Executive Technology Leadership (130)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
@@ -35,7 +35,7 @@ By level: Director 2130 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154
 - [🚦 Reliability & Operations (288)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (383)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
-- [🔄 Transformation & Delivery (502)](#transformation-delivery)
+- [🔄 Transformation & Delivery (503)](#transformation-delivery)
 - [🛠️ Engineering & Software (1082)](#engineering-software)
 - [📌 Other Senior Roles (311)](#other-senior-roles)
 - [🔒 Recently closed (186)](#recently-closed)
@@ -47,6 +47,7 @@ By level: Director 2130 · VP 804 · Sr. Director 514 · Head 261 · EVP/SVP 154
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| PAE | 🆕 VP, Finance Excellence and Transformation | VP | US-Remote |  | 0d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-Remote/VP-Finance-Excellence-and-Transformation_R0158818) |
 | S&P Global ⭐ | 🆕 Director, DevOps Engineering | Director | Princeton, NJ | $177K–$210K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Princeton-NJ/Director--DevOps-Engineering_332522-1) |
 | S&P Global ⭐ | 🆕 Director, Infrastructure – Project Finance, New York | Director | New York, NY | $180K–$240K | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Director--Infrastructure---Project-Finance--New-York_332536-1) |
 | Oracle | 🆕 Director, Technical Program Management | Director | United States |  | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349745) |
@@ -1524,6 +1525,7 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| PAE | 🆕 VP, Finance Excellence and Transformation | VP | US-Remote |  | 0d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-Remote/VP-Finance-Excellence-and-Transformation_R0158818) |
 | Oracle | 🆕 Director, Technical Program Management | Director | United States |  | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349745) |
 | Dental Care Alliance | 🆕 Director, Digital Experience & Web Strategy | Director | USA |  | 1d | [Apply](https://dcacareers-dentalcarealliance.icims.com/jobs/36841/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Chubb Insurance | VP, Digital Technology (Consumer) | VP | Jersey City, NJ, USA | $200K–$230K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/37870) |
@@ -1773,9 +1775,8 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 | Amgen ⭐ | Executive Director, Digital Product Management -Research | ED | US - California - South San Francisco · Remote | $249K–$337K | 16d | [Apply](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Executive-Director--Digital-Product-Management--Research_R-252246) |
 | Capital One ⭐ | Director, Technical Program Management - Business Cards & Payments | Director | Richmond, VA +1 | $230K–$263K | 16d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Director--TPM_R1004186-1) |
 | police department | Executive Director, Technology Delivery | ED | Manhattan, NY, USA | $84K–$223K | 16d | [Apply](https://cityjobs.nyc.gov/job/executive-director-technology-delivery-in-manhattan-jid-48576) |
-| Guardian Life | Head of Transformation | Head | New York +1 |  | 16d | [Apply](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/Head-of-Transformation_R000110471-1) |
 
-_252 older roles in this section are in data/roles.json on the `data` branch._
+_253 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

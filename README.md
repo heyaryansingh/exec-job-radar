@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,110 open roles** at **1,519 companies** · **62 new in the last 24 hours** · 5,815 company career sites watched · updated hourly · last update Nov 07, 2026 08:24 PM ET
+**4,110 open roles** at **1,519 companies** · **59 new in the last 24 hours** · 5,815 company career sites watched · updated hourly · last update Nov 07, 2026 09:24 PM ET
 
 By level: Director 2120 · VP 796 · Sr. Director 512 · Head 261 · EVP/SVP 154 · C-level 125 · ED 104 · MD 38
 
@@ -27,7 +27,7 @@ By level: Director 2120 · VP 796 · Sr. Director 512 · Head 261 · EVP/SVP 154
 
 ## Contents
 
-- [🆕 New in the last 24 hours (62)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (59)](#new-in-the-last-24-hours)
 - [🤠 Houston area (134)](#houston-area)
 - [👑 Executive Technology Leadership (129)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (278)](#security-risk-technology)
@@ -95,9 +95,6 @@ By level: Director 2120 · VP 796 · Sr. Director 512 · Head 261 · EVP/SVP 154
 | DBV Technologies | 🆕 Vice President, Information Systems | VP | NJ, USA | $300K–$350K | 2d | [Apply](https://careers.dbv-technologies.com/jobs/8684539-vice-president-information-systems) |
 | Geotab | 🆕 Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 2d | [Apply](https://grnh.se/lzrm1k1e8us) |
 | UnitedHealth Group ⭐ | 🆕 Director, Software Engineering | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 2d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering/34088/102961794048) |
-| SambaNova Systems | 🆕 Senior Director of IT | Sr. Director | Austin, Texas, United States +1 | $2K–$1,000K | 2d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6233377004) ⚡ |
-| Blue Origin | 🆕 Sr. Director, New Glenn Mission Management - National Security | Sr. Director | Space Coast, FL +4 |  | 2d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Sr-Director--New-Glenn-Mission-Management---National-Security_R75149) |
-| SiFive | 🆕 Sr Director, SW Product Management (req Posted Today) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Philadelphia, Pennsylvania | $290K–$395K | 3d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5573115562/e/) |
 | BrainWorks | 🆕 Director of IT Infrastructure & Operations — Hybrid Cloud Leader | Director | Houston, Texas | $190K–$225K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5584113068/e/) |
 | DHL Holdings Corp | 🆕 VP, Technology and Strategy (Job 1513) | VP | Texas | $230K–$285K | 3d | [Apply](https://jobs.womenforhire.com/job/usa/onion-creek-tx/vp-technology-and-strategy-job-1513-219710/) |
@@ -398,7 +395,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | White Oak ISD | 🆕 Director of Maintenance and Security Operations | Director | White Oak, TX, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5980444) |
 | Technology Credit Union | 🆕 Director, Information Security | Director | San Jose, CA, USA | $154K–$222K | 1d | [Apply](https://careers-techcu.icims.com/jobs/3213/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | KPMG US | 🆕 Director, Identity Access Management | Director | Houston, Texas |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-identity-access-management-at-kpmg-us-4486918452?refId=uHpRYbeFt3vri9dUpof05A%3D%3D&trackingId=AN1lJFDV3iGxh073uHDrsQ%3D%3D) |
-| Blue Origin | 🆕 Sr. Director, New Glenn Mission Management - National Security | Sr. Director | Space Coast, FL +4 |  | 2d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Sr-Director--New-Glenn-Mission-Management---National-Security_R75149) |
+| Blue Origin | Sr. Director, New Glenn Mission Management - National Security | Sr. Director | Space Coast, FL +4 |  | 2d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Sr-Director--New-Glenn-Mission-Management---National-Security_R75149) |
 | United Airlines | Director - Network Infrastructure Security & Engineering | Director | Chicago, Illinois, United States |  | 2d | [Apply](https://careers.united.com/us/en/job/UAIUADUSWHQ00026962EXTERNALENUSTALEO) |
 | Four Seasons | Director, Security and Safety | Director | Teton Village, Wyoming, United States of A |  | 2d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10397466EXTERNALENUS) |
 | Pax8 | Director of Security GRC | Director | United States |  | 2d | [Apply](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/United-States/Director-of-Security-GRC_R-102512) |
@@ -1827,7 +1824,7 @@ _250 older roles in this section are in data/roles.json on the `data` branch._
 | Wild Marketing Group | 🆕 Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 2d | [Apply](https://www.talent.com/view?id=644900719329157128) |
 | Geotab | 🆕 Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 2d | [Apply](https://grnh.se/lzrm1k1e8us) |
 | UnitedHealth Group ⭐ | 🆕 Director, Software Engineering | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 2d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering/34088/102961794048) |
-| SambaNova Systems | 🆕 Senior Director of IT | Sr. Director | Austin, Texas, United States +1 | $2K–$1,000K | 2d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6233377004) ⚡ |
+| SambaNova Systems | Senior Director of IT | Sr. Director | Austin, Texas, United States +1 | $2K–$1,000K | 2d | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6233377004) ⚡ |
 | Metropolitan Transportation Authority | Senior Director, Product Development | Sr. Director | New York, NY, USA | $202K–$238K | 2d | [Apply](https://careers.mta.org/jobs/18458734-senior-director-product-development) |
 | TeraRecon | Director of Information Technology | Director | Remote, USA |  | 2d | [Apply](https://grnh.se/lzpurdk39us) |
 | WSP | Senior Vice President, California Technical Excellence Director | EVP/SVP | Los Angeles, CA, United States | $250K–$323K | 2d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99024) |
@@ -2072,7 +2069,7 @@ _823 older roles in this section are in data/roles.json on the `data` branch._
 | Adtran | 🆕 Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted Yesterday) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | DBV Technologies | 🆕 Vice President, Information Systems | VP | NJ, USA | $300K–$350K | 2d | [Apply](https://careers.dbv-technologies.com/jobs/8684539-vice-president-information-systems) |
-| SiFive | 🆕 Sr Director, SW Product Management (req Posted Today) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
+| SiFive | Sr Director, SW Product Management (req Posted Today) | Sr. Director | Oregon +1 |  | 2d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Capgemini Invent | VP, Insurance Leader | VP | New York, NY, USA | $275K–$350K | 2d | [Apply](https://www.capgemini.com/jobs/588711-en_GB_SAPBTP/) |
 | Judi Health | Vice President, Product – Judi Care | VP | Charlotte, North Carolina, United States +2 | $241K–$302K | 2d | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5457386008) ⚡ |
 | Blue Origin | Director, Fluids Systems - New Glenn LSA | Director | Greater Seattle Area |  | 2d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Director--Fluids-Systems---New-Glenn-LSA_R75515-1) |

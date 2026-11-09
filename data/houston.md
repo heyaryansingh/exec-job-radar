@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-143 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+144 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| HP | 🆕 Vice President, SC Network, Resilience, Analytics Transformation | VP | Spring, Texas, United States of America | $266K–$318K | 0d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Vice-President--SC-Network--Resilience--Analytics-Transformation_3170130-1) |
 | AMSYS Talent | 🆕 Senior Director - IT Activation Services | Sr. Director | Houston, Texas |  | 1d | [Apply](https://www.ziprecruiter.com/c/amsys-talent/Job/Senior-Director-IT-Activation-Services/-in-Houston,TX?jid=c20d9d5e2514b9d2) |
 | Testing Site - JPMC | 🆕 Continuous Delivery - Product Manager, Vice President | VP | Houston, Texas |  | 2d | [Apply](https://jooble.org/jdp/2303436025763233556) |
 | U.S. Anesthesia Partners | Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |

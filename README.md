@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,137 open roles** at **1,534 companies** · **26 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 09:35 PM ET
+**4,138 open roles** at **1,534 companies** · **26 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 10:36 PM ET
 
-By level: Director 2130 · VP 807 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 127 · ED 104 · MD 40
+By level: Director 2131 · VP 807 · Sr. Director 514 · Head 261 · EVP/SVP 154 · C-level 127 · ED 104 · MD 40
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -32,7 +32,7 @@ By level: Director 2130 · VP 807 · Sr. Director 514 · Head 261 · EVP/SVP 154
 - [👑 Executive Technology Leadership (131)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (280)](#security-risk-technology)
 - [🧠 Data & AI (1046)](#data-ai)
-- [🚦 Reliability & Operations (288)](#reliability-operations)
+- [🚦 Reliability & Operations (289)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (384)](#cloud-infrastructure)
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (504)](#transformation-delivery)
@@ -48,6 +48,7 @@ By level: Director 2130 · VP 807 · Sr. Director 514 · Head 261 · EVP/SVP 154
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Taulia | 🆕 VP, Product Management (Virtual Card Platform) | VP | USA | $190K–$225K | 0d | [Apply](https://careers.taulia.com/job/VP%2C-Product-Management-%28Virtual-Card-Platform%29/1373380900/?feedId=401300&utm_source=Indeed&utm_campaign=Taulia_Indeed) |
+| NTT Global Data Centers Americas, Inc. | 🆕 Director, Telemetry Engineering and Operations | Director | Remote, USA | $219K–$312K | 1d | [Apply](https://nttglobaldatacenters.wd501.myworkdayjobs.com/External/job/Remote-USA/Director--Telemetry-Engineering-and-Operations_JR101617) |
 | Amentum | 🆕 VP, Finance Excellence and Transformation | VP | Remote, USA |  | 1d | [Apply](https://www.amentumcareers.com/jobs/vp-finance-excellence-and-transformation-remote-united-states-732d56fb-94e4-4ea1-acf7-91d63c5e7e12?source=Indeed+Feed) |
 | Aqumulate LLC | 🆕 Chief Technology Officer | C-level | Glen Cove, NY, USA | $257K–$315K | 1d | [Apply](https://www.indeed.com/viewjob?jk=ce0623d39a8d6f1f) |
 | State Street ⭐ | 🆕 Alternative Investments Data Solutions, Managing Director | MD | Princeton, New Jersey +3 | $170K–$252K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Alternative-Investments-Data-Solutions--Managing-Director_R-796856-1) |
@@ -64,7 +65,6 @@ By level: Director 2130 · VP 807 · Sr. Director 514 · Head 261 · EVP/SVP 154
 | Winston Taylor | 🆕 Houston - Director, Information Security | Director | Houston, Texas | $240K–$280K | 2d | [Apply](https://www.linkedin.com/jobs/view/houston-director-information-security-at-winston-taylor-4441076930) |
 | WorldVia | 🆕 Vice President of Technology | VP | Remote |  | 2d | [Apply](https://jobs.workable.com/view/czqEG4rjz958eoe8RZA3ke/remote-vice-president-of-technology-in-roswell-at-worldvia) |
 | USAA ⭐ | 🆕 Director of Business Data & Analytics – AI Governance | Director | San Antonio Home Office I +3 | $165K–$315K | 2d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director-of-Business-Data---Analytics---AI-Governance_R0122198) |
-| PIOVAN | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 2d | [Apply](https://www.piovan.com/it/job/director-engineering-new-product-development/) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adaptive Biotechnologies | 🆕 VP, Information Technology | VP | Houston, Texas | $300K–$450K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Severn, Maryland | $250K–$400K | 3d | [Apply](https://www.learn4good.com/jobs/severn/maryland/info_technology/5600008976/e/) |
@@ -886,6 +886,7 @@ _796 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| NTT Global Data Centers Americas, Inc. | 🆕 Director, Telemetry Engineering and Operations | Director | Remote, USA | $219K–$312K | 1d | [Apply](https://nttglobaldatacenters.wd501.myworkdayjobs.com/External/job/Remote-USA/Director--Telemetry-Engineering-and-Operations_JR101617) |
 | Ladders | 🆕 Vice President, Technology and Operations | VP | Fort Worth, Texas | $285K–$385K | 2d | [Apply](https://www.learn4good.com/jobs/fort-worth/texas/info_technology/5601820339/e/) |
 | Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Marshalltown, Iowa | $285K–$385K | 2d | [Apply](https://www.learn4good.com/jobs/marshalltown/iowa/info_technology/5601911458/e/) |
 | Confidential | Vice President, Global People Operations & Transformation | VP | Houston, Texas |  | 2d | [Apply](https://www.recruit.net/job/vice-president-global-people-operations-jobs/390AB4851407E140) |
@@ -1135,9 +1136,8 @@ _796 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | Payments-Digital & Design-Business Continuity-Incident & Release Management-Product Manager-Vice President | VP | Palo Alto, CA, United States |  | 26d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797175) |
 | NAVBLUE US, Inc. | Head of Production AH Technik (all genders) | Head | Calden (AH Technik) |  | 27d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Calden-AH-Technik/Head-of-Production-AH-Technik--all-genders-_JR10441737) |
 | Criticalloop | Head of Production | Head | Torrance (On-Site) | $200K–$260K | 27d | [Apply](https://jobs.ashbyhq.com/criticalloop/b187f93f-db47-4dd6-9dfb-777f18bce513) ⚡ |
-| BNY ⭐ | Vice President, Technology Service Desk/On-Site Support | VP | Lake Mary, FL, United States |  | 27d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82292) |
 
-_38 older roles in this section are in data/roles.json on the `data` branch._
+_39 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1782,7 +1782,7 @@ _254 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | West Monroe | 🆕 Managing Director, Software Engineering | MD | Chicago, IL, USA | $280K–$378K | 1d | [Apply](https://westmonroe.com/careers/job-details-experienced-professionals?gh_jid=6251132004) |
 | WorldVia | 🆕 Vice President of Technology | VP | Remote |  | 2d | [Apply](https://jobs.workable.com/view/czqEG4rjz958eoe8RZA3ke/remote-vice-president-of-technology-in-roswell-at-worldvia) |
-| PIOVAN | 🆕 Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 2d | [Apply](https://www.piovan.com/it/job/director-engineering-new-product-development/) |
+| PIOVAN | Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 2d | [Apply](https://www.piovan.com/it/job/director-engineering-new-product-development/) |
 | eSentire | Director, Software Development | Director | USA · Remote | $242K–$252K | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/esentire/CANDIDATEPORTAL/jobs/5916) |
 | PGNA | Director Engineering, New Product Development | Director | Cranberry Township, PA, USA |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648728/PiovanGroup-North-America/Director-Engineering-New-Product-Development?source=Indeed_Feed) |
 | L3Harris | Director, Electronic Warfare Engineering | Director | Clifton, NJ, USA | $175K–$325K | 2d | [Apply](https://careers.harris.com/job/-/-/4832/102941813824) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,145 open roles** at **1,537 companies** · **17 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 08, 2026 11:35 PM ET
+**4,145 open roles** at **1,537 companies** · **17 new in the last 24 hours** · 5,825 company career sites watched · updated hourly · last update Nov 09, 2026 12:25 AM ET
 
 By level: Director 2132 · VP 810 · Sr. Director 515 · Head 261 · EVP/SVP 155 · C-level 128 · ED 104 · MD 40
 
@@ -38,8 +38,8 @@ By level: Director 2132 · VP 810 · Sr. Director 515 · Head 261 · EVP/SVP 155
 - [🔄 Transformation & Delivery (505)](#transformation-delivery)
 - [🛠️ Engineering & Software (1085)](#engineering-software)
 - [📌 Other Senior Roles (311)](#other-senior-roles)
-- [🔒 Recently closed (182)](#recently-closed)
-- Daily digests: [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md) · [11-02](data/daily/2026-11-02.md)
+- [🔒 Recently closed (180)](#recently-closed)
+- Daily digests: [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -48,8 +48,8 @@ By level: Director 2132 · VP 810 · Sr. Director 515 · Head 261 · EVP/SVP 155
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Taulia | 🆕 VP, Product Management (Virtual Card Platform) | VP | USA | $190K–$225K | 0d | [Apply](https://careers.taulia.com/job/VP%2C-Product-Management-%28Virtual-Card-Platform%29/1373380900/?feedId=401300&utm_source=Indeed&utm_campaign=Taulia_Indeed) |
-| Travere Therapeutics | 🆕 Vice President, People Technology and Operations | VP | Denver, Colorado |  | 1d | [Apply](https://www.talent.com/view?id=645107396579691846) |
 | AMSYS Talent | 🆕 Senior Director - IT Activation Services | Sr. Director | Houston, Texas |  | 1d | [Apply](https://www.ziprecruiter.com/c/amsys-talent/Job/Senior-Director-IT-Activation-Services/-in-Houston,TX?jid=c20d9d5e2514b9d2) |
+| Travere Therapeutics | 🆕 Vice President, People Technology and Operations | VP | Denver, Colorado |  | 1d | [Apply](https://www.talent.com/view?id=645107396579691846) |
 | NTT Global Data Centers Americas, Inc. | 🆕 Director, Telemetry Engineering and Operations | Director | Remote, USA | $219K–$312K | 1d | [Apply](https://nttglobaldatacenters.wd501.myworkdayjobs.com/External/job/Remote-USA/Director--Telemetry-Engineering-and-Operations_JR101617) |
 | Amentum | 🆕 VP, Finance Excellence and Transformation | VP | Remote, USA |  | 1d | [Apply](https://www.amentumcareers.com/jobs/vp-finance-excellence-and-transformation-remote-united-states-732d56fb-94e4-4ea1-acf7-91d63c5e7e12?source=Indeed+Feed) |
 | Aqumulate LLC | 🆕 Chief Technology Officer | C-level | Glen Cove, NY, USA | $257K–$315K | 1d | [Apply](https://www.indeed.com/viewjob?jk=ce0623d39a8d6f1f) |
@@ -58,11 +58,11 @@ By level: Director 2132 · VP 810 · Sr. Director 515 · Head 261 · EVP/SVP 155
 | PAE | 🆕 VP, Finance Excellence and Transformation | VP | US-Remote |  | 1d | [Apply](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-Remote/VP-Finance-Excellence-and-Transformation_R0158818) |
 | S&P Global ⭐ | 🆕 Director, DevOps Engineering | Director | Princeton, NJ | $177K–$210K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Princeton-NJ/Director--DevOps-Engineering_332522-1) |
 | S&P Global ⭐ | 🆕 Director, Infrastructure – Project Finance, New York | Director | New York, NY | $180K–$240K | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Director--Infrastructure---Project-Finance--New-York_332536-1) |
-| Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Kiryas Joel, New York | $285K–$385K | 2d | [Apply](https://www.learn4good.com/jobs/kiryas-joel/new-york/info_technology/5602819257/e/) |
-| Signal & Strand | 🆕 SVP, Immersive Experience Technology | EVP/SVP | Los Angeles, California |  | 2d | [Apply](https://us.trabajo.org/job-2480-11c8e4de754affc0847e3295ee0e2ac5) |
-| Jobot | 🆕 Director of IT and Infrastructure - FinTech | Director | Auburn, Washington | $180K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/auburn/washington/info_technology/5602616555/e/) |
 | Harnham | 🆕 Chief Technology Officer | C-level | Kiryas Joel, New York | $180K–$290K | 2d | [Apply](https://www.learn4good.com/jobs/kiryas-joel/new-york/software_development/5602673743/e/) |
+| Jobot | 🆕 Director of IT and Infrastructure - FinTech | Director | Auburn, Washington | $180K–$225K | 2d | [Apply](https://www.learn4good.com/jobs/auburn/washington/info_technology/5602616555/e/) |
+| Signal & Strand | 🆕 SVP, Immersive Experience Technology | EVP/SVP | Los Angeles, California |  | 2d | [Apply](https://us.trabajo.org/job-2480-11c8e4de754affc0847e3295ee0e2ac5) |
 | Testing Site - JPMC | 🆕 Continuous Delivery - Product Manager, Vice President | VP | Houston, Texas |  | 2d | [Apply](https://jooble.org/jdp/2303436025763233556) |
+| Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Kiryas Joel, New York | $285K–$385K | 2d | [Apply](https://www.learn4good.com/jobs/kiryas-joel/new-york/info_technology/5602819257/e/) |
 | SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 
 <a name="houston-area"></a>
@@ -2474,8 +2474,6 @@ _61 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🔒 Executive Director, AI & Data Governance — Controls Strategy (Client Onboarding and Documentation Operations) | ED | NJ, United States |  | 17d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Data Product Manager - Vice President | VP | NY, United States |  | 17d | Closed |
 | Expedia Group ⭐ | 🔒 Director, Technology | Director | Washington - Seattle Campus |  | 38d | Closed |
-| JPMorgan Chase ⭐ | 🔒 Vice President, AI Product Manager | VP | New York, NY, United States |  | 21d | Closed |
-| CVS Health ⭐ | 🔒 Executive Director, Software Engineering AI Solutions | ED | RI - Woonsocket · Remote |  | 24d | Closed |
 
 </details>
 

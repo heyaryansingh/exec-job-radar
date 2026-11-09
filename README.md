@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,146 open roles** at **1,537 companies** · **16 new in the last 24 hours** · 5,826 company career sites watched · updated hourly · last update Nov 09, 2026 02:26 AM ET
+**4,147 open roles** at **1,537 companies** · **16 new in the last 24 hours** · 5,826 company career sites watched · updated hourly · last update Nov 09, 2026 03:26 AM ET
 
-By level: Director 2133 · VP 810 · Sr. Director 515 · Head 261 · EVP/SVP 155 · C-level 128 · ED 104 · MD 40
+By level: Director 2133 · VP 810 · Sr. Director 516 · Head 261 · EVP/SVP 155 · C-level 128 · ED 104 · MD 40
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -37,8 +37,8 @@ By level: Director 2133 · VP 810 · Sr. Director 515 · Head 261 · EVP/SVP 155
 - [🏛️ Architecture (110)](#architecture)
 - [🔄 Transformation & Delivery (505)](#transformation-delivery)
 - [🛠️ Engineering & Software (1085)](#engineering-software)
-- [📌 Other Senior Roles (311)](#other-senior-roles)
-- [🔒 Recently closed (180)](#recently-closed)
+- [📌 Other Senior Roles (312)](#other-senior-roles)
+- [🔒 Recently closed (179)](#recently-closed)
 - Daily digests: [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -62,7 +62,7 @@ By level: Director 2133 · VP 810 · Sr. Director 515 · Head 261 · EVP/SVP 155
 | Signal & Strand | 🆕 SVP, Immersive Experience Technology | EVP/SVP | Los Angeles, California |  | 2d | [Apply](https://us.trabajo.org/job-2480-11c8e4de754affc0847e3295ee0e2ac5) |
 | Testing Site - JPMC | 🆕 Continuous Delivery - Product Manager, Vice President | VP | Houston, Texas |  | 2d | [Apply](https://jooble.org/jdp/2303436025763233556) |
 | Travere Therapeutics | 🆕 Vice President, Technology and Operations | VP | Kiryas Joel, New York | $285K–$385K | 2d | [Apply](https://www.learn4good.com/jobs/kiryas-joel/new-york/info_technology/5602819257/e/) |
-| SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
+| SiFive | 🆕 Sr Director, SW Product Management (req Posted 3 Days Ago) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 
 <a name="houston-area"></a>
 
@@ -2035,7 +2035,8 @@ _835 older roles in this section are in data/roles.json on the `data` branch._
 | Adtran | Sr. Director, Finance | Sr. Director | Huntsville, AL, USA |  | 2d | [Apply](https://adtran.wd3.myworkdayjobs.com/en-US/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | Mutual of Omaha | IS Area Director | Director | Remote, USA | $190K–$215K | 2d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
 | Relativity | Director, Innovation and Enablement | Director | VA, USA | $211K–$317K | 2d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia/Director--Innovation-and-Enablement_26-0527-1) |
-| SiFive | 🆕 Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
+| SiFive | 🆕 Sr Director, SW Product Management (req Posted 3 Days Ago) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
+| SiFive | Sr Director, SW Product Management (req Posted 2 Days Ago) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | Adtran | Sr. Director, Finance | Sr. Director | Adtran Huntsville HQ +1 |  | 3d | [Apply](https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | SiFive | Sr Director, SW Product Management (req Posted Yesterday) | Sr. Director | Oregon +1 |  | 3d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | DBV Technologies | Vice President, Information Systems | VP | NJ, USA | $300K–$350K | 3d | [Apply](https://careers.dbv-technologies.com/jobs/8684539-vice-president-information-systems) |
@@ -2281,9 +2282,8 @@ _835 older roles in this section are in data/roles.json on the `data` branch._
 | Fidelity National Financial | Director, Mainframe DB2 Performance and Capacity | Director | Westlake, TX |  | 26d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Mainframe-DB2-Performance-and-Capacity_2133418-1) |
 | BNY ⭐ | Senior Vice President, Full-Stack Engineer | EVP/SVP | New York, NY, United States |  | 26d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77031) |
 | Dexcom | Director, Product Systems & Integration | Director | San Diego, California |  | 26d | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Director--Product-Systems---Integration_JR121379) |
-| Fidelity ⭐ | Director, Mainframe DB2 Performance and Capacity | Director | Westlake, TX |  | 26d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Mainframe-DB2-Performance-and-Capacity_2133418-1) |
 
-_61 older roles in this section are in data/roles.json on the `data` branch._
+_62 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 
@@ -2472,7 +2472,6 @@ _61 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🔒 Vice President, Data Strategy for AI | VP | NY, United States |  | 17d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Executive Director, AI & Data Governance — Controls Strategy (Client Onboarding and Documentation Operations) | ED | NJ, United States |  | 17d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Data Product Manager - Vice President | VP | NY, United States |  | 17d | Closed |
-| Expedia Group ⭐ | 🔒 Director, Technology | Director | Washington - Seattle Campus |  | 38d | Closed |
 
 </details>
 

@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,266 open roles** at **1,577 companies** · **140 new in the last 24 hours** · 5,846 company career sites watched · updated hourly · last update Nov 09, 2026 08:49 PM ET
+**4,267 open roles** at **1,578 companies** · **141 new in the last 24 hours** · 5,856 company career sites watched · updated hourly · last update Nov 09, 2026 08:56 PM ET
 
-By level: Director 2198 · VP 829 · Sr. Director 537 · Head 264 · EVP/SVP 158 · C-level 133 · ED 106 · MD 41
+By level: Director 2198 · VP 829 · Sr. Director 537 · Head 265 · EVP/SVP 158 · C-level 133 · ED 106 · MD 41
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (140)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (141)](#new-in-the-last-24-hours)
 - [🤠 Houston area (145)](#houston-area)
 - [👑 Executive Technology Leadership (137)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (288)](#security-risk-technology)
@@ -35,7 +35,7 @@ By level: Director 2198 · VP 829 · Sr. Director 537 · Head 264 · EVP/SVP 158
 - [🚦 Reliability & Operations (305)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (397)](#cloud-infrastructure)
 - [🏛️ Architecture (113)](#architecture)
-- [🔄 Transformation & Delivery (518)](#transformation-delivery)
+- [🔄 Transformation & Delivery (519)](#transformation-delivery)
 - [🛠️ Engineering & Software (1110)](#engineering-software)
 - [📌 Other Senior Roles (324)](#other-senior-roles)
 - [🔒 Recently closed (183)](#recently-closed)
@@ -47,13 +47,14 @@ By level: Director 2198 · VP 829 · Sr. Director 537 · Head 264 · EVP/SVP 158
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| ServiceNow ⭐ | 🆕 Senior Director, AI Platform Engineering Management | Sr. Director | Santa Clara, California, us | $254K–$445K | 0d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000160760930-senior-director-ai-platform-engineering-management) ⚡ |
 | Avalara | 🆕 Senior Director, Database Reliability Engineering | Sr. Director | Remote, USA |  | 0d | [Apply](https://careers.avalara.com/jobs/17593/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Information Technology Senior Management Forum | 🆕 Director, Full-Stack Engineer - AML (Anti Money Laundering) | Director | New York, NY, USA | $269K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/f4fkjy/director-full-stack-engineer-aml-(anti-money-laundering)/new-york/ny) |
-| Taylor Corporation | 🆕 Senior Director of Enterprise Architecture & Innovation | Sr. Director | Eden Prairie, MN, USA | $180K–$230K | 0d | [Apply](https://taylor.wd1.myworkdayjobs.com/en-US/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) |
 | BeOne Medicines | 🆕 Senior Director, Product Management, Digital AI | Sr. Director | Remote, USA | $223K–$293K | 0d | [Apply](https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Senior-Direc-tor--Product-Management--Digital-AI_R37522-1) |
+| Information Technology Senior Management Forum | 🆕 Director, Full-Stack Engineer - AML (Anti Money Laundering) | Director | New York, NY, USA | $269K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/f4fkjy/director-full-stack-engineer-aml-(anti-money-laundering)/new-york/ny) |
+| ServiceNow ⭐ | 🆕 Senior Director, AI Platform Engineering Management | Sr. Director | Santa Clara, California, us | $254K–$445K | 0d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000160760930-senior-director-ai-platform-engineering-management) ⚡ |
+| TEAM | 🆕 Head of Technology & Digital Delivery | Head | GBR - Orpington Office |  | 1d | [Apply](https://teamwass.wd5.myworkdayjobs.com/wassermancareers/job/GBR---Orpington-Office/Head-of-Technology---Digital-Delivery_R5792) |
 | Baker Tilly Canada | 🆕 Managing Director – Managed Services, SaaS & Technology | MD | USA CA San Francisco 50 Fremont St +1 | $182K–$345K | 1d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-San-Francisco-50-Fremont-St/Managing-Director---Managed-Services--SaaS---Technology_JR108891) |
-| University of South Florida | 🆕 Director Enterprise Financial System | Director | Tampa, FL, USA |  | 1d | [Apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44718) |
+| University of South Florida | 🆕 Director Enterprise Financial System | Director | Tampa, FL, United States |  | 1d | [Apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44718) [alt](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44718) |
+| Taylor Corporation | 🆕 Senior Director of Enterprise Architecture & Innovation | Sr. Director | Eden Prairie, MN - Taylor Corporation +3 · Remote | $180K–$230K | 1d | [Apply](https://taylor.wd1.myworkdayjobs.com/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) [alt](https://taylor.wd1.myworkdayjobs.com/en-US/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) |
 | Coupang | 🆕 Director, Back-end Engineering | Director | Mountain View, USA +1 |  | 1d | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8364554) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Software Engineer – Kotlin, VP | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-software-engineer-kotlin-vp/287/103079942384) |
 | The Aerospace Corporation | 🆕 Principal Director - Space Based Sensing and Targeting (SBST) Space Data Network (SDN) | Director | El Segundo, CA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director---Space-Based-Sensing-and-Targeting--SBST--Space-Data-Network--SDN-_R017163) |
@@ -751,8 +752,8 @@ _38 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| ServiceNow ⭐ | 🆕 Senior Director, AI Platform Engineering Management | Sr. Director | Santa Clara, California, us | $254K–$445K | 0d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000160760930-senior-director-ai-platform-engineering-management) ⚡ |
 | BeOne Medicines | 🆕 Senior Director, Product Management, Digital AI | Sr. Director | Remote, USA | $223K–$293K | 0d | [Apply](https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Senior-Direc-tor--Product-Management--Digital-AI_R37522-1) |
+| ServiceNow ⭐ | 🆕 Senior Director, AI Platform Engineering Management | Sr. Director | Santa Clara, California, us | $254K–$445K | 0d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000160760930-senior-director-ai-platform-engineering-management) ⚡ |
 | The Aerospace Corporation | 🆕 Principal Director - Space Based Sensing and Targeting (SBST) Space Data Network (SDN) | Director | El Segundo, CA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director---Space-Based-Sensing-and-Targeting--SBST--Space-Data-Network--SDN-_R017163) |
 | Experian | 🆕 Director, Data Regulatory Compliance & Risk | Director | United States, UNITED STATES, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/Experian/744000160741945-director-data-regulatory-compliance-risk) ⚡ |
 | Exelixis | 🆕 Director, AI and Agentic Engineering | Director | Alameda, CA | $241K–$306K | 1d | [Apply](https://exelixis.wd1.myworkdayjobs.com/Exel/job/Alameda-CA/Director--AI-and-Agentic-Engineering_JR7036) |
@@ -1528,7 +1529,7 @@ _147 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Taylor Corporation | 🆕 Senior Director of Enterprise Architecture & Innovation | Sr. Director | Eden Prairie, MN, USA | $180K–$230K | 0d | [Apply](https://taylor.wd1.myworkdayjobs.com/en-US/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) |
+| Taylor Corporation | 🆕 Senior Director of Enterprise Architecture & Innovation | Sr. Director | Eden Prairie, MN - Taylor Corporation +3 · Remote | $180K–$230K | 1d | [Apply](https://taylor.wd1.myworkdayjobs.com/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) [alt](https://taylor.wd1.myworkdayjobs.com/en-US/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) |
 | Stripe ⭐ | 🆕 Head of Strategic Accounts, Solutions Architecture | Head | San Francisco, CA or New York, NY or Remot · Remote |  | 1d | [Apply](https://stripe.com/jobs/search?gh_jid=8361184) ⚡ |
 | QuickBase | 🆕 Director, Systems Architecture & Modernization | Director | Bangalore +1 · Remote |  | 1d | [Apply](https://quickbase.wd504.myworkdayjobs.com/External/job/Bangalore/Director--Systems-Architecture---Modernization_R26_00255) |
 | ACN COMMUNICATIONS SERVICES LLC | Director of Architecture & Engineering | Director | Charlotte, NC, USA |  | 3d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f433356-bdd4-4e3e-92bb-26374d745a32&ccId=19000101_000001&jobId=569419&source=IN&lang=en_US) |
@@ -1648,6 +1649,7 @@ _147 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| TEAM | 🆕 Head of Technology & Digital Delivery | Head | GBR - Orpington Office |  | 1d | [Apply](https://teamwass.wd5.myworkdayjobs.com/wassermancareers/job/GBR---Orpington-Office/Head-of-Technology---Digital-Delivery_R5792) |
 | Anduril | 🆕 Director of MRO Transformation | Director | Ashville, OH, USA | $181K–$240K | 1d | [Apply](https://grnh.se/cmxi3ksp7us) |
 | NextEra Energy | 🆕 Director, Transformation & Pricing Risk Management | Director | Juno Beach, FL, USA |  | 1d | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Director%2C-Transformation-&-Pricing-Risk-Management-FL-33408/1448953100/) |
 | JPMorgan Chase ⭐ | 🆕 Technical Product Delivery Manager, Vice President - Privileged Access Management | VP | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792377) |
@@ -1897,9 +1899,8 @@ _147 older roles in this section are in data/roles.json on the `data` branch._
 | L3Harris | Director, Program Management | Director | Chantilly, VA, USA | $184K–$342K | 17d | [Apply](https://careers.harris.com/job/-/-/4832/102339204432) |
 | Herbalife | Creative Director, Digital Product | Director | Torrance, CA, USA |  | 17d | [Apply](https://careers-herbalife.icims.com/jobs/21687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 17d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Georgia Department of Behavioral Health and Developmental Disabilities | Program Director, Child Welfare Services -Technology (CICC) | Director | Albany |  | 18d | [Apply](https://georgia.wd5.myworkdayjobs.com/TGC/job/Albany/Program-Director--Child-Welfare-Services--Technology--CICC-_JR0000006938) |
 
-_268 older roles in this section are in data/roles.json on the `data` branch._
+_269 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -2167,7 +2168,7 @@ _860 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Information Technology Senior Management Forum | 🆕 Director, Full-Stack Engineer - AML (Anti Money Laundering) | Director | New York, NY, USA | $269K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/f4fkjy/director-full-stack-engineer-aml-(anti-money-laundering)/new-york/ny) |
-| University of South Florida | 🆕 Director Enterprise Financial System | Director | Tampa, FL, USA |  | 1d | [Apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44718) |
+| University of South Florida | 🆕 Director Enterprise Financial System | Director | Tampa, FL, United States |  | 1d | [Apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44718) [alt](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44718) |
 | Marathon Petroleum | 🆕 Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 1d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |
 | The Aerospace Corporation | 🆕 Associate Systems Director - STARS | Director | El Segundo, CA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Associate-Systems-Director---STARS_R016627) |
 | The Aerospace Corporation | 🆕 Principal Director, Core Computing Services | Director | El Segundo, CA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director--Core-Computing-Services_R016635) |

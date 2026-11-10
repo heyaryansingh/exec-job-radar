@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,267 open roles** at **1,578 companies** · **141 new in the last 24 hours** · 5,856 company career sites watched · updated hourly · last update Nov 09, 2026 08:56 PM ET
+**4,269 open roles** at **1,579 companies** · **143 new in the last 24 hours** · 5,856 company career sites watched · updated hourly · last update Nov 09, 2026 09:47 PM ET
 
-By level: Director 2198 · VP 829 · Sr. Director 537 · Head 265 · EVP/SVP 158 · C-level 133 · ED 106 · MD 41
+By level: Director 2199 · VP 829 · Sr. Director 538 · Head 265 · EVP/SVP 158 · C-level 133 · ED 106 · MD 41
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (141)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (143)](#new-in-the-last-24-hours)
 - [🤠 Houston area (145)](#houston-area)
 - [👑 Executive Technology Leadership (137)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (288)](#security-risk-technology)
 - [🧠 Data & AI (1074)](#data-ai)
 - [🚦 Reliability & Operations (305)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (397)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (398)](#cloud-infrastructure)
 - [🏛️ Architecture (113)](#architecture)
 - [🔄 Transformation & Delivery (519)](#transformation-delivery)
-- [🛠️ Engineering & Software (1110)](#engineering-software)
+- [🛠️ Engineering & Software (1111)](#engineering-software)
 - [📌 Other Senior Roles (324)](#other-senior-roles)
 - [🔒 Recently closed (183)](#recently-closed)
 - Daily digests: [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md) · [11-03](data/daily/2026-11-03.md)
@@ -51,9 +51,11 @@ By level: Director 2198 · VP 829 · Sr. Director 537 · Head 265 · EVP/SVP 158
 | BeOne Medicines | 🆕 Senior Director, Product Management, Digital AI | Sr. Director | Remote, USA | $223K–$293K | 0d | [Apply](https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Senior-Direc-tor--Product-Management--Digital-AI_R37522-1) |
 | Information Technology Senior Management Forum | 🆕 Director, Full-Stack Engineer - AML (Anti Money Laundering) | Director | New York, NY, USA | $269K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/f4fkjy/director-full-stack-engineer-aml-(anti-money-laundering)/new-york/ny) |
 | ServiceNow ⭐ | 🆕 Senior Director, AI Platform Engineering Management | Sr. Director | Santa Clara, California, us | $254K–$445K | 0d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000160760930-senior-director-ai-platform-engineering-management) ⚡ |
+| Micron ⭐ | 🆕 Director, Technical Package Development | Director | Boise, ID - Main Site |  | 1d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Director--Technical-Package-Development_JR106825) |
+| Lila Sciences | 🆕 Director/ Senior Director, Lab Platform Engineering | Sr. Director | Cambridge, MA USA +1 | $232K–$390K | 1d | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4458156009) ⚡ |
 | TEAM | 🆕 Head of Technology & Digital Delivery | Head | GBR - Orpington Office |  | 1d | [Apply](https://teamwass.wd5.myworkdayjobs.com/wassermancareers/job/GBR---Orpington-Office/Head-of-Technology---Digital-Delivery_R5792) |
-| Baker Tilly Canada | 🆕 Managing Director – Managed Services, SaaS & Technology | MD | USA CA San Francisco 50 Fremont St +1 | $182K–$345K | 1d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-San-Francisco-50-Fremont-St/Managing-Director---Managed-Services--SaaS---Technology_JR108891) |
 | University of South Florida | 🆕 Director Enterprise Financial System | Director | Tampa, FL, United States |  | 1d | [Apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44718) [alt](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44718) |
+| Baker Tilly Canada | 🆕 Managing Director – Managed Services, SaaS & Technology | MD | USA CA San Francisco 50 Fremont St +1 | $182K–$345K | 1d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-San-Francisco-50-Fremont-St/Managing-Director---Managed-Services--SaaS---Technology_JR108891) |
 | Taylor Corporation | 🆕 Senior Director of Enterprise Architecture & Innovation | Sr. Director | Eden Prairie, MN - Taylor Corporation +3 · Remote | $180K–$230K | 1d | [Apply](https://taylor.wd1.myworkdayjobs.com/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) [alt](https://taylor.wd1.myworkdayjobs.com/en-US/External/job/Eden-Prairie-MN---Taylor-Corporation/Senior-Director-of-Enterprise-Architecture---Innovation--Oracle-Fusion-_R28744) |
 | Coupang | 🆕 Director, Back-end Engineering | Director | Mountain View, USA +1 |  | 1d | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8364554) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Software Engineer – Kotlin, VP | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-software-engineer-kotlin-vp/287/103079942384) |
@@ -1270,6 +1272,7 @@ _55 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Lila Sciences | 🆕 Director/ Senior Director, Lab Platform Engineering | Sr. Director | Cambridge, MA USA +1 | $232K–$390K | 1d | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4458156009) ⚡ |
 | Plaud | 🆕 Head of Platform Engineering | Head | Palo Alto, CA +1 · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/Plaud/844a97ac-bdc2-4696-9f17-e76ec9055ace) ⚡ |
 | Oracle | 🆕 Director of Software Development — DPU Networking and Storage | Director | Santa Clara, CA, United States | $122K–$355K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350030) |
 | Oracle | 🆕 Senior Director, Platform Software Engineering | Sr. Director | United States |  | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349744) |
@@ -1519,9 +1522,8 @@ _55 older roles in this section are in data/roles.json on the `data` branch._
 | nVent | Director of Enterprise Cloud, Integration & Technical Resiliency | Director | St Louis Park, MN, US |  | 21d | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/St-Louis-Park-MN-US/Director-of-Enterprise-Cloud--Integration---Technical-Resiliency_R23940) |
 | nVent | Director of Enterprise Cloud, Integration & Technical Resiliency | Director | Saint Louis Park, MN, USA | $173K–$257K | 21d | [Apply](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/St-Louis-Park-MN-US/Director-of-Enterprise-Cloud--Integration---Technical-Resiliency_R23940) |
 | Capital One ⭐ | Director, Technical Program Management - Global Payment Network | Director | McLean, VA +3 | $230K–$263K | 21d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Technical-Program-Management---Global-Payment-Network_R1004197-1) |
-| Vivint | Technical Director, Platform Engineering | Director | Seattle, WA, USA | $265K–$340K | 21d | [Apply](https://career4.successfactors.com/career?company=C0004920031P&career_ns=job_listing&career_job_req_id=45863&lang=en_US&source=Indeed) |
 
-_147 older roles in this section are in data/roles.json on the `data` branch._
+_148 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1908,6 +1910,7 @@ _269 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Micron ⭐ | 🆕 Director, Technical Package Development | Director | Boise, ID - Main Site |  | 1d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Director--Technical-Package-Development_JR106825) |
 | Baker Tilly Canada | 🆕 Managing Director – Managed Services, SaaS & Technology | MD | USA CA San Francisco 50 Fremont St +1 | $182K–$345K | 1d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-San-Francisco-50-Fremont-St/Managing-Director---Managed-Services--SaaS---Technology_JR108891) |
 | Coupang | 🆕 Director, Back-end Engineering | Director | Mountain View, USA +1 |  | 1d | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8364554) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Software Engineer – Kotlin, VP | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/senior-software-engineer-kotlin-vp/287/103079942384) |
@@ -2157,9 +2160,8 @@ _269 older roles in this section are in data/roles.json on the `data` branch._
 | Blackrock Neurotech | Director, Software Engineering | Director | Salt Lake City, UT, USA |  | 8d | [Apply](https://ats.rippling.com/blackrockneurotech/jobs/955c62ae-f68c-4644-9060-3fe0f8c24ae5?jobSite=Indeed) |
 | Millennium Physician Group | Director, Risk Adjustment Product & Technology | Director | San Francisco, CA, USA | $166K–$249K | 8d | [Apply](https://verawholehealth.wd1.myworkdayjobs.com/External/job/US---Remote/Director--Risk-Adjustment-Product---Technology_M105147) |
 | Honeywell ⭐ | Director Engineering - UOP | Director | Rosemont, IL, United States | $195K–$244K | 8d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160279) |
-| AVEVA | Director of Technology Vendor Management | Director | Lake Forest, California, United States of  |  | 8d | [Apply](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Director-of-Technology-Vendor-Management_R015984) |
 
-_860 older roles in this section are in data/roles.json on the `data` branch._
+_861 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

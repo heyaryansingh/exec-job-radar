@@ -1,18 +1,18 @@
 # Collector status
 
-- Last run: 2026-11-10T01:56:56+00:00 UTC, 417s
+- Last run: 2026-11-10T02:47:14+00:00 UTC, 453s
 - Companies working: 633 of 635
-- New roles last run: 1; roles in feed: 1280
+- New roles last run: 2; roles in feed: 1282
 - Universe (all other known career sites): 5220 boards, 4366 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
 - Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1578
-- Skipped (backing off broken sites): 855; ran out of time: 0
+- Companies with open roles: 1579
+- Skipped (backing off broken sites): 854; ran out of time: 0
 
 ## Failing companies
 
 | Company | Failures in a row | Last error |
 |---|---:|---|
-| Anyscale | 20 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
-| EchoStar | 2 | HTTP 503 for https://efgz-dev2.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobReq |
+| Anyscale | 21 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
+| EchoStar | 3 | HTTP 503 for https://efgz-dev2.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobReq |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

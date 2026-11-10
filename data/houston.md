@@ -5,12 +5,12 @@
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Burns & McDonnell | 🆕 Director, Enterprise Architecture - Corporate IT | Director | Houston, TX, USA | $240K–$390K | 0d | [Apply](https://rr.jobsyn.org/A4F8B49E686F4EEB80FD0F6E0DDD95C81554) |
-| HPE | 🆕 Director of Enterprise Cyber Security Architecture | Director | Spring, Texas, United States of America +3 |  | 0d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Director-of-Enterprise-Cyber-Security-Architecture_1209229) |
+| HPE | 🆕 Director of Enterprise Cyber Security Architecture | Director | Spring, Texas, United States of America +3 |  | 0d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Director-of-Enterprise-Cyber-Security-Architecture_1209229) [alt](https://careers.hpe.com/us/en/job/HPE1US1209229EXTERNALENUS) |
 | KSBJ | 🆕 Director, Data Science & Analytics | Director | Houston, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654078) |
 | WSP | 🆕 National Director of Airline Infrastructure Programs | Director | Houston, TX, United States |  | 0d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99160) |
 | Parsons | 🆕 Program Director, Roads and Highways, Houston | Director | Houston, TX, USA | $158K–$284K | 0d | [Apply](https://jobs.parsons.com/jobs/program-director-roads-and-highways-houston-houston-r-188454-jobs--project-program-management--) |
 | Iris Energy | 🆕 Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
-| Marathon Petroleum | 🆕 Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 1d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |
+| Marathon Petroleum | Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 1d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |
 | Flogistix | Assistant Director, Financial Systems | Director | Houston, TX, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/73E051287C88B1AA01E9EBE87D394D99/jobs/551581?source=Indeed) |
 | HP | Vice President, SC Network, Resilience, Analytics Transformation | VP | Spring, Texas, United States of America | $266K–$318K | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Vice-President--SC-Network--Resilience--Analytics-Transformation_3170130-1) |
 | Cognito Therapeutics, Inc. | 🆕 Sr Director Information Security | Sr. Director | Houston, Texas | $160K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5608050812/e/) |

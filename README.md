@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,286 open roles** at **1,589 companies** · **155 new in the last 24 hours** · 5,864 company career sites watched · updated hourly · last update Nov 10, 2026 03:37 AM ET
+**4,287 open roles** at **1,590 companies** · **156 new in the last 24 hours** · 5,866 company career sites watched · updated hourly · last update Nov 10, 2026 04:37 AM ET
 
-By level: Director 2205 · VP 833 · Sr. Director 541 · Head 266 · EVP/SVP 159 · C-level 135 · ED 106 · MD 41
+By level: Director 2206 · VP 833 · Sr. Director 541 · Head 266 · EVP/SVP 159 · C-level 135 · ED 106 · MD 41
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (155)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (156)](#new-in-the-last-24-hours)
 - [🤠 Houston area (148)](#houston-area)
 - [👑 Executive Technology Leadership (139)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (293)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2205 · VP 833 · Sr. Director 541 · Head 266 · EVP/SVP 159
 - [☁️ Cloud & Infrastructure (398)](#cloud-infrastructure)
 - [🏛️ Architecture (113)](#architecture)
 - [🔄 Transformation & Delivery (522)](#transformation-delivery)
-- [🛠️ Engineering & Software (1117)](#engineering-software)
+- [🛠️ Engineering & Software (1118)](#engineering-software)
 - [📌 Other Senior Roles (326)](#other-senior-roles)
 - [🔒 Recently closed (185)](#recently-closed)
 - Daily digests: [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md)
@@ -47,8 +47,9 @@ By level: Director 2205 · VP 833 · Sr. Director 541 · Head 266 · EVP/SVP 159
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Mercer University | 🆕 Technical Director | Director | Warner Robins, GA  31088-7810 |  | 0d | [Apply](https://merceruniversity.wd1.myworkdayjobs.com/external/job/Warner-Robins-GA--31088-7810/Technical-Director_27-ED-01a) |
 | Twenty-Six Defense | 🆕 Senior Director Engineering - Site Lead | Sr. Director | Merrimack, NH, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/esa/ESACAREERSITE/jobs/10053) |
-| CaptivateIQ | 🆕 Senior Director, Engineering - ICM | Sr. Director | Remote, USA | $237K–$374K | 0d | [Apply](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1?lever-source=Indeed) |
+| CaptivateIQ | 🆕 Senior Director, Engineering - ICM | Sr. Director | Remote USA | $237K–$374K | 0d | [Apply](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1) ⚡ [alt](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1?lever-source=Indeed) |
 | Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 0d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 | Relativity | 🆕 Director Financial Systems | Director | IL, USA | $158K–$236K | 0d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Director-Financial-Systems_26-0530) |
 | Chubb ⭐ | 🆕 Director, Digital Partnerships | Director | Viet Nam |  | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38170) |
@@ -1927,8 +1928,9 @@ _272 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Mercer University | 🆕 Technical Director | Director | Warner Robins, GA  31088-7810 |  | 0d | [Apply](https://merceruniversity.wd1.myworkdayjobs.com/external/job/Warner-Robins-GA--31088-7810/Technical-Director_27-ED-01a) |
 | Twenty-Six Defense | 🆕 Senior Director Engineering - Site Lead | Sr. Director | Merrimack, NH, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/esa/ESACAREERSITE/jobs/10053) |
-| CaptivateIQ | 🆕 Senior Director, Engineering - ICM | Sr. Director | Remote, USA | $237K–$374K | 0d | [Apply](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1?lever-source=Indeed) |
+| CaptivateIQ | 🆕 Senior Director, Engineering - ICM | Sr. Director | Remote USA | $237K–$374K | 0d | [Apply](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1) ⚡ [alt](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1?lever-source=Indeed) |
 | Hope College | 🆕 CIT - Director of Computing and Information Technology | Director | Holland, MI, USA |  | 0d | [Apply](https://jobs.hope.edu/postings/5763) |
 | Citigroup | 🆕 Technology Product Management Group Manager - Senior Vice President | EVP/SVP |  | $170K–$254K | 1d | [Apply](https://builtin.com/job/technology-product-management-group-manager-senior-vice-president/12142131) |
 | Penske Logistics | 🆕 Vice President, Technology - Distribution & Warehouse | VP | Beachwood, Ohio |  | 1d | [Apply](https://builtin.com/job/vice-president-technology-distribution-warehouse/9651201) |
@@ -2176,9 +2178,8 @@ _272 older roles in this section are in data/roles.json on the `data` branch._
 | Oracle | Senior Director, Employee Experience Solution Engineering | Sr. Director | Nashville, TN, United States | $194K–$414K | 8d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349408) |
 | Four Seasons | Assistant Director of Engineering | Director | Boston, Massachusetts, United States of Am |  | 8d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10375867EXTERNALENUS) |
 | Citi (jobs.citi.com) ⭐ | Fixed Income Algo Technology, Director | Director | New York, NY, US |  | 8d | [Apply](https://jobs.citi.com/job/new-york/fixed-income-algo-technology-director/287/102782077648) |
-| Aqua Finance | Director, Software Engineering (Account Servicing & Finance) | Director | Remote -  United States +4 |  | 8d | [Apply](https://aquafinance.wd12.myworkdayjobs.com/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) [alt](https://aquafinance.wd12.myworkdayjobs.com/en-US/Aqua_Finance/job/Remote----United-States/Director--Software-Engineering--Account-Servicing---Finance-_493) |
 
-_867 older roles in this section are in data/roles.json on the `data` branch._
+_868 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

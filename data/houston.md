@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-150 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+151 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| HPE | 🆕 Director of Enterprise Cyber Security Architecture | Director | Spring, Texas, United States of America +3 |  | 0d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Director-of-Enterprise-Cyber-Security-Architecture_1209229) |
 | KSBJ | 🆕 Director, Data Science & Analytics | Director | Houston, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654078) |
 | WSP | 🆕 National Director of Airline Infrastructure Programs | Director | Houston, TX, United States |  | 0d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99160) |
 | Parsons | 🆕 Program Director, Roads and Highways, Houston | Director | Houston, TX, USA | $158K–$284K | 0d | [Apply](https://jobs.parsons.com/jobs/program-director-roads-and-highways-houston-houston-r-188454-jobs--project-program-management--) |

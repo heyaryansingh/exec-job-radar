@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-145 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+146 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Parsons | 🆕 Program Director, Roads and Highways, Houston | Director | Houston, TX, USA | $158K–$284K | 0d | [Apply](https://jobs.parsons.com/jobs/program-director-roads-and-highways-houston-houston-r-188454-jobs--project-program-management--) |
 | Marathon Petroleum | 🆕 Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 1d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |
 | Flogistix | 🆕 Assistant Director, Financial Systems | Director | Houston, TX, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/73E051287C88B1AA01E9EBE87D394D99/jobs/551581?source=Indeed) |
 | HP | 🆕 Vice President, SC Network, Resilience, Analytics Transformation | VP | Spring, Texas, United States of America | $266K–$318K | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Vice-President--SC-Network--Resilience--Analytics-Transformation_3170130-1) |

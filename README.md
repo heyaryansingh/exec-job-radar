@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,282 open roles** at **1,587 companies** · **151 new in the last 24 hours** · 5,858 company career sites watched · updated hourly · last update Nov 10, 2026 12:37 AM ET
+**4,282 open roles** at **1,588 companies** · **152 new in the last 24 hours** · 5,858 company career sites watched · updated hourly · last update Nov 10, 2026 01:38 AM ET
 
 By level: Director 2204 · VP 833 · Sr. Director 538 · Head 266 · EVP/SVP 159 · C-level 135 · ED 106 · MD 41
 
@@ -27,18 +27,18 @@ By level: Director 2204 · VP 833 · Sr. Director 538 · Head 266 · EVP/SVP 159
 
 ## Contents
 
-- [🆕 New in the last 24 hours (151)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (152)](#new-in-the-last-24-hours)
 - [🤠 Houston area (148)](#houston-area)
 - [👑 Executive Technology Leadership (139)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (291)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (292)](#security-risk-technology)
 - [🧠 Data & AI (1073)](#data-ai)
-- [🚦 Reliability & Operations (307)](#reliability-operations)
+- [🚦 Reliability & Operations (305)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (398)](#cloud-infrastructure)
 - [🏛️ Architecture (113)](#architecture)
 - [🔄 Transformation & Delivery (522)](#transformation-delivery)
 - [🛠️ Engineering & Software (1115)](#engineering-software)
-- [📌 Other Senior Roles (324)](#other-senior-roles)
-- [🔒 Recently closed (184)](#recently-closed)
+- [📌 Other Senior Roles (325)](#other-senior-roles)
+- [🔒 Recently closed (186)](#recently-closed)
 - Daily digests: [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,6 +47,8 @@ By level: Director 2204 · VP 833 · Sr. Director 538 · Head 266 · EVP/SVP 159
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 0d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
+| Relativity | 🆕 Director Financial Systems | Director | IL, USA | $158K–$236K | 0d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Director-Financial-Systems_26-0530) |
 | Chubb ⭐ | 🆕 Director, Digital Partnerships | Director | Viet Nam |  | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38170) |
 | Experlogix | 🆕 Director of Cloud Platform & Operations | Director | Salt Lake City, UT, USA · Remote |  | 0d | [Apply](https://experlogix.bamboohr.com/careers/398?source=indeed&src=indeed&postedDate=2026-11-09) |
 | Hope College | 🆕 CIT - Director of Computing and Information Technology | Director | Holland, MI, USA |  | 0d | [Apply](https://jobs.hope.edu/postings/5763) |
@@ -191,7 +193,6 @@ By level: Director 2204 · VP 833 · Sr. Director 538 · Head 266 · EVP/SVP 159
 | LSEG ⭐ | 🆕 Director, Program Management | Director | New York, United States +1 | $163K–$271K | 1d | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-United-States/Director--Program-Management_R0124467) |
 | NAVBLUE US, Inc. | 🆕 Director of Forecast & Production Control | Director | Grand Prairie, TX |  | 1d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Director-of-Forecast---Production-Control_JR10454030) |
 | QuickBase | 🆕 Director, Systems Architecture & Modernization | Director | Bangalore +1 · Remote |  | 1d | [Apply](https://quickbase.wd504.myworkdayjobs.com/External/job/Bangalore/Director--Systems-Architecture---Modernization_R26_00255) |
-| AtkinsRéalis | 🆕 Director Project Controls, Data Centers | Director | Raleigh, NC, USA | $200K–$250K | 1d | [Apply](https://careers.atkinsrealis.com/en/jobs/director-project-controls-data-centers-r-171086?utm_source=indeed_feed) |
 | Cognito Therapeutics, Inc. | 🆕 Sr Director Information Security | Sr. Director | Houston, Texas | $160K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5608050812/e/) |
 | Cydecor, Inc. | 🆕 Vice President, Technology Services Group | VP | Virginia |  | 2d | [Apply](https://us.trabajo.org/job-1721-70305bed47009c8ad87e26a3fb6e4c98) |
 | Janus Henderson Investors | 🆕 Global Head of Infrastructure & Cloud Operations / Denver, CO, USA | Head | Denver, Colorado | $310K–$330K | 2d | [Apply](https://www.efinancialcareers.com/jobs-United_States-CO-Denver-Global_Head_of_Infrastructure__Cloud_Operations.id24981907) |
@@ -508,6 +509,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 0d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 | Iris Energy | 🆕 Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
 | Christ Church Episcopal School | 🆕 Director of Safety and Security | Director | Greenville, SC, USA |  | 1d | [Apply](https://cces.isolvedhire.com/jobs/1901969-699813.html) |
 | Tonic.ai | 🆕 Head of Security | Head | Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/TonicAI/914dfe6e-e5c8-452c-84ee-1948bc6a6024) ⚡ [alt](https://jobs.ashbyhq.com/TonicAI/914dfe6e-e5c8-452c-84ee-1948bc6a6024?utm_source=DGVM1ZZpRV) |
@@ -757,9 +759,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Fidelity National Financial | Director – Emerging Security Technologies | Director | Merrimack, NH |  | 29d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director---Emerging-Security-Technologies_2134362) |
 | LPL Financial | SVP, Head of Identity & Access Management | EVP/SVP | Fort Mill/Charlotte +2 |  | 29d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/SVP--Head-of-Identity---Access-Management_R-054052-1) |
 | Salesforce ⭐ | Senior Director, Security Analytics | Sr. Director | Washington - Bellevue +1 | $218K–$365K | 29d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Senior-Director--Security-Analytics_JR362216) |
-| Fidelity ⭐ | Director – Emerging Security Technologies | Director | Merrimack, NH |  | 29d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director---Emerging-Security-Technologies_2134362) |
 
-_41 older roles in this section are in data/roles.json on the `data` branch._
+_42 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -797,7 +798,7 @@ _41 older roles in this section are in data/roles.json on the `data` branch._
 | ADM | 🆕 Director - Applied AI Engineering - Erlanger, KY | Director | Erlanger, KY, USA | $126K–$273K | 1d | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25416&siteid=5998&PageType=JobDetails&jobid=3397410) |
 | 3Cloud | 🆕 Senior Director - Data Governance Platforms | Sr. Director | Remote - US |  | 1d | [Apply](https://job-boards.greenhouse.io/3cloud/jobs/8934954002?gh_jid=8934954002) ⚡ |
 | CrowdStrike ⭐ | 🆕 VP, Horizontal AI Product (Remote) | VP | USA - Remote |  | 1d | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/VP--Horizontal-AI-Product--Remote-_R30807) |
-| AtkinsRéalis | 🆕 Director Project Controls, Data Centers | Director | Raleigh, NC, USA | $200K–$250K | 1d | [Apply](https://careers.atkinsrealis.com/en/jobs/director-project-controls-data-centers-r-171086?utm_source=indeed_feed) |
+| AtkinsRéalis | Director Project Controls, Data Centers | Director | Raleigh, NC, USA | $200K–$250K | 1d | [Apply](https://careers.atkinsrealis.com/en/jobs/director-project-controls-data-centers-r-171086?utm_source=indeed_feed) |
 | State Street ⭐ | Alternative Investments Data Solutions, Managing Director | MD | Princeton, New Jersey +3 | $170K–$252K | 2d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Alternative-Investments-Data-Solutions--Managing-Director_R-796856-1) |
 | Domino's | Director, Data Platform Engineering (req 744000160454149) | Director | Ann Arbor, MI, us |  | 2d | [Apply](https://jobs.smartrecruiters.com/Dominos/744000160454149-director-data-platform-engineering) ⚡ |
 | USAA ⭐ | Director of Business Data & Analytics – AI Governance | Director | San Antonio Home Office I +3 | $165K–$315K | 3d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director-of-Business-Data---Analytics---AI-Governance_R0122198) |
@@ -1277,7 +1278,7 @@ _823 older roles in this section are in data/roles.json on the `data` branch._
 | Axos Bank | SVP, Technology Strategy & Operations | EVP/SVP | San Diego, California |  | 24d | [Apply](https://www.linkedin.com/jobs/view/svp-technology-strategy-operations-at-axos-bank-4477743504) |
 | Travere | Director, Enterprise Infrastructure Engineering & Operations | Director | San Diego +1 · Remote |  | 25d | [Apply](https://travere.wd1.myworkdayjobs.com/TravereCareers/job/San-Diego/Director--Enterprise-Infrastructure-Engineering---Operations_R-100974) |
 
-_57 older roles in this section are in data/roles.json on the `data` branch._
+_55 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -2182,6 +2183,7 @@ _865 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Relativity | 🆕 Director Financial Systems | Director | IL, USA | $158K–$236K | 0d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Director-Financial-Systems_26-0530) |
 | Information Technology Senior Management Forum | 🆕 Director, Full-Stack Engineer - AML (Anti Money Laundering) | Director | New York, NY, USA | $269K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/f4fkjy/director-full-stack-engineer-aml-(anti-money-laundering)/new-york/ny) |
 | University of South Florida | 🆕 Director Enterprise Financial System | Director | Tampa, FL, United States |  | 1d | [Apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44718) [alt](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44718) |
 | Marathon Petroleum | 🆕 Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 1d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |
@@ -2431,9 +2433,8 @@ _865 older roles in this section are in data/roles.json on the `data` branch._
 | Rula | Director of Finance Systems (Remote) | Director | Remote - United States | $189K–$245K | 24d | [Apply](https://jobs.ashbyhq.com/rula/8f49abb1-6c5c-4fed-b2d3-a171dece403b) ⚡ |
 | NAVBLUE US, Inc. | Head of Systems | Head | Portsmouth |  | 25d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Head-of-Systems_JR10406866) |
 | MiniMed | Quality Systems Director | Director | Los Angeles, California, United States of  |  | 25d | [Apply](https://mdtkangaroo.wd108.myworkdayjobs.com/MiniMedCareers/job/Los-Angeles-California-United-States-of-America/Quality-Systems-Director_R-802133) |
-| Nabancard | Director, Threat Detection & Response | Director | US - Remote | $175K–$235K | 25d | [Apply](https://nabancard.wd1.myworkdayjobs.com/NAB/job/US---Remote/Director--Threat-Detection---Response_JR102096) |
 
-_74 older roles in this section are in data/roles.json on the `data` branch._
+_75 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 
@@ -2443,6 +2444,8 @@ _74 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Anduril Industries | 🔒 Director, Warehouse Operations & Production Supply | Director | Costa Mesa, California, United States | $220K–$292K | 33d | Closed |
+| Anduril Industries | 🔒 Director, Material Movement & Production Supply | Director | Costa Mesa, California, United States | $220K–$292K | 33d | Closed |
 | GE Vernova ⭐ | 🔒 Heavy Duty Combine Cycle Gas Turbine NU Technical Academy Director | Director | Atlanta +4 · Remote |  | 8d | Closed |
 | Arena Club | 🔒 Senior Director, IT | Sr. Director | Los Angeles, CA | $220K–$280K | 36d | Closed |
 | Bill.com | 🔒 Director of AI & Product Partnerships | Director | United States | $198K–$248K | 35d | Closed |

@@ -19,18 +19,18 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,282 open roles** at **1,588 companies** · **152 new in the last 24 hours** · 5,858 company career sites watched · updated hourly · last update Nov 10, 2026 01:38 AM ET
+**4,283 open roles** at **1,588 companies** · **153 new in the last 24 hours** · 5,864 company career sites watched · updated hourly · last update Nov 10, 2026 02:36 AM ET
 
-By level: Director 2204 · VP 833 · Sr. Director 538 · Head 266 · EVP/SVP 159 · C-level 135 · ED 106 · MD 41
+By level: Director 2205 · VP 833 · Sr. Director 538 · Head 266 · EVP/SVP 159 · C-level 135 · ED 106 · MD 41
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (152)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (153)](#new-in-the-last-24-hours)
 - [🤠 Houston area (148)](#houston-area)
 - [👑 Executive Technology Leadership (139)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (292)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (293)](#security-risk-technology)
 - [🧠 Data & AI (1073)](#data-ai)
 - [🚦 Reliability & Operations (305)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (398)](#cloud-infrastructure)
@@ -57,6 +57,7 @@ By level: Director 2204 · VP 833 · Sr. Director 538 · Head 266 · EVP/SVP 159
 | BeOne Medicines | 🆕 Senior Director, Product Management, Digital AI | Sr. Director | Remote, USA | $223K–$293K | 0d | [Apply](https://beigene.wd5.myworkdayjobs.com/en-US/BeiGene/job/Remote-US/Senior-Direc-tor--Product-Management--Digital-AI_R37522-1) |
 | Information Technology Senior Management Forum | 🆕 Director, Full-Stack Engineer - AML (Anti Money Laundering) | Director | New York, NY, USA | $269K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/f4fkjy/director-full-stack-engineer-aml-(anti-money-laundering)/new-york/ny) |
 | ServiceNow ⭐ | 🆕 Senior Director, AI Platform Engineering Management | Sr. Director | Santa Clara, California, us | $254K–$445K | 0d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000160760930-senior-director-ai-platform-engineering-management) ⚡ |
+| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | CGC - HQ - Carlsbad |  | 1d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 | Citigroup | 🆕 Technology Product Management Group Manager - Senior Vice President | EVP/SVP |  | $170K–$254K | 1d | [Apply](https://builtin.com/job/technology-product-management-group-manager-senior-vice-president/12142131) |
 | Confidential | 🆕 Chief Information Technology Officer - Slippery Rock, Pennsylvania, US | C-level |  |  | 1d | [Apply](https://www.talent.com/view?id=645216632183195316) |
 | Confidential | 🆕 Chief Information Technology Officer - Confidential | C-level | Slippery Rock, Pennsylvania |  | 1d | [Apply](https://www.talent.com/view?id=645216687997126324) |
@@ -510,6 +511,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 0d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
+| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | CGC - HQ - Carlsbad |  | 1d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 | Iris Energy | 🆕 Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 1d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
 | Christ Church Episcopal School | 🆕 Director of Safety and Security | Director | Greenville, SC, USA |  | 1d | [Apply](https://cces.isolvedhire.com/jobs/1901969-699813.html) |
 | Tonic.ai | 🆕 Head of Security | Head | Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/TonicAI/914dfe6e-e5c8-452c-84ee-1948bc6a6024) ⚡ [alt](https://jobs.ashbyhq.com/TonicAI/914dfe6e-e5c8-452c-84ee-1948bc6a6024?utm_source=DGVM1ZZpRV) |
@@ -758,9 +760,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Zania | VP of Security/GRC Partnerships | VP | Palo Alto, CA | $200K–$260K | 29d | [Apply](https://jobs.ashbyhq.com/Zania/5a1141b8-8772-4018-a3bb-bbe57340c154) ⚡ |
 | Fidelity National Financial | Director – Emerging Security Technologies | Director | Merrimack, NH |  | 29d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Director---Emerging-Security-Technologies_2134362) |
 | LPL Financial | SVP, Head of Identity & Access Management | EVP/SVP | Fort Mill/Charlotte +2 |  | 29d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/SVP--Head-of-Identity---Access-Management_R-054052-1) |
-| Salesforce ⭐ | Senior Director, Security Analytics | Sr. Director | Washington - Bellevue +1 | $218K–$365K | 29d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Senior-Director--Security-Analytics_JR362216) |
 
-_42 older roles in this section are in data/roles.json on the `data` branch._
+_43 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 

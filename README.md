@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,457 open roles** at **1,643 companies** · **188 new in the last 24 hours** · 5,896 company career sites watched · updated hourly · last update Nov 10, 2026 11:59 PM ET
+**4,457 open roles** at **1,643 companies** · **188 new in the last 24 hours** · 5,896 company career sites watched · updated hourly · last update Nov 11, 2026 12:49 AM ET
 
 By level: Director 2298 · VP 851 · Sr. Director 566 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
 
@@ -39,7 +39,7 @@ By level: Director 2298 · VP 851 · Sr. Director 566 · Head 278 · EVP/SVP 169
 - [🛠️ Engineering & Software (1158)](#engineering-software)
 - [📌 Other Senior Roles (333)](#other-senior-roles)
 - [🔒 Recently closed (188)](#recently-closed)
-- Daily digests: [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md) · [11-04](data/daily/2026-11-04.md)
+- Daily digests: [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -72,8 +72,8 @@ By level: Director 2298 · VP 851 · Sr. Director 566 · Head 278 · EVP/SVP 169
 | JPMorgan Chase ⭐ | 🆕 Executive Director, AI/ML — Forecasting, Constraint Optimization, and Recommendation Systems | ED | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808154) |
 | d-Matrix | 🆕 Head of Platform Software | Head | Santa Clara · Remote | $220K–$330K | 0d | [Apply](https://jobs.ashbyhq.com/d-Matrix/78c45cb3-fdb0-4485-8095-fcedf84b0dad) ⚡ |
 | TransGrid Energy | 🆕 SVP, Data Center Infrastructure Business | EVP/SVP | Houston | $350K–$450K | 0d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/ad4bea03-8163-4a15-a48a-480dd9ca2fba) ⚡ |
-| United Way of Northern New Jersey | 🆕 Senior Vice President Technology | EVP/SVP | Passaic, New Jersey | $180K–$280K | 1d | [Apply](https://www.learn4good.com/jobs/passaic/new-jersey/info_technology/5615673652/e/) |
 | Relativity | 🆕 Director Financial Systems | Director | Houston, Texas | $158K–$236K | 1d | [Apply](https://www.talent.com/view?id=645325558164620980) |
+| United Way of Northern New Jersey | 🆕 Senior Vice President Technology | EVP/SVP | Passaic, New Jersey | $180K–$280K | 1d | [Apply](https://www.learn4good.com/jobs/passaic/new-jersey/info_technology/5615673652/e/) |
 | Stripe ⭐ | 🆕 Global Head of Partner Solutions Architecture | Head | US |  | 1d | [Apply](https://stripe.com/jobs/search?gh_jid=8358044) ⚡ |
 | SpaceX ⭐ | 🆕 Director, Materials Management (Starbase Infrastructure - Louisiana) | Director | Pecan Island, LA |  | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8936748002?gh_jid=8936748002) ⚡ |
 | Oracle | 🆕 Senior Director, Platform Software Engineering | Sr. Director | Seattle, WA, United States | $141K–$414K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350242) |

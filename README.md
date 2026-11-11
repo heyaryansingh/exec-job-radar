@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,458 open roles** at **1,644 companies** · **188 new in the last 24 hours** · 5,898 company career sites watched · updated hourly · last update Nov 11, 2026 01:49 AM ET
+**4,459 open roles** at **1,644 companies** · **188 new in the last 24 hours** · 5,898 company career sites watched · updated hourly · last update Nov 11, 2026 02:49 AM ET
 
-By level: Director 2298 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
+By level: Director 2299 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -35,7 +35,7 @@ By level: Director 2298 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169
 - [🚦 Reliability & Operations (321)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (409)](#cloud-infrastructure)
 - [🏛️ Architecture (121)](#architecture)
-- [🔄 Transformation & Delivery (538)](#transformation-delivery)
+- [🔄 Transformation & Delivery (539)](#transformation-delivery)
 - [🛠️ Engineering & Software (1159)](#engineering-software)
 - [📌 Other Senior Roles (332)](#other-senior-roles)
 - [🔒 Recently closed (189)](#recently-closed)
@@ -47,6 +47,7 @@ By level: Director 2298 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CNX | 🆕 Director, IT Service Delivery Management (TCF) | Director | PHL NCR QC Work-at-Home |  | 0d | [Apply](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-NCR-QC-Work-at-Home/Director--IT-Service-Delivery-Management--TCF-_R1779018) |
 | Barclays | 🆕 VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 0d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
 | Agilent Technologies | 🆕 Director of Software Engineering | Director | Santa Clara, CA, USA | $185K–$346K | 0d | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CA-Santa-Clara/Director-of-Software-Engineering_4040780) |
 | AstraZeneca | 🆕 Director, Forward Deployed Security Architecture | Director | Gaithersburg, MD, USA | $169K–$222K | 0d | [Apply](https://careers.astrazeneca.com/job/gaithersburg/director-forward-deployed-security-architecture/7684/103138190016) |
@@ -234,7 +235,6 @@ By level: Director 2298 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169
 | Citi (jobs.citi.com) ⭐ | 🆕 Java Big Data Engineering Lead Markets Technology SVP | EVP/SVP | Rutherford, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/rutherford/java-big-data-engineering-lead-markets-technology-svp/287/103092977216) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Head of Product, Innovation and AI – Citi Travel, Senior Vice President | EVP/SVP | Wilmington, DE, US +5 |  | 2d | [Apply](https://jobs.citi.com/job/wilmington/head-of-product-innovation-and-ai-citi-travel-senior-vice-president/287/103092979104) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Application Program Manager-Emerging Payment - Director | Director | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/application-program-manager-emerging-payment-director/287/103092979168) |
-| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | CGC - HQ - Carlsbad |  | 2d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 
 <a name="houston-area"></a>
 
@@ -570,7 +570,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | DXC Technology | 🆕 Director Information Security | Director | USA - DC - WASHINGTON +1 | $167K–$347K | 1d | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---DC---WASHINGTON/Director-Information-Security_51594304) |
 | Health Care Service | 🆕 Director Data Security | Director | TX - Richardson +1 |  | 1d | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Dir-Data-Security_R0055435) |
 | Callaway Golf | Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 1d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
-| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | CGC - HQ - Carlsbad |  | 2d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
+| Callaway Golf | Director, Information Security Engineering and Operations | Director | CGC - HQ - Carlsbad |  | 2d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 | Iris Energy | Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
 | Christ Church Episcopal School | Director of Safety and Security | Director | Greenville, SC, USA |  | 2d | [Apply](https://cces.isolvedhire.com/jobs/1901969-699813.html) |
 | Tonic.ai | Head of Security | Head | Remote |  | 2d | [Apply](https://jobs.ashbyhq.com/TonicAI/914dfe6e-e5c8-452c-84ee-1948bc6a6024) ⚡ [alt](https://jobs.ashbyhq.com/TonicAI/914dfe6e-e5c8-452c-84ee-1948bc6a6024?utm_source=DGVM1ZZpRV) |
@@ -1724,6 +1724,7 @@ _159 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CNX | 🆕 Director, IT Service Delivery Management (TCF) | Director | PHL NCR QC Work-at-Home |  | 0d | [Apply](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-NCR-QC-Work-at-Home/Director--IT-Service-Delivery-Management--TCF-_R1779018) |
 | Prime Data Centers | 🆕 Director of Business Transformation | Director | Remote, USA | $201K–$265K | 0d | [Apply](https://ats.rippling.com/prime-data-centers/jobs/13833bef-aa31-4771-8af0-98c5f0657e39?jobSite=Indeed) |
 | PTC | 🆕 Vice President, Digital Experience | VP | Boston, MA, USA | $215K–$300K | 0d | [Apply](https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Vice-President--Digital-Experience_JR113068) |
 | Target ⭐ | 🆕 Director Product Management - Digital Discovery & Experiences | Director | 1000 Nicollet Mall, Minneapolis,MN 55403-2 · Remote |  | 1d | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Product-Management---Digital-Discovery---Experiences_R0000479152) |
@@ -1973,9 +1974,8 @@ _159 older roles in this section are in data/roles.json on the `data` branch._
 | Merck | Director, Digital Plant Lead | Director |  |  | 15d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR423740ENUS) |
 | Paragon Investing | VP of Product Strategy | VP | Remote, USA | $210K–$223K | 15d | [Apply](https://www.indeed.com/viewjob?jk=accd50c81ea2ba92) |
 | LivaNova | Director, Workforce Strategy & Transformation | Director | Remote, Texas, United States of America |  | 16d | [Apply](https://careers.livanova.com/us/en/job/LIKLIVUSJR14650EXTERNALENUS) |
-| NAVBLUE US, Inc. | Head of AH Finance Transformation and Systems: Planning & Reporting (f/m) | Head | Marseille Area |  | 16d | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/Head-of-AH-Finance-Transformation-and-Systems--Planning---Reporting--f-m-_JR10441598) |
 
-_288 older roles in this section are in data/roles.json on the `data` branch._
+_289 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

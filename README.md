@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,466 open roles** at **1,646 companies** · **191 new in the last 24 hours** · 5,901 company career sites watched · updated hourly · last update Nov 11, 2026 04:49 AM ET
+**4,467 open roles** at **1,646 companies** · **192 new in the last 24 hours** · 5,901 company career sites watched · updated hourly · last update Nov 11, 2026 05:39 AM ET
 
-By level: Director 2301 · VP 855 · Sr. Director 568 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
+By level: Director 2302 · VP 855 · Sr. Director 568 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (191)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (192)](#new-in-the-last-24-hours)
 - [🤠 Houston area (154)](#houston-area)
 - [👑 Executive Technology Leadership (148)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (305)](#security-risk-technology)
-- [🧠 Data & AI (1128)](#data-ai)
+- [🧠 Data & AI (1129)](#data-ai)
 - [🚦 Reliability & Operations (323)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (410)](#cloud-infrastructure)
 - [🏛️ Architecture (121)](#architecture)
@@ -47,6 +47,7 @@ By level: Director 2301 · VP 855 · Sr. Director 568 · Head 278 · EVP/SVP 169
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| GE Vernova ⭐ | 🆕 Director - AI Engineering | Director | Bengaluru +1 |  | 0d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Director---AI-Engineering_R5058285-2) |
 | Charles Schwab | 🆕 Director, AI Security Governance (PL) | Director | Westlake, TX, USA | $121K–$270K | 0d | [Apply](https://www.schwabjobs.com/job/westlake/director-ai-security-governance-pl/33727/103134336352) |
 | Penn Medicine | 🆕 Senior Director Technology Business Office | Sr. Director | Philadelphia, PA, USA · Remote |  | 0d | [Apply](https://careers.pennmedicine.org/en/jobs/18465817-senior-director-technology-business-office?tm_job=UPHS-INFOR-345162&tm_event=view&tm_company=47008) |
 | Retool | 🆕 Director of Engineering, Core AI Experience | Director | San Francisco, CA, USA | $342K–$415K | 0d | [Apply](https://retool.com/careers/director-of-engineering-core-ai-experience---engineering--san-francisco-united-states) |
@@ -822,6 +823,7 @@ _55 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| GE Vernova ⭐ | 🆕 Director - AI Engineering | Director | Bengaluru +1 |  | 0d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Director---AI-Engineering_R5058285-2) |
 | Retool | 🆕 Director of Engineering, Core AI Experience | Director | San Francisco, CA, USA | $342K–$415K | 0d | [Apply](https://retool.com/careers/director-of-engineering-core-ai-experience---engineering--san-francisco-united-states) |
 | Avalo Therapeutics | 🆕 Sr. Director, AI Strategy & Transformation | Sr. Director | Chesterbrook, PA, USA |  | 0d | [Apply](https://grnh.se/mnm5jh2e9us) |
 | Information Technology Senior Management Forum | 🆕 Staff Data Engineer - (Director, IC - Card Tech) | Director | McLean, VA, USA | $245K–$307K | 0d | [Apply](https://jobs.itsmfleaders.org/job/pu5zft/staff-data-engineer-(director-ic-card-tech)/mclean/va) |
@@ -1071,9 +1073,8 @@ _55 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Sr. Business Director, Customer Data Strategy | Director | McLean, VA +2 | $294K–$336K | 8d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Director--Customer-Data-Strategy_R249195-1) |
 | Smith+Nephew | Enterprise AI Product Management Director | Director | US - Field | $136K–$252K | 8d | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Field/Enterprise-AI-Product-Management-Director_R93126) |
 | BlackRock ⭐ | Vice President, Senior Data Warehouse Developer - PFS | VP | New York, NY |  | 8d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Senior-Data-Warehouse-Developer---PFS_R265422) |
-| Intapp | AI Transformation Director | Director | US NC Charlotte +3 · Remote |  | 8d | [Apply](https://intapp.wd1.myworkdayjobs.com/Intapp/job/US-NC-Charlotte/AI-Transformation-Director_R2025455-2) |
 
-_878 older roles in this section are in data/roles.json on the `data` branch._
+_879 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

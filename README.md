@@ -19,21 +19,21 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,487 open roles** at **1,650 companies** · **185 new in the last 24 hours** · 5,902 company career sites watched · updated hourly · last update Nov 11, 2026 10:26 AM ET
+**4,491 open roles** at **1,651 companies** · **189 new in the last 24 hours** · 5,902 company career sites watched · updated hourly · last update Nov 11, 2026 10:36 AM ET
 
-By level: Director 2312 · VP 860 · Sr. Director 571 · Head 278 · EVP/SVP 170 · C-level 143 · ED 107 · MD 46
+By level: Director 2313 · VP 861 · Sr. Director 573 · Head 278 · EVP/SVP 170 · C-level 143 · ED 107 · MD 46
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (185)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (189)](#new-in-the-last-24-hours)
 - [🤠 Houston area (155)](#houston-area)
 - [👑 Executive Technology Leadership (149)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (307)](#security-risk-technology)
-- [🧠 Data & AI (1133)](#data-ai)
+- [🧠 Data & AI (1135)](#data-ai)
 - [🚦 Reliability & Operations (324)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (411)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (413)](#cloud-infrastructure)
 - [🏛️ Architecture (121)](#architecture)
 - [🔄 Transformation & Delivery (544)](#transformation-delivery)
 - [🛠️ Engineering & Software (1162)](#engineering-software)
@@ -47,6 +47,10 @@ By level: Director 2312 · VP 860 · Sr. Director 571 · Head 278 · EVP/SVP 170
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Data Governance and Controls Lead (VP) | VP | Jacksonville, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/jacksonville/data-governance-and-controls-lead-vp/287/103161216992) |
+| Owens & Minor | 🆕 Senior Director, Supply Network Planning | Sr. Director | Remote - Virginia |  | 0d | [Apply](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Remote---Virginia/Senior-Director--Supply-Network-Planning_REQ_26_34158) |
+| Starbucks | 🆕 director engineering – Retail Technology Platforms, Licensed Coffeehouses – Seattle, WA | Director | Seattle, WA, USA | $215K–$359K | 0d | [Apply](https://click.appcast.io/t/294KZF00jP_hoT1viUPVNebxCPJcPGklqw1m0ayG4-4=) |
+| ADM | 🆕 Sr. Director Data Engineering and Operations - Erlanger, KY | Sr. Director | Erlanger, KY, USA | $126K–$273K | 0d | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25416&siteid=5998&PageType=JobDetails&jobid=3397640) |
 | Accenture ⭐ | 🆕 Cybersecurity Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 0d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Cybersecurity-Director_R00369716) |
 | Environmental Resources Management | 🆕 Technical Consulting Director, Site Investigation and Remediation | Director | Indianapolis, Indiana |  | 0d | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Indianapolis-Indiana/Technical-Consulting-Director--Site-Investigation-and-Remediation_R00032738-1) |
 | Sierra Nevada Corporation | 🆕 Director of Programs, Mission Systems Products | Director | Plano, TX |  | 0d | [Apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Plano-TX/Director-of-Programs--Mission-Systems-Products_R0031343) |
@@ -818,6 +822,8 @@ _57 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Data Governance and Controls Lead (VP) | VP | Jacksonville, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/jacksonville/data-governance-and-controls-lead-vp/287/103161216992) |
+| ADM | 🆕 Sr. Director Data Engineering and Operations - Erlanger, KY | Sr. Director | Erlanger, KY, USA | $126K–$273K | 0d | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25416&siteid=5998&PageType=JobDetails&jobid=3397640) |
 | Ares Insurance Solutions | 🆕 Vice President, Data Platform Engineering | VP | New York, NY | $210K–$230K | 0d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Data-Platform-Engineering_R8751) |
 | Ares Insurance Solutions | 🆕 Vice President, Data Ingestion & Integration | VP | New York, NY | $210K–$230K | 0d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Data-Ingestion---Integration_R8752) |
 | Ares Insurance Solutions | 🆕 Vice President, Data Engineering & Data Products | VP | New York, NY | $210K–$230K | 0d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Data-Engineering---Data-Products_R8753) |
@@ -1066,10 +1072,8 @@ _57 older roles in this section are in data/roles.json on the `data` branch._
 | Colgate-Palmolive | Director, Data Architecture | Director | Piscataway, NJ, USA | $195K–$225K | 8d | [Apply](https://jobs.colgate.com/job/Piscataway-Director%2C-Data-Architecture-NJ/1447242000/?feedId=168900&utm_source=Indeed&utm_campaign=Colgate_Indeed) |
 | Rivian | Head of Business Platforms (Enterprise Applications & AI) | Head | Palo Alto, California · Remote | $219K–$359K | 8d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/d887ac55-78de-4005-b416-87b1e38f1bfd) ⚡ |
 | FanDuel | Data Product Director | Director | New York City | $197K–$246K | 8d | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8348330) ⚡ |
-| Merck | Executive Director, Data Management and Data Operations | ED | West Point, Pennsylvania, United States of |  | 8d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR424850ENUS) |
-| Unum | Director, Data Analytics & Insights | Director | Atlanta, Georgia, USA +2 |  | 8d | [Apply](https://unum.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia-USA/Director--Data-Analytics---Insights_836626) |
 
-_883 older roles in this section are in data/roles.json on the `data` branch._
+_885 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1336,6 +1340,8 @@ _74 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Owens & Minor | 🆕 Senior Director, Supply Network Planning | Sr. Director | Remote - Virginia |  | 0d | [Apply](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Remote---Virginia/Senior-Director--Supply-Network-Planning_REQ_26_34158) |
+| Starbucks | 🆕 director engineering – Retail Technology Platforms, Licensed Coffeehouses – Seattle, WA | Director | Seattle, WA, USA | $215K–$359K | 0d | [Apply](https://click.appcast.io/t/294KZF00jP_hoT1viUPVNebxCPJcPGklqw1m0ayG4-4=) |
 | Synchrony | 🆕 VP, Cloud IAM Engineering Leader | VP | Stamford, CT, USA | $135K–$230K | 0d | [Apply](https://www.synchronycareers.com/job/stamford/vp-cloud-iam-engineering-leader/49398/103141584208) |
 | Barclays | 🆕 VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 0d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
 | Hudson Automotive Group | 🆕 Infrastructure and Engineering Director | Director | Charleston, SC, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/0D90FB4D87BB9B02D42F814BFFCE490F/jobs/515409?source=Indeed) |
@@ -1584,10 +1590,8 @@ _74 older roles in this section are in data/roles.json on the `data` branch._
 | Micron ⭐ | Director, OEM Major Compute & Infrastructure Accounts (req JR115686) | Director | Austin, TX | $182K–$248K | 21d | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Director--OEM-Major-Compute---Infrastructure-Accounts_JR115686) |
 | U.S. Bank | BTIG: Research, Equity Research Associate, Vice President (Energy & Infrastructure) | VP | New York, NY |  | 21d | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/BTIG--Research--Equity-Research-Associate--Vice-President--Energy---Infrastructure-_2026-0033093-1) |
 | Function Health | Head of Infrastructure | Head | Remote, USA |  | 21d | [Apply](https://jobs.gem.com/function-health/am9icG9zdDq-z07p7bffcIM0cZVUfX-3) |
-| AmSurg | VP, Enterprise Applications & Platforms | VP | Nashville, TN, USA |  | 21d | [Apply](https://recruiting.ultipro.com/AMS1004AMSRG/JobBoard/94a3d750-7693-4943-8b5d-0a9b17bb4e4f/OpportunityDetail?opportunityId=a967e022-9722-45bc-a7a0-89a783a49c2a&postingId=0fc5e530-309b-48be-a110-4597d568e232) |
-| Orange Business | Senior Multi-Cloud Solution Director | Director | Atlanta, GA, USA | $190K–$235K | 21d | [Apply](https://orange.phenompeople.net/fr/fr/job/ICM-589361) [alt](https://orange.phenompeople.net/fr/fr/job/OYVOCZGBICM589361EXTERNALFRFR) |
 
-_161 older roles in this section are in data/roles.json on the `data` branch._
+_163 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 

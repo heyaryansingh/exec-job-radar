@@ -1,21 +1,22 @@
 # 🤠 Senior technology roles in the Houston area
 
-153 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+154 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | TransGrid Energy | 🆕 SVP, Data Center Infrastructure Business | EVP/SVP | Houston | $350K–$450K | 0d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/ad4bea03-8163-4a15-a48a-480dd9ca2fba) ⚡ |
+| Relativity | 🆕 Director Financial Systems | Director | Houston, Texas | $158K–$236K | 1d | [Apply](https://www.talent.com/view?id=645325558164620980) |
 | Burns & McDonnell | 🆕 Director, Enterprise Architecture - Corporate IT | Director | Houston, TX, USA | $240K–$390K | 1d | [Apply](https://rr.jobsyn.org/A4F8B49E686F4EEB80FD0F6E0DDD95C81554) |
 | HPE | 🆕 Director of Enterprise Cyber Security Architecture | Director | Spring, Texas, United States of America +3 |  | 1d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Director-of-Enterprise-Cyber-Security-Architecture_1209229) [alt](https://careers.hpe.com/us/en/job/HPE1US1209229EXTERNALENUS) |
 | KSBJ | 🆕 Director, Data Science & Analytics | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654078) |
 | WSP | 🆕 National Director of Airline Infrastructure Programs | Director | Houston, TX, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99160) |
 | Parsons | Program Director, Roads and Highways, Houston | Director | Houston, TX, USA | $158K–$284K | 1d | [Apply](https://jobs.parsons.com/jobs/program-director-roads-and-highways-houston-houston-r-188454-jobs--project-program-management--) |
-| Iris Energy | 🆕 Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
+| Iris Energy | Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
 | Marathon Petroleum | Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 2d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |
 | Flogistix | Assistant Director, Financial Systems | Director | Houston, TX, USA |  | 2d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/73E051287C88B1AA01E9EBE87D394D99/jobs/551581?source=Indeed) |
 | HP | Vice President, SC Network, Resilience, Analytics Transformation | VP | Spring, Texas, United States of America | $266K–$318K | 2d | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Vice-President--SC-Network--Resilience--Analytics-Transformation_3170130-1) |
-| Cognito Therapeutics, Inc. | 🆕 Sr Director Information Security | Sr. Director | Houston, Texas | $160K–$230K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5608050812/e/) |
-| M8l | 🆕 VP of Software Engineering: Scale, Modernize | VP | Houston, Texas |  | 3d | [Apply](https://us.trabajo.org/job-2439-900d182f15a72dfdeaac3705e9db03e8) |
+| Cognito Therapeutics, Inc. | Sr Director Information Security | Sr. Director | Houston, Texas | $160K–$230K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5608050812/e/) |
+| M8l | VP of Software Engineering: Scale, Modernize | VP | Houston, Texas |  | 3d | [Apply](https://us.trabajo.org/job-2439-900d182f15a72dfdeaac3705e9db03e8) |
 | AMSYS Talent | Senior Director - IT Activation Services | Sr. Director | Houston, Texas |  | 3d | [Apply](https://www.ziprecruiter.com/c/amsys-talent/Job/Senior-Director-IT-Activation-Services/-in-Houston,TX?jid=c20d9d5e2514b9d2) |
 | Testing Site - JPMC | Continuous Delivery - Product Manager, Vice President | VP | Houston, Texas |  | 4d | [Apply](https://jooble.org/jdp/2303436025763233556) |
 | U.S. Anesthesia Partners | Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 4d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |

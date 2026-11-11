@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,457 open roles** at **1,643 companies** · **188 new in the last 24 hours** · 5,896 company career sites watched · updated hourly · last update Nov 11, 2026 12:49 AM ET
+**4,459 open roles** at **1,644 companies** · **188 new in the last 24 hours** · 5,896 company career sites watched · updated hourly · last update Nov 11, 2026 01:39 AM ET
 
-By level: Director 2298 · VP 851 · Sr. Director 566 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
+By level: Director 2299 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -33,10 +33,10 @@ By level: Director 2298 · VP 851 · Sr. Director 566 · Head 278 · EVP/SVP 169
 - [🛡️ Security & Risk Technology (303)](#security-risk-technology)
 - [🧠 Data & AI (1127)](#data-ai)
 - [🚦 Reliability & Operations (321)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (408)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (409)](#cloud-infrastructure)
 - [🏛️ Architecture (121)](#architecture)
 - [🔄 Transformation & Delivery (538)](#transformation-delivery)
-- [🛠️ Engineering & Software (1158)](#engineering-software)
+- [🛠️ Engineering & Software (1159)](#engineering-software)
 - [📌 Other Senior Roles (333)](#other-senior-roles)
 - [🔒 Recently closed (188)](#recently-closed)
 - Daily digests: [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md)
@@ -47,6 +47,8 @@ By level: Director 2298 · VP 851 · Sr. Director 566 · Head 278 · EVP/SVP 169
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Barclays | 🆕 VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 0d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
+| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH, USA |  | 0d | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | Agilent Technologies | 🆕 Director of Software Engineering | Director | Santa Clara, CA, USA | $185K–$346K | 0d | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CA-Santa-Clara/Director-of-Software-Engineering_4040780) |
 | AstraZeneca | 🆕 Director, Forward Deployed Security Architecture | Director | Gaithersburg, MD, USA | $169K–$222K | 0d | [Apply](https://careers.astrazeneca.com/job/gaithersburg/director-forward-deployed-security-architecture/7684/103138190016) |
 | Avalo Therapeutics | 🆕 Sr. Director, AI Strategy & Transformation | Sr. Director | Chesterbrook, PA, USA |  | 0d | [Apply](https://grnh.se/mnm5jh2e9us) |
@@ -228,8 +230,6 @@ By level: Director 2298 · VP 851 · Sr. Director 566 · Head 278 · EVP/SVP 169
 | Mercer University | 🆕 Technical Director | Director | Warner Robins, GA  31088-7810 |  | 1d | [Apply](https://merceruniversity.wd1.myworkdayjobs.com/external/job/Warner-Robins-GA--31088-7810/Technical-Director_27-ED-01a) |
 | Twenty-Six Defense | 🆕 Senior Director Engineering - Site Lead | Sr. Director | Merrimack, NH, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/esa/ESACAREERSITE/jobs/10053) |
 | CaptivateIQ | 🆕 Senior Director, Engineering - ICM | Sr. Director | Remote USA | $237K–$374K | 1d | [Apply](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1) ⚡ [alt](https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1?lever-source=Indeed) |
-| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 1d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
-| Relativity | 🆕 Director Financial Systems | Director | IL, USA | $158K–$236K | 1d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Director-Financial-Systems_26-0530) |
 | Office of the Chief Information Officer | 🆕 Chief Technology Officer | C-level | Washington, District of Columbia |  | 2d | [Apply](https://www.usajobs.gov/job/892202600) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Java Big Data Engineering Lead Markets Technology SVP | EVP/SVP | Rutherford, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/rutherford/java-big-data-engineering-lead-markets-technology-svp/287/103092977216) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Head of Product, Innovation and AI – Citi Travel, Senior Vice President | EVP/SVP | Wilmington, DE, US +5 |  | 2d | [Apply](https://jobs.citi.com/job/wilmington/head-of-product-innovation-and-ai-citi-travel-senior-vice-president/287/103092979104) |
@@ -569,7 +569,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | SuperDial | 🆕 Head of Security & IT | Head | Burlingame, CA · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/superdial/3388176f-72ed-47cb-87d3-d8d16c3e61dc) ⚡ |
 | DXC Technology | 🆕 Director Information Security | Director | USA - DC - WASHINGTON +1 | $167K–$347K | 1d | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---DC---WASHINGTON/Director-Information-Security_51594304) |
 | Health Care Service | 🆕 Director Data Security | Director | TX - Richardson +1 |  | 1d | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Dir-Data-Security_R0055435) |
-| Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 1d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
+| Callaway Golf | Director, Information Security Engineering and Operations | Director | Carlsbad, CA, USA | $166K–$250K | 1d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/en-US/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 | Callaway Golf | 🆕 Director, Information Security Engineering and Operations | Director | CGC - HQ - Carlsbad |  | 2d | [Apply](https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CGC---HQ---Carlsbad/Director--Information-Security-Engineering-and-Operations_JR2023-16866) |
 | Iris Energy | Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
 | Christ Church Episcopal School | Director of Safety and Security | Director | Greenville, SC, USA |  | 2d | [Apply](https://cces.isolvedhire.com/jobs/1901969-699813.html) |
@@ -1337,6 +1337,7 @@ _71 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Barclays | 🆕 VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 0d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
 | Hudson Automotive Group | 🆕 Infrastructure and Engineering Director | Director | Charleston, SC, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/0D90FB4D87BB9B02D42F814BFFCE490F/jobs/515409?source=Indeed) |
 | d-Matrix | 🆕 Head of Platform Software | Head | Santa Clara · Remote | $220K–$330K | 0d | [Apply](https://jobs.ashbyhq.com/d-Matrix/78c45cb3-fdb0-4485-8095-fcedf84b0dad) ⚡ |
 | SpaceX ⭐ | 🆕 Director, Materials Management (Starbase Infrastructure - Louisiana) | Director | Pecan Island, LA |  | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8936748002?gh_jid=8936748002) ⚡ |
@@ -1586,9 +1587,8 @@ _71 older roles in this section are in data/roles.json on the `data` branch._
 | Orange Business | Senior Multi-Cloud Solution Director | Director | Atlanta, GA, USA | $190K–$235K | 21d | [Apply](https://orange.phenompeople.net/fr/fr/job/ICM-589361) [alt](https://orange.phenompeople.net/fr/fr/job/OYVOCZGBICM589361EXTERNALFRFR) |
 | OpenLoop Health | Director of Cloud Engineering | Director | United States - Remote |  | 21d | [Apply](https://jobs.ashbyhq.com/openloophealth/418589a5-85cd-400a-98ad-de3c7efa2bda) ⚡ |
 | GitLab | Senior Director, Dedicated Infrastructure & Platforms | Sr. Director | Remote, Canada +2 | $279K–$349K | 21d | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8883597002) ⚡ |
-| Vercel Inc | Engineering Director, Vercel for Platforms | Director | Hybrid - San Francisco |  | 21d | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6231045004) ⚡ |
 
-_158 older roles in this section are in data/roles.json on the `data` branch._
+_159 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1983,6 +1983,7 @@ _288 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH, USA |  | 0d | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | Agilent Technologies | 🆕 Director of Software Engineering | Director | Santa Clara, CA, USA | $185K–$346K | 0d | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CA-Santa-Clara/Director-of-Software-Engineering_4040780) |
 | Collins Aerospace | 🆕 Director, Evacuation & Oxygen Systems Engineering(Onsite) | Director | Lenexa, KS, USA | $186K–$354K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01888253&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01888253%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Daaa0fc71-dd23-11f1-86ee-353b8c3e59af%26rx_job%3D01888253%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261111T020409Z%26rx_vp%3Dcpc) |
 | Paymentus | 🆕 Senior Director of Engineering | Sr. Director | Remote, USA | $188K–$280K | 0d | [Apply](https://www.indeed.com/viewjob?jk=2e1fbe61317d5d51) |
@@ -2232,9 +2233,8 @@ _288 older roles in this section are in data/roles.json on the `data` branch._
 | Apple | Director of Privacy Engineering, Services | Director | Cupertino, CA, USA | $311K–$497K | 7d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200672379-0836-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200672379-0836%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D513e1c94-d7fe-11f1-a4b8-0328b4b5feb8%26rx_job%3D200672379-0836-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261104T080406Z%26rx_vp%3Dcpc) |
 | Omatic Software | Vice President of Engineering | VP | Remote, USA |  | 7d | [Apply](https://omatic.applytojob.com/apply/IOglWmI9hN/Vice-President-Of-Engineering?source=INDE&~) |
 | Fidelity ⭐ | Director, Software Engineering (req 2137712) | Director | Westlake, TX |  | 7d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2137712) |
-| Republic Services | VP Information Technology | VP | Phoenix, AZ, USA |  | 7d | [Apply](https://jobs.republicservices.com/us/en/job/R-187675) [alt](https://jobs.republicservices.com/us/en/job/ROURSAUSR187675EXTERNALENUS) |
 
-_908 older roles in this section are in data/roles.json on the `data` branch._
+_909 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2249,7 +2249,7 @@ _908 older roles in this section are in data/roles.json on the `data` branch._
 | Options Clearing Corporation | 🆕 Director, Enterprise Monitoring | Director | Chicago, IL, USA | $174K–$256K | 1d | [Apply](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Director--Enterprise-Monitoring_REQ-4927-1) |
 | Dentsu | 🆕 Senior Director, Products - Temporary Worker | Sr. Director | USA - Remote - Massachusetts | $135K–$250K | 1d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---Massachusetts/Senior-Director--Products---Temporary-Worker_R1133833) |
 | Visa | 🆕 Sr. Director | Sr. Director | US - Austin, TX |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Sr-Director_REF090191W) |
-| Relativity | 🆕 Director Financial Systems | Director | IL, USA | $158K–$236K | 1d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Director-Financial-Systems_26-0530) |
+| Relativity | Director Financial Systems | Director | IL, USA | $158K–$236K | 1d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Director-Financial-Systems_26-0530) |
 | Information Technology Senior Management Forum | Director, Full-Stack Engineer - AML (Anti Money Laundering) | Director | New York, NY, USA | $269K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/f4fkjy/director-full-stack-engineer-aml-(anti-money-laundering)/new-york/ny) |
 | University of South Florida | Director Enterprise Financial System | Director | Tampa, FL, United States |  | 2d | [Apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44718) [alt](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/44718) |
 | Marathon Petroleum | Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 2d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,459 open roles** at **1,644 companies** · **188 new in the last 24 hours** · 5,896 company career sites watched · updated hourly · last update Nov 11, 2026 01:39 AM ET
+**4,458 open roles** at **1,644 companies** · **188 new in the last 24 hours** · 5,898 company career sites watched · updated hourly · last update Nov 11, 2026 01:49 AM ET
 
-By level: Director 2299 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
+By level: Director 2298 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169 · C-level 142 · ED 107 · MD 46
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -37,8 +37,8 @@ By level: Director 2299 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169
 - [🏛️ Architecture (121)](#architecture)
 - [🔄 Transformation & Delivery (538)](#transformation-delivery)
 - [🛠️ Engineering & Software (1159)](#engineering-software)
-- [📌 Other Senior Roles (333)](#other-senior-roles)
-- [🔒 Recently closed (188)](#recently-closed)
+- [📌 Other Senior Roles (332)](#other-senior-roles)
+- [🔒 Recently closed (189)](#recently-closed)
 - Daily digests: [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md) · [11-05](data/daily/2026-11-05.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -48,7 +48,6 @@ By level: Director 2299 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Barclays | 🆕 VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 0d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
-| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH, USA |  | 0d | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | Agilent Technologies | 🆕 Director of Software Engineering | Director | Santa Clara, CA, USA | $185K–$346K | 0d | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CA-Santa-Clara/Director-of-Software-Engineering_4040780) |
 | AstraZeneca | 🆕 Director, Forward Deployed Security Architecture | Director | Gaithersburg, MD, USA | $169K–$222K | 0d | [Apply](https://careers.astrazeneca.com/job/gaithersburg/director-forward-deployed-security-architecture/7684/103138190016) |
 | Avalo Therapeutics | 🆕 Sr. Director, AI Strategy & Transformation | Sr. Director | Chesterbrook, PA, USA |  | 0d | [Apply](https://grnh.se/mnm5jh2e9us) |
@@ -74,6 +73,7 @@ By level: Director 2299 · VP 852 · Sr. Director 566 · Head 278 · EVP/SVP 169
 | JPMorgan Chase ⭐ | 🆕 Executive Director, AI/ML — Forecasting, Constraint Optimization, and Recommendation Systems | ED | New York, NY, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808154) |
 | d-Matrix | 🆕 Head of Platform Software | Head | Santa Clara · Remote | $220K–$330K | 0d | [Apply](https://jobs.ashbyhq.com/d-Matrix/78c45cb3-fdb0-4485-8095-fcedf84b0dad) ⚡ |
 | TransGrid Energy | 🆕 SVP, Data Center Infrastructure Business | EVP/SVP | Houston | $350K–$450K | 0d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/ad4bea03-8163-4a15-a48a-480dd9ca2fba) ⚡ |
+| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH |  | 1d | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) [alt](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | Relativity | 🆕 Director Financial Systems | Director | Houston, Texas | $158K–$236K | 1d | [Apply](https://www.talent.com/view?id=645325558164620980) |
 | United Way of Northern New Jersey | 🆕 Senior Vice President Technology | EVP/SVP | Passaic, New Jersey | $180K–$280K | 1d | [Apply](https://www.learn4good.com/jobs/passaic/new-jersey/info_technology/5615673652/e/) |
 | Stripe ⭐ | 🆕 Global Head of Partner Solutions Architecture | Head | US |  | 1d | [Apply](https://stripe.com/jobs/search?gh_jid=8358044) ⚡ |
@@ -1983,12 +1983,12 @@ _288 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH, USA |  | 0d | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | Agilent Technologies | 🆕 Director of Software Engineering | Director | Santa Clara, CA, USA | $185K–$346K | 0d | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CA-Santa-Clara/Director-of-Software-Engineering_4040780) |
 | Collins Aerospace | 🆕 Director, Evacuation & Oxygen Systems Engineering(Onsite) | Director | Lenexa, KS, USA | $186K–$354K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01888253&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01888253%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Daaa0fc71-dd23-11f1-86ee-353b8c3e59af%26rx_job%3D01888253%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261111T020409Z%26rx_vp%3Dcpc) |
 | Paymentus | 🆕 Senior Director of Engineering | Sr. Director | Remote, USA | $188K–$280K | 0d | [Apply](https://www.indeed.com/viewjob?jk=2e1fbe61317d5d51) |
 | Cisco | 🆕 Senior Director - Software Engineering (Cisco Duo) | Sr. Director | Austin, TX, USA · Remote | $267K–$468K | 0d | [Apply](https://careers.cisco.com/global/en/job/2031193) |
 | Southwire | 🆕 Director, Engineering | Director | Remote, USA |  | 0d | [Apply](https://careers.southwire.com/job/RemoteOther-Director%2C-Engineering-Remo-RemoteOth/1449653200/?feedId=267200&campaignId=3&utm_source=Indeed) |
+| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH |  | 1d | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) [alt](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | United Way of Northern New Jersey | 🆕 Senior Vice President Technology | EVP/SVP | Passaic, New Jersey | $180K–$280K | 1d | [Apply](https://www.learn4good.com/jobs/passaic/new-jersey/info_technology/5615673652/e/) |
 | Brooks Automation | 🆕 Director, Engineering Services | Director | Chelmsford MA |  | 1d | [Apply](https://brooksauto.wd1.myworkdayjobs.com/Brooks_External_Site/job/Chelmsford-MA/Director--Engineering-Services_R1962) |
 | Conway Medical Center | 🆕 Assistant VP of Information Technology | VP | Conway, SC, USA |  | 1d | [Apply](https://pm.healthcaresource.com/CS/cmcsc/#/job/11163) |
@@ -2493,7 +2493,7 @@ _909 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Python Full Stack Developer - VP | VP | Mississauga, ON, CA |  | 23d | [Apply](https://jobs.citi.com/job/mississauga/python-full-stack-developer-vp/287/102161084608) |
 | UChicago Argonne | Department Director, Electric Power Systems | Director | Lemont, IL USA |  | 23d | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Department-Director--Electric-Power-Systems_423588-1) |
 
-_83 older roles in this section are in data/roles.json on the `data` branch._
+_82 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 
@@ -2503,6 +2503,7 @@ _83 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Marriott International ⭐ | 🔒 Director, Corporate Systems – Oracle Fusion ERP | Director | Bethesda, MD, United States |  | 30d | Closed |
 | WSP | 🔒 Vice President, Civil Engineering | VP | Portland, OR, United States |  | 21d | Closed |
 | JPMorgan Chase ⭐ | 🔁 🔒 Executive Director, Global Technology Strategy | ED | New York, NY, United States |  | 8d | Closed |
 | Oracle | 🔒 Consulting Technical Director | Director | United States | $126K–$264K | 36d | Closed |

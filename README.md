@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,578 open roles** at **1,691 companies** · **125 new in the last 24 hours** · 5,922 company career sites watched · updated hourly · last update Nov 12, 2026 05:54 AM ET
+**4,577 open roles** at **1,691 companies** · **125 new in the last 24 hours** · 5,922 company career sites watched · updated hourly · last update Nov 12, 2026 06:31 AM ET
 
-By level: Director 2350 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 173 · C-level 153 · ED 111 · MD 47
+By level: Director 2350 · VP 878 · Sr. Director 584 · Head 281 · EVP/SVP 173 · C-level 153 · ED 111 · MD 47
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 2350 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 173
 - [🤠 Houston area (158)](#houston-area)
 - [👑 Executive Technology Leadership (159)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (309)](#security-risk-technology)
-- [🧠 Data & AI (1159)](#data-ai)
+- [🧠 Data & AI (1158)](#data-ai)
 - [🚦 Reliability & Operations (324)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (416)](#cloud-infrastructure)
 - [🏛️ Architecture (124)](#architecture)
@@ -1022,7 +1022,7 @@ _59 older roles in this section are in data/roles.json on the `data` branch._
 | Amerihealth Caritas | Vice President AI Transformation | VP | US |  | 9d | [Apply](https://careers.amerihealthcaritas.com/us/en/job/45284/Vice-President-AI-Transformation) [alt](https://careers.amerihealthcaritas.com/us/en/job/AMCAUS45284EXTERNALENUS) |
 | Hearst Networks EMEA | Director, Analytics Engineering | Director | New York, NY, USA | $171K–$200K | 9d | [Apply](https://aenetworks.wd1.myworkdayjobs.com/en-US/AE-Careers/job/New-York/Director--Analytics-Engineering_R0010955) |
 
-_909 older roles in this section are in data/roles.json on the `data` branch._
+_908 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2458,6 +2458,7 @@ _93 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Oracle | 🔒 Sr. Director, Data Center Strategic Design and Product | Sr. Director | United States | $184K–$395K | 15d | Closed |
 | Hover | 🔒 Director / Senior Director, Engineering, Core UX & Growth | Sr. Director | san_francisconew_york | $261K–$370K | 44d | Closed |
 | Marriott International ⭐ | 🔒 Director, Corporate Systems – Oracle Analytics & Reporting | Director | Bethesda, MD, United States |  | 35d | Closed |
 | ServiceNow ⭐ | 🔒 Senior Director, AI Platform Engineering Management | Sr. Director | Santa Clara, California, us | $254K–$445K | 2d | Closed |
@@ -2649,7 +2650,6 @@ _93 older roles in this section are in data/roles.json on the `data` branch._
 | Vertiv | 🔒 Director Engineering Management | Director | Delaware, OH, United States |  | 16d | Closed |
 | Oracle | 🔒 Cloud Solution Director | Director | United States | $170K–$284K | 21d | Closed |
 | WSP | 🔒 Bridge Inspection Regional Manager/Technical Director | Director | Virginia Beach, VA, United States | $153K–$227K | 24d | Closed |
-| CVS Health ⭐ | 🔒 Executive Director, AI Engineering | ED | CT - Hartford · Remote |  | 20d | Closed |
 
 </details>
 

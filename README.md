@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,568 open roles** at **1,685 companies** · **125 new in the last 24 hours** · 5,919 company career sites watched · updated hourly · last update Nov 12, 2026 12:14 AM ET
+**4,569 open roles** at **1,686 companies** · **126 new in the last 24 hours** · 5,921 company career sites watched · updated hourly · last update Nov 12, 2026 01:04 AM ET
 
-By level: Director 2342 · VP 878 · Sr. Director 584 · Head 281 · EVP/SVP 172 · C-level 153 · ED 111 · MD 47
+By level: Director 2342 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 172 · C-level 153 · ED 111 · MD 47
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (125)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (126)](#new-in-the-last-24-hours)
 - [🤠 Houston area (156)](#houston-area)
 - [👑 Executive Technology Leadership (159)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (309)](#security-risk-technology)
-- [🧠 Data & AI (1155)](#data-ai)
+- [🧠 Data & AI (1156)](#data-ai)
 - [🚦 Reliability & Operations (324)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (416)](#cloud-infrastructure)
 - [🏛️ Architecture (124)](#architecture)
@@ -47,6 +47,7 @@ By level: Director 2342 · VP 878 · Sr. Director 584 · Head 281 · EVP/SVP 172
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Axiado | 🆕 Director / Sr. Director of Product Management – Data Center Silicon Infrastructure | Sr. Director | San Jose, CA, us | $200K–$250K | 0d | [Apply](https://jobs.smartrecruiters.com/Axiado/744000161220490-director-sr-director-of-product-management-data-center-silicon-infrastructure) ⚡ |
 | Confidential | 🆕 Vice President, Technology Enablement | VP | Toronto, Kansas |  | 0d | [Apply](https://www.talent.com/view?id=645596400967419133) |
 | Confidential | 🆕 Chief Information Officer (CIO) | C-level |  |  | 0d | [Apply](https://www.talent.com/view?id=645596952850991634) |
 | Confidential | 🆕 Chief Information & Data Officer (CIDO) | C-level |  |  | 0d | [Apply](https://www.talent.com/view?id=645583319125401608) |
@@ -60,9 +61,9 @@ By level: Director 2342 · VP 878 · Sr. Director 584 · Head 281 · EVP/SVP 172
 | Honeywell ⭐ | 🆕 Director, Solutions Architecture & Application Engineering – Data Centers | Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161916) |
 | FICO | 🆕 Senior Director, Product Management - Platform Governance and Compliance | Sr. Director | Remote, USA | $164K–$258K | 0d | [Apply](https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-United-States/Senior-Director--Product-Management---Platform-Governance-and-Compliance_32405) |
 | Deloitte | 🆕 Director-Enterprise Technology Vendor Management | Director | Jersey City, NJ, USA | $137K–$282K | 1d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=374050) |
-| Paleovalley | 🆕 Vice President of Technology (US, Remote) | VP | Remote | $190K–$220K | 1d | [Apply](https://jobgether.com/offer/6af38d411b1a9ee7d660e21b-vice-president-of-technology-us-remote) |
-| KPMG US | 🆕 Director, Cloud and Platform Security | Director | Harrisburg, Pennsylvania |  | 1d | [Apply](https://bebee.com/us/jobs/director-cloud-and-platform-security-kpmg-us-harrisburg--fj-2461117569) |
 | Confidential | 🆕 Chief Information Officer (CIO) | C-level | Rockville, Maryland |  | 1d | [Apply](https://www.recruit.net/job/chief-information-officer-cio-jobs/94439840FC34F207) |
+| KPMG US | 🆕 Director, Cloud and Platform Security | Director | Harrisburg, Pennsylvania |  | 1d | [Apply](https://bebee.com/us/jobs/director-cloud-and-platform-security-kpmg-us-harrisburg--fj-2461117569) |
+| Paleovalley | 🆕 Vice President of Technology (US, Remote) | VP | Remote | $190K–$220K | 1d | [Apply](https://jobgether.com/offer/6af38d411b1a9ee7d660e21b-vice-president-of-technology-us-remote) |
 | The Aerospace Corporation | 🆕 Principal Director, Cyberspace Systems and Security (CS3) | Director | El Segundo, CA +1 |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director--Cyberspace-Systems-and-Security--CS3-_R017189) |
 | Live Nation | 🆕 Senior Director, Vulnerability Management & Penetration Testing | Sr. Director | US CA Beverly Hills - 325 N Maple Drive +109 |  | 1d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director--Vulnerability-Management---Penetration-Testing_JR-94215) |
 | Ares Management | 🆕 Vice President, Data Platform Engineering | VP | New York, NY, USA | $210K–$230K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Vice-President--Data-Platform-Engineering_R8751) |
@@ -769,6 +770,7 @@ _59 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Axiado | 🆕 Director / Sr. Director of Product Management – Data Center Silicon Infrastructure | Sr. Director | San Jose, CA, us | $200K–$250K | 0d | [Apply](https://jobs.smartrecruiters.com/Axiado/744000161220490-director-sr-director-of-product-management-data-center-silicon-infrastructure) ⚡ |
 | Alera Group | 🆕 Senior Vice President of Technology - Data Analytics and Population Health Consulting | EVP/SVP | USA | $225K–$250K | 0d | [Apply](https://careers.aleragroup.com/jobs/7720/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Simplot Company | 🆕 Director, Data Reporting & Analytics - Global Food (Boise) | Director | Boise, ID, USA |  | 0d | [Apply](https://careers.simplot.com/job/Boise-Director%2C-Data-Reporting-&-Analytics-Global-Food-%28Boise%29-ID-83702-6924/1450017600/?feedId=306600&utm_source=Indeed&utm_campaign=Simplot_Indeed) |
 | St. Jude Children's Research Hospital | 🆕 Director, Data and AI | Director | Remote, USA | $138K–$262K | 0d | [Apply](https://talent.stjude.org/careers/JobDetail/Director-Data-and-AI-JR8053/5644) |
@@ -1018,9 +1020,8 @@ _59 older roles in this section are in data/roles.json on the `data` branch._
 | Lineage | Director, Product Management - CDA & AI | Director | Novi, MI, USA |  | 9d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/9ed4a8af67060313266492e365915191f04fbf20ecdd897259d06585/) |
 | OKX | Director, Model Risk — AI & Fraud | Director | New York, United States +1 | $200K–$300K | 9d | [Apply](https://job-boards.greenhouse.io/okx/jobs/8184388003) ⚡ |
 | OKX | Director, Model Risk — AI & Fraud | Director | San Jose, California, United States |  | 9d | [Apply](https://job-boards.greenhouse.io/okx/jobs/8184389003) ⚡ |
-| Citi (jobs.citi.com) ⭐ | Generative AI Engineering Lead - Senior Vice President | EVP/SVP | Irving, TX, US +1 |  | 9d | [Apply](https://jobs.citi.com/job/irving/generative-ai-engineering-lead-senior-vice-president/287/102816963472) |
 
-_905 older roles in this section are in data/roles.json on the `data` branch._
+_906 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

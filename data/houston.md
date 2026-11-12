@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-156 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+157 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Foxconn Industrial Internet - FII | 🆕 Program Management Director | Director | Houston, TX, USA |  | 0d | [Apply](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |
 | Live Nation | 🆕 Senior Director, Vulnerability Management & Penetration Testing | Sr. Director | US CA Beverly Hills - 325 N Maple Drive +109 |  | 1d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director--Vulnerability-Management---Penetration-Testing_JR-94215) |
 | Accenture ⭐ | 🆕 Cybersecurity Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 1d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Cybersecurity-Director_R00369716) |
 | TransGrid Energy | SVP, Data Center Infrastructure Business | EVP/SVP | Houston | $350K–$450K | 1d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/ad4bea03-8163-4a15-a48a-480dd9ca2fba) ⚡ |

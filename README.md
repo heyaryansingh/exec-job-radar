@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,561 open roles** at **1,684 companies** · **131 new in the last 24 hours** · 5,916 company career sites watched · updated hourly · last update Nov 11, 2026 10:14 PM ET
+**4,561 open roles** at **1,684 companies** · **131 new in the last 24 hours** · 5,919 company career sites watched · updated hourly · last update Nov 11, 2026 10:26 PM ET
 
 By level: Director 2341 · VP 876 · Sr. Director 584 · Head 281 · EVP/SVP 172 · C-level 149 · ED 111 · MD 47
 
@@ -47,14 +47,14 @@ By level: Director 2341 · VP 876 · Sr. Director 584 · Head 281 · EVP/SVP 172
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Honeywell ⭐ | 🆕 Senior Director Program Management, GAPMO | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161914) |
-| Honeywell ⭐ | 🆕 Director, Solutions Architecture & Application Engineering – Data Centers | Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161916) |
-| Honeywell ⭐ | 🆕 Senior Director, Portfolio Management - Data Centers | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161915) |
-| CFS Brands, LLC | 🆕 Director, Information Technology | Director | Oklahoma City, OK, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ce3ea629-7c88-404d-b58a-b90fae72d625&ccId=19000101_000001&jobId=585573&source=IN&lang=en_US) |
-| St. Jude Children's Research Hospital | 🆕 Director, Data and AI | Director | Remote, USA | $138K–$262K | 0d | [Apply](https://talent.stjude.org/careers/JobDetail/Director-Data-and-AI-JR8053/5644) |
 | Alera Group | 🆕 Senior Vice President of Technology - Data Analytics and Population Health Consulting | EVP/SVP | USA | $225K–$250K | 0d | [Apply](https://careers.aleragroup.com/jobs/7720/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Simplot Company | 🆕 Director, Data Reporting & Analytics - Global Food (Boise) | Director | Boise, ID, USA |  | 0d | [Apply](https://careers.simplot.com/job/Boise-Director%2C-Data-Reporting-&-Analytics-Global-Food-%28Boise%29-ID-83702-6924/1450017600/?feedId=306600&utm_source=Indeed&utm_campaign=Simplot_Indeed) |
+| CFS Brands, LLC | 🆕 Director, Information Technology | Director | Oklahoma City, OK, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ce3ea629-7c88-404d-b58a-b90fae72d625&ccId=19000101_000001&jobId=585573&source=IN&lang=en_US) |
 | Rich Products | 🆕 VP, Science, Technology & Digital | VP | Buffalo, NY, USA | $230K–$427K | 0d | [Apply](https://careers.rich.com/job/Buffalo-VP%2C-Science%2C-Technology-&-Digital-NY-14213/1449937100/) |
+| Simplot Company | 🆕 Director, Data Reporting & Analytics - Global Food (Boise) | Director | Boise, ID, USA |  | 0d | [Apply](https://careers.simplot.com/job/Boise-Director%2C-Data-Reporting-&-Analytics-Global-Food-%28Boise%29-ID-83702-6924/1450017600/?feedId=306600&utm_source=Indeed&utm_campaign=Simplot_Indeed) |
+| St. Jude Children's Research Hospital | 🆕 Director, Data and AI | Director | Remote, USA | $138K–$262K | 0d | [Apply](https://talent.stjude.org/careers/JobDetail/Director-Data-and-AI-JR8053/5644) |
+| Honeywell ⭐ | 🆕 Senior Director Program Management, GAPMO | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161914) |
+| Honeywell ⭐ | 🆕 Senior Director, Portfolio Management - Data Centers | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161915) |
+| Honeywell ⭐ | 🆕 Director, Solutions Architecture & Application Engineering – Data Centers | Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161916) |
 | FICO | 🆕 Senior Director, Product Management - Platform Governance and Compliance | Sr. Director | Remote, USA | $164K–$258K | 0d | [Apply](https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-United-States/Senior-Director--Product-Management---Platform-Governance-and-Compliance_32405) |
 | The Aerospace Corporation | 🆕 Principal Director, Cyberspace Systems and Security (CS3) | Director | El Segundo, CA +1 |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director--Cyberspace-Systems-and-Security--CS3-_R017189) |
 | Live Nation | 🆕 Senior Director, Vulnerability Management & Penetration Testing | Sr. Director | US CA Beverly Hills - 325 N Maple Drive +109 |  | 1d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director--Vulnerability-Management---Penetration-Testing_JR-94215) |
@@ -771,11 +771,11 @@ _58 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Honeywell ⭐ | 🆕 Director, Solutions Architecture & Application Engineering – Data Centers | Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161916) |
-| Honeywell ⭐ | 🆕 Senior Director, Portfolio Management - Data Centers | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161915) |
-| St. Jude Children's Research Hospital | 🆕 Director, Data and AI | Director | Remote, USA | $138K–$262K | 0d | [Apply](https://talent.stjude.org/careers/JobDetail/Director-Data-and-AI-JR8053/5644) |
 | Alera Group | 🆕 Senior Vice President of Technology - Data Analytics and Population Health Consulting | EVP/SVP | USA | $225K–$250K | 0d | [Apply](https://careers.aleragroup.com/jobs/7720/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Simplot Company | 🆕 Director, Data Reporting & Analytics - Global Food (Boise) | Director | Boise, ID, USA |  | 0d | [Apply](https://careers.simplot.com/job/Boise-Director%2C-Data-Reporting-&-Analytics-Global-Food-%28Boise%29-ID-83702-6924/1450017600/?feedId=306600&utm_source=Indeed&utm_campaign=Simplot_Indeed) |
+| St. Jude Children's Research Hospital | 🆕 Director, Data and AI | Director | Remote, USA | $138K–$262K | 0d | [Apply](https://talent.stjude.org/careers/JobDetail/Director-Data-and-AI-JR8053/5644) |
+| Honeywell ⭐ | 🆕 Senior Director, Portfolio Management - Data Centers | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161915) |
+| Honeywell ⭐ | 🆕 Director, Solutions Architecture & Application Engineering – Data Centers | Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161916) |
 | Ares Management | 🆕 Vice President, Data Platform Engineering | VP | New York, NY, USA | $210K–$230K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Vice-President--Data-Platform-Engineering_R8751) |
 | Ares Management | 🆕 Vice President, AI Platform Engineering | VP | Los Angeles, CA, USA | $225K–$250K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Los-Angeles-CA---Century-City/Vice-President--AI-Platform-Engineering_R8770) |
 | Coronis Health LLC | 🆕 Vice President, Data & Analytics | VP | Jackson, MI, USA · Remote | $220K–$290K | 1d | [Apply](https://one-coronishealth.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af4af90342c4) |
@@ -1679,8 +1679,8 @@ _166 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Honeywell ⭐ | 🆕 Senior Director Program Management, GAPMO | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161914) |
 | Rich Products | 🆕 VP, Science, Technology & Digital | VP | Buffalo, NY, USA | $230K–$427K | 0d | [Apply](https://careers.rich.com/job/Buffalo-VP%2C-Science%2C-Technology-&-Digital-NY-14213/1449937100/) |
+| Honeywell ⭐ | 🆕 Senior Director Program Management, GAPMO | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161914) |
 | Dollar Shave Club | 🆕 VP, Digital Products and Technology | VP | Durham, NC, USA | $270K–$300K | 1d | [Apply](https://grnh.se/i2khzf496us) |
 | Nasdaq ⭐ | 🆕 Senior Director, Financial Planning & Analysis – Digital Liquidity Networks | Sr. Director | USA - New York City - New York | $129K–$239K | 1d | [Apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Senior-Director--Financial-Planning---Analysis---Digital-Liquidity-Networks_R0027167) |
 | UnitedHealth Group ⭐ | 🆕 Director, Software Engineering-Portfolio Manager - Remote | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering-portfolio-manager-remote/34088/99559863536) |

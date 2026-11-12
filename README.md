@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,569 open roles** at **1,686 companies** · **126 new in the last 24 hours** · 5,921 company career sites watched · updated hourly · last update Nov 12, 2026 01:04 AM ET
+**4,569 open roles** at **1,686 companies** · **124 new in the last 24 hours** · 5,921 company career sites watched · updated hourly · last update Nov 12, 2026 02:03 AM ET
 
 By level: Director 2342 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 172 · C-level 153 · ED 111 · MD 47
 
@@ -27,7 +27,7 @@ By level: Director 2342 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 172
 
 ## Contents
 
-- [🆕 New in the last 24 hours (126)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (124)](#new-in-the-last-24-hours)
 - [🤠 Houston area (156)](#houston-area)
 - [👑 Executive Technology Leadership (159)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (309)](#security-risk-technology)
@@ -165,13 +165,11 @@ By level: Director 2342 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 172
 | Synchrony | 🆕 VP, Cloud IAM Engineering Leader | VP | Stamford, CT, USA | $135K–$230K | 1d | [Apply](https://www.synchronycareers.com/job/stamford/vp-cloud-iam-engineering-leader/49398/103141584208) |
 | Synchrony | 🆕 VP, AI Security Architect Lead | VP | Stamford, CT, USA | $130K–$210K | 1d | [Apply](https://www.synchronycareers.com/job/stamford/vp-ai-security-architect-lead/49398/103141584240) |
 | CNX | 🆕 Director, IT Service Delivery Management (TCF) | Director | PHL NCR QC Work-at-Home |  | 1d | [Apply](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-NCR-QC-Work-at-Home/Director--IT-Service-Delivery-Management--TCF-_R1779018) |
-| Barclays | 🆕 VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 1d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
 | Fuze Health | 🆕 Chief Technology Officer - FuzeRx | C-level | Virginia | $375K–$400K | 2d | [Apply](https://www.talent.com/view?id=642903318021281658) |
 | Burns & McDonnell | 🆕 Director, Enterprise Architecture - Corporate IT | Director | Dallas, TX, USA | $240K–$390K | 2d | [Apply](https://rr.jobsyn.org/8E3204DC66BC44E8BA20B08A16E472681554) |
 | CliftonLarsonAllen | 🆕 Digital Growth Director - Sage Intacct | Director | Connection Center-Tempe,AZ |  | 2d | [Apply](https://cliftonlarsonallen.wd115.myworkdayjobs.com/CLA/job/Connection-Center-TempeAZ/Digital-Growth-Director---Sage-Intacct_R18447) |
 | Early Warning Services | 🆕 Sr. Director, Network Engineering, Infrastructure Enablement | Sr. Director | Chicago +1 | $240K–$300K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Sr-Director--Network-Engineering--Infrastructure-Enablement_REQ20261005) [alt](https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/Chicago/Sr-Director--Network-Engineering--Infrastructure-Enablement_REQ20261005) |
 | NextPower | 🆕 Director, Global Service Operations Power Conversion Systems (PCS) | Director | Mesa, Arizona - USA |  | 2d | [Apply](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Mesa-Arizona---USA/Director--Global-Service-Operations-Power-Conversion-Systems--PCS-_NX-5094) |
-| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH |  | 2d | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) [alt](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | Georgia Department of Behavioral Health and Developmental Disabilities | 🆕 LANIER TECHNICAL COLLEGE; DIRECTOR OF FINANCIAL AID - HALL COUNTY CAMPUS; GAINESVILLE, GA 30507 | Director | Gainesville |  | 3d | [Apply](https://georgia.wd5.myworkdayjobs.com/TGC/job/Gainesville/LANIER-TECHNICAL-COLLEGE--DIRECTOR-OF-FINANCIAL-AID---HALL-COUNTY-CAMPUS--GAINESVILLE--GA-30507_JR0000006437) |
 
 <a name="houston-area"></a>
@@ -1297,7 +1295,7 @@ _74 older roles in this section are in data/roles.json on the `data` branch._
 | Starbucks | 🆕 director engineering – Retail Technology Platforms, Licensed Coffeehouses – Seattle, WA | Director | Seattle, WA, USA | $215K–$359K | 1d | [Apply](https://click.appcast.io/t/294KZF00jP_hoT1viUPVNebxCPJcPGklqw1m0ayG4-4=) |
 | Owens & Minor | 🆕 Senior Director, Supply Network Planning | Sr. Director | Remote - Virginia |  | 1d | [Apply](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Remote---Virginia/Senior-Director--Supply-Network-Planning_REQ_26_34158) |
 | Synchrony | 🆕 VP, Cloud IAM Engineering Leader | VP | Stamford, CT, USA | $135K–$230K | 1d | [Apply](https://www.synchronycareers.com/job/stamford/vp-cloud-iam-engineering-leader/49398/103141584208) |
-| Barclays | 🆕 VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 1d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
+| Barclays | VP - Platform Portfolio Lead | VP | Whippany, NJ, USA | $155K–$225K | 1d | [Apply](https://search.jobs.barclays/job/whippany/vp-platform-portfolio-lead/13015/97110685040) |
 | Hudson Automotive Group | Infrastructure and Engineering Director | Director | Charleston, SC, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/0D90FB4D87BB9B02D42F814BFFCE490F/jobs/515409?source=Indeed) |
 | d-Matrix | Head of Platform Software | Head | Santa Clara · Remote | $220K–$330K | 1d | [Apply](https://jobs.ashbyhq.com/d-Matrix/78c45cb3-fdb0-4485-8095-fcedf84b0dad) ⚡ |
 | Early Warning Services | 🆕 Sr. Director, Network Engineering, Infrastructure Enablement | Sr. Director | Chicago +1 | $240K–$300K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Sr-Director--Network-Engineering--Infrastructure-Enablement_REQ20261005) [alt](https://earlywarning.wd5.myworkdayjobs.com/en-US/earlywarningcareers/job/Chicago/Sr-Director--Network-Engineering--Infrastructure-Enablement_REQ20261005) |
@@ -1971,7 +1969,7 @@ _301 older roles in this section are in data/roles.json on the `data` branch._
 | Paymentus | Senior Director of Engineering | Sr. Director | Remote, USA | $188K–$280K | 1d | [Apply](https://www.indeed.com/viewjob?jk=2e1fbe61317d5d51) |
 | Cisco | Senior Director - Software Engineering (Cisco Duo) | Sr. Director | Austin, TX, USA · Remote | $267K–$468K | 1d | [Apply](https://careers.cisco.com/global/en/job/2031193) |
 | Southwire | Director, Engineering | Director | Remote, USA |  | 1d | [Apply](https://careers.southwire.com/job/RemoteOther-Director%2C-Engineering-Remo-RemoteOth/1449653200/?feedId=267200&campaignId=3&utm_source=Indeed) |
-| Fifth Third Bank | 🆕 Director, Software Engineering | Director | Cincinnati, OH |  | 2d | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) [alt](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
+| Fifth Third Bank | Director, Software Engineering | Director | Cincinnati, OH |  | 2d | [Apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) [alt](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Director--Software-Engineering_R75007) |
 | United Way of Northern New Jersey | Senior Vice President Technology | EVP/SVP | Passaic, New Jersey | $180K–$280K | 2d | [Apply](https://www.learn4good.com/jobs/passaic/new-jersey/info_technology/5615673652/e/) |
 | Brooks Automation | Director, Engineering Services | Director | Chelmsford MA |  | 2d | [Apply](https://brooksauto.wd1.myworkdayjobs.com/Brooks_External_Site/job/Chelmsford-MA/Director--Engineering-Services_R1962) |
 | Conway Medical Center | Assistant VP of Information Technology | VP | Conway, SC, USA |  | 2d | [Apply](https://pm.healthcaresource.com/CS/cmcsc/#/job/11163) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,578 open roles** at **1,691 companies** · **126 new in the last 24 hours** · 5,922 company career sites watched · updated hourly · last update Nov 12, 2026 05:03 AM ET
+**4,578 open roles** at **1,691 companies** · **125 new in the last 24 hours** · 5,922 company career sites watched · updated hourly · last update Nov 12, 2026 05:54 AM ET
 
 By level: Director 2350 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 173 · C-level 153 · ED 111 · MD 47
 
@@ -27,7 +27,7 @@ By level: Director 2350 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 173
 
 ## Contents
 
-- [🆕 New in the last 24 hours (126)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (125)](#new-in-the-last-24-hours)
 - [🤠 Houston area (158)](#houston-area)
 - [👑 Executive Technology Leadership (159)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (309)](#security-risk-technology)
@@ -38,7 +38,7 @@ By level: Director 2350 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 173
 - [🔄 Transformation & Delivery (552)](#transformation-delivery)
 - [🛠️ Engineering & Software (1192)](#engineering-software)
 - [📌 Other Senior Roles (343)](#other-senior-roles)
-- [🔒 Recently closed (193)](#recently-closed)
+- [🔒 Recently closed (192)](#recently-closed)
 - Daily digests: [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,9 +47,9 @@ By level: Director 2350 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 173
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Elastic | 🆕 Director of Data and Analytics, Self Service Cloud | Director | United States | $204K–$323K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8372380&gh_jid=8372380) ⚡ |
 | Octave Intelligence | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 0d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |
 | TAIT | 🆕 Director, Data Engineering & Enterprise Applications & AI | Director | Lititz, PA, USA |  | 0d | [Apply](https://careers.taittowers.com/en/jobs/18474253-director-data-engineering-and-enterprise-applications-and-ai?tm_job=3915&tm_event=view&tm_company=92544) |
+| Elastic | 🆕 Director of Data and Analytics, Self Service Cloud | Director | United States | $204K–$323K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8372380&gh_jid=8372380) ⚡ |
 | Foxconn Industrial Internet - FII | 🆕 Program Management Director | Director | Houston, TX, USA |  | 0d | [Apply](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |
 | Marriott International ⭐ | 🆕 Director of Engineering- The Ritz-Carlton Hotel Marrakech (Pre-Opening) | Director | Marrakesh, Morocco, Morocco |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26148440) |
 | Axiado | 🆕 Director / Sr. Director of Product Management – Data Center Silicon Infrastructure | Sr. Director | San Jose, CA, us | $200K–$250K | 0d | [Apply](https://jobs.smartrecruiters.com/Axiado/744000161220490-director-sr-director-of-product-management-data-center-silicon-infrastructure) ⚡ |
@@ -167,7 +167,6 @@ By level: Director 2350 · VP 878 · Sr. Director 585 · Head 281 · EVP/SVP 173
 | Upper Arlington City Public Schools | 🆕 Chief Technology Officer | C-level | Columbus, OH, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5988653) |
 | ViaPath Technologies | 🆕 Director of Information Security & Compliance | Director | Dallas, TX, USA |  | 1d | [Apply](https://careers-viapath.icims.com/jobs/3998/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior UI Lead- Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/senior-ui-lead-vice-president/287/103150131376) |
-| GE Vernova ⭐ | 🆕 Director - AI Engineering | Director | Bengaluru +1 |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Director---AI-Engineering_R5058285-2) |
 | Fuze Health | 🆕 Chief Technology Officer - FuzeRx | C-level | Virginia | $375K–$400K | 2d | [Apply](https://www.talent.com/view?id=642903318021281658) |
 | Burns & McDonnell | 🆕 Director, Enterprise Architecture - Corporate IT | Director | Dallas, TX, USA | $240K–$390K | 2d | [Apply](https://rr.jobsyn.org/8E3204DC66BC44E8BA20B08A16E472681554) |
 | CliftonLarsonAllen | 🆕 Digital Growth Director - Sage Intacct | Director | Connection Center-Tempe,AZ |  | 2d | [Apply](https://cliftonlarsonallen.wd115.myworkdayjobs.com/CLA/job/Connection-Center-TempeAZ/Digital-Growth-Director---Sage-Intacct_R18447) |
@@ -772,8 +771,8 @@ _59 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Elastic | 🆕 Director of Data and Analytics, Self Service Cloud | Director | United States | $204K–$323K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8372380&gh_jid=8372380) ⚡ |
 | TAIT | 🆕 Director, Data Engineering & Enterprise Applications & AI | Director | Lititz, PA, USA |  | 0d | [Apply](https://careers.taittowers.com/en/jobs/18474253-director-data-engineering-and-enterprise-applications-and-ai?tm_job=3915&tm_event=view&tm_company=92544) |
+| Elastic | 🆕 Director of Data and Analytics, Self Service Cloud | Director | United States | $204K–$323K | 0d | [Apply](https://jobs.elastic.co/jobs?gh_jid=8372380&gh_jid=8372380) ⚡ |
 | Axiado | 🆕 Director / Sr. Director of Product Management – Data Center Silicon Infrastructure | Sr. Director | San Jose, CA, us | $200K–$250K | 0d | [Apply](https://jobs.smartrecruiters.com/Axiado/744000161220490-director-sr-director-of-product-management-data-center-silicon-infrastructure) ⚡ |
 | Alera Group | 🆕 Senior Vice President of Technology - Data Analytics and Population Health Consulting | EVP/SVP | USA | $225K–$250K | 0d | [Apply](https://careers.aleragroup.com/jobs/7720/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Simplot Company | 🆕 Director, Data Reporting & Analytics - Global Food (Boise) | Director | Boise, ID, USA |  | 0d | [Apply](https://careers.simplot.com/job/Boise-Director%2C-Data-Reporting-&-Analytics-Global-Food-%28Boise%29-ID-83702-6924/1450017600/?feedId=306600&utm_source=Indeed&utm_campaign=Simplot_Indeed) |
@@ -808,7 +807,7 @@ _59 older roles in this section are in data/roles.json on the `data` branch._
 | Ares Insurance Solutions | 🆕 Vice President, Data Ingestion & Integration | VP | New York, NY | $210K–$230K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Data-Ingestion---Integration_R8752) |
 | Ares Insurance Solutions | 🆕 Vice President, Data Engineering & Data Products | VP | New York, NY | $210K–$230K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Data-Engineering---Data-Products_R8753) |
 | Ares Insurance Solutions | 🆕 Vice President, Data Services | VP | New York, NY | $210K–$230K | 1d | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Data-Services_R8754) |
-| GE Vernova ⭐ | 🆕 Director - AI Engineering | Director | Bengaluru +1 |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Director---AI-Engineering_R5058285-2) |
+| GE Vernova ⭐ | Director - AI Engineering | Director | Bengaluru +1 |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Director---AI-Engineering_R5058285-2) |
 | Retool | Director of Engineering, Core AI Experience | Director | San Francisco, CA, USA | $342K–$415K | 1d | [Apply](https://retool.com/careers/director-of-engineering-core-ai-experience---engineering--san-francisco-united-states) |
 | Avalo Therapeutics | Sr. Director, AI Strategy & Transformation | Sr. Director | Chesterbrook, PA, USA |  | 1d | [Apply](https://grnh.se/mnm5jh2e9us) |
 | Information Technology Senior Management Forum | Staff Data Engineer - (Director, IC - Card Tech) | Director | McLean, VA, USA | $245K–$307K | 1d | [Apply](https://jobs.itsmfleaders.org/job/pu5zft/staff-data-engineer-(director-ic-card-tech)/mclean/va) |
@@ -2651,7 +2650,6 @@ _93 older roles in this section are in data/roles.json on the `data` branch._
 | Oracle | 🔒 Cloud Solution Director | Director | United States | $170K–$284K | 21d | Closed |
 | WSP | 🔒 Bridge Inspection Regional Manager/Technical Director | Director | Virginia Beach, VA, United States | $153K–$227K | 24d | Closed |
 | CVS Health ⭐ | 🔒 Executive Director, AI Engineering | ED | CT - Hartford · Remote |  | 20d | Closed |
-| Robin Radar | 🔒 Director of Engineering | Director | Delft · Remote |  | 31d | Closed |
 
 </details>
 

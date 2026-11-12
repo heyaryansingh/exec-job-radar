@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,579 open roles** at **1,691 companies** · **123 new in the last 24 hours** · 5,922 company career sites watched · updated hourly · last update Nov 12, 2026 06:54 AM ET
+**4,582 open roles** at **1,693 companies** · **126 new in the last 24 hours** · 5,922 company career sites watched · updated hourly · last update Nov 12, 2026 07:54 AM ET
 
-By level: Director 2352 · VP 878 · Sr. Director 584 · Head 281 · EVP/SVP 173 · C-level 153 · ED 111 · MD 47
+By level: Director 2353 · VP 880 · Sr. Director 584 · Head 281 · EVP/SVP 173 · C-level 153 · ED 111 · MD 47
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (123)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (126)](#new-in-the-last-24-hours)
 - [🤠 Houston area (158)](#houston-area)
 - [👑 Executive Technology Leadership (159)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (309)](#security-risk-technology)
 - [🧠 Data & AI (1159)](#data-ai)
-- [🚦 Reliability & Operations (324)](#reliability-operations)
+- [🚦 Reliability & Operations (325)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (416)](#cloud-infrastructure)
 - [🏛️ Architecture (124)](#architecture)
-- [🔄 Transformation & Delivery (552)](#transformation-delivery)
-- [🛠️ Engineering & Software (1192)](#engineering-software)
+- [🔄 Transformation & Delivery (553)](#transformation-delivery)
+- [🛠️ Engineering & Software (1193)](#engineering-software)
 - [📌 Other Senior Roles (344)](#other-senior-roles)
 - [🔒 Recently closed (192)](#recently-closed)
 - Daily digests: [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md) · [11-06](data/daily/2026-11-06.md)
@@ -47,6 +47,9 @@ By level: Director 2352 · VP 878 · Sr. Director 584 · Head 281 · EVP/SVP 173
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Darling Ingredients | 🆕 Vice President of Reliability and Optimization | VP | Cold Spring, KY, USA |  | 0d | [Apply](https://ekgz.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1800) |
+| Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Atlanta, GA, USA | $180K–$270K | 0d | [Apply](https://www.capgemini.com/jobs/595313-en_US_SAPBTP/) |
+| Trend Capital Holdings, Inc. | 🆕 VP Of Technology | VP | Vancouver, WA, USA | $180K–$250K | 0d | [Apply](https://jobs.avahr.com/40999-trend-capital-holdings-inc/86374-vp-of-technology/?source=indeed) |
 | Marriott International ⭐ | 🆕 FLEX Director, Digital Data Product Governance Lead | Director | Bethesda, MD, United States |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26121981) |
 | Marriott International ⭐ | 🆕 FLEX Director, Corporate Systems, Oracle Fusion ERP Lead | Director | Bethesda, MD, United States |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26129891) |
 | Octave Intelligence | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 0d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |
@@ -1028,6 +1031,7 @@ _909 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Darling Ingredients | 🆕 Vice President of Reliability and Optimization | VP | Cold Spring, KY, USA |  | 0d | [Apply](https://ekgz.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1800) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Markets Operations Program Management Senior Lead - SVP Pune | EVP/SVP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/markets-operations-program-management-senior-lead-svp-pune/287/102810642672) |
 | Sodexo Live! | Director of IT Operations - Tennessee Titans | Director | Nashville, TN, USA |  | 1d | [Apply](https://www.teamworkonline.com/arenas-facilities-jobs/sodexo-live-careers-jobs/sodexo-live-careers-jobs/director-of-it-operations-tennessee-titans-2199164?source=Indeed) |
 | NextPower | Director, Global Service Operations Power Conversion Systems (PCS) | Director | Mesa, Arizona - USA |  | 2d | [Apply](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Mesa-Arizona---USA/Director--Global-Service-Operations-Power-Conversion-Systems--PCS-_NX-5094) |
@@ -1277,9 +1281,8 @@ _909 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | Vice President, Production Services Application Support | VP | New York, NY, United States |  | 23d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82319) |
 | Fluence Energy | Vice President, Global Services Operations & Excellence | VP | Netherlands - Amsterdam +3 · Remote |  | 23d | [Apply](https://fluenceenergy.wd12.myworkdayjobs.com/fluenceenergy-jobs/job/Netherlands---Amsterdam/Vice-President--Global-Services-Operations---Excellence_JR101522-1) |
 | Invesco | Director Finance Systems Support | Director | Atlanta, Georgia |  | 23d | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Director--Finance---Transformation_R-15543) |
-| North American Electric Reliability Corporation | Director of Reliability Assessments and Performance Analysis | Director | Remote (United States) | $220K–$240K | 23d | [Apply](https://himalayas.app/companies/north-american-electric-reliability-corporation/jobs/director-of-reliability-assessments-and-performance-analysis?utm_source=api) |
 
-_74 older roles in this section are in data/roles.json on the `data` branch._
+_75 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1677,6 +1680,7 @@ _166 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Atlanta, GA, USA | $180K–$270K | 0d | [Apply](https://www.capgemini.com/jobs/595313-en_US_SAPBTP/) |
 | Foxconn Industrial Internet - FII | 🆕 Program Management Director | Director | Houston, TX, USA |  | 0d | [Apply](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |
 | Rich Products | 🆕 VP, Science, Technology & Digital | VP | Buffalo, NY, USA | $230K–$427K | 0d | [Apply](https://careers.rich.com/job/Buffalo-VP%2C-Science%2C-Technology-&-Digital-NY-14213/1449937100/) |
 | Honeywell ⭐ | 🆕 Senior Director Program Management, GAPMO | Sr. Director | Atlanta, GA, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161914) |
@@ -1926,9 +1930,8 @@ _166 older roles in this section are in data/roles.json on the `data` branch._
 | Apple | Director of Software Engineering: Quality, Insights, and Delivery - Apple Maps | Director | Cupertino, CA, USA | $311K–$497K | 16d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200690763-0836&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200690763-0836%2Fdirector-of-software-engineering-quality-insights-and-delivery-apple-maps%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Dcb07258c-d1be-11f1-8440-8da839d49dfb%26rx_job%3D200690763-0836%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261027T200406Z%26rx_vp%3Dcpc%26team%3DSFTWR) |
 | Stanford Federal Credit Union | VP Enterprise Applications & Software Delivery | VP | Palo Alto, CA, USA | $210K–$260K | 16d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=00bee23c-6988-4e30-9843-76573d3e2605&ccId=19000101_000001&jobId=959799&source=IN&lang=en_US) |
 | TowneBank | Director of Digital Technology | Director | Charlotte, NC, USA |  | 16d | [Apply](https://recruiting.ultipro.com/TOW1004/JobBoard/f7640ed7-29f8-4907-9406-d531c2965ffa/OpportunityDetail?opportunityId=867abb18-3916-4a58-b0f5-e25d7eb0043e&postingId=24dd909a-bb10-4b81-ad41-43eae2d5e206) |
-| Oklo | Director, Deployment Strategy and Integration | Director | Santa Clara, CA or Remote | $170K–$220K | 16d | [Apply](https://job-boards.greenhouse.io/oklo/jobs/6235883004) ⚡ |
 
-_302 older roles in this section are in data/roles.json on the `data` branch._
+_303 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1936,6 +1939,7 @@ _302 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Trend Capital Holdings, Inc. | 🆕 VP Of Technology | VP | Vancouver, WA, USA | $180K–$250K | 0d | [Apply](https://jobs.avahr.com/40999-trend-capital-holdings-inc/86374-vp-of-technology/?source=indeed) |
 | Marriott International ⭐ | 🆕 Director of Engineering- The Ritz-Carlton Hotel Marrakech (Pre-Opening) | Director | Marrakesh, Morocco, Morocco |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26148440) |
 | Confidential | 🆕 Vice President, Technology Enablement | VP | Toronto, Kansas |  | 0d | [Apply](https://www.talent.com/view?id=645596400967419133) |
 | CFS Brands, LLC | 🆕 Director, Information Technology | Director | Oklahoma City, OK, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ce3ea629-7c88-404d-b58a-b90fae72d625&ccId=19000101_000001&jobId=585573&source=IN&lang=en_US) |
@@ -2185,9 +2189,8 @@ _302 older roles in this section are in data/roles.json on the `data` branch._
 | Eli Lilly | Sr Director - Engineering (Automation, Maintenance, Process) | Sr. Director | Huntsville, Alabama, United States of Amer |  | 7d | [Apply](https://careers.lilly.com/us/en/job/LILLUSR104500EXTERNALENUS) |
 | Tacit | Head of Software | Head | San Francisco | $200K–$300K | 7d | [Apply](https://jobs.ashbyhq.com/tacit/f2369d80-b161-47cd-a595-ba2debfa7d50) ⚡ [alt](https://jobs.ashbyhq.com/tacit/f2369d80-b161-47cd-a595-ba2debfa7d50?utm_source=ZvL84Ov3gV) |
 | Opentrons Labworks | Director of Hardware Engineering | Director | Long Island City, NY, USA | $230K–$260K | 7d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=o7A0Afw1&s=Indeed) |
-| Rivian and Volkswagen Group Technologies | Head of Technology Foundations | Head | Remote, USA | $175K–$359K | 7d | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3308832c-0b02-4086-a610-2371532e5e99) |
 
-_942 older roles in this section are in data/roles.json on the `data` branch._
+_943 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

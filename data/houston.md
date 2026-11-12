@@ -4,8 +4,8 @@
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Power Factors | 🆕 Head of Software Architecture | Head | Houston, TX, USA |  | 0d | [Apply](https://apply.workable.com/j/E2EF5C2590) |
 | NEQ Operating | 🆕 Director, Information Technology | Director | Houston, TX, USA |  | 0d | [Apply](http://j.brt.mv/jb.do?reqGK=27789046) |
+| Power Factors | 🆕 Head of Software Architecture | Head | Houston, TX, USA |  | 0d | [Apply](https://apply.workable.com/j/E2EF5C2590) |
 | Octave Intelligence | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 0d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |
 | Foxconn Industrial Internet - FII | 🆕 Program Management Director | Director | Houston, TX, USA |  | 0d | [Apply](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |
 | Live Nation | 🆕 Senior Director, Vulnerability Management & Penetration Testing | Sr. Director | US CA Beverly Hills - 325 N Maple Drive +109 |  | 1d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director--Vulnerability-Management---Penetration-Testing_JR-94215) |

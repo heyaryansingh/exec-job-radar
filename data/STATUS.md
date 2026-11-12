@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-12T18:45:31+00:00 UTC, 733s
+- Last run: 2026-11-12T19:45:49+00:00 UTC, 754s
 - Companies working: 634 of 635
-- New roles last run: 6; roles in feed: 1546
-- Universe (all other known career sites): 5292 boards, 4433 checked in the last hour, 2 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1706
-- Skipped (backing off broken sites): 858; ran out of time: 0
+- New roles last run: 24; roles in feed: 1569
+- Universe (all other known career sites): 5292 boards, 4432 checked in the last hour, 1 errors; 2 employer names learned; 10 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 454, "senior titles from boards/aggregators": 204}
+- Companies with open roles: 1713
+- Skipped (backing off broken sites): 860; ran out of time: 0
 
 ## Failing companies
 

@@ -4,10 +4,10 @@
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Confidential | 🆕 Chief Information & Data Officer (CIDO) | C-level | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583319125401608) |
 | Capgemini Invent | 🆕 frog, Director | Director | Houston, Texas | $180K–$270K | 1d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
-| Confidential | 🆕 Vice President of Artificial Intelligence | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583544714598720) |
 | Confidential | 🆕 Executive Vice President, Strategic AI Services | EVP/SVP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645793143277099328) |
+| Confidential | 🆕 Vice President of Artificial Intelligence | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583544714598720) |
+| Confidential | 🆕 Chief Information & Data Officer (CIDO) | C-level | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583319125401608) |
 | NEQ Operating | 🆕 Director, Information Technology | Director | Houston, TX, USA |  | 1d | [Apply](http://j.brt.mv/jb.do?reqGK=27789046) [alt](https://www.indeed.com/viewjob?jk=afd72627d3f8f929) |
 | Power Factors | 🆕 Head of Software Architecture | Head | Houston, TX, USA |  | 1d | [Apply](https://apply.workable.com/j/E2EF5C2590) |
 | Octave Intelligence | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 1d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |

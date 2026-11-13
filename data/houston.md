@@ -1,9 +1,11 @@
 # 🤠 Senior technology roles in the Houston area
 
-171 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+173 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Huntington Bank | 🆕 Managing Director Project Finance and Infrastructure | MD | Atlanta, GA +3 | $125K–$275K | 0d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Managing-Director-Project-Finance-and-Infrastructure_R0077712-1) |
+| The Aerospace Corporation | 🆕 Moonbase and Surface Systems Principal Director | Director | Houston, TX +1 |  | 0d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Houston-TX/Moonbase-and-Surface-Systems-Principal-Director_R017015) |
 | Memorial Hermann Health System | 🆕 VP, Innovation and AI | VP | Houston, Texas, United States of America |  | 0d | [Apply](https://jobs.memorialhermann.org/us/en/job/MHHSUS100189477EXTERNALENUS) |
 | Phillips 66 | 🆕 Senior Director, VCO/Plan AI Platform Strategy & Integration | Sr. Director | Houston, TX, USA | $173K–$315K | 0d | [Apply](https://careers.phillips66.com/job/Houston-Senior-Director%2C-VCOPlan-AI-Platform-Strategy-&-Integration-TX-77042/1450325300/) |
 | PwC | 🆕 Digital Grid Modernization Lead, Director | Director | Houston, TX, USA | $155K–$410K | 0d | [Apply](https://jobs-us.pwc.com/us/en/job/773693WD/Digital-Grid-Modernization-Lead-Director) |

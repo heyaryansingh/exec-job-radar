@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,706 open roles** at **1,728 companies** · **168 new in the last 24 hours** · 5,942 company career sites watched · updated hourly · last update Nov 12, 2026 08:18 PM ET
+**4,706 open roles** at **1,728 companies** · **168 new in the last 24 hours** · 5,942 company career sites watched · updated hourly · last update Nov 12, 2026 08:28 PM ET
 
 By level: Director 2419 · VP 896 · Sr. Director 598 · Head 292 · EVP/SVP 176 · C-level 161 · ED 117 · MD 47
 
@@ -50,19 +50,19 @@ By level: Director 2419 · VP 896 · Sr. Director 598 · Head 292 · EVP/SVP 176
 | Titan | 🆕 Chief Information Security Officer (CISO), RFA | C-level | Remote (US) |  | 0d | [Apply](https://jobs.ashbyhq.com/titan-msp/77bdebc5-73cf-45ca-9ced-945aba617a16) ⚡ |
 | Adaptyv | 🆕 Head of Partnerships (AI & Biotech) | Head | London +1 |  | 0d | [Apply](https://jobs.ashbyhq.com/adaptyv/77084f0d-2ac2-46da-bc3a-8cb0bd37da9f) ⚡ |
 | Collectors Universe | 🆕 Director of Engineering, PSA Japan | Director | 東京, JP |  | 0d | [Apply](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/-JP/Director-of-Engineering--PSA-Japan_JR106956-3) |
-| Illumina | 🆕 Director, Software Technical Product Management - IVD / SaMD | Director | US - California - San Diego | $205K–$308K | 1d | [Apply](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Director--Software-Technical-Product-Management---IVD---SaMD_43903-JOB) |
 | Aircall.io, Inc. | 🆕 Head of Data (Data Science and Data Engineering) | Head | New York Office +1 | $300K–$350K | 1d | [Apply](https://job-boards.greenhouse.io/aircallioinc/jobs/4487815009) ⚡ |
 | BridgeBio Pharma | 🆕 Program Management  Director/Sr. Director | Sr. Director | San Francisco - 1800 Owens | $255K–$285K | 1d | [Apply](https://job-boards.greenhouse.io/bridgebio/jobs/5294015007) ⚡ |
+| Illumina | 🆕 Director, Software Technical Product Management - IVD / SaMD | Director | US - California - San Diego | $205K–$308K | 1d | [Apply](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Director--Software-Technical-Product-Management---IVD---SaMD_43903-JOB) |
 | Cisco | 🆕 Director, Information Security | Director | Washington, DC, USA | $218K–$357K | 1d | [Apply](https://careers.cisco.com/global/en/job/2022091) |
 | FIS | 🆕 SVP, Head of Capital Markets Product Engineering | EVP/SVP | Jacksonville, FL, USA |  | 1d | [Apply](https://careers.fisglobal.com/us/en/job/FIGLUSJR0311078EXTERNAL/SVP-Head-of-Capital-Markets-Product-Engineering?utm_source=indeed&utm_medium=phenom-feeds) |
 | REACHX | 🆕 Associate / Vice President, Technology & Telecom M&A and Corporate Finance | VP | Remote, USA |  | 1d | [Apply](https://www.indeed.com/viewjob?jk=8255b77887e4fb38) |
 | The RealReal | 🆕 Director, Industrial Engineering & Automation | Director | Bellflower, CA, USA |  | 1d | [Apply](https://careers.therealreal.com/us/en/job/THYTRLUSR13622EXTERNALENUS/Director-Industrial-Engineering-Automation?utm_source=indeed&utm_medium=phenom-feeds) [alt](https://careers.therealreal.com/us/en/job/THYTRLUSR13622EXTERNALENUS) |
 | Okta | 🆕 Director, Product Security, PSIRT | Director | Bellevue, Washington +1 | $251K–$345K | 1d | [Apply](https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373) ⚡ |
+| CleanSpark | 🆕 Senior Director, Data Center Design & Engineering – AI Data Centers | Sr. Director | Remote | $200K–$250K | 1d | [Apply](https://jobs.lever.co/cleanspark/9a6b1036-bd0c-4b53-9738-4636085950ed) ⚡ [alt](https://jobs.lever.co/cleanspark/9a6b1036-bd0c-4b53-9738-4636085950ed?lever-source=Indeed) |
 | Honeywell Aerospace | 🆕 🔁 Director of Operational Excellence - Control Systems | Director | Phoenix, AZ, United States |  | 1d | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/128866) |
 | ICF | 🆕 Senior Director, Transportation Program Management - (Part-Time based in Arlington, VA) | Sr. Director | Arlington, Virginia, United States of Amer |  | 1d | [Apply](https://careers.icf.com/us/en/job/IIIIIIUSR2603736EXTERNALENUS) |
 | University of Texas at Austin | 🆕 Senior Director of Technology Services | Sr. Director | UT MAIN CAMPUS |  | 1d | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Senior-Director-of-Technology-Services_R_00049948) |
 | Visa | 🆕 Vice President, Consumer Payments, Content, Media & Digital Innovation | VP | US - Miami, FL |  | 1d | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Miami-FL/Vice-President--Consumer-Payments--Content--Media---Digital-Innovation_REF087976W) |
-| CleanSpark | 🆕 Senior Director, Data Center Design & Engineering – AI Data Centers | Sr. Director | Remote | $200K–$250K | 1d | [Apply](https://jobs.lever.co/cleanspark/9a6b1036-bd0c-4b53-9738-4636085950ed) ⚡ [alt](https://jobs.lever.co/cleanspark/9a6b1036-bd0c-4b53-9738-4636085950ed?lever-source=Indeed) |
 | upchurch | 🆕 Vice President, Data Center Markets | VP | National · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/upchurch/1c33ce8d-5fb4-4ab0-a9a7-69b7a30d230e) ⚡ |
 | SK hynix America | 🆕 AI Solution Architecture and Pathfinding Director | Director | San Jose, CA | $250K–$300K | 1d | [Apply](https://job-boards.greenhouse.io/skhynixamerica/jobs/5480908008) ⚡ |
 | CVS Health (Phenom) ⭐ | 🆕 Lead Director, Strategic Initiatives & Transformation | Director | Work At Home, Hartford, Connecticut,United |  | 1d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1091387EXTERNALENUS) |

@@ -1,13 +1,18 @@
 # 🤠 Senior technology roles in the Houston area
 
-160 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+165 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| NEQ Operating | 🆕 Director, Information Technology | Director | Houston, TX, USA |  | 1d | [Apply](http://j.brt.mv/jb.do?reqGK=27789046) |
+| Confidential | 🆕 Chief Information & Data Officer (CIDO) | C-level | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583319125401608) |
+| Capgemini Invent | 🆕 frog, Director | Director | Houston, Texas | $180K–$270K | 1d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
+| Confidential | 🆕 Vice President of Artificial Intelligence | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583544714598720) |
+| Confidential | 🆕 Executive Vice President, Strategic AI Services | EVP/SVP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645793143277099328) |
+| NEQ Operating | 🆕 Director, Information Technology | Director | Houston, TX, USA |  | 1d | [Apply](http://j.brt.mv/jb.do?reqGK=27789046) [alt](https://www.indeed.com/viewjob?jk=afd72627d3f8f929) |
 | Power Factors | 🆕 Head of Software Architecture | Head | Houston, TX, USA |  | 1d | [Apply](https://apply.workable.com/j/E2EF5C2590) |
 | Octave Intelligence | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 1d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |
 | Foxconn Industrial Internet - FII | 🆕 Program Management Director | Director | Houston, TX, USA |  | 1d | [Apply](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |
+| Blue Shield of CA | 🆕 VP, Product Security | VP | Houston, Texas | $250K–$360K | 2d | [Apply](https://www.jobleads.com/us/job/vp-product-security--houston--e2cb1ea0dcbf6e93b81840bfcd9e293fd) |
 | Live Nation | Senior Director, Vulnerability Management & Penetration Testing | Sr. Director | US CA Beverly Hills - 325 N Maple Drive +109 |  | 2d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director--Vulnerability-Management---Penetration-Testing_JR-94215) |
 | Accenture ⭐ | Cybersecurity Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 2d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Cybersecurity-Director_R00369716) |
 | TransGrid Energy | SVP, Data Center Infrastructure Business | EVP/SVP | Houston | $350K–$450K | 2d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/ad4bea03-8163-4a15-a48a-480dd9ca2fba) ⚡ |

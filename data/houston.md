@@ -10,7 +10,7 @@
 | Confidential | 🆕 Chief Information & Data Officer (CIDO) | C-level | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583319125401608) |
 | NEQ Operating | 🆕 Director, Information Technology | Director | Houston, TX, USA |  | 1d | [Apply](http://j.brt.mv/jb.do?reqGK=27789046) [alt](https://www.indeed.com/viewjob?jk=afd72627d3f8f929) |
 | Power Factors | 🆕 Head of Software Architecture | Head | Houston, TX, USA |  | 1d | [Apply](https://apply.workable.com/j/E2EF5C2590) |
-| Octave Intelligence | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 1d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |
+| Octave Intelligence | Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 1d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |
 | Foxconn Industrial Internet - FII | Program Management Director | Director | Houston, TX, USA |  | 1d | [Apply](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |
 | Blue Shield of CA | 🆕 VP, Product Security | VP | Houston, Texas | $250K–$360K | 2d | [Apply](https://www.jobleads.com/us/job/vp-product-security--houston--e2cb1ea0dcbf6e93b81840bfcd9e293fd) |
 | Live Nation | Senior Director, Vulnerability Management & Penetration Testing | Sr. Director | US CA Beverly Hills - 325 N Maple Drive +109 |  | 2d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director--Vulnerability-Management---Penetration-Testing_JR-94215) |

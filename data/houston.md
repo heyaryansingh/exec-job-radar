@@ -1,12 +1,13 @@
 # 🤠 Senior technology roles in the Houston area
 
-168 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+170 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Phillips 66 | 🆕 Senior Director, VCO/Plan AI Platform Strategy & Integration | Sr. Director | Houston, TX, USA | $173K–$315K | 0d | [Apply](https://careers.phillips66.com/job/Houston-Senior-Director%2C-VCOPlan-AI-Platform-Strategy-&-Integration-TX-77042/1450325300/) |
-| PwC | 🆕 IT Audit Controls/SOX - Director | Director | Houston, TX, USA | $155K–$410K | 0d | [Apply](https://jobs-us.pwc.com/us/en/job/769516WD/IT-Audit-Controls-SOX-Director) |
 | PwC | 🆕 Digital Grid Modernization Lead, Director | Director | Houston, TX, USA | $155K–$410K | 0d | [Apply](https://jobs-us.pwc.com/us/en/job/773693WD/Digital-Grid-Modernization-Lead-Director) |
+| PwC | 🆕 IT Audit Controls/SOX - Director | Director | Houston, TX, USA | $155K–$410K | 0d | [Apply](https://jobs-us.pwc.com/us/en/job/769516WD/IT-Audit-Controls-SOX-Director) |
+| PwC | 🆕 Digital Grid Modernization Lead, Director | Director | TX-Houston |  | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773693WDEXTERNALENUS) |
 | Capgemini Invent | 🆕 frog, Director | Director | Houston, Texas | $180K–$270K | 1d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
 | Confidential | 🆕 Executive Vice President, Strategic AI Services | EVP/SVP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645793143277099328) |
 | Confidential | 🆕 Vice President of Artificial Intelligence | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583544714598720) |
@@ -131,6 +132,7 @@
 | Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 20d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Aon | Power Lifecycle Program Broking Leader - Managing Director | MD | Houston, TX, USA | $275K–$330K | 20d | [Apply](https://us-careers-aon.icims.com/jobs/106789/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Deloitte | Director, Salesforce Delivery & Architecture | Director | Houston, TX, USA |  | 20d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=368423) |
+| PwC | IT Audit Controls/SOX -  Director | Director | TX-Houston |  | 21d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS769516WDEXTERNALENUS) |
 | Huntington Bank | Director, Portfolio Manager - Project Finance and Infrastructure | Director | Cleveland, OH +13 | $93K–$217K | 21d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cleveland-OH/Director--Portfolio-Manager---Project-Finance-and-Infrastructure_R0075187) |
 | Harris County | Director, Budget and Finance | Director | Houston, TX, USA |  | 21d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Neumo Holdings LLC | VP-Product Management | VP | Houston, TX, USA |  | 21d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=56dad57d-81b7-4889-9f75-7ef29807fa05&ccId=1990797403_6352&jobId=620159&source=IN&lang=en_US) |

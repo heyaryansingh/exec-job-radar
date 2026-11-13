@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,730 open roles** at **1,733 companies** · **175 new in the last 24 hours** · 5,950 company career sites watched · updated hourly · last update Nov 13, 2026 01:13 AM ET
+**4,731 open roles** at **1,734 companies** · **176 new in the last 24 hours** · 5,950 company career sites watched · updated hourly · last update Nov 13, 2026 02:16 AM ET
 
-By level: Director 2429 · VP 902 · Sr. Director 599 · Head 292 · EVP/SVP 178 · C-level 166 · ED 117 · MD 47
+By level: Director 2430 · VP 902 · Sr. Director 599 · Head 292 · EVP/SVP 178 · C-level 166 · ED 117 · MD 47
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (175)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (176)](#new-in-the-last-24-hours)
 - [🤠 Houston area (165)](#houston-area)
 - [👑 Executive Technology Leadership (173)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (319)](#security-risk-technology)
-- [🧠 Data & AI (1192)](#data-ai)
+- [🧠 Data & AI (1193)](#data-ai)
 - [🚦 Reliability & Operations (335)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (431)](#cloud-infrastructure)
 - [🏛️ Architecture (131)](#architecture)
 - [🔄 Transformation & Delivery (568)](#transformation-delivery)
 - [🛠️ Engineering & Software (1229)](#engineering-software)
 - [📌 Other Senior Roles (352)](#other-senior-roles)
-- [🔒 Recently closed (182)](#recently-closed)
+- [🔒 Recently closed (181)](#recently-closed)
 - Daily digests: [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md) · [11-07](data/daily/2026-11-07.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -57,6 +57,7 @@ By level: Director 2429 · VP 902 · Sr. Director 599 · Head 292 · EVP/SVP 178
 | Titan | 🆕 Chief Information Security Officer (CISO), RFA | C-level | Remote (US) |  | 0d | [Apply](https://jobs.ashbyhq.com/titan-msp/77bdebc5-73cf-45ca-9ced-945aba617a16) ⚡ |
 | Adaptyv | 🆕 Head of Partnerships (AI & Biotech) | Head | London +1 |  | 0d | [Apply](https://jobs.ashbyhq.com/adaptyv/77084f0d-2ac2-46da-bc3a-8cb0bd37da9f) ⚡ |
 | Collectors Universe | 🆕 Director of Engineering, PSA Japan | Director | 東京, JP |  | 0d | [Apply](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/-JP/Director-of-Engineering--PSA-Japan_JR106956-3) |
+| Ebara Elliott Energy | 🆕 Director, Digital, Data & AI | Director | Jeannette, PA, USA |  | 1d | [Apply](https://elliottgroup.wd5.myworkdayjobs.com/en-US/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) |
 | Capgemini Invent | 🆕 frog, Director | Director | Houston, Texas | $180K–$270K | 1d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
 | Confidential | 🆕 Vice President, Technology & Digital Product Delivery | VP | Portland, Oregon |  | 1d | [Apply](https://www.talent.com/view?id=645596902784371218) |
 | Confidential | 🆕 Vice President, Digital Technology & AI | VP | Oakbrook Terrace, Illinois |  | 1d | [Apply](https://www.talent.com/view?id=645802109346843154) |
@@ -845,6 +846,7 @@ _69 older roles in this section are in data/roles.json on the `data` branch._
 | Hewlett Packard Enterprise / HPE | 🆕 Sr Director, AI/ML | Sr. Director | San Jose, CA, USA | $206K–$440K | 0d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1219014EXTERNALENUS/Sr-Director-AI-ML?utm_source=indeed&utm_medium=phenom-feeds) |
 | Information Technology Senior Management Forum | 🆕 Director Data Center Operations, JoinOCI | Director | San Antonio, TX, USA | $120K–$252K | 0d | [Apply](https://jobs.itsmfleaders.org/job/kehe4e/director-data-center-operations-joinoci/san-antonio/tx) |
 | Adaptyv | 🆕 Head of Partnerships (AI & Biotech) | Head | London +1 |  | 0d | [Apply](https://jobs.ashbyhq.com/adaptyv/77084f0d-2ac2-46da-bc3a-8cb0bd37da9f) ⚡ |
+| Ebara Elliott Energy | 🆕 Director, Digital, Data & AI | Director | Jeannette, PA, USA |  | 1d | [Apply](https://elliottgroup.wd5.myworkdayjobs.com/en-US/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) |
 | Confidential | 🆕 Vice President, Digital Technology & AI | VP | Oakbrook Terrace, Illinois |  | 1d | [Apply](https://www.talent.com/view?id=645802109346843154) |
 | Confidential | 🆕 Vice President of Artificial Intelligence | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645583544714598720) |
 | Aircall.io, Inc. | 🆕 Head of Data (Data Science and Data Engineering) | Head | New York Office +1 | $300K–$350K | 1d | [Apply](https://job-boards.greenhouse.io/aircallioinc/jobs/4487815009) ⚡ |
@@ -1091,9 +1093,8 @@ _69 older roles in this section are in data/roles.json on the `data` branch._
 | Gemological Institute of America | Sr. Director, Enterprise Applications & Data Science (AI) | Sr. Director | Carlsbad, CA, USA | $210K–$260K | 8d | [Apply](https://gia.wd1.myworkdayjobs.com/en-US/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Sr-Director--Enterprise-Applications---Data-Science--AI-_R0011675) |
 | Oracle | Director, Data Center Operations (req 349682) | Director | Ashburn, VA, United States | $146K–$306K | 9d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349682) |
 | Synchrony | SVP, Head of AI Solutions Technology | EVP/SVP | Stamford, CT, USA | $200K–$330K | 9d | [Apply](https://www.synchronycareers.com/job/stamford/svp-head-of-ai-solutions-technology/49398/102833159104) |
-| Citi (jobs.citi.com) ⭐ | IT Project Tech Lead / AI Program Manager - Vice President | VP | Irving, TX, US |  | 9d | [Apply](https://jobs.citi.com/job/irving/it-project-tech-lead-ai-program-manager-vice-president/287/102872844864) |
 
-_942 older roles in this section are in data/roles.json on the `data` branch._
+_943 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2717,7 +2718,6 @@ _102 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🔒 Product Manager - Payments Platform, Vice President | VP | NY, United States |  | 16d | Closed |
 | Collibra | 🔒 Director of Security Assurance & Trust | Director | Raleigh, North Carolina, USA |  | 30d | Closed |
 | Moog, Inc | 🔒 Engineering Director EM | Director | Varese, IT +2 |  | 15d | Closed |
-| DaVita | 🔒 Workforce Transformation Sr Director | Sr. Director | 05555 - Casa del Mundo Office (Denver HQ) |  | 17d | Closed |
 
 </details>
 

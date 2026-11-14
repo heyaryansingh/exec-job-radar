@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,891 open roles** at **1,787 companies** · **51 new in the last 24 hours** · 5,984 company career sites watched · updated hourly · last update Nov 14, 2026 05:51 PM ET
+**4,891 open roles** at **1,787 companies** · **44 new in the last 24 hours** · 5,984 company career sites watched · updated hourly · last update Nov 14, 2026 06:51 PM ET
 
 By level: Director 2511 · VP 934 · Sr. Director 620 · Head 306 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2511 · VP 934 · Sr. Director 620 · Head 306 · EVP/SVP 182
 
 ## Contents
 
-- [🆕 New in the last 24 hours (51)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (44)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (338)](#security-risk-technology)
@@ -84,13 +84,6 @@ By level: Director 2511 · VP 934 · Sr. Director 620 · Head 306 · EVP/SVP 182
 | JPMorgan Chase ⭐ | 🆕 Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Capital One ⭐ | 🆕 Director, Data Science (req R1005855) | Director | McLean, VA +4 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Science_R1005855-1) |
 | Dexcom | 🆕 VP SW Development Engineering | VP | Remote - United States |  | 1d | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/VP-SW-Development-Engineering_JR121724-2) |
-| Meso Scale Diagnostics | 🆕 Senior Vice President, Commercial Business Systems | EVP/SVP | Boston, MA, USA · Remote | $244K–$451K | 1d | [Apply](https://recruiting.ultipro.com/MES1002MESSD/JobBoard/888390fa-f9e8-4b6f-9977-7e3a214369f0/OpportunityDetail?opportunityId=b379acb5-1fb5-4f42-8130-b2395bdbd879&postingId=6cfcbab5-0cd4-423b-abac-d43087eae61a) |
-| New York Life | 🆕 CORPORATE VICE PRESIDENT | VP | New York, NY, USA · Remote | $270K | 1d | [Apply](https://careers.newyorklife.com/careers/job/45458578) |
-| Pacific Seafood | 🆕 Director of Technical Operations | Director | Clackamas, OR, USA |  | 1d | [Apply](https://careers.pacificseafood.com/postings/590094fc-2a29-448f-9145-6a51845a7772?utm_medium=job_board&utm_source=indeed) |
-| University Federal Credit Union | 🆕 Director, AI and Analytics | Director | Austin, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=5066b4ff-5fb6-41b0-a700-de639f1a97b1&postingId=40899a78-9f04-4eba-b70b-17725aa3a017) |
-| Fox Corporation | 🆕 Regional Digital Content Director | Director | Orlando, Florida, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Orlando-Florida-USA/Regional-Digital-Content-Director_R50034304) |
-| State Street ⭐ | 🆕 Enterprise Transformation (Program Delivery), Program Manager - VP | VP | Stamford, Connecticut | $120K–$202K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Stamford-Connecticut/Enterprise-Transformation--Program-Delivery---Program-Manager---VP_R-801082-1) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Application Engineering Lead - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-engineering-lead-senior-vice-president/287/103267191424) |
 | Cigna Health and Life Insurance Company | 🆕 Chief Technology Officer, Corporate Functions | C-level | Philadelphia, Pennsylvania | $210K–$349K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5620269654/e/) |
 | Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645802141459614226) |
 | Confidential | 🆕 Chief Technology Officer (CTO) | C-level | Hamilton Township, New Jersey |  | 2d | [Apply](https://www.talent.com/view?id=645596932105964050) |
@@ -747,7 +740,7 @@ _88 older roles in this section are in data/roles.json on the `data` branch._
 | Trace3 | 🆕 Director, Digital Consulting / AI Transformation | Director | Irvine, CA, USA · Remote | $190K–$230K | 1d | [Apply](https://grnh.se/vt247xhh1us) |
 | Colorado Access | 🆕 Vice President of Data & Technology | VP | Remote |  | 1d | [Apply](https://jobmine.himss.org/job/vice-president-of-data-technology/86974695/) |
 | Capital One ⭐ | 🆕 Director, Data Science (req R1005855) | Director | McLean, VA +4 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Science_R1005855-1) |
-| University Federal Credit Union | 🆕 Director, AI and Analytics | Director | Austin, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=5066b4ff-5fb6-41b0-a700-de639f1a97b1&postingId=40899a78-9f04-4eba-b70b-17725aa3a017) |
+| University Federal Credit Union | Director, AI and Analytics | Director | Austin, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=5066b4ff-5fb6-41b0-a700-de639f1a97b1&postingId=40899a78-9f04-4eba-b70b-17725aa3a017) |
 | Global Payments | Director of AI & Data Architecture | Director | ATLANTA, GEORGIA +1 |  | 1d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Head-of-Data---AI-Architecture_R0073916) |
 | CohnReznick | Director of Enterprise Data Management | Director | Dallas, TX, USA |  | 1d | [Apply](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/3/opp/10276-Director-of-Enterprise-Data-Management/en-GB) |
 | Oglethorpe Power Corporation | Director, Digital, Data & AI Enablement | Director | Tucker, GA, USA | $185K–$231K | 1d | [Apply](https://www.applicantpro.com/openings/opc/jobs/4275512-677127) |
@@ -1001,7 +994,7 @@ _979 older roles in this section are in data/roles.json on the `data` branch._
 | Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | Radiomedix, Inc. | 🆕 Director of Preclinical Operations | Director | Houston, TX, USA |  | 0d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | Mohawk Industries | 🆕 IT Director, Infrastructure & Operations | Director | Dallas, TX, USA |  | 1d | [Apply](https://careers.mohawkind.com/DalTile/job/Dallas-IT-Director%2C-Infrastructure-&-Operations-Texa-75217/1450633600/) |
-| Pacific Seafood | 🆕 Director of Technical Operations | Director | Clackamas, OR, USA |  | 1d | [Apply](https://careers.pacificseafood.com/postings/590094fc-2a29-448f-9145-6a51845a7772?utm_medium=job_board&utm_source=indeed) |
+| Pacific Seafood | Director of Technical Operations | Director | Clackamas, OR, USA |  | 1d | [Apply](https://careers.pacificseafood.com/postings/590094fc-2a29-448f-9145-6a51845a7772?utm_medium=job_board&utm_source=indeed) |
 | Dal-Tile | IT Director, Infrastructure & Operations - | Director | Dallas, TX, USA |  | 1d | [Apply](https://daltile.betterteam.com/it-director-infrastructure-operations-%28ft%29?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic) [alt](https://rr.jobsyn.org/3E33639EBCF440C2ADDF62AE3D795BD91554) |
 | Oglethorpe Power Corporation | Director, Technology Operations | Director | Tucker, GA, USA | $185K–$231K | 1d | [Apply](https://www.applicantpro.com/openings/opc/jobs/4275550-677127) |
 | Manulife | VP, GWAM Technology Operations & Platforms | VP | Charlotte, NC, USA |  | 1d | [Apply](https://careers.manulife.com/global/en/job/JR26110387/VP-GWAM-Technology-Operations-Platforms) |
@@ -1657,8 +1650,8 @@ _191 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 1d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
-| Fox Corporation | 🆕 Regional Digital Content Director | Director | Orlando, Florida, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Orlando-Florida-USA/Regional-Digital-Content-Director_R50034304) |
-| State Street ⭐ | 🆕 Enterprise Transformation (Program Delivery), Program Manager - VP | VP | Stamford, Connecticut | $120K–$202K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Stamford-Connecticut/Enterprise-Transformation--Program-Delivery---Program-Manager---VP_R-801082-1) |
+| Fox Corporation | Regional Digital Content Director | Director | Orlando, Florida, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Orlando-Florida-USA/Regional-Digital-Content-Director_R50034304) |
+| State Street ⭐ | Enterprise Transformation (Program Delivery), Program Manager - VP | VP | Stamford, Connecticut | $120K–$202K | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Stamford-Connecticut/Enterprise-Transformation--Program-Delivery---Program-Manager---VP_R-801082-1) |
 | Falcata | Program Management Office (PMO) Director | Director | Huntsville, AL Discovery |  | 1d | [Apply](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Huntsville-AL-Discovery/Program-Management-Office--PMO--Director_JR2801) |
 | JPMorgan Chase ⭐ | Transformation Execution Program Manager – Vice President | VP | Tampa, FL, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808117) |
 | JPMorgan Chase ⭐ | Corporate Development, Digital Partnerships – Executive Director | ED | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808726) |
@@ -1927,7 +1920,7 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 | Valitana | 🆕 Head of Corporate Technology | Head | Plano, TX, USA | $250K–$300K | 1d | [Apply](https://valitanallc.applytojob.com/apply/0K7UJWiFVr/Head-Of-Corporate-Technology?source=INDE&~) |
 | JPMorgan Chase ⭐ | 🆕 Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Dexcom | 🆕 VP SW Development Engineering | VP | Remote - United States |  | 1d | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/VP-SW-Development-Engineering_JR121724-2) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Application Engineering Lead - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-engineering-lead-senior-vice-president/287/103267191424) |
+| Citi (jobs.citi.com) ⭐ | Application Engineering Lead - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-engineering-lead-senior-vice-president/287/103267191424) |
 | Applied Materials | Head of Engineering New Product Development | Head | Santa Clara,CA |  | 1d | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Head-of-Engineering-New-Product-Development_R2633233) |
 | Falcata | Director of Engineering | Director | Huntsville, AL |  | 1d | [Apply](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Huntsville-AL/Director-of-Engineering_JR2724) |
 | Going | VP of Engineering | VP | Remote, USA | $270K | 1d | [Apply](https://www.going.com/careers/vp-of-engineering) |
@@ -2177,8 +2170,8 @@ _1024 older roles in this section are in data/roles.json on the `data` branch._
 | Piper Aircraft Inc | 🆕 Director, Information Services | Director | Vero Beach, FL, USA |  | 0d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Information Technology Senior Management Forum | 🆕 Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
 | Grid United | 🆕 Senior Director, Land | Sr. Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
-| Meso Scale Diagnostics | 🆕 Senior Vice President, Commercial Business Systems | EVP/SVP | Boston, MA, USA · Remote | $244K–$451K | 1d | [Apply](https://recruiting.ultipro.com/MES1002MESSD/JobBoard/888390fa-f9e8-4b6f-9977-7e3a214369f0/OpportunityDetail?opportunityId=b379acb5-1fb5-4f42-8130-b2395bdbd879&postingId=6cfcbab5-0cd4-423b-abac-d43087eae61a) |
-| New York Life | 🆕 CORPORATE VICE PRESIDENT | VP | New York, NY, USA · Remote | $270K | 1d | [Apply](https://careers.newyorklife.com/careers/job/45458578) |
+| Meso Scale Diagnostics | Senior Vice President, Commercial Business Systems | EVP/SVP | Boston, MA, USA · Remote | $244K–$451K | 1d | [Apply](https://recruiting.ultipro.com/MES1002MESSD/JobBoard/888390fa-f9e8-4b6f-9977-7e3a214369f0/OpportunityDetail?opportunityId=b379acb5-1fb5-4f42-8130-b2395bdbd879&postingId=6cfcbab5-0cd4-423b-abac-d43087eae61a) |
+| New York Life | CORPORATE VICE PRESIDENT | VP | New York, NY, USA · Remote | $270K | 1d | [Apply](https://careers.newyorklife.com/careers/job/45458578) |
 | The Aerospace Corporation | Moonbase and Surface Systems Principal Director | Director | Houston, TX +1 |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Houston-TX/Moonbase-and-Surface-Systems-Principal-Director_R017015) |
 | Tapestry | VP, Global Retail Business Solutions | VP | New York, New York, USA (Corporate Headqua |  | 1d | [Apply](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/VP--Global-Retail-Business-Solutions_JR22351) |
 | Shutterfly | Senior Director, Enterprise Business Systems | Sr. Director | Plano, TX, USA · Remote | $222K–$314K | 1d | [Apply](https://shutterflycareers.ttcportals.com/jobs/18477479-senior-director-enterprise-business-systems?tm_job=2026-2650-OTHLOC-CceaXfwh&tm_event=view&tm_company=13020) |

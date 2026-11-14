@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-14T14:09:31+00:00 UTC, 245s
-- Companies working: 414 of 635
-- New roles last run: 0; roles in feed: 1479
-- Universe (all other known career sites): 5340 boards, 3815 checked in the last hour, 1 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1782
-- Skipped (backing off broken sites): 1744; ran out of time: 0
+- Last run: 2026-11-14T15:10:27+00:00 UTC, 306s
+- Companies working: 435 of 635
+- New roles last run: 2; roles in feed: 1481
+- Universe (all other known career sites): 5340 boards, 3815 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 450, "senior titles from boards/aggregators": 205}
+- Companies with open roles: 1783
+- Skipped (backing off broken sites): 1704; ran out of time: 0
 
 ## Failing companies
 
@@ -14,21 +14,37 @@
 |---|---:|---|
 | Anyscale | 29 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
 | MetLife | 8 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/metlife?mode=json |
+| Abbott | 7 | Expecting value: line 1 column 1 (char 0) |
+| Allstate | 7 | Expecting value: line 1 column 1 (char 0) |
+| Baker Hughes | 7 | Expecting value: line 1 column 1 (char 0) |
+| Centene | 7 | Expecting value: line 1 column 1 (char 0) |
+| Cigna | 7 | Expecting value: line 1 column 1 (char 0) |
+| Citi | 7 | Expecting value: line 1 column 1 (char 0) |
+| Disney | 7 | Expecting value: line 1 column 1 (char 0) |
+| General Motors | 7 | Expecting value: line 1 column 1 (char 0) |
+| HP | 7 | Expecting value: line 1 column 1 (char 0) |
+| Humana | 7 | Expecting value: line 1 column 1 (char 0) |
+| Jabil | 7 | Expecting value: line 1 column 1 (char 0) |
 | Johnson Controls | 7 | Expecting value: line 1 column 1 (char 0) |
+| Kyndryl | 7 | Expecting value: line 1 column 1 (char 0) |
+| NVIDIA | 7 | Expecting value: line 1 column 1 (char 0) |
+| PNC | 7 | Expecting value: line 1 column 1 (char 0) |
+| Prudential | 7 | Expecting value: line 1 column 1 (char 0) |
+| RTX | 7 | Expecting value: line 1 column 1 (char 0) |
+| Ryder | 7 | Expecting value: line 1 column 1 (char 0) |
+| S&P Global | 7 | Expecting value: line 1 column 1 (char 0) |
+| Travelers | 7 | Expecting value: line 1 column 1 (char 0) |
+| Workday | 7 | Expecting value: line 1 column 1 (char 0) |
 | AES | 6 | HTTP 521 for https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/AES_US/jobs |
 | AIG | 6 | HTTP 521 for https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs |
-| Abbott | 6 | HTTP 521 for https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs |
 | Adobe | 6 | HTTP 521 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs |
 | Agilent | 6 | HTTP 521 for https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Student_Careers/jobs |
-| Albemarle | 6 | HTTP 521 for https://albemarle.wd5.myworkdayjobs.com/wday/cxs/albemarle/External/jobs |
 | Alcoa | 6 | HTTP 521 for https://alcoa.wd5.myworkdayjobs.com/wday/cxs/alcoa/Careers/jobs |
 | AllianceBernstein | 6 | HTTP 521 for https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs |
-| Allstate | 6 | HTTP 521 for https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/allstate_careers/jobs |
 | Ameren | 6 | HTTP 521 for https://ameren.wd1.myworkdayjobs.com/wday/cxs/ameren/External/jobs |
 | Ameriprise Financial | 6 | HTTP 521 for https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs |
 | Amgen | 6 | HTTP 521 for https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/Careers/jobs |
 | Analog Devices | 6 | HTTP 521 for https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs |
-| Apollo Global Management | 6 | HTTP 521 for https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs |
 | Arctic Wolf | 6 | HTTP 521 for https://arcticwolf.wd1.myworkdayjobs.com/wday/cxs/arcticwolf/External/jobs |
 | Arrow Electronics | 6 | HTTP 521 for https://arrow.wd1.myworkdayjobs.com/wday/cxs/arrow/AC/jobs |
 | Associated Bank | 6 | HTTP 521 for https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/j |
@@ -41,7 +57,6 @@
 | BECU | 6 | HTTP 521 for https://becu.wd1.myworkdayjobs.com/wday/cxs/becu/external/jobs |
 | BJ's Wholesale | 6 | HTTP 521 for https://bjswholesaleclub.wd1.myworkdayjobs.com/wday/cxs/bjswholesaleclub/BJsCareers/job |
 | Bain Capital | 6 | HTTP 521 for https://baincapital.wd1.myworkdayjobs.com/wday/cxs/baincapital/External_Public/jobs |
-| Baker Hughes | 6 | HTTP 521 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
 | Bank of America | 6 | HTTP 521 for https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/Lateral-US/jobs |
 | Baxter | 6 | HTTP 521 for https://baxter.wd1.myworkdayjobs.com/wday/cxs/baxter/baxter/jobs |
 | Benchmark | 6 | HTTP 521 for https://benchmark.wd1.myworkdayjobs.com/wday/cxs/benchmark/PGH_Careers/jobs |
@@ -53,20 +68,14 @@
 | Boeing | 6 | HTTP 521 for https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs |
 | Booking Holdings | 6 | HTTP 521 for https://priceline.wd1.myworkdayjobs.com/wday/cxs/priceline/BookingHoldings/jobs |
 | Broadcom | 6 | HTTP 521 for https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs |
-| Broadridge | 6 | HTTP 521 for https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs |
 | Brookfield | 6 | HTTP 521 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/BrookfieldHealthcareCenterCareerSi |
-| C.H. Robinson | 6 | HTTP 521 for https://chrobinson.wd5.myworkdayjobs.com/wday/cxs/chrobinson/CHRobinson/jobs |
 | CME Group | 6 | HTTP 521 for https://cmegroup.wd1.myworkdayjobs.com/wday/cxs/cmegroup/cme_careers/jobs |
 | CVS Health | 6 | HTTP 521 for https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs |
 | Capital Group | 6 | HTTP 521 for https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs |
 | CarMax | 6 | HTTP 521 for https://carmax.wd1.myworkdayjobs.com/wday/cxs/carmax/External/jobs |
 | Cardinal Health | 6 | HTTP 521 for https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/EXT/jobs |
-| Centene | 6 | HTTP 521 for https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/Centene_External/jobs |
 | Cerberus Capital Management | 6 | HTTP 521 for https://cerberus.wd1.myworkdayjobs.com/wday/cxs/cerberus/CerberusCareers/jobs |
-| Chevron | 6 | HTTP 521 for https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs |
 | Church & Dwight | 6 | HTTP 521 for https://churchdwight.wd1.myworkdayjobs.com/wday/cxs/churchdwight/chdcareers/jobs |
-| Cigna | 6 | HTTP 521 for https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs |
-| Citi | 6 | HTTP 521 for https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs |
 | Cityblock Health | 6 | HTTP 521 for https://cityblockhealth.wd1.myworkdayjobs.com/wday/cxs/cityblockhealth/CityblockExterna |
 | Cleveland Clinic | 6 | HTTP 521 for https://ccf.wd1.myworkdayjobs.com/wday/cxs/ccf/ClevelandClinicCareersUK/jobs |
 | Clorox | 6 | Expecting value: line 1 column 1 (char 0) |
@@ -76,8 +85,6 @@
 | ConocoPhillips | 6 | HTTP 521 for https://conocophillips.wd1.myworkdayjobs.com/wday/cxs/conocophillips/External/jobs |
 | Constellation Brands | 6 | HTTP 521 for https://cbrands.wd5.myworkdayjobs.com/wday/cxs/cbrands/CBI_External_Careers/jobs |
 | Corebridge Financial | 6 | HTTP 521 for https://corebridgefinancial.wd1.myworkdayjobs.com/wday/cxs/corebridgefinancial/Corebrid |
-| Credit Acceptance | 6 | HTTP 521 for https://creditacceptance.wd5.myworkdayjobs.com/wday/cxs/creditacceptance/Credit_Accepta |
-| CrowdStrike | 6 | HTTP 521 for https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs |
 | Cushman & Wakefield | 6 | HTTP 521 for https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/External/jobs |
 | DXC Technology | 6 | HTTP 521 for https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/DXCJobs/jobs |
 | DaVita | 6 | HTTP 521 for https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs |
@@ -88,7 +95,6 @@
 | Dick's Sporting Goods | 6 | HTTP 521 for https://dickssportinggoods.wd1.myworkdayjobs.com/wday/cxs/dickssportinggoods/DSG/jobs |
 | Dimensional Fund Advisors | 6 | HTTP 521 for https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/DFA_Careers/jobs |
 | Discover | 6 | HTTP 521 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/DiscoveryCareerSite/jobs |
-| Disney | 6 | HTTP 521 for https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs |
 | Dow | 6 | HTTP 521 for https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs |
 | Dow Jones | 6 | HTTP 521 for https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/News_Corp_Australia_Careers/jo |
 | Duck Creek Technologies | 6 | HTTP 521 for https://duckcreek.wd1.myworkdayjobs.com/wday/cxs/duckcreek/duckcreekcareers/jobs |
@@ -105,12 +111,6 @@
 | Fidelity | 6 | HTTP 521 for https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs |
 | Fox Corporation | 6 | HTTP 521 for https://fox.wd1.myworkdayjobs.com/wday/cxs/fox/Domestic/jobs |
 | Frost Bank | 6 | HTTP 521 for https://frostbank.wd5.myworkdayjobs.com/wday/cxs/frostbank/external/jobs |
-| GE Vernova | 6 | HTTP 521 for https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs |
 | General Mills | 6 | HTTP 521 for https://genmills.wd1.myworkdayjobs.com/wday/cxs/genmills/GMI_External_Careers/jobs |
-| General Motors | 6 | HTTP 521 for https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs |
-| Genesys | 6 | HTTP 521 for https://genesys.wd1.myworkdayjobs.com/wday/cxs/genesys/Genesys/jobs |
-| Gilead Sciences | 6 | HTTP 521 for https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs |
-| Global Payments | 6 | HTTP 521 for https://global.wd1.myworkdayjobs.com/wday/cxs/global/globalpartnerscareers/jobs |
-| GlobalFoundries | 6 | HTTP 521 for https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

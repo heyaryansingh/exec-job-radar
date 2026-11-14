@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,883 open roles** at **1,782 companies** · **132 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 09:09 AM ET
+**4,885 open roles** at **1,783 companies** · **133 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 10:10 AM ET
 
-By level: Director 2507 · VP 933 · Sr. Director 618 · Head 305 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
+By level: Director 2508 · VP 933 · Sr. Director 618 · Head 306 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (132)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (133)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (337)](#security-risk-technology)
-- [🧠 Data & AI (1225)](#data-ai)
+- [🧠 Data & AI (1226)](#data-ai)
 - [🚦 Reliability & Operations (348)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (441)](#cloud-infrastructure)
 - [🏛️ Architecture (134)](#architecture)
 - [🔄 Transformation & Delivery (583)](#transformation-delivery)
 - [🛠️ Engineering & Software (1272)](#engineering-software)
-- [📌 Other Senior Roles (365)](#other-senior-roles)
+- [📌 Other Senior Roles (366)](#other-senior-roles)
 - [🔒 Recently closed (188)](#recently-closed)
 - Daily digests: [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md)
 
@@ -47,6 +47,8 @@ By level: Director 2507 · VP 933 · Sr. Director 618 · Head 305 · EVP/SVP 182
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 0d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
+| Piper Aircraft Inc | 🆕 Director, Information Services | Director | Vero Beach, FL, USA |  | 0d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | BUTLER COUNTY EDUCATIONAL SERVICE CENTER | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
 | Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | OnTrac | 🆕 VP, Technology | VP | Remote, USA | $228K–$342K | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
@@ -171,7 +173,6 @@ By level: Director 2507 · VP 933 · Sr. Director 618 · Head 305 · EVP/SVP 182
 | Morgan Stanley ⭐ | 🆕 Vice President, Lead Software Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Software-Engineer_JR031478) |
 | Morgan Stanley ⭐ | 🆕 Director, Lead Cybersecurity Engineer | Director | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Lead-Cybersecurity-Engineer_JR036960) |
 | Morgan Stanley ⭐ | 🆕 Vice President, Lead Cybersecurity Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Cybersecurity-Engineer_JR038631-1) |
-| Tillo | 🆕 Head of Security | Head | Cape Town Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/tillo/73bb302b-9f13-4443-99d4-fd13862851fc) ⚡ |
 | Cigna Health and Life Insurance Company | 🆕 Chief Technology Officer, Corporate Functions | C-level | Philadelphia, Pennsylvania | $210K–$349K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5620269654/e/) |
 | Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645802141459614226) |
 | Confidential | 🆕 Chief Technology Officer (CTO) | C-level | Hamilton Township, New Jersey |  | 2d | [Apply](https://www.talent.com/view?id=645596932105964050) |
@@ -573,7 +574,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | SolarWinds | 🆕 Director, Product Security | Director | Charlotte, North Carolina |  | 1d | [Apply](https://jobs.solarwinds.com/job-detail/?gh_jid=4754000005&gh_jid=4754000005) ⚡ |
 | SolarWinds | 🆕 Director, Product Security | Director | Austin, Texas |  | 1d | [Apply](https://jobs.solarwinds.com/job-detail/?gh_jid=4749469005&gh_jid=4749469005) ⚡ |
 | Allstate | 🆕 Director, Third-Party Cyber Defense | Director | US - Remote |  | 1d | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Director--Third-Party-Cyber-Defense_R36870) |
-| Tillo | 🆕 Head of Security | Head | Cape Town Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/tillo/73bb302b-9f13-4443-99d4-fd13862851fc) ⚡ |
+| Tillo | Head of Security | Head | Cape Town Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/tillo/73bb302b-9f13-4443-99d4-fd13862851fc) ⚡ |
 | PowerSchool Group | Director, Information Security | Director | Remote, USA |  | 1d | [Apply](https://careers-powerschool.icims.com/jobs/53167/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | PowerSchool Group | Director, Information Security | Director | Plano, TX, USA |  | 1d | [Apply](https://careers-powerschool.icims.com/jobs/53166/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | AstraZeneca | Director, Cyber Security Detection Engineering | Director | Gaithersburg, MD, USA | $169K–$254K | 1d | [Apply](https://careers.astrazeneca.com/job/gaithersburg/director-cyber-security-detection-engineering/7684/103224738192) |
@@ -819,6 +820,7 @@ _87 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 0d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | Information Technology Senior Management Forum | 🆕 Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
 | Bitdeer Technologies Group | 🆕 Senior Director, Interconnection & Network (AI Datacenter) | Sr. Director | Austin, TX, USA |  | 0d | [Apply](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter?source=indeed) |
 | Trace3 | 🆕 Director, Digital Consulting / AI Transformation | Director | Irvine, CA, USA · Remote | $190K–$230K | 1d | [Apply](https://grnh.se/vt247xhh1us) |
@@ -1068,9 +1070,8 @@ _87 older roles in this section are in data/roles.json on the `data` branch._
 | Liberty Mutual Insurance | Director I, Data Science- AI Products | Director | Seattle, Washington, United States +1 |  | 9d | [Apply](https://searchjobs.libertymutualgroup.com/careers/job/618520683128) |
 | Vertex Pharmaceuticals | Director, AI Product Delivery Owner | Director | Boston, MA | $219K–$329K | 9d | [Apply](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Director--AI-Product-Delivery-Owner_REQ-30534) |
 | Equifax | VP, Mortgage Data Analytics | VP | St. Louis, MO, USA |  | 9d | [Apply](https://careers.equifax.com/en/jobs/j00180100/vp-mortgage-data-analytics/) |
-| HPE | Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, California, United States of Am +1 |  | 9d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Director-Product-Manager--Cloud-Infrastructure-and-AI-Networking_1217321-1) [alt](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS) |
 
-_975 older roles in this section are in data/roles.json on the `data` branch._
+_976 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2255,6 +2256,7 @@ _1022 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Piper Aircraft Inc | 🆕 Director, Information Services | Director | Vero Beach, FL, USA |  | 0d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Information Technology Senior Management Forum | 🆕 Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
 | Grid United | 🆕 Senior Director, Land | Sr. Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
 | Meso Scale Diagnostics | 🆕 Senior Vice President, Commercial Business Systems | EVP/SVP | Boston, MA, USA · Remote | $244K–$451K | 1d | [Apply](https://recruiting.ultipro.com/MES1002MESSD/JobBoard/888390fa-f9e8-4b6f-9977-7e3a214369f0/OpportunityDetail?opportunityId=b379acb5-1fb5-4f42-8130-b2395bdbd879&postingId=6cfcbab5-0cd4-423b-abac-d43087eae61a) |
@@ -2504,9 +2506,8 @@ _1022 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Full Stack Engineer - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 26d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-engineer-senior-vice-president/287/102161046688) |
 | Citi (jobs.citi.com) ⭐ | Senior Databricks Engineer, Apache Spark and AWS - Vice President | VP | Pune, MH, IN |  | 26d | [Apply](https://jobs.citi.com/job/pune/senior-databricks-engineer-apache-spark-and-aws-vice-president/287/102161047360) |
 | Citi (jobs.citi.com) ⭐ | Principal Engineer - Senior Vice President | EVP/SVP | Pune, MH, IN |  | 26d | [Apply](https://jobs.citi.com/job/pune/principal-engineer-senior-vice-president/287/102161047584) |
-| Citi (jobs.citi.com) ⭐ | Lead Front End Engineer – React (VP) | VP | Tampa, FL, US |  | 26d | [Apply](https://jobs.citi.com/job/tampa/lead-front-end-engineer-react-vp/287/102161047664) |
 
-_115 older roles in this section are in data/roles.json on the `data` branch._
+_116 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

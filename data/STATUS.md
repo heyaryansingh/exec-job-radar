@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-14T11:36:27+00:00 UTC, 255s
+- Last run: 2026-11-14T12:09:30+00:00 UTC, 248s
 - Companies working: 414 of 635
 - New roles last run: 0; roles in feed: 1478
-- Universe (all other known career sites): 5340 boards, 3815 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Universe (all other known career sites): 5340 boards, 3815 checked in the last hour, 1 errors; 1 employer names learned; 0 new employer sites found via job boards
 - Job boards and aggregators: {"senior titles from boards/aggregators": 0}
 - Companies with open roles: 1782
-- Skipped (backing off broken sites): 1737; ran out of time: 0
+- Skipped (backing off broken sites): 1736; ran out of time: 0
 
 ## Failing companies
 
@@ -35,6 +35,7 @@
 | Autodesk | 6 | HTTP 521 for https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs |
 | Availity | 6 | HTTP 521 for https://availity.wd1.myworkdayjobs.com/wday/cxs/availity/Availity_Careers_US/jobs |
 | Avis Budget Group | 6 | HTTP 521 for https://avisbudget.wd1.myworkdayjobs.com/wday/cxs/avisbudget/ABG_Careers/jobs |
+| Avnet | 6 | Expecting value: line 1 column 1 (char 0) |
 | Axiom Space | 6 | HTTP 521 for https://axiomspace.wd5.myworkdayjobs.com/wday/cxs/axiomspace/External_Career_Site/jobs |
 | BECU | 6 | HTTP 521 for https://becu.wd1.myworkdayjobs.com/wday/cxs/becu/external/jobs |
 | BJ's Wholesale | 6 | HTTP 521 for https://bjswholesaleclub.wd1.myworkdayjobs.com/wday/cxs/bjswholesaleclub/BJsCareers/job |
@@ -67,6 +68,7 @@
 | Citi | 6 | HTTP 521 for https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs |
 | Cityblock Health | 6 | HTTP 521 for https://cityblockhealth.wd1.myworkdayjobs.com/wday/cxs/cityblockhealth/CityblockExterna |
 | Cleveland Clinic | 6 | HTTP 521 for https://ccf.wd1.myworkdayjobs.com/wday/cxs/ccf/ClevelandClinicCareersUK/jobs |
+| Clorox | 6 | Expecting value: line 1 column 1 (char 0) |
 | Cloudera | 6 | HTTP 521 for https://cloudera.wd5.myworkdayjobs.com/wday/cxs/cloudera/External_Career/jobs |
 | Coca-Cola | 6 | HTTP 521 for https://coke.wd1.myworkdayjobs.com/wday/cxs/coke/coca-cola-careers/jobs |
 | Conagra Brands | 6 | HTTP 521 for https://conagrabrands.wd1.myworkdayjobs.com/wday/cxs/conagrabrands/Careers_US/jobs |
@@ -110,7 +112,5 @@
 | GlobalFoundries | 6 | HTTP 521 for https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs |
 | Goodyear | 6 | HTTP 521 for https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs |
 | Green Dot | 6 | HTTP 521 for https://greendotcorp.wd1.myworkdayjobs.com/wday/cxs/greendotcorp/gdc/jobs |
-| Grubhub | 6 | HTTP 521 for https://wonder.wd1.myworkdayjobs.com/wday/cxs/wonder/Grubhub_Careers/jobs |
-| Guardian Life | 6 | HTTP 521 for https://guardianlife.wd5.myworkdayjobs.com/wday/cxs/guardianlife/Guardian-Life-Careers/ |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

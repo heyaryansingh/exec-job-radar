@@ -1,11 +1,12 @@
 # 🤠 Senior technology roles in the Houston area
 
-176 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+179 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Grid United | 🆕 Senior Director, Land | Sr. Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
 | Grid United | 🆕 Senior Director of Development | Sr. Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
+| Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 1d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
 | JPMorgan Chase ⭐ | 🆕 Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Huntington Bank | 🆕 Managing Director Project Finance and Infrastructure | MD | Atlanta, GA +3 | $125K–$275K | 1d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Managing-Director-Project-Finance-and-Infrastructure_R0077712-1) |
 | The Aerospace Corporation | 🆕 Moonbase and Surface Systems Principal Director | Director | Houston, TX +1 |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Houston-TX/Moonbase-and-Surface-Systems-Principal-Director_R017015) |
@@ -13,16 +14,18 @@
 | Phillips 66 | 🆕 Senior Director, VCO/Plan AI Platform Strategy & Integration | Sr. Director | Houston, TX, USA | $173K–$315K | 1d | [Apply](https://careers.phillips66.com/job/Houston-Senior-Director%2C-VCOPlan-AI-Platform-Strategy-&-Integration-TX-77042/1450325300/) |
 | PwC | 🆕 Digital Grid Modernization Lead, Director | Director | Houston, TX, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/773693WD/Digital-Grid-Modernization-Lead-Director) |
 | PwC | 🆕 IT Audit Controls/SOX - Director | Director | Houston, TX, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/769516WD/IT-Audit-Controls-SOX-Director) |
+| Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645802141459614226) |
+| Intergraph Corporation | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://jobs.womenforhire.com/job/usa/houston-tx/senior-vice-president-global-services-778739/) |
 | PwC | 🆕 Digital Grid Modernization Lead, Director | Director | TX-Houston |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773693WDEXTERNALENUS) |
-| Capgemini Invent | 🆕 frog, Director | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
-| Confidential | 🆕 Executive Vice President, Strategic AI Services | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645793143277099328) |
-| Confidential | 🆕 Vice President of Artificial Intelligence | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645583544714598720) |
-| Confidential | 🆕 Chief Information & Data Officer (CIDO) | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645583319125401608) |
+| Capgemini Invent | frog, Director | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
+| Confidential | Executive Vice President, Strategic AI Services | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645793143277099328) |
+| Confidential | Vice President of Artificial Intelligence | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645583544714598720) |
+| Confidential | Chief Information & Data Officer (CIDO) | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645583319125401608) |
 | NEQ Operating | Director, Information Technology | Director | Houston, TX, USA |  | 2d | [Apply](http://j.brt.mv/jb.do?reqGK=27789046) [alt](https://www.indeed.com/viewjob?jk=afd72627d3f8f929) |
 | Power Factors | Head of Software Architecture | Head | Houston, TX, USA |  | 2d | [Apply](https://apply.workable.com/j/E2EF5C2590) |
 | Octave Intelligence | Senior Vice President, Global Services | EVP/SVP | Houston, TX, USA |  | 2d | [Apply](https://careers.octave.com/job/Senior-Vice-President%2C-Global-Services/3506-en_US) |
 | Foxconn Industrial Internet - FII | Program Management Director | Director | Houston, TX, USA |  | 2d | [Apply](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |
-| Blue Shield of CA | 🆕 VP, Product Security | VP | Houston, Texas | $250K–$360K | 3d | [Apply](https://www.jobleads.com/us/job/vp-product-security--houston--e2cb1ea0dcbf6e93b81840bfcd9e293fd) |
+| Blue Shield of CA | VP, Product Security | VP | Houston, Texas | $250K–$360K | 3d | [Apply](https://www.jobleads.com/us/job/vp-product-security--houston--e2cb1ea0dcbf6e93b81840bfcd9e293fd) |
 | Live Nation | Senior Director, Vulnerability Management & Penetration Testing | Sr. Director | US CA Beverly Hills - 325 N Maple Drive +109 |  | 3d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director--Vulnerability-Management---Penetration-Testing_JR-94215) |
 | Accenture ⭐ | Cybersecurity Director | Director | Chicago, Accenture Tower, Corp +42 | $132K–$338K | 3d | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Cybersecurity-Director_R00369716) |
 | TransGrid Energy | SVP, Data Center Infrastructure Business | EVP/SVP | Houston | $350K–$450K | 3d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/ad4bea03-8163-4a15-a48a-480dd9ca2fba) ⚡ |

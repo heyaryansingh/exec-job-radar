@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,880 open roles** at **1,780 companies** · **156 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 02:23 AM ET
+**4,880 open roles** at **1,780 companies** · **157 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 03:20 AM ET
 
-By level: Director 2507 · VP 932 · Sr. Director 616 · Head 305 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
+By level: Director 2506 · VP 933 · Sr. Director 616 · Head 305 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (156)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (157)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (337)](#security-risk-technology)
@@ -47,6 +47,7 @@ By level: Director 2507 · VP 932 · Sr. Director 616 · Head 305 · EVP/SVP 182
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| OnTrac | 🆕 VP, Technology | VP | Remote, USA | $228K–$342K | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
 | Energy Fuels Resources USA | 🆕 Vice President, Global Information Technology | VP | Lakewood, CO, USA | $175K–$310K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e715f1d4-503d-480f-8910-9c8d566a74ed&ccId=19000101_000001&jobId=566760&source=IN&lang=en_US) |
 | Information Technology Senior Management Forum | 🆕 Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
 | Information Technology Senior Management Forum | 🆕 Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
@@ -2020,6 +2021,7 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| OnTrac | 🆕 VP, Technology | VP | Remote, USA | $228K–$342K | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
 | Energy Fuels Resources USA | 🆕 Vice President, Global Information Technology | VP | Lakewood, CO, USA | $175K–$310K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e715f1d4-503d-480f-8910-9c8d566a74ed&ccId=19000101_000001&jobId=566760&source=IN&lang=en_US) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801278) |
 | Cherokee Indian Hospital Authority | 🆕 Director of Engineering | Director | Cherokee, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=35181078-7625-4896-8392-e587ad17e121&ccId=19000101_000001&jobId=971143&source=IN&lang=en_US) |
@@ -2269,7 +2271,6 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 | FNBO - First National Bank of Omaha | Director, Technology (Omaha, NE) | Director | Omaha - FN Tower |  | 8d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Technology--Omaha--NE-_R-20261974) |
 | 10Pearls - United States | Director of Software Engineering | Director | Tysons, VA, USA |  | 8d | [Apply](https://grnh.se/f8bc10df5us) |
 | Ilab Llc | Director of Quality Engineering | Director | Indianapolis, IN, USA |  | 8d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/9B1B64445CCEFE55D99DF4452D21AE80/jobs/151909?source=Indeed) |
-| NetApp | Sr Director, Software Engineer | Sr. Director | San Jose, CA, USA | $266K–$396K | 8d | [Apply](https://careers.netapp.com/job/san-jose/sr-director-software-engineer/27600/102942135488) |
 
 _1022 older roles in this section are in data/roles.json on the `data` branch._
 
@@ -2540,6 +2541,7 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| City and County of San Francisco | 🔒 Technology Product Director - Information Technology - SFPUC (1070)(168307) | Director | San Francisco, CA, us |  | 16d | Closed |
 | Overjet | 🔒 AI Creative Director | Director | United States, Remote |  | 38d | Closed |
 | 1Password | 🔒 Senior Director, Product Management – Developer & AI | Sr. Director | Remote (United States / Canada) |  | 39d | Closed |
 | Life360 | 🔒 Director, Engineering, Platform/Services | Director | Remote, USA | $216K–$318K | 29d | Closed |
@@ -2727,7 +2729,6 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 | Expedia Group ⭐ | 🔒 Sr Director Engineering - Experience Platform | Sr. Director | Washington - Seattle Campus +1 |  | 43d | Closed |
 | Tutor Intelligence | 🔒 Head of Fleet and Data | Head | Watertown, MA | $175K–$300K | 15d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Private Bank Digital Product Manager, VP | VP | New York, NY, United States |  | 15d | Closed |
-| Expedia Group ⭐ | 🔒 Sr Director. Agent Tools Product & Technology | Sr. Director | Washington - Seattle Campus |  | 29d | Closed |
 
 </details>
 

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,887 open roles** at **1,784 companies** · **101 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 01:01 PM ET
+**4,887 open roles** at **1,784 companies** · **101 new in the last 24 hours** · 5,979 company career sites watched · updated hourly · last update Nov 14, 2026 01:14 PM ET
 
 By level: Director 2508 · VP 933 · Sr. Director 620 · Head 306 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
@@ -47,8 +47,8 @@ By level: Director 2508 · VP 933 · Sr. Director 620 · Head 306 · EVP/SVP 182
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Pfizer ⭐ | 🆕 Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | University of Phoenix | 🆕 Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 0d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
+| Pfizer ⭐ | 🆕 Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | Piper Aircraft Inc | 🆕 Director, Information Services | Director | Vero Beach, FL, USA |  | 0d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 0d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | BUTLER COUNTY EDUCATIONAL SERVICE CENTER | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
@@ -788,8 +788,8 @@ _87 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Pfizer ⭐ | 🆕 Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | University of Phoenix | 🆕 Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 0d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
+| Pfizer ⭐ | 🆕 Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 0d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | Information Technology Senior Management Forum | 🆕 Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
 | Bitdeer Technologies Group | 🆕 Senior Director, Interconnection & Network (AI Datacenter) | Sr. Director | Austin, TX, USA |  | 0d | [Apply](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter?source=indeed) |

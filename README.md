@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,885 open roles** at **1,783 companies** · **133 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 10:10 AM ET
+**4,885 open roles** at **1,783 companies** · **124 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 11:00 AM ET
 
 By level: Director 2508 · VP 933 · Sr. Director 618 · Head 306 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2508 · VP 933 · Sr. Director 618 · Head 306 · EVP/SVP 182
 
 ## Contents
 
-- [🆕 New in the last 24 hours (133)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (124)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (337)](#security-risk-technology)
@@ -47,8 +47,8 @@ By level: Director 2508 · VP 933 · Sr. Director 618 · Head 306 · EVP/SVP 182
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 0d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | Piper Aircraft Inc | 🆕 Director, Information Services | Director | Vero Beach, FL, USA |  | 0d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
+| Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 0d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | BUTLER COUNTY EDUCATIONAL SERVICE CENTER | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
 | Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | OnTrac | 🆕 VP, Technology | VP | Remote, USA | $228K–$342K | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
@@ -164,15 +164,6 @@ By level: Director 2508 · VP 933 · Sr. Director 618 · Head 306 · EVP/SVP 182
 | Gilead Sciences ⭐ | 🆕 Director, Process Engineering - Head of Internal Operations | Head | United States - California - Foster City +1 |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--Process-Engineering---Head-of-Internal-Operations_R0056538-1) |
 | Grand Valley State University | 🆕 Director of Data and Analytics - Information Technology | Director | Allendale, MI |  | 1d | [Apply](https://gvsu.wd1.myworkdayjobs.com/careers/job/Allendale-MI/Director-of-Data-and-Analytics---Information-Technology_R105210) |
 | USAA ⭐ | 🆕 Director, Development Product Owner / Claim Modernization | Director | San Antonio Home Office I +6 | $127K–$243K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Development-Product-Owner---Claim-Modernization_R0122306) |
-| BNY ⭐ | 🆕 Vice President, AI / Machine Learning Software Engineer | VP | Lake Mary, FL, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83674) |
-| JPMorgan Chase ⭐ | 🆕 Product Delivery Vice President - Data and Analytics | VP | Wilmington, DE, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807367) |
-| JPMorgan Chase ⭐ | 🆕 Vice President, Agentic Product Delivery & AI Tooling | VP | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808582) |
-| Renesas | 🆕 Senior Director Package & Assembly Engineering | Sr. Director | San Jose, CALIFORNIA, us | $230K–$290K | 1d | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000161510774-senior-director-package-assembly-engineering) ⚡ |
-| Allstate | 🆕 Director, Third-Party Cyber Defense | Director | US - Remote |  | 1d | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Director--Third-Party-Cyber-Defense_R36870) |
-| Capital One ⭐ | 🆕 Director, Machine Learning Engineer | Director | San Jose, CA +3 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Director--Machine-Learning-Engineer_R1004808-1) |
-| Morgan Stanley ⭐ | 🆕 Vice President, Lead Software Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Software-Engineer_JR031478) |
-| Morgan Stanley ⭐ | 🆕 Director, Lead Cybersecurity Engineer | Director | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Lead-Cybersecurity-Engineer_JR036960) |
-| Morgan Stanley ⭐ | 🆕 Vice President, Lead Cybersecurity Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Cybersecurity-Engineer_JR038631-1) |
 | Cigna Health and Life Insurance Company | 🆕 Chief Technology Officer, Corporate Functions | C-level | Philadelphia, Pennsylvania | $210K–$349K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5620269654/e/) |
 | Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645802141459614226) |
 | Confidential | 🆕 Chief Technology Officer (CTO) | C-level | Hamilton Township, New Jersey |  | 2d | [Apply](https://www.talent.com/view?id=645596932105964050) |
@@ -573,7 +564,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Fiserv | 🆕 Director, AI - Cyber Security I | Director | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10398810EXTERNALENUS) |
 | SolarWinds | 🆕 Director, Product Security | Director | Charlotte, North Carolina |  | 1d | [Apply](https://jobs.solarwinds.com/job-detail/?gh_jid=4754000005&gh_jid=4754000005) ⚡ |
 | SolarWinds | 🆕 Director, Product Security | Director | Austin, Texas |  | 1d | [Apply](https://jobs.solarwinds.com/job-detail/?gh_jid=4749469005&gh_jid=4749469005) ⚡ |
-| Allstate | 🆕 Director, Third-Party Cyber Defense | Director | US - Remote |  | 1d | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Director--Third-Party-Cyber-Defense_R36870) |
+| Allstate | Director, Third-Party Cyber Defense | Director | US - Remote |  | 1d | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Director--Third-Party-Cyber-Defense_R36870) |
 | Tillo | Head of Security | Head | Cape Town Office · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/tillo/73bb302b-9f13-4443-99d4-fd13862851fc) ⚡ |
 | PowerSchool Group | Director, Information Security | Director | Remote, USA |  | 1d | [Apply](https://careers-powerschool.icims.com/jobs/53167/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | PowerSchool Group | Director, Information Security | Director | Plano, TX, USA |  | 1d | [Apply](https://careers-powerschool.icims.com/jobs/53166/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -844,10 +835,10 @@ _87 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 AI Controls Enablement Strategy & Innovation - Asset and Wealth Management Controls - Vice President | VP | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772554) |
 | PwC | 🆕 Payer Healthcare Data Scientist, Director | Director | MA-Boston |  | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773327WDEXTERNALENUS) |
 | Grand Valley State University | 🆕 Director of Data and Analytics - Information Technology | Director | Allendale, MI |  | 1d | [Apply](https://gvsu.wd1.myworkdayjobs.com/careers/job/Allendale-MI/Director-of-Data-and-Analytics---Information-Technology_R105210) |
-| BNY ⭐ | 🆕 Vice President, AI / Machine Learning Software Engineer | VP | Lake Mary, FL, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83674) |
-| JPMorgan Chase ⭐ | 🆕 Product Delivery Vice President - Data and Analytics | VP | Wilmington, DE, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807367) |
-| JPMorgan Chase ⭐ | 🆕 Vice President, Agentic Product Delivery & AI Tooling | VP | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808582) |
-| Capital One ⭐ | 🆕 Director, Machine Learning Engineer | Director | San Jose, CA +3 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Director--Machine-Learning-Engineer_R1004808-1) |
+| BNY ⭐ | Vice President, AI / Machine Learning Software Engineer | VP | Lake Mary, FL, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83674) |
+| JPMorgan Chase ⭐ | Product Delivery Vice President - Data and Analytics | VP | Wilmington, DE, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807367) |
+| JPMorgan Chase ⭐ | Vice President, Agentic Product Delivery & AI Tooling | VP | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808582) |
+| Capital One ⭐ | Director, Machine Learning Engineer | Director | San Jose, CA +3 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Director--Machine-Learning-Engineer_R1004808-1) |
 | Phillips 66 | Senior Director, VCO/Plan AI Platform Strategy & Integration | Sr. Director | Houston, TX, USA | $173K–$315K | 1d | [Apply](https://careers.phillips66.com/job/Houston-Senior-Director%2C-VCOPlan-AI-Platform-Strategy-&-Integration-TX-77042/1450325300/) |
 | PwC | Deal Data Technology & Analytics, Director | Director | Silicon Valley, CA, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/739097WD/Deal-Data-Technology-Analytics-Director) |
 | Atlassian | Head of Sourcing - Cloud and AI | Head | San Francisco, CA, USA · Remote | $139K–$219K | 1d | [Apply](https://careers-americas.icims.com/jobs/28550/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -2032,8 +2023,8 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 | Integrated HomeCare Services | 🆕 Director Software Engineer | Director | Miramar, FL, USA · Remote |  | 1d | [Apply](https://recruiting.ultipro.com/INT1078IHCS/JobBoard/0f2d0fd8-1ec0-46a7-a389-79c391c42aab/OpportunityDetail?opportunityId=2b9c2de5-155a-4809-9408-a60e158eb49a&postingId=8c20a460-8197-4595-b26c-f763d1ea8e7d) |
 | US Office of the Secretary of Defense | 🆕 Principal Director, Mission Engineering and Integration Activity | Director | Arlington, VA, USA | $186K–$228K | 1d | [Apply](https://www.usajobs.gov:443/job/892655500) |
 | Manifold Bio | 🆕 Director/Sr. Director, Information Technology | Sr. Director | Boston | $200K–$260K | 1d | [Apply](https://job-boards.greenhouse.io/manifoldbio/jobs/5294572007) ⚡ |
-| Renesas | 🆕 Senior Director Package & Assembly Engineering | Sr. Director | San Jose, CALIFORNIA, us | $230K–$290K | 1d | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000161510774-senior-director-package-assembly-engineering) ⚡ |
-| Morgan Stanley ⭐ | 🆕 Vice President, Lead Software Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Software-Engineer_JR031478) |
+| Renesas | Senior Director Package & Assembly Engineering | Sr. Director | San Jose, CALIFORNIA, us | $230K–$290K | 1d | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000161510774-senior-director-package-assembly-engineering) ⚡ |
+| Morgan Stanley ⭐ | Vice President, Lead Software Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Software-Engineer_JR031478) |
 | Nubank | Global Engineering Senior Director - US | Sr. Director | Palo Alto +2 · Remote | $380K–$420K | 1d | [Apply](https://jobs.ashbyhq.com/nubank/8b44a775-4e96-4599-bebb-61b06b0e8779) ⚡ |
 | Nubank | Global Engineering Director - US | Director | Palo Alto +2 · Remote | $707K–$790K | 1d | [Apply](https://jobs.ashbyhq.com/nubank/c85ad158-3399-4e89-be9d-f6c8669fafe9) ⚡ |
 | JPMorgan Chase ⭐ | Senior Director of Software Engineering - Margin and Collateral / Post Trade Technology | Sr. Director | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808245) |
@@ -2266,8 +2257,8 @@ _1022 older roles in this section are in data/roles.json on the `data` branch._
 | Shutterfly | 🆕 Senior Director, Enterprise Business Systems | Sr. Director | Plano, TX, USA · Remote | $222K–$314K | 1d | [Apply](https://shutterflycareers.ttcportals.com/jobs/18477479-senior-director-enterprise-business-systems?tm_job=2026-2650-OTHLOC-CceaXfwh&tm_event=view&tm_company=13020) |
 | Crux AI | 🆕 VP, Server Ops | VP | Palo Alto · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/crux/66230a64-0a37-4081-a247-e0466c6c76ef) ⚡ |
 | Shutterfly | 🆕 Senior Director, Enterprise Business Systems | Sr. Director | Eden Prairie, MN, USA · Remote | $222K–$314K | 1d | [Apply](https://shutterflycareers.ttcportals.com/jobs/18477471-senior-director-enterprise-business-systems?tm_job=2026-2650-OTHLOC-C5eaXfwa&tm_event=view&tm_company=13020) |
-| Morgan Stanley ⭐ | 🆕 Director, Lead Cybersecurity Engineer | Director | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Lead-Cybersecurity-Engineer_JR036960) |
-| Morgan Stanley ⭐ | 🆕 Vice President, Lead Cybersecurity Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Cybersecurity-Engineer_JR038631-1) |
+| Morgan Stanley ⭐ | Director, Lead Cybersecurity Engineer | Director | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Lead-Cybersecurity-Engineer_JR036960) |
+| Morgan Stanley ⭐ | Vice President, Lead Cybersecurity Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Cybersecurity-Engineer_JR038631-1) |
 | Shutterfly | Senior Director, Enterprise Business Systems | Sr. Director | Fort Mill, SC, USA · Remote | $222K–$314K | 1d | [Apply](https://shutterflycareers.ttcportals.com/jobs/18477474-senior-director-enterprise-business-systems?tm_job=2026-2650-OTHLOC-C6eaXfwb&tm_event=view&tm_company=13020) |
 | Citi (jobs.citi.com) ⭐ | Non-Functional Testing Manager - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/non-functional-testing-manager-vice-president/287/103241919264) |
 | Shutterfly | Senior Director, Enterprise Business Systems | Sr. Director | San Jose, CA, USA · Remote | $222K–$314K | 1d | [Apply](https://shutterflycareers.ttcportals.com/jobs/18477468-senior-director-enterprise-business-systems?tm_job=2026-2650&tm_event=view&tm_company=13020) |

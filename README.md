@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,882 open roles** at **1,782 companies** · **150 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 05:20 AM ET
+**4,882 open roles** at **1,782 companies** · **148 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 06:10 AM ET
 
 By level: Director 2506 · VP 933 · Sr. Director 618 · Head 305 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2506 · VP 933 · Sr. Director 618 · Head 305 · EVP/SVP 182
 
 ## Contents
 
-- [🆕 New in the last 24 hours (150)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (148)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (337)](#security-risk-technology)
@@ -47,8 +47,8 @@ By level: Director 2506 · VP 933 · Sr. Director 618 · Head 305 · EVP/SVP 182
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | BUTLER COUNTY EDUCATIONAL SERVICE CENTER | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
+| Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | OnTrac | 🆕 VP, Technology | VP | Remote, USA | $228K–$342K | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
 | Energy Fuels Resources USA | 🆕 Vice President, Global Information Technology | VP | Lakewood, CO, USA | $175K–$310K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e715f1d4-503d-480f-8910-9c8d566a74ed&ccId=19000101_000001&jobId=566760&source=IN&lang=en_US) |
 | Information Technology Senior Management Forum | 🆕 Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
@@ -183,8 +183,6 @@ By level: Director 2506 · VP 933 · Sr. Director 618 · Head 305 · EVP/SVP 182
 | PwC | 🆕 IT Audit Controls/SOX - Director | Director | Houston, TX, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/769516WD/IT-Audit-Controls-SOX-Director) |
 | PwC | 🆕 Deal Data Technology & Analytics, Director | Director | Silicon Valley, CA, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/739097WD/Deal-Data-Technology-Analytics-Director) |
 | Pennsylvania State University | 🆕 Engineering Services Deputy Director | Director | Penn State University Park |  | 1d | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Services-Deputy-Director_REQ_0000083929-1) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Java Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/java-technical-lead-vice-president/287/103241898448) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Non-Functional Testing Manager - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/non-functional-testing-manager-vice-president/287/103241919264) |
 | Cigna Health and Life Insurance Company | 🆕 Chief Technology Officer, Corporate Functions | C-level | Philadelphia, Pennsylvania | $210K–$349K | 2d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5620269654/e/) |
 | Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645802141459614226) |
 | Confidential | 🆕 Chief Technology Officer (CTO) | C-level | Hamilton Township, New Jersey |  | 2d | [Apply](https://www.talent.com/view?id=645596932105964050) |
@@ -1096,8 +1094,8 @@ _974 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | BUTLER COUNTY EDUCATIONAL SERVICE CENTER | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
+| Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | Radiomedix, Inc. | 🆕 Director of Preclinical Operations | Director | Houston, TX, USA |  | 0d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | Mohawk Industries | 🆕 IT Director, Infrastructure & Operations | Director | Dallas, TX, USA |  | 1d | [Apply](https://careers.mohawkind.com/DalTile/job/Dallas-IT-Director%2C-Infrastructure-&-Operations-Texa-75217/1450633600/) |
 | Pacific Seafood | 🆕 Director of Technical Operations | Director | Clackamas, OR, USA |  | 1d | [Apply](https://careers.pacificseafood.com/postings/590094fc-2a29-448f-9145-6a51845a7772?utm_medium=job_board&utm_source=indeed) |
@@ -2057,7 +2055,7 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 | Nium | 🆕 Director Engineering | Director | Malta |  | 1d | [Apply](https://jobs.lever.co/nium/0579465c-e232-4cd9-b647-480a11a0e8f4) ⚡ |
 | PwC | 🆕 IT Audit Controls/SOX - Director | Director | Houston, TX, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/769516WD/IT-Audit-Controls-SOX-Director) |
 | Pennsylvania State University | 🆕 Engineering Services Deputy Director | Director | Penn State University Park |  | 1d | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Services-Deputy-Director_REQ_0000083929-1) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Java Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/java-technical-lead-vice-president/287/103241898448) |
+| Citi (jobs.citi.com) ⭐ | Java Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/java-technical-lead-vice-president/287/103241898448) |
 | Modernizing Medicine, Inc. | Director, Software Regulatory Compliance | Director | Remote - USA |  | 1d | [Apply](https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Remote---USA/Director--Software-Regulatory-Compliance_R5246) |
 | Collectors Universe | Director of Engineering, PSA Japan | Director | 東京, JP |  | 1d | [Apply](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/-JP/Director-of-Engineering--PSA-Japan_JR106956-3) |
 | PwC | 🆕 Deals Accelerated Solutions IT Director | Director | NY-New York |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS767746WDEXTERNALENUS) |
@@ -2285,7 +2283,7 @@ _1022 older roles in this section are in data/roles.json on the `data` branch._
 | Morgan Stanley ⭐ | 🆕 Director, Lead Cybersecurity Engineer | Director | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Director--Lead-Cybersecurity-Engineer_JR036960) |
 | Morgan Stanley ⭐ | 🆕 Vice President, Lead Cybersecurity Engineer | VP | Alpharetta, Georgia, United States of Amer |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Vice-President--Lead-Cybersecurity-Engineer_JR038631-1) |
 | Shutterfly | 🆕 Senior Director, Enterprise Business Systems | Sr. Director | Fort Mill, SC, USA · Remote | $222K–$314K | 1d | [Apply](https://shutterflycareers.ttcportals.com/jobs/18477474-senior-director-enterprise-business-systems?tm_job=2026-2650-OTHLOC-C6eaXfwb&tm_event=view&tm_company=13020) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Non-Functional Testing Manager - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/non-functional-testing-manager-vice-president/287/103241919264) |
+| Citi (jobs.citi.com) ⭐ | Non-Functional Testing Manager - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/non-functional-testing-manager-vice-president/287/103241919264) |
 | Shutterfly | Senior Director, Enterprise Business Systems | Sr. Director | San Jose, CA, USA · Remote | $222K–$314K | 1d | [Apply](https://shutterflycareers.ttcportals.com/jobs/18477468-senior-director-enterprise-business-systems?tm_job=2026-2650&tm_event=view&tm_company=13020) |
 | Intergraph Corporation | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://jobs.womenforhire.com/job/usa/houston-tx/senior-vice-president-global-services-778739/) |
 | Capgemini Invent | frog, Director | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |

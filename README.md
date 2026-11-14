@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,880 open roles** at **1,780 companies** · **157 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 01:20 AM ET
+**4,880 open roles** at **1,780 companies** · **156 new in the last 24 hours** · 5,976 company career sites watched · updated hourly · last update Nov 14, 2026 02:23 AM ET
 
 By level: Director 2507 · VP 932 · Sr. Director 616 · Head 305 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2507 · VP 932 · Sr. Director 616 · Head 305 · EVP/SVP 182
 
 ## Contents
 
-- [🆕 New in the last 24 hours (157)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (156)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (337)](#security-risk-technology)
@@ -48,9 +48,9 @@ By level: Director 2507 · VP 932 · Sr. Director 616 · Head 305 · EVP/SVP 182
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Energy Fuels Resources USA | 🆕 Vice President, Global Information Technology | VP | Lakewood, CO, USA | $175K–$310K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e715f1d4-503d-480f-8910-9c8d566a74ed&ccId=19000101_000001&jobId=566760&source=IN&lang=en_US) |
-| Meta | 🆕 Director, Enterprise Platform | Director | Menlo Park, CA, USA | $242K–$296K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004pn7UAA&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1168031035721735%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dc3196c4f-dfa0-11f1-8ff8-51555dd77ec2%26rx_job%3Da1KiE0000004pn7UAA%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261114T060421Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
-| Information Technology Senior Management Forum | 🆕 Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
 | Information Technology Senior Management Forum | 🆕 Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
+| Information Technology Senior Management Forum | 🆕 Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
+| Meta | 🆕 Director, Enterprise Platform | Director | Menlo Park, CA, USA | $242K–$296K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004pn7UAA&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1168031035721735%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dc3196c4f-dfa0-11f1-8ff8-51555dd77ec2%26rx_job%3Da1KiE0000004pn7UAA%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261114T060421Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | Radiomedix, Inc. | 🆕 Director of Preclinical Operations | Director | Houston, TX, USA |  | 0d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801278) |
 | ADP | 🆕 Chief Architect of AI | C-level | Alpharetta, GA, USA |  | 0d | [Apply](https://click.appcast.io/t/yI27dsU361ZJKmguiJXBjzuzm5C_1apz0hD8XC91wXk=) |
@@ -202,7 +202,6 @@ By level: Director 2507 · VP 932 · Sr. Director 616 · Head 305 · EVP/SVP 182
 | Turnitin, Llc | 🆕 Director, AI Innovation and Transformation (USA Remote) | Director | Dallas, TX, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000161345619-director-ai-innovation-and-transformation-usa-remote-) ⚡ |
 | Phaedon | 🆕 Director / Senior Director, Technology & Referral Partnerships | Sr. Director | Minneapolis, MN, USA | $150K–$200K | 2d | [Apply](https://ats.rippling.com/wearephaedon/jobs/1fe93c85-1e46-40d4-9802-0621adb7b09a?jobSite=Indeed) |
 | Turnitin, Llc | 🆕 Director, AI Innovation and Transformation (USA Remote) | Director | Atlanta, GA, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000161345624-director-ai-innovation-and-transformation-usa-remote-) ⚡ [alt](https://jobs.smartrecruiters.com/TurnitinLLC/744000161345309-director-ai-innovation-and-transformation-usa-remote-) |
-| Ebara Elliott Energy | 🆕 Director, Digital, Data & AI | Director | Jeannette, PA |  | 2d | [Apply](https://elliottgroup.wd5.myworkdayjobs.com/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) [alt](https://elliottgroup.wd5.myworkdayjobs.com/en-US/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) |
 | PwC | 🆕 Fraud Analytics - AI Modeling - Director | Director | NY-New York |  | 3d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773650WDEXTERNALENUS) |
 
 <a name="houston-area"></a>
@@ -879,7 +878,7 @@ _87 older roles in this section are in data/roles.json on the `data` branch._
 | PwC | 🆕 SAP Data Director | Director | GA-Atlanta |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773810WDEXTERNALENUS) |
 | Turnitin, Llc | 🆕 Director, AI Innovation and Transformation (USA Remote) | Director | Dallas, TX, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000161345619-director-ai-innovation-and-transformation-usa-remote-) ⚡ |
 | Turnitin, Llc | 🆕 Director, AI Innovation and Transformation (USA Remote) | Director | Atlanta, GA, us · Remote |  | 2d | [Apply](https://jobs.smartrecruiters.com/TurnitinLLC/744000161345624-director-ai-innovation-and-transformation-usa-remote-) ⚡ [alt](https://jobs.smartrecruiters.com/TurnitinLLC/744000161345309-director-ai-innovation-and-transformation-usa-remote-) |
-| Ebara Elliott Energy | 🆕 Director, Digital, Data & AI | Director | Jeannette, PA |  | 2d | [Apply](https://elliottgroup.wd5.myworkdayjobs.com/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) [alt](https://elliottgroup.wd5.myworkdayjobs.com/en-US/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) |
+| Ebara Elliott Energy | Director, Digital, Data & AI | Director | Jeannette, PA |  | 2d | [Apply](https://elliottgroup.wd5.myworkdayjobs.com/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) [alt](https://elliottgroup.wd5.myworkdayjobs.com/en-US/ElliottCareers/job/Jeannette-PA/Director--Digital--Data---AI_R4086) |
 | Confidential | Vice President, Digital Technology & AI | VP | Oakbrook Terrace, Illinois |  | 2d | [Apply](https://www.talent.com/view?id=645802109346843154) |
 | Confidential | Vice President of Artificial Intelligence | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645583544714598720) |
 | Aircall.io, Inc. | Head of Data (Data Science and Data Engineering) | Head | New York Office +1 | $300K–$350K | 2d | [Apply](https://job-boards.greenhouse.io/aircallioinc/jobs/4487815009) ⚡ |

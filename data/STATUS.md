@@ -1,18 +1,18 @@
 # Collector status
 
-- Last run: 2026-11-14T06:20:47+00:00 UTC, 333s
-- Companies working: 422 of 635
-- New roles last run: 5; roles in feed: 1475
-- Universe (all other known career sites): 5340 boards, 3849 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 447, "senior titles from boards/aggregators": 212}
+- Last run: 2026-11-14T07:23:38+00:00 UTC, 506s
+- Companies working: 411 of 635
+- New roles last run: 0; roles in feed: 1475
+- Universe (all other known career sites): 5340 boards, 3782 checked in the last hour, 68 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
 - Companies with open roles: 1780
-- Skipped (backing off broken sites): 1677; ran out of time: 0
+- Skipped (backing off broken sites): 1700; ran out of time: 0
 
 ## Failing companies
 
 | Company | Failures in a row | Last error |
 |---|---:|---|
-| Anyscale | 28 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
+| Anyscale | 29 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
 | MetLife | 8 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/metlife?mode=json |
 | AES | 6 | HTTP 521 for https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/AES_US/jobs |
 | AIG | 6 | HTTP 521 for https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs |

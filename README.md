@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,889 open roles** at **1,785 companies** · **56 new in the last 24 hours** · 5,980 company career sites watched · updated hourly · last update Nov 14, 2026 04:51 PM ET
+**4,891 open roles** at **1,787 companies** · **58 new in the last 24 hours** · 5,980 company career sites watched · updated hourly · last update Nov 14, 2026 05:34 PM ET
 
-By level: Director 2509 · VP 934 · Sr. Director 620 · Head 306 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
+By level: Director 2511 · VP 934 · Sr. Director 620 · Head 306 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (56)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (58)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (338)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2509 · VP 934 · Sr. Director 620 · Head 306 · EVP/SVP 182
 - [☁️ Cloud & Infrastructure (441)](#cloud-infrastructure)
 - [🏛️ Architecture (134)](#architecture)
 - [🔄 Transformation & Delivery (583)](#transformation-delivery)
-- [🛠️ Engineering & Software (1272)](#engineering-software)
+- [🛠️ Engineering & Software (1274)](#engineering-software)
 - [📌 Other Senior Roles (367)](#other-senior-roles)
 - [🔒 Recently closed (188)](#recently-closed)
 - Daily digests: [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md) · [11-08](data/daily/2026-11-08.md)
@@ -47,6 +47,8 @@ By level: Director 2509 · VP 934 · Sr. Director 620 · Head 306 · EVP/SVP 182
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| NEX Inc. | 🆕 Director of IT | Director | San Jose, CA, USA · Remote | $175K–$250K | 0d | [Apply](https://grnh.se/m9wa6sja8us) |
+| FINANCIAL INFO SVCS AGENCY | 🆕 Director of Technical Services | Director | Manhattan, NY, USA | $94K–$225K | 0d | [Apply](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) |
 | Berkley | 🆕 VP, AI Security | VP | Wilmington, DE, USA |  | 0d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Novolex | 🆕 Director, Data Science | Director | USA | $170K–$220K | 0d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | University of Phoenix | 🆕 Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 0d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
@@ -1920,6 +1922,8 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| NEX Inc. | 🆕 Director of IT | Director | San Jose, CA, USA · Remote | $175K–$250K | 0d | [Apply](https://grnh.se/m9wa6sja8us) |
+| FINANCIAL INFO SVCS AGENCY | 🆕 Director of Technical Services | Director | Manhattan, NY, USA | $94K–$225K | 0d | [Apply](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) |
 | OnTrac | 🆕 VP, Technology | VP | Remote, USA | $228K–$342K | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
 | Energy Fuels Resources USA | 🆕 Vice President, Global Information Technology | VP | Lakewood, CO, USA | $175K–$310K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e715f1d4-503d-480f-8910-9c8d566a74ed&ccId=19000101_000001&jobId=566760&source=IN&lang=en_US) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801278) |
@@ -2168,10 +2172,8 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 | Thomson Reuters ⭐ | Director of Workflow Engineering | Director | United States of America, Eagan, Minnesota +2 |  | 8d | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Director-of-Workflow-Engineering_JREQ198938) |
 | Univision Communications Inc | Technical Director | Director | San Antonio, TX |  | 8d | [Apply](https://univision.wd1.myworkdayjobs.com/External/job/San-Antonio-TX/Technical-Director_R021417) [alt](https://univision.wd1.myworkdayjobs.com/en-US/External/job/San-Antonio-TX/Technical-Director_R021417) |
 | FNBO - First National Bank of Omaha | Director, Technology (Omaha, NE) | Director | Omaha - FN Tower |  | 8d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Technology--Omaha--NE-_R-20261974) |
-| 10Pearls - United States | Director of Software Engineering | Director | Tysons, VA, USA |  | 8d | [Apply](https://grnh.se/f8bc10df5us) |
-| Ilab Llc | Director of Quality Engineering | Director | Indianapolis, IN, USA |  | 8d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/9B1B64445CCEFE55D99DF4452D21AE80/jobs/151909?source=Indeed) |
 
-_1022 older roles in this section are in data/roles.json on the `data` branch._
+_1024 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

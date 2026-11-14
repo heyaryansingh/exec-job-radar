@@ -1,18 +1,18 @@
 # Collector status
 
-- Last run: 2026-11-14T19:00:36+00:00 UTC, 297s
-- Companies working: 594 of 635
-- New roles last run: 0; roles in feed: 1484
-- Universe (all other known career sites): 5343 boards, 3818 checked in the last hour, 2 errors; 1 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1784
-- Skipped (backing off broken sites): 1563; ran out of time: 0
+- Last run: 2026-11-14T20:01:13+00:00 UTC, 331s
+- Companies working: 595 of 635
+- New roles last run: 2; roles in feed: 1486
+- Universe (all other known career sites): 5343 boards, 3818 checked in the last hour, 0 errors; 0 employer names learned; 1 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 432, "senior titles from boards/aggregators": 202}
+- Companies with open roles: 1785
+- Skipped (backing off broken sites): 1564; ran out of time: 0
 
 ## Failing companies
 
 | Company | Failures in a row | Last error |
 |---|---:|---|
-| Anyscale | 29 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
+| Anyscale | 30 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
 | MetLife | 9 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/metlife?mode=json |
 | Abbott | 7 | Expecting value: line 1 column 1 (char 0) |
 | Allstate | 7 | Expecting value: line 1 column 1 (char 0) |
@@ -47,7 +47,6 @@
 | Avnet | 6 | Expecting value: line 1 column 1 (char 0) |
 | Clorox | 6 | Expecting value: line 1 column 1 (char 0) |
 | Devon Energy | 6 | Expecting value: line 1 column 1 (char 0) |
-| Oaktree Capital | 6 | HTTP 521 for https://oaktree.wd1.myworkdayjobs.com/wday/cxs/oaktree/Oaktree/jobs |
 | Onto Innovation | 6 | Expecting value: line 1 column 1 (char 0) |
 | SS&C Technologies | 6 | Expecting value: line 1 column 1 (char 0) |
 | Snap | 6 | Expecting value: line 1 column 1 (char 0) |

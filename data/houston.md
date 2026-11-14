@@ -17,7 +17,7 @@
 | PwC | IT Audit Controls/SOX - Director | Director | Houston, TX, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/769516WD/IT-Audit-Controls-SOX-Director) |
 | Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645802141459614226) |
 | Intergraph Corporation | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://jobs.womenforhire.com/job/usa/houston-tx/senior-vice-president-global-services-778739/) |
-| PwC | 🆕 Digital Grid Modernization Lead, Director | Director | TX-Houston |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773693WDEXTERNALENUS) |
+| PwC | Digital Grid Modernization Lead, Director | Director | TX-Houston |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773693WDEXTERNALENUS) |
 | Capgemini Invent | frog, Director | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
 | Confidential | Executive Vice President, Strategic AI Services | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645793143277099328) |
 | Confidential | Vice President of Artificial Intelligence | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645583544714598720) |

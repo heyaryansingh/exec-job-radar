@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-14T12:09:30+00:00 UTC, 248s
+- Last run: 2026-11-14T13:09:26+00:00 UTC, 243s
 - Companies working: 414 of 635
-- New roles last run: 0; roles in feed: 1478
-- Universe (all other known career sites): 5340 boards, 3815 checked in the last hour, 1 errors; 1 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
+- New roles last run: 1; roles in feed: 1479
+- Universe (all other known career sites): 5340 boards, 3815 checked in the last hour, 2 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 450, "senior titles from boards/aggregators": 209}
 - Companies with open roles: 1782
-- Skipped (backing off broken sites): 1736; ran out of time: 0
+- Skipped (backing off broken sites): 1740; ran out of time: 0
 
 ## Failing companies
 
@@ -14,6 +14,7 @@
 |---|---:|---|
 | Anyscale | 29 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
 | MetLife | 8 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/metlife?mode=json |
+| Johnson Controls | 7 | Expecting value: line 1 column 1 (char 0) |
 | AES | 6 | HTTP 521 for https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/AES_US/jobs |
 | AIG | 6 | HTTP 521 for https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs |
 | Abbott | 6 | HTTP 521 for https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs |
@@ -82,6 +83,7 @@
 | DaVita | 6 | HTTP 521 for https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs |
 | Danaher | 6 | HTTP 521 for https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/DanaherJobs/jobs |
 | DataRobot | 6 | HTTP 521 for https://datarobot.wd1.myworkdayjobs.com/wday/cxs/datarobot/DataRobot_External_Careers/j |
+| Devon Energy | 6 | Expecting value: line 1 column 1 (char 0) |
 | Dexcom | 6 | HTTP 521 for https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/Dexcom/jobs |
 | Dick's Sporting Goods | 6 | HTTP 521 for https://dickssportinggoods.wd1.myworkdayjobs.com/wday/cxs/dickssportinggoods/DSG/jobs |
 | Dimensional Fund Advisors | 6 | HTTP 521 for https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/DFA_Careers/jobs |
@@ -110,7 +112,5 @@
 | Gilead Sciences | 6 | HTTP 521 for https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs |
 | Global Payments | 6 | HTTP 521 for https://global.wd1.myworkdayjobs.com/wday/cxs/global/globalpartnerscareers/jobs |
 | GlobalFoundries | 6 | HTTP 521 for https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs |
-| Goodyear | 6 | HTTP 521 for https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs |
-| Green Dot | 6 | HTTP 521 for https://greendotcorp.wd1.myworkdayjobs.com/wday/cxs/greendotcorp/gdc/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

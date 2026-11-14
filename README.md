@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,855 open roles** at **1,770 companies** · **157 new in the last 24 hours** · 5,971 company career sites watched · updated hourly · last update Nov 13, 2026 08:51 PM ET
+**4,855 open roles** at **1,770 companies** · **153 new in the last 24 hours** · 5,975 company career sites watched · updated hourly · last update Nov 13, 2026 09:51 PM ET
 
 By level: Director 2497 · VP 928 · Sr. Director 614 · Head 303 · EVP/SVP 181 · C-level 165 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2497 · VP 928 · Sr. Director 614 · Head 303 · EVP/SVP 181
 
 ## Contents
 
-- [🆕 New in the last 24 hours (157)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (153)](#new-in-the-last-24-hours)
 - [🤠 Houston area (175)](#houston-area)
 - [👑 Executive Technology Leadership (172)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (333)](#security-risk-technology)
@@ -51,8 +51,8 @@ By level: Director 2497 · VP 928 · Sr. Director 614 · Head 303 · EVP/SVP 181
 | Grid United | 🆕 Senior Director of Development | Sr. Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
 | ABB | 🆕 Head of Cyber Security | Head | Bangalore, Karnataka, India +8 |  | 0d | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Cyber-Security_JR00050298-1) |
 | ABB | 🆕 Head of Quality Engineering | Head | Bangalore, Karnataka, India +7 |  | 0d | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Quality-Engineering_JR00050304-1) |
-| Valitana | 🆕 Head of Corporate Technology | Head | Plano, TX, USA | $250K–$300K | 1d | [Apply](https://valitanallc.applytojob.com/apply/0K7UJWiFVr/Head-Of-Corporate-Technology?source=INDE&~) |
 | Mohawk Industries | 🆕 IT Director, Infrastructure & Operations | Director | Dallas, TX, USA |  | 1d | [Apply](https://careers.mohawkind.com/DalTile/job/Dallas-IT-Director%2C-Infrastructure-&-Operations-Texa-75217/1450633600/) |
+| Valitana | 🆕 Head of Corporate Technology | Head | Plano, TX, USA | $250K–$300K | 1d | [Apply](https://valitanallc.applytojob.com/apply/0K7UJWiFVr/Head-Of-Corporate-Technology?source=INDE&~) |
 | JPMorgan Chase ⭐ | 🆕 Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Capital One ⭐ | 🆕 Director, Data Science (req R1005855) | Director | McLean, VA +4 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Science_R1005855-1) |
 | Dexcom | 🆕 VP SW Development Engineering | VP | Remote - United States |  | 1d | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/VP-SW-Development-Engineering_JR121724-2) |
@@ -174,9 +174,6 @@ By level: Director 2497 · VP 928 · Sr. Director 614 · Head 303 · EVP/SVP 181
 | AstraZeneca | 🆕 Director, Cyber Security Detection Engineering | Director | Gaithersburg, MD, USA | $169K–$254K | 1d | [Apply](https://careers.astrazeneca.com/job/gaithersburg/director-cyber-security-detection-engineering/7684/103224738192) |
 | Hewlett Packard Enterprise / HPE | 🆕 Sr Director, AI/ML | Sr. Director | San Jose, CA, USA | $206K–$440K | 1d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1219014EXTERNALENUS/Sr-Director-AI-ML?utm_source=indeed&utm_medium=phenom-feeds) |
 | Information Technology Senior Management Forum | 🆕 Director Data Center Operations, JoinOCI | Director | San Antonio, TX, USA | $120K–$252K | 1d | [Apply](https://jobs.itsmfleaders.org/job/kehe4e/director-data-center-operations-joinoci/san-antonio/tx) |
-| Alaska Airlines | 🆕 Director, Quality & Reliability Engineering | Director | SeaTac, WA, USA | $198K–$308K | 1d | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/23395/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Compass International Holdings | 🆕 Director of Engineering, Technical Infrastructure | Director | Boston, NY, USA | $275K–$306K | 1d | [Apply](https://www.compass.com/careers?gh_jid=8383795&gh_board=urbancompass) |
-| micro1 | 🆕 Director of Engineering, Internal Platforms | Director | Remote, USA | $280K–$350K | 1d | [Apply](https://jobs.micro1.ai/post/0b2ca270-1e09-4198-9a5a-76c4fb6ec92d) |
 | PwC | 🆕 Deals Accelerated Solutions IT Director | Director | NY-New York |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS767746WDEXTERNALENUS) |
 | PwC | 🆕 Digital Grid Modernization Lead, Director | Director | TX-Houston |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773693WDEXTERNALENUS) |
 | PwC | 🆕 SAP Data Director | Director | GA-Atlanta |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773810WDEXTERNALENUS) |
@@ -200,7 +197,6 @@ By level: Director 2497 · VP 928 · Sr. Director 614 · Head 303 · EVP/SVP 181
 | Wiley | 🆕 Director, Enterprise Cloud Infrastructure & Engineering | Director | Hoboken (HQ), NJ, USA |  | 2d | [Apply](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Director--Enterprise-Cloud-Infrastructure---Engineering_R2601409) |
 | Wiley | 🆕 Director, Enterprise Cloud Infrastructure & Engineering | Director | Hoboken, NJ, USA | $145K–$213K | 2d | [Apply](https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Hoboken-HQ-NJ-USA/Director--Enterprise-Cloud-Infrastructure---Engineering_R2601409) |
 | Johnson Controls | 🆕 Director, Lean Business Systems | Director | York-Pennsylvania-United States of America |  | 2d | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Director--Lean-Business-Systems_WD30283434) |
-| HPE | 🆕 Technical Director, Signal Integrity Engineering | Director | Sunnyvale, California, United States of Am |  | 2d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Signal-Integrity-Engineering-Director_1202676-2) [alt](https://careers.hpe.com/us/en/job/HPE1US1202676EXTERNALENUS) |
 | PwC | 🆕 Fraud Analytics - AI Modeling - Director | Director | NY-New York |  | 3d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773650WDEXTERNALENUS) |
 | Alera Group | 🆕 Senior Vice President of Technology | EVP/SVP | Remote, Oregon |  | 3d | [Apply](https://us.trabajo.org/job-3454-29b0c0de2074230db29c3d0f5db350fa) |
 | Blue Shield of CA | 🆕 VP, Product Security | VP | Houston, Texas | $250K–$360K | 3d | [Apply](https://www.jobleads.com/us/job/vp-product-security--houston--e2cb1ea0dcbf6e93b81840bfcd9e293fd) |
@@ -1099,7 +1095,7 @@ _972 older roles in this section are in data/roles.json on the `data` branch._
 | Manulife | 🆕 VP, GWAM Technology Operations & Platforms | VP | Charlotte, NC, USA |  | 1d | [Apply](https://careers.manulife.com/global/en/job/JR26110387/VP-GWAM-Technology-Operations-Platforms) |
 | Gilead Sciences ⭐ | 🆕 Director, Process Engineering - Head of Internal Operations | Head | United States - California - Foster City +1 |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--Process-Engineering---Head-of-Internal-Operations_R0056538-1) |
 | Plansee Group | 🆕 Head of Production Planning & Logistics | Head | Franklin, MA, USA |  | 1d | [Apply](https://myhr.wd3.myworkdayjobs.com/PlanseeGroup_Career/job/Franklin-MA-USA/Logistics-Manager_JR-12465) |
-| Alaska Airlines | 🆕 Director, Quality & Reliability Engineering | Director | SeaTac, WA, USA | $198K–$308K | 1d | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/23395/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Alaska Airlines | Director, Quality & Reliability Engineering | Director | SeaTac, WA, USA | $198K–$308K | 1d | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/23395/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Fidelity Investments | Director, Site Reliability Engineering | Director | Durham, NC, USA |  | 2d | [Apply](https://jobs.fidelity.com/en/jobs/2137046/director-site-reliability-engineering/) |
 | TEAM | VP, Experiential Ops & Production | VP | USA-NY - Brooklyn (Dumbo) +5 · Remote |  | 2d | [Apply](https://teamwass.wd5.myworkdayjobs.com/wassermancareers/job/USA-NY---Brooklyn-Dumbo/VP--Experiential-Ops---Production_R5468) |
 | Fidelity ⭐ | Director, Site Reliability Engineering | Director | Durham, NC |  | 2d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Site-Reliability-Engineering_2137046-1) |
@@ -1358,8 +1354,8 @@ _95 older roles in this section are in data/roles.json on the `data` branch._
 | Coastal Credit Union | 🆕 VP Tech Infrastructure | VP | Raleigh, NC, USA |  | 1d | [Apply](https://coastal24.applicantpool.com/jobs/1341016-17335.html) |
 | PwC | 🆕 Engineering Director, Google Cloud | Director | Chicago, IL, USA | $155K–$410K | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/773189WD/Engineering-Director-Google-Cloud) |
 | RTX ⭐ | 🆕 Director, Digital Platform & Automation, Hybrid, El Segundo CA | Director | US-CA-EL SEGUNDO-R02 ~ 1970 E Imperial Hwy |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R02--1970-E-Imperial-Hwy--BLDG-R02/Director--Digital-Platform---Automation--Hybrid--El-Segundo-CA_01889416) |
-| Compass International Holdings | 🆕 Director of Engineering, Technical Infrastructure | Director | Boston, NY, USA | $275K–$306K | 1d | [Apply](https://www.compass.com/careers?gh_jid=8383795&gh_board=urbancompass) |
-| micro1 | 🆕 Director of Engineering, Internal Platforms | Director | Remote, USA | $280K–$350K | 1d | [Apply](https://jobs.micro1.ai/post/0b2ca270-1e09-4198-9a5a-76c4fb6ec92d) |
+| Compass International Holdings | Director of Engineering, Technical Infrastructure | Director | Boston, NY, USA | $275K–$306K | 1d | [Apply](https://www.compass.com/careers?gh_jid=8383795&gh_board=urbancompass) |
+| micro1 | Director of Engineering, Internal Platforms | Director | Remote, USA | $280K–$350K | 1d | [Apply](https://jobs.micro1.ai/post/0b2ca270-1e09-4198-9a5a-76c4fb6ec92d) |
 | Wiley | 🆕 Director, Enterprise Cloud Infrastructure & Engineering | Director | Hoboken (HQ), NJ, USA |  | 2d | [Apply](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Director--Enterprise-Cloud-Infrastructure---Engineering_R2601409) |
 | Wiley | 🆕 Director, Enterprise Cloud Infrastructure & Engineering | Director | Hoboken, NJ, USA | $145K–$213K | 2d | [Apply](https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Hoboken-HQ-NJ-USA/Director--Enterprise-Cloud-Infrastructure---Engineering_R2601409) |
 | Aperio Talent Solutions | VP of Platform Engineering | VP | San Francisco, CA, USA | $400K–$500K | 2d | [Apply](https://aperiots.hireclick.com/jb/vp-of-platform-engineering/view/273219?utm_source=Indeed&utm_content=Feed) |
@@ -2054,7 +2050,7 @@ _331 older roles in this section are in data/roles.json on the `data` branch._
 | PwC | 🆕 Deals Accelerated Solutions IT Director | Director | NY-New York |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS767746WDEXTERNALENUS) |
 | Phaedon | 🆕 Director / Senior Director, Technology & Referral Partnerships | Sr. Director | Minneapolis, MN, USA | $150K–$200K | 2d | [Apply](https://ats.rippling.com/wearephaedon/jobs/1fe93c85-1e46-40d4-9802-0621adb7b09a?jobSite=Indeed) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Sioux Falls, South Dakota |  | 2d | [Apply](https://www.talent.com/view?id=645583502245435712) |
-| HPE | 🆕 Technical Director, Signal Integrity Engineering | Director | Sunnyvale, California, United States of Am |  | 2d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Signal-Integrity-Engineering-Director_1202676-2) [alt](https://careers.hpe.com/us/en/job/HPE1US1202676EXTERNALENUS) |
+| HPE | Technical Director, Signal Integrity Engineering | Director | Sunnyvale, California, United States of Am |  | 2d | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Signal-Integrity-Engineering-Director_1202676-2) [alt](https://careers.hpe.com/us/en/job/HPE1US1202676EXTERNALENUS) |
 | Illumina | Director, Software Technical Product Management - IVD / SaMD | Director | US - California - San Diego | $205K–$308K | 2d | [Apply](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Director--Software-Technical-Product-Management---IVD---SaMD_43903-JOB) |
 | FIS | SVP, Head of Capital Markets Product Engineering | EVP/SVP | Jacksonville, FL, USA |  | 2d | [Apply](https://careers.fisglobal.com/us/en/job/FIGLUSJR0311078EXTERNAL/SVP-Head-of-Capital-Markets-Product-Engineering?utm_source=indeed&utm_medium=phenom-feeds) |
 | REACHX | Associate / Vice President, Technology & Telecom M&A and Corporate Finance | VP | Remote, USA |  | 2d | [Apply](https://www.indeed.com/viewjob?jk=8255b77887e4fb38) |

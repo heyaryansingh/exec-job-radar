@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,913 open roles** at **1,801 companies** · **23 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 05:58 PM ET
+**4,912 open roles** at **1,801 companies** · **23 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 06:07 PM ET
 
-By level: Director 2520 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2520 · VP 938 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,14 +31,14 @@ By level: Director 2520 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
-- [🧠 Data & AI (1230)](#data-ai)
+- [🧠 Data & AI (1229)](#data-ai)
 - [🚦 Reliability & Operations (348)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (441)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
 - [🛠️ Engineering & Software (1285)](#engineering-software)
 - [📌 Other Senior Roles (369)](#other-senior-roles)
-- [🔒 Recently closed (190)](#recently-closed)
+- [🔒 Recently closed (191)](#recently-closed)
 - Daily digests: [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -967,7 +967,7 @@ _92 older roles in this section are in data/roles.json on the `data` branch._
 | ICW Group | Director, Applied AI Engineering | Director | San Diego, CA, USA | $161K–$288K | 9d | [Apply](https://rr.jobsyn.org/4F3EE07CD3E049EAAA69A69EA204A2DE1554) |
 | Hewlett Packard Enterprise / HPE | Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, CA, USA | $197K–$420K | 9d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS/Director-Product-Manager-Cloud-Infrastructure-and-AI-Networking?utm_source=indeed&utm_medium=phenom-feeds) |
 
-_980 older roles in this section are in data/roles.json on the `data` branch._
+_979 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2414,6 +2414,7 @@ _119 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Product Manager, Merchant Insights AI Transformation-Payments-Vice President | VP | New York, NY, United States |  | 17d | Closed |
 | Workday ⭐ | 🔒 Director, Client Platform Engineering | Director | USA, CA, Pleasanton |  | 39d | Closed |
 | ACT1 Federal | 🔒 Director of Supplier Development and Production Acceleration | Director | Arlington, VA | $180K–$200K | 25d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Technical Implementation Manager Vice President | VP | Plano, TX, United States |  | 27d | Closed |

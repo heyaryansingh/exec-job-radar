@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,912 open roles** at **1,798 companies** · **24 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 12:50 PM ET
+**4,912 open roles** at **1,798 companies** · **22 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 01:12 PM ET
 
 By level: Director 2517 · VP 940 · Sr. Director 624 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2517 · VP 940 · Sr. Director 624 · Head 307 · EVP/SVP 185
 
 ## Contents
 
-- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (22)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (339)](#security-risk-technology)
@@ -47,7 +47,7 @@ By level: Director 2517 · VP 940 · Sr. Director 624 · Head 307 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, OR, USA |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
+| Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, Oregon, United States of America |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) [alt](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | TAIT | 🆕 VP, Event Production & Project Delivery | VP | Lititz, PA, USA |  | 1d | [Apply](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 1d | [Apply](https://www.talent.com/view?id=646037297763195200) |
@@ -59,8 +59,6 @@ By level: Director 2517 · VP 940 · Sr. Director 624 · Head 307 · EVP/SVP 185
 | NEX Inc. | 🆕 Director of IT | Director | San Jose, CA, USA · Remote | $175K–$250K | 1d | [Apply](https://grnh.se/m9wa6sja8us) |
 | Berkley | 🆕 VP, AI Security | VP | Wilmington, DE, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Novolex | 🆕 Director, Data Science | Director | USA | $170K–$220K | 1d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| University of Phoenix | 🆕 Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 1d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
-| Pfizer ⭐ | 🆕 Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | Confidential | 🆕 Vice President of Information Technology Architecture | VP | Germantown, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=645906740781260808) |
 | Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645907245547067712) |
 | Confidential | 🆕 Managing Director, Chief Technology Officers Practice, Retained Search | C-level | Philadelphia, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=645907278523865408) |
@@ -718,8 +716,8 @@ _89 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Novolex | 🆕 Director, Data Science | Director | USA | $170K–$220K | 1d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| University of Phoenix | 🆕 Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 1d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
-| Pfizer ⭐ | 🆕 Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
+| University of Phoenix | Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 1d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
+| Pfizer ⭐ | Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | Ascot Group | Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 1d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | Information Technology Senior Management Forum | Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
 | Bitdeer Technologies Group | Senior Director, Interconnection & Network (AI Datacenter) | Sr. Director | Austin, TX, USA |  | 1d | [Apply](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter?source=indeed) [alt](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter) |
@@ -2154,7 +2152,7 @@ _1036 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, OR, USA |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
+| Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, Oregon, United States of America |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) [alt](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Piper Aircraft Inc | Director, Information Services | Director | Vero Beach, FL, USA |  | 1d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Information Technology Senior Management Forum | Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
 | Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |

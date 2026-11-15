@@ -1,13 +1,17 @@
 # 🤠 Senior technology roles in the Houston area
 
-180 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+185 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Confidential | 🆕 Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646031117181526024) |
 | Radiomedix, Inc. | 🆕 Director of Preclinical Operations | Director | Houston, TX, USA |  | 1d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
 | Grid United | Senior Director of Development | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
-| Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
+| NEQ Operating | 🆕 Director, Information Technology - Houston, TX | Director | Houston, Texas |  | 2d | [Apply](https://www.monster.com/job-openings/director-information-technology-houston-tx-houston-tx--64ece266-f86e-48cd-9572-a1f2143f2c50) |
+| Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645907245547067712) |
+| Protégé Hunters | 🆕 Strategic IT VP: ERP & Sage Leader | VP | Houston, Texas | $170K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/management_and_managerial/5629592918/e/) |
+| Capgemini | frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
 | JPMorgan Chase ⭐ | Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Huntington Bank | Managing Director Project Finance and Infrastructure | MD | Atlanta, GA +3 | $125K–$275K | 2d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Managing-Director-Project-Finance-and-Infrastructure_R0077712-1) |
 | The Aerospace Corporation | Moonbase and Surface Systems Principal Director | Director | Houston, TX +1 |  | 2d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Houston-TX/Moonbase-and-Surface-Systems-Principal-Director_R017015) |
@@ -15,8 +19,9 @@
 | Phillips 66 | Senior Director, VCO/Plan AI Platform Strategy & Integration | Sr. Director | Houston, TX, USA | $173K–$315K | 2d | [Apply](https://careers.phillips66.com/job/Houston-Senior-Director%2C-VCOPlan-AI-Platform-Strategy-&-Integration-TX-77042/1450325300/) |
 | PwC | Digital Grid Modernization Lead, Director | Director | Houston, TX, USA | $155K–$410K | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/773693WD/Digital-Grid-Modernization-Lead-Director) |
 | PwC | IT Audit Controls/SOX - Director | Director | Houston, TX, USA | $155K–$410K | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/769516WD/IT-Audit-Controls-SOX-Director) |
-| Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645802141459614226) |
-| Intergraph Corporation | 🆕 Senior Vice President, Global Services | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://jobs.womenforhire.com/job/usa/houston-tx/senior-vice-president-global-services-778739/) |
+| Applicantz | 🆕 Client Engagement Director – Enterprise Retail Technology | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/client-engagement-director-%E2%80%93-enterprise-retail-technology-at-applicantz-4490363906) |
+| Confidential | Chief Technology & AI Officer | C-level | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645802141459614226) |
+| Intergraph Corporation | Senior Vice President, Global Services | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://jobs.womenforhire.com/job/usa/houston-tx/senior-vice-president-global-services-778739/) |
 | PwC | Digital Grid Modernization Lead, Director | Director | TX-Houston |  | 3d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773693WDEXTERNALENUS) |
 | Capgemini Invent | frog, Director | Director | Houston, Texas | $180K–$270K | 3d | [Apply](https://us.trabajo.org/job-4112-817265dda5f04894a4f25f7aaf50744a) |
 | Confidential | Executive Vice President, Strategic AI Services | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645793143277099328) |

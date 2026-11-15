@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,911 open roles** at **1,799 companies** · **21 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 03:12 PM ET
+**4,911 open roles** at **1,799 companies** · **23 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 04:02 PM ET
 
 By level: Director 2518 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
@@ -27,18 +27,18 @@ By level: Director 2518 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185
 
 ## Contents
 
-- [🆕 New in the last 24 hours (21)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (23)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (339)](#security-risk-technology)
-- [🧠 Data & AI (1229)](#data-ai)
-- [🚦 Reliability & Operations (349)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (442)](#cloud-infrastructure)
+- [🛡️ Security & Risk Technology (340)](#security-risk-technology)
+- [🧠 Data & AI (1230)](#data-ai)
+- [🚦 Reliability & Operations (348)](#reliability-operations)
+- [☁️ Cloud & Infrastructure (441)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
 - [🛠️ Engineering & Software (1285)](#engineering-software)
 - [📌 Other Senior Roles (369)](#other-senior-roles)
-- [🔒 Recently closed (188)](#recently-closed)
+- [🔒 Recently closed (190)](#recently-closed)
 - Daily digests: [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,6 +47,7 @@ By level: Director 2518 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Titan | 🆕 Director of Security Operations & Detection Engineering, RFA | Director | Remote (US) |  | 0d | [Apply](https://jobs.ashbyhq.com/titan-msp/7fb27818-be9d-4a94-8416-f62a093cb1ce) ⚡ |
 | Fairbanks Morse Defense | 🆕 Technical Director - American Fan | Director | Fairfield, OH, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, Oregon, United States of America |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) [alt](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -58,6 +59,7 @@ By level: Director 2518 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185
 | Digi-Key Electronics | 🆕 Senior Director, Information Technology Fulfillment Systems | Sr. Director | Thief River Falls, MN |  | 1d | [Apply](https://digikey.wd5.myworkdayjobs.com/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) [alt](https://digikey.wd5.myworkdayjobs.com/en-US/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) |
 | FINANCIAL INFO SVCS AGENCY | 🆕 Director of Technical Services | Director | Manhattan, NY, USA | $94K–$225K | 1d | [Apply](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) |
 | NEX Inc. | 🆕 Director of IT | Director | San Jose, CA, USA · Remote | $175K–$250K | 1d | [Apply](https://grnh.se/m9wa6sja8us) |
+| Wade Trim | 🆕 Client Services Director - Data Centers & Site Development | Director | Pittsburgh, PA |  | 2d | [Apply](https://jobs.lever.co/wadetrim/3f81a654-d4e3-48fa-ad01-9d14acb728e9) ⚡ |
 | Confidential | 🆕 Vice President of Information Technology Architecture | VP | Germantown, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=645906740781260808) |
 | Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645907245547067712) |
 | Confidential | 🆕 Managing Director, Chief Technology Officers Practice, Retained Search | C-level | Philadelphia, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=645907278523865408) |
@@ -455,6 +457,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Titan | 🆕 Director of Security Operations & Detection Engineering, RFA | Director | Remote (US) |  | 0d | [Apply](https://jobs.ashbyhq.com/titan-msp/7fb27818-be9d-4a94-8416-f62a093cb1ce) ⚡ |
 | Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Berkley | VP, AI Security | VP | Wilmington, DE, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Leidos | Cyber Command Senior Director | Sr. Director | Odenton, MD, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18482682-cyber-command-senior-director?tm_job=R-00197008&tm_event=view&tm_company=2502) |
@@ -704,9 +707,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | Vice President - Tech/Cyber/AI Sr Risk Officer - Hybrid | VP | Tampa, FL, US |  | 27d | [Apply](https://jobs.citi.com/job/tampa/vice-president-tech-cyber-ai-sr-risk-officer-hybrid/287/102161063872) |
 | TikTok USDS JV | Head of Enterprise Security Engineering | Head | San Jose, CA, USA | $257K–$616K | 27d | [Apply](https://careers.tiktokusds.com/usds/position/7697324327176472837/detail) |
 | Bluebird Fiber | Director, IT Security | Director | Kansas City, MO, USA |  | 27d | [Apply](https://secure6.saashr.com/ta/6174972.careers?ShowJob=722102404) |
-| TikTok USDS JV | Head of Enterprise Security Engineering | Head | Washington, DC, USA | $232K–$554K | 27d | [Apply](https://careers.tiktokusds.com/usds/position/7697320918814198021/detail) |
 
-_89 older roles in this section are in data/roles.json on the `data` branch._
+_90 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -720,6 +722,7 @@ _89 older roles in this section are in data/roles.json on the `data` branch._
 | Ascot Group | Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 1d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | Information Technology Senior Management Forum | Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
 | Bitdeer Technologies Group | Senior Director, Interconnection & Network (AI Datacenter) | Sr. Director | Austin, TX, USA |  | 1d | [Apply](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter?source=indeed) [alt](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter) |
+| Wade Trim | 🆕 Client Services Director - Data Centers & Site Development | Director | Pittsburgh, PA |  | 2d | [Apply](https://jobs.lever.co/wadetrim/3f81a654-d4e3-48fa-ad01-9d14acb728e9) ⚡ |
 | Trace3 | Director, Digital Consulting / AI Transformation | Director | Irvine, CA, USA · Remote | $190K–$230K | 2d | [Apply](https://grnh.se/vt247xhh1us) |
 | Colorado Access | Vice President of Data & Technology | VP | Remote |  | 2d | [Apply](https://jobmine.himss.org/job/vice-president-of-data-technology/86974695/) |
 | Capital One ⭐ | Director, Data Science (req R1005855) | Director | McLean, VA +4 | $294K–$335K | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Science_R1005855-1) |
@@ -963,9 +966,8 @@ _89 older roles in this section are in data/roles.json on the `data` branch._
 | Compass Group USA | Vice President, Data Center Technology | VP | Charlotte, NC, USA |  | 9d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/44dbeadd82458b7689f951ca2fe4aae4f4d2179d48e0868d9c7b436a/) |
 | ICW Group | Director, Applied AI Engineering | Director | San Diego, CA, USA | $161K–$288K | 9d | [Apply](https://rr.jobsyn.org/4F3EE07CD3E049EAAA69A69EA204A2DE1554) |
 | Hewlett Packard Enterprise / HPE | Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, CA, USA | $197K–$420K | 9d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS/Director-Product-Manager-Cloud-Infrastructure-and-AI-Networking?utm_source=indeed&utm_medium=phenom-feeds) |
-| Experian | Vice President, Data Governance | VP | United States, UNITED STATES, us |  | 9d | [Apply](https://jobs.smartrecruiters.com/Experian/744000159995328-vice-president-data-governance) ⚡ |
 
-_979 older roles in this section are in data/roles.json on the `data` branch._
+_980 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1222,9 +1224,9 @@ _979 older roles in this section are in data/roles.json on the `data` branch._
 | Avav | Director, Planning and Production Control | Director | Simi Valley, CA | $163K–$261K | 25d | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Director--Planning-and-Production-Control_9155) |
 | CVS Health (Phenom) ⭐ | Director, Digital Strategy & Operations | Director | Work At Home, Boston, Massachusetts,United |  | 25d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1059632EXTERNALENUS) |
 | BNY ⭐ | Director, Production Services Infrastructure Support | Director | United States |  | 25d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82690) |
-| ACT1 Federal | Director of Supplier Development and Production Acceleration | Director | Arlington, VA | $180K–$200K | 25d | [Apply](https://job-boards.greenhouse.io/act1federal/jobs/4462770009) ⚡ |
+| Citi (jobs.citi.com) ⭐ | Production Support Manager – Senior Vice President | EVP/SVP | Tampa, FL, US |  | 25d | [Apply](https://jobs.citi.com/job/tampa/production-support-manager-senior-vice-president/287/102224908048) |
 
-_99 older roles in this section are in data/roles.json on the `data` branch._
+_98 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1483,7 +1485,7 @@ _99 older roles in this section are in data/roles.json on the `data` branch._
 | Oracle | Director, Platform Software Engineering (req 348718) | Director | United States | $131K–$306K | 23d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348718) |
 | Capgemini | Senior Infrastructure Program Director | Director | Troy, MI, USA | $167K–$261K | 23d | [Apply](https://capgemini.talentnet.community/jobs/4b84bb37-9c0e-4451-9b4d-d02797587f57) |
 
-_192 older roles in this section are in data/roles.json on the `data` branch._
+_191 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2412,6 +2414,8 @@ _119 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Workday ⭐ | 🔒 Director, Client Platform Engineering | Director | USA, CA, Pleasanton |  | 39d | Closed |
+| ACT1 Federal | 🔒 Director of Supplier Development and Production Acceleration | Director | Arlington, VA | $180K–$200K | 25d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Technical Implementation Manager Vice President | VP | Plano, TX, United States |  | 27d | Closed |
 | Oracle | 🔒 Senior Director, Application Software Engineering | Sr. Director | United States | $150K–$355K | 12d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Network Core Infrastructure Operations | Director | CA - Work from home · Remote |  | 24d | Closed |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,896 open roles** at **1,792 companies** · **41 new in the last 24 hours** · 5,990 company career sites watched · updated hourly · last update Nov 14, 2026 10:41 PM ET
+**4,896 open roles** at **1,792 companies** · **33 new in the last 24 hours** · 5,990 company career sites watched · updated hourly · last update Nov 14, 2026 11:41 PM ET
 
 By level: Director 2515 · VP 934 · Sr. Director 621 · Head 306 · EVP/SVP 182 · C-level 171 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2515 · VP 934 · Sr. Director 621 · Head 306 · EVP/SVP 182
 
 ## Contents
 
-- [🆕 New in the last 24 hours (41)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
 - [🤠 Houston area (180)](#houston-area)
 - [👑 Executive Technology Leadership (178)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (338)](#security-risk-technology)
@@ -67,20 +67,12 @@ By level: Director 2515 · VP 934 · Sr. Director 621 · Head 306 · EVP/SVP 182
 | Meta | 🆕 Director, Enterprise Platform | Director | Menlo Park, CA, USA | $242K–$296K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004pn7UAA&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1168031035721735%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dc3196c4f-dfa0-11f1-8ff8-51555dd77ec2%26rx_job%3Da1KiE0000004pn7UAA%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261114T060421Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | Radiomedix, Inc. | 🆕 Director of Preclinical Operations | Director | Houston, TX, USA |  | 1d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801278) |
-| ADP | 🆕 Chief Architect of AI | C-level | Alpharetta, GA, USA |  | 1d | [Apply](https://click.appcast.io/t/yI27dsU361ZJKmguiJXBjzuzm5C_1apz0hD8XC91wXk=) |
-| Cherokee Indian Hospital Authority | 🆕 Director of Engineering | Director | Cherokee, NC, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=35181078-7625-4896-8392-e587ad17e121&ccId=19000101_000001&jobId=971143&source=IN&lang=en_US) |
-| Grid United | 🆕 Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
-| Leidos | 🆕 Cyber Command Senior Director | Sr. Director | Odenton, MD, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18482682-cyber-command-senior-director?tm_job=R-00197008&tm_event=view&tm_company=2502) |
-| Trumid Financial | 🆕 Chief Technology Officer | C-level | New York, NY, USA | $280K–$360K | 1d | [Apply](https://www.indeed.com/viewjob?jk=49d932c485c3664c) |
-| YMCA of the North | 🆕 Vice President, Information Technology (IT) and Security | VP | Minneapolis, MN, USA | $150K–$200K | 1d | [Apply](https://secure4.saashr.com/ta/6014683.careers?ShowJob=1074008385) |
 | 8x8 | 🆕 Director, Site Reliability Engineering | Director | US-Remote |  | 2d | [Apply](https://8x8inc.wd5.myworkdayjobs.com/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) [alt](https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) |
 | Trace3 | 🆕 Director, Digital Consulting / AI Transformation | Director | Irvine, CA, USA · Remote | $190K–$230K | 2d | [Apply](https://grnh.se/vt247xhh1us) |
 | Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
 | Colorado Access | 🆕 Vice President of Data & Technology | VP | Remote |  | 2d | [Apply](https://jobmine.himss.org/job/vice-president-of-data-technology/86974695/) |
 | Confidential | 🆕 Chief Data Officer (CDO), Enterprise Data Platform | C-level | New York, New York |  | 2d | [Apply](https://www.talent.com/view?id=645908796892056082) |
 | Linxon | 🆕 Head of Training Competency Certification, Energy and Infrastructure Projects (Raleigh, NC) | Head | US.NC.Raleigh.940 Main Campus Drive | $136K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Head-of-Training-Competency-Certification--Energy-and-Infrastructure-Projects--Raleigh--NC-_R-171738-1) |
-| Linxon | 🆕 Head of Quality, Americas, Energy and Infrastructure Projects (Raleigh, NC) | Head | US.NC.Raleigh.940 Main Campus Drive | $136K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Head-of-Quality--Americas--Energy-and-Infrastructure-Projects--Raleigh--NC-_R-171737-1) |
-| Endor Labs | 🆕 Director of Engineering | Director | Palo Alto, CA |  | 2d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4752777005) ⚡ |
 | Cigna Health and Life Insurance Company | 🆕 Chief Technology Officer, Corporate Functions | C-level | Philadelphia, Pennsylvania | $210K–$349K | 3d | [Apply](https://www.learn4good.com/jobs/philadelphia/pennsylvania/info_technology/5620269654/e/) |
 | Confidential | 🆕 Chief Technology & AI Officer | C-level | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645802141459614226) |
 | Confidential | 🆕 Chief Technology Officer (CTO) | C-level | Hamilton Township, New Jersey |  | 3d | [Apply](https://www.talent.com/view?id=645596932105964050) |
@@ -98,7 +90,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Radiomedix, Inc. | 🆕 Director of Preclinical Operations | Director | Houston, TX, USA |  | 1d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
-| Grid United | 🆕 Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
+| Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
 | Grid United | Senior Director of Development | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
 | Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
 | JPMorgan Chase ⭐ | Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
@@ -284,8 +276,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| ADP | 🆕 Chief Architect of AI | C-level | Alpharetta, GA, USA |  | 1d | [Apply](https://click.appcast.io/t/yI27dsU361ZJKmguiJXBjzuzm5C_1apz0hD8XC91wXk=) |
-| Trumid Financial | 🆕 Chief Technology Officer | C-level | New York, NY, USA | $280K–$360K | 1d | [Apply](https://www.indeed.com/viewjob?jk=49d932c485c3664c) |
+| ADP | Chief Architect of AI | C-level | Alpharetta, GA, USA |  | 1d | [Apply](https://click.appcast.io/t/yI27dsU361ZJKmguiJXBjzuzm5C_1apz0hD8XC91wXk=) |
+| Trumid Financial | Chief Technology Officer | C-level | New York, NY, USA | $280K–$360K | 1d | [Apply](https://www.indeed.com/viewjob?jk=49d932c485c3664c) |
 | Confidential | 🆕 Chief Data Officer (CDO), Enterprise Data Platform | C-level | New York, New York |  | 2d | [Apply](https://www.talent.com/view?id=645908796892056082) |
 | Loop Dynamics | Chief Technology Officer (CTO) | C-level | Oxford, MS, USA | $180K–$240K | 2d | [Apply](https://www.indeed.com/viewjob?jk=fd0a52b4b9bfc801) |
 | Titan | Chief Information Security Officer (CISO), RFA | C-level | Remote (US) |  | 2d | [Apply](https://jobs.ashbyhq.com/titan-msp/77bdebc5-73cf-45ca-9ced-945aba617a16) ⚡ |
@@ -470,8 +462,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Berkley | 🆕 VP, AI Security | VP | Wilmington, DE, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Leidos | 🆕 Cyber Command Senior Director | Sr. Director | Odenton, MD, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18482682-cyber-command-senior-director?tm_job=R-00197008&tm_event=view&tm_company=2502) |
-| YMCA of the North | 🆕 Vice President, Information Technology (IT) and Security | VP | Minneapolis, MN, USA | $150K–$200K | 1d | [Apply](https://secure4.saashr.com/ta/6014683.careers?ShowJob=1074008385) |
+| Leidos | Cyber Command Senior Director | Sr. Director | Odenton, MD, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18482682-cyber-command-senior-director?tm_job=R-00197008&tm_event=view&tm_company=2502) |
+| YMCA of the North | Vice President, Information Technology (IT) and Security | VP | Minneapolis, MN, USA | $150K–$200K | 1d | [Apply](https://secure4.saashr.com/ta/6014683.careers?ShowJob=1074008385) |
 | ABB | Head of Cyber Security | Head | Bangalore, Karnataka, India +8 |  | 1d | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Cyber-Security_JR00050298-1) |
 | Radian Group Inc. | Application Security Director | Director | Wayne, Pennsylvania, United States of Amer |  | 2d | [Apply](https://careers.radian.com/us/en/job/RADIUSR20260097EXTERNALENUS) |
 | JJ General Contractor | Director, Security Engineering & Architecture | Director | Irving, TX, USA | $160K–$210K | 2d | [Apply](https://www.indeed.com/viewjob?jk=99cb41e9e6957fa8) |
@@ -1248,7 +1240,7 @@ _98 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Meta | 🆕 Director, Enterprise Platform | Director | Menlo Park, CA, USA | $242K–$296K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004pn7UAA&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1168031035721735%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dc3196c4f-dfa0-11f1-8ff8-51555dd77ec2%26rx_job%3Da1KiE0000004pn7UAA%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261114T060421Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | Linxon | 🆕 Head of Training Competency Certification, Energy and Infrastructure Projects (Raleigh, NC) | Head | US.NC.Raleigh.940 Main Campus Drive | $136K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Head-of-Training-Competency-Certification--Energy-and-Infrastructure-Projects--Raleigh--NC-_R-171738-1) |
-| Linxon | 🆕 Head of Quality, Americas, Energy and Infrastructure Projects (Raleigh, NC) | Head | US.NC.Raleigh.940 Main Campus Drive | $136K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Head-of-Quality--Americas--Energy-and-Infrastructure-Projects--Raleigh--NC-_R-171737-1) |
+| Linxon | Head of Quality, Americas, Energy and Infrastructure Projects (Raleigh, NC) | Head | US.NC.Raleigh.940 Main Campus Drive | $136K–$261K | 2d | [Apply](https://slihrms.wd3.myworkdayjobs.com/Linxon/job/USNCRaleigh940-Main-Campus-Drive/Head-of-Quality--Americas--Energy-and-Infrastructure-Projects--Raleigh--NC-_R-171737-1) |
 | Huntington Bank | Managing Director Project Finance and Infrastructure | MD | Atlanta, GA +3 | $125K–$275K | 2d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Managing-Director-Project-Finance-and-Infrastructure_R0077712-1) |
 | Boston Dynamics | Director of Atlas Hardware Platform Engineering | Director | Waltham, MA | $229K–$306K | 2d | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Director-of-Atlas-Hardware-Platform-Engineering_R3382) |
 | Oracle | Senior Director, Network Development | Sr. Director | Nashville, TN, United States | $170K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/343977) |
@@ -1913,10 +1905,10 @@ _333 older roles in this section are in data/roles.json on the `data` branch._
 | OnTrac | 🆕 VP, Technology | VP | Remote, USA | $228K–$342K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
 | Energy Fuels Resources USA | 🆕 Vice President, Global Information Technology | VP | Lakewood, CO, USA | $175K–$310K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e715f1d4-503d-480f-8910-9c8d566a74ed&ccId=19000101_000001&jobId=566760&source=IN&lang=en_US) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering | Director | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801278) |
-| Cherokee Indian Hospital Authority | 🆕 Director of Engineering | Director | Cherokee, NC, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=35181078-7625-4896-8392-e587ad17e121&ccId=19000101_000001&jobId=971143&source=IN&lang=en_US) |
+| Cherokee Indian Hospital Authority | Director of Engineering | Director | Cherokee, NC, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=35181078-7625-4896-8392-e587ad17e121&ccId=19000101_000001&jobId=971143&source=IN&lang=en_US) |
 | Grid United | Senior Director of Development | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
 | ABB | Head of Quality Engineering | Head | Bangalore, Karnataka, India +7 |  | 1d | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Quality-Engineering_JR00050304-1) |
-| Endor Labs | 🆕 Director of Engineering | Director | Palo Alto, CA |  | 2d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4752777005) ⚡ |
+| Endor Labs | Director of Engineering | Director | Palo Alto, CA |  | 2d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4752777005) ⚡ |
 | Valitana | Head of Corporate Technology | Head | Plano, TX, USA | $250K–$300K | 2d | [Apply](https://valitanallc.applytojob.com/apply/0K7UJWiFVr/Head-Of-Corporate-Technology?source=INDE&~) |
 | JPMorgan Chase ⭐ | Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Dexcom | VP SW Development Engineering | VP | Remote - United States |  | 2d | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/VP-SW-Development-Engineering_JR121724-2) |
@@ -2166,7 +2158,7 @@ _1028 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Piper Aircraft Inc | 🆕 Director, Information Services | Director | Vero Beach, FL, USA |  | 1d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Information Technology Senior Management Forum | 🆕 Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
-| Grid United | 🆕 Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
+| Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
 | Meso Scale Diagnostics | Senior Vice President, Commercial Business Systems | EVP/SVP | Boston, MA, USA · Remote | $244K–$451K | 2d | [Apply](https://recruiting.ultipro.com/MES1002MESSD/JobBoard/888390fa-f9e8-4b6f-9977-7e3a214369f0/OpportunityDetail?opportunityId=b379acb5-1fb5-4f42-8130-b2395bdbd879&postingId=6cfcbab5-0cd4-423b-abac-d43087eae61a) |
 | New York Life | CORPORATE VICE PRESIDENT | VP | New York, NY, USA · Remote | $270K | 2d | [Apply](https://careers.newyorklife.com/careers/job/45458578) |
 | The Aerospace Corporation | Moonbase and Surface Systems Principal Director | Director | Houston, TX +1 |  | 2d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Houston-TX/Moonbase-and-Surface-Systems-Principal-Director_R017015) |

@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-14T23:51:49+00:00 UTC, 353s
-- Companies working: 595 of 635
-- New roles last run: 0; roles in feed: 1488
-- Universe (all other known career sites): 5348 boards, 3823 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1787
-- Skipped (backing off broken sites): 1565; ran out of time: 0
+- Last run: 2026-11-15T00:50:52+00:00 UTC, 298s
+- Companies working: 601 of 635
+- New roles last run: 3; roles in feed: 1327
+- Universe (all other known career sites): 5348 boards, 3823 checked in the last hour, 0 errors; 0 employer names learned; 3 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 350, "senior titles from boards/aggregators": 137}
+- Companies with open roles: 1790
+- Skipped (backing off broken sites): 1559; ran out of time: 0
 
 ## Failing companies
 
@@ -44,13 +44,7 @@
 | Target | 7 | Expecting value: line 1 column 1 (char 0) |
 | Travelers | 7 | Expecting value: line 1 column 1 (char 0) |
 | Workday | 7 | Expecting value: line 1 column 1 (char 0) |
-| Avnet | 6 | Expecting value: line 1 column 1 (char 0) |
-| Clorox | 6 | Expecting value: line 1 column 1 (char 0) |
 | Devon Energy | 6 | Expecting value: line 1 column 1 (char 0) |
-| Onto Innovation | 6 | Expecting value: line 1 column 1 (char 0) |
-| SS&C Technologies | 6 | Expecting value: line 1 column 1 (char 0) |
-| Snap | 6 | Expecting value: line 1 column 1 (char 0) |
 | Sysco Corporation | 6 | Expecting value: line 1 column 1 (char 0) |
-| Wells Fargo | 6 | Expecting value: line 1 column 1 (char 0) |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

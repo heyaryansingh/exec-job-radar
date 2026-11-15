@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,910 open roles** at **1,796 companies** · **26 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 07:21 AM ET
+**4,910 open roles** at **1,796 companies** · **25 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 08:22 AM ET
 
 By level: Director 2517 · VP 940 · Sr. Director 622 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
@@ -27,7 +27,7 @@ By level: Director 2517 · VP 940 · Sr. Director 622 · Head 307 · EVP/SVP 185
 
 ## Contents
 
-- [🆕 New in the last 24 hours (26)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (25)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (339)](#security-risk-technology)
@@ -71,7 +71,6 @@ By level: Director 2517 · VP 940 · Sr. Director 622 · Head 307 · EVP/SVP 185
 | NEQ Operating | 🆕 Director, Information Technology - Houston, TX | Director | Houston, Texas |  | 2d | [Apply](https://www.monster.com/job-openings/director-information-technology-houston-tx-houston-tx--64ece266-f86e-48cd-9572-a1f2143f2c50) |
 | Protégé Hunters | 🆕 Strategic IT VP: ERP & Sage Leader | VP | Houston, Texas | $170K–$230K | 2d | [Apply](https://www.learn4good.com/jobs/houston/texas/management_and_managerial/5629592918/e/) |
 | 8x8 | 🆕 Director, Site Reliability Engineering | Director | US-Remote |  | 2d | [Apply](https://8x8inc.wd5.myworkdayjobs.com/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) [alt](https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) |
-| Trace3 | 🆕 Director, Digital Consulting / AI Transformation | Director | Irvine, CA, USA · Remote | $190K–$230K | 2d | [Apply](https://grnh.se/vt247xhh1us) |
 | Applicantz | 🆕 Client Engagement Director – Enterprise Retail Technology | Director | Houston, Texas |  | 3d | [Apply](https://www.linkedin.com/jobs/view/client-engagement-director-%E2%80%93-enterprise-retail-technology-at-applicantz-4490363906) |
 
 <a name="houston-area"></a>
@@ -725,7 +724,7 @@ _89 older roles in this section are in data/roles.json on the `data` branch._
 | Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 1d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
 | Information Technology Senior Management Forum | Director, Machine Learning Engineer | Director | San Jose, CA, USA | $294K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/a7xuku/director-machine-learning-engineer/san-jose/ca) |
 | Bitdeer Technologies Group | Senior Director, Interconnection & Network (AI Datacenter) | Sr. Director | Austin, TX, USA |  | 1d | [Apply](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter?source=indeed) [alt](https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter) |
-| Trace3 | 🆕 Director, Digital Consulting / AI Transformation | Director | Irvine, CA, USA · Remote | $190K–$230K | 2d | [Apply](https://grnh.se/vt247xhh1us) |
+| Trace3 | Director, Digital Consulting / AI Transformation | Director | Irvine, CA, USA · Remote | $190K–$230K | 2d | [Apply](https://grnh.se/vt247xhh1us) |
 | Colorado Access | Vice President of Data & Technology | VP | Remote |  | 2d | [Apply](https://jobmine.himss.org/job/vice-president-of-data-technology/86974695/) |
 | Capital One ⭐ | Director, Data Science (req R1005855) | Director | McLean, VA +4 | $294K–$335K | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Science_R1005855-1) |
 | University Federal Credit Union | Director, AI and Analytics | Director | Austin, TX, USA |  | 2d | [Apply](https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=5066b4ff-5fb6-41b0-a700-de639f1a97b1&postingId=40899a78-9f04-4eba-b70b-17725aa3a017) |

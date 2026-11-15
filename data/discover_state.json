@@ -3471,7 +3471,11 @@
    "host": "lumentum.wd5.myworkdayjobs.com",
    "site": "LITE"
   },
-  "ON Semiconductor": null,
+  "ON Semiconductor": {
+   "ats": "oracle",
+   "host": "hctz.fa.us2.oraclecloud.com",
+   "site": "CX_1001"
+  },
   "Infineon": null,
   "Microchip Technology": {
    "review": {

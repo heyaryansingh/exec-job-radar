@@ -1,11 +1,11 @@
 # Collector status
 
-- Last run: 2026-11-15T01:41:20+00:00 UTC, 315s
-- Companies working: 600 of 635
-- New roles last run: 1; roles in feed: 1328
-- Universe (all other known career sites): 5351 boards, 3826 checked in the last hour, 0 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Last run: 2026-11-15T02:41:53+00:00 UTC, 346s
+- Companies working: 604 of 635
+- New roles last run: 1; roles in feed: 1329
+- Universe (all other known career sites): 5351 boards, 3825 checked in the last hour, 1 errors; 1 employer names learned; 0 new employer sites found via job boards
 - Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1791
+- Companies with open roles: 1792
 - Skipped (backing off broken sites): 1556; ran out of time: 0
 
 ## Failing companies
@@ -43,9 +43,5 @@
 | Target | 7 | Expecting value: line 1 column 1 (char 0) |
 | Travelers | 7 | Expecting value: line 1 column 1 (char 0) |
 | Workday | 7 | Expecting value: line 1 column 1 (char 0) |
-| Brookfield | 1 | HTTP 429 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/BrookfieldHealthcareCenterCareerSi |
-| Global Payments | 1 | HTTP 429 for https://global.wd1.myworkdayjobs.com/wday/cxs/global/globalpartnerscareers/jobs |
-| LPL Financial | 1 | HTTP 429 for https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs |
-| TIAA | 1 | HTTP 429 for https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

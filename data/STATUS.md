@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-15T05:41:42+00:00 UTC, 336s
-- Companies working: 629 of 635
-- New roles last run: 12; roles in feed: 1341
-- Universe (all other known career sites): 5354 boards, 3829 checked in the last hour, 0 errors; 0 employer names learned; 4 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 271, "jsearch": 24, "senior titles from boards/aggregators": 112}
+- Last run: 2026-11-15T06:32:04+00:00 UTC, 347s
+- Companies working: 632 of 635
+- New roles last run: 0; roles in feed: 1341
+- Universe (all other known career sites): 5357 boards, 3832 checked in the last hour, 2 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
 - Companies with open roles: 1796
-- Skipped (backing off broken sites): 1531; ran out of time: 0
+- Skipped (backing off broken sites): 1525; ran out of time: 0
 
 ## Failing companies
 
@@ -14,9 +14,6 @@
 |---|---:|---|
 | Anyscale | 30 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
 | MetLife | 9 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/metlife?mode=json |
-| Elevance Health | 7 | Expecting value: line 1 column 1 (char 0) |
-| FedEx | 7 | Expecting value: line 1 column 1 (char 0) |
-| IQVIA | 7 | HTTP 429 for https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs |
-| Intel | 7 | Expecting value: line 1 column 1 (char 0) |
+| Home Depot | 1 | 403 Client Error: Forbidden for url: https://careers.homedepot.com/jobsitemap |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

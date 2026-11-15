@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,910 open roles** at **1,798 companies** · **22 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 02:13 PM ET
+**4,911 open roles** at **1,799 companies** · **21 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 03:12 PM ET
 
-By level: Director 2517 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2518 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (22)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (21)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (339)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2517 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185
 - [☁️ Cloud & Infrastructure (442)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
-- [🛠️ Engineering & Software (1284)](#engineering-software)
+- [🛠️ Engineering & Software (1285)](#engineering-software)
 - [📌 Other Senior Roles (369)](#other-senior-roles)
 - [🔒 Recently closed (188)](#recently-closed)
 - Daily digests: [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md)
@@ -47,6 +47,7 @@ By level: Director 2517 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fairbanks Morse Defense | 🆕 Technical Director - American Fan | Director | Fairfield, OH, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, Oregon, United States of America |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) [alt](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | TAIT | 🆕 VP, Event Production & Project Delivery | VP | Lititz, PA, USA |  | 1d | [Apply](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) |
@@ -57,8 +58,6 @@ By level: Director 2517 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185
 | Digi-Key Electronics | 🆕 Senior Director, Information Technology Fulfillment Systems | Sr. Director | Thief River Falls, MN |  | 1d | [Apply](https://digikey.wd5.myworkdayjobs.com/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) [alt](https://digikey.wd5.myworkdayjobs.com/en-US/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) |
 | FINANCIAL INFO SVCS AGENCY | 🆕 Director of Technical Services | Director | Manhattan, NY, USA | $94K–$225K | 1d | [Apply](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) |
 | NEX Inc. | 🆕 Director of IT | Director | San Jose, CA, USA · Remote | $175K–$250K | 1d | [Apply](https://grnh.se/m9wa6sja8us) |
-| Berkley | 🆕 VP, AI Security | VP | Wilmington, DE, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Novolex | 🆕 Director, Data Science | Director | USA | $170K–$220K | 1d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Confidential | 🆕 Vice President of Information Technology Architecture | VP | Germantown, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=645906740781260808) |
 | Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645907245547067712) |
 | Confidential | 🆕 Managing Director, Chief Technology Officers Practice, Retained Search | C-level | Philadelphia, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=645907278523865408) |
@@ -457,7 +456,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Berkley | 🆕 VP, AI Security | VP | Wilmington, DE, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Berkley | VP, AI Security | VP | Wilmington, DE, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Leidos | Cyber Command Senior Director | Sr. Director | Odenton, MD, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18482682-cyber-command-senior-director?tm_job=R-00197008&tm_event=view&tm_company=2502) |
 | YMCA of the North | Vice President, Information Technology (IT) and Security | VP | Minneapolis, MN, USA | $150K–$200K | 1d | [Apply](https://secure4.saashr.com/ta/6014683.careers?ShowJob=1074008385) |
 | ABB | Head of Cyber Security | Head | Bangalore, Karnataka, India +8 |  | 1d | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Cyber-Security_JR00050298-1) |
@@ -715,7 +714,7 @@ _89 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Novolex | 🆕 Director, Data Science | Director | USA | $170K–$220K | 1d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Novolex | Director, Data Science | Director | USA | $170K–$220K | 1d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | University of Phoenix | Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 1d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
 | Pfizer ⭐ | Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | Ascot Group | Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 1d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
@@ -1893,6 +1892,7 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fairbanks Morse Defense | 🆕 Technical Director - American Fan | Director | Fairfield, OH, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 1d | [Apply](https://www.talent.com/view?id=646037297763195200) |
 | Pantheon Systems, Inc | 🆕 Director, IT | Director | United States (Remote) | $167K–$232K | 1d | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8387988) ⚡ |
 | United Plastic Fabricating Inc | 🆕 Director of Engineering | Director | Ocala, FL, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4665834/United-Plastic-Fabricating-Inc/Director-of-Engineering?source=Indeed_Feed) |
@@ -2142,9 +2142,8 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 | Eaton Corporation | Vice President of Engineering, ARS | VP | Coraopolis, Pennsylvania | $227K–$333K | 9d | [Apply](https://eaton.eightfold.ai/careers/job/687240031164-vice-president-of-engineering-ars-charlotte-north-carolina-usa-28273?domain=eaton.com) |
 | Wild Marketing Group | Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 9d | [Apply](https://www.talent.com/view?id=644900719329157128) |
 | Geotab | Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 9d | [Apply](https://grnh.se/lzrm1k1e8us) |
-| UnitedHealth Group ⭐ | Director, Software Engineering | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 9d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering/34088/102961794048) |
 
-_1034 older roles in this section are in data/roles.json on the `data` branch._
+_1035 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

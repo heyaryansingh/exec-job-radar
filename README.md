@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,911 open roles** at **1,797 companies** · **23 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 12:12 PM ET
+**4,912 open roles** at **1,798 companies** · **24 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 12:50 PM ET
 
-By level: Director 2517 · VP 940 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2517 · VP 940 · Sr. Director 624 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (23)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (339)](#security-risk-technology)
@@ -37,7 +37,7 @@ By level: Director 2517 · VP 940 · Sr. Director 623 · Head 307 · EVP/SVP 185
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
 - [🛠️ Engineering & Software (1286)](#engineering-software)
-- [📌 Other Senior Roles (368)](#other-senior-roles)
+- [📌 Other Senior Roles (369)](#other-senior-roles)
 - [🔒 Recently closed (186)](#recently-closed)
 - Daily digests: [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md)
 
@@ -47,6 +47,7 @@ By level: Director 2517 · VP 940 · Sr. Director 623 · Head 307 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, OR, USA |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | TAIT | 🆕 VP, Event Production & Project Delivery | VP | Lititz, PA, USA |  | 1d | [Apply](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 1d | [Apply](https://www.talent.com/view?id=646037297763195200) |
@@ -2153,6 +2154,7 @@ _1036 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, OR, USA |  | 0d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Piper Aircraft Inc | Director, Information Services | Director | Vero Beach, FL, USA |  | 1d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Information Technology Senior Management Forum | Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |
 | Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
@@ -2402,9 +2404,8 @@ _1036 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Java Full Stack Developer - VP | VP | Mississauga, ON, CA |  | 27d | [Apply](https://jobs.citi.com/job/mississauga/java-full-stack-developer-vp/287/102161043392) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Angular Engineer - Tech Lead - Vice President | VP | Jersey City, NJ, US |  | 27d | [Apply](https://jobs.citi.com/job/jersey-city/senior-java-angular-engineer-tech-lead-vice-president/287/102161043552) |
 | Citi (jobs.citi.com) ⭐ | Full Stack Engineer - Vice President | VP | Pune, MH, IN |  | 27d | [Apply](https://jobs.citi.com/job/pune/full-stack-engineer-vice-president/287/102161044944) |
-| Citi (jobs.citi.com) ⭐ | Full Stack Engineer - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 27d | [Apply](https://jobs.citi.com/job/mississauga/full-stack-engineer-senior-vice-president/287/102161046688) |
 
-_118 older roles in this section are in data/roles.json on the `data` branch._
+_119 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

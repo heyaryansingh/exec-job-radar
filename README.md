@@ -19,18 +19,18 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,909 open roles** at **1,796 companies** · **27 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 04:32 AM ET
+**4,910 open roles** at **1,796 companies** · **26 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 05:31 AM ET
 
-By level: Director 2517 · VP 940 · Sr. Director 622 · Head 306 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2517 · VP 940 · Sr. Director 622 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (27)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (26)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (338)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (339)](#security-risk-technology)
 - [🧠 Data & AI (1229)](#data-ai)
 - [🚦 Reliability & Operations (349)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (442)](#cloud-infrastructure)
@@ -47,6 +47,7 @@ By level: Director 2517 · VP 940 · Sr. Director 622 · Head 306 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | TAIT | 🆕 VP, Event Production & Project Delivery | VP | Lititz, PA, USA |  | 1d | [Apply](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 1d | [Apply](https://www.talent.com/view?id=646037297763195200) |
 | Confidential | 🆕 Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646031117181526024) |
@@ -61,8 +62,6 @@ By level: Director 2517 · VP 940 · Sr. Director 622 · Head 306 · EVP/SVP 185
 | Pfizer ⭐ | 🆕 Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
 | Piper Aircraft Inc | 🆕 Director, Information Services | Director | Vero Beach, FL, USA |  | 1d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Ascot Group | 🆕 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 1d | [Apply](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1103) |
-| BUTLER COUNTY EDUCATIONAL SERVICE CENTER | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
-| Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | Confidential | 🆕 Vice President of Information Technology Architecture | VP | Germantown, Tennessee |  | 2d | [Apply](https://www.talent.com/view?id=645906740781260808) |
 | Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645907245547067712) |
 | Confidential | 🆕 Managing Director, Chief Technology Officers Practice, Retained Search | C-level | Philadelphia, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=645907278523865408) |
@@ -461,6 +460,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 0d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Berkley | 🆕 VP, AI Security | VP | Wilmington, DE, USA |  | 1d | [Apply](https://careers-berkley.icims.com/jobs/15315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Leidos | Cyber Command Senior Director | Sr. Director | Odenton, MD, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18482682-cyber-command-senior-director?tm_job=R-00197008&tm_event=view&tm_company=2502) |
 | YMCA of the North | Vice President, Information Technology (IT) and Security | VP | Minneapolis, MN, USA | $150K–$200K | 1d | [Apply](https://secure4.saashr.com/ta/6014683.careers?ShowJob=1074008385) |
@@ -710,9 +710,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | TikTok USDS JV | Head of Enterprise Security Engineering | Head | San Jose, CA, USA | $257K–$616K | 27d | [Apply](https://careers.tiktokusds.com/usds/position/7697324327176472837/detail) |
 | Bluebird Fiber | Director, IT Security | Director | Kansas City, MO, USA |  | 27d | [Apply](https://secure6.saashr.com/ta/6174972.careers?ShowJob=722102404) |
 | TikTok USDS JV | Head of Enterprise Security Engineering | Head | Washington, DC, USA | $232K–$554K | 27d | [Apply](https://careers.tiktokusds.com/usds/position/7697320918814198021/detail) |
-| Osmose Utilities Services, Inc. | Senior Director, Cyber Security | Sr. Director | Atlanta, GA, USA |  | 27d | [Apply](https://osmose.hrmdirect.com/employment/view.php?req=3844273&jbsrc=1014&location=df62579c-c73b-aecc-43d5-558d7165302e) |
 
-_88 older roles in this section are in data/roles.json on the `data` branch._
+_89 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -980,8 +979,8 @@ _979 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | TAIT | 🆕 VP, Event Production & Project Delivery | VP | Lititz, PA, USA |  | 1d | [Apply](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) |
-| BUTLER COUNTY EDUCATIONAL SERVICE CENTER | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
-| Greater Cincinnati School Application Consortium | 🆕 SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
+| BUTLER COUNTY EDUCATIONAL SERVICE CENTER | SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
+| Greater Cincinnati School Application Consortium | SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | Radiomedix, Inc. | Director of Preclinical Operations | Director | Houston, TX, USA |  | 1d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | 8x8 | 🆕 Director, Site Reliability Engineering | Director | US-Remote |  | 2d | [Apply](https://8x8inc.wd5.myworkdayjobs.com/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) [alt](https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) |
 | Mohawk Industries | IT Director, Infrastructure & Operations | Director | Dallas, TX, USA |  | 2d | [Apply](https://careers.mohawkind.com/DalTile/job/Dallas-IT-Director%2C-Infrastructure-&-Operations-Texa-75217/1450633600/) |

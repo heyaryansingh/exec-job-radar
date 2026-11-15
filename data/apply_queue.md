@@ -274,38 +274,38 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 268 | 54 | Confidential | [Senior Vice President, Product & Technology](https://www.talent.com/view?id=645908770767833618) | Indianapolis, Indiana |  | via job board |  |
 | 269 | 53 | Leidos | [Cyber Command Senior Director](https://careers.leidos.com/jobs/18482682-cyber-command-senior-director?tm_job=R-00197008&tm_event=view&tm_company=2502) | Odenton, MD, USA | $278,475 | via job board |  |
 | 270 | 52 | AbbVie | [Director, Information Security Regulatory Assurance](https://jobs.smartrecruiters.com/AbbVie/3743990016830196-director-information-security-regulatory-assurance) | North Chicago, IL, us |  | ⚡ quick form |  |
-| 271 | 52 | Marriott International | [Director of Engineering- The Ritz-Carlton Hotel Marrakech (Pre-Opening)](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26148440) | Marrakesh, Morocco, Morocco |  | account |  |
-| 272 | 52 | Four Seasons | [Assistant Director of Technology Innovation & Data](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10397835EXTERNALENUS) | Philadelphia, Pennsylvania, United State |  | account |  |
-| 273 | 52 | Nokia | [VP IP Hardware Engineering](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41686) | United States |  | account |  |
-| 274 | 52 | CVS Health (Phenom) | [Lead Director - Security Operations Center (SOC)](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1029588EXTERNALENUS) | 161 Avenue of the Americas, New York, Ne |  | account |  |
-| 275 | 52 | CVS Health (Phenom) | [Lead Director, Strategic Initiatives & Transformation](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1091387EXTERNALENUS) | Work At Home, Hartford, Connecticut,Unit |  | account |  |
-| 276 | 52 | Hilton | [Director of Engineering - Beach House Fort Lauderdale, a Hilton Resort](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/231126) | Fort Lauderdale, FL, United States |  | account |  |
-| 277 | 52 | Marriott International | [Director of Security & Safety](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26149353) | San Francisco, CA, United States |  | account |  |
-| 278 | 52 | PwC | [AI Engineer / Data Scientist, AI Director](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773673WDEXTERNALENUS) | NY-New York |  | account |  |
-| 279 | 52 | Direct Supply | [Vice President, Engineering](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Vice-President--Engineering_REQ-2026-2304) | Milwaukee, WI |  | account |  |
-| 280 | 52 | Simmons Perrine Moyer Bergman | [Director of Information Technology](https://www.indeed.com/viewjob?jk=f3a51b54758b28ab) | Cedar Rapids, IA, USA |  | via job board |  |
-| 281 | 52 | PowerSchool Group | [Director, Information Security](https://careers-powerschool.icims.com/jobs/53167/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Remote, USA |  | via job board |  |
-| 282 | 52 | lululemon | [Technology Director - Developer Excellence](https://careers.lululemon.com/en_US/careers/JobDetail/Technology-Director-Developer-Excellence/56959) | Knoxville, TN, USA | $270,300 | via job board |  |
-| 283 | 52 | Confidential | [Chief Technology Officer (CTO)](https://www.talent.com/view?id=645596932105964050) | Hamilton Township, New Jersey |  | via job board |  |
-| 284 | 52 | FINANCIAL INFO SVCS AGENCY | [Director of Technical Services](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) | Manhattan, NY, USA | $225,000 | via job board |  |
-| 285 | 52 | Confidential | [Managing Director, Chief Technology Officers Practice, Retained Search](https://www.talent.com/view?id=645907278523865408) | Philadelphia, Pennsylvania |  | via job board |  |
-| 286 | 51 | Anaplan | [Architecture & Integrations Director](https://job-boards.greenhouse.io/anaplan/jobs/8939969002) | Austin, United States |  | ⚡ quick form | 13 |
-| 287 | 51 | BridgeBio Pharma | [Program Management  Director/Sr. Director](https://job-boards.greenhouse.io/bridgebio/jobs/5294015007) | San Francisco - 1800 Owens | $285,000 | ⚡ quick form | 14 |
-| 288 | 51 | Phaedon | [Director / Senior Director, Technology & Referral Partnerships](https://ats.rippling.com/wearephaedon/jobs/1fe93c85-1e46-40d4-9802-0621adb7b09a?jobSite=Indeed) | Minneapolis, MN, USA | $200,000 | via job board |  |
-| 289 | 50 | Nium | [Director Engineering](https://jobs.lever.co/nium/0579465c-e232-4cd9-b647-480a11a0e8f4) | Malta |  | ⚡ quick form |  |
-| 290 | 50 | Endor Labs | [Director of Engineering](https://job-boards.greenhouse.io/endorlabs/jobs/4752777005) | Palo Alto, CA |  | ⚡ quick form | 2 |
-| 291 | 50 | Eli Lilly | [Senior Director / Executive Director, Strategic Lead – Lentiviral Vector Analytical Platform](https://careers.lilly.com/us/en/job/LILLUSR114868EXTERNALENUS) | Boston, Massachusetts, United States of  |  | account |  |
-| 292 | 50 | The Aerospace Corporation | [Systems Director - PNT Advanced Technologies and Enterprise Engineering](https://aero.wd5.myworkdayjobs.com/External/job/Los-Angeles-AFB-CA/Systems-Director---PNT-Advanced-Technologies-and-Enterprise-Engineering_R017195) | Los Angeles AFB, CA |  | account |  |
-| 293 | 50 | HPE | [Sr Director, AI/ML](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Sr-Director--AI-ML_1219014-2) | San Jose, California, United States of A |  | account |  |
-| 294 | 50 | Merck | [Executive Director, Engineering (FLEx Co-Lead)](https://jobs.merck.com/us/en/job/MERCUSR424336ENUS) | Rahway, New Jersey, United States of Ame |  | account |  |
-| 295 | 50 | JD Power | [Director, Data Acquisition](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/JD-Power-USA---Troy/Director--Data-Acquisition_R-100589) | JD Power USA - Troy; Remote Canada |  | account |  |
-| 296 | 50 | Georgetown | [Executive Director, Institute for Technology Law and Policy](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Law-Center/Executive-Director--Institute-for-Technology-Law-and-Policy_JR28140) | Law Center |  | account |  |
-| 297 | 50 | Foxconn Industrial Internet - FII | [Program Management Director](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) | Houston, TX, USA |  | via job board |  |
-| 298 | 50 | University of Alabama | [Director of Library Systems and Technology - Campus Only search - Assistant/Associate Professor](https://careers.ua.edu/jobs/director-of-library-systems-and-technology-campus-only-search-assistant-associate-professor-531113-alabama-united-states) | AL, USA |  | via job board |  |
-| 299 | 50 | Capgemini | [frog, Director - Service/Contact Center Transformation](https://www.capgemini.com/jobs/595313-en_US_SAPBTP/) | Atlanta, GA, USA | $270,000 | via job board |  |
-| 300 | 50 | PowerSchool Group | [Director, Information Security](https://careers-powerschool.icims.com/jobs/53166/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Plano, TX, USA |  | via job board |  |
+| 271 | 52 | Four Seasons | [Assistant Director of Technology Innovation & Data](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10397835EXTERNALENUS) | Philadelphia, Pennsylvania, United State |  | account |  |
+| 272 | 52 | Nokia | [VP IP Hardware Engineering](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41686) | United States |  | account |  |
+| 273 | 52 | CVS Health (Phenom) | [Lead Director - Security Operations Center (SOC)](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1029588EXTERNALENUS) | 161 Avenue of the Americas, New York, Ne |  | account |  |
+| 274 | 52 | CVS Health (Phenom) | [Lead Director, Strategic Initiatives & Transformation](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1091387EXTERNALENUS) | Work At Home, Hartford, Connecticut,Unit |  | account |  |
+| 275 | 52 | Hilton | [Director of Engineering - Beach House Fort Lauderdale, a Hilton Resort](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/231126) | Fort Lauderdale, FL, United States |  | account |  |
+| 276 | 52 | Marriott International | [Director of Security & Safety](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26149353) | San Francisco, CA, United States |  | account |  |
+| 277 | 52 | PwC | [AI Engineer / Data Scientist, AI Director](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773673WDEXTERNALENUS) | NY-New York |  | account |  |
+| 278 | 52 | Direct Supply | [Vice President, Engineering](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Vice-President--Engineering_REQ-2026-2304) | Milwaukee, WI |  | account |  |
+| 279 | 52 | Simmons Perrine Moyer Bergman | [Director of Information Technology](https://www.indeed.com/viewjob?jk=f3a51b54758b28ab) | Cedar Rapids, IA, USA |  | via job board |  |
+| 280 | 52 | PowerSchool Group | [Director, Information Security](https://careers-powerschool.icims.com/jobs/53167/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Remote, USA |  | via job board |  |
+| 281 | 52 | lululemon | [Technology Director - Developer Excellence](https://careers.lululemon.com/en_US/careers/JobDetail/Technology-Director-Developer-Excellence/56959) | Knoxville, TN, USA | $270,300 | via job board |  |
+| 282 | 52 | Confidential | [Chief Technology Officer (CTO)](https://www.talent.com/view?id=645596932105964050) | Hamilton Township, New Jersey |  | via job board |  |
+| 283 | 52 | FINANCIAL INFO SVCS AGENCY | [Director of Technical Services](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) | Manhattan, NY, USA | $225,000 | via job board |  |
+| 284 | 52 | Confidential | [Managing Director, Chief Technology Officers Practice, Retained Search](https://www.talent.com/view?id=645907278523865408) | Philadelphia, Pennsylvania |  | via job board |  |
+| 285 | 51 | Anaplan | [Architecture & Integrations Director](https://job-boards.greenhouse.io/anaplan/jobs/8939969002) | Austin, United States |  | ⚡ quick form | 13 |
+| 286 | 51 | BridgeBio Pharma | [Program Management  Director/Sr. Director](https://job-boards.greenhouse.io/bridgebio/jobs/5294015007) | San Francisco - 1800 Owens | $285,000 | ⚡ quick form | 14 |
+| 287 | 51 | Phaedon | [Director / Senior Director, Technology & Referral Partnerships](https://ats.rippling.com/wearephaedon/jobs/1fe93c85-1e46-40d4-9802-0621adb7b09a?jobSite=Indeed) | Minneapolis, MN, USA | $200,000 | via job board |  |
+| 288 | 50 | Nium | [Director Engineering](https://jobs.lever.co/nium/0579465c-e232-4cd9-b647-480a11a0e8f4) | Malta |  | ⚡ quick form |  |
+| 289 | 50 | Endor Labs | [Director of Engineering](https://job-boards.greenhouse.io/endorlabs/jobs/4752777005) | Palo Alto, CA |  | ⚡ quick form | 2 |
+| 290 | 50 | Eli Lilly | [Senior Director / Executive Director, Strategic Lead – Lentiviral Vector Analytical Platform](https://careers.lilly.com/us/en/job/LILLUSR114868EXTERNALENUS) | Boston, Massachusetts, United States of  |  | account |  |
+| 291 | 50 | The Aerospace Corporation | [Systems Director - PNT Advanced Technologies and Enterprise Engineering](https://aero.wd5.myworkdayjobs.com/External/job/Los-Angeles-AFB-CA/Systems-Director---PNT-Advanced-Technologies-and-Enterprise-Engineering_R017195) | Los Angeles AFB, CA |  | account |  |
+| 292 | 50 | HPE | [Sr Director, AI/ML](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Sr-Director--AI-ML_1219014-2) | San Jose, California, United States of A |  | account |  |
+| 293 | 50 | Merck | [Executive Director, Engineering (FLEx Co-Lead)](https://jobs.merck.com/us/en/job/MERCUSR424336ENUS) | Rahway, New Jersey, United States of Ame |  | account |  |
+| 294 | 50 | JD Power | [Director, Data Acquisition](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/JD-Power-USA---Troy/Director--Data-Acquisition_R-100589) | JD Power USA - Troy; Remote Canada |  | account |  |
+| 295 | 50 | Georgetown | [Executive Director, Institute for Technology Law and Policy](https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Law-Center/Executive-Director--Institute-for-Technology-Law-and-Policy_JR28140) | Law Center |  | account |  |
+| 296 | 50 | Capgemini | [frog, Director - Service/Contact Center Transformation](https://www.capgemini.com/jobs/595313-en_US_SAPBTP/) | Atlanta, GA, USA | $270,000 | via job board |  |
+| 297 | 50 | PowerSchool Group | [Director, Information Security](https://careers-powerschool.icims.com/jobs/53166/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) | Plano, TX, USA |  | via job board |  |
+| 298 | 50 | Integrated HomeCare Services | [Director Software Engineer](https://recruiting.ultipro.com/INT1078IHCS/JobBoard/0f2d0fd8-1ec0-46a7-a389-79c391c42aab/OpportunityDetail?opportunityId=2b9c2de5-155a-4809-9408-a60e158eb49a&postingId=8c20a460-8197-4595-b26c-f763d1ea8e7d) | Miramar, FL, USA |  | via job board |  |
+| 299 | 49 | University of Texas at Austin | [Senior Director of Technology Services](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Senior-Director-of-Technology-Services_R_00049948) | UT MAIN CAMPUS |  | account |  |
+| 300 | 48 | Anduril Industries | [Director, Industrial Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5293445007?gh_jid=5293445007) | Costa Mesa, California, United States | $252,000 | ⚡ quick form | 12 |
 
-## Houston area (22)
+## Houston area (21)
 
 | Score | Company | Role | Pay | How |
 |---:|---|---|---|---|
@@ -330,4 +330,3 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 58 | Capgemini | [frog, Director - Service/Contact Center Transformation](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) | $270,000 | via job board |
 | 56 | Memorial Hermann Health System | [VP, Innovation and AI](https://jobs.memorialhermann.org/us/en/job/MHHSUS100189477EXTERNALENUS) |  | account |
 | 56 | Intergraph Corporation | [Senior Vice President, Global Services](https://jobs.womenforhire.com/job/usa/houston-tx/senior-vice-president-global-services-778739/) |  | via job board |
-| 50 | Foxconn Industrial Internet - FII | [Program Management Director](https://foxconnggroup.applytojob.com/apply/Zvj7gdASg0/Program-Management-Director?source=INDE&~) |  | via job board |

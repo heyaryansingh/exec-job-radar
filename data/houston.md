@@ -8,7 +8,7 @@
 | Grid United | 🆕 Senior Director, Land | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
 | Grid United | 🆕 Senior Director of Development | Sr. Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
 | Capgemini | 🆕 frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 2d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
-| JPMorgan Chase ⭐ | 🆕 Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
+| JPMorgan Chase ⭐ | Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Huntington Bank | Managing Director Project Finance and Infrastructure | MD | Atlanta, GA +3 | $125K–$275K | 2d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Managing-Director-Project-Finance-and-Infrastructure_R0077712-1) |
 | The Aerospace Corporation | Moonbase and Surface Systems Principal Director | Director | Houston, TX +1 |  | 2d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/Houston-TX/Moonbase-and-Surface-Systems-Principal-Director_R017015) |
 | Memorial Hermann Health System | VP, Innovation and AI | VP | Houston, Texas, United States of America |  | 2d | [Apply](https://jobs.memorialhermann.org/us/en/job/MHHSUS100189477EXTERNALENUS) |

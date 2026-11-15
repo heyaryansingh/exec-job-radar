@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,912 open roles** at **1,798 companies** · **22 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 01:12 PM ET
+**4,910 open roles** at **1,798 companies** · **22 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 02:13 PM ET
 
-By level: Director 2517 · VP 940 · Sr. Director 624 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2517 · VP 939 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 2517 · VP 940 · Sr. Director 624 · Head 307 · EVP/SVP 185
 - [☁️ Cloud & Infrastructure (442)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
-- [🛠️ Engineering & Software (1286)](#engineering-software)
+- [🛠️ Engineering & Software (1284)](#engineering-software)
 - [📌 Other Senior Roles (369)](#other-senior-roles)
-- [🔒 Recently closed (186)](#recently-closed)
+- [🔒 Recently closed (188)](#recently-closed)
 - Daily digests: [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -2144,7 +2144,7 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 | Geotab | Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 9d | [Apply](https://grnh.se/lzrm1k1e8us) |
 | UnitedHealth Group ⭐ | Director, Software Engineering | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 9d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering/34088/102961794048) |
 
-_1036 older roles in this section are in data/roles.json on the `data` branch._
+_1034 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2413,6 +2413,8 @@ _119 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Technical Implementation Manager Vice President | VP | Plano, TX, United States |  | 27d | Closed |
+| Oracle | 🔒 Senior Director, Application Software Engineering | Sr. Director | United States | $150K–$355K | 12d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Network Core Infrastructure Operations | Director | CA - Work from home · Remote |  | 24d | Closed |
 | City and County of San Francisco | 🔒 Technology Product Director - Information Technology - SFPUC (1070)(168307) | Director | San Francisco, CA, us |  | 17d | Closed |
 | Overjet | 🔒 AI Creative Director | Director | United States, Remote |  | 39d | Closed |

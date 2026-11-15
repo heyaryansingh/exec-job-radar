@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,910 open roles** at **1,796 companies** · **25 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 09:22 AM ET
+**4,911 open roles** at **1,797 companies** · **25 new in the last 24 hours** · 5,993 company career sites watched · updated hourly · last update Nov 15, 2026 09:35 AM ET
 
-By level: Director 2517 · VP 940 · Sr. Director 622 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2517 · VP 940 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,7 +36,7 @@ By level: Director 2517 · VP 940 · Sr. Director 622 · Head 307 · EVP/SVP 185
 - [☁️ Cloud & Infrastructure (442)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
-- [🛠️ Engineering & Software (1285)](#engineering-software)
+- [🛠️ Engineering & Software (1286)](#engineering-software)
 - [📌 Other Senior Roles (368)](#other-senior-roles)
 - [🔒 Recently closed (186)](#recently-closed)
 - Daily digests: [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md)
@@ -2147,7 +2147,7 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 | Geotab | Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 9d | [Apply](https://grnh.se/lzrm1k1e8us) |
 | UnitedHealth Group ⭐ | Director, Software Engineering | Director | Eden Prairie, Minnesota, United States +1 · Remote | $135K–$231K | 9d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/director-software-engineering/34088/102961794048) |
 
-_1035 older roles in this section are in data/roles.json on the `data` branch._
+_1036 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

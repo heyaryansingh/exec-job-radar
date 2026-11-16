@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,943 open roles** at **1,809 companies** · **33 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 07:38 AM ET
+**4,945 open roles** at **1,809 companies** · **35 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 08:37 AM ET
 
-By level: Director 2533 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
+By level: Director 2533 · VP 953 · Sr. Director 622 · Head 310 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (35)](#new-in-the-last-24-hours)
 - [🤠 Houston area (191)](#houston-area)
 - [👑 Executive Technology Leadership (182)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
@@ -36,8 +36,8 @@ By level: Director 2533 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185
 - [☁️ Cloud & Infrastructure (446)](#cloud-infrastructure)
 - [🏛️ Architecture (137)](#architecture)
 - [🔄 Transformation & Delivery (585)](#transformation-delivery)
-- [🛠️ Engineering & Software (1295)](#engineering-software)
-- [📌 Other Senior Roles (371)](#other-senior-roles)
+- [🛠️ Engineering & Software (1296)](#engineering-software)
+- [📌 Other Senior Roles (372)](#other-senior-roles)
 - [🔒 Recently closed (197)](#recently-closed)
 - Daily digests: [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md)
 
@@ -47,6 +47,8 @@ By level: Director 2533 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Core Java Technology Lead - Vice President | VP | Chennai, TN, IN |  | 0d | [Apply](https://jobs.citi.com/job/chennai/core-java-technology-lead-vice-president/287/103374647312) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Lead Full stack Developer VP | VP | Chennai, TN, IN |  | 0d | [Apply](https://jobs.citi.com/job/chennai/lead-full-stack-developer-vp/287/103374643360) |
 | Leidos | 🆕 Director of DevOps | Director | Reston, VA, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483612-director-of-devops?tm_job=R-00196999&tm_event=view&tm_company=2502) |
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Pega Developer - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/lead-pega-developer-vice-president/287/103370639184) |
@@ -1915,6 +1917,7 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Core Java Technology Lead - Vice President | VP | Chennai, TN, IN |  | 0d | [Apply](https://jobs.citi.com/job/chennai/core-java-technology-lead-vice-president/287/103374647312) |
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
 | Marriott International ⭐ | 🆕 Director of Engineering – Pre-Opening The Luxury Collection Muscat Grand Blue City Oman, Muscat | Director | Muscat, Oman |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26149693) |
@@ -2164,9 +2167,8 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 | Oracle | 🔁 Consulting Technical Director | Director | United States | $126K–$264K | 10d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349907) |
 | Adaptive Biotechnologies | VP, Information Technology | VP | Houston, Texas | $300K–$450K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | Buyers Edge Platform | Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
-| Confidential | Head of Automation Technology | Head | Houston, Texas |  | 10d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
 
-_1045 older roles in this section are in data/roles.json on the `data` branch._
+_1046 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2174,6 +2176,7 @@ _1045 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Lead Full stack Developer VP | VP | Chennai, TN, IN |  | 0d | [Apply](https://jobs.citi.com/job/chennai/lead-full-stack-developer-vp/287/103374643360) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Pega Developer - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/lead-pega-developer-vice-president/287/103370639184) |
 | Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, Oregon, United States of America |  | 1d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) [alt](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Piper Aircraft Inc | Director, Information Services | Director | Vero Beach, FL, USA |  | 2d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
@@ -2423,9 +2426,8 @@ _1045 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Senior Full-stack Java Developer, VP | VP | Jersey City, NJ, US |  | 28d | [Apply](https://jobs.citi.com/job/jersey-city/senior-full-stack-java-developer-vp/287/102161042368) |
 | Citi (jobs.citi.com) ⭐ | Principal Backend Engineer Vice President | VP | Mississauga, ON, CA |  | 28d | [Apply](https://jobs.citi.com/job/mississauga/principal-backend-engineer-vice-president/287/102161042400) |
 | Citi (jobs.citi.com) ⭐ | Principal Engineer – Vice President | VP | Irving, TX, US +1 |  | 28d | [Apply](https://jobs.citi.com/job/irving/principal-engineer-vice-president/287/102161042640) [alt](https://jobs.citi.com/job/irving/principal-engineer-vice-president/287/102473339808) |
-| Citi (jobs.citi.com) ⭐ | Java Full Stack Developer - VP | VP | Mississauga, ON, CA |  | 28d | [Apply](https://jobs.citi.com/job/mississauga/java-full-stack-developer-vp/287/102161043392) |
 
-_121 older roles in this section are in data/roles.json on the `data` branch._
+_122 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

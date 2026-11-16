@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,913 open roles** at **1,802 companies** · **20 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 08:06 PM ET
+**4,914 open roles** at **1,802 companies** · **20 new in the last 24 hours** · 5,996 company career sites watched · updated hourly · last update Nov 15, 2026 08:54 PM ET
 
-By level: Director 2520 · VP 938 · Sr. Director 623 · Head 308 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2520 · VP 939 · Sr. Director 623 · Head 308 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,7 +36,7 @@ By level: Director 2520 · VP 938 · Sr. Director 623 · Head 308 · EVP/SVP 185
 - [☁️ Cloud & Infrastructure (441)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
-- [🛠️ Engineering & Software (1285)](#engineering-software)
+- [🛠️ Engineering & Software (1286)](#engineering-software)
 - [📌 Other Senior Roles (369)](#other-senior-roles)
 - [🔒 Recently closed (191)](#recently-closed)
 - Daily digests: [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md) · [11-09](data/daily/2026-11-09.md)
@@ -47,7 +47,7 @@ By level: Director 2520 · VP 938 · Sr. Director 623 · Head 308 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| ERAGON | 🆕 Head of Applied AI | Head | San Francisco, CA, USA | $350K–$500K | 0d | [Apply](https://jobs.ashbyhq.com/Eragon/17d9228d-2d74-4600-9825-27ea9b7af706?utm_source=2QRZdprEzj) |
+| Expedia Group ⭐ | 🆕 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 1d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
 | Berkshire Hathaway Specialty Insurance | 🆕 Director, Application Security | Director | Boston, MA, USA | $180K–$210K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eebd886f-daae-4f3a-8a1b-d9c9a65d9d49&ccId=19000101_000001&jobId=590586&source=IN&lang=en_US) |
 | Swyftx | 🆕 Director of Information Security | Director | Remote, USA | $220K–$300K | 1d | [Apply](https://www.indeed.com/viewjob?jk=83ff92ce1c29dde0) |
 | Titan | 🆕 Director of Security Operations & Detection Engineering, RFA | Director | Remote (US) |  | 1d | [Apply](https://jobs.ashbyhq.com/titan-msp/7fb27818-be9d-4a94-8416-f62a093cb1ce) ⚡ |
@@ -713,7 +713,6 @@ _92 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| ERAGON | 🆕 Head of Applied AI | Head | San Francisco, CA, USA | $350K–$500K | 0d | [Apply](https://jobs.ashbyhq.com/Eragon/17d9228d-2d74-4600-9825-27ea9b7af706?utm_source=2QRZdprEzj) |
 | Novolex | Director, Data Science | Director | USA | $170K–$220K | 2d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | University of Phoenix | Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 2d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
 | Pfizer ⭐ | Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 2d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
@@ -963,6 +962,7 @@ _92 older roles in this section are in data/roles.json on the `data` branch._
 | Crux AI | VP, AI Ops | VP | Palo Alto · Remote |  | 10d | [Apply](https://jobs.ashbyhq.com/crux/b48c9435-876c-4f38-89e1-c7cd4cded36e) ⚡ |
 | Compass Group USA | Vice President, Data Center Technology | VP | Charlotte, NC, USA |  | 10d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/44dbeadd82458b7689f951ca2fe4aae4f4d2179d48e0868d9c7b436a/) |
 | ICW Group | Director, Applied AI Engineering | Director | San Diego, CA, USA | $161K–$288K | 10d | [Apply](https://rr.jobsyn.org/4F3EE07CD3E049EAAA69A69EA204A2DE1554) |
+| Hewlett Packard Enterprise / HPE | Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, CA, USA | $197K–$420K | 10d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS/Director-Product-Manager-Cloud-Infrastructure-and-AI-Networking?utm_source=indeed&utm_medium=phenom-feeds) |
 
 _980 older roles in this section are in data/roles.json on the `data` branch._
 
@@ -1891,6 +1891,7 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Expedia Group ⭐ | 🆕 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 1d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
 | Fairbanks Morse Defense | 🆕 Technical Director - American Fan | Director | Fairfield, OH, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 2d | [Apply](https://www.talent.com/view?id=646037297763195200) |
 | Pantheon Systems, Inc | 🆕 Director, IT | Director | United States (Remote) | $167K–$232K | 2d | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8387988) ⚡ |
@@ -2140,9 +2141,8 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 | DBR | Technology Design Director | Director | Houston, Texas |  | 10d | [Apply](https://www.ziprecruiter.com/c/dbr/Job/Technology-Design-Director/-in-Houston,TX?jid=8fe3a19e825fd3ea) |
 | Eaton Corporation | Vice President of Engineering, ARS | VP | Coraopolis, Pennsylvania | $227K–$333K | 10d | [Apply](https://eaton.eightfold.ai/careers/job/687240031164-vice-president-of-engineering-ars-charlotte-north-carolina-usa-28273?domain=eaton.com) |
 | Wild Marketing Group | Vice President of Information Technology | VP | Big Bend, Wisconsin |  | 10d | [Apply](https://www.talent.com/view?id=644900719329157128) |
-| Geotab | Head of Domain, Technology Development | Head | Atlanta, GA, USA | $200K–$250K | 10d | [Apply](https://grnh.se/lzrm1k1e8us) |
 
-_1035 older roles in this section are in data/roles.json on the `data` branch._
+_1036 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

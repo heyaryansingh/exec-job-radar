@@ -1,16 +1,22 @@
 # 🤠 Senior technology roles in the Houston area
 
-185 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+191 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Confidential | 🆕 Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646031117181526024) |
+| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
+| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 1d | [Apply](https://www.talent.com/view?id=646129261265881618) |
+| Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
+| Confidential | 🆕 Vice President, Product Strategy, Technology Workflows | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112547522813960) |
+| Confidential | 🆕 Vice President, Solution Architecture | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112500632657928) |
+| Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515055820808) |
+| Confidential | Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646031117181526024) |
 | Radiomedix, Inc. | Director of Preclinical Operations | Director | Houston, TX, USA |  | 2d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 2d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
 | Grid United | Senior Director of Development | Sr. Director | Houston, TX, USA |  | 2d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
-| Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645907245547067712) |
-| NEQ Operating | 🆕 Director, Information Technology - Houston, TX | Director | Houston, Texas |  | 3d | [Apply](https://www.monster.com/job-openings/director-information-technology-houston-tx-houston-tx--64ece266-f86e-48cd-9572-a1f2143f2c50) |
-| Protégé Hunters | 🆕 Strategic IT VP: ERP & Sage Leader | VP | Houston, Texas | $170K–$230K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/management_and_managerial/5629592918/e/) |
+| Confidential | Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645907245547067712) |
+| NEQ Operating | Director, Information Technology - Houston, TX | Director | Houston, Texas |  | 3d | [Apply](https://www.monster.com/job-openings/director-information-technology-houston-tx-houston-tx--64ece266-f86e-48cd-9572-a1f2143f2c50) |
+| Protégé Hunters | Strategic IT VP: ERP & Sage Leader | VP | Houston, Texas | $170K–$230K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/management_and_managerial/5629592918/e/) |
 | Capgemini | frog, Director - Service/Contact Center Transformation | Director | Houston, Texas | $180K–$270K | 3d | [Apply](https://www.theladders.com/job/frog-director-service-contact-center-transformation-capgemini-houston-tx_89854303) |
 | JPMorgan Chase ⭐ | Petroleum Engineering Lead- Vice President | VP | Houston, TX, United States |  | 3d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807572) |
 | Huntington Bank | Managing Director Project Finance and Infrastructure | MD | Atlanta, GA +3 | $125K–$275K | 3d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Atlanta-GA/Managing-Director-Project-Finance-and-Infrastructure_R0077712-1) |

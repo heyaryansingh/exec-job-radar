@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,927 open roles** at **1,808 companies** · **25 new in the last 24 hours** · 5,998 company career sites watched · updated hourly · last update Nov 16, 2026 01:45 AM ET
+**4,928 open roles** at **1,809 companies** · **26 new in the last 24 hours** · 5,998 company career sites watched · updated hourly · last update Nov 16, 2026 02:51 AM ET
 
-By level: Director 2523 · VP 948 · Sr. Director 621 · Head 308 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
+By level: Director 2524 · VP 948 · Sr. Director 621 · Head 308 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (25)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (26)](#new-in-the-last-24-hours)
 - [🤠 Houston area (191)](#houston-area)
 - [👑 Executive Technology Leadership (182)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2523 · VP 948 · Sr. Director 621 · Head 308 · EVP/SVP 185
 - [☁️ Cloud & Infrastructure (443)](#cloud-infrastructure)
 - [🏛️ Architecture (136)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
-- [🛠️ Engineering & Software (1290)](#engineering-software)
+- [🛠️ Engineering & Software (1291)](#engineering-software)
 - [📌 Other Senior Roles (369)](#other-senior-roles)
 - [🔒 Recently closed (196)](#recently-closed)
 - Daily digests: [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md)
@@ -47,6 +47,7 @@ By level: Director 2523 · VP 948 · Sr. Director 621 · Head 308 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Airlock Digital | 🆕 Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 0d | [Apply](https://grnh.se/yfzmd5989us) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | San Antonio, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646216364477521928) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | Seattle, Washington |  | 1d | [Apply](https://www.talent.com/view?id=646118652270876992) |
@@ -1906,6 +1907,7 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Airlock Digital | 🆕 Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 0d | [Apply](https://grnh.se/yfzmd5989us) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515055820808) |
 | Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
@@ -2155,9 +2157,8 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 | Confidential | Head of Automation Technology | Head | Houston, Texas |  | 10d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
 | Fidelity Technology Group, LLC | Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 10d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
 | RAB Lighting | Director of Business Technology | Director | Houston, Texas | $150K–$230K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
-| Columbia Bank | Model Development & Decision Science Director | Director | Lake Oswego, Oregon |  | 10d | [Apply](https://columbiabank.wd108.myworkdayjobs.com/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) [alt](https://columbiabank.wd108.myworkdayjobs.com/en-US/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) |
 
-_1040 older roles in this section are in data/roles.json on the `data` branch._
+_1041 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

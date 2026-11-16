@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,944 open roles** at **1,809 companies** · **33 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 06:49 AM ET
+**4,943 open roles** at **1,809 companies** · **33 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 07:38 AM ET
 
-By level: Director 2534 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
+By level: Director 2533 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 2534 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185
 - [☁️ Cloud & Infrastructure (446)](#cloud-infrastructure)
 - [🏛️ Architecture (137)](#architecture)
 - [🔄 Transformation & Delivery (585)](#transformation-delivery)
-- [🛠️ Engineering & Software (1296)](#engineering-software)
+- [🛠️ Engineering & Software (1295)](#engineering-software)
 - [📌 Other Senior Roles (371)](#other-senior-roles)
-- [🔒 Recently closed (196)](#recently-closed)
+- [🔒 Recently closed (197)](#recently-closed)
 - Daily digests: [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -1935,7 +1935,6 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 | NEX Inc. | Director of IT | Director | San Jose, CA, USA · Remote | $175K–$250K | 2d | [Apply](https://grnh.se/m9wa6sja8us) |
 | OnTrac | VP, Technology | VP | Remote, USA | $228K–$342K | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |
 | Energy Fuels Resources USA | Vice President, Global Information Technology | VP | Lakewood, CO, USA | $175K–$310K | 2d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e715f1d4-503d-480f-8910-9c8d566a74ed&ccId=19000101_000001&jobId=566760&source=IN&lang=en_US) [alt](https://www.indeed.com/viewjob?jk=1b8c025484e40685) |
-| JPMorgan Chase ⭐ | Director of Software Engineering | Director | Plano, TX, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801278) |
 | Cherokee Indian Hospital Authority | Director of Engineering | Director | Cherokee, NC, USA |  | 2d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=35181078-7625-4896-8392-e587ad17e121&ccId=19000101_000001&jobId=971143&source=IN&lang=en_US) |
 | Grid United | Senior Director of Development | Sr. Director | Houston, TX, USA |  | 2d | [Apply](https://grid-united.breezy.hr/p/af90958e8ca9-senior-director-of-development?source=indeed) |
 | ABB | Head of Quality Engineering | Head | Bangalore, Karnataka, India +7 |  | 2d | [Apply](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Quality-Engineering_JR00050304-1) |
@@ -2165,8 +2164,9 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 | Oracle | 🔁 Consulting Technical Director | Director | United States | $126K–$264K | 10d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349907) |
 | Adaptive Biotechnologies | VP, Information Technology | VP | Houston, Texas | $300K–$450K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 | Buyers Edge Platform | Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
+| Confidential | Head of Automation Technology | Head | Houston, Texas |  | 10d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
 
-_1046 older roles in this section are in data/roles.json on the `data` branch._
+_1045 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2435,6 +2435,7 @@ _121 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Director of Software Engineering | Director | Plano, TX, United States |  | 2d | Closed |
 | DaVita | 🔒 Director, Project and Program Management (Technology) | Director | 02821 - Team Music City |  | 3d | Closed |
 | AbbVie ⭐ | 🔒 Senior Director Process Engineering | Sr. Director | Waltham, MA, us |  | 7d | Closed |
 | AbbVie ⭐ | 🔒 Senior Director Process Engineering | Sr. Director | North Chicago, IL, us |  | 7d | Closed |

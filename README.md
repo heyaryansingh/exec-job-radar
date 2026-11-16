@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,954 open roles** at **1,811 companies** · **48 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 11:28 AM ET
+**4,959 open roles** at **1,812 companies** · **53 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 12:29 PM ET
 
-By level: Director 2539 · VP 953 · Sr. Director 622 · Head 311 · EVP/SVP 185 · C-level 175 · ED 121 · MD 48
+By level: Director 2541 · VP 954 · Sr. Director 623 · Head 311 · EVP/SVP 185 · C-level 176 · ED 121 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (48)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (53)](#new-in-the-last-24-hours)
 - [🤠 Houston area (191)](#houston-area)
-- [👑 Executive Technology Leadership (182)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (344)](#security-risk-technology)
+- [👑 Executive Technology Leadership (183)](#executive-technology-leadership)
+- [🛡️ Security & Risk Technology (346)](#security-risk-technology)
 - [🧠 Data & AI (1236)](#data-ai)
-- [🚦 Reliability & Operations (352)](#reliability-operations)
+- [🚦 Reliability & Operations (353)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (448)](#cloud-infrastructure)
 - [🏛️ Architecture (136)](#architecture)
 - [🔄 Transformation & Delivery (587)](#transformation-delivery)
-- [🛠️ Engineering & Software (1296)](#engineering-software)
+- [🛠️ Engineering & Software (1297)](#engineering-software)
 - [📌 Other Senior Roles (373)](#other-senior-roles)
 - [🔒 Recently closed (199)](#recently-closed)
 - Daily digests: [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md)
@@ -47,11 +47,16 @@ By level: Director 2539 · VP 953 · Sr. Director 622 · Head 311 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| UnitedHealth Group ⭐ | 🆕 Senior Director Information Security - MN - Remote | Sr. Director | Plymouth, Minnesota, United States | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/plymouth/senior-director-information-security-mn-remote/34088/103380577456) |
+| CVS Health (Phenom) ⭐ | 🆕 Lead Director -  Software Engineering | Director | Work at Home, Kentucky, United States |  | 0d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1096858EXTERNALENUS) |
+| DTCC ⭐ | 🆕 Cyber Security Strategy Director | Director | Jersey City, NJ, United States |  | 0d | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215134) |
+| Nox Metals | 🆕 VP of Production | VP | Los Angeles +2 | $200K–$350K | 0d | [Apply](https://jobs.ashbyhq.com/nox-metals/e3447a68-0bd1-4e8e-adf1-9e0ba54a35f8) ⚡ |
+| Baldwinsville Central School District | 🆕 Chief Technology Officer | C-level | Baldwinsville, NY, USA |  | 0d | [Apply](https://cohoes.recruitfront.com/JobPosting.aspx?JID=92961) |
 | Figma | 🆕 Director, Product Design - Systems & Infrastructure | Director | San Francisco, CA • New York, NY • United  | $290K–$376K | 0d | [Apply](https://boards.greenhouse.io/figma/jobs/6251950004?gh_jid=6251950004) ⚡ |
-| AbbVie ⭐ | 🆕 Project Director, Infrastructure (req 3743990016875556) | Director | Durham, NC, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016875556-project-director-infrastructure) ⚡ |
-| Morgan Stanley ⭐ | 🆕 Director, Video Creative & Production | Director | New York, New York, United States of Ameri |  | 0d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Director--Video-Creative---Production_PT-JR046647-1) |
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Policy Lead, Security & Resiliency Domestic Policy | ED | Washington, DC, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803676) |
+| AbbVie ⭐ | 🆕 Project Director, Infrastructure (req 3743990016875556) | Director | Durham, NC, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016875556-project-director-infrastructure) ⚡ |
 | Capital One ⭐ | 🆕 Staff Full Stack Engineer (Director Level) | Director | McLean, VA +4 | $294K–$335K | 0d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer--Director-Level-_R1005783-1) |
+| Morgan Stanley ⭐ | 🆕 Director, Video Creative & Production | Director | New York, New York, United States of Ameri |  | 0d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Director--Video-Creative---Production_PT-JR046647-1) |
 | Randolph-Brooks Federal Credit Union | 🆕 Information Security Architecture and Operations Director | Director | ASC - San Antonio |  | 0d | [Apply](https://rbfcu.wd503.myworkdayjobs.com/RBFCUCareers/job/ASC---San-Antonio/Information-Security-Architecture-and-Operations-Director_015524-1) |
 | Collibra | 🆕 Senior Director, IT Systems | Sr. Director | Raleigh, North Carolina, USA |  | 0d | [Apply](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8379747) ⚡ |
 | Navan | 🆕 Head of Applied AI Engineering | Head | New York, NY | $173K–$384K | 0d | [Apply](https://navan.com/careers/openings?gh_jid=8393050) ⚡ |
@@ -302,6 +307,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Baldwinsville Central School District | 🆕 Chief Technology Officer | C-level | Baldwinsville, NY, USA |  | 0d | [Apply](https://cohoes.recruitfront.com/JobPosting.aspx?JID=92961) |
 | forhyre.com | 🆕 Chief Technology Officer | C-level | Mt Pleasant, Pennsylvania |  | 1d | [Apply](https://www.talent.com/view?id=644479235642687645) |
 | Lumira Search | 🆕 Chief Technology Officer | C-level | Upper Darby Township, Pennsylvania | $180K–$280K | 1d | [Apply](https://www.learn4good.com/jobs/upper-darby-township/pennsylvania/manufacturing/5638449647/e/) |
 | MedFlo AI | 🆕 Chief Technology Officer | C-level | Camden, New Jersey | $240K–$360K | 1d | [Apply](https://www.learn4good.com/jobs/camden/new-jersey/software_development/5638332760/e/) |
@@ -491,6 +497,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| UnitedHealth Group ⭐ | 🆕 Senior Director Information Security - MN - Remote | Sr. Director | Plymouth, Minnesota, United States | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/plymouth/senior-director-information-security-mn-remote/34088/103380577456) |
+| DTCC ⭐ | 🆕 Cyber Security Strategy Director | Director | Jersey City, NJ, United States |  | 0d | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215134) |
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Policy Lead, Security & Resiliency Domestic Policy | ED | Washington, DC, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803676) |
 | Randolph-Brooks Federal Credit Union | 🆕 Information Security Architecture and Operations Director | Director | ASC - San Antonio |  | 0d | [Apply](https://rbfcu.wd503.myworkdayjobs.com/RBFCUCareers/job/ASC---San-Antonio/Information-Security-Architecture-and-Operations-Director_015524-1) |
 | Berkshire Hathaway Specialty Insurance | 🆕 Director, Application Security | Director | Boston, MA, USA | $180K–$210K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eebd886f-daae-4f3a-8a1b-d9c9a65d9d49&ccId=19000101_000001&jobId=590586&source=IN&lang=en_US) |
@@ -739,10 +747,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi (jobs.citi.com) ⭐ | SVP Central Risk Technology Lead | EVP/SVP | Jersey City, NJ, US |  | 28d | [Apply](https://jobs.citi.com/job/jersey-city/svp-central-risk-technology-lead/287/102161039392) |
 | Citi (jobs.citi.com) ⭐ | Senior Security Engineer – Digital Assets Platform - VP | VP | New York, NY, US |  | 28d | [Apply](https://jobs.citi.com/job/new-york/senior-security-engineer-digital-assets-platform-vp/287/102161044480) |
 | Citi (jobs.citi.com) ⭐ | Cyber Security Architect -Vice President | VP | Chennai, TN, IN |  | 28d | [Apply](https://jobs.citi.com/job/chennai/cyber-security-architect-vice-president/287/102161054032) |
-| Zipline | Head of Information Security | Head | South San Francisco, California, USA | $250K–$350K | 28d | [Apply](https://www.zipline.com/open-roles/8038244003?gh_jid=8038244003) ⚡ |
-| Citi (jobs.citi.com) ⭐ | Head of Payments Sanctions and Credit Risk Technology - Director | Head | Jersey City, NJ, US +2 |  | 28d | [Apply](https://jobs.citi.com/job/jersey-city/head-of-payments-sanctions-and-credit-risk-technology-director/287/102161060784) |
 
-_94 older roles in this section are in data/roles.json on the `data` branch._
+_96 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -1009,6 +1015,7 @@ _986 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Nox Metals | 🆕 VP of Production | VP | Los Angeles +2 | $200K–$350K | 0d | [Apply](https://jobs.ashbyhq.com/nox-metals/e3447a68-0bd1-4e8e-adf1-9e0ba54a35f8) ⚡ |
 | Morgan Stanley ⭐ | 🆕 Director, Video Creative & Production | Director | New York, New York, United States of Ameri |  | 0d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Director--Video-Creative---Production_PT-JR046647-1) |
 | Magna | 🆕 Head of Production | Head | Odzaci, RS |  | 0d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Odzaci-RS/Head-of-Production_R00269366-1) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | San Antonio, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646216364477521928) |
@@ -1258,9 +1265,8 @@ _986 older roles in this section are in data/roles.json on the `data` branch._
 | Broadcast Management Group | Vice President of Sports Production and Client Development | VP | Washington, DC, USA |  | 25d | [Apply](https://broadcastmgmtgroup.bamboohr.com/careers/185?source=indeed&src=indeed&postedDate=2026-10-21) |
 | SRS Distribution | Vice President, Infrastructure & Operations | VP | McKinney, TX, USA | $200K–$275K | 25d | [Apply](https://click.appcast.io/t/A1iCIv9eqorzxbmQgdToGQuMkssg39siILuhYA6h8yA=) |
 | Jay Group | Staff Vice President, Technology Operations | VP | Lancaster, Pennsylvania |  | 26d | [Apply](https://www.talent.com/view?id=642551076981771348) |
-| LANXESS Corporation | Vice President - Global Production & Technology | VP | Woodbridge Township, New Jersey |  | 26d | [Apply](https://career.lanxess.com/de/de/job/LARLAHUS8386EXTERNALDEDE/Vice-President-Global-Production-Technology) |
 
-_102 older roles in this section are in data/roles.json on the `data` branch._
+_103 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1929,6 +1935,7 @@ _337 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CVS Health (Phenom) ⭐ | 🆕 Lead Director -  Software Engineering | Director | Work at Home, Kentucky, United States |  | 0d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1096858EXTERNALENUS) |
 | Collibra | 🆕 Senior Director, IT Systems | Sr. Director | Raleigh, North Carolina, USA |  | 0d | [Apply](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8379747) ⚡ |
 | Magna | 🆕 Global Director, IT Internal Audit | Director | Troy, Michigan, US |  | 0d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Global-Director--IT-Internal-Audit_R00270250) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Core Java Technology Lead - Vice President | VP | Chennai, TN, IN |  | 0d | [Apply](https://jobs.citi.com/job/chennai/core-java-technology-lead-vice-president/287/103374647312) |
@@ -2178,9 +2185,8 @@ _337 older roles in this section are in data/roles.json on the `data` branch._
 | ShipFusion | Director, IT | Director | Dallas, TX, USA |  | 9d | [Apply](https://grnh.se/3iag29y18us) |
 | ShipFusion | Director, IT | Director | Irving, TX, USA |  | 9d | [Apply](https://grnh.se/3iag29y18us) |
 | Oracle | 🔁 Consulting Technical Director | Director | United States | $126K–$264K | 10d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349907) |
-| Adaptive Biotechnologies | VP, Information Technology | VP | Houston, Texas | $300K–$450K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5595818540/e/) |
 
-_1046 older roles in this section are in data/roles.json on the `data` branch._
+_1047 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

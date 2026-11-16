@@ -19,21 +19,21 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,930 open roles** at **1,809 companies** · **27 new in the last 24 hours** · 5,998 company career sites watched · updated hourly · last update Nov 16, 2026 03:49 AM ET
+**4,932 open roles** at **1,809 companies** · **29 new in the last 24 hours** · 5,998 company career sites watched · updated hourly · last update Nov 16, 2026 04:51 AM ET
 
-By level: Director 2524 · VP 948 · Sr. Director 622 · Head 309 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
+By level: Director 2526 · VP 948 · Sr. Director 622 · Head 309 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (27)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (29)](#new-in-the-last-24-hours)
 - [🤠 Houston area (191)](#houston-area)
 - [👑 Executive Technology Leadership (182)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
-- [🧠 Data & AI (1230)](#data-ai)
+- [🧠 Data & AI (1231)](#data-ai)
 - [🚦 Reliability & Operations (352)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (443)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (444)](#cloud-infrastructure)
 - [🏛️ Architecture (136)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
 - [🛠️ Engineering & Software (1291)](#engineering-software)
@@ -47,6 +47,8 @@ By level: Director 2524 · VP 948 · Sr. Director 622 · Head 309 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Leidos | 🆕 Director of DevOps | Director | Huntsville, AL, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483613-director-of-devops?tm_job=R-00196999-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
+| Leidos | 🆕 Director, World Model & Data | Director | Huntsville, AL, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483610-director-world-model-and-data?tm_job=R-00196996-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | Magna | 🆕 Head of Production | Head | Odzaci, RS |  | 0d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Odzaci-RS/Head-of-Production_R00269366-1) |
 | Airlock Digital | 🆕 Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 0d | [Apply](https://grnh.se/yfzmd5989us) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
@@ -729,6 +731,7 @@ _92 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Leidos | 🆕 Director, World Model & Data | Director | Huntsville, AL, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483610-director-world-model-and-data?tm_job=R-00196996-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | Confidential | 🆕 Vice President of Artificial Intelligence | VP | Seattle, Washington |  | 1d | [Apply](https://www.talent.com/view?id=646118674707061056) |
 | St. Jude Children's Research Hospital | 🆕 Director, Data and AI; Fully Remote | Director | Remote | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/online_remote/info_technology/5633390948/e/) |
 | Novolex | Director, Data Science | Director | USA | $170K–$220K | 2d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -978,9 +981,8 @@ _92 older roles in this section are in data/roles.json on the `data` branch._
 | Penn Medicine | Senior Director, Cybersecurity Data and Application | Sr. Director | Philadelphia, PA, USA |  | 10d | [Apply](https://careers.pennmedicine.org/en/jobs/18451872-senior-director-cybersecurity-data-and-application?tm_job=UPHS-INFOR-347349&tm_event=view&tm_company=47008) |
 | Baker Tilly Canada | Managing Director, Enterprise Data & Analytics | MD | USA IL Chicago 800 W Fulton +5 |  | 10d | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IL-Chicago-800-W-Fulton/Managing-Director--Enterprise-Data---Analytics_JR108937) |
 | Crux AI | VP, AI Ops | VP | Palo Alto · Remote |  | 10d | [Apply](https://jobs.ashbyhq.com/crux/b48c9435-876c-4f38-89e1-c7cd4cded36e) ⚡ |
-| Compass Group USA | Vice President, Data Center Technology | VP | Charlotte, NC, USA |  | 10d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/44dbeadd82458b7689f951ca2fe4aae4f4d2179d48e0868d9c7b436a/) |
 
-_980 older roles in this section are in data/roles.json on the `data` branch._
+_981 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1247,6 +1249,7 @@ _102 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Leidos | 🆕 Director of DevOps | Director | Huntsville, AL, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483613-director-of-devops?tm_job=R-00196999-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | convene | 🆕 Director, Cloud Infrastructure | Director | Dallas, Texas | $198K–$242K | 1d | [Apply](https://www.learn4good.com/jobs/dallas/texas/info_technology/5636939035/e/) |
 | Confidential | 🆕 Vice President, Platform & Technology Partnerships | VP | San Jose, California |  | 2d | [Apply](https://www.talent.com/view?id=646037302956136768) |
 | Meta | Director, Enterprise Platform | Director | Menlo Park, CA, USA | $242K–$296K | 2d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004pn7UAA&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1168031035721735%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dc3196c4f-dfa0-11f1-8ff8-51555dd77ec2%26rx_job%3Da1KiE0000004pn7UAA%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261114T060421Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
@@ -1496,9 +1499,8 @@ _102 older roles in this section are in data/roles.json on the `data` branch._
 | Huntington Bank | Director, Portfolio Manager - Project Finance and Infrastructure | Director | Cleveland, OH +13 | $93K–$217K | 24d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cleveland-OH/Director--Portfolio-Manager---Project-Finance-and-Infrastructure_R0075187) |
 | Coca-Cola ⭐ | Director, Functional Platform Leader | Director | US - GA - Atlanta |  | 24d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Functional-Platform-Leader_R-146791) |
 | Coca-Cola ⭐ | Director, Cloud Software Architect | Director | US - GA - Atlanta |  | 24d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Cloud-Software-Architect_R-147930) |
-| Econolite | VP of Cloud Development | VP | Remote | $200K–$230K | 24d | [Apply](https://www.linkedin.com/jobs/view/vp-of-cloud-development%09-at-econolite-4481618783) |
 
-_193 older roles in this section are in data/roles.json on the `data` branch._
+_194 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 

@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-191 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+192 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| WSP | 🆕 Technical Director, Project Management - Power Generation Package Manager | Director | Houston, TX, United States |  | 0d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99514) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | 🆕 Vice President, Solution Architecture | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112500632657928) |
 | Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515055820808) |

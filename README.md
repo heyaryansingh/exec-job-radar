@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,930 open roles** at **1,808 companies** · **25 new in the last 24 hours** · 5,997 company career sites watched · updated hourly · last update Nov 16, 2026 12:55 AM ET
+**4,927 open roles** at **1,808 companies** · **25 new in the last 24 hours** · 5,998 company career sites watched · updated hourly · last update Nov 16, 2026 01:45 AM ET
 
-By level: Director 2524 · VP 948 · Sr. Director 623 · Head 308 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
+By level: Director 2523 · VP 948 · Sr. Director 621 · Head 308 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -35,10 +35,10 @@ By level: Director 2524 · VP 948 · Sr. Director 623 · Head 308 · EVP/SVP 185
 - [🚦 Reliability & Operations (351)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (443)](#cloud-infrastructure)
 - [🏛️ Architecture (136)](#architecture)
-- [🔄 Transformation & Delivery (585)](#transformation-delivery)
-- [🛠️ Engineering & Software (1292)](#engineering-software)
+- [🔄 Transformation & Delivery (584)](#transformation-delivery)
+- [🛠️ Engineering & Software (1290)](#engineering-software)
 - [📌 Other Senior Roles (369)](#other-senior-roles)
-- [🔒 Recently closed (193)](#recently-closed)
+- [🔒 Recently closed (196)](#recently-closed)
 - Daily digests: [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,19 +47,19 @@ By level: Director 2524 · VP 948 · Sr. Director 623 · Head 308 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | San Antonio, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646216364477521928) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | Seattle, Washington |  | 1d | [Apply](https://www.talent.com/view?id=646118652270876992) |
+| Confidential | 🆕 Vice President, Solution Architecture | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112500632657928) |
 | Confidential | 🆕 Vice President of Artificial Intelligence | VP | Seattle, Washington |  | 1d | [Apply](https://www.talent.com/view?id=646118674707061056) |
+| Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515055820808) |
+| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
+| Confidential | 🆕 Vice President, Product Strategy, Technology Workflows | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112547522813960) |
 | convene | 🆕 Director, Cloud Infrastructure | Director | Dallas, Texas | $198K–$242K | 1d | [Apply](https://www.learn4good.com/jobs/dallas/texas/info_technology/5636939035/e/) |
+| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 1d | [Apply](https://www.talent.com/view?id=646129261265881618) |
 | forhyre.com | 🆕 Chief Technology Officer | C-level | Mt Pleasant, Pennsylvania |  | 1d | [Apply](https://www.talent.com/view?id=644479235642687645) |
 | Lumira Search | 🆕 Chief Technology Officer | C-level | Upper Darby Township, Pennsylvania | $180K–$280K | 1d | [Apply](https://www.learn4good.com/jobs/upper-darby-township/pennsylvania/manufacturing/5638449647/e/) |
 | MedFlo AI | 🆕 Chief Technology Officer | C-level | Camden, New Jersey | $240K–$360K | 1d | [Apply](https://www.learn4good.com/jobs/camden/new-jersey/software_development/5638332760/e/) |
-| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
-| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 1d | [Apply](https://www.talent.com/view?id=646129261265881618) |
-| Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
-| Confidential | 🆕 Vice President, Product Strategy, Technology Workflows | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112547522813960) |
-| Confidential | 🆕 Vice President, Solution Architecture | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112500632657928) |
-| Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515055820808) |
 | Expedia Group ⭐ | 🆕 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 1d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
 | Berkshire Hathaway Specialty Insurance | 🆕 Director, Application Security | Director | Boston, MA, USA | $180K–$210K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eebd886f-daae-4f3a-8a1b-d9c9a65d9d49&ccId=19000101_000001&jobId=590586&source=IN&lang=en_US) |
 | Swyftx | 🆕 Director of Information Security | Director | Remote, USA | $220K–$300K | 1d | [Apply](https://www.indeed.com/viewjob?jk=83ff92ce1c29dde0) |
@@ -68,9 +68,9 @@ By level: Director 2524 · VP 948 · Sr. Director 623 · Head 308 · EVP/SVP 185
 | Columbia Sportswear | 🆕 Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, Oregon, United States of America |  | 1d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) [alt](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Atlassian | 🆕 Head of Product Security (US) (M70) | Head | San Francisco, CA, USA · Remote | $228K–$331K | 1d | [Apply](https://careers-americas.icims.com/jobs/27642/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Confidential | 🆕 Vice President of Technology | VP | San Antonio, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646042443522050578) |
-| Vizance | 🆕 Director of Technology and Innovation | Director | Hartland, Wisconsin |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-technology-and-innovation-at-vizance-4488964210) |
 | Confidential | 🆕 Vice President, Platform & Technology Partnerships | VP | San Jose, California |  | 2d | [Apply](https://www.talent.com/view?id=646037302956136768) |
 | St. Jude Children's Research Hospital | 🆕 Director, Data and AI; Fully Remote | Director | Remote | $180K–$260K | 2d | [Apply](https://www.learn4good.com/jobs/online_remote/info_technology/5633390948/e/) |
+| Vizance | 🆕 Director of Technology and Innovation | Director | Hartland, Wisconsin |  | 2d | [Apply](https://www.linkedin.com/jobs/view/director-of-technology-and-innovation-at-vizance-4488964210) |
 | Wade Trim | 🆕 Client Services Director - Data Centers & Site Development | Director | Pittsburgh, PA |  | 3d | [Apply](https://jobs.lever.co/wadetrim/3f81a654-d4e3-48fa-ad01-9d14acb728e9) ⚡ |
 
 <a name="houston-area"></a>
@@ -81,12 +81,12 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
-| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 1d | [Apply](https://www.talent.com/view?id=646129261265881618) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
-| Confidential | 🆕 Vice President, Product Strategy, Technology Workflows | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112547522813960) |
 | Confidential | 🆕 Vice President, Solution Architecture | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112500632657928) |
 | Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515055820808) |
+| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
+| Confidential | 🆕 Vice President, Product Strategy, Technology Workflows | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112547522813960) |
+| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 1d | [Apply](https://www.talent.com/view?id=646129261265881618) |
 | Confidential | Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646031117181526024) |
 | Radiomedix, Inc. | Director of Preclinical Operations | Director | Houston, TX, USA |  | 2d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 2d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |
@@ -1658,7 +1658,6 @@ _193 older roles in this section are in data/roles.json on the `data` branch._
 | Gilead Sciences ⭐ | Senior Director, Head of Digital Strategy | Head | United States - New Jersey - Parsippany +1 |  | 3d | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---New-Jersey---Parsippany/Senior-Director--Head-of-Digital-Strategy_R0056644-1) |
 | TD | Director, Digital Experience Design Strategy — Transaction Banking | Director | New York, New York | $230K–$245K | 3d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Director--Digital-Experience-Design-Strategy---Transaction-Banking_R_1522289) |
 | AECOM | Program Management Director - Aviation | Director | Arlington, VA, us |  | 3d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161553287-program-management-director-aviation) ⚡ |
-| DaVita | Director, Project and Program Management (Technology) | Director | 02821 - Team Music City |  | 3d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/02821---Team-Music-City/Director--Project-and-Program-Management--Technology-_R0486461) |
 | Labcorp | Senior Director, Strategic Delivery & Transformation | Sr. Director | Durham NC |  | 3d | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Senior-Director--Strategic-Delivery---Transformation_2640005) |
 | USAA ⭐ | Director, Development Product Owner / Claim Modernization | Director | San Antonio Home Office I +6 | $127K–$243K | 3d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Development-Product-Owner---Claim-Modernization_R0122306) |
 | PwC | Digital Grid Modernization Lead, Director | Director | Houston, TX, USA | $155K–$410K | 3d | [Apply](https://jobs-us.pwc.com/us/en/job/773693WD/Digital-Grid-Modernization-Lead-Director) |
@@ -1897,8 +1896,9 @@ _193 older roles in this section are in data/roles.json on the `data` branch._
 | Anduril Industries | Head of Digital, Shipbuilding | Head | Costa Mesa, California, United States | $260K–$345K | 18d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5193031007?gh_jid=5193031007) ⚡ |
 | Guidehouse | Director - Performance Transformation | Director | US - Remote (Any location) |  | 18d | [Apply](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Director---Performance-Transformation_45993) |
 | Arm | Senior Director, Silicon Technical Program Management | Sr. Director | San Jose, CA, USA | $313K–$424K | 18d | [Apply](https://careers.arm.com/job/san-jose/senior-director-silicon-technical-program-management/33099/102580711328) |
+| PODS | VP - Transformation | VP | Clearwater, FL, USA |  | 18d | [Apply](https://recruiting.ultipro.com/POD1000PODSE/JobBoard/9d07ea8d-f781-41bb-9e04-740ffea710c1/OpportunityDetail?opportunityId=63d2d97d-e706-4f57-9efb-7bce529d4249&postingId=0dc37e11-60d6-4fc2-a304-0ac6a927cd8a) [alt](https://careers.pods.com/us/en/job/PODPODUSVPFIN007110EXTERNALENUS/VP-Transformation?utm_source=indeed&utm_medium=phenom-feeds) |
 
-_335 older roles in this section are in data/roles.json on the `data` branch._
+_334 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1906,10 +1906,10 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
-| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 1d | [Apply](https://www.talent.com/view?id=646129261265881618) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515055820808) |
+| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646112515834060808) |
+| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 1d | [Apply](https://www.talent.com/view?id=646129261265881618) |
 | Expedia Group ⭐ | 🆕 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 1d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
 | Fairbanks Morse Defense | 🆕 Technical Director - American Fan | Director | Fairfield, OH, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Confidential | 🆕 Vice President of Technology | VP | San Antonio, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646042443522050578) |
@@ -2121,8 +2121,6 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 | Morgan Stanley ⭐ | Vice President - Lead Software Engineer | VP | New York, New York, United States of Ameri |  | 7d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Vice-President---Lead-Software-Engineer_PT-JR046036) |
 | Cursor | Regional Director, Field Engineering | Director | Remote | $350K–$400K | 7d | [Apply](https://jobs.ashbyhq.com/cursor/ad8b3f43-6c66-4918-8eef-cef5753429bf) ⚡ |
 | BNY ⭐ | Senior Director, Technology Product Management Manager | Sr. Director | New York, NY, United States |  | 7d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83716) |
-| AbbVie ⭐ | Senior Director Process Engineering | Sr. Director | Waltham, MA, us |  | 7d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016735017-senior-director-process-engineering) ⚡ |
-| AbbVie ⭐ | Senior Director Process Engineering | Sr. Director | North Chicago, IL, us |  | 7d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016735406-senior-director-process-engineering) ⚡ |
 | Kimberlyclark | Director, IT Quality & EHS | Director | USA-GA-Atlanta +1 |  | 7d | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-GA-Atlanta/Director--IT-Quality---EHS_888228-1) |
 | Citi (jobs.citi.com) ⭐ | Technology Product Management Group Manager - Senior Vice President | EVP/SVP | Irving, TX, US +1 |  | 7d | [Apply](https://jobs.citi.com/job/irving/technology-product-management-group-manager-senior-vice-president/287/103073599664) |
 | IRC Trane Technologies Company LLC | VP Engineering and Technology | VP | Davidson, North Carolina |  | 7d | [Apply](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Davidson-North-Carolina/VP-Engineering-and-Technology_92506378) |
@@ -2156,8 +2154,10 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 | Buyers Edge Platform | Vice President, Information Technology | VP | Houston, Texas | $210K–$320K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5597667241/e/) |
 | Confidential | Head of Automation Technology | Head | Houston, Texas |  | 10d | [Apply](https://jooble.org/rjdp/-7456862670972494156) |
 | Fidelity Technology Group, LLC | Vice President of Engineering | VP | Jersey City, New Jersey | $140K–$285K | 10d | [Apply](https://startup.jobs/vice-president-of-engineering-fidelity-technology-group-ll-2-10715799) |
+| RAB Lighting | Director of Business Technology | Director | Houston, Texas | $150K–$230K | 10d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5598297350/e/) |
+| Columbia Bank | Model Development & Decision Science Director | Director | Lake Oswego, Oregon |  | 10d | [Apply](https://columbiabank.wd108.myworkdayjobs.com/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) [alt](https://columbiabank.wd108.myworkdayjobs.com/en-US/Columbia/job/Lake-Oswego-Oregon/Model-Development---Decision-Science-Director_JR103962-1) |
 
-_1042 older roles in this section are in data/roles.json on the `data` branch._
+_1040 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2426,6 +2426,9 @@ _119 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| DaVita | 🔒 Director, Project and Program Management (Technology) | Director | 02821 - Team Music City |  | 3d | Closed |
+| AbbVie ⭐ | 🔒 Senior Director Process Engineering | Sr. Director | Waltham, MA, us |  | 7d | Closed |
+| AbbVie ⭐ | 🔒 Senior Director Process Engineering | Sr. Director | North Chicago, IL, us |  | 7d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Network and Data Center Engineering | Director | NY - New York · Remote |  | 14d | Closed |
 | CVS Health ⭐ | 🔒 Executive Director, VBC Analytics Shared Services, Reporting & Technology | ED | CT - Hartford |  | 14d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Product Manager, Merchant Insights AI Transformation-Payments-Vice President | VP | New York, NY, United States |  | 18d | Closed |

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,996 open roles** at **1,825 companies** · **94 new in the last 24 hours** · 6,009 company career sites watched · updated hourly · last update Nov 16, 2026 05:17 PM ET
+**4,998 open roles** at **1,826 companies** · **94 new in the last 24 hours** · 6,009 company career sites watched · updated hourly · last update Nov 16, 2026 05:25 PM ET
 
-By level: Director 2561 · VP 960 · Sr. Director 626 · Head 315 · EVP/SVP 186 · C-level 176 · ED 124 · MD 48
+By level: Director 2563 · VP 960 · Sr. Director 626 · Head 315 · EVP/SVP 186 · C-level 176 · ED 124 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 2561 · VP 960 · Sr. Director 626 · Head 315 · EVP/SVP 186
 - [🤠 Houston area (193)](#houston-area)
 - [👑 Executive Technology Leadership (183)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
-- [🧠 Data & AI (1243)](#data-ai)
+- [🧠 Data & AI (1245)](#data-ai)
 - [🚦 Reliability & Operations (357)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (451)](#cloud-infrastructure)
 - [🏛️ Architecture (138)](#architecture)
@@ -47,11 +47,11 @@ By level: Director 2561 · VP 960 · Sr. Director 626 · Head 315 · EVP/SVP 186
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Buspatrol | 🆕 VP, Implementation and Program Management | VP | US - Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/buspatrol/f16e8d43-60a4-4ad9-bc84-826ad937b080) ⚡ |
 | Chime | 🆕 Director, Incident & Availability Engineering | Director | San Francisco, CA, USA | $253K–$350K | 0d | [Apply](https://boards.greenhouse.io/chime/jobs/8932546002?gh_jid=8932546002) ⚡ |
+| Broadridge | 🆕 VP, Enterprise Engineering (Hybrid) | VP | Newark, NJ |  | 0d | [Apply](https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ/VP--Enterprise-Engineering--Hybrid-_JR1087496) |
 | Live Nation | 🆕 Director, Incident Response & Security Operations | Director | US CA Beverly Hills - 325 N Maple Drive +3 |  | 0d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director---Cyber-Security-Operations_JR-93115) |
 | S&P Global ⭐ | 🆕 Sr. Director, Software Engineering – Data Platform & MDM Integration | Sr. Director | US - NY NYC - 55 WATER ST |  | 0d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---NY-NYC---55-WATER-ST/Sr-Director--Software-Engineering---Data-Platform---MDM-Integration_328961) |
-| Broadridge | 🆕 VP, Enterprise Engineering (Hybrid) | VP | Newark, NJ |  | 0d | [Apply](https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ/VP--Enterprise-Engineering--Hybrid-_JR1087496) |
-| Buspatrol | 🆕 VP, Implementation and Program Management | VP | US - Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/buspatrol/f16e8d43-60a4-4ad9-bc84-826ad937b080) ⚡ |
 | Amazon ⭐ | 🆕 Head of Series Photo Production, Photo Production | Head | Culver City, California, USA |  | 0d | [Apply](https://www.amazon.jobs/en/jobs/10606559/head-of-series-photo-production-photo-production) |
 | Bank Policy Institute | 🆕 VICE PRESIDENT, TECHNOLOGY & SECURITY | VP | Washington, DC, USA | $175K–$220K | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A15AEF4691E2E01F0016518C47919805/jobs/524633?source=Indeed) |
 | Blackpoint Cyber | 🆕 Director of Engineering, Detection & Response | Director | USA · Remote | $240K–$263K | 0d | [Apply](https://jobs.ashbyhq.com/Blackpoint%20Cyber/7fe3cf7c-540d-4b22-8366-300ec0feb356?utm_source=GVavA4gNJ3) |
@@ -1050,7 +1050,7 @@ _100 older roles in this section are in data/roles.json on the `data` branch._
 | Banner Health | VP, Data Engineering & BI | VP | Phoenix, AZ, USA |  | 10d | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/VP--Data-Engineering---BI_R4460177) |
 | Choice Hotels | VP, Data & AI Strategy | VP | North Bethesda MD - Corporate Headquarters | $250K–$350K | 10d | [Apply](https://choicehotels.wd5.myworkdayjobs.com/External/job/North-Bethesda-MD---Corporate-Headquarters/VP--AI---Data-Strategy_R22491) |
 
-_993 older roles in this section are in data/roles.json on the `data` branch._
+_995 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

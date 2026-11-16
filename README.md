@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,912 open roles** at **1,801 companies** · **22 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 07:06 PM ET
+**4,913 open roles** at **1,802 companies** · **20 new in the last 24 hours** · 5,995 company career sites watched · updated hourly · last update Nov 15, 2026 08:06 PM ET
 
-By level: Director 2520 · VP 938 · Sr. Director 623 · Head 307 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2520 · VP 938 · Sr. Director 623 · Head 308 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (22)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (20)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
-- [🧠 Data & AI (1229)](#data-ai)
+- [🧠 Data & AI (1230)](#data-ai)
 - [🚦 Reliability & Operations (348)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (441)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
@@ -47,6 +47,7 @@ By level: Director 2520 · VP 938 · Sr. Director 623 · Head 307 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| ERAGON | 🆕 Head of Applied AI | Head | San Francisco, CA, USA | $350K–$500K | 0d | [Apply](https://jobs.ashbyhq.com/Eragon/17d9228d-2d74-4600-9825-27ea9b7af706?utm_source=2QRZdprEzj) |
 | Berkshire Hathaway Specialty Insurance | 🆕 Director, Application Security | Director | Boston, MA, USA | $180K–$210K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eebd886f-daae-4f3a-8a1b-d9c9a65d9d49&ccId=19000101_000001&jobId=590586&source=IN&lang=en_US) |
 | Swyftx | 🆕 Director of Information Security | Director | Remote, USA | $220K–$300K | 1d | [Apply](https://www.indeed.com/viewjob?jk=83ff92ce1c29dde0) |
 | Titan | 🆕 Director of Security Operations & Detection Engineering, RFA | Director | Remote (US) |  | 1d | [Apply](https://jobs.ashbyhq.com/titan-msp/7fb27818-be9d-4a94-8416-f62a093cb1ce) ⚡ |
@@ -57,8 +58,6 @@ By level: Director 2520 · VP 938 · Sr. Director 623 · Head 307 · EVP/SVP 185
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 2d | [Apply](https://www.talent.com/view?id=646037297763195200) |
 | Confidential | 🆕 Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646031117181526024) |
 | Pantheon Systems, Inc | 🆕 Director, IT | Director | United States (Remote) | $167K–$232K | 2d | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8387988) ⚡ |
-| United Plastic Fabricating Inc | 🆕 Director of Engineering | Director | Ocala, FL, USA |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4665834/United-Plastic-Fabricating-Inc/Director-of-Engineering?source=Indeed_Feed) |
-| Digi-Key Electronics | 🆕 Senior Director, Information Technology Fulfillment Systems | Sr. Director | Thief River Falls, MN |  | 2d | [Apply](https://digikey.wd5.myworkdayjobs.com/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) [alt](https://digikey.wd5.myworkdayjobs.com/en-US/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) |
 | Wade Trim | 🆕 Client Services Director - Data Centers & Site Development | Director | Pittsburgh, PA |  | 3d | [Apply](https://jobs.lever.co/wadetrim/3f81a654-d4e3-48fa-ad01-9d14acb728e9) ⚡ |
 | Confidential | 🆕 Vice President of Information Technology Architecture | VP | Germantown, Tennessee |  | 3d | [Apply](https://www.talent.com/view?id=645906740781260808) |
 | Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645907245547067712) |
@@ -68,7 +67,6 @@ By level: Director 2520 · VP 938 · Sr. Director 623 · Head 307 · EVP/SVP 185
 | Digital Science | 🆕 VP of Technology, Platform | VP | North East, Maryland |  | 3d | [Apply](https://www.linkedin.com/jobs/view/vp-of-technology-platform-at-digital-science-4490518722) |
 | NEQ Operating | 🆕 Director, Information Technology - Houston, TX | Director | Houston, Texas |  | 3d | [Apply](https://www.monster.com/job-openings/director-information-technology-houston-tx-houston-tx--64ece266-f86e-48cd-9572-a1f2143f2c50) |
 | Protégé Hunters | 🆕 Strategic IT VP: ERP & Sage Leader | VP | Houston, Texas | $170K–$230K | 3d | [Apply](https://www.learn4good.com/jobs/houston/texas/management_and_managerial/5629592918/e/) |
-| 8x8 | 🆕 Director, Site Reliability Engineering | Director | US-Remote |  | 3d | [Apply](https://8x8inc.wd5.myworkdayjobs.com/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) [alt](https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) |
 
 <a name="houston-area"></a>
 
@@ -715,6 +713,7 @@ _92 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| ERAGON | 🆕 Head of Applied AI | Head | San Francisco, CA, USA | $350K–$500K | 0d | [Apply](https://jobs.ashbyhq.com/Eragon/17d9228d-2d74-4600-9825-27ea9b7af706?utm_source=2QRZdprEzj) |
 | Novolex | Director, Data Science | Director | USA | $170K–$220K | 2d | [Apply](https://careers-novolex.icims.com/jobs/36672/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | University of Phoenix | Senior Director Digital & AI Analytics | Sr. Director | Phoenix, AZ, USA · Remote | $210K–$286K | 2d | [Apply](https://uop.avature.net/careers/JobDetail/MK457-Sr-Dir-Dig-AI-Analytics/26095) |
 | Pfizer ⭐ | Director, Solution Engineer, Data Storage and Registration | Director | United States - New York - New York City +12 |  | 2d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--Solution-Engineer--Data-Storage-and-Registration_4967999-1) |
@@ -964,9 +963,8 @@ _92 older roles in this section are in data/roles.json on the `data` branch._
 | Crux AI | VP, AI Ops | VP | Palo Alto · Remote |  | 10d | [Apply](https://jobs.ashbyhq.com/crux/b48c9435-876c-4f38-89e1-c7cd4cded36e) ⚡ |
 | Compass Group USA | Vice President, Data Center Technology | VP | Charlotte, NC, USA |  | 10d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/44dbeadd82458b7689f951ca2fe4aae4f4d2179d48e0868d9c7b436a/) |
 | ICW Group | Director, Applied AI Engineering | Director | San Diego, CA, USA | $161K–$288K | 10d | [Apply](https://rr.jobsyn.org/4F3EE07CD3E049EAAA69A69EA204A2DE1554) |
-| Hewlett Packard Enterprise / HPE | Director Product Manager, Cloud Infrastructure and AI Networking | Director | Sunnyvale, CA, USA | $197K–$420K | 10d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1217321EXTERNALENUS/Director-Product-Manager-Cloud-Infrastructure-and-AI-Networking?utm_source=indeed&utm_medium=phenom-feeds) |
 
-_979 older roles in this section are in data/roles.json on the `data` branch._
+_980 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -978,7 +976,7 @@ _979 older roles in this section are in data/roles.json on the `data` branch._
 | BUTLER COUNTY EDUCATIONAL SERVICE CENTER | SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Hamilton, OH, USA |  | 2d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992327) |
 | Greater Cincinnati School Application Consortium | SENIOR DIRECTOR - TECHNOLOGY OPERATIONS | Sr. Director | Cincinnati, OH, USA |  | 2d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5992336) |
 | Radiomedix, Inc. | Director of Preclinical Operations | Director | Houston, TX, USA |  | 2d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
-| 8x8 | 🆕 Director, Site Reliability Engineering | Director | US-Remote |  | 3d | [Apply](https://8x8inc.wd5.myworkdayjobs.com/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) [alt](https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) |
+| 8x8 | Director, Site Reliability Engineering | Director | US-Remote |  | 3d | [Apply](https://8x8inc.wd5.myworkdayjobs.com/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) [alt](https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/US-Remote/Director--Site-Reliability-Engineering_R2902-1) |
 | Mohawk Industries | IT Director, Infrastructure & Operations | Director | Dallas, TX, USA |  | 3d | [Apply](https://careers.mohawkind.com/DalTile/job/Dallas-IT-Director%2C-Infrastructure-&-Operations-Texa-75217/1450633600/) |
 | Pacific Seafood | Director of Technical Operations | Director | Clackamas, OR, USA |  | 3d | [Apply](https://careers.pacificseafood.com/postings/590094fc-2a29-448f-9145-6a51845a7772?utm_medium=job_board&utm_source=indeed) |
 | Dal-Tile | IT Director, Infrastructure & Operations - | Director | Dallas, TX, USA |  | 3d | [Apply](https://daltile.betterteam.com/it-director-infrastructure-operations-%28ft%29?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic) [alt](https://rr.jobsyn.org/3E33639EBCF440C2ADDF62AE3D795BD91554) |
@@ -1896,8 +1894,8 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 | Fairbanks Morse Defense | 🆕 Technical Director - American Fan | Director | Fairfield, OH, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 2d | [Apply](https://www.talent.com/view?id=646037297763195200) |
 | Pantheon Systems, Inc | 🆕 Director, IT | Director | United States (Remote) | $167K–$232K | 2d | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8387988) ⚡ |
-| United Plastic Fabricating Inc | 🆕 Director of Engineering | Director | Ocala, FL, USA |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4665834/United-Plastic-Fabricating-Inc/Director-of-Engineering?source=Indeed_Feed) |
-| Digi-Key Electronics | 🆕 Senior Director, Information Technology Fulfillment Systems | Sr. Director | Thief River Falls, MN |  | 2d | [Apply](https://digikey.wd5.myworkdayjobs.com/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) [alt](https://digikey.wd5.myworkdayjobs.com/en-US/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) |
+| United Plastic Fabricating Inc | Director of Engineering | Director | Ocala, FL, USA |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4665834/United-Plastic-Fabricating-Inc/Director-of-Engineering?source=Indeed_Feed) |
+| Digi-Key Electronics | Senior Director, Information Technology Fulfillment Systems | Sr. Director | Thief River Falls, MN |  | 2d | [Apply](https://digikey.wd5.myworkdayjobs.com/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) [alt](https://digikey.wd5.myworkdayjobs.com/en-US/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) |
 | FINANCIAL INFO SVCS AGENCY | Director of Technical Services | Director | Manhattan, NY, USA | $94K–$225K | 2d | [Apply](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) |
 | NEX Inc. | Director of IT | Director | San Jose, CA, USA · Remote | $175K–$250K | 2d | [Apply](https://grnh.se/m9wa6sja8us) |
 | OnTrac | VP, Technology | VP | Remote, USA | $228K–$342K | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/ontrac/CANDIDATEPORTAL/jobs/79136) |

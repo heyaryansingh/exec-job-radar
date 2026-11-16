@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,928 open roles** at **1,809 companies** · **26 new in the last 24 hours** · 5,998 company career sites watched · updated hourly · last update Nov 16, 2026 02:51 AM ET
+**4,930 open roles** at **1,809 companies** · **27 new in the last 24 hours** · 5,998 company career sites watched · updated hourly · last update Nov 16, 2026 03:49 AM ET
 
-By level: Director 2524 · VP 948 · Sr. Director 621 · Head 308 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
+By level: Director 2524 · VP 948 · Sr. Director 622 · Head 309 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (26)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (27)](#new-in-the-last-24-hours)
 - [🤠 Houston area (191)](#houston-area)
 - [👑 Executive Technology Leadership (182)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
 - [🧠 Data & AI (1230)](#data-ai)
-- [🚦 Reliability & Operations (351)](#reliability-operations)
+- [🚦 Reliability & Operations (352)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (443)](#cloud-infrastructure)
 - [🏛️ Architecture (136)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
 - [🛠️ Engineering & Software (1291)](#engineering-software)
-- [📌 Other Senior Roles (369)](#other-senior-roles)
+- [📌 Other Senior Roles (370)](#other-senior-roles)
 - [🔒 Recently closed (196)](#recently-closed)
 - Daily digests: [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md)
 
@@ -47,6 +47,7 @@ By level: Director 2524 · VP 948 · Sr. Director 621 · Head 308 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Magna | 🆕 Head of Production | Head | Odzaci, RS |  | 0d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Odzaci-RS/Head-of-Production_R00269366-1) |
 | Airlock Digital | 🆕 Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 0d | [Apply](https://grnh.se/yfzmd5989us) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | San Antonio, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646216364477521928) |
@@ -987,6 +988,7 @@ _980 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Magna | 🆕 Head of Production | Head | Odzaci, RS |  | 0d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Odzaci-RS/Head-of-Production_R00269366-1) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | San Antonio, Texas |  | 1d | [Apply](https://www.talent.com/view?id=646216364477521928) |
 | Confidential | 🆕 Vice President, People Technology & Operations | VP | Seattle, Washington |  | 1d | [Apply](https://www.talent.com/view?id=646118652270876992) |
 | TAIT | VP, Event Production & Project Delivery | VP | Lititz, PA, USA |  | 2d | [Apply](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) |
@@ -1236,9 +1238,8 @@ _980 older roles in this section are in data/roles.json on the `data` branch._
 | LANXESS Corporation | Vice President - Global Production & Technology | VP | Woodbridge Township, New Jersey |  | 26d | [Apply](https://career.lanxess.com/de/de/job/LARLAHUS8386EXTERNALDEDE/Vice-President-Global-Production-Technology) |
 | Aligned Data Centers | VP, Operations - North Region | VP | IAD-01 +4 |  | 26d | [Apply](https://aligneddc.wd12.myworkdayjobs.com/aligneddc/job/IAD-01/VP--Operations---South-Region_JR101023) |
 | Aligned Data Centers | VP, Operations - North Region | VP | Frederick, MD, USA |  | 26d | [Apply](https://aligneddc.wd12.myworkdayjobs.com/aligneddc/job/IAD-01/VP--Operations---South-Region_JR101023) |
-| Avav | Director, Planning and Production Control | Director | Simi Valley, CA | $163K–$261K | 26d | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Director--Planning-and-Production-Control_9155) |
 
-_101 older roles in this section are in data/roles.json on the `data` branch._
+_102 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -2227,6 +2228,7 @@ _1041 older roles in this section are in data/roles.json on the `data` branch._
 | Adtran | Sr. Director, Finance | Sr. Director | Huntsville, AL, USA |  | 9d | [Apply](https://adtran.wd3.myworkdayjobs.com/en-US/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | Mutual of Omaha | IS Area Director | Director | Remote, USA | $190K–$215K | 9d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
 | Relativity | Director, Innovation and Enablement | Director | VA, USA | $211K–$317K | 9d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia/Director--Innovation-and-Enablement_26-0527-1) |
+| SiFive | Sr Director, SW Product Management (req Posted 10 Days Ago) | Sr. Director | Oregon +1 |  | 10d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | SiFive | Sr Director, SW Product Management (req Posted 9 Days Ago) | Sr. Director | Oregon +1 |  | 10d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | SiFive | Sr Director, SW Product Management (req Posted 8 Days Ago) | Sr. Director | Oregon +1 |  | 10d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | SiFive | Sr Director, SW Product Management (req Posted 7 Days Ago) | Sr. Director | Oregon +1 |  | 10d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
@@ -2415,9 +2417,8 @@ _1041 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Principal Engineer – Vice President | VP | Irving, TX, US +1 |  | 28d | [Apply](https://jobs.citi.com/job/irving/principal-engineer-vice-president/287/102161042640) [alt](https://jobs.citi.com/job/irving/principal-engineer-vice-president/287/102473339808) |
 | Citi (jobs.citi.com) ⭐ | Java Full Stack Developer - VP | VP | Mississauga, ON, CA |  | 28d | [Apply](https://jobs.citi.com/job/mississauga/java-full-stack-developer-vp/287/102161043392) |
 | Citi (jobs.citi.com) ⭐ | Senior Java Angular Engineer - Tech Lead - Vice President | VP | Jersey City, NJ, US |  | 28d | [Apply](https://jobs.citi.com/job/jersey-city/senior-java-angular-engineer-tech-lead-vice-president/287/102161043552) |
-| Citi (jobs.citi.com) ⭐ | Full Stack Engineer - Vice President | VP | Pune, MH, IN |  | 28d | [Apply](https://jobs.citi.com/job/pune/full-stack-engineer-vice-president/287/102161044944) |
 
-_119 older roles in this section are in data/roles.json on the `data` branch._
+_120 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

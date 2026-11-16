@@ -19,20 +19,20 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,914 open roles** at **1,802 companies** · **20 new in the last 24 hours** · 5,996 company career sites watched · updated hourly · last update Nov 15, 2026 08:54 PM ET
+**4,915 open roles** at **1,802 companies** · **19 new in the last 24 hours** · 5,996 company career sites watched · updated hourly · last update Nov 15, 2026 10:00 PM ET
 
-By level: Director 2520 · VP 939 · Sr. Director 623 · Head 308 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
+By level: Director 2521 · VP 939 · Sr. Director 623 · Head 308 · EVP/SVP 185 · C-level 172 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (20)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (19)](#new-in-the-last-24-hours)
 - [🤠 Houston area (185)](#houston-area)
 - [👑 Executive Technology Leadership (179)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
 - [🧠 Data & AI (1230)](#data-ai)
-- [🚦 Reliability & Operations (348)](#reliability-operations)
+- [🚦 Reliability & Operations (349)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (441)](#cloud-infrastructure)
 - [🏛️ Architecture (135)](#architecture)
 - [🔄 Transformation & Delivery (584)](#transformation-delivery)
@@ -57,7 +57,6 @@ By level: Director 2520 · VP 939 · Sr. Director 623 · Head 308 · EVP/SVP 185
 | TAIT | 🆕 VP, Event Production & Project Delivery | VP | Lititz, PA, USA |  | 2d | [Apply](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 2d | [Apply](https://www.talent.com/view?id=646037297763195200) |
 | Confidential | 🆕 Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646031117181526024) |
-| Pantheon Systems, Inc | 🆕 Director, IT | Director | United States (Remote) | $167K–$232K | 2d | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8387988) ⚡ |
 | Wade Trim | 🆕 Client Services Director - Data Centers & Site Development | Director | Pittsburgh, PA |  | 3d | [Apply](https://jobs.lever.co/wadetrim/3f81a654-d4e3-48fa-ad01-9d14acb728e9) ⚡ |
 | Confidential | 🆕 Vice President of Information Technology Architecture | VP | Germantown, Tennessee |  | 3d | [Apply](https://www.talent.com/view?id=645906740781260808) |
 | Confidential | 🆕 Senior Vice President, Product & Technology | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645907245547067712) |
@@ -985,6 +984,7 @@ _980 older roles in this section are in data/roles.json on the `data` branch._
 | Gilead Sciences ⭐ | Director, Process Engineering - Head of Internal Operations | Head | United States - California - Foster City +1 |  | 3d | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--Process-Engineering---Head-of-Internal-Operations_R0056538-1) |
 | Plansee Group | Head of Production Planning & Logistics | Head | Franklin, MA, USA |  | 3d | [Apply](https://myhr.wd3.myworkdayjobs.com/PlanseeGroup_Career/job/Franklin-MA-USA/Logistics-Manager_JR-12465) |
 | Alaska Airlines | Director, Quality & Reliability Engineering | Director | SeaTac, WA, USA | $198K–$308K | 3d | [Apply](https://corporatejobs-alaskaair.icims.com/jobs/23395/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Oracle | Director, Support Engineering | Director | United States | $115K–$235K | 4d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350407) |
 | Fidelity Investments | Director, Site Reliability Engineering | Director | Durham, NC, USA |  | 4d | [Apply](https://jobs.fidelity.com/en/jobs/2137046/director-site-reliability-engineering/) |
 | TEAM | VP, Experiential Ops & Production | VP | USA-NY - Brooklyn (Dumbo) +5 · Remote |  | 4d | [Apply](https://teamwass.wd5.myworkdayjobs.com/wassermancareers/job/USA-NY---Brooklyn-Dumbo/VP--Experiential-Ops---Production_R5468) |
 | Fidelity ⭐ | Director, Site Reliability Engineering | Director | Durham, NC |  | 4d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Durham-NC/Director--Site-Reliability-Engineering_2137046-1) |
@@ -1221,9 +1221,8 @@ _980 older roles in this section are in data/roles.json on the `data` branch._
 | Avav | Director, Planning and Production Control | Director | Simi Valley, CA | $163K–$261K | 26d | [Apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Director--Planning-and-Production-Control_9155) |
 | CVS Health (Phenom) ⭐ | Director, Digital Strategy & Operations | Director | Work At Home, Boston, Massachusetts,United |  | 26d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1059632EXTERNALENUS) |
 | BNY ⭐ | Director, Production Services Infrastructure Support | Director | United States |  | 26d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82690) |
-| Citi (jobs.citi.com) ⭐ | Production Support Manager – Senior Vice President | EVP/SVP | Tampa, FL, US |  | 26d | [Apply](https://jobs.citi.com/job/tampa/production-support-manager-senior-vice-president/287/102224908048) |
 
-_98 older roles in this section are in data/roles.json on the `data` branch._
+_99 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1894,7 +1893,7 @@ _334 older roles in this section are in data/roles.json on the `data` branch._
 | Expedia Group ⭐ | 🆕 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 1d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
 | Fairbanks Morse Defense | 🆕 Technical Director - American Fan | Director | Fairfield, OH, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Confidential | 🆕 Vice President of Information Technology | VP | Worcester, Massachusetts |  | 2d | [Apply](https://www.talent.com/view?id=646037297763195200) |
-| Pantheon Systems, Inc | 🆕 Director, IT | Director | United States (Remote) | $167K–$232K | 2d | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8387988) ⚡ |
+| Pantheon Systems, Inc | Director, IT | Director | United States (Remote) | $167K–$232K | 2d | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8387988) ⚡ |
 | United Plastic Fabricating Inc | Director of Engineering | Director | Ocala, FL, USA |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4665834/United-Plastic-Fabricating-Inc/Director-of-Engineering?source=Indeed_Feed) |
 | Digi-Key Electronics | Senior Director, Information Technology Fulfillment Systems | Sr. Director | Thief River Falls, MN |  | 2d | [Apply](https://digikey.wd5.myworkdayjobs.com/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) [alt](https://digikey.wd5.myworkdayjobs.com/en-US/Digi-Key/job/Thief-River-Falls-MN/Senior-Director--Information-Technology-Fulfillment-Systems_R6079) |
 | FINANCIAL INFO SVCS AGENCY | Director of Technical Services | Director | Manhattan, NY, USA | $94K–$225K | 2d | [Apply](https://cityjobs.nyc.gov/job/director-of-technical-services-in-manhattan-jid-49225) |

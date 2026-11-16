@@ -19,21 +19,21 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**4,943 open roles** at **1,809 companies** · **32 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 06:38 AM ET
+**4,944 open roles** at **1,809 companies** · **33 new in the last 24 hours** · 6,000 company career sites watched · updated hourly · last update Nov 16, 2026 06:49 AM ET
 
-By level: Director 2533 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
+By level: Director 2534 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185 · C-level 175 · ED 119 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (32)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
 - [🤠 Houston area (191)](#houston-area)
 - [👑 Executive Technology Leadership (182)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (342)](#security-risk-technology)
 - [🧠 Data & AI (1233)](#data-ai)
 - [🚦 Reliability & Operations (352)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (445)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (446)](#cloud-infrastructure)
 - [🏛️ Architecture (137)](#architecture)
 - [🔄 Transformation & Delivery (585)](#transformation-delivery)
 - [🛠️ Engineering & Software (1296)](#engineering-software)
@@ -47,9 +47,10 @@ By level: Director 2533 · VP 951 · Sr. Director 622 · Head 310 · EVP/SVP 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Pega Developer - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/lead-pega-developer-vice-president/287/103370639184) |
+| Leidos | 🆕 Director of DevOps | Director | Reston, VA, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483612-director-of-devops?tm_job=R-00196999&tm_event=view&tm_company=2502) |
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Lead Pega Developer - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/lead-pega-developer-vice-president/287/103370639184) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
 | Marriott International ⭐ | 🆕 Director of Engineering – Pre-Opening The Luxury Collection Muscat Grand Blue City Oman, Muscat | Director | Muscat, Oman |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26149693) |
 | Leidos | 🆕 Director, World Model & Data | Director | Huntsville, AL, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483610-director-world-model-and-data?tm_job=R-00196996-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | Leidos | 🆕 Director of DevOps | Director | Huntsville, AL, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483613-director-of-devops?tm_job=R-00196999-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
@@ -1252,6 +1253,7 @@ _102 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Leidos | 🆕 Director of DevOps | Director | Reston, VA, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483612-director-of-devops?tm_job=R-00196999&tm_event=view&tm_company=2502) |
 | Leidos | 🆕 Director of DevOps | Director | Huntsville, AL, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18483613-director-of-devops?tm_job=R-00196999-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | convene | 🆕 Director, Cloud Infrastructure | Director | Dallas, Texas | $198K–$242K | 1d | [Apply](https://www.learn4good.com/jobs/dallas/texas/info_technology/5636939035/e/) |
 | Confidential | 🆕 Vice President, Platform & Technology Partnerships | VP | San Jose, California |  | 2d | [Apply](https://www.talent.com/view?id=646037302956136768) |
@@ -1501,9 +1503,8 @@ _102 older roles in this section are in data/roles.json on the `data` branch._
 | Sentry | Director of Engineering, Platform (Runtime & Stateful Systems) | Director | San Francisco, California · Remote | $300K–$450K | 23d | [Apply](https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e) ⚡ |
 | Qualcomm | Senior Director, EDA & HPC Engineering Platforms | Sr. Director | San Diego, CA, USA | $230K–$345K | 23d | [Apply](https://app.eightfold.ai/careers/job/446721705973?domain=qualcomm.com) |
 | Huntington Bank | Director, Portfolio Manager - Project Finance and Infrastructure | Director | Cleveland, OH +13 | $93K–$217K | 24d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Cleveland-OH/Director--Portfolio-Manager---Project-Finance-and-Infrastructure_R0075187) |
-| Coca-Cola ⭐ | Director, Functional Platform Leader | Director | US - GA - Atlanta |  | 24d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Functional-Platform-Leader_R-146791) |
 
-_195 older roles in this section are in data/roles.json on the `data` branch._
+_196 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1914,8 +1915,8 @@ _335 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 0d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
 | Marriott International ⭐ | 🆕 Director of Engineering – Pre-Opening The Luxury Collection Muscat Grand Blue City Oman, Muscat | Director | Muscat, Oman |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26149693) |
 | Airlock Digital | 🆕 Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 0d | [Apply](https://grnh.se/yfzmd5989us) |
 | Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 1d | [Apply](https://www.talent.com/view?id=645908799350835730) |

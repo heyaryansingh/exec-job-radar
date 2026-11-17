@@ -6,12 +6,12 @@
 |---|---|---|---|---|---:|---|
 | Live Nation | 🆕 Director, Incident Response & Security Operations | Director | US CA Beverly Hills - 325 N Maple Drive +3 |  | 1d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director---Cyber-Security-Operations_JR-93115) |
 | WSP | 🆕 Technical Director, Project Management - Power Generation Package Manager | Director | Houston, TX, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99514) |
-| Bayonet Plumbing | 🆕 Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645908799350835730) |
-| Confidential | 🆕 Vice President, Solution Architecture | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112500632657928) |
-| Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112515055820808) |
-| Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112515834060808) |
-| Confidential | 🆕 Vice President, Product Strategy, Technology Workflows | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112547522813960) |
-| Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 2d | [Apply](https://www.talent.com/view?id=646129261265881618) |
+| Bayonet Plumbing | Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645908799350835730) |
+| Confidential | Vice President, Solution Architecture | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112500632657928) |
+| Confidential | Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112515055820808) |
+| Confidential | Executive Director, Technology | ED | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112515834060808) |
+| Confidential | Vice President, Product Strategy, Technology Workflows | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112547522813960) |
+| Encore Global | Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 2d | [Apply](https://www.talent.com/view?id=646129261265881618) |
 | Confidential | Senior Vice President of Transformation | EVP/SVP | Houston, Texas |  | 3d | [Apply](https://www.talent.com/view?id=646031117181526024) |
 | Radiomedix, Inc. | Director of Preclinical Operations | Director | Houston, TX, USA |  | 3d | [Apply](https://radiomedixinc.applytojob.com/apply/SxfUVkJwcM/Director-Of-Preclinical-Operations?source=INDE&~) |
 | Grid United | Senior Director, Land | Sr. Director | Houston, TX, USA |  | 3d | [Apply](https://grid-united.breezy.hr/p/f60f42198719-senior-director-land?source=indeed) |

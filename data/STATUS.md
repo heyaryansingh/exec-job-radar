@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-17T02:07:09+00:00 UTC, 506s
-- Companies working: 416 of 636
-- New roles last run: 1; roles in feed: 1100
-- Universe (all other known career sites): 5374 boards, 3681 checked in the last hour, 54 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1839
-- Skipped (backing off broken sites): 1768; ran out of time: 0
+- Last run: 2026-11-17T03:08:25+00:00 UTC, 574s
+- Companies working: 427 of 636
+- New roles last run: 19; roles in feed: 1119
+- Universe (all other known career sites): 5374 boards, 3692 checked in the last hour, 95 errors; 0 employer names learned; 8 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 406, "senior titles from boards/aggregators": 141}
+- Companies with open roles: 1851
+- Skipped (backing off broken sites): 1725; ran out of time: 0
 
 ## Failing companies
 
@@ -31,6 +31,7 @@
 | Intapp | 7 | HTTP 429 for https://intapp.wd1.myworkdayjobs.com/wday/cxs/intapp/Intapp/jobs |
 | Intuit | 7 | HTTP 429 for https://intuitive.wd1.myworkdayjobs.com/wday/cxs/intuitive/irtc_careers/jobs |
 | Jabil | 7 | HTTP 429 for https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/Jabil_Careers/jobs |
+| Kraft Heinz | 7 | HTTP 429 for https://heinz.wd1.myworkdayjobs.com/wday/cxs/heinz/KraftHeinz_Careers/jobs |
 | LSEG | 7 | HTTP 429 for https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs |
 | LendingClub | 7 | HTTP 429 for https://lendingclub.wd1.myworkdayjobs.com/wday/cxs/lendingclub/External/jobs |
 | Loews | 7 | HTTP 429 for https://loewscorp.wd1.myworkdayjobs.com/wday/cxs/loewscorp/loewscorp/jobs |
@@ -106,7 +107,6 @@
 | Huron Consulting | 6 | HTTP 429 for https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs |
 | Intel | 6 | HTTP 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs |
 | J.M. Smucker | 6 | HTTP 429 for https://smucker.wd5.myworkdayjobs.com/wday/cxs/smucker/US_External_Careers/jobs |
-| Kraft Heinz | 6 | HTTP 429 for https://heinz.wd1.myworkdayjobs.com/wday/cxs/heinz/KraftHeinz_Careers/jobs |
 | Kyndryl | 6 | HTTP 429 for https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylEarlyCareers/jobs |
 | Labcorp | 6 | HTTP 429 for https://labcorp.wd1.myworkdayjobs.com/wday/cxs/labcorp/External/jobs |
 | Lennar | 6 | HTTP 429 for https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/Lennar_Jobs/jobs |

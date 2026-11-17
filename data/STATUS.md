@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-17T14:38:06+00:00 UTC, 523s
-- Companies working: 469 of 636
-- New roles last run: 1; roles in feed: 1178
-- Universe (all other known career sites): 5396 boards, 3740 checked in the last hour, 25 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1867
-- Skipped (backing off broken sites): 1713; ran out of time: 0
+- Last run: 2026-11-17T14:48:38+00:00 UTC, 513s
+- Companies working: 461 of 636
+- New roles last run: 5; roles in feed: 1182
+- Universe (all other known career sites): 5396 boards, 3733 checked in the last hour, 27 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 417, "senior titles from boards/aggregators": 179}
+- Companies with open roles: 1866
+- Skipped (backing off broken sites): 1727; ran out of time: 0
 
 ## Failing companies
 
@@ -80,6 +80,7 @@
 | Arctic Wolf | 6 | HTTP 429 for https://arcticwolf.wd1.myworkdayjobs.com/wday/cxs/arcticwolf/External/jobs |
 | Arrow Electronics | 6 | HTTP 429 for https://arrow.wd1.myworkdayjobs.com/wday/cxs/arrow/AC/jobs |
 | Baker Hughes | 6 | HTTP 429 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
+| Bloomberg | 6 | HTTP 429 for https://bloomberg.wd1.myworkdayjobs.com/wday/cxs/bloomberg/Bloombergindustrygroup_Exter |
 | CME Group | 6 | HTTP 429 for https://cmegroup.wd1.myworkdayjobs.com/wday/cxs/cmegroup/cme_careers/jobs |
 | Church & Dwight | 6 | HTTP 429 for https://churchdwight.wd1.myworkdayjobs.com/wday/cxs/churchdwight/chdcareers/jobs |
 | Cloudera | 6 | HTTP 429 for https://cloudera.wd5.myworkdayjobs.com/wday/cxs/cloudera/External_Career/jobs |
@@ -103,14 +104,13 @@
 | Target | 6 | HTTP 429 for https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs |
 | Thomson Reuters | 6 | HTTP 429 for https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Si |
 | Viatris | 6 | HTTP 429 for https://viatris.wd5.myworkdayjobs.com/wday/cxs/viatris/External/jobs |
-| Bloomberg | 5 | HTTP 429 for https://bloomberg.wd1.myworkdayjobs.com/wday/cxs/bloomberg/Bloombergindustrygroup_Exter |
-| Air Liquide | 4 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
-| Apollo Global Management | 4 | HTTP 429 for https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs |
-| Bank of America | 4 | HTTP 429 for https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/Lateral-US/jobs |
-| Dexcom | 4 | HTTP 429 for https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/Dexcom/jobs |
-| Medtronic | 4 | HTTP 429 for https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs |
-| RingCentral | 4 | HTTP 429 for https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ringcentral/RingCentral_Careers/jobs |
-| T. Rowe Price | 4 | HTTP 429 for https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs |
-| AIG | 3 | HTTP 429 for https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs |
+| Air Liquide | 5 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
+| Apollo Global Management | 5 | HTTP 429 for https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs |
+| RingCentral | 5 | HTTP 429 for https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ringcentral/RingCentral_Careers/jobs |
+| AIG | 4 | HTTP 429 for https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs |
+| Accenture | 4 | HTTP 429 for https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs |
+| Cardinal Health | 4 | HTTP 429 for https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/EXT/jobs |
+| Epicor | 4 | HTTP 429 for https://epicorsoftware.wd5.myworkdayjobs.com/wday/cxs/epicorsoftware/epicorjobs/jobs |
+| Goodyear | 4 | HTTP 429 for https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

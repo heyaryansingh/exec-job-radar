@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,080 open roles** at **1,859 companies** · **151 new in the last 24 hours** · 6,019 company career sites watched · updated hourly · last update Nov 17, 2026 01:59 AM ET
+**5,082 open roles** at **1,860 companies** · **152 new in the last 24 hours** · 6,019 company career sites watched · updated hourly · last update Nov 17, 2026 03:00 AM ET
 
-By level: Director 2592 · VP 985 · Sr. Director 635 · Head 318 · EVP/SVP 191 · C-level 182 · ED 128 · MD 49
+By level: Director 2592 · VP 986 · Sr. Director 635 · Head 319 · EVP/SVP 191 · C-level 182 · ED 128 · MD 49
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (151)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (152)](#new-in-the-last-24-hours)
 - [🤠 Houston area (193)](#houston-area)
 - [👑 Executive Technology Leadership (191)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (353)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2592 · VP 985 · Sr. Director 635 · Head 318 · EVP/SVP 191
 - [☁️ Cloud & Infrastructure (462)](#cloud-infrastructure)
 - [🏛️ Architecture (140)](#architecture)
 - [🔄 Transformation & Delivery (602)](#transformation-delivery)
-- [🛠️ Engineering & Software (1330)](#engineering-software)
+- [🛠️ Engineering & Software (1332)](#engineering-software)
 - [📌 Other Senior Roles (377)](#other-senior-roles)
 - [🔒 Recently closed (199)](#recently-closed)
 - Daily digests: [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md)
@@ -47,12 +47,14 @@ By level: Director 2592 · VP 985 · Sr. Director 635 · Head 318 · EVP/SVP 191
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/e4febb24-b518-43e8-ac55-2e7f44a8b7a3) ⚡ |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/61488635-4831-4837-89cb-5a4b4cf537d2) ⚡ |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/85b3a997-cd20-4a19-a7e0-9a8b8e7ec134) ⚡ |
+| Disney Entertainment & Sports LLC | 🆕 Distinguished Product Software Engineer (VP level) | VP | Glendale, CA, USA | $310K–$415K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10165133EXTERNALENGLOBAL/Distinguished-Product-Software-Engineer-VP-level?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
+| Carlsmed | 🆕 Head of Software Engineering | Head | Carlsbad, CA, USA | $260K–$315K | 0d | [Apply](https://carlsmed.bamboohr.com/careers/263?source=indeed&src=indeed&postedDate=2026-11-16) |
 | SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/11d4bcf7-224f-44d4-954d-3f9ecfda21aa) ⚡ |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/abeab96e-114b-4c6f-9d33-e06f63f90528) ⚡ |
+| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/61488635-4831-4837-89cb-5a4b4cf537d2) ⚡ |
 | SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/6563df4c-da61-45cc-8f69-2541aa2a0761) ⚡ |
+| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/85b3a997-cd20-4a19-a7e0-9a8b8e7ec134) ⚡ |
+| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/abeab96e-114b-4c6f-9d33-e06f63f90528) ⚡ |
+| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/e4febb24-b518-43e8-ac55-2e7f44a8b7a3) ⚡ |
 | Bank OZK | 🆕 VP, Data Engineering | VP | Dallas, TX, USA |  | 0d | [Apply](https://careers.ozk.com/career-home/jobs/6844/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Carlsmed | 🆕 Head of Machine Learning | Head | Carlsbad, CA, USA | $280K–$340K | 0d | [Apply](https://carlsmed.bamboohr.com/careers/264?source=indeed&src=indeed&postedDate=2026-11-16) |
 | Ford Motor Company | 🆕 Director, Order Fulfillment & Dealer Platforms Technology | Director | Dearborn, MI, USA |  | 0d | [Apply](https://www.careers.ford.com/en/job/dearborn/director-order-fulfillment-and-dealer-platforms-technology/48560/103399341888) |
@@ -192,7 +194,6 @@ By level: Director 2592 · VP 985 · Sr. Director 635 · Head 318 · EVP/SVP 191
 | Leidos | 🆕 Director, World Model & Data | Director | Huntsville, AL, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18483610-director-world-model-and-data?tm_job=R-00196996-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | Leidos | 🆕 Director of DevOps | Director | Huntsville, AL, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18483613-director-of-devops?tm_job=R-00196999-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | Magna | 🆕 Head of Production | Head | Odzaci, RS |  | 1d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Odzaci-RS/Head-of-Production_R00269366-1) |
-| Airlock Digital | 🆕 Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 1d | [Apply](https://grnh.se/yfzmd5989us) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Rockville, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/rockville/maryland/info_technology/5639099220/e/) |
 | BAE Systems | 🆕 P&S Vice President - Information Technology & Digital Officer | VP | McLean, Virginia |  | 2d | [Apply](https://jobs.baesystems.com/global/en/job/132007BR/P-S-Vice-President-Information-Technology-Digital-Officer) |
 | Confidential | 🆕 Senior Vice President of Global IT | EVP/SVP | San Diego, California |  | 2d | [Apply](https://www.talent.com/view?id=646118646685768000) |
@@ -865,8 +866,8 @@ _103 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/11d4bcf7-224f-44d4-954d-3f9ecfda21aa) ⚡ |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/abeab96e-114b-4c6f-9d33-e06f63f90528) ⚡ |
 | SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/6563df4c-da61-45cc-8f69-2541aa2a0761) ⚡ |
+| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/abeab96e-114b-4c6f-9d33-e06f63f90528) ⚡ |
 | Bank OZK | 🆕 VP, Data Engineering | VP | Dallas, TX, USA |  | 0d | [Apply](https://careers.ozk.com/career-home/jobs/6844/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Carlsmed | 🆕 Head of Machine Learning | Head | Carlsbad, CA, USA | $280K–$340K | 0d | [Apply](https://carlsmed.bamboohr.com/careers/264?source=indeed&src=indeed&postedDate=2026-11-16) |
 | Novartis | 🆕 Executive Director, Data Science & Applied AI | ED | Remote, USA | $225K–$419K | 0d | [Apply](https://www.novartis.com/careers/career-search/job/details/req-10092235-executive-director-data-science-applied-ai) |
@@ -2047,9 +2048,11 @@ _352 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/e4febb24-b518-43e8-ac55-2e7f44a8b7a3) ⚡ |
+| Disney Entertainment & Sports LLC | 🆕 Distinguished Product Software Engineer (VP level) | VP | Glendale, CA, USA | $310K–$415K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10165133EXTERNALENGLOBAL/Distinguished-Product-Software-Engineer-VP-level?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
+| Carlsmed | 🆕 Head of Software Engineering | Head | Carlsbad, CA, USA | $260K–$315K | 0d | [Apply](https://carlsmed.bamboohr.com/careers/263?source=indeed&src=indeed&postedDate=2026-11-16) |
 | SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/61488635-4831-4837-89cb-5a4b4cf537d2) ⚡ |
 | SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/85b3a997-cd20-4a19-a7e0-9a8b8e7ec134) ⚡ |
+| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $180K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/SignalFire/e4febb24-b518-43e8-ac55-2e7f44a8b7a3) ⚡ |
 | Lamb Weston | 🆕 Director Environmental, Safety and Sustainability Engineering | Director | Kennewick, WA, USA (Kennewick Office) |  | 0d | [Apply](https://lambweston.wd1.myworkdayjobs.com/en-US/Lamb_External/job/Kennewick-WA-USA-Kennewick-Office/Director-Environmental--Safety-and-Sustainability-Engineering_Req-272247) |
 | Automated System Design | 🆕 Director of Remote Technical Services | Director | Hickory, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ea2b81ed-c9c8-44c7-bad7-18188e8258a8&ccId=19000101_000001&jobId=951068&source=IN&lang=en_US) |
 | Desert Valleys Federal Credit Union | 🆕 Director of Information Technology | Director | Ridgecrest, CA, USA |  | 0d | [Apply](https://www.indeed.com/viewjob?jk=cdcc5a910d398279) |
@@ -2087,7 +2090,7 @@ _352 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
 | Marriott International ⭐ | 🆕 Director of Engineering – Pre-Opening The Luxury Collection Muscat Grand Blue City Oman, Muscat | Director | Muscat, Oman |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26149693) |
-| Airlock Digital | 🆕 Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 1d | [Apply](https://grnh.se/yfzmd5989us) |
+| Airlock Digital | Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 1d | [Apply](https://grnh.se/yfzmd5989us) |
 | Confidential | 🆕 Senior Vice President of Global IT | EVP/SVP | San Diego, California |  | 2d | [Apply](https://www.talent.com/view?id=646118646685768000) |
 | Bayonet Plumbing | Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 2d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112515055820808) |
@@ -2295,10 +2298,8 @@ _352 older roles in this section are in data/roles.json on the `data` branch._
 | Teradyne | Senior Director of Engineering, Optical Test Solutions | Sr. Director | North Reading, MA, USA | $273K–$437K | 8d | [Apply](https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Director-of-Engineering%2C-Optical-Test-Solutions-%28Compute-Test%2C-North-Reading%29-MA/1448974600/) |
 | Vertex Wireless | Executive Director of IT | ED | West Chicago, IL, USA |  | 8d | [Apply](https://www.indeed.com/viewjob?jk=860f86928a7f233b) |
 | The Aerospace Corporation | Principal Director, Enterprise Applications | Director | El Segundo, CA |  | 8d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director--Enterprise-Applications_R014532-1) |
-| Cursor | Regional Director, Forward Deployed Engineering - Public Sector (opening #2) | Director | Washington, D.C. | $350K–$400K | 8d | [Apply](https://jobs.ashbyhq.com/cursor/0473120a-7dd7-4604-b5f6-0b834cc6e782) ⚡ |
-| Honeywell Aerospace | Sr. Director Test Engineering – Engines and Power Systems | Sr. Director | Phoenix, AZ, United States |  | 8d | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/126717) |
 
-_1080 older roles in this section are in data/roles.json on the `data` branch._
+_1082 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

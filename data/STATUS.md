@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-17T11:06:25+00:00 UTC, 990s
-- Companies working: 438 of 636
-- New roles last run: 2; roles in feed: 1172
-- Universe (all other known career sites): 5393 boards, 3594 checked in the last hour, 184 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Last run: 2026-11-17T11:51:59+00:00 UTC, 726s
+- Companies working: 452 of 636
+- New roles last run: 1; roles in feed: 1173
+- Universe (all other known career sites): 5393 boards, 3620 checked in the last hour, 162 errors; 0 employer names learned; 0 new employer sites found via job boards
 - Job boards and aggregators: {"senior titles from boards/aggregators": 0}
-- Companies with open roles: 1864
-- Skipped (backing off broken sites): 1712; ran out of time: 0
+- Companies with open roles: 1865
+- Skipped (backing off broken sites): 1710; ran out of time: 0
 
 ## Failing companies
 
@@ -35,10 +35,12 @@
 | Darktrace | 7 | HTTP 429 for https://darktrace.wd3.myworkdayjobs.com/wday/cxs/darktrace/DarktaceExternal/jobs |
 | DataRobot | 7 | HTTP 429 for https://datarobot.wd1.myworkdayjobs.com/wday/cxs/datarobot/DataRobot_External_Careers/j |
 | Dick's Sporting Goods | 7 | HTTP 429 for https://dickssportinggoods.wd1.myworkdayjobs.com/wday/cxs/dickssportinggoods/DSG/jobs |
+| Discover | 7 | HTTP 429 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/DiscoveryCareerSite/jobs |
 | Duck Creek Technologies | 7 | HTTP 429 for https://duckcreek.wd1.myworkdayjobs.com/wday/cxs/duckcreek/duckcreekcareers/jobs |
 | ERCOT | 7 | HTTP 429 for https://ercot.wd1.myworkdayjobs.com/wday/cxs/ercot/ercot_careers/jobs |
 | Edwards Lifesciences | 7 | HTTP 429 for https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/edwardscareers/jobs |
 | Elevance Health | 7 | HTTP 429 for https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs |
+| Equinix | 7 | HTTP 429 for https://equinix.wd1.myworkdayjobs.com/wday/cxs/equinix/external/jobs |
 | Fidelity | 7 | HTTP 429 for https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs |
 | Fox Corporation | 7 | HTTP 429 for https://fox.wd1.myworkdayjobs.com/wday/cxs/fox/Domestic/jobs |
 | Fresenius Medical Care | 7 | HTTP 429 for https://freseniusmedicalcare.wd3.myworkdayjobs.com/wday/cxs/freseniusmedicalcare/fme/jo |
@@ -85,12 +87,9 @@
 | Cleveland Clinic | 6 | HTTP 429 for https://ccf.wd1.myworkdayjobs.com/wday/cxs/ccf/ClevelandClinicCareersUK/jobs |
 | Cloudera | 6 | HTTP 429 for https://cloudera.wd5.myworkdayjobs.com/wday/cxs/cloudera/External_Career/jobs |
 | Credit Acceptance | 6 | HTTP 429 for https://creditacceptance.wd5.myworkdayjobs.com/wday/cxs/creditacceptance/Credit_Accepta |
-| Dimensional Fund Advisors | 6 | HTTP 429 for https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/DFA_Careers/jobs |
-| Discover | 6 | HTTP 429 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/DiscoveryCareerSite/jobs |
 | Dow | 6 | HTTP 429 for https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs |
 | Duke Energy | 6 | HTTP 429 for https://dukeenergy.wd1.myworkdayjobs.com/wday/cxs/dukeenergy/search/jobs |
 | Ecolab | 6 | HTTP 429 for https://ecolab.wd1.myworkdayjobs.com/wday/cxs/ecolab/Ecolab_External/jobs |
-| Equinix | 6 | HTTP 429 for https://equinix.wd1.myworkdayjobs.com/wday/cxs/equinix/external/jobs |
 | Fannie Mae | 6 | HTTP 429 for https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs |
 | HP | 6 | HTTP 429 for https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs |
 | Health Care Service Corporation | 6 | HTTP 429 for https://healthcare.wd1.myworkdayjobs.com/wday/cxs/healthcare/Search/jobs |
@@ -100,6 +99,7 @@
 | Mass General Brigham | 6 | HTTP 429 for https://massgeneralbrigham.wd1.myworkdayjobs.com/wday/cxs/massgeneralbrigham/MGBExterna |
 | NCR Atleos | 6 | HTTP 429 for https://ncratleos.wd1.myworkdayjobs.com/wday/cxs/ncratleos/ext_apacatleos/jobs |
 | PNC | 6 | HTTP 429 for https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs |
+| PVH | 6 | HTTP 429 for https://pvh.wd1.myworkdayjobs.com/wday/cxs/pvh/PVH_Careers/jobs |
 | Peak6 | 6 | HTTP 429 for https://peak6group.wd1.myworkdayjobs.com/wday/cxs/peak6group/apexfintechsolutions/jobs |
 | Protiviti | 6 | HTTP 429 for https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiNA/jobs |
 | SailPoint | 6 | HTTP 429 for https://sailpoint.wd1.myworkdayjobs.com/wday/cxs/sailpoint/SailPoint/jobs |
@@ -111,6 +111,6 @@
 | Target | 6 | HTTP 429 for https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs |
 | The Hartford | 6 | HTTP 429 for https://thehartford.wd5.myworkdayjobs.com/wday/cxs/thehartford/Careers_External/jobs |
 | Thomson Reuters | 6 | HTTP 429 for https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Si |
-| Truist | 6 | HTTP 429 for https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs |
+| Viatris | 6 | HTTP 429 for https://viatris.wd5.myworkdayjobs.com/wday/cxs/viatris/External/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

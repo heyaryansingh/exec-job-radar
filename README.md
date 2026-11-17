@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,095 open roles** at **1,864 companies** · **154 new in the last 24 hours** · 6,030 company career sites watched · updated hourly · last update Nov 17, 2026 06:06 AM ET
+**5,096 open roles** at **1,865 companies** · **150 new in the last 24 hours** · 6,030 company career sites watched · updated hourly · last update Nov 17, 2026 06:51 AM ET
 
-By level: Director 2599 · VP 987 · Sr. Director 637 · Head 321 · EVP/SVP 191 · C-level 182 · ED 129 · MD 49
+By level: Director 2599 · VP 987 · Sr. Director 637 · Head 321 · EVP/SVP 192 · C-level 182 · ED 129 · MD 49
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (154)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (150)](#new-in-the-last-24-hours)
 - [🤠 Houston area (193)](#houston-area)
 - [👑 Executive Technology Leadership (191)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (354)](#security-risk-technology)
-- [🧠 Data & AI (1268)](#data-ai)
+- [🧠 Data & AI (1269)](#data-ai)
 - [🚦 Reliability & Operations (363)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (464)](#cloud-infrastructure)
 - [🏛️ Architecture (141)](#architecture)
@@ -192,10 +192,6 @@ By level: Director 2599 · VP 987 · Sr. Director 637 · Head 321 · EVP/SVP 191
 | Magna | 🆕 Global Director, IT Internal Audit | Director | Troy, Michigan, US |  | 1d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Global-Director--IT-Internal-Audit_R00270250) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Full stack Developer VP | VP | Chennai, TN, IN |  | 1d | [Apply](https://jobs.citi.com/job/chennai/lead-full-stack-developer-vp/287/103374643360) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Core Java Technology Lead - Vice President | VP | Chennai, TN, IN |  | 1d | [Apply](https://jobs.citi.com/job/chennai/core-java-technology-lead-vice-president/287/103374647312) |
-| Leidos | 🆕 Director of DevOps | Director | Reston, VA, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18483612-director-of-devops?tm_job=R-00196999&tm_event=view&tm_company=2502) |
-| Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Pega Developer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-pega-developer-vice-president/287/103370639184) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
 | American Physical Society | 🆕 Chief digital information officer; CDIO | C-level | Rockville, Maryland | $250K–$400K | 2d | [Apply](https://www.learn4good.com/jobs/rockville/maryland/info_technology/5639099220/e/) |
 | BAE Systems | 🆕 P&S Vice President - Information Technology & Digital Officer | VP | McLean, Virginia |  | 2d | [Apply](https://jobs.baesystems.com/global/en/job/132007BR/P-S-Vice-President-Information-Technology-Digital-Officer) |
 | Confidential | 🆕 Senior Vice President of Global IT | EVP/SVP | San Diego, California |  | 2d | [Apply](https://www.talent.com/view?id=646118646685768000) |
@@ -1025,6 +1021,7 @@ _104 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | Senior Vice President, AI Governance & Controls Lead | EVP/SVP | Pittsburgh, PA, United States |  | 6d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83525) |
 | JPMorgan Chase ⭐ | Executive Director, AI/ML — Forecasting, Constraint Optimization, and Recommendation Systems | ED | New York, NY, United States |  | 6d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808154) |
 | TransGrid Energy | SVP, Data Center Infrastructure Business | EVP/SVP | Houston | $350K–$450K | 6d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/ad4bea03-8163-4a15-a48a-480dd9ca2fba) ⚡ |
+| Voya Financial | SVP, Enterprise AI & Automation Platforms | EVP/SVP | Atlanta, GA +5 | $313K–$391K | 7d | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/SVP--Enterprise-AI---Automation-Platforms_JR0033279) |
 | Invenergy | Director, Data Center Design & Engineering – Digital Infrastructure | Director | Chicago, IL |  | 7d | [Apply](https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Director--Data-Center-Design---Engineering---Digital-Infrastructure_R11520-1) |
 | Gilead Sciences ⭐ | Director, IT Data & AI Product Owner – PDM & Tech Ops | Director | United States - California - Foster City |  | 7d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Director--IT-Data---AI-Product-Owner---PDM---Tech-Ops_R0052718-2) |
 | CleanSpark | Senior Director, Data Center Design & Engineering | Sr. Director | Georgia | $200K–$250K | 7d | [Apply](https://jobs.lever.co/cleanspark/f4532e37-0ccd-4d10-b3b5-94f5cb5cf9aa) ⚡ |
@@ -1116,9 +1113,8 @@ _104 older roles in this section are in data/roles.json on the `data` branch._
 | AstraZeneca | Head of Data, Technology & Platforms — US BBU | Head | Wilmington, DE, USA | $203K–$305K | 10d | [Apply](https://careers.astrazeneca.com/job/wilmington/head-of-data-technology-and-platforms-us-bbu/7684/102956461696) |
 | Walker & Dunlop | VP, Analytics, Data Science & AI Data Enablement | VP | Remote, USA | $220K–$260K | 10d | [Apply](https://walkerdunlop.wd1.myworkdayjobs.com/en-US/WD/job/Remote---USA/VP--Analytics--Data-Science---AI-Data-Enablement_Req-2019) |
 | Gartner | Vice President, Technology & Analytics | VP | Stamford, CT +1 |  | 10d | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Vice-President--Technology---Analytivs_115888) |
-| Jeff Wyler Automotive Family | Director of Artificial Intelligence & Innovation Milford, Ohio | Director | Milford, OH, USA |  | 10d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/B6B357672D1C8F6DF84101D75941E5E7/jobs/354883?source=Indeed) |
 
-_1018 older roles in this section are in data/roles.json on the `data` branch._
+_1019 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1400,7 +1396,7 @@ _113 older roles in this section are in data/roles.json on the `data` branch._
 | OpenAI ⭐ | 🆕 Partner Director, Google Cloud | Director | New York City +2 · Remote | $237K–$330K | 1d | [Apply](https://jobs.ashbyhq.com/openai/d6fbe4bd-1b55-40b6-93c0-a296ea747ecf) ⚡ |
 | Figma | 🆕 Director, Product Design - Systems & Infrastructure | Director | San Francisco, CA • New York, NY • United  | $290K–$376K | 1d | [Apply](https://boards.greenhouse.io/figma/jobs/6251950004?gh_jid=6251950004) ⚡ |
 | AbbVie ⭐ | 🆕 Project Director, Infrastructure (req 3743990016875556) | Director | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016875556-project-director-infrastructure) ⚡ |
-| Leidos | 🆕 Director of DevOps | Director | Reston, VA, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18483612-director-of-devops?tm_job=R-00196999&tm_event=view&tm_company=2502) |
+| Leidos | Director of DevOps | Director | Reston, VA, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18483612-director-of-devops?tm_job=R-00196999&tm_event=view&tm_company=2502) |
 | Leidos | Director of DevOps | Director | Huntsville, AL, USA | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18483613-director-of-devops?tm_job=R-00196999-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) |
 | convene | 🆕 Director, Cloud Infrastructure | Director | Jacksonville, Florida | $198K–$242K | 2d | [Apply](https://www.learn4good.com/jobs/jacksonville/florida/info_technology/5636939043/e/) |
 | convene | Director, Cloud Infrastructure | Director | Dallas, Texas | $198K–$242K | 2d | [Apply](https://www.learn4good.com/jobs/dallas/texas/info_technology/5636939035/e/) |
@@ -2090,8 +2086,8 @@ _354 older roles in this section are in data/roles.json on the `data` branch._
 | Collibra | 🆕 Senior Director, IT Systems | Sr. Director | Raleigh, North Carolina, USA |  | 1d | [Apply](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8379747) ⚡ |
 | Magna | 🆕 Global Director, IT Internal Audit | Director | Troy, Michigan, US |  | 1d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Global-Director--IT-Internal-Audit_R00270250) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Core Java Technology Lead - Vice President | VP | Chennai, TN, IN |  | 1d | [Apply](https://jobs.citi.com/job/chennai/core-java-technology-lead-vice-president/287/103374647312) |
-| Citi (jobs.citi.com) ⭐ | 🆕 IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
+| Citi (jobs.citi.com) ⭐ | IT Quality Senior Manager, Test Automation - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/it-quality-senior-manager-test-automation-vice-president/287/103370637856) |
+| Citi (jobs.citi.com) ⭐ | Lead Java Software Engineer - Vice President | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/lead-java-software-engineer-vice-president/287/103370639440) |
 | Marriott International ⭐ | Director of Engineering – Pre-Opening The Luxury Collection Muscat Grand Blue City Oman, Muscat | Director | Muscat, Oman |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26149693) |
 | Airlock Digital | Director, Technical Success Engineering | Director | San Francisco, CA, USA · Remote |  | 1d | [Apply](https://grnh.se/yfzmd5989us) |
 | Confidential | 🆕 Senior Vice President of Global IT | EVP/SVP | San Diego, California |  | 2d | [Apply](https://www.talent.com/view?id=646118646685768000) |
@@ -2316,7 +2312,7 @@ _1082 older roles in this section are in data/roles.json on the `data` branch._
 | CooperCompanies | 🆕 Director, GSC COE and Planning Systems | Director | Victor, NY, United States |  | 1d | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12995) |
 | Capital One ⭐ | 🆕 Staff Full Stack Engineer (Director Level) | Director | McLean, VA +4 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer--Director-Level-_R1005783-1) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Lead Full stack Developer VP | VP | Chennai, TN, IN |  | 1d | [Apply](https://jobs.citi.com/job/chennai/lead-full-stack-developer-vp/287/103374643360) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Lead Pega Developer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-pega-developer-vice-president/287/103370639184) |
+| Citi (jobs.citi.com) ⭐ | Lead Pega Developer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/lead-pega-developer-vice-president/287/103370639184) |
 | Columbia Sportswear | Sr. Director, Distribution & Logistics Technologies | Sr. Director | Portland, Oregon, United States of America |  | 2d | [Apply](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) [alt](https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) |
 | Piper Aircraft Inc | Director, Information Services | Director | Vero Beach, FL, USA |  | 3d | [Apply](https://www.irecruit-us.com/jobRequest.php?OrgID=I20200305&RequestID=17799898726a187d704d9894153&source=IND) |
 | Information Technology Senior Management Forum | Staff Full-stack Engineer - (Director IC - Fraud Tech) | Director | New York, NY, USA | $245K–$335K | 3d | [Apply](https://jobs.itsmfleaders.org/job/kl6ec7/staff-full-stack-engineer-(director-ic-fraud-tech)/new-york/ny) |

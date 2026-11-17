@@ -1,11 +1,11 @@
 # Collector status
 
-- Last run: 2026-11-17T14:48:38+00:00 UTC, 513s
-- Companies working: 461 of 636
-- New roles last run: 5; roles in feed: 1182
-- Universe (all other known career sites): 5396 boards, 3733 checked in the last hour, 27 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 417, "senior titles from boards/aggregators": 179}
-- Companies with open roles: 1866
+- Last run: 2026-11-17T15:48:24+00:00 UTC, 491s
+- Companies working: 469 of 636
+- New roles last run: 4; roles in feed: 1183
+- Universe (all other known career sites): 5396 boards, 3737 checked in the last hour, 23 errors; 2 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
+- Companies with open roles: 1865
 - Skipped (backing off broken sites): 1727; ran out of time: 0
 
 ## Failing companies
@@ -59,7 +59,6 @@
 | Fidelity | 7 | HTTP 429 for https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs |
 | Fresenius Medical Care | 7 | HTTP 429 for https://freseniusmedicalcare.wd3.myworkdayjobs.com/wday/cxs/freseniusmedicalcare/fme/jo |
 | GlobalFoundries | 7 | HTTP 429 for https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs |
-| Kraft Heinz | 7 | HTTP 429 for https://heinz.wd1.myworkdayjobs.com/wday/cxs/heinz/KraftHeinz_Careers/jobs |
 | Kyndryl | 7 | HTTP 429 for https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylEarlyCareers/jobs |
 | Labcorp | 7 | HTTP 429 for https://labcorp.wd1.myworkdayjobs.com/wday/cxs/labcorp/External/jobs |
 | Lennar | 7 | HTTP 429 for https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/Lennar_Jobs/jobs |
@@ -76,7 +75,9 @@
 | Wellington Management | 7 | HTTP 429 for https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs |
 | Zendesk | 7 | HTTP 429 for https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/zendesk/jobs |
 | athenahealth | 7 | HTTP 429 for https://athenahealth.wd1.myworkdayjobs.com/wday/cxs/athenahealth/External/jobs |
+| Air Liquide | 6 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
 | Alcoa | 6 | HTTP 429 for https://alcoa.wd5.myworkdayjobs.com/wday/cxs/alcoa/Careers/jobs |
+| Apollo Global Management | 6 | HTTP 429 for https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs |
 | Arctic Wolf | 6 | HTTP 429 for https://arcticwolf.wd1.myworkdayjobs.com/wday/cxs/arcticwolf/External/jobs |
 | Arrow Electronics | 6 | HTTP 429 for https://arrow.wd1.myworkdayjobs.com/wday/cxs/arrow/AC/jobs |
 | Baker Hughes | 6 | HTTP 429 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
@@ -97,6 +98,7 @@
 | PIMCO | 6 | HTTP 429 for https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs |
 | PVH | 6 | HTTP 429 for https://pvh.wd1.myworkdayjobs.com/wday/cxs/pvh/PVH_Careers/jobs |
 | Pfizer | 6 | HTTP 429 for https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs |
+| RingCentral | 6 | HTTP 429 for https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ringcentral/RingCentral_Careers/jobs |
 | Seismic | 6 | 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/seismic-change.co |
 | Sixth Street | 6 | HTTP 429 for https://sixthstreet.wd1.myworkdayjobs.com/wday/cxs/sixthstreet/sixthstreetcareers/jobs |
 | State Street | 6 | HTTP 429 for https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs |
@@ -104,13 +106,11 @@
 | Target | 6 | HTTP 429 for https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs |
 | Thomson Reuters | 6 | HTTP 429 for https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Si |
 | Viatris | 6 | HTTP 429 for https://viatris.wd5.myworkdayjobs.com/wday/cxs/viatris/External/jobs |
-| Air Liquide | 5 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
-| Apollo Global Management | 5 | HTTP 429 for https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs |
-| RingCentral | 5 | HTTP 429 for https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ringcentral/RingCentral_Careers/jobs |
-| AIG | 4 | HTTP 429 for https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs |
-| Accenture | 4 | HTTP 429 for https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs |
-| Cardinal Health | 4 | HTTP 429 for https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/EXT/jobs |
-| Epicor | 4 | HTTP 429 for https://epicorsoftware.wd5.myworkdayjobs.com/wday/cxs/epicorsoftware/epicorjobs/jobs |
-| Goodyear | 4 | HTTP 429 for https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs |
+| AIG | 5 | HTTP 429 for https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs |
+| Cardinal Health | 5 | HTTP 429 for https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/EXT/jobs |
+| Epicor | 5 | HTTP 429 for https://epicorsoftware.wd5.myworkdayjobs.com/wday/cxs/epicorsoftware/epicorjobs/jobs |
+| Goodyear | 5 | HTTP 429 for https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs |
+| Guardian Life | 5 | HTTP 429 for https://guardianlife.wd5.myworkdayjobs.com/wday/cxs/guardianlife/Guardian-Life-Careers/ |
+| O'Reilly Auto Parts | 5 | HTTP 429 for https://oreillyauto.wd1.myworkdayjobs.com/wday/cxs/oreillyauto/oreilly/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

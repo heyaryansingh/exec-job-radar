@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,024 open roles** at **1,839 companies** · **118 new in the last 24 hours** · 6,011 company career sites watched · updated hourly · last update Nov 16, 2026 08:16 PM ET
+**5,025 open roles** at **1,839 companies** · **118 new in the last 24 hours** · 6,011 company career sites watched · updated hourly · last update Nov 16, 2026 09:07 PM ET
 
-By level: Director 2572 · VP 964 · Sr. Director 632 · Head 317 · EVP/SVP 187 · C-level 178 · ED 126 · MD 48
+By level: Director 2573 · VP 964 · Sr. Director 632 · Head 317 · EVP/SVP 187 · C-level 178 · ED 126 · MD 48
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 2572 · VP 964 · Sr. Director 632 · Head 317 · EVP/SVP 187
 - [☁️ Cloud & Infrastructure (455)](#cloud-infrastructure)
 - [🏛️ Architecture (138)](#architecture)
 - [🔄 Transformation & Delivery (595)](#transformation-delivery)
-- [🛠️ Engineering & Software (1314)](#engineering-software)
+- [🛠️ Engineering & Software (1315)](#engineering-software)
 - [📌 Other Senior Roles (375)](#other-senior-roles)
-- [🔒 Recently closed (202)](#recently-closed)
+- [🔒 Recently closed (200)](#recently-closed)
 - Daily digests: [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md) · [11-10](data/daily/2026-11-10.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,6 +47,7 @@ By level: Director 2572 · VP 964 · Sr. Director 632 · Head 317 · EVP/SVP 187
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CVS Health ⭐ | 🆕 Lead Director -  Software Engineering | Director | KY - Work from home |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/KY---Work-from-home/Lead-Director----Software-Engineering_R1096858) |
 | Travelers | 🆕 Senior Director Delivery Transformation - Claim Technology | Sr. Director | 2 Locations |  | 0d | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Senior-Director-Delivery-Transformation---Claim-Technology_R-50137) |
 | Travelers | 🆕 Senior Director Software Engineering, Applied AI | Sr. Director | MN - St. Paul +1 |  | 1d | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Senior-Director-Software-Engineering--Applied-AI_R-53438) |
 | Alkhai Intelligence LLC | 🆕 Chief Technology Officer | C-level | Remote, USA |  | 1d | [Apply](https://www.indeed.com/viewjob?jk=e043bad26336dba7) |
@@ -160,7 +161,6 @@ By level: Director 2572 · VP 964 · Sr. Director 632 · Head 317 · EVP/SVP 187
 | forhyre.com | 🆕 Chief Technology Officer | C-level | Mt Pleasant, Pennsylvania |  | 2d | [Apply](https://www.talent.com/view?id=644479235642687645) |
 | Lumira Search | 🆕 Chief Technology Officer | C-level | Upper Darby Township, Pennsylvania | $180K–$280K | 2d | [Apply](https://www.learn4good.com/jobs/upper-darby-township/pennsylvania/manufacturing/5638449647/e/) |
 | MedFlo AI | 🆕 Chief Technology Officer | C-level | Camden, New Jersey | $240K–$360K | 2d | [Apply](https://www.learn4good.com/jobs/camden/new-jersey/software_development/5638332760/e/) |
-| Expedia Group ⭐ | 🆕 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 2d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
 | Confidential | 🆕 Vice President of Technology | VP | San Antonio, Texas |  | 3d | [Apply](https://www.talent.com/view?id=646042443522050578) |
 | Confidential | 🆕 Vice President, Platform & Technology Partnerships | VP | San Jose, California |  | 3d | [Apply](https://www.talent.com/view?id=646037302956136768) |
 | St. Jude Children's Research Hospital | 🆕 Director, Data and AI; Fully Remote | Director | Remote | $180K–$260K | 3d | [Apply](https://www.learn4good.com/jobs/online_remote/info_technology/5633390948/e/) |
@@ -1406,7 +1406,7 @@ _108 older roles in this section are in data/roles.json on the `data` branch._
 | BlackRock ⭐ | Lead Platform Engineer -Vice President | VP | NY7 - 50 Hudson Yards, New York |  | 7d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Lead-Platform-Engineer--Vice-President_R267130-1) |
 | BNY ⭐ | Senior Vice President, Infrastructure Solution Engineer | EVP/SVP | Everett, MA, United States |  | 7d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83020) |
 | Merck | Director, Global Laboratory Digital Platform | Director | West Point, Pennsylvania, United States of |  | 7d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR407548ENUS) |
-| PwC | Engineering Director, Google Cloud | Director | IL-Chicago |  | 8d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773189WDEXTERNALENUS) |
+| PwC | Engineering Director, Google Cloud | Director | IL-Chicago |  | 8d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773189WDEXTERNALENUS) [alt](https://jobs-us.pwc.com/us/en/job/PUVPUIUS774420WDEXTERNALENUS) |
 | Lila Sciences | Director/ Senior Director, Lab Platform Engineering | Sr. Director | Cambridge, MA USA +1 | $232K–$390K | 8d | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4458156009) ⚡ |
 | Plaud | Head of Platform Engineering | Head | Palo Alto, CA +1 · Remote |  | 8d | [Apply](https://jobs.ashbyhq.com/Plaud/844a97ac-bdc2-4696-9f17-e76ec9055ace) ⚡ |
 | Oracle | Director of Software Development — DPU Networking and Storage | Director | Santa Clara, CA, United States | $122K–$355K | 8d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350030) |
@@ -2006,6 +2006,7 @@ _345 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CVS Health ⭐ | 🆕 Lead Director -  Software Engineering | Director | KY - Work from home |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/KY---Work-from-home/Lead-Director----Software-Engineering_R1096858) |
 | Cascades Healthcare | 🆕 Director of Information Technology | Director | Provo, UT, USA |  | 1d | [Apply](https://cascadeshealthcare.isolvedhire.com/jobs/1906576-172493.html) |
 | Fidelity Investments | 🆕 Director, Engineering - Alternative Investments | Director | Westlake, TX, USA | $126K–$255K | 1d | [Apply](https://jobs.fidelity.com/en/jobs/2137555/director-engineering-alternative-investments/) |
 | Maestro | 🆕 Head of Engineering | Head | Remote, USA |  | 1d | [Apply](https://maestro.breezy.hr/p/9878555ee2b5-head-of-engineering?source=indeed) |
@@ -2038,7 +2039,7 @@ _345 older roles in this section are in data/roles.json on the `data` branch._
 | Confidential | 🆕 Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112515055820808) |
 | Confidential | 🆕 Executive Director, Technology | ED | Houston, Texas |  | 2d | [Apply](https://www.talent.com/view?id=646112515834060808) |
 | Encore Global | 🆕 Director, Event Technology II Hotel Zaza Museum District | Director | Houston, Texas | $900K–$3.75M | 2d | [Apply](https://www.talent.com/view?id=646129261265881618) |
-| Expedia Group ⭐ | 🆕 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 2d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
+| Expedia Group ⭐ | Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 2d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Vice-President--Engineering---Fraud---Risk_R-109483) |
 | Fairbanks Morse Defense | Technical Director - American Fan | Director | Fairfield, OH, USA |  | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/fairbanksmorse/CANDIDATEPORTAL/jobs/8942) |
 | Confidential | 🆕 Vice President of Technology | VP | San Antonio, Texas |  | 3d | [Apply](https://www.talent.com/view?id=646042443522050578) |
 | Vizance | 🆕 Director of Technology and Innovation | Director | Hartland, Wisconsin |  | 3d | [Apply](https://www.linkedin.com/jobs/view/director-of-technology-and-innovation-at-vizance-4488964210) |
@@ -2255,9 +2256,8 @@ _345 older roles in this section are in data/roles.json on the `data` branch._
 | U.S. Food and Drug Administration | Director, Office of Mission Information Technology Services | Director | Silver Spring, MD, USA | $259K–$373K | 8d | [Apply](https://www.usajobs.gov:443/job/892165300) |
 | Vornado Office Inc | VP - Engineering | VP | New York, NY, USA | $250K–$300K | 8d | [Apply](https://recruiting.ultipro.com/VOR1000VORRT/JobBoard/21c9e411-8536-456d-938d-025d89255771/OpportunityDetail?opportunityId=7655818b-d118-46a3-b288-10dd571a7b3e&postingId=cf2c779a-ef8e-4524-b709-f67aabb61575) |
 | Hilton ⭐ | Director of Engineering - Hilton McLean | Director | McLean, VA, United States |  | 8d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/230777) |
-| Cydecor, Inc. | Vice President, Technology Services Group | VP | Virginia |  | 9d | [Apply](https://us.trabajo.org/job-1721-70305bed47009c8ad87e26a3fb6e4c98) |
 
-_1064 older roles in this section are in data/roles.json on the `data` branch._
+_1065 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2726,8 +2726,6 @@ _125 older roles in this section are in data/roles.json on the `data` branch._
 | CVS Health ⭐ | 🔒 Executive Director, Appeals Process & Technology – Aetna | ED | CT - Hartford · Remote |  | 28d | Closed |
 | Acadia Pharmaceuticals Inc. | 🔒 Executive Director, P&P Technology & Operations | ED | Princeton, New Jersey, United States +1 | $248K–$310K | 26d | Closed |
 | Oracle | 🔒 Director, Application Software Engineering | Director | United States |  | 19d | Closed |
-| Oracle | 🔒 Director, Platform Software Engineering (opening #2) | Director | Nashville, TN, United States | $122K–$355K | 42d | Closed |
-| Marriott International ⭐ | 🔒 Assistant Director of Engineering | Director | Coronado, CA, United States |  | 34d | Closed |
 
 </details>
 

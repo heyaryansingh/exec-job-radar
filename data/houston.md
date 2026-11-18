@@ -1,13 +1,14 @@
 # 🤠 Senior technology roles in the Houston area
 
-202 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+203 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Tallgrass Energy | 🆕 Technical Director- Environmental Permitting | Director | Houston, TX, United States |  | 0d | [Apply](https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4511) |
 | CAMP Facility Services | 🆕 Vice President of IT | VP | Houston, TX, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=27e119a1-ddb1-40c4-a314-1b1241417865&ccId=19000101_000001&jobId=624998&source=IN&lang=en_US) |
 | Harris Health | 🆕 Vice President (VP) Chief Information Security Officer | C-level | Bellaire, TX, USA | $207K–$280K | 0d | [Apply](https://jobs.harrishealth.org/vice-president-vp-chief-information-security-officer/job/96728E2E701C95A06FE3024E90158862) |
 | FTI Consulting, Inc. | 🆕 Senior Director, Technology Risk Regulatory Assurance | Sr. Director | New York, NY +7 |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/New-York-NY/Senior-Director--Technology-Risk-Regulatory-Assurance_JR261889) [alt](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/New-York-NY/Senior-Director--Technology-Risk-Regulatory-Assurance_JR261889) |
-| Marriott International ⭐ | 🆕 Director of Engineering | Director | Houston, TX, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26150678) |
+| Marriott International ⭐ | Director of Engineering | Director | Houston, TX, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26150678) |
 | Panelmatic Inc. | Business Transformation Director | Director | Houston, TX, USA |  | 1d | [Apply](https://apply.workable.com/j/D7D45068EB) |
 | JPMorgan Chase ⭐ | Sr Director of Software Engineering - Global Banking Intelligence Services | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795218) |
 | UnitedHealth Group ⭐ | Senior Director, Optum Enterprise Integration & Strategic Value Creation - Remote | Sr. Director | Minneapolis, Minnesota, United States +20 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/minneapolis/senior-director-optum-enterprise-integration-and-strategic-value-creation-remote/34088/103420144896) |

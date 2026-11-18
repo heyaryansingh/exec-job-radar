@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-18T22:06:28+00:00 UTC, 409s
-- Companies working: 452 of 636
-- New roles last run: 16; roles in feed: 1333
-- Universe (all other known career sites): 5425 boards, 3734 checked in the last hour, 4 errors; 0 employer names learned; 1 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 459, "senior titles from boards/aggregators": 213}
-- Companies with open roles: 1923
-- Skipped (backing off broken sites): 1780; ran out of time: 0
+- Last run: 2026-11-18T22:39:23+00:00 UTC, 456s
+- Companies working: 466 of 636
+- New roles last run: 2; roles in feed: 1335
+- Universe (all other known career sites): 5425 boards, 3731 checked in the last hour, 4 errors; 2 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
+- Companies with open roles: 1924
+- Skipped (backing off broken sites): 1777; ran out of time: 0
 
 ## Failing companies
 
@@ -37,7 +37,6 @@
 | Rackspace | 10 | HTTP 429 for https://rackspace.wd1.myworkdayjobs.com/wday/cxs/rackspace/External/jobs |
 | United Rentals | 10 | HTTP 429 for https://ur.wd1.myworkdayjobs.com/wday/cxs/ur/URcareers/jobs |
 | AllianceBernstein | 9 | HTTP 429 for https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs |
-| Dick's Sporting Goods | 9 | HTTP 429 for https://dickssportinggoods.wd1.myworkdayjobs.com/wday/cxs/dickssportinggoods/DSG/jobs |
 | Equinix | 9 | HTTP 429 for https://equinix.wd1.myworkdayjobs.com/wday/cxs/equinix/external/jobs |
 | Fannie Mae | 9 | HTTP 429 for https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs |
 | Peak6 | 9 | HTTP 429 for https://peak6group.wd1.myworkdayjobs.com/wday/cxs/peak6group/apexfintechsolutions/jobs |
@@ -55,7 +54,9 @@
 | Huron Consulting | 8 | HTTP 429 for https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs |
 | Intel | 8 | HTTP 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs |
 | JLL | 8 | HTTP 429 for https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs |
+| Kemper | 8 | HTTP 429 for https://kemper.wd5.myworkdayjobs.com/wday/cxs/kemper/Kemper_Careers/jobs |
 | Medtronic | 8 | HTTP 429 for https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs |
+| Mizuho | 8 | HTTP 429 for https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuhoamericas/jobs |
 | NCR Voyix | 8 | HTTP 429 for https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_apac/jobs |
 | Nike | 8 | HTTP 429 for https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke2/jobs |
 | PIMCO | 8 | HTTP 429 for https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs |
@@ -63,21 +64,17 @@
 | Sixth Street | 8 | HTTP 429 for https://sixthstreet.wd1.myworkdayjobs.com/wday/cxs/sixthstreet/sixthstreetcareers/jobs |
 | Sunbelt Rentals | 8 | HTTP 429 for https://sunbeltrentals.wd1.myworkdayjobs.com/wday/cxs/sunbeltrentals/sbcareers/jobs |
 | Zayo | 8 | HTTP 429 for https://zayo.wd1.myworkdayjobs.com/wday/cxs/zayo/Zayo_Careers/jobs |
-| Associated Bank | 7 | HTTP 429 for https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/j |
 | BJ's Wholesale | 7 | HTTP 429 for https://bjswholesaleclub.wd1.myworkdayjobs.com/wday/cxs/bjswholesaleclub/BJsCareers/job |
 | Bain Capital | 7 | HTTP 429 for https://baincapital.wd1.myworkdayjobs.com/wday/cxs/baincapital/External_Public/jobs |
 | Cigna | 7 | HTTP 429 for https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs |
-| Cityblock Health | 7 | HTTP 429 for https://cityblockhealth.wd1.myworkdayjobs.com/wday/cxs/cityblockhealth/CityblockExterna |
 | Guidehouse | 7 | HTTP 429 for https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs |
 | HP | 7 | HTTP 429 for https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs |
 | Huntsman | 7 | HTTP 429 for https://huntsman.wd1.myworkdayjobs.com/wday/cxs/huntsman/Huntsman/jobs |
-| Kemper | 7 | HTTP 429 for https://kemper.wd5.myworkdayjobs.com/wday/cxs/kemper/Kemper_Careers/jobs |
-| Mizuho | 7 | HTTP 429 for https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuhoamericas/jobs |
 | TIAA | 7 | HTTP 429 for https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs |
 | Travelers | 7 | HTTP 429 for https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/External/jobs |
 | Air Liquide | 6 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
-| Albemarle | 6 | HTTP 429 for https://albemarle.wd5.myworkdayjobs.com/wday/cxs/albemarle/External/jobs |
 | Assurant | 6 | HTTP 429 for https://assurant.wd1.myworkdayjobs.com/wday/cxs/assurant/Assurant_Careers/jobs |
+| Baker Hughes | 6 | HTTP 429 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
 | Bloomberg | 6 | HTTP 429 for https://bloomberg.wd1.myworkdayjobs.com/wday/cxs/bloomberg/Bloombergindustrygroup_Exter |
 | Broadridge | 6 | HTTP 429 for https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs |
 | Capital Group | 6 | HTTP 429 for https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs |
@@ -102,15 +99,18 @@
 | Pitney Bowes | 6 | HTTP 429 for https://pitneybowes.wd1.myworkdayjobs.com/wday/cxs/pitneybowes/pbcareers/jobs |
 | R1 RCM | 6 | HTTP 429 for https://r1rcm.wd1.myworkdayjobs.com/wday/cxs/r1rcm/R1RCM/jobs |
 | Raymond James | 6 | HTTP 429 for https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jo |
-| Santander | 6 | HTTP 429 for https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs |
 | Wellington Management | 6 | HTTP 429 for https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs |
 | Workday | 6 | HTTP 429 for https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs |
 | Zendesk | 6 | HTTP 429 for https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/zendesk/jobs |
-| athenahealth | 6 | HTTP 429 for https://athenahealth.wd1.myworkdayjobs.com/wday/cxs/athenahealth/External/jobs |
-| Baker Hughes | 5 | HTTP 429 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
-| Orion Advisor Solutions | 5 | HTTP 429 for https://orionadvisor.wd1.myworkdayjobs.com/wday/cxs/orionadvisor/Orion_Careers/jobs |
-| BlackRock | 4 | HTTP 429 for https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs |
-| LPL Financial | 4 | HTTP 429 for https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs |
-| Ovintiv | 4 | HTTP 429 for https://ovintiv.wd3.myworkdayjobs.com/wday/cxs/ovintiv/ovintivcareers/jobs |
+| LPL Financial | 5 | HTTP 429 for https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs |
+| Williams-Sonoma | 5 | HTTP 429 for https://williams.wd5.myworkdayjobs.com/wday/cxs/williams/External/jobs |
+| Abbott | 4 | HTTP 429 for https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs |
+| Benchmark | 4 | HTTP 429 for https://benchmark.wd1.myworkdayjobs.com/wday/cxs/benchmark/PGH_Careers/jobs |
+| CarMax | 4 | HTTP 429 for https://carmax.wd1.myworkdayjobs.com/wday/cxs/carmax/External/jobs |
+| Cushman & Wakefield | 4 | HTTP 429 for https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/External/jobs |
+| Dow Jones | 4 | HTTP 429 for https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/News_Corp_Australia_Careers/jo |
+| GE Vernova | 4 | HTTP 429 for https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs |
+| GlobalFoundries | 4 | HTTP 429 for https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs |
+| Green Dot | 4 | HTTP 429 for https://greendotcorp.wd1.myworkdayjobs.com/wday/cxs/greendotcorp/gdc/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

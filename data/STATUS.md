@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-18T05:17:58+00:00 UTC, 433s
-- Companies working: 498 of 636
-- New roles last run: 11; roles in feed: 1234
-- Universe (all other known career sites): 5413 boards, 3743 checked in the last hour, 2 errors; 0 employer names learned; 7 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 426, "senior titles from boards/aggregators": 172}
+- Last run: 2026-11-18T06:18:15+00:00 UTC, 449s
+- Companies working: 429 of 636
+- New roles last run: 1; roles in feed: 1235
+- Universe (all other known career sites): 5418 boards, 3735 checked in the last hour, 14 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"jsearch": 0, "senior titles from boards/aggregators": 0}
 - Companies with open roles: 1894
-- Skipped (backing off broken sites): 1781; ran out of time: 0
+- Skipped (backing off broken sites): 1782; ran out of time: 0
 
 ## Failing companies
 
@@ -48,6 +48,7 @@
 | Discover | 8 | HTTP 429 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/DiscoveryCareerSite/jobs |
 | Edwards Lifesciences | 8 | HTTP 429 for https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/edwardscareers/jobs |
 | Equinix | 8 | HTTP 429 for https://equinix.wd1.myworkdayjobs.com/wday/cxs/equinix/external/jobs |
+| Fannie Mae | 8 | HTTP 429 for https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs |
 | Fidelity | 8 | HTTP 429 for https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs |
 | Fresenius Medical Care | 8 | HTTP 429 for https://freseniusmedicalcare.wd3.myworkdayjobs.com/wday/cxs/freseniusmedicalcare/fme/jo |
 | Kyndryl | 8 | HTTP 429 for https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylEarlyCareers/jobs |
@@ -69,9 +70,9 @@
 | Baker Hughes | 7 | HTTP 429 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
 | DaVita | 7 | HTTP 429 for https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs |
 | Equinor | 7 | HTTP 429 for https://equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs |
-| Fannie Mae | 7 | HTTP 429 for https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs |
 | Global Payments | 7 | HTTP 429 for https://global.wd1.myworkdayjobs.com/wday/cxs/global/globalpartnerscareers/jobs |
 | Goodyear | 7 | HTTP 429 for https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs |
+| Huron Consulting | 7 | HTTP 429 for https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs |
 | IQVIA | 7 | HTTP 429 for https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs |
 | JLL | 7 | HTTP 429 for https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs |
 | Motorola Solutions | 7 | HTTP 429 for https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs |
@@ -105,7 +106,6 @@
 | Health Care Service Corporation | 6 | HTTP 429 for https://healthcare.wd1.myworkdayjobs.com/wday/cxs/healthcare/Search/jobs |
 | Hitachi Vantara | 6 | HTTP 429 for https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs |
 | Huntsman | 6 | HTTP 429 for https://huntsman.wd1.myworkdayjobs.com/wday/cxs/huntsman/Huntsman/jobs |
-| Huron Consulting | 6 | HTTP 429 for https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs |
 | Intel | 6 | HTTP 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs |
 | Kemper | 6 | HTTP 429 for https://kemper.wd5.myworkdayjobs.com/wday/cxs/kemper/Kemper_Careers/jobs |
 | Kraft Heinz | 6 | HTTP 429 for https://heinz.wd1.myworkdayjobs.com/wday/cxs/heinz/KraftHeinz_Careers/jobs |

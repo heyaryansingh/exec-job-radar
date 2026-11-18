@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,214 open roles** at **1,894 companies** · **162 new in the last 24 hours** · 6,055 company career sites watched · updated hourly · last update Nov 18, 2026 01:18 AM ET
+**5,214 open roles** at **1,894 companies** · **156 new in the last 24 hours** · 6,055 company career sites watched · updated hourly · last update Nov 18, 2026 02:09 AM ET
 
 By level: Director 2657 · VP 1009 · Sr. Director 658 · Head 327 · EVP/SVP 193 · C-level 187 · ED 132 · MD 51
 
@@ -27,7 +27,7 @@ By level: Director 2657 · VP 1009 · Sr. Director 658 · Head 327 · EVP/SVP 19
 
 ## Contents
 
-- [🆕 New in the last 24 hours (162)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (156)](#new-in-the-last-24-hours)
 - [🤠 Houston area (200)](#houston-area)
 - [👑 Executive Technology Leadership (196)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (360)](#security-risk-technology)
@@ -197,12 +197,6 @@ By level: Director 2657 · VP 1009 · Sr. Director 658 · Head 327 · EVP/SVP 19
 | SKF | 🆕 Director SAP Delivery & Transformation | Director | Flowery Branch, GA, USA | $187K–$210K | 1d | [Apply](https://career.skf.com/job/Flowery-Branch%2C-GA-Director-SAP-Delivery-&-Transformation-GA-30542/1457762633/) |
 | Carlsmed | 🆕 Head of Software Engineering | Head | Carlsbad, CA, USA | $260K–$315K | 1d | [Apply](https://carlsmed.bamboohr.com/careers/263?source=indeed&src=indeed&postedDate=2026-11-16) |
 | Disney Entertainment & Sports LLC | 🆕 Distinguished Product Software Engineer (VP level) | VP | Glendale, CA, USA | $310K–$415K | 1d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10165133EXTERNALENGLOBAL/Distinguished-Product-Software-Engineer-VP-level?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/11d4bcf7-224f-44d4-954d-3f9ecfda21aa) ⚡ |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/61488635-4831-4837-89cb-5a4b4cf537d2) ⚡ |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/6563df4c-da61-45cc-8f69-2541aa2a0761) ⚡ |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/85b3a997-cd20-4a19-a7e0-9a8b8e7ec134) ⚡ |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/abeab96e-114b-4c6f-9d33-e06f63f90528) ⚡ |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/e4febb24-b518-43e8-ac55-2e7f44a8b7a3) ⚡ |
 | FTI Consulting, Inc. | 🆕 Director, Finance Transformation / Office of CFO Advisory | Director | New York, NY +7 |  | 2d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/New-York-NY/Director--Finance-Transformation---Office-of-CFO-Advisory_JR261869) |
 | Oracle | 🆕 🔁 Senior Director, Application Software Engineering | Sr. Director | United States | $150K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350622) |
 | Fortitude Re | 🆕 VP, New Transaction Integration | VP | Nashville, TN, USA | $190K–$210K | 2d | [Apply](https://grnh.se/lmu0jy0j7us) |
@@ -921,9 +915,9 @@ _110 older roles in this section are in data/roles.json on the `data` branch._
 | Genpact | 🆕 Director, Data Engineering 3 (req JR10036123) | Director | Pristina |  | 1d | [Apply](https://genpact.wd108.myworkdayjobs.com/en-US/External_Careers/job/Pristina/Director--Data-Engineering-3_JR10036123) |
 | Emory University | 🆕 Executive Director, Artificial Intelligence & Digital Strategy | ED | Atlanta, GA, USA |  | 1d | [Apply](https://staff-emory.icims.com/jobs/197418/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Information Technology Senior Management Forum | 🆕 Director, Data Science | Director | McLean, VA, USA | $245K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/gtzme5/director-data-science/mclean/va) |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/11d4bcf7-224f-44d4-954d-3f9ecfda21aa) ⚡ |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/6563df4c-da61-45cc-8f69-2541aa2a0761) ⚡ |
-| SignalFire | 🆕 Head of AI/ML (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/abeab96e-114b-4c6f-9d33-e06f63f90528) ⚡ |
+| SignalFire | Head of AI/ML (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/11d4bcf7-224f-44d4-954d-3f9ecfda21aa) ⚡ |
+| SignalFire | Head of AI/ML (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/6563df4c-da61-45cc-8f69-2541aa2a0761) ⚡ |
+| SignalFire | Head of AI/ML (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/abeab96e-114b-4c6f-9d33-e06f63f90528) ⚡ |
 | Bank OZK | VP, Data Engineering | VP | Dallas, TX, USA |  | 1d | [Apply](https://careers.ozk.com/career-home/jobs/6844/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Carlsmed | Head of Machine Learning | Head | Carlsbad, CA, USA | $280K–$340K | 1d | [Apply](https://carlsmed.bamboohr.com/careers/264?source=indeed&src=indeed&postedDate=2026-11-16) |
 | Novartis | Executive Director, Data Science & Applied AI | ED | Remote, USA | $225K–$419K | 1d | [Apply](https://www.novartis.com/careers/career-search/job/details/req-10092235-executive-director-data-science-applied-ai) |
@@ -2124,9 +2118,9 @@ _368 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 Sr Director of Software Engineering - Global Banking Intelligence Services | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795218) |
 | Carlsmed | 🆕 Head of Software Engineering | Head | Carlsbad, CA, USA | $260K–$315K | 1d | [Apply](https://carlsmed.bamboohr.com/careers/263?source=indeed&src=indeed&postedDate=2026-11-16) |
 | Disney Entertainment & Sports LLC | 🆕 Distinguished Product Software Engineer (VP level) | VP | Glendale, CA, USA | $310K–$415K | 1d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10165133EXTERNALENGLOBAL/Distinguished-Product-Software-Engineer-VP-level?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/61488635-4831-4837-89cb-5a4b4cf537d2) ⚡ |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/85b3a997-cd20-4a19-a7e0-9a8b8e7ec134) ⚡ |
-| SignalFire | 🆕 Head of Engineering (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/e4febb24-b518-43e8-ac55-2e7f44a8b7a3) ⚡ |
+| SignalFire | Head of Engineering (Director/VP) - VC Backed Startups | VP | NYC - Hybrid · Remote | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/61488635-4831-4837-89cb-5a4b4cf537d2) ⚡ |
+| SignalFire | Head of Engineering (Director/VP) - VC Backed Startups | VP | Bay Area - Hybrid · Remote | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/85b3a997-cd20-4a19-a7e0-9a8b8e7ec134) ⚡ |
+| SignalFire | Head of Engineering (Director/VP) - VC Backed Startups | VP | Remote - No Preference | $180K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/SignalFire/e4febb24-b518-43e8-ac55-2e7f44a8b7a3) ⚡ |
 | Lamb Weston | Director Environmental, Safety and Sustainability Engineering | Director | Kennewick, WA, USA (Kennewick Office) |  | 1d | [Apply](https://lambweston.wd1.myworkdayjobs.com/en-US/Lamb_External/job/Kennewick-WA-USA-Kennewick-Office/Director-Environmental--Safety-and-Sustainability-Engineering_Req-272247) |
 | Automated System Design | Director of Remote Technical Services | Director | Hickory, NC, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ea2b81ed-c9c8-44c7-bad7-18188e8258a8&ccId=19000101_000001&jobId=951068&source=IN&lang=en_US) |
 | Desert Valleys Federal Credit Union | Director of Information Technology | Director | Ridgecrest, CA, USA |  | 1d | [Apply](https://www.indeed.com/viewjob?jk=cdcc5a910d398279) |

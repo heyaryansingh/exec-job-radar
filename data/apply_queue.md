@@ -274,36 +274,36 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 268 | 50 | Intel | [Senior Director - Supplier Quality and Reliability](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Senior-Director---Supplier-Quality-and-Reliability_JR0286346) | US, Oregon, Hillsboro; US, Arizona, Phoe |  | account |  |
 | 269 | 50 | WSP | [Vice President, Project & Program Management](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99568) | New York, NY, United States |  | account |  |
 | 270 | 50 | AAA Mountain West Group | [Director, Digital Product Management](https://ncnu.wd1.myworkdayjobs.com/AAA_NCNU_Careers/job/Walnut-Creek-CA/Director--Digital-Product-Management_J142443) | Walnut Creek, CA |  | account |  |
-| 271 | 50 | General Dynamics Information Technology | [Director, Cyber Growth Support & Delivery Enablement](https://www.gdit.com/careers/job/9e38c803b/director-cyber-growth-support-delivery-enablement/) | Falls Church, VA, USA | $241,500 | via job board |  |
-| 272 | 50 | Purpose Financial | [Head of Data Delivery](https://jobs.havepurpose.com/job/Greenville-Head-of-Data-Delivery-SC-29601/1451153000/) | Greenville, SC, USA |  | via job board |  |
-| 273 | 50 | Comcast (CC) of Willow Grove | [Executive Director, Data Analytics and Benefits Enablement](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Executive-Director--Enablement_R446652) | Philadelphia, PA, USA |  | via job board |  |
-| 274 | 50 | Karman Space & Defense | [Operational Technical Director of Training](https://grnh.se/1io8zmwf9us) | South El Monte, CA, USA | $224,000 | via job board |  |
-| 275 | 50 | Karman Space & Defense | [Director of Production Planning](https://grnh.se/hy9xtb8m9us) | South El Monte, CA, USA | $237,000 | via job board |  |
-| 276 | 50 | Confidential | [Vice President, Global Technology Services](https://www.recruit.net/job/vice-president-global-technology-services-jobs/3372B7EF196C3D17) | Los Angeles, California |  | via job board |  |
-| 277 | 49 | Mattson Technology | [Sr. Director, SAP Business Systems](https://eidg.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/3208) | Fremont, CA, United States |  | account |  |
-| 278 | 49 | Liberty Mutual Insurance | [Director - Data Delivery Leader](https://searchjobs.libertymutualgroup.com/careers/job/618520820474) | Portsmouth, New Hampshire, United States |  | account |  |
-| 279 | 48 | Magna | [Head of Production](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Odzaci-RS/Head-of-Production_R00269366-1) | Odzaci, RS |  | account |  |
-| 280 | 48 | WSP | [Technical Director, Project Management - Power Generation Package Manager](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99514) | Houston, TX, United States |  | account |  |
-| 281 | 48 | WEX Inc. | [Director Enterprise Applications: Financial Systems](https://careers.wexinc.com/us/en/job/WEXWEXUSR23380EXTERNALENUS) | Remote, Maine, United States of America |  | account |  |
-| 282 | 48 | TAIT | [VP, Event Production & Project Delivery](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) | Lititz, PA, USA |  | via job board |  |
-| 283 | 48 | Leidos | [Director, World Model & Data](https://careers.leidos.com/jobs/18483610-director-world-model-and-data?tm_job=R-00196996-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) | Huntsville, AL, USA | $278,475 | via job board |  |
-| 284 | 48 | AST SpaceMobile | [Production Control Director](https://grnh.se/huumw5c25us) | Midland, TX, USA |  | via job board |  |
-| 285 | 48 | US Naval Facilities Engineering Systems Command | [DIRECTOR, SHORE INFRASTRUCTURE INDUSTRIAL BASE](https://www.usajobs.gov:443/job/892894700) | Washington Navy Yard, DC, USA | $209,600 | via job board |  |
-| 286 | 48 | Rize Network | [Director of Pre-Con – Municipal Infrastructure & Wet Utilities](https://www.indeed.com/viewjob?jk=c318b14efb986fc4) | Phoenix, AZ, USA | $200,000 | via job board |  |
-| 287 | 48 | Arizona Cardinals | [Director, Cybersecurity Engineering](https://recruiting2.ultipro.com/ARI1001CARD/JobBoard/bfe37693-2c0a-46b6-af4e-f984b08a8e7f/OpportunityDetail?opportunityId=e5814799-28d9-46fb-8614-761dbe66fb98&postingId=d95ec2bf-916a-4a71-bd64-68002d40d65b) | Tempe, AZ, USA |  | via job board |  |
-| 288 | 48 | Treatspace, Inc. | [VP, Product & Engineering](https://treatspace.applytojob.com/apply/BSvebTxt8s/VP-Product-Engineering?source=INDE&~) | Pittsburgh, PA, USA |  | via job board |  |
-| 289 | 47 | Columbia Sportswear | [Sr. Director, Distribution & Logistics Technologies](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) | Portland, Oregon, United States of Ameri |  | account |  |
-| 290 | 46 | Oscar Health | [Director, Data Science](https://oscarhealth.com/careers/jobs?gh_jid=8386374) | New York, New York, United States | $286,902 | ⚡ quick form | 7 |
-| 291 | 46 | Hertz | [Director of IT Service Management](https://jobs.hertzcareers.com/#en/job/44339) | Atlanta, GA, USA |  | via job board |  |
-| 292 | 46 | Hertz | [Director of IT Service Management](https://jobs.hertzcareers.com/#en/job/44339) | Chicago, IL, USA |  | via job board |  |
-| 293 | 45 | Anello Photonics | [Sr Director, ASIC Engineering](https://job-boards.greenhouse.io/anellophotonics/jobs/4730399006) | Santa Clara, CA |  | ⚡ quick form | 4 |
-| 294 | 45 | DXC Technology | [Director Program Management](https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/GBR---ANY-CITY/Director-Program-Management_51594709) | GBR - ANY CITY |  | account |  |
-| 295 | 45 | Cydecor | [Vice President, Technology Services Group](https://us.trabajo.org/job-5380-0b870b4cfcc01dd05027d5f079ad4c35) | Arlington, Virginia |  | via job board |  |
-| 296 | 44 | Nexplay Consulting Inc. | [IT Director - Hospitality](https://nexplay-consulting-inc.breezy.hr/p/a331dd8f00f0-it-director-hospitality?source=indeed) | Los Angeles, CA, USA |  | via job board |  |
-| 297 | 44 | Lessiter Media | [Digital Media Director](https://www.indeed.com/viewjob?jk=fbb2792552647682) | Brookfield, WI, USA |  | via job board |  |
-| 298 | 42 | BEUMER Group | [Director, Systems & Solutions, Logistic Systems](https://jobs.smartrecruiters.com/BEUMERGroup1/744000162152528-director-systems-solutions-logistic-systems-) | Somerset, New Jersey, us |  | ⚡ quick form |  |
-| 299 | 42 | Magna | [Global Director, IT Internal Audit](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Global-Director--IT-Internal-Audit_R00270250) | Troy, Michigan, US |  | account |  |
-| 300 | 42 | CooperCompanies | [Director, GSC COE and Planning Systems](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12995) | Victor, NY, United States |  | account |  |
+| 271 | 50 | Baccarat Hotel | [Director, Information Technology](https://shhotelsandresorts.wd12.myworkdayjobs.com/en-US/SHG/job/Baccarat-New-York/Director--Information-Technology_JR106446) | Baccarat New York |  | account |  |
+| 272 | 50 | General Dynamics Information Technology | [Director, Cyber Growth Support & Delivery Enablement](https://www.gdit.com/careers/job/9e38c803b/director-cyber-growth-support-delivery-enablement/) | Falls Church, VA, USA | $241,500 | via job board |  |
+| 273 | 50 | Purpose Financial | [Head of Data Delivery](https://jobs.havepurpose.com/job/Greenville-Head-of-Data-Delivery-SC-29601/1451153000/) | Greenville, SC, USA |  | via job board |  |
+| 274 | 50 | Comcast (CC) of Willow Grove | [Executive Director, Data Analytics and Benefits Enablement](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Executive-Director--Enablement_R446652) | Philadelphia, PA, USA |  | via job board |  |
+| 275 | 50 | Karman Space & Defense | [Operational Technical Director of Training](https://grnh.se/1io8zmwf9us) | South El Monte, CA, USA | $224,000 | via job board |  |
+| 276 | 50 | Karman Space & Defense | [Director of Production Planning](https://grnh.se/hy9xtb8m9us) | South El Monte, CA, USA | $237,000 | via job board |  |
+| 277 | 50 | Confidential | [Vice President, Global Technology Services](https://www.recruit.net/job/vice-president-global-technology-services-jobs/3372B7EF196C3D17) | Los Angeles, California |  | via job board |  |
+| 278 | 49 | Mattson Technology | [Sr. Director, SAP Business Systems](https://eidg.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/3208) | Fremont, CA, United States |  | account |  |
+| 279 | 49 | Liberty Mutual Insurance | [Director - Data Delivery Leader](https://searchjobs.libertymutualgroup.com/careers/job/618520820474) | Portsmouth, New Hampshire, United States |  | account |  |
+| 280 | 48 | Magna | [Head of Production](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Odzaci-RS/Head-of-Production_R00269366-1) | Odzaci, RS |  | account |  |
+| 281 | 48 | WSP | [Technical Director, Project Management - Power Generation Package Manager](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99514) | Houston, TX, United States |  | account |  |
+| 282 | 48 | WEX Inc. | [Director Enterprise Applications: Financial Systems](https://careers.wexinc.com/us/en/job/WEXWEXUSR23380EXTERNALENUS) | Remote, Maine, United States of America |  | account |  |
+| 283 | 48 | TAIT | [VP, Event Production & Project Delivery](https://careers.taittowers.com/en/jobs/18287556-vp-event-production-and-project-delivery?tm_job=3768&tm_event=view&tm_company=92544) | Lititz, PA, USA |  | via job board |  |
+| 284 | 48 | Leidos | [Director, World Model & Data](https://careers.leidos.com/jobs/18483610-director-world-model-and-data?tm_job=R-00196996-OTHLOC-PL-2D1270&tm_event=view&tm_company=2502) | Huntsville, AL, USA | $278,475 | via job board |  |
+| 285 | 48 | AST SpaceMobile | [Production Control Director](https://grnh.se/huumw5c25us) | Midland, TX, USA |  | via job board |  |
+| 286 | 48 | US Naval Facilities Engineering Systems Command | [DIRECTOR, SHORE INFRASTRUCTURE INDUSTRIAL BASE](https://www.usajobs.gov:443/job/892894700) | Washington Navy Yard, DC, USA | $209,600 | via job board |  |
+| 287 | 48 | Rize Network | [Director of Pre-Con – Municipal Infrastructure & Wet Utilities](https://www.indeed.com/viewjob?jk=c318b14efb986fc4) | Phoenix, AZ, USA | $200,000 | via job board |  |
+| 288 | 48 | Arizona Cardinals | [Director, Cybersecurity Engineering](https://recruiting2.ultipro.com/ARI1001CARD/JobBoard/bfe37693-2c0a-46b6-af4e-f984b08a8e7f/OpportunityDetail?opportunityId=e5814799-28d9-46fb-8614-761dbe66fb98&postingId=d95ec2bf-916a-4a71-bd64-68002d40d65b) | Tempe, AZ, USA |  | via job board |  |
+| 289 | 48 | Treatspace, Inc. | [VP, Product & Engineering](https://treatspace.applytojob.com/apply/BSvebTxt8s/VP-Product-Engineering?source=INDE&~) | Pittsburgh, PA, USA |  | via job board |  |
+| 290 | 47 | Columbia Sportswear | [Sr. Director, Distribution & Logistics Technologies](https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/Sr-Director--Distribution---Logistics-Technologies_R-027269-2) | Portland, Oregon, United States of Ameri |  | account |  |
+| 291 | 47 | ON Semiconductor | [Director, Power MOSFET Technology Development](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507208) | Scottsdale, AZ, United States |  | account |  |
+| 292 | 46 | Oscar Health | [Director, Data Science](https://oscarhealth.com/careers/jobs?gh_jid=8386374) | New York, New York, United States | $286,902 | ⚡ quick form | 7 |
+| 293 | 46 | Hertz | [Director of IT Service Management](https://jobs.hertzcareers.com/#en/job/44339) | Atlanta, GA, USA |  | via job board |  |
+| 294 | 46 | Hertz | [Director of IT Service Management](https://jobs.hertzcareers.com/#en/job/44339) | Chicago, IL, USA |  | via job board |  |
+| 295 | 45 | Anello Photonics | [Sr Director, ASIC Engineering](https://job-boards.greenhouse.io/anellophotonics/jobs/4730399006) | Santa Clara, CA |  | ⚡ quick form | 4 |
+| 296 | 45 | DXC Technology | [Director Program Management](https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/GBR---ANY-CITY/Director-Program-Management_51594709) | GBR - ANY CITY |  | account |  |
+| 297 | 45 | Cydecor | [Vice President, Technology Services Group](https://us.trabajo.org/job-5380-0b870b4cfcc01dd05027d5f079ad4c35) | Arlington, Virginia |  | via job board |  |
+| 298 | 44 | Nexplay Consulting Inc. | [IT Director - Hospitality](https://nexplay-consulting-inc.breezy.hr/p/a331dd8f00f0-it-director-hospitality?source=indeed) | Los Angeles, CA, USA |  | via job board |  |
+| 299 | 44 | Lessiter Media | [Digital Media Director](https://www.indeed.com/viewjob?jk=fbb2792552647682) | Brookfield, WI, USA |  | via job board |  |
+| 300 | 42 | BEUMER Group | [Director, Systems & Solutions, Logistic Systems](https://jobs.smartrecruiters.com/BEUMERGroup1/744000162152528-director-systems-solutions-logistic-systems-) | Somerset, New Jersey, us |  | ⚡ quick form |  |
 
 ## Houston area (16)
 

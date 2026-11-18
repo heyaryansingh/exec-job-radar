@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,225 open roles** at **1,900 companies** · **159 new in the last 24 hours** · 6,059 company career sites watched · updated hourly · last update Nov 18, 2026 06:08 AM ET
+**5,230 open roles** at **1,900 companies** · **163 new in the last 24 hours** · 6,059 company career sites watched · updated hourly · last update Nov 18, 2026 06:58 AM ET
 
-By level: Director 2662 · VP 1011 · Sr. Director 660 · Head 327 · EVP/SVP 193 · C-level 189 · ED 132 · MD 51
+By level: Director 2663 · VP 1014 · Sr. Director 660 · Head 327 · EVP/SVP 194 · C-level 189 · ED 132 · MD 51
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (159)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (163)](#new-in-the-last-24-hours)
 - [🤠 Houston area (202)](#houston-area)
 - [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (361)](#security-risk-technology)
-- [🧠 Data & AI (1296)](#data-ai)
+- [🧠 Data & AI (1297)](#data-ai)
 - [🚦 Reliability & Operations (365)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (477)](#cloud-infrastructure)
 - [🏛️ Architecture (144)](#architecture)
 - [🔄 Transformation & Delivery (618)](#transformation-delivery)
-- [🛠️ Engineering & Software (1379)](#engineering-software)
+- [🛠️ Engineering & Software (1383)](#engineering-software)
 - [📌 Other Senior Roles (387)](#other-senior-roles)
 - [🔒 Recently closed (216)](#recently-closed)
 - Daily digests: [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md)
@@ -47,6 +47,9 @@ By level: Director 2662 · VP 1011 · Sr. Director 660 · Head 327 · EVP/SVP 19
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Engineering Lead – Senior Vice President | EVP/SVP | Rutherford, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/rutherford/senior-engineering-lead-senior-vice-president/287/103457010576) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Messaging Compliance Engineering Lead - Vice President | VP | Irving, TX, US |  | 0d | [Apply](https://jobs.citi.com/job/irving/messaging-compliance-engineering-lead-vice-president/287/103457007776) |
+| Citi (jobs.citi.com) ⭐ | 🆕 IT Project Tech Lead - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/it-project-tech-lead-vice-president/287/103457004640) |
 | Ford Motor Company | 🆕 Director, Developer Platform and Tools | Director | Dearborn, MI, USA | $142K–$268K | 0d | [Apply](https://www.careers.ford.com/en/job/dearborn/director-developer-platform-and-tools/48560/103447753744) |
 | LINN-MAR COMMUNITY SCHOOLS | 🆕 Chief Technology Officer | C-level | Marion, IA, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5996337) |
 | QXO | 🆕 Director, BI Platforms and Analytics | Director | Seattle, WA, USA | $175K–$400K | 0d | [Apply](https://exempt-qxo.icims.com/jobs/17912/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -77,6 +80,7 @@ By level: Director 2662 · VP 1011 · Sr. Director 660 · Head 327 · EVP/SVP 19
 | ON Semiconductor | 🆕 Director, Power MOSFET Technology Development | Director | Scottsdale, AZ, United States |  | 0d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507208) |
 | Baccarat Hotel | 🆕 Director, Information Technology | Director | Baccarat New York |  | 0d | [Apply](https://shhotelsandresorts.wd12.myworkdayjobs.com/en-US/SHG/job/Baccarat-New-York/Director--Information-Technology_JR106446) |
 | CompuGroup Medical | 🆕 Vice President, Engineering | VP | Richardson |  | 0d | [Apply](https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Richardson/Vice-President--Engineering_JR110608-1) [alt](https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Richardson/Vice-President--Engineering_JR110608-1) |
+| State Street ⭐ | 🆕 AI Strategy & Product Management, Vice President | VP | 2 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Krakow-Poland/AI-Strategy---Product-Management--Vice-President_R-801212) |
 | Walmart | 🆕 Senior Director, Data Science - Last Mile Delivery | Sr. Director | Bentonville, AR, USA | $160K–$320K | 1d | [Apply](https://click.appcast.io/t/qILWPEExyEEgfyaOOd8lzlLYgxFr2uOD1TLjned-l18=) |
 | The Christ Hospital Health Network | 🆕 Director, IT Infrastructure Services - CBO IT Infrastructure - Full Time - Days | Director | OH, United States |  | 1d | [Apply](https://fa-etxt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/job/15576) |
 | The Christ Hospital Health Network | 🆕 Director, IT Infrastructure Services - CBO IT Infrastructure - Full Time - Days | Director | Norwood, OH, USA |  | 1d | [Apply](https://fa-etxt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/requisitions/preview/15576) |
@@ -893,6 +897,7 @@ _111 older roles in this section are in data/roles.json on the `data` branch._
 | KPMG | 🆕 Director, AI Architect | Director | Dallas, TX, USA |  | 0d | [Apply](https://www.kpmguscareers.com/jobdetail/?jobId=140087) |
 | Vantor | 🆕 Director of AI Engineering & Enablement | Director | Herndon, VA, USA | $165K–$266K | 0d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
 | Vantor | 🆕 Director of AI Engineering & Enablement | Director | Westminster, CO, USA | $165K–$266K | 0d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
+| State Street ⭐ | 🆕 AI Strategy & Product Management, Vice President | VP | 2 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Krakow-Poland/AI-Strategy---Product-Management--Vice-President_R-801212) |
 | Walmart | 🆕 Senior Director, Data Science - Last Mile Delivery | Sr. Director | Bentonville, AR, USA | $160K–$320K | 1d | [Apply](https://click.appcast.io/t/qILWPEExyEEgfyaOOd8lzlLYgxFr2uOD1TLjned-l18=) |
 | Caraway Home | 🆕 Senior Director of Data Analytics & Insights | Sr. Director | Remote, USA | $190K–$210K | 1d | [Apply](https://carawayhome.applytojob.com/apply/aDdE0RA5lP/Senior-Director-Of-Data-Analytics-Insights?source=INDE&~) |
 | giftHEALTH | 🆕 Director of Data Platform & Engineering | Director | Columbus, OH, USA · Remote | $164K–$225K | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670772/Gifthealth-Inc/Director-of-Data-Platform-Engineering?source=Indeed_Feed) |
@@ -1137,9 +1142,8 @@ _111 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Head of Product, Innovation and AI – Citi Travel, Senior Vice President | EVP/SVP | Wilmington, DE, US +5 |  | 9d | [Apply](https://jobs.citi.com/job/wilmington/head-of-product-innovation-and-ai-citi-travel-senior-vice-president/287/103092979104) |
 | The Aerospace Corporation | Principal Director - Space Based Sensing and Targeting (SBST) Space Data Network (SDN) | Director | El Segundo, CA |  | 9d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director---Space-Based-Sensing-and-Targeting--SBST--Space-Data-Network--SDN-_R017163) |
 | Experian | Director, Data Regulatory Compliance & Risk | Director | United States, UNITED STATES, us |  | 9d | [Apply](https://jobs.smartrecruiters.com/Experian/744000160741945-director-data-regulatory-compliance-risk) ⚡ |
-| Exelixis | Director, AI and Agentic Engineering | Director | Alameda, CA | $241K–$306K | 9d | [Apply](https://exelixis.wd1.myworkdayjobs.com/Exel/job/Alameda-CA/Director--AI-and-Agentic-Engineering_JR7036) |
 
-_1046 older roles in this section are in data/roles.json on the `data` branch._
+_1047 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2075,6 +2079,9 @@ _368 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Engineering Lead – Senior Vice President | EVP/SVP | Rutherford, NJ, US |  | 0d | [Apply](https://jobs.citi.com/job/rutherford/senior-engineering-lead-senior-vice-president/287/103457010576) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Messaging Compliance Engineering Lead - Vice President | VP | Irving, TX, US |  | 0d | [Apply](https://jobs.citi.com/job/irving/messaging-compliance-engineering-lead-vice-president/287/103457007776) |
+| Citi (jobs.citi.com) ⭐ | 🆕 IT Project Tech Lead - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/it-project-tech-lead-vice-president/287/103457004640) |
 | St. Clair County Community College | 🆕 Director of Engineering Services and Cybersecurity | Director | Port Huron, MI, USA |  | 0d | [Apply](https://jobs.silkroad.com/stclairccc/ExternalCareerSite/jobs/173688/?source=Indeed.com) |
 | CAMP Facility Services | 🆕 Vice President of IT | VP | Houston, TX, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=27e119a1-ddb1-40c4-a314-1b1241417865&ccId=19000101_000001&jobId=624998&source=IN&lang=en_US) |
 | Northern Trust Corporation | 🆕 Engineering Director, Securities Finance Technology | Director | Chicago, IL |  | 0d | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Engineering-Director--Securities-Finance-Technology_R162821) |
@@ -2322,11 +2329,8 @@ _368 older roles in this section are in data/roles.json on the `data` branch._
 | Conway Medical Center | Assistant VP of Information Technology | VP | Conway, SC, USA |  | 8d | [Apply](https://pm.healthcaresource.com/CS/cmcsc/#/job/11163) |
 | Boomi | Director, Solution Engineering - Commercial | Director | Denver, CO, USA · Remote | $244K–$305K | 8d | [Apply](https://grnh.se/hvqp0uqc4us) |
 | Picarro | Vice President, Software Engineering | VP | Santa Clara, CA, USA | $300K–$350K | 8d | [Apply](https://grnh.se/dj8tusas8us) |
-| Diné Development Corporation | Vice President, Federal Healthcare IT | VP | Remote |  | 8d | [Apply](https://ddcdine.wd501.myworkdayjobs.com/DDC_Careers/job/Remote/Vice-President--Federal-Healthcare-IT_JR100377) |
-| Florida Atlantic University | Director of Engineering & Utilities | Director | Boca Raton |  | 8d | [Apply](https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Director-of-Engineering---Utilities_REQ23113) |
-| Yukon-Kuskokwim Health Corporation | IT Director | Director | Bethel |  | 8d | [Apply](https://ykhc.wd108.myworkdayjobs.com/YKHC/job/Bethel/IT-Director_JR100575) |
 
-_1129 older roles in this section are in data/roles.json on the `data` branch._
+_1133 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

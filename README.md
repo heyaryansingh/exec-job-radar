@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,202 open roles** at **1,893 companies** · **169 new in the last 24 hours** · 6,050 company career sites watched · updated hourly · last update Nov 17, 2026 11:18 PM ET
+**5,203 open roles** at **1,893 companies** · **170 new in the last 24 hours** · 6,050 company career sites watched · updated hourly · last update Nov 17, 2026 11:33 PM ET
 
-By level: Director 2649 · VP 1009 · Sr. Director 657 · Head 324 · EVP/SVP 193 · C-level 187 · ED 132 · MD 51
+By level: Director 2650 · VP 1009 · Sr. Director 657 · Head 324 · EVP/SVP 193 · C-level 187 · ED 132 · MD 51
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (169)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (170)](#new-in-the-last-24-hours)
 - [🤠 Houston area (200)](#houston-area)
 - [👑 Executive Technology Leadership (196)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (359)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2649 · VP 1009 · Sr. Director 657 · Head 324 · EVP/SVP 19
 - [☁️ Cloud & Infrastructure (471)](#cloud-infrastructure)
 - [🏛️ Architecture (142)](#architecture)
 - [🔄 Transformation & Delivery (616)](#transformation-delivery)
-- [🛠️ Engineering & Software (1375)](#engineering-software)
+- [🛠️ Engineering & Software (1376)](#engineering-software)
 - [📌 Other Senior Roles (386)](#other-senior-roles)
 - [🔒 Recently closed (219)](#recently-closed)
 - Daily digests: [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md) · [11-11](data/daily/2026-11-11.md)
@@ -47,6 +47,7 @@ By level: Director 2649 · VP 1009 · Sr. Director 657 · Head 324 · EVP/SVP 19
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Gallery Systems | 🆕 Director of Engineering | Director | 4 Locations |  | 0d | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/Gallery/job/United-States---Remote/Director-of-Engineering_R73162) |
 | Aroma360, LLC | 🆕 Chief Technology Officer | C-level | Miami, FL, USA | $175K–$250K | 0d | [Apply](https://aroma360.breezy.hr/p/4ae535f1744a-chief-technology-officer?source=indeed) |
 | Business Communications, Inc. | 🆕 Cloud Services Director | Director | Little Rock, AR, USA |  | 0d | [Apply](https://phx.us-west.paycomonline.net/v4/ats/web.php/portal/1F57DB6C385123CEC4AB5921353FA46A/jobs/28454?source=Indeed) |
 | Centurion Health | 🆕 Director of Infrastructure and Cloud Engineering | Director | Sterling, VA, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/902B461213211E2E52703B6504151F89/jobs/993910?source=Indeed) |
@@ -2079,6 +2080,7 @@ _366 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Gallery Systems | 🆕 Director of Engineering | Director | 4 Locations |  | 0d | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/Gallery/job/United-States---Remote/Director-of-Engineering_R73162) |
 | Gallery Systems | 🆕 Director of Engineering | Director | Remote, USA |  | 0d | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/Gallery/job/United-States---Remote/Director-of-Engineering_R73162) |
 | The Bancorp, Inc. | 🆕 VP Applications Development (Hybrid) | VP | Sioux Falls, SD, USA |  | 0d | [Apply](https://careers-bancorpbank.icims.com/jobs/6423/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | ON Semiconductor | 🆕 Director, Power MOSFET Technology Development | Director | Scottsdale, AZ, United States |  | 0d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507208) |
@@ -2328,9 +2330,8 @@ _366 older roles in this section are in data/roles.json on the `data` branch._
 | CBRE | Technical Director | Director | Dallas, TX, USA |  | 8d | [Apply](https://cbreglobal.avature.net/careers/JobDetail?jobId=303629&source=Indeed) |
 | Charles Schwab | Director, Retirement Technology Expert (PL) | Director | Southlake, TX, USA | $140K–$310K | 8d | [Apply](https://www.schwabjobs.com/job/southlake/director-retirement-technology-expert-pl/33727/103129674624) |
 | Smithfield Foods | Director, IT Plant Systems | Director | Tar Heel, NC, USA |  | 8d | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/en-US/Careers/job/Tar-Heel-NC/Director--IT-Plant-Systems_R-2026-15808) |
-| BNY ⭐ | Vice President, POM Technical Product Manager - Government Solutions (req 80358) | VP | Pittsburgh, PA, United States |  | 8d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/80358) |
 
-_1125 older roles in this section are in data/roles.json on the `data` branch._
+_1126 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

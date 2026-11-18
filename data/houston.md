@@ -1,13 +1,15 @@
 # 🤠 Senior technology roles in the Houston area
 
-197 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+200 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| FTI Consulting, Inc. | 🆕 Senior Director, Technology Risk Regulatory Assurance | Sr. Director | New York, NY +7 |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/New-York-NY/Senior-Director--Technology-Risk-Regulatory-Assurance_JR261889) [alt](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/New-York-NY/Senior-Director--Technology-Risk-Regulatory-Assurance_JR261889) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Houston, TX, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26150678) |
 | Panelmatic Inc. | 🆕 Business Transformation Director | Director | Houston, TX, USA |  | 1d | [Apply](https://apply.workable.com/j/D7D45068EB) |
 | JPMorgan Chase ⭐ | 🆕 Sr Director of Software Engineering - Global Banking Intelligence Services | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795218) |
 | UnitedHealth Group ⭐ | 🆕 Senior Director, Optum Enterprise Integration & Strategic Value Creation - Remote | Sr. Director | Minneapolis, Minnesota, United States +20 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/minneapolis/senior-director-optum-enterprise-integration-and-strategic-value-creation-remote/34088/103420144896) |
+| FTI Consulting, Inc. | 🆕 Director, Finance Transformation / Office of CFO Advisory | Director | New York, NY +7 |  | 2d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/New-York-NY/Director--Finance-Transformation---Office-of-CFO-Advisory_JR261869) |
 | Live Nation | Director, Incident Response & Security Operations | Director | US CA Beverly Hills - 325 N Maple Drive +3 |  | 2d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director---Cyber-Security-Operations_JR-93115) |
 | WSP | Technical Director, Project Management - Power Generation Package Manager | Director | Houston, TX, United States |  | 2d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99514) |
 | Bayonet Plumbing | Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 3d | [Apply](https://www.talent.com/view?id=645908799350835730) |
@@ -53,6 +55,7 @@
 | KSBJ | Director, Data Science & Analytics | Director | Houston, TX, USA |  | 8d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654078) |
 | WSP | National Director of Airline Infrastructure Programs | Director | Houston, TX, United States |  | 8d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99160) |
 | Parsons | Program Director, Roads and Highways, Houston | Director | Houston, TX, USA | $158K–$284K | 8d | [Apply](https://jobs.parsons.com/jobs/program-director-roads-and-highways-houston-houston-r-188454-jobs--project-program-management--) |
+| FTI Consulting, Inc. | Senior Director, Review Manager (Cyber Incident Response/Breach) - Acuity | Sr. Director | New York, NY +7 |  | 9d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/New-York-NY/Senior-Director--Review-Manager--Cyber-Incident-Response-Breach----Acuity_JR261817-1) |
 | Iris Energy | Director, Facility and OT Security | Director | Houston, Texas | $200K–$300K | 9d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5611752889/e/) |
 | Marathon Petroleum | Decision Intelligence Director | Director | San Antonio, Texas +2 |  | 9d | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Decision-Intelligence-Director_00025228) |
 | Flogistix | Assistant Director, Financial Systems | Director | Houston, TX, USA |  | 9d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/73E051287C88B1AA01E9EBE87D394D99/jobs/551581?source=Indeed) |

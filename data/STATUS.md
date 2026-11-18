@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-18T03:17:39+00:00 UTC, 423s
-- Companies working: 467 of 636
-- New roles last run: 13; roles in feed: 1218
-- Universe (all other known career sites): 5407 boards, 3733 checked in the last hour, 6 errors; 0 employer names learned; 8 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 423, "senior titles from boards/aggregators": 189}
+- Last run: 2026-11-18T04:18:01+00:00 UTC, 444s
+- Companies working: 476 of 636
+- New roles last run: 5; roles in feed: 1222
+- Universe (all other known career sites): 5413 boards, 3738 checked in the last hour, 7 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
 - Companies with open roles: 1893
-- Skipped (backing off broken sites): 1782; ran out of time: 0
+- Skipped (backing off broken sites): 1786; ran out of time: 0
 
 ## Failing companies
 
@@ -62,6 +62,7 @@
 | Sprinklr | 8 | HTTP 429 for https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs |
 | Zendesk | 8 | HTTP 429 for https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/zendesk/jobs |
 | Alcoa | 7 | HTTP 429 for https://alcoa.wd5.myworkdayjobs.com/wday/cxs/alcoa/Careers/jobs |
+| Apollo Global Management | 7 | HTTP 429 for https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs |
 | Arctic Wolf | 7 | HTTP 429 for https://arcticwolf.wd1.myworkdayjobs.com/wday/cxs/arcticwolf/External/jobs |
 | Arrow Electronics | 7 | HTTP 429 for https://arrow.wd1.myworkdayjobs.com/wday/cxs/arrow/AC/jobs |
 | Baker Hughes | 7 | HTTP 429 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
@@ -81,9 +82,7 @@
 | Sunbelt Rentals | 7 | HTTP 429 for https://sunbeltrentals.wd1.myworkdayjobs.com/wday/cxs/sunbeltrentals/sbcareers/jobs |
 | Thomson Reuters | 7 | HTTP 429 for https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Si |
 | Agilent | 6 | HTTP 429 for https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Student_Careers/jobs |
-| Air Liquide | 6 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
 | Ameren | 6 | HTTP 429 for https://ameren.wd1.myworkdayjobs.com/wday/cxs/ameren/External/jobs |
-| Apollo Global Management | 6 | HTTP 429 for https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Careers/jobs |
 | Associated Bank | 6 | HTTP 429 for https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/j |
 | BJ's Wholesale | 6 | HTTP 429 for https://bjswholesaleclub.wd1.myworkdayjobs.com/wday/cxs/bjswholesaleclub/BJsCareers/job |
 | Bain Capital | 6 | HTTP 429 for https://baincapital.wd1.myworkdayjobs.com/wday/cxs/baincapital/External_Public/jobs |
@@ -112,5 +111,6 @@
 | Huron Consulting | 6 | HTTP 429 for https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs |
 | Intel | 6 | HTTP 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs |
 | Kemper | 6 | HTTP 429 for https://kemper.wd5.myworkdayjobs.com/wday/cxs/kemper/Kemper_Careers/jobs |
+| Kraft Heinz | 6 | HTTP 429 for https://heinz.wd1.myworkdayjobs.com/wday/cxs/heinz/KraftHeinz_Careers/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

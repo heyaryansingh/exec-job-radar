@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,231 open roles** at **1,942 companies** · **161 new in the last 24 hours** · 6,080 company career sites watched · updated hourly · last update Nov 19, 2026 05:22 AM ET
+**5,232 open roles** at **1,942 companies** · **161 new in the last 24 hours** · 6,080 company career sites watched · updated hourly · last update Nov 19, 2026 06:22 AM ET
 
-By level: Director 2676 · VP 1004 · Sr. Director 659 · Head 324 · C-level 195 · EVP/SVP 194 · ED 127 · MD 52
+By level: Director 2676 · VP 1005 · Sr. Director 659 · Head 324 · C-level 195 · EVP/SVP 194 · ED 127 · MD 52
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -32,7 +32,7 @@ By level: Director 2676 · VP 1004 · Sr. Director 659 · Head 324 · C-level 19
 - [👑 Executive Technology Leadership (204)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (354)](#security-risk-technology)
 - [🧠 Data & AI (1283)](#data-ai)
-- [🚦 Reliability & Operations (366)](#reliability-operations)
+- [🚦 Reliability & Operations (367)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (476)](#cloud-infrastructure)
 - [🏛️ Architecture (149)](#architecture)
 - [🔄 Transformation & Delivery (628)](#transformation-delivery)
@@ -47,6 +47,7 @@ By level: Director 2676 · VP 1004 · Sr. Director 659 · Head 324 · C-level 19
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Vice President, Digital Asset Custody Operations, PUNE | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/vice-president-digital-asset-custody-operations-pune/287/103504253488) |
 | Information Technology Senior Management Forum | 🆕 Director, Technical Program Management (Remote-Eligible) | Director | Richmond, VA, USA · Remote | $210K–$239K | 0d | [Apply](https://jobs.itsmfleaders.org/job/ja6f3g/director-technical-program-management-(remote-eligible)/richmond/va) |
 | Information Technology Senior Management Forum | 🆕 Director of Platform Engineering and Reliability | Director | Waukegan, IL, USA | $149K–$299K | 0d | [Apply](https://jobs.itsmfleaders.org/job/9f7c5u/director-of-platform-engineering-and-reliability/waukegan/il) |
 | Aspire Public Schools | 🆕 Senior Director, AI, Data & Systems Enablement | Sr. Director | Oakland, CA, USA | $168K–$216K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oMC7AfwP&s=Indeed) |
@@ -207,7 +208,6 @@ By level: Director 2676 · VP 1004 · Sr. Director 659 · Head 324 · C-level 19
 | Oracle | 🆕 Senior Director, Technical Program Management (req 350597) | Sr. Director | Santa Clara, CA, United States | $170K–$355K | 3d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350597) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2133898) | Director | Westlake, TX |  | 3d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2133898) |
 | Fidelity ⭐ | 🆕 Director, Engineering - Alternative Investments | Director | 2 Locations |  | 3d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Director--Engineering---Alternative-Investments_2137555) |
-| Labcorp | 🆕 Director, Architecture Solutions | Director | Durham NC |  | 3d | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Director--Architecture-Solutions_2640296) |
 
 <a name="houston-area"></a>
 
@@ -1157,6 +1157,7 @@ _1033 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Vice President, Digital Asset Custody Operations, PUNE | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/vice-president-digital-asset-custody-operations-pune/287/103504253488) |
 | Information Technology Senior Management Forum | 🆕 Director of Platform Engineering and Reliability | Director | Waukegan, IL, USA | $149K–$299K | 0d | [Apply](https://jobs.itsmfleaders.org/job/9f7c5u/director-of-platform-engineering-and-reliability/waukegan/il) |
 | Aero Simulation, Inc. (ASI) | 🆕 DIRECTOR OF PRODUCTION | Director | Tampa, FL, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676509/Aero-Simulation-Inc-ASI/DIRECTOR-OF-PRODUCTION?source=Indeed_Feed) |
 | QUO | 🆕 Director, Technical Support (Tier 3) | Director | Remote - United States & Canada | $155K–$385K | 1d | [Apply](https://jobs.ashbyhq.com/quo/c6343e67-f8fa-4cbc-bdb6-9299e22cac5b) ⚡ [alt](https://jobs.ashbyhq.com/quo/c6343e67-f8fa-4cbc-bdb6-9299e22cac5b) |
@@ -1406,9 +1407,8 @@ _1033 older roles in this section are in data/roles.json on the `data` branch._
 | KLDiscovery | Director, Cybersecurity Operations | Director | United States · Remote | $175K–$215K | 27d | [Apply](https://ekug.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2031) |
 | Honeywell Aerospace | Director Production Planning | Director | Tempe, AZ, United States |  | 28d | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/99122724) |
 | Texas Health and Human Services Commission | Director of IT Customer Support Operations Office Support | Director | Austin, TX, USA |  | 28d | [Apply](https://career41.sapsf.com/career?company=northgat01&career_ns=job_listing&career_job_req_id=22649&lang=en_US&source=Indeed) |
-| Citi (jobs.citi.com) ⭐ | USCC Technology Strategy & Operations Lead - Senior Vice President | EVP/SVP | Irving, TX, US +1 |  | 28d | [Apply](https://jobs.citi.com/job/irving/uscc-technology-strategy-and-operations-lead-senior-vice-president/287/102296558192) |
 
-_116 older roles in this section are in data/roles.json on the `data` branch._
+_117 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1685,7 +1685,7 @@ _226 older roles in this section are in data/roles.json on the `data` branch._
 | Rubrik | Global Head of GSI Solutions Architecture | Head | Remote - United States | $245K–$271K | 2d | [Apply](https://www.rubrik.com/company/careers/departments/job.8385390?gh_jid=8385390) ⚡ |
 | Healthcare Services Group | Vice President of Enterprise Architecture | VP | Bensalem, PA, USA |  | 2d | [Apply](https://careers-hcsgcorp.icims.com/jobs/723215/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Gilead Sciences ⭐ | Sr Director, IT Architecture | Sr. Director | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Sr-Director--IT-Architecture_R0056545-3) |
-| Labcorp | 🆕 Director, Architecture Solutions | Director | Durham NC |  | 3d | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Director--Architecture-Solutions_2640296) |
+| Labcorp | Director, Architecture Solutions | Director | Durham NC |  | 3d | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Director--Architecture-Solutions_2640296) |
 | Medica Services Company LLC | Head of Enterprise Architecture | Head | Minnetonka, MN, USA | $175K–$301K | 3d | [Apply](https://recruiting2.ultipro.com/MED1007MHP/JobBoard/ffa5492f-9175-4dab-891d-a6a5d6dced2f/OpportunityDetail?opportunityId=00d929e9-308e-4a3e-b6c1-97ea9fe9ec92&postingId=af48ebc1-26da-401c-b109-ce0f53056b53) |
 | SoFi | Senior Director, Enterprise Architect | Sr. Director | CA - San Francisco |  | 3d | [Apply](https://sofi.com/careers/job/8202630003?gh_jid=8202630003) ⚡ |
 | Confidential | Vice President, Solution Architecture | VP | Houston, Texas |  | 4d | [Apply](https://www.talent.com/view?id=646112500632657928) |

@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,189 open roles** at **1,918 companies** · **157 new in the last 24 hours** · 6,069 company career sites watched · updated hourly · last update Nov 18, 2026 08:39 PM ET
+**5,196 open roles** at **1,920 companies** · **162 new in the last 24 hours** · 6,069 company career sites watched · updated hourly · last update Nov 18, 2026 09:30 PM ET
 
-By level: Director 2649 · VP 999 · Sr. Director 656 · Head 322 · C-level 192 · EVP/SVP 192 · ED 127 · MD 52
+By level: Director 2654 · VP 1000 · Sr. Director 656 · Head 321 · EVP/SVP 194 · C-level 192 · ED 127 · MD 52
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (157)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (162)](#new-in-the-last-24-hours)
 - [🤠 Houston area (203)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (351)](#security-risk-technology)
-- [🧠 Data & AI (1273)](#data-ai)
+- [🧠 Data & AI (1275)](#data-ai)
 - [🚦 Reliability & Operations (363)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (478)](#cloud-infrastructure)
-- [🏛️ Architecture (144)](#architecture)
+- [☁️ Cloud & Infrastructure (477)](#cloud-infrastructure)
+- [🏛️ Architecture (148)](#architecture)
 - [🔄 Transformation & Delivery (620)](#transformation-delivery)
-- [🛠️ Engineering & Software (1373)](#engineering-software)
+- [🛠️ Engineering & Software (1375)](#engineering-software)
 - [📌 Other Senior Roles (386)](#other-senior-roles)
-- [🔒 Recently closed (367)](#recently-closed)
+- [🔒 Recently closed (368)](#recently-closed)
 - Daily digests: [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md) · [11-12](data/daily/2026-11-12.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,10 +47,15 @@ By level: Director 2649 · VP 999 · Sr. Director 656 · Head 322 · C-level 192
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Plano, Texas, United States |  | 0d | [Apply](https://www.att.jobs/job/plano/director-technology-enterprise-architecture/117/103492691104) |
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Atlanta, Georgia, United States |  | 0d | [Apply](https://www.att.jobs/job/atlanta/director-technology-enterprise-architecture/117/103492691088) |
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Alpharetta, Georgia, United States |  | 0d | [Apply](https://www.att.jobs/job/alpharetta/director-technology-enterprise-architecture/117/103492691072) |
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Dallas, Texas, United States |  | 0d | [Apply](https://www.att.jobs/job/dallas/director-technology-enterprise-architecture/117/103492691056) |
 | HCLTech | 🆕 Portfolio Delivery Director | Director | MN, USA | $173K–$267K | 0d | [Apply](https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=194560&lang=en_US&jobPipeline=Indeed) |
 | Kobie Marketing | 🆕 VP, Platform Engineering | VP | Minneapolis, MN, USA · Remote |  | 0d | [Apply](https://jobs.lever.co/kobie/c598f32a-eec2-410d-bee8-156d30d9a883?lever-source=Indeed) |
 | Kobie Marketing | 🆕 VP, Platform Engineering | VP | Dallas, TX, USA · Remote |  | 0d | [Apply](https://jobs.lever.co/kobie/c598f32a-eec2-410d-bee8-156d30d9a883?lever-source=Indeed) |
 | The University of Iowa | 🆕 Executive Director of Institutional Data Strategy | ED | Iowa City, IA, USA · Remote |  | 0d | [Apply](https://uiowa.referrals.selectminds.com/jobs/executive-director-of-institutional-data-strategy-51785) |
+| Cityblock Health | 🆕 Director, Product Engineering | Director | USA · Remote | $170K–$220K | 1d | [Apply](https://cityblockhealth.wd1.myworkdayjobs.com/CityblockExternalCareerSite/job/USA/Director--Product-Engineering_R-1715) |
 | Kobie Marketing | 🆕 VP, Platform Engineering | VP | St. Petersburg, Florida · Remote |  | 1d | [Apply](https://jobs.lever.co/kobie/c598f32a-eec2-410d-bee8-156d30d9a883) ⚡ |
 | New York Life | 🆕 Corporate Vice President - Head of Storage & Data Protection | VP | New York, NY, USA | $160K–$228K | 1d | [Apply](https://careers.newyorklife.com/careers/job/45480623) |
 | Optum | 🆕 VP Product - Payer Agentic Platform | VP | Eden Prairie, MN, USA | $200K–$344K | 1d | [Apply](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2400894&lang=en) |
@@ -183,8 +188,8 @@ By level: Director 2649 · VP 999 · Sr. Director 656 · Head 322 · C-level 192
 | The Bancorp, Inc. | 🆕 VP Applications Development (Hybrid) | VP | Sioux Falls, SD, USA |  | 1d | [Apply](https://careers-bancorpbank.icims.com/jobs/6423/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Vantor | 🆕 Director of AI Engineering & Enablement | Director | Westminster, CO, USA | $165K–$266K | 1d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
 | Vision Technologies, Inc | 🆕 Vice President, Technology Delivery | VP | Glen Burnie, MD, USA |  | 1d | [Apply](https://vision-technologies.app.loxo.co/job/NDQ3NzYtMzduNHo3b2FxaTA1bXN3Mg==?source_type=indeed&t=1794963669) |
-| ON Semiconductor | 🆕 Director, Power MOSFET Technology Development | Director | Scottsdale, AZ, United States |  | 1d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507208) |
-| Baccarat Hotel | 🆕 Director, Information Technology | Director | Baccarat New York |  | 1d | [Apply](https://shhotelsandresorts.wd12.myworkdayjobs.com/en-US/SHG/job/Baccarat-New-York/Director--Information-Technology_JR106446) |
+| ZENO Group | 🆕 Senior Vice President, AI & Technology Programs | EVP/SVP | New York, New York, USA +1 | $160K–$235K | 2d | [Apply](https://djeholdings.wd5.myworkdayjobs.com/ZenoCareers/job/New-York-New-York-USA/SVP--AI---Innovation_JR102691-1) |
+| ZENO Group | 🆕 Senior Vice President, Data & Intelligence | EVP/SVP | Chicago, Illinois, USA +2 | $160K–$235K | 2d | [Apply](https://djeholdings.wd5.myworkdayjobs.com/ZenoCareers/job/Chicago-Illinois-USA/Senior-Vice-President--Data---Intelligence_JR102668-1) |
 | Rockwell Automation | 🆕 Head of Business Systems Product & Transformation | Head | Toronto, Ontario, Canada +1 | $140K–$211K | 2d | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Toronto-Ontario-Canada/Head-of-Business-Systems-Product---Transformation_R26-8544) |
 | Zscaler | 🆕 Sr. Director, MSSP (Managed Security Services Provider) | Sr. Director | Remote - New Jersey, USA +1 | $233K–$291K | 2d | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5231708007) ⚡ |
 | State Street ⭐ | 🆕 Alternatives Business Solutions – Private Equity, Managing Director | MD | Clifton, New Jersey +2 | $170K–$268K | 2d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Alternatives-Business-Solutions---Private-Equity--Managing-Director_R-800617) |
@@ -923,6 +928,8 @@ _101 older roles in this section are in data/roles.json on the `data` branch._
 | KPMG | 🆕 Director, AI Architect | Director | Dallas, TX, USA |  | 1d | [Apply](https://www.kpmguscareers.com/jobdetail/?jobId=140087) |
 | Vantor | 🆕 Director of AI Engineering & Enablement | Director | Herndon, VA, USA | $165K–$266K | 1d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
 | Vantor | 🆕 Director of AI Engineering & Enablement | Director | Westminster, CO, USA | $165K–$266K | 1d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
+| ZENO Group | 🆕 Senior Vice President, AI & Technology Programs | EVP/SVP | New York, New York, USA +1 | $160K–$235K | 2d | [Apply](https://djeholdings.wd5.myworkdayjobs.com/ZenoCareers/job/New-York-New-York-USA/SVP--AI---Innovation_JR102691-1) |
+| ZENO Group | 🆕 Senior Vice President, Data & Intelligence | EVP/SVP | Chicago, Illinois, USA +2 | $160K–$235K | 2d | [Apply](https://djeholdings.wd5.myworkdayjobs.com/ZenoCareers/job/Chicago-Illinois-USA/Senior-Vice-President--Data---Intelligence_JR102668-1) |
 | State Street ⭐ | 🆕 AI Strategy & Product Management, Vice President | VP | 2 Locations |  | 2d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Krakow-Poland/AI-Strategy---Product-Management--Vice-President_R-801212) |
 | Walmart | 🆕 Senior Director, Data Science - Last Mile Delivery | Sr. Director | Bentonville, AR, USA | $160K–$320K | 2d | [Apply](https://click.appcast.io/t/qILWPEExyEEgfyaOOd8lzlLYgxFr2uOD1TLjned-l18=) |
 | Caraway Home | Senior Director of Data Analytics & Insights | Sr. Director | Remote, USA | $190K–$210K | 2d | [Apply](https://carawayhome.applytojob.com/apply/aDdE0RA5lP/Senior-Director-Of-Data-Analytics-Insights?source=INDE&~) |
@@ -1138,10 +1145,8 @@ _101 older roles in this section are in data/roles.json on the `data` branch._
 | Actian Corporation | Director of Platform Engineering [gn] Data Intelligence Platform | Director | US-Remote |  | 9d | [Apply](https://jobs.lever.co/actian/4e180b28-4497-4530-928a-43992a6a5cb4) ⚡ [alt](https://jobs.lever.co/actian/4e180b28-4497-4530-928a-43992a6a5cb4?lever-source=Indeed) |
 | JPMorgan Chase ⭐ | CIB AI Governance Lead – Vice President | VP | Jersey City, NJ, United States |  | 9d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806434) |
 | Okgov | Director of Data | Director | Oklahoma County |  | 9d | [Apply](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Director-of-Data_JR67715) |
-| BNY ⭐ | Vice President, AI / Machine Learning Software Engineer (req 83464) | VP | New York, NY, United States |  | 9d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83464) |
-| JPMorgan Chase ⭐ | VP - Cobrand Product Strategy & AI Enablement | VP | New York, NY, United States |  | 9d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808462) |
 
-_1023 older roles in this section are in data/roles.json on the `data` branch._
+_1025 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1659,7 +1664,7 @@ _113 older roles in this section are in data/roles.json on the `data` branch._
 | Comcast ⭐ | Executive Director, DevOps Engineering Excellence | ED | VA - Reston, 11951 Freedom Dr Ste 900 |  | 22d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Executive-Director--DevOps-Engineering-Excellence_R447086) |
 | Oracle | Director, Core Infrastructure Engineering - OCI Planning & Capacity | Director | Nashville, TN, United States |  | 22d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/348599) |
 
-_228 older roles in this section are in data/roles.json on the `data` branch._
+_227 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1667,6 +1672,10 @@ _228 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Plano, Texas, United States |  | 0d | [Apply](https://www.att.jobs/job/plano/director-technology-enterprise-architecture/117/103492691104) |
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Atlanta, Georgia, United States |  | 0d | [Apply](https://www.att.jobs/job/atlanta/director-technology-enterprise-architecture/117/103492691088) |
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Alpharetta, Georgia, United States |  | 0d | [Apply](https://www.att.jobs/job/alpharetta/director-technology-enterprise-architecture/117/103492691072) |
+| AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Dallas, Texas, United States |  | 0d | [Apply](https://www.att.jobs/job/dallas/director-technology-enterprise-architecture/117/103492691056) |
 | Glaukos | 🆕 Director, IT Enterprise Architecture | Director | Aliso Viejo, CA, USA | $191K–$238K | 1d | [Apply](https://ekpl.fa.us6.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2409) |
 | CompuGroup Medical | 🆕 Head of Architecture (m/w/d) | Head | 2 Locations |  | 1d | [Apply](https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Koblenz/Head-of-Architecture_JR110108) |
 | Rubrik | Global Head of GSI Solutions Architecture | Head | Remote - United States | $245K–$271K | 2d | [Apply](https://www.rubrik.com/company/careers/departments/job.8385390?gh_jid=8385390) ⚡ |
@@ -2077,6 +2086,7 @@ _370 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Cityblock Health | 🆕 Director, Product Engineering | Director | USA · Remote | $170K–$220K | 1d | [Apply](https://cityblockhealth.wd1.myworkdayjobs.com/CityblockExternalCareerSite/job/USA/Director--Product-Engineering_R-1715) |
 | PAR Technology | 🆕 Director of Engineering, Point of Sale | Director | TX, USA · Remote | $200K–$270K | 1d | [Apply](https://jobs.ashbyhq.com/PAR%20Technology/2c689a7a-54a7-4dd0-babd-4f9ff518818d?utm_source=X8m9D5p0n4) |
 | Youth First, Inc. | 🆕 IT & BUSINESS SYSTEMS DIRECTOR | Director | Evansville, IN, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674904/Youth-First-Inc/IT-BUSINESS-SYSTEMS-DIRECTOR?source=Indeed_Feed) |
 | University of California - San Francisco | 🆕 Food Systems Technology Development Director | Director | San Francisco, CA, United States |  | 1d | [Apply](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11941) |
@@ -2118,8 +2128,8 @@ _370 older roles in this section are in data/roles.json on the `data` branch._
 | Gallery Systems | 🆕 Director of Engineering | Director | 4 Locations |  | 1d | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/Gallery/job/United-States---Remote/Director-of-Engineering_R73162) |
 | Gallery Systems | 🆕 Director of Engineering | Director | Remote, USA |  | 1d | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/Gallery/job/United-States---Remote/Director-of-Engineering_R73162) |
 | The Bancorp, Inc. | 🆕 VP Applications Development (Hybrid) | VP | Sioux Falls, SD, USA |  | 1d | [Apply](https://careers-bancorpbank.icims.com/jobs/6423/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| ON Semiconductor | 🆕 Director, Power MOSFET Technology Development | Director | Scottsdale, AZ, United States |  | 1d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507208) |
-| Baccarat Hotel | 🆕 Director, Information Technology | Director | Baccarat New York |  | 1d | [Apply](https://shhotelsandresorts.wd12.myworkdayjobs.com/en-US/SHG/job/Baccarat-New-York/Director--Information-Technology_JR106446) |
+| ON Semiconductor | Director, Power MOSFET Technology Development | Director | Scottsdale, AZ, United States |  | 1d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507208) |
+| Baccarat Hotel | Director, Information Technology | Director | Baccarat New York |  | 1d | [Apply](https://shhotelsandresorts.wd12.myworkdayjobs.com/en-US/SHG/job/Baccarat-New-York/Director--Information-Technology_JR106446) |
 | CompuGroup Medical | Vice President, Engineering | VP | Richardson |  | 1d | [Apply](https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Richardson/Vice-President--Engineering_JR110608-1) [alt](https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Richardson/Vice-President--Engineering_JR110608-1) |
 | Legends Global | 🆕 Director of Technology | Director | Oklahoma City, OK, USA |  | 2d | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Oklahoma-City-OK/Director-of-Technology_R100126636) |
 | McKesson | 🆕 Director, Systems Engineering - Stabilization | Director | Richmond, VA, USA | $151K–$251K | 2d | [Apply](https://careers.mckesson.com/en/job/richmond/director-systems-engineering-stabilization/733/103432770448) |
@@ -2326,9 +2336,8 @@ _370 older roles in this section are in data/roles.json on the `data` branch._
 | Avalo Therapeutics | Vice President, Enterprise Technology | VP | Chesterbrook, PA, USA |  | 8d | [Apply](https://grnh.se/kf54dd359us) |
 | Carnival Cruise Line | Senior Director, Loyalty Technology, Roadmap & Communication (CCL) | Sr. Director | Miami, FL, USA |  | 8d | [Apply](https://eicl.fa.em5.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/14419) |
 | Deloitte | Director-Enterprise Technology Vendor Management | Director | New York, NY, USA | $137K–$282K | 8d | [Apply](https://deloitteus.avature.net/careers/InviteToApply?jobId=374050) |
-| IHG Hotels & Resorts | Head of Corporate Products Engineering Services | Head | Atlanta, GA, USA · Remote | $190K–$250K | 8d | [Apply](https://careers.ihg.com/en/job-details/?jobref=Head+of+Corporate+Products+Engineering+Services%7cUS%7c171396) |
 
-_1123 older roles in this section are in data/roles.json on the `data` branch._
+_1125 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2597,6 +2606,7 @@ _136 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Valon | 🔒 Head of Infrastructure | Head | Remote +2 | $275K–$325K | 37d | Closed |
 | Amazon ⭐ | 🔒 Director, Software Development, Builder Operations, Amazon SW Builder Experience | Director | Seattle, Washington, USA |  | 49d | Closed |
 | Amazon ⭐ | 🔒 Director, Software Development - Language Foundations, Amazon SW Builder Experience | Director | Seattle, Washington, USA |  | 44d | Closed |
 | Amazon ⭐ | 🔒 Director, HW Engineering, AWS EC2 | Director | Cupertino, California, USA |  | 42d | Closed |
@@ -2896,7 +2906,6 @@ _136 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🔒 VP AI Lead Infrastructure Engineer | VP | NY, United States |  | 10d | Closed |
 | BNY ⭐ | 🔒 Vice President, AI / Machine Learning Data Engineering (opening #3) | VP | New York, NY, United States |  | 10d | Closed |
 | BNY ⭐ | 🔒 Vice President, AI / Machine Learning Data Engineering (opening #2) | VP | New York, NY, United States |  | 10d | Closed |
-| DataCamp | 🔒 Director of Partnerships and Technology Alliances | Director | United States |  | 45d | Closed |
 
 </details>
 

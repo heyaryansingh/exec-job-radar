@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,225 open roles** at **1,941 companies** · **163 new in the last 24 hours** · 6,079 company career sites watched · updated hourly · last update Nov 19, 2026 03:21 AM ET
+**5,226 open roles** at **1,941 companies** · **162 new in the last 24 hours** · 6,080 company career sites watched · updated hourly · last update Nov 19, 2026 04:23 AM ET
 
-By level: Director 2672 · VP 1003 · Sr. Director 658 · Head 324 · C-level 195 · EVP/SVP 194 · ED 127 · MD 52
+By level: Director 2672 · VP 1003 · Sr. Director 659 · Head 324 · C-level 195 · EVP/SVP 194 · ED 127 · MD 52
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (163)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (162)](#new-in-the-last-24-hours)
 - [🤠 Houston area (204)](#houston-area)
 - [👑 Executive Technology Leadership (204)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (354)](#security-risk-technology)
@@ -37,7 +37,7 @@ By level: Director 2672 · VP 1003 · Sr. Director 658 · Head 324 · C-level 19
 - [🏛️ Architecture (149)](#architecture)
 - [🔄 Transformation & Delivery (624)](#transformation-delivery)
 - [🛠️ Engineering & Software (1382)](#engineering-software)
-- [📌 Other Senior Roles (388)](#other-senior-roles)
+- [📌 Other Senior Roles (389)](#other-senior-roles)
 - [🔒 Recently closed (371)](#recently-closed)
 - Daily digests: [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md)
 
@@ -47,10 +47,10 @@ By level: Director 2672 · VP 1003 · Sr. Director 658 · Head 324 · C-level 19
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Veralto | 🆕 VP, Artificial Intelligence | VP | Newton, MA, USA · Remote | $300K–$350K | 0d | [Apply](https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10269630EXTERNALENGLOBAL/VP-Artificial-Intelligence?utm_source=indeed&utm_medium=phenom-feeds) |
-| Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Remote, USA | $190K–$291K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
 | Aspire Public Schools | 🆕 Senior Director, AI, Data & Systems Enablement | Sr. Director | Oakland, CA, USA | $168K–$216K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oMC7AfwP&s=Indeed) |
 | Kooner Fleet Management Solutions | 🆕 Director of Technology & AI (2214) | Director | Sacramento, CA, USA | $165K–$255K | 0d | [Apply](https://apply.workable.com/j/229D4EC6FC) |
+| Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Remote, USA | $190K–$291K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
+| Veralto | 🆕 VP, Artificial Intelligence | VP | Newton, MA, USA · Remote | $300K–$350K | 0d | [Apply](https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10269630EXTERNALENGLOBAL/VP-Artificial-Intelligence?utm_source=indeed&utm_medium=phenom-feeds) |
 | Inferra | 🆕 Head of AI Solutions Architecture | Head | Menlo Park Hybrid · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/inferra/34132336-7f0e-4bc6-ad72-9ea61d42e9c9) ⚡ |
 | Aero Simulation, Inc. (ASI) | 🆕 DIRECTOR OF PRODUCTION | Director | Tampa, FL, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676509/Aero-Simulation-Inc-ASI/DIRECTOR-OF-PRODUCTION?source=Indeed_Feed) |
 | Chobani | 🆕 Director, Business Architecture | Director | WA, USA · Remote | $140K–$220K | 0d | [Apply](https://careers.chobani.com/job/Remote-Director%2C-Business-Architecture-WA/1451987000/) |
@@ -209,7 +209,6 @@ By level: Director 2672 · VP 1003 · Sr. Director 658 · Head 324 · C-level 19
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2133898) | Director | Westlake, TX |  | 3d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2133898) |
 | Fidelity ⭐ | 🆕 Director, Engineering - Alternative Investments | Director | 2 Locations |  | 3d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Director--Engineering---Alternative-Investments_2137555) |
 | Labcorp | 🆕 Director, Architecture Solutions | Director | Durham NC |  | 3d | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Director--Architecture-Solutions_2640296) |
-| Sutter Health | 🆕 Director of Applications, Building Technology, Security & Enterprise Badge Service | Director | Sacramento, California, United States of A |  | 3d | [Apply](https://jobs.sutterhealth.org/us/en/job/SHJSHYUSR146093EXTERNALENUS) |
 
 <a name="houston-area"></a>
 
@@ -655,7 +654,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | SSOE Group | Director, Information Security | Director | Toledo, OH, USA · Remote |  | 2d | [Apply](https://careers-ssoe.icims.com/jobs/4035/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Marriott International ⭐ | Director of Security and Safety | Director | Newark, NJ, United States |  | 2d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26150224) |
 | Parsons | Vice President, Solutions Architecture – Cyber and National Security | VP | Annapolis Junction, MD, USA | $201K–$384K | 2d | [Apply](https://jobs.parsons.com/jobs/vice-president-solutions-architecture-cyber-and-national-security-annapolis-junction-r-188070-jobs--executive--) |
-| Sutter Health | 🆕 Director of Applications, Building Technology, Security & Enterprise Badge Service | Director | Sacramento, California, United States of A |  | 3d | [Apply](https://jobs.sutterhealth.org/us/en/job/SHJSHYUSR146093EXTERNALENUS) |
+| Sutter Health | Director of Applications, Building Technology, Security & Enterprise Badge Service | Director | Sacramento, California, United States of A |  | 3d | [Apply](https://jobs.sutterhealth.org/us/en/job/SHJSHYUSR146093EXTERNALENUS) |
 | Holmes Builders | Director, Security Engineering & Architecture | Director | Coppell, TX, USA | $160K–$200K | 3d | [Apply](https://www.indeed.com/viewjob?jk=9e2095382ff19e42) |
 | Live Nation | Director, Incident Response & Security Operations | Director | US CA Beverly Hills - 325 N Maple Drive +3 |  | 3d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director---Cyber-Security-Operations_JR-93115) |
 | Bank Policy Institute | VICE PRESIDENT, TECHNOLOGY & SECURITY | VP | Washington, DC, USA | $175K–$220K | 3d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A15AEF4691E2E01F0016518C47919805/jobs/524633?source=Indeed) |
@@ -900,9 +899,9 @@ _104 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Veralto | 🆕 VP, Artificial Intelligence | VP | Newton, MA, USA · Remote | $300K–$350K | 0d | [Apply](https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10269630EXTERNALENGLOBAL/VP-Artificial-Intelligence?utm_source=indeed&utm_medium=phenom-feeds) |
 | Aspire Public Schools | 🆕 Senior Director, AI, Data & Systems Enablement | Sr. Director | Oakland, CA, USA | $168K–$216K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oMC7AfwP&s=Indeed) |
 | Kooner Fleet Management Solutions | 🆕 Director of Technology & AI (2214) | Director | Sacramento, CA, USA | $165K–$255K | 0d | [Apply](https://apply.workable.com/j/229D4EC6FC) |
+| Veralto | 🆕 VP, Artificial Intelligence | VP | Newton, MA, USA · Remote | $300K–$350K | 0d | [Apply](https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10269630EXTERNALENGLOBAL/VP-Artificial-Intelligence?utm_source=indeed&utm_medium=phenom-feeds) |
 | Inferra | 🆕 Head of AI Solutions Architecture | Head | Menlo Park Hybrid · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/inferra/34132336-7f0e-4bc6-ad72-9ea61d42e9c9) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Applied AI/ML Lead Vice President (req 210791679) | VP | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791679) |
 | Invitation Homes | 🆕 Sr. Director, Data Products | Sr. Director | Dallas, TX, USA | $137K–$237K | 0d | [Apply](https://careers.invitationhomes.com/sr-director-data-products/job/P1-7732770-0) |
@@ -2445,6 +2444,7 @@ _1132 older roles in this section are in data/roles.json on the `data` branch._
 | Adtran | Sr. Director, Finance | Sr. Director | Huntsville, AL, USA |  | 12d | [Apply](https://adtran.wd3.myworkdayjobs.com/en-US/ADTRAN/job/Adtran-Huntsville-HQ/Sr-Director--Finance_R006108) |
 | Mutual of Omaha | IS Area Director | Director | Remote, USA | $190K–$215K | 12d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505372) |
 | Relativity | Director, Innovation and Enablement | Director | VA, USA | $211K–$317K | 12d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia/Director--Innovation-and-Enablement_26-0527-1) |
+| SiFive | Sr Director, SW Product Management (req Posted 13 Days Ago) | Sr. Director | Oregon +1 |  | 13d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | SiFive | Sr Director, SW Product Management (req Posted 12 Days Ago) | Sr. Director | Oregon +1 |  | 13d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | SiFive | Sr Director, SW Product Management (req Posted 10 Days Ago) | Sr. Director | Oregon +1 |  | 13d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
 | SiFive | Sr Director, SW Product Management (req Posted 9 Days Ago) | Sr. Director | Oregon +1 |  | 13d | [Apply](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Oregon/Sr-Director--SW-Product-Management_R-101574) |
@@ -2600,9 +2600,8 @@ _1132 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Staff Full-Stack Engineer (Director - IC) (req R1002399) | Director | McLean, VA | $269K–$307K | 29d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1002399-1) |
 | Capital One ⭐ | Staff Full-stack Engineer (Director - IC) (req R1002870) | Director | McLean, VA | $269K–$307K | 29d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-stack-Engineer_R1002870-1) |
 | Capital One ⭐ | Staff Full-Stack Engineer (Director - IC) (req R1003996) | Director | McLean, VA +4 | $294K–$335K | 29d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1003996-2) |
-| GFL Environmental | National Director, Health & Safety - USA | Director | Sugar Land, TX, USA |  | 29d | [Apply](https://careers.gflenv.com/national-director-health-safety-usa/job/E704BB9127BB1B895378F618A130BD56) |
 
-_138 older roles in this section are in data/roles.json on the `data` branch._
+_139 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

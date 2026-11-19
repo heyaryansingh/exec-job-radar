@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,246 open roles** at **1,945 companies** · **169 new in the last 24 hours** · 6,080 company career sites watched · updated hourly · last update Nov 19, 2026 08:11 AM ET
+**5,245 open roles** at **1,945 companies** · **169 new in the last 24 hours** · 6,080 company career sites watched · updated hourly · last update Nov 19, 2026 08:24 AM ET
 
-By level: Director 2681 · VP 1010 · Sr. Director 660 · Head 324 · C-level 195 · EVP/SVP 194 · ED 128 · MD 54
+By level: Director 2681 · VP 1010 · Sr. Director 659 · Head 324 · C-level 195 · EVP/SVP 194 · ED 128 · MD 54
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -37,8 +37,8 @@ By level: Director 2681 · VP 1010 · Sr. Director 660 · Head 324 · C-level 19
 - [🏛️ Architecture (151)](#architecture)
 - [🔄 Transformation & Delivery (628)](#transformation-delivery)
 - [🛠️ Engineering & Software (1386)](#engineering-software)
-- [📌 Other Senior Roles (391)](#other-senior-roles)
-- [🔒 Recently closed (368)](#recently-closed)
+- [📌 Other Senior Roles (390)](#other-senior-roles)
+- [🔒 Recently closed (369)](#recently-closed)
 - Daily digests: [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md) · [11-13](data/daily/2026-11-13.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,15 +47,15 @@ By level: Director 2681 · VP 1010 · Sr. Director 660 · Head 324 · C-level 19
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Harvard University | 🆕 Managing Director, IT Strategic Planning & Governance | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959956-managing-director-it-strategic-planning-governance) ⚡ |
-| Harvard University | 🆕 Managing Director, Technology Strategy & IT Architecture | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959949-managing-director-technology-strategy-it-architecture) ⚡ |
-| Information Technology Senior Management Forum | 🆕 Staff Full-Stack Engineer (Director, IC) | Director | McLean, VA, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/ngphs7/staff-full-stack-engineer-(director-ic)/mclean/va) |
-| Revolution Medicines | 🆕 Executive Director, Internal Audit, Technology and AI Audit | ED | Remote, USA | $252K–$315K | 0d | [Apply](https://www.revmed.com/careers-list/?gh_jid=8198323003) |
-| EPAM Systems | 🆕 Senior Director, Business Solutions Architecture | Sr. Director | Remote, USA |  | 0d | [Apply](https://careers.epam.com/en/vacancy/blt5ce3f8g04e9zpfiw_en?country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) |
-| Lexington City Schools | 🆕 Director of Technology | Director | Lexington, NC, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5996821) |
 | Appoquinimink School District | 🆕 Director of Safety, Security, and Operations | Director | Odessa, DE, USA |  | 0d | [Apply](https://www.applitrack.com/apposchooldistrict/onlineapp/default.aspx?all=1&AppliTrackJobId=5407) |
-| Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Alpharetta, GA, USA | $190K–$291K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
 | Blackhawk Network | 🆕 Director, Enterprise Systems | Director | Coppell, TX, USA | $156K–$210K | 0d | [Apply](https://careers-blackhawknetwork.icims.com/jobs/27395/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| EPAM Systems | 🆕 Senior Director, Business Solutions Architecture | Sr. Director | Remote, USA |  | 0d | [Apply](https://careers.epam.com/en/vacancy/blt5ce3f8g04e9zpfiw_en?country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) |
+| Information Technology Senior Management Forum | 🆕 Staff Full-Stack Engineer (Director, IC) | Director | McLean, VA, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/ngphs7/staff-full-stack-engineer-(director-ic)/mclean/va) |
+| Lexington City Schools | 🆕 Director of Technology | Director | Lexington, NC, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5996821) |
+| Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Alpharetta, GA, USA | $190K–$291K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
+| Revolution Medicines | 🆕 Executive Director, Internal Audit, Technology and AI Audit | ED | Remote, USA | $252K–$315K | 0d | [Apply](https://www.revmed.com/careers-list/?gh_jid=8198323003) |
+| Harvard University | 🆕 Managing Director, Technology Strategy & IT Architecture | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959949-managing-director-technology-strategy-it-architecture) ⚡ |
+| Harvard University | 🆕 Managing Director, IT Strategic Planning & Governance | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959956-managing-director-it-strategic-planning-governance) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 AWS and Databricks Data Engineering Lead - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/aws-and-databricks-data-engineering-lead-vice-president/287/103508775040) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Vice President, Digital Asset Custody Operations, PUNE | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/vice-president-digital-asset-custody-operations-pune/287/103504253488) |
 | Information Technology Senior Management Forum | 🆕 Director, Technical Program Management (Remote-Eligible) | Director | Richmond, VA, USA · Remote | $210K–$239K | 0d | [Apply](https://jobs.itsmfleaders.org/job/ja6f3g/director-technical-program-management-(remote-eligible)/richmond/va) |
@@ -1683,8 +1683,8 @@ _228 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Harvard University | 🆕 Managing Director, Technology Strategy & IT Architecture | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959949-managing-director-technology-strategy-it-architecture) ⚡ |
 | EPAM Systems | 🆕 Senior Director, Business Solutions Architecture | Sr. Director | Remote, USA |  | 0d | [Apply](https://careers.epam.com/en/vacancy/blt5ce3f8g04e9zpfiw_en?country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) |
+| Harvard University | 🆕 Managing Director, Technology Strategy & IT Architecture | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959949-managing-director-technology-strategy-it-architecture) ⚡ |
 | Chobani | 🆕 Director, Business Architecture | Director | WA, USA · Remote | $140K–$220K | 0d | [Apply](https://careers.chobani.com/job/Remote-Director%2C-Business-Architecture-WA/1451987000/) |
 | AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Dallas, Texas, United States |  | 0d | [Apply](https://www.att.jobs/job/dallas/director-technology-enterprise-architecture/117/103492691056) |
 | AT&T ⭐ | 🆕 Director, Technology - Enterprise Architecture | Director | Alpharetta, Georgia, United States |  | 0d | [Apply](https://www.att.jobs/job/alpharetta/director-technology-enterprise-architecture/117/103492691072) |
@@ -2100,9 +2100,9 @@ _378 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Harvard University | 🆕 Managing Director, IT Strategic Planning & Governance | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959956-managing-director-it-strategic-planning-governance) ⚡ |
 | Lexington City Schools | 🆕 Director of Technology | Director | Lexington, NC, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5996821) |
 | Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Alpharetta, GA, USA | $190K–$291K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
+| Harvard University | 🆕 Managing Director, IT Strategic Planning & Governance | MD | Boston, MA, us | $217K–$222K | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959956-managing-director-it-strategic-planning-governance) ⚡ |
 | Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Remote, USA | $190K–$291K | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
 | BioBridge Global | 🆕 Director, Cybersecurity & IT Compliance | Director | San Antonio, TX, USA |  | 0d | [Apply](https://biobridgeglobal.bamboohr.com/careers/193?source=indeed&src=indeed&postedDate=2026-11-18) |
 | J&A Consulting LLC | 🆕 VP of Information Technology (VP of IT) / NYC Bank / Up to $210K + 100% Paid Benefits | VP | New York, NY, USA | $170K–$210K | 0d | [Apply](https://www.indeed.com/viewjob?jk=8636cd1e4fd79877) |
@@ -2359,8 +2359,8 @@ _1136 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Information Technology Senior Management Forum | 🆕 Staff Full-Stack Engineer (Director, IC) | Director | McLean, VA, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/ngphs7/staff-full-stack-engineer-(director-ic)/mclean/va) |
 | Blackhawk Network | 🆕 Director, Enterprise Systems | Director | Coppell, TX, USA | $156K–$210K | 0d | [Apply](https://careers-blackhawknetwork.icims.com/jobs/27395/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Information Technology Senior Management Forum | 🆕 Staff Full-Stack Engineer (Director, IC) | Director | McLean, VA, USA | $245K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/ngphs7/staff-full-stack-engineer-(director-ic)/mclean/va) |
 | Fermi Inc | 🆕 Director, Power and Campus Integration | Director | Dallas, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677523/Fermi-LLC/Director-Power-and-Campus-Integration?source=Indeed_Feed) |
 | BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 75956) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75956) |
 | SSM Health | 🆕 Regional Director, Mission Integration | Director | Bridgeton, Missouri, United States of Amer |  | 1d | [Apply](https://jobs.ssmhealth.com/us/en/job/SHWSHLUSR202873EXTERNALENUS) |
@@ -2534,7 +2534,6 @@ _1136 older roles in this section are in data/roles.json on the `data` branch._
 | Kintegra Health | Director of Information Systems | Director | Gastonia, NC, USA |  | 19d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dba3b3a-988b-4536-970e-dff855707ff9&ccId=9200056745330_2&jobId=597169&source=IN&lang=en_US) |
 | Central Valley Ag Cooperative | Director of Applied Innovation - York, NE | Director | York, NE, USA |  | 19d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=23a893d8-b6eb-4ddb-8bd2-dfc281b1abe3&ccId=19000101_000001&jobId=1010221&source=IN&lang=en_US) |
 | Sysdig | FinOps Operational Cost Control, Director | Director | Remote, USA | $198K–$247K | 19d | [Apply](https://jobs.lever.co/sysdig/8eccdb0f-0324-4144-89c1-670cc872d3b4?lever-source=Indeed) |
-| vCluster Labs | Sr. Director, VAR & Channel Partnerships | Sr. Director | United States +1 · Remote | $225K–$280K | 20d | [Apply](https://jobs.ashbyhq.com/vClusterLabs/183dfe72-4542-47fe-b182-a484addf245f) ⚡ |
 | Sysdig | FinOps Operational Cost Control, Director | Director | Flexible - USA · Remote |  | 20d | [Apply](https://jobs.lever.co/sysdig/0ea52eb6-8242-492b-acf3-6626f243e160) ⚡ |
 | NVIDIA ⭐ | Senior Director, Boards and Systems Supply Planning | Sr. Director | US, CA, Santa Clara |  | 20d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Boards-and-Systems-Supply-Planning_JR2020393) |
 | Walmart | (USA) Senior Director, Product Management | Sr. Director | Bentonville, AR, USA | $160K–$416K | 20d | [Apply](https://click.appcast.io/t/4aQfjuBdA7Q9_OeO5dCg_s7hzbpK0IJtI2QPp-OEjMw=) |
@@ -2609,8 +2608,9 @@ _1136 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Senior Staff Full-Stack Engineer (Sr. Director - IC) | Sr. Director | New York, NY | $343K–$392K | 29d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Staff-Full-Stack-Engineer_R1001252-1) |
 | Capital One ⭐ | Staff Full-Stack Engineer (Director-IC) (req R1002273) | Director | McLean, VA +2 | $269K–$307K | 29d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1002273-1) |
 | Capital One ⭐ | Staff Full-Stack Engineer (Director - IC) (req R1002399) | Director | McLean, VA | $269K–$307K | 29d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1002399-1) |
+| Capital One ⭐ | Staff Full-stack Engineer (Director - IC) (req R1002870) | Director | McLean, VA | $269K–$307K | 29d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Full-stack-Engineer_R1002870-1) |
 
-_141 older roles in this section are in data/roles.json on the `data` branch._
+_140 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 
@@ -2620,6 +2620,7 @@ _141 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| vCluster Labs | 🔒 Sr. Director, VAR & Channel Partnerships | Sr. Director | United States +1 · Remote | $225K–$280K | 20d | Closed |
 | Clark Construction | 🔒 Director of Software Engineering | Director | Irvine, CA | $190K–$220K | 28d | Closed [alt](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Irvine-CA/Director-of-Software-Engineering_R5025378-1) |
 | OneMain Financial | 🔒 Vice President – Director, AI Ops, Incident and Problem Management | VP | Baltimore, MD | $180K–$210K | 45d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Cloud & Platform Engineering (Health100) | Director | Remote |  | 15d | Closed |
@@ -2919,7 +2920,6 @@ _141 older roles in this section are in data/roles.json on the `data` branch._
 | WSP | 🔒 Vice President Environmental Energy Technical Director | VP | Phoenix, AZ, United States |  | 35d | Closed |
 | PsiQuantum | 🔒 Director, Cryostat Systems | Director | Milpitas, California | $259K–$304K | 10d | Closed |
 | Riot Games | 🔒 Director, Data Engineering – Player Lifecycle & Personalization | Director | Los Angeles, USA |  | 38d | Closed |
-| CVS Health ⭐ | 🔒 Lead Director - Digital Engineering | Director | IL - Work from home +48 · Remote |  | 28d | Closed |
 
 </details>
 

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,220 open roles** at **1,936 companies** · **161 new in the last 24 hours** · 6,077 company career sites watched · updated hourly · last update Nov 19, 2026 12:31 AM ET
+**5,221 open roles** at **1,937 companies** · **161 new in the last 24 hours** · 6,079 company career sites watched · updated hourly · last update Nov 19, 2026 01:30 AM ET
 
-By level: Director 2670 · VP 1002 · Sr. Director 657 · Head 323 · C-level 195 · EVP/SVP 194 · ED 127 · MD 52
+By level: Director 2670 · VP 1002 · Sr. Director 657 · Head 324 · C-level 195 · EVP/SVP 194 · ED 127 · MD 52
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 2670 · VP 1002 · Sr. Director 657 · Head 323 · C-level 19
 - [🤠 Houston area (204)](#houston-area)
 - [👑 Executive Technology Leadership (204)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (353)](#security-risk-technology)
-- [🧠 Data & AI (1279)](#data-ai)
+- [🧠 Data & AI (1280)](#data-ai)
 - [🚦 Reliability & Operations (365)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (476)](#cloud-infrastructure)
 - [🏛️ Architecture (149)](#architecture)
@@ -47,11 +47,12 @@ By level: Director 2670 · VP 1002 · Sr. Director 657 · Head 323 · C-level 19
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 75956) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75956) |
-| Fermi Inc | 🆕 Director, Power and Campus Integration | Director | Dallas, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677523/Fermi-LLC/Director-Power-and-Campus-Integration?source=Indeed_Feed) |
-| Chobani | 🆕 Director, Business Architecture | Director | WA, USA · Remote | $140K–$220K | 0d | [Apply](https://careers.chobani.com/job/Remote-Director%2C-Business-Architecture-WA/1451987000/) |
-| Montefiore Einstein | 🆕 Deputy Chief Technology Officer | C-level | Yonkers, NY, USA | $160K–$200K | 0d | [Apply](https://montefiore.wd12.myworkdayjobs.com/en-US/MMC/job/3-Odell-Plaza/Senior-Director-IT--IAM---Provisioning-Operations_JR230522) |
+| Inferra | 🆕 Head of AI Solutions Architecture | Head | Menlo Park Hybrid · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/inferra/34132336-7f0e-4bc6-ad72-9ea61d42e9c9) ⚡ |
 | Aero Simulation, Inc. (ASI) | 🆕 DIRECTOR OF PRODUCTION | Director | Tampa, FL, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676509/Aero-Simulation-Inc-ASI/DIRECTOR-OF-PRODUCTION?source=Indeed_Feed) |
+| Chobani | 🆕 Director, Business Architecture | Director | WA, USA · Remote | $140K–$220K | 0d | [Apply](https://careers.chobani.com/job/Remote-Director%2C-Business-Architecture-WA/1451987000/) |
+| Fermi Inc | 🆕 Director, Power and Campus Integration | Director | Dallas, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677523/Fermi-LLC/Director-Power-and-Campus-Integration?source=Indeed_Feed) |
+| Montefiore Einstein | 🆕 Deputy Chief Technology Officer | C-level | Yonkers, NY, USA | $160K–$200K | 0d | [Apply](https://montefiore.wd12.myworkdayjobs.com/en-US/MMC/job/3-Odell-Plaza/Senior-Director-IT--IAM---Provisioning-Operations_JR230522) |
+| BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 75956) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75956) |
 | JPMorgan Chase ⭐ | 🆕 Applied AI/ML Lead Vice President (req 210791679) | VP | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791679) |
 | BioBridge Global | 🆕 Director, Cybersecurity & IT Compliance | Director | San Antonio, TX, USA |  | 0d | [Apply](https://biobridgeglobal.bamboohr.com/careers/193?source=indeed&src=indeed&postedDate=2026-11-18) |
 | Charter Manufacturing | 🆕 Director of Digital Delivery | Director | Mequon, WI, USA |  | 0d | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Director-of-Digital-Delivery_R08343) |
@@ -72,9 +73,9 @@ By level: Director 2670 · VP 1002 · Sr. Director 657 · Head 323 · C-level 19
 | Kobie Marketing | 🆕 VP, Platform Engineering | VP | Minneapolis, MN, USA · Remote |  | 0d | [Apply](https://jobs.lever.co/kobie/c598f32a-eec2-410d-bee8-156d30d9a883?lever-source=Indeed) |
 | Kobie Marketing | 🆕 VP, Platform Engineering | VP | Dallas, TX, USA · Remote |  | 0d | [Apply](https://jobs.lever.co/kobie/c598f32a-eec2-410d-bee8-156d30d9a883?lever-source=Indeed) |
 | The University of Iowa | 🆕 Executive Director of Institutional Data Strategy | ED | Iowa City, IA, USA · Remote |  | 0d | [Apply](https://uiowa.referrals.selectminds.com/jobs/executive-director-of-institutional-data-strategy-51785) |
+| PAR Technology | 🆕 Director of Engineering, Point of Sale | Director | GA, USA · Remote | $200K–$270K | 1d | [Apply](https://jobs.ashbyhq.com/PAR%20Technology/2c689a7a-54a7-4dd0-babd-4f9ff518818d?utm_source=X8m9D5p0n4) |
 | Gilead Sciences ⭐ | 🆕 Director, Digital Quality | Director | United States - California - Santa Monica |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Santa-Monica/Director--Digital-Quality_R0056645-3) |
 | Pfizer ⭐ | 🆕 Director, AI Product Lead | Director | 2 Locations |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Director--AI-Product-Lead_4966817-2) |
-| PAR Technology | 🆕 Director of Engineering, Point of Sale | Director | GA, USA · Remote | $200K–$270K | 1d | [Apply](https://jobs.ashbyhq.com/PAR%20Technology/2c689a7a-54a7-4dd0-babd-4f9ff518818d?utm_source=X8m9D5p0n4) |
 | Charter Manufacturing | 🆕 Director of Digital Delivery | Director | Charter Manufacturing Company, Inc - Mequo |  | 1d | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Director-of-Digital-Delivery_R08343) |
 | QUO | 🆕 Director, Technical Support (Tier 3) | Director | Remote - United States & Canada | $155K–$385K | 1d | [Apply](https://jobs.ashbyhq.com/quo/c6343e67-f8fa-4cbc-bdb6-9299e22cac5b) ⚡ [alt](https://jobs.ashbyhq.com/quo/c6343e67-f8fa-4cbc-bdb6-9299e22cac5b) |
 | And Digital | 🆕 Solution Director: CX & AI | Director | Jersey City, NJ, USA |  | 1d | [Apply](https://apply.workable.com/j/5CA357FF1F) |
@@ -202,7 +203,6 @@ By level: Director 2670 · VP 1002 · Sr. Director 657 · Head 323 · C-level 19
 | State Street ⭐ | 🆕 Alternatives Business Solutions – Private Equity, Managing Director | MD | Clifton, New Jersey +2 | $170K–$268K | 2d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Alternatives-Business-Solutions---Private-Equity--Managing-Director_R-800617) |
 | State Street ⭐ | 🆕 AI Strategy & Product Management, Vice President | VP | 2 Locations |  | 2d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Krakow-Poland/AI-Strategy---Product-Management--Vice-President_R-801212) |
 | Walmart | 🆕 Senior Director, Data Science - Last Mile Delivery | Sr. Director | Bentonville, AR, USA | $160K–$320K | 2d | [Apply](https://click.appcast.io/t/qILWPEExyEEgfyaOOd8lzlLYgxFr2uOD1TLjned-l18=) |
-| The Christ Hospital Health Network | 🆕 Director, IT Infrastructure Services - CBO IT Infrastructure - Full Time - Days | Director | OH, United States |  | 2d | [Apply](https://fa-etxt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/job/15576) |
 | Oracle | 🆕 Senior Director, Technical Program Management (req 350597) | Sr. Director | Santa Clara, CA, United States | $170K–$355K | 3d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350597) |
 | Fidelity ⭐ | 🆕 Director, Software Engineering (req 2133898) | Director | Westlake, TX |  | 3d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2133898) |
 | Fidelity ⭐ | 🆕 Director, Engineering - Alternative Investments | Director | 2 Locations |  | 3d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Director--Engineering---Alternative-Investments_2137555) |
@@ -898,6 +898,7 @@ _103 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Inferra | 🆕 Head of AI Solutions Architecture | Head | Menlo Park Hybrid · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/inferra/34132336-7f0e-4bc6-ad72-9ea61d42e9c9) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Applied AI/ML Lead Vice President (req 210791679) | VP | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791679) |
 | Invitation Homes | 🆕 Sr. Director, Data Products | Sr. Director | Dallas, TX, USA | $137K–$237K | 0d | [Apply](https://careers.invitationhomes.com/sr-director-data-products/job/P1-7732770-0) |
 | Presbyterian Healthcare Services | 🆕 Head of Digital Platforms Engineering & AI | Head | Albuquerque, NM, USA |  | 0d | [Apply](https://phsorg.wd1.myworkdayjobs.com/Careers/job/Reverend-Hugh-Cooper-Administrative-Center/Head-of-Digital-Experience---AI_R-9766) |
@@ -1147,9 +1148,8 @@ _103 older roles in this section are in data/roles.json on the `data` branch._
 | LogicMonitor | AI Operations & Workforce Transformation Director | Director | San Francisco, CA, USA | $192K–$240K | 9d | [Apply](https://grnh.se/210eamwo1us) |
 | Workhorse | VP TerraPod Modular Data Center Solutions | VP | Wixom, MI, USA |  | 9d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654427/Workhorse-Technologies-Inc/VP-TerraPod-Modular-Data-Center-Solutions?source=Indeed_Feed) |
 | TD | Director, AI Innovation & Productivity Lead | Director | New York, New York | $220K–$260K | 9d | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Director--AI-Innovation---Productivity-Lead_R_1521872) |
-| Fiserv | Director AI Software Engineering | Director | Berkeley Heights, New Jersey, United State |  | 9d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10403050EXTERNALENUS) |
 
-_1029 older roles in this section are in data/roles.json on the `data` branch._
+_1030 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1433,7 +1433,7 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 | CompuGroup Medical | Head of Global Cloud & Hosting Services (m/f/d) | Head | Koblenz |  | 1d | [Apply](https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Koblenz/Head-of-Global-Cloud---Hosting-Services--m-f-d-_JR110459) |
 | Business Communications, Inc. | Cloud Services Director | Director | Little Rock, AR, USA |  | 1d | [Apply](https://phx.us-west.paycomonline.net/v4/ats/web.php/portal/1F57DB6C385123CEC4AB5921353FA46A/jobs/28454?source=Indeed) |
 | Centurion Health | Director of Infrastructure and Cloud Engineering | Director | Sterling, VA, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/902B461213211E2E52703B6504151F89/jobs/993910?source=Indeed) |
-| The Christ Hospital Health Network | 🆕 Director, IT Infrastructure Services - CBO IT Infrastructure - Full Time - Days | Director | OH, United States |  | 2d | [Apply](https://fa-etxt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/job/15576) |
+| The Christ Hospital Health Network | Director, IT Infrastructure Services - CBO IT Infrastructure - Full Time - Days | Director | OH, United States |  | 2d | [Apply](https://fa-etxt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/job/15576) |
 | The Christ Hospital Health Network | Director, IT Infrastructure Services - CBO IT Infrastructure - Full Time - Days | Director | Norwood, OH, USA |  | 2d | [Apply](https://fa-etxt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/requisitions/preview/15576) |
 | Brown & Brown Insurance | Director, Enterprise Customer Platforms | Director | Plano, TX, USA |  | 2d | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Director--Enterprise-Customer-Platforms_R26_0000003920) |
 | New York Life | Corporate Vice President - Application Infrastructure & Database Platform Services Leader | VP | New York, NY, USA | $160K–$228K | 2d | [Apply](https://careers.newyorklife.com/careers/job/45480597) |
@@ -2349,8 +2349,8 @@ _1132 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 75956) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75956) |
 | Fermi Inc | 🆕 Director, Power and Campus Integration | Director | Dallas, TX, USA |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677523/Fermi-LLC/Director-Power-and-Campus-Integration?source=Indeed_Feed) |
+| BNY ⭐ | 🆕 Vice President, Full-Stack Engineer (req 75956) | VP | Pittsburgh, PA, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75956) |
 | SSM Health | 🆕 Regional Director, Mission Integration | Director | Bridgeton, Missouri, United States of Amer |  | 1d | [Apply](https://jobs.ssmhealth.com/us/en/job/SHWSHLUSR202873EXTERNALENUS) |
 | Uniphore | 🆕 Sr. Director, Customer Suucess | Sr. Director | USA - CA - Palo Alto | $233K–$291K | 1d | [Apply](https://uniphore.wd503.myworkdayjobs.com/Uniphore/job/USA---CA---Palo-Alto/Sr-Director--Customer-Suucess_JR101239-1) |
 | American Express | 🆕 Director-UX Researcher | Director | New York, NY, United States |  | 1d | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015763) |

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,096 open roles** at **1,954 companies** · **173 new in the last 24 hours** · 6,108 company career sites watched · updated hourly · last update Nov 20, 2026 02:40 AM ET
+**5,096 open roles** at **1,954 companies** · **168 new in the last 24 hours** · 6,108 company career sites watched · updated hourly · last update Nov 20, 2026 03:40 AM ET
 
 By level: Director 2711 · VP 884 · Sr. Director 671 · Head 308 · C-level 193 · EVP/SVP 145 · ED 129 · MD 55
 
@@ -27,7 +27,7 @@ By level: Director 2711 · VP 884 · Sr. Director 671 · Head 308 · C-level 193
 
 ## Contents
 
-- [🆕 New in the last 24 hours (173)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (168)](#new-in-the-last-24-hours)
 - [🤠 Houston area (198)](#houston-area)
 - [👑 Executive Technology Leadership (202)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (346)](#security-risk-technology)
@@ -38,7 +38,7 @@ By level: Director 2711 · VP 884 · Sr. Director 671 · Head 308 · C-level 193
 - [🔄 Transformation & Delivery (623)](#transformation-delivery)
 - [🛠️ Engineering & Software (1363)](#engineering-software)
 - [📌 Other Senior Roles (360)](#other-senior-roles)
-- [🔒 Recently closed (658)](#recently-closed)
+- [🔒 Recently closed (657)](#recently-closed)
 - Daily digests: [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md) · [11-14](data/daily/2026-11-14.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -202,10 +202,6 @@ By level: Director 2711 · VP 884 · Sr. Director 671 · Head 308 · C-level 193
 | Citi (jobs.citi.com) ⭐ | 🆕 Vice President, Digital Asset Custody Operations, PUNE | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/vice-president-digital-asset-custody-operations-pune/287/103504253488) |
 | Information Technology Senior Management Forum | 🆕 Director, Technical Program Management (Remote-Eligible) | Director | Richmond, VA, USA · Remote | $210K–$239K | 1d | [Apply](https://jobs.itsmfleaders.org/job/ja6f3g/director-technical-program-management-(remote-eligible)/richmond/va) |
 | Information Technology Senior Management Forum | 🆕 Director of Platform Engineering and Reliability | Director | Waukegan, IL, USA | $149K–$299K | 1d | [Apply](https://jobs.itsmfleaders.org/job/9f7c5u/director-of-platform-engineering-and-reliability/waukegan/il) |
-| Aspire Public Schools | 🆕 Senior Director, AI, Data & Systems Enablement | Sr. Director | Oakland, CA, USA | $168K–$216K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oMC7AfwP&s=Indeed) |
-| Kooner Fleet Management Solutions | 🆕 Director of Technology & AI (2214) | Director | Sacramento, CA, USA | $165K–$255K | 1d | [Apply](https://apply.workable.com/j/229D4EC6FC) |
-| Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Remote, USA | $190K–$291K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
-| Veralto | 🆕 VP, Artificial Intelligence | VP | Newton, MA, USA · Remote | $300K–$350K | 1d | [Apply](https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10269630EXTERNALENGLOBAL/VP-Artificial-Intelligence?utm_source=indeed&utm_medium=phenom-feeds) |
 | Maxar | 🆕 Director of AI Engineering & Enablement | Director | 2 Locations |  | 2d | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
 | Abbott ⭐ | 🆕 Director of Platform Engineering and Reliability | Director | United States - Illinois - Waukegan |  | 2d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Waukegan/Director-of-Platform-Engineering-and-Reliability_31167997) |
 | LPL Financial | 🆕 VP Lead Software Engineer | VP | Fort Mill/Charlotte |  | 2d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/VP-Lead-Software-Engineer_R-054790-1) |
@@ -214,7 +210,6 @@ By level: Director 2711 · VP 884 · Sr. Director 671 · Head 308 · C-level 193
 | Fairfax County Public Schools | 🆕 Assistant Director, IT Modernization and Automation | Director | VA, USA |  | 2d | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25103&siteid=5042&PageType=JobDetails&jobid=1485919) |
 | Manulife | 🆕 Lead Technical Program Manager (Director level, individual contributor) | Director | Boston, MA, USA | $127K–$236K | 2d | [Apply](https://careers.manulife.com/global/en/job/JR26081756/Lead-Technical-Program-Manager-Director-level-individual-contributor) |
 | Siemens Healthineers | 🆕 Area Vice President, Digital & Automation - Boston/NY Area | VP | 3 Locations |  | 2d | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/en-US/SHSJB/job/MLV-LB/Area-Vice-President--Digital---Automation---Boston-NY-Area_R-32143-1) |
-| Courier Health | 🆕 Director of Security | Director | New York, NY, USA | $235K–$270K | 2d | [Apply](https://grnh.se/t1ov36fh7us) |
 | Marriott Vacations Worldwide | 🆕 Director, Data Protection (Enterprise Storage Back-Up) | Director | MVW Headquarters |  | 3d | [Apply](https://mymvw.wd5.myworkdayjobs.com/MVW/job/MVW-Headquarters/Director--Data-Protection--Enterprise-Storage-Back-Up-_JR95993) |
 | EisnerAmper | 🆕 Enterprise Technology & Information Director | Director | Iselin |  | 3d | [Apply](https://eisneramper.wd1.myworkdayjobs.com/en-US/EisnerAmper_External/job/Iselin/Enterprise-Technology---Information-Director_Req-9631) |
 | Transamerica | 🆕 Sr Director, Digital Platforms | Sr. Director | Philadelphia, Pennsylvania | $186K–$210K | 3d | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Sr-Director--Digital-Platforms_R20063276) |
@@ -650,7 +645,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Experian | 🆕 Director of Application Security | Director | Boston, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/Experian/744000162516186-director-of-application-security) ⚡ |
 | Appoquinimink School District | 🆕 Director of Safety, Security, and Operations | Director | Odessa, DE, USA |  | 1d | [Apply](https://www.applitrack.com/apposchooldistrict/onlineapp/default.aspx?all=1&AppliTrackJobId=5407) |
 | IREN | Director, Executive Protection & Travel Security | Director | Fort Worth, TX, USA |  | 1d | [Apply](https://iren.careers.hibob.com/jobs/82d0eff1-060d-4d16-b0a3-ebe2f7d62090) |
-| Courier Health | 🆕 Director of Security | Director | New York, NY, USA | $235K–$270K | 2d | [Apply](https://grnh.se/t1ov36fh7us) |
+| Courier Health | Director of Security | Director | New York, NY, USA | $235K–$270K | 2d | [Apply](https://grnh.se/t1ov36fh7us) |
 | Delaware Schools Consortium | Director of Safety, Security, and Operations | Director | DE, USA |  | 2d | [Apply](https://www.applitrack.com/apposchooldistrict/onlineapp/default.aspx?AppliTrackJobID=5407) |
 | OpenText | Director, Product Management (Security Operations) | Director | Mississauga, Ontario, CAN |  | 2d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54349EXTERNALENUS) |
 | Shield | Director, Enterprise Security | Director | San Diego, CA, US | $206K–$309K | 2d | [Apply](https://jobs.ashbyhq.com/shield/568a65b8-1d9b-4b63-9526-f0896e5fe714) ⚡ |
@@ -937,9 +932,9 @@ _96 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | 🆕 Director, Product Management, Money Management Data & Experiences | Director | McLean, VA +1 | $251K–$287K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Product-Management--Money-Management-Data---Experiences_R1006114-1) |
 | Revolution Medicines | 🆕 Executive Director, Internal Audit, Technology and AI Audit | ED | Remote, USA | $252K–$315K | 1d | [Apply](https://www.revmed.com/careers-list/?gh_jid=8198323003) |
 | Citi (jobs.citi.com) ⭐ | 🆕 AWS and Databricks Data Engineering Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/aws-and-databricks-data-engineering-lead-vice-president/287/103508775040) |
-| Aspire Public Schools | 🆕 Senior Director, AI, Data & Systems Enablement | Sr. Director | Oakland, CA, USA | $168K–$216K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oMC7AfwP&s=Indeed) |
-| Kooner Fleet Management Solutions | 🆕 Director of Technology & AI (2214) | Director | Sacramento, CA, USA | $165K–$255K | 1d | [Apply](https://apply.workable.com/j/229D4EC6FC) |
-| Veralto | 🆕 VP, Artificial Intelligence | VP | Newton, MA, USA · Remote | $300K–$350K | 1d | [Apply](https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10269630EXTERNALENGLOBAL/VP-Artificial-Intelligence?utm_source=indeed&utm_medium=phenom-feeds) |
+| Aspire Public Schools | Senior Director, AI, Data & Systems Enablement | Sr. Director | Oakland, CA, USA | $168K–$216K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oMC7AfwP&s=Indeed) |
+| Kooner Fleet Management Solutions | Director of Technology & AI (2214) | Director | Sacramento, CA, USA | $165K–$255K | 1d | [Apply](https://apply.workable.com/j/229D4EC6FC) |
+| Veralto | VP, Artificial Intelligence | VP | Newton, MA, USA · Remote | $300K–$350K | 1d | [Apply](https://jobs.veralto.com/global/en/job/DANVGTGLOBALR10269630EXTERNALENGLOBAL/VP-Artificial-Intelligence?utm_source=indeed&utm_medium=phenom-feeds) |
 | Inferra | Head of AI Solutions Architecture | Head | Menlo Park Hybrid · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/inferra/34132336-7f0e-4bc6-ad72-9ea61d42e9c9) ⚡ |
 | JPMorgan Chase ⭐ | Applied AI/ML Lead Vice President (req 210791679) | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791679) |
 | Invitation Homes | Sr. Director, Data Products | Sr. Director | Dallas, TX, USA | $137K–$237K | 1d | [Apply](https://careers.invitationhomes.com/sr-director-data-products/job/P1-7732770-0) |
@@ -2153,7 +2148,7 @@ _373 older roles in this section are in data/roles.json on the `data` branch._
 | Lexington City Schools | 🆕 Director of Technology | Director | Lexington, NC, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5996821) |
 | Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Alpharetta, GA, USA | $190K–$291K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
 | Harvard University | 🆕 Managing Director, IT Strategic Planning & Governance | MD | Boston, MA, us | $217K–$222K | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959956-managing-director-it-strategic-planning-governance) ⚡ |
-| Priority Technology Holdings, LLC | 🆕 Director, Engineering - Quality Assurance | Director | Remote, USA | $190K–$291K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
+| Priority Technology Holdings, LLC | Director, Engineering - Quality Assurance | Director | Remote, USA | $190K–$291K | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
 | BioBridge Global | Director, Cybersecurity & IT Compliance | Director | San Antonio, TX, USA |  | 1d | [Apply](https://biobridgeglobal.bamboohr.com/careers/193?source=indeed&src=indeed&postedDate=2026-11-18) |
 | J&A Consulting LLC | VP of Information Technology (VP of IT) / NYC Bank / Up to $210K + 100% Paid Benefits | VP | New York, NY, USA | $170K–$210K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8636cd1e4fd79877) |
 | Sandestin Investments LLC | Director of Information Technology | Director | Miramar Beach, FL, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ff3b9812-b488-4144-b294-432d90a31381&ccId=19000101_000001&jobId=634929&source=IN&lang=en_US) |

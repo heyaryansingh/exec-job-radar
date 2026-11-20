@@ -1,6 +1,6 @@
 # 🤠 Senior technology roles in the Houston area
 
-198 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+197 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
@@ -16,7 +16,6 @@
 | UnitedHealth Group ⭐ | Senior Director, Optum Enterprise Integration & Strategic Value Creation - Remote | Sr. Director | Minneapolis, Minnesota, United States +20 · Remote | $159K–$273K | 3d | [Apply](https://careers.unitedhealthgroup.com/job/minneapolis/senior-director-optum-enterprise-integration-and-strategic-value-creation-remote/34088/103420144896) |
 | FTI Consulting, Inc. | Director, Finance Transformation / Office of CFO Advisory | Director | New York, NY +7 |  | 4d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/New-York-NY/Director--Finance-Transformation---Office-of-CFO-Advisory_JR261869) |
 | Live Nation | Director, Incident Response & Security Operations | Director | US CA Beverly Hills - 325 N Maple Drive +3 |  | 4d | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/US-CA-Beverly-Hills---325-N-Maple-Drive/Senior-Director---Cyber-Security-Operations_JR-93115) |
-| WSP | Technical Director, Project Management - Power Generation Package Manager | Director | Houston, TX, United States |  | 4d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99514) |
 | Bayonet Plumbing | Vice President, Information Technology (IT) | VP | Sugar Land, Texas |  | 5d | [Apply](https://www.talent.com/view?id=645908799350835730) |
 | Confidential | Vice President, Solution Architecture | VP | Houston, Texas |  | 5d | [Apply](https://www.talent.com/view?id=646112500632657928) |
 | Confidential | Vice President of Software Engineering, Payment Integrity | VP | Houston, Texas |  | 5d | [Apply](https://www.talent.com/view?id=646112515055820808) |

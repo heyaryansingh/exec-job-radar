@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,223 open roles** at **1,993 companies** · **102 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 05:16 PM ET
+**5,223 open roles** at **1,993 companies** · **96 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 06:16 PM ET
 
 By level: Director 2786 · VP 901 · Sr. Director 686 · Head 319 · C-level 188 · EVP/SVP 156 · ED 129 · MD 58
 
@@ -27,7 +27,7 @@ By level: Director 2786 · VP 901 · Sr. Director 686 · Head 319 · C-level 188
 
 ## Contents
 
-- [🆕 New in the last 24 hours (102)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (96)](#new-in-the-last-24-hours)
 - [🤠 Houston area (198)](#houston-area)
 - [👑 Executive Technology Leadership (197)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (357)](#security-risk-technology)
@@ -139,12 +139,6 @@ By level: Director 2786 · VP 901 · Sr. Director 686 · Head 319 · C-level 188
 | Citi (jobs.citi.com) ⭐ | 🆕 AI Digital Senior Product Lead, Global Services - Senior Vice President | EVP/SVP | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/ai-digital-senior-product-lead-global-services-senior-vice-president/287/103573072976) |
 | Crescent Energy | 🆕 Director of Enterprise Services | Director | Houston, TX |  | 1d | [Apply](https://crescentenergyco.wd108.myworkdayjobs.com/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) [alt](https://crescentenergyco.wd108.myworkdayjobs.com/en-US/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) |
 | Texas Capital Bank | 🆕 Director of Networking | Director | Richardson, TX +1 |  | 1d | [Apply](https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Director-of-Networking_JR106434) |
-| Videa | 🆕 Head of Machine Learning | Head | Boston, Massachusetts · Remote | $250K–$275K | 1d | [Apply](https://jobs.ashbyhq.com/videa.ai/bc439d69-15f0-48c4-986b-5d0567dd274c) ⚡ |
-| BNY ⭐ | 🆕 Vice President, Production Services Application Support | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82823) |
-| JPMorgan Chase ⭐ | 🆕 Executive Director, Product Director – GenAI Gateway & Orchestration | ED | Palo Alto, CA, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809865) |
-| Gartner | 🆕 VP, Program Management (Digital Product Technology) | VP | 2 Locations |  | 1d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Program-Management--Digital-Product-Technology-_116146-1) |
-| S&P Global ⭐ | 🆕 Global Head of Commercial Technology Portfolio, DJI | Head | New York, NY |  | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1) |
-| X-Energy | 🆕 Director, Customer Relationship Management (Data Centers) | Director | Rockville, MD | $214K–$242K | 1d | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Director--Customer-Relationship-Management--Data-Centers-_R101471) |
 | State Street ⭐ | 🆕 Markets Technology Risk & Cyber Response Lead, VP | VP | Boston, Massachusetts |  | 3d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Portfolio-Governance-Lead--VP_R-800985-1) |
 | State Street ⭐ | 🆕 CDAIO Agentic AI Engineer, Vice President | VP | 4 Locations |  | 3d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/CDAIO-Agentic-AI-Engineer--Vice-President_R-801291-1) |
 | JLL ⭐ | 🆕 Senior Technical Design Director, Workplace Interiors | Director | Chicago, IL |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Senior-Technical-Design-Director--Workplace-Interiors_REQ550144) |
@@ -857,9 +851,9 @@ _107 older roles in this section are in data/roles.json on the `data` branch._
 | Lyft | 🆕 Director, Data Science, EU | Director | San Francisco, CA | $236K–$295K | 1d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8957556002?gh_jid=8957556002) ⚡ |
 | Samsung Semiconductor ⭐ | 🆕 Director, Data Center Market Intelligence | Director | San Jose, California, United States | $210K–$336K | 1d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8205837003) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 AI Digital Senior Product Lead, Global Services - Senior Vice President | EVP/SVP | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/ai-digital-senior-product-lead-global-services-senior-vice-president/287/103573072976) |
-| Videa | 🆕 Head of Machine Learning | Head | Boston, Massachusetts · Remote | $250K–$275K | 1d | [Apply](https://jobs.ashbyhq.com/videa.ai/bc439d69-15f0-48c4-986b-5d0567dd274c) ⚡ |
-| JPMorgan Chase ⭐ | 🆕 Executive Director, Product Director – GenAI Gateway & Orchestration | ED | Palo Alto, CA, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809865) |
-| X-Energy | 🆕 Director, Customer Relationship Management (Data Centers) | Director | Rockville, MD | $214K–$242K | 1d | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Director--Customer-Relationship-Management--Data-Centers-_R101471) |
+| Videa | Head of Machine Learning | Head | Boston, Massachusetts · Remote | $250K–$275K | 1d | [Apply](https://jobs.ashbyhq.com/videa.ai/bc439d69-15f0-48c4-986b-5d0567dd274c) ⚡ |
+| JPMorgan Chase ⭐ | Executive Director, Product Director – GenAI Gateway & Orchestration | ED | Palo Alto, CA, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809865) |
+| X-Energy | Director, Customer Relationship Management (Data Centers) | Director | Rockville, MD | $214K–$242K | 1d | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Director--Customer-Relationship-Management--Data-Centers-_R101471) |
 | Gainwell Technologies LLC | Director, AI Engineering | Director | CA, USA · Remote | $209K–$299K | 1d | [Apply](https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-AI-Engineering-CA-99999/1452572400/) |
 | San Francisco Department of Public Health | Power BI and City Data Project IT Director, MADI (1070-Technology Product Director)–DPH-166752 | Director | San Francisco, CA, USA | $171K–$215K | 1d | [Apply](https://careers.sf.gov/role/?id=3743990016999377) |
 | Asurion | Director, Data Engineering | Director | Nashville, Tennessee, United States of Ame |  | 1d | [Apply](https://careers.asurion.com/us/en/job/ASRASRUSASU0021999EXTERNALENUS) |
@@ -963,8 +957,8 @@ _107 older roles in this section are in data/roles.json on the `data` branch._
 | KPMG | Director, AI Architect | Director | Dallas, TX, USA |  | 3d | [Apply](https://www.kpmguscareers.com/jobdetail/?jobId=140087) |
 | Vantor | Director of AI Engineering & Enablement | Director | Herndon, VA, USA | $165K–$266K | 3d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
 | Vantor | Director of AI Engineering & Enablement | Director | Westminster, CO, USA | $165K–$266K | 3d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
-| State Street ⭐ | AI Systems Design Architect, Vice President | VP | 3 Locations |  | 4d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/AI-Systems-Design-Architect--Vice-President_R-800989-1) |
 | State Street ⭐ | AI Product Management, VP II - State Street Investment Management | VP | Boston, Massachusetts | $120K–$202K | 4d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/AI-Product-Management--VP-II---State-Street-Investment-Management_R-796450) |
+| State Street ⭐ | AI Systems Design Architect, Vice President | VP | 3 Locations |  | 4d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/AI-Systems-Design-Architect--Vice-President_R-800989-1) |
 | Edwards Lifesciences | Director, AI Data Products | Director | USA - California – Irvine | $159K–$226K | 4d | [Apply](https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/USA---California--Irvine/Director--AI-Data-Products_Req-52164) |
 | Marriott Vacations Worldwide | Director, Data Protection (Enterprise Storage Back-Up) | Director | MVW Headquarters |  | 4d | [Apply](https://mymvw.wd5.myworkdayjobs.com/MVW/job/MVW-Headquarters/Director--Data-Protection--Enterprise-Storage-Back-Up-_JR95993) |
 | Pfizer ⭐ | Director, AI Applications Engineering Lead | Director | 2 Locations |  | 4d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Director--AI-Applications-Engineering-Lead_4966816-2) |
@@ -1088,7 +1082,7 @@ _1017 older roles in this section are in data/roles.json on the `data` branch._
 | Takeda Pharmaceuticals | 🆕 Director, Central Laboratory Operations | Director | Boston, MA, USA | $177K–$278K | 0d | [Apply](https://www.takedajobs.com/job/-/-/1113/103584938128) |
 | Epsilon | 🆕 Director Infrastructure Partners Operations | Director | Chicago, IL, USA | $128K–$238K | 0d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | Epsilon | 🆕 Director Infrastructure Partners Operations | Director | Irving, TX, USA | $128K–$238K | 0d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
-| BNY ⭐ | 🆕 Vice President, Production Services Application Support | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82823) |
+| BNY ⭐ | Vice President, Production Services Application Support | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82823) |
 | AEG Worldwide | Director, Production Finances - Global Touring | Director | New York, NY |  | 1d | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8957159002) ⚡ |
 | Nshe | Director, Operations and Infrastructure in Stead, NV | Director | University of Nevada, Reno - Main Campus |  | 1d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Director--Operations-and-Infrastructure-in-Stead--NV_R0154337) |
 | Cottingham & Butler | Director of IT Support | Director | Dubuque, Iowa, United States |  | 1d | [Apply](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/5490841008?gh_jid=5490841008) ⚡ |
@@ -1776,8 +1770,8 @@ _214 older roles in this section are in data/roles.json on the `data` branch._
 | Barclays | 🆕 VP – Process Transformation & Optimization | VP | Whippany, NJ, USA | $130K–$210K | 1d | [Apply](https://search.jobs.barclays/job/whippany/vp-process-transformation-and-optimization/13015/103565438640) |
 | Peraton | 🆕 Senior IT Program Portfolio Director | Director | Washington, DC, USA | $176K–$282K | 1d | [Apply](https://www.careers.peraton.com/jobs/senior-it-program-portfolio-director-washington-d-c-172855-jobs--project-management--) |
 | Honeywell Aerospace | 🆕 Director Program Management | Director | Phoenix, AZ, United States |  | 1d | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/129758) |
-| Gartner | 🆕 VP, Program Management (Digital Product Technology) | VP | 2 Locations |  | 1d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Program-Management--Digital-Product-Technology-_116146-1) |
-| S&P Global ⭐ | 🆕 Global Head of Commercial Technology Portfolio, DJI | Head | New York, NY |  | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1) |
+| Gartner | VP, Program Management (Digital Product Technology) | VP | 2 Locations |  | 1d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Program-Management--Digital-Product-Technology-_116146-1) |
+| S&P Global ⭐ | Global Head of Commercial Technology Portfolio, DJI | Head | New York, NY |  | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1) |
 | Fiserv | VP,  Program Management | VP | Pierre, South Dakota, United States of Ame |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407654EXTERNALENUS) |
 | DEFCON AI | Technical Director, Government Program | Director | Mclean, VA |  | 1d | [Apply](https://job-boards.greenhouse.io/defcon/jobs/5304080007) ⚡ |
 | Red Cell Partners | Technical Director, Government Program | Director | Mclean, VA |  | 1d | [Apply](https://job-boards.greenhouse.io/redcellpartners/jobs/5304113007) ⚡ |

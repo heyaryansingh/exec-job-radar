@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,221 open roles** at **1,993 companies** · **109 new in the last 24 hours** · 6,141 company career sites watched · updated hourly · last update Nov 21, 2026 04:24 PM ET
+**5,223 open roles** at **1,993 companies** · **102 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 05:16 PM ET
 
-By level: Director 2786 · VP 899 · Sr. Director 686 · Head 319 · C-level 188 · EVP/SVP 156 · ED 129 · MD 58
+By level: Director 2786 · VP 901 · Sr. Director 686 · Head 319 · C-level 188 · EVP/SVP 156 · ED 129 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (109)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (102)](#new-in-the-last-24-hours)
 - [🤠 Houston area (198)](#houston-area)
 - [👑 Executive Technology Leadership (197)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (357)](#security-risk-technology)
-- [🧠 Data & AI (1265)](#data-ai)
+- [🧠 Data & AI (1267)](#data-ai)
 - [🚦 Reliability & Operations (371)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (464)](#cloud-infrastructure)
 - [🏛️ Architecture (156)](#architecture)
@@ -145,15 +145,8 @@ By level: Director 2786 · VP 899 · Sr. Director 686 · Head 319 · C-level 188
 | Gartner | 🆕 VP, Program Management (Digital Product Technology) | VP | 2 Locations |  | 1d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Program-Management--Digital-Product-Technology-_116146-1) |
 | S&P Global ⭐ | 🆕 Global Head of Commercial Technology Portfolio, DJI | Head | New York, NY |  | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1) |
 | X-Energy | 🆕 Director, Customer Relationship Management (Data Centers) | Director | Rockville, MD | $214K–$242K | 1d | [Apply](https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Director--Customer-Relationship-Management--Data-Centers-_R101471) |
-| Alta Resource Technologies, Inc. | 🆕 SVP of Engineering | EVP/SVP | Boulder, CO | $275K–$325K | 1d | [Apply](https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4517768009) ⚡ |
-| Fiserv | 🆕 VP,  Program Management | VP | Pierre, South Dakota, United States of Ame |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407654EXTERNALENUS) |
-| STV Group | 🆕 Engineering Director | Director | Nelson Miller Parkway, Louisville, Kentuck +1 |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Nelson-Miller-Parkway-Louisville-Kentucky/Engineering-Director_JR6050) |
-| STV Group | 🆕 Environmental Engineering Director | Director | Empire State Building, New York, New York |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Environmental-Engineering-Director_JR6206) |
-| STV Group | 🆕 CBTC & NextGen Systems Engineering DIrector | Director | Pittsburgh, Pennsylvania |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Pittsburgh-Pennsylvania/CBTC---NextGen-Systems-Engineering-DIrector_JR6405) |
-| Texas Capital Bank | 🆕 Software Engineer Director (req JR106392) | Director | Richardson, TX |  | 1d | [Apply](https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Software-Engineer-Director_JR106392) |
-| AEG Worldwide | 🆕 Director, Production Finances - Global Touring | Director | New York, NY |  | 1d | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8957159002) ⚡ |
-| State Street ⭐ | 🆕 CDAIO Agentic AI Engineer, Vice President | VP | 4 Locations |  | 3d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/CDAIO-Agentic-AI-Engineer--Vice-President_R-801291-1) |
 | State Street ⭐ | 🆕 Markets Technology Risk & Cyber Response Lead, VP | VP | Boston, Massachusetts |  | 3d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Portfolio-Governance-Lead--VP_R-800985-1) |
+| State Street ⭐ | 🆕 CDAIO Agentic AI Engineer, Vice President | VP | 4 Locations |  | 3d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/CDAIO-Agentic-AI-Engineer--Vice-President_R-801291-1) |
 | JLL ⭐ | 🆕 Senior Technical Design Director, Workplace Interiors | Director | Chicago, IL |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Senior-Technical-Design-Director--Workplace-Interiors_REQ550144) |
 | JLL ⭐ | 🆕 Senior Director, Platform Engineering & Infrastructure | Sr. Director | Chicago, IL |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Head-of-Infrastructure-Development_REQ533994) |
 
@@ -970,6 +963,8 @@ _107 older roles in this section are in data/roles.json on the `data` branch._
 | KPMG | Director, AI Architect | Director | Dallas, TX, USA |  | 3d | [Apply](https://www.kpmguscareers.com/jobdetail/?jobId=140087) |
 | Vantor | Director of AI Engineering & Enablement | Director | Herndon, VA, USA | $165K–$266K | 3d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
 | Vantor | Director of AI Engineering & Enablement | Director | Westminster, CO, USA | $165K–$266K | 3d | [Apply](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
+| State Street ⭐ | AI Systems Design Architect, Vice President | VP | 3 Locations |  | 4d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/AI-Systems-Design-Architect--Vice-President_R-800989-1) |
+| State Street ⭐ | AI Product Management, VP II - State Street Investment Management | VP | Boston, Massachusetts | $120K–$202K | 4d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/AI-Product-Management--VP-II---State-Street-Investment-Management_R-796450) |
 | Edwards Lifesciences | Director, AI Data Products | Director | USA - California – Irvine | $159K–$226K | 4d | [Apply](https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/USA---California--Irvine/Director--AI-Data-Products_Req-52164) |
 | Marriott Vacations Worldwide | Director, Data Protection (Enterprise Storage Back-Up) | Director | MVW Headquarters |  | 4d | [Apply](https://mymvw.wd5.myworkdayjobs.com/MVW/job/MVW-Headquarters/Director--Data-Protection--Enterprise-Storage-Back-Up-_JR95993) |
 | Pfizer ⭐ | Director, AI Applications Engineering Lead | Director | 2 Locations |  | 4d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Director--AI-Applications-Engineering-Lead_4966816-2) |
@@ -1081,10 +1076,8 @@ _107 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Director, Machine Learning Engineer | Director | San Jose, CA +3 | $294K–$335K | 8d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Director--Machine-Learning-Engineer_R1004808-1) |
 | Phillips 66 | Senior Director, VCO/Plan AI Platform Strategy & Integration | Sr. Director | Houston, TX, USA | $173K–$315K | 8d | [Apply](https://careers.phillips66.com/job/Houston-Senior-Director%2C-VCOPlan-AI-Platform-Strategy-&-Integration-TX-77042/1450325300/) |
 | PwC | Deal Data Technology & Analytics, Director | Director | Silicon Valley, CA, USA | $155K–$410K | 8d | [Apply](https://jobs-us.pwc.com/us/en/job/739097WD/Deal-Data-Technology-Analytics-Director) |
-| Atlassian | Head of Sourcing - Cloud and AI | Head | San Francisco, CA, USA · Remote | $139K–$219K | 8d | [Apply](https://careers-americas.icims.com/jobs/28550/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Hewlett Packard Enterprise / HPE | Sr Director, AI/ML | Sr. Director | San Jose, CA, USA | $206K–$440K | 8d | [Apply](https://careers.hpe.com/us/en/job/HPE1US1219014EXTERNALENUS/Sr-Director-AI-ML?utm_source=indeed&utm_medium=phenom-feeds) |
 
-_1015 older roles in this section are in data/roles.json on the `data` branch._
+_1017 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1096,7 +1089,7 @@ _1015 older roles in this section are in data/roles.json on the `data` branch._
 | Epsilon | 🆕 Director Infrastructure Partners Operations | Director | Chicago, IL, USA | $128K–$238K | 0d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | Epsilon | 🆕 Director Infrastructure Partners Operations | Director | Irving, TX, USA | $128K–$238K | 0d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | BNY ⭐ | 🆕 Vice President, Production Services Application Support | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82823) |
-| AEG Worldwide | 🆕 Director, Production Finances - Global Touring | Director | New York, NY |  | 1d | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8957159002) ⚡ |
+| AEG Worldwide | Director, Production Finances - Global Touring | Director | New York, NY |  | 1d | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8957159002) ⚡ |
 | Nshe | Director, Operations and Infrastructure in Stead, NV | Director | University of Nevada, Reno - Main Campus |  | 1d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Director--Operations-and-Infrastructure-in-Stead--NV_R0154337) |
 | Cottingham & Butler | Director of IT Support | Director | Dubuque, Iowa, United States |  | 1d | [Apply](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/5490841008?gh_jid=5490841008) ⚡ |
 | Insulet Corporation | Sr. Director, Engineering Operations | Sr. Director | Acton, Massachusetts |  | 1d | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Sr-Director--Engineering-Operations_REQ-2026-19215) |
@@ -1785,7 +1778,7 @@ _214 older roles in this section are in data/roles.json on the `data` branch._
 | Honeywell Aerospace | 🆕 Director Program Management | Director | Phoenix, AZ, United States |  | 1d | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/129758) |
 | Gartner | 🆕 VP, Program Management (Digital Product Technology) | VP | 2 Locations |  | 1d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Program-Management--Digital-Product-Technology-_116146-1) |
 | S&P Global ⭐ | 🆕 Global Head of Commercial Technology Portfolio, DJI | Head | New York, NY |  | 1d | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Global-Head-of-Commercial-Technology-Portfolio_322565-1) |
-| Fiserv | 🆕 VP,  Program Management | VP | Pierre, South Dakota, United States of Ame |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407654EXTERNALENUS) |
+| Fiserv | VP,  Program Management | VP | Pierre, South Dakota, United States of Ame |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407654EXTERNALENUS) |
 | DEFCON AI | Technical Director, Government Program | Director | Mclean, VA |  | 1d | [Apply](https://job-boards.greenhouse.io/defcon/jobs/5304080007) ⚡ |
 | Red Cell Partners | Technical Director, Government Program | Director | Mclean, VA |  | 1d | [Apply](https://job-boards.greenhouse.io/redcellpartners/jobs/5304113007) ⚡ |
 | GE Vernova ⭐ | Program Director Services Digital Technology | Director | 2 Locations |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Schenectady/Program-Director-Services-Digital-Technology_R5058895) |
@@ -2057,11 +2050,11 @@ _401 older roles in this section are in data/roles.json on the `data` branch._
 | RSA Conference | 🆕 Senior Director, Engineering | Sr. Director | Remote, USA | $250K–$280K | 1d | [Apply](https://rsaconference.applytojob.com/apply/R06VDYBc8v/Senior-Director-Engineering?source=INDE&~) |
 | Trane Technologies | 🆕 Vice President Engineering & Technology Thermo King Americas | VP | Bloomington, MN, USA | $261K–$341K | 1d | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-19890) |
 | Newmark | 🆕 Head of Technical Services, Americas | Head | TX, United States |  | 1d | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250581) [alt](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/250581) |
-| Alta Resource Technologies, Inc. | 🆕 SVP of Engineering | EVP/SVP | Boulder, CO | $275K–$325K | 1d | [Apply](https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4517768009) ⚡ |
-| STV Group | 🆕 Engineering Director | Director | Nelson Miller Parkway, Louisville, Kentuck +1 |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Nelson-Miller-Parkway-Louisville-Kentucky/Engineering-Director_JR6050) |
-| STV Group | 🆕 Environmental Engineering Director | Director | Empire State Building, New York, New York |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Environmental-Engineering-Director_JR6206) |
-| STV Group | 🆕 CBTC & NextGen Systems Engineering DIrector | Director | Pittsburgh, Pennsylvania |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Pittsburgh-Pennsylvania/CBTC---NextGen-Systems-Engineering-DIrector_JR6405) |
-| Texas Capital Bank | 🆕 Software Engineer Director (req JR106392) | Director | Richardson, TX |  | 1d | [Apply](https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Software-Engineer-Director_JR106392) |
+| Alta Resource Technologies, Inc. | SVP of Engineering | EVP/SVP | Boulder, CO | $275K–$325K | 1d | [Apply](https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4517768009) ⚡ |
+| STV Group | Engineering Director | Director | Nelson Miller Parkway, Louisville, Kentuck +1 |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Nelson-Miller-Parkway-Louisville-Kentucky/Engineering-Director_JR6050) |
+| STV Group | Environmental Engineering Director | Director | Empire State Building, New York, New York |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Environmental-Engineering-Director_JR6206) |
+| STV Group | CBTC & NextGen Systems Engineering DIrector | Director | Pittsburgh, Pennsylvania |  | 1d | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Pittsburgh-Pennsylvania/CBTC---NextGen-Systems-Engineering-DIrector_JR6405) |
+| Texas Capital Bank | Software Engineer Director (req JR106392) | Director | Richardson, TX |  | 1d | [Apply](https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Software-Engineer-Director_JR106392) |
 | Lumentum Operations | Director, Equipment Engineering and Maintenance | Director | San Jose, CA, USA | $170K–$242K | 1d | [Apply](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Rose/Director--Equipment-Engineering-and-Maintenance_20261841) |
 | Marriott International ⭐ | Director of Engineering | Director | Peabody, MA, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26152420) |
 | Marriott International ⭐ | Assistant Director of Engineering | Director | Philadelphia, PA, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26152550) |

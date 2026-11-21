@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,183 open roles** at **1,971 companies** · **212 new in the last 24 hours** · 6,131 company career sites watched · updated hourly · last update Nov 20, 2026 09:57 PM ET
+**5,183 open roles** at **1,971 companies** · **210 new in the last 24 hours** · 6,131 company career sites watched · updated hourly · last update Nov 20, 2026 10:59 PM ET
 
 By level: Director 2761 · VP 892 · Sr. Director 683 · Head 317 · C-level 188 · EVP/SVP 156 · ED 129 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2761 · VP 892 · Sr. Director 683 · Head 317 · C-level 188
 
 ## Contents
 
-- [🆕 New in the last 24 hours (212)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (210)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (197)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (356)](#security-risk-technology)
@@ -251,14 +251,12 @@ By level: Director 2761 · VP 892 · Sr. Director 683 · Head 317 · C-level 188
 | Healthcare Services Group (HSG) | 🆕 Director of IT | Director | Jefferson City, MO, USA |  | 2d | [Apply](https://www.indeed.com/viewjob?jk=3891984a2bd09fcd) |
 | ORBIS SE | 🆕 Technical Director, FMS / International Programs | Director | McLean, VA, USA |  | 2d | [Apply](https://grnh.se/aikob9j09us) |
 | Prime Therapeutics | 🆕 Finance Transformation Solutions Vice President - REMOTE | VP | Home |  | 2d | [Apply](https://primetherapeutics.wd1.myworkdayjobs.com/en-US/PrimeTherapeuticsCareers/job/Home/Finance-Transformation-Solutions-Vice-President---REMOTE_R-17589) |
-| AssetMark | 🆕 Director, Software Architecture | Director | Charlotte, NC |  | 2d | [Apply](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Director--Software-Architecture_Req-004061-1) |
 | Insmed Incorporated | 🆕 Director, Commercial Data Innovation & AI Strategy | Director | NJ Corporate Headquarters · Remote |  | 3d | [Apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/NJ-Corporate-Headquarters/Director--Data-Innovation---Strategy_R3610) |
 | AT&T | 🆕 Director, Technology - Enterprise Architecture | Director | USA:TX:Dallas / Three AT&T Plaza (308 S Ak +3 · Remote |  | 3d | [Apply](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXDallas--Three-ATT-Plaza-308-S-Akard-St---Co308-S-Akard-St/Director--Technology---Enterprise-Architecture_R-128103-2) |
 | Citi ⭐ | 🆕 Engineering Experience & Infrastructure CI/CD - Director | Director | Irving Texas United States |  | 3d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Engineering-Experience---Infrastructure-CI-CD---Director_261010714) |
 | Stanley Black & Decker | 🆕 Sr Director, Systems Engineering & Processes - Americas & EMEA | Sr. Director | Towson, MD, United States |  | 3d | [Apply](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Director--Systems-Engineering---Processes---Americas---EMEA_REQ-1000052148) |
 | Family Health International | 🆕 TECHNICAL DIRECTOR, Central Level Support GHS Mozambique | Director | Maputo, Mozambique |  | 3d | [Apply](https://fhi.wd1.myworkdayjobs.com/en-US/FHI_360_External_Career_Portal/job/Maputo-Mozambique/TECHNICAL-DIRECTOR--Central-Level-Support-GHS-Mozambique_Requisition-2026201701) |
 | Maxar | 🆕 Director of AI Engineering & Enablement | Director | 2 Locations |  | 3d | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
-| Abbott ⭐ | 🆕 Director of Platform Engineering and Reliability | Director | United States - Illinois - Waukegan |  | 3d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Waukegan/Director-of-Platform-Engineering-and-Reliability_31167997) |
 
 <a name="houston-area"></a>
 
@@ -1218,7 +1216,7 @@ _999 older roles in this section are in data/roles.json on the `data` branch._
 | Information Technology Senior Management Forum | Director of Platform Engineering and Reliability | Director | Waukegan, IL, USA | $149K–$299K | 2d | [Apply](https://jobs.itsmfleaders.org/job/9f7c5u/director-of-platform-engineering-and-reliability/waukegan/il) |
 | Aero Simulation, Inc. (ASI) | DIRECTOR OF PRODUCTION | Director | Tampa, FL, USA |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676509/Aero-Simulation-Inc-ASI/DIRECTOR-OF-PRODUCTION?source=Indeed_Feed) |
 | Family Health International | 🆕 TECHNICAL DIRECTOR, Central Level Support GHS Mozambique | Director | Maputo, Mozambique |  | 3d | [Apply](https://fhi.wd1.myworkdayjobs.com/en-US/FHI_360_External_Career_Portal/job/Maputo-Mozambique/TECHNICAL-DIRECTOR--Central-Level-Support-GHS-Mozambique_Requisition-2026201701) |
-| Abbott ⭐ | 🆕 Director of Platform Engineering and Reliability | Director | United States - Illinois - Waukegan |  | 3d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Waukegan/Director-of-Platform-Engineering-and-Reliability_31167997) |
+| Abbott ⭐ | Director of Platform Engineering and Reliability | Director | United States - Illinois - Waukegan |  | 3d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Waukegan/Director-of-Platform-Engineering-and-Reliability_31167997) |
 | QUO | Director, Technical Support (Tier 3) | Director | Remote - United States & Canada | $155K–$385K | 3d | [Apply](https://jobs.ashbyhq.com/quo/c6343e67-f8fa-4cbc-bdb6-9299e22cac5b) ⚡ [alt](https://jobs.ashbyhq.com/quo/c6343e67-f8fa-4cbc-bdb6-9299e22cac5b) |
 | WRCB Local 3 News | Director/Production Assistant | Director | Chattanooga, TN, USA |  | 3d | [Apply](https://apply.clearcompany.com/wrcb?jobId=bab28705-416e-da08-db74-bc76299183f6&source=JB-1014) |
 | Foundation Software, Inc. | Director of Software Support | Director | Strongsville, OH, USA |  | 3d | [Apply](https://foundationsoft.isolvedhire.com/jobs/1907601-30532.html) |
@@ -1724,7 +1722,7 @@ _212 older roles in this section are in data/roles.json on the `data` branch._
 | RealPage Inc | 🆕 Senior Director, Solutions Architecture (Institutional Client Solutions) | Sr. Director | Las Vegas, NV, USA | $141K–$239K | 1d | [Apply](https://careers-realpagepms.icims.com/jobs/14399/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Marriott Vacations Worldwide | Director, Salesforce Technical Architect | Director | MVW Headquarters |  | 1d | [Apply](https://mymvw.wd5.myworkdayjobs.com/en-US/MVW/job/MVW-Headquarters/Director--Salesforce-Technical-Architect_JR96041) |
 | State Street ⭐ | Application Development & Architecture, Vice President | VP | Quincy, Massachusetts |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Collateral-Management-Product-Owner-Sr-Business-Analyst--VP_R-791236) |
-| AssetMark | 🆕 Director, Software Architecture | Director | Charlotte, NC |  | 2d | [Apply](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Director--Software-Architecture_Req-004061-1) |
+| AssetMark | Director, Software Architecture | Director | Charlotte, NC |  | 2d | [Apply](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Director--Software-Architecture_Req-004061-1) |
 | Charles Schwab | Director, Principal Architect - Application Architecture | Director | Southlake, TX, USA | $206K–$249K | 2d | [Apply](https://www.schwabjobs.com/job/southlake/director-principal-architect-application-architecture/33727/103529305856) |
 | EPAM Systems | Senior Director, Business Solutions Architecture | Sr. Director | Newtown, PA, USA |  | 2d | [Apply](https://careers.epam.com/en/vacancy/blt5ce3f8g04e9zpfiw_en?city=Newtown&state=PA&country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) |
 | EPAM Systems | Senior Director, Business Solutions Architecture | Sr. Director | Remote, USA |  | 2d | [Apply](https://careers.epam.com/en/vacancy/blt5ce3f8g04e9zpfiw_en?country=USA&utm_source=indeed&utm_medium=xml-job-feed&utm_campaign=ta) |

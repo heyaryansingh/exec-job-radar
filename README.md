@@ -19,16 +19,16 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,217 open roles** at **1,992 companies** · **140 new in the last 24 hours** · 6,141 company career sites watched · updated hourly · last update Nov 21, 2026 02:24 PM ET
+**5,218 open roles** at **1,992 companies** · **128 new in the last 24 hours** · 6,141 company career sites watched · updated hourly · last update Nov 21, 2026 03:23 PM ET
 
-By level: Director 2785 · VP 897 · Sr. Director 685 · Head 319 · C-level 188 · EVP/SVP 156 · ED 129 · MD 58
+By level: Director 2785 · VP 897 · Sr. Director 686 · Head 319 · C-level 188 · EVP/SVP 156 · ED 129 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (140)](#new-in-the-last-24-hours)
-- [🤠 Houston area (197)](#houston-area)
+- [🆕 New in the last 24 hours (128)](#new-in-the-last-24-hours)
+- [🤠 Houston area (198)](#houston-area)
 - [👑 Executive Technology Leadership (197)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (356)](#security-risk-technology)
 - [🧠 Data & AI (1264)](#data-ai)
@@ -36,7 +36,7 @@ By level: Director 2785 · VP 897 · Sr. Director 685 · Head 319 · C-level 188
 - [☁️ Cloud & Infrastructure (464)](#cloud-infrastructure)
 - [🏛️ Architecture (156)](#architecture)
 - [🔄 Transformation & Delivery (651)](#transformation-delivery)
-- [🛠️ Engineering & Software (1390)](#engineering-software)
+- [🛠️ Engineering & Software (1391)](#engineering-software)
 - [📌 Other Senior Roles (368)](#other-senior-roles)
 - [🔒 Recently closed (745)](#recently-closed)
 - Daily digests: [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md)
@@ -47,6 +47,7 @@ By level: Director 2785 · VP 897 · Sr. Director 685 · Head 319 · C-level 188
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
 | Equinix ⭐ | 🆕 Global Managing Director, Platform Alliances | MD | 2 Locations |  | 0d | [Apply](https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/Global-Managing-Director--Platform-Alliances_JR-164796) |
 | BOH Holdings(Bank of Houston) | 🆕 VP of Digital Asset Strategy | VP | Remote, USA | $172K–$224K | 0d | [Apply](https://www.indeed.com/viewjob?jk=2f61b8f4acb01583) |
 | Information Technology Senior Management Forum | 🆕 Director, Technical Program Management | Director | McLean, VA, USA | $210K–$263K | 0d | [Apply](https://jobs.itsmfleaders.org/job/5qnu2r/director-technical-program-management/mclean/va) |
@@ -171,19 +172,6 @@ By level: Director 2785 · VP 897 · Sr. Director 685 · Head 319 · C-level 188
 | Nshe | 🆕 Director, Operations and Infrastructure in Stead, NV | Director | University of Nevada, Reno - Main Campus |  | 1d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Director--Operations-and-Infrastructure-in-Stead--NV_R0154337) |
 | USAA ⭐ | 🆕 Director, Digital/Technical Product Management | Director | San Antonio Home Office I +6 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Digital-Technical-Product-Management_R0122385) |
 | WWE | 🆕 Senior Director, Broadcast Engineering | Sr. Director | Remote/Road/Home Office |  | 1d | [Apply](https://wwecorp.wd5.myworkdayjobs.com/wwecorp/job/RemoteRoadHome-Office/Senior-Director--Broadcast-Engineering_R0008619-1) [alt](https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/RemoteRoadHome-Office/Senior-Director--Broadcast-Engineering_R0008619-1) |
-| Amazon ⭐ | 🆕 Director, Applied Science, Prime Video Personalization & Discovery | Director | Sunnyvale, California, USA |  | 1d | [Apply](https://www.amazon.jobs/en/jobs/10610568/director-applied-science-prime-video-personalization-discovery) |
-| The Cigna Group | 🆕 Director, Enterprise SOX IT Controls Modernization | Director | Bloomfield, Connecticut, United States of  |  | 1d | [Apply](https://jobs.thecignagroup.com/us/en/job/CIGNUS26014257EXTERNALENUS) |
-| AbbVie ⭐ | 🆕 Head of Process Engineering Peptides API | Head | North Chicago, IL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011122-head-of-process-engineering-peptides-api) ⚡ |
-| AbbVie ⭐ | 🆕 Head of Process Engineering Peptides API | Head | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011606-head-of-process-engineering-peptides-api) ⚡ |
-| AbbVie ⭐ | 🆕 Head of Process Engineering Peptides API | Head | Worcester, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011676-head-of-process-engineering-peptides-api) ⚡ |
-| AbbVie ⭐ | 🆕 Director, Process Engineering (North Carolina) | Director | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017012756-director-process-engineering-north-carolina-) ⚡ |
-| Harvard University | 🆕 Managing Director, IT Strategic Planning & Governance (req 3743990017011986) | MD | Boston, MA, us | $217K–$222K | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017011986-managing-director-it-strategic-planning-governance) ⚡ |
-| Harvard University | 🆕 Managing Director, Technology Strategy & IT Architecture (req 3743990017011996) | MD | Boston, MA, us | $217K–$222K | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017011996-managing-director-technology-strategy-it-architecture) ⚡ |
-| Harvard University | 🆕 Director, Data & Technology, Alumni Engagement and Development (req 3743990017012907) | Director | Boston, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017012907-director-data-technology-alumni-engagement-and-development) ⚡ |
-| SAP IT Business Systeme | 🆕 Head of Organic Search & AI Discovery | Head | Bellevue, WA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000162806420-head-of-organic-search-ai-discovery) ⚡ |
-| Cigna ⭐ | 🆕 Director, Enterprise SOX IT Controls Modernization | Director | 3 Locations |  | 1d | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Director--Enterprise-SOX-IT-Controls-Modernization_26014257) |
-| Fox Corporation | 🆕 Senior Director, AI Solutions | Sr. Director | Los Angeles, California, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Senior-Director--AI-Solutions_R50034346) |
-| Salesforce ⭐ | 🆕 Director, Product Management | Director | Washington - Bellevue +1 | $237K–$345K | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Director--Product-Management_JR367817) |
 | Becton Dickinson | 🆕 Director — Enterprise Program Management Office | Director | USA NJ - Franklin Lakes |  | 2d | [Apply](https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Director---Enterprise-Program-Management-Office_R-560063) |
 | JLL ⭐ | 🆕 Senior Technical Design Director, Workplace Interiors | Director | Chicago, IL |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Senior-Technical-Design-Director--Workplace-Interiors_REQ550144) |
 | JLL ⭐ | 🆕 Senior Director, Platform Engineering & Infrastructure | Sr. Director | Chicago, IL |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Head-of-Infrastructure-Development_REQ533994) |
@@ -196,6 +184,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
 | WSP | 🆕 Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 0d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
 | CoVolt | 🆕 Director of Business Transformation | Director | Houston, TX, USA |  | 0d | [Apply](https://recruiting.ultipro.com/SIG1007SGEN/JobBoard/1d63bc67-2233-4c90-b4e5-2ebdcffb3021/OpportunityDetail?opportunityId=908c9795-7fb4-494b-a302-bd3d47b0d312&postingId=ebd79b39-bec5-4191-9520-892fda52e717) |
 | Crescent Energy | 🆕 Director of Enterprise Services | Director | Houston, TX |  | 1d | [Apply](https://crescentenergyco.wd108.myworkdayjobs.com/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) [alt](https://crescentenergyco.wd108.myworkdayjobs.com/en-US/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) |
@@ -902,9 +891,9 @@ _106 older roles in this section are in data/roles.json on the `data` branch._
 | Asurion | 🆕 Director, Data Engineering | Director | Nashville, Tennessee, United States of Ame |  | 1d | [Apply](https://careers.asurion.com/us/en/job/ASRASRUSASU0021999EXTERNALENUS) |
 | AppCast | 🆕 Senior Director - AI Strategy & Enablement | Sr. Director | Denver, CO, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/StepStoneGroup/744000162810239-senior-director-ai-strategy-enablement) ⚡ [alt](https://jobs.smartrecruiters.com/StepStoneGroup/744000162808344-senior-director-ai-strategy-enablement) |
 | ServiceNow ⭐ | 🆕 Director, AI Platform Engineering | Director | West Palm Beach, Florida, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162813819-director-ai-platform-engineering) ⚡ |
-| Harvard University | 🆕 Director, Data & Technology, Alumni Engagement and Development (req 3743990017012907) | Director | Boston, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017012907-director-data-technology-alumni-engagement-and-development) ⚡ |
-| SAP IT Business Systeme | 🆕 Head of Organic Search & AI Discovery | Head | Bellevue, WA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000162806420-head-of-organic-search-ai-discovery) ⚡ |
-| Fox Corporation | 🆕 Senior Director, AI Solutions | Sr. Director | Los Angeles, California, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Senior-Director--AI-Solutions_R50034346) |
+| Harvard University | Director, Data & Technology, Alumni Engagement and Development (req 3743990017012907) | Director | Boston, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017012907-director-data-technology-alumni-engagement-and-development) ⚡ |
+| SAP IT Business Systeme | Head of Organic Search & AI Discovery | Head | Bellevue, WA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000162806420-head-of-organic-search-ai-discovery) ⚡ |
+| Fox Corporation | Senior Director, AI Solutions | Sr. Director | Los Angeles, California, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Senior-Director--AI-Solutions_R50034346) |
 | Fanatics | Senior Director, AI Deployment | Sr. Director | Los Angeles, CA, USA | $240K–$280K | 1d | [Apply](https://grnh.se/7kjn9c0g9us) |
 | Fanatics | Senior Director, AI Deployment | Sr. Director | New York, NY, USA | $240K–$280K | 1d | [Apply](https://grnh.se/7kjn9c0g9us) |
 | NEOMED | Director, AI Studio | Director | Rootstown, OH, USA |  | 1d | [Apply](https://neomed.peopleadmin.com/postings/7344) |
@@ -1642,7 +1631,7 @@ _214 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Homecare Homebase | 🆕 Vice President of Architecture | VP | Dallas, TX, USA |  | 0d | [Apply](https://careers.hearst.com/jobs/vice-president-of-architecture-dallas-tx-4513342009-jobs--technology--) |
 | Homecare Homebase | 🆕 Director, Solutions Architecture - Enterprise Architecture | Director | New York, NY, USA | $175K–$200K | 0d | [Apply](https://careers.hearst.com/jobs/director-solutions-architecture-enterprise-architecture-new-york-ny-50554-jobs--information-technology--) |
-| Harvard University | 🆕 Managing Director, Technology Strategy & IT Architecture (req 3743990017011996) | MD | Boston, MA, us | $217K–$222K | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017011996-managing-director-technology-strategy-it-architecture) ⚡ |
+| Harvard University | Managing Director, Technology Strategy & IT Architecture (req 3743990017011996) | MD | Boston, MA, us | $217K–$222K | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017011996-managing-director-technology-strategy-it-architecture) ⚡ |
 | Janney Montgomery Scott LLC | Head of Enterprise Architecture and Engineering | Head | Philadelphia, PA, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/janney/CANDIDATEPORTAL/jobs/8866) |
 | Samsung Semiconductor ⭐ | Vice President, Architecture Research Lab | VP | San Jose, California, United States | $350K–$500K | 1d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208431003) ⚡ |
 | BNY ⭐ | Director, Architecture Lead | Director | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83317) |
@@ -1821,8 +1810,8 @@ _214 older roles in this section are in data/roles.json on the `data` branch._
 | GE Vernova ⭐ | 🆕 Program Director Services Digital Technology | Director | 2 Locations |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Schenectady/Program-Director-Services-Digital-Technology_R5058895) |
 | Insmed Incorporated | 🆕 Senior Director, Program Management | Sr. Director | Research Development Lab - San Diego · Remote |  | 1d | [Apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/Research-Development-Lab---San-Diego/Senior-Director--Project-Program-Management--M-_R3777) |
 | USAA ⭐ | 🆕 Director, Digital/Technical Product Management | Director | San Antonio Home Office I +6 | $143K–$274K | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Digital-Technical-Product-Management_R0122385) |
-| The Cigna Group | 🆕 Director, Enterprise SOX IT Controls Modernization | Director | Bloomfield, Connecticut, United States of  |  | 1d | [Apply](https://jobs.thecignagroup.com/us/en/job/CIGNUS26014257EXTERNALENUS) |
-| Cigna ⭐ | 🆕 Director, Enterprise SOX IT Controls Modernization | Director | 3 Locations |  | 1d | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Director--Enterprise-SOX-IT-Controls-Modernization_26014257) |
+| The Cigna Group | Director, Enterprise SOX IT Controls Modernization | Director | Bloomfield, Connecticut, United States of  |  | 1d | [Apply](https://jobs.thecignagroup.com/us/en/job/CIGNUS26014257EXTERNALENUS) |
+| Cigna ⭐ | Director, Enterprise SOX IT Controls Modernization | Director | 3 Locations |  | 1d | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Director--Enterprise-SOX-IT-Controls-Modernization_26014257) |
 | ADI Global Distribution | Vice President, Enterprise Strategy & Transformation | VP | Dallas, TX, United States |  | 1d | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/19874) |
 | Expedia Group ⭐ | Director, Digital Creative | Director | USA - California - West Hollywood +1 |  | 1d | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Director--Digital-Creative_R-111279) |
 | American Express | Director-Digital Product Ops | Director | New York, NY, United States |  | 1d | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017021) |
@@ -2062,6 +2051,7 @@ _401 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
 | YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 0d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | American Credit Acceptance | 🆕 Sr. Director, Information Technology | Sr. Director | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504660-sr-director-information-technology?tm_job=612&tm_event=view&tm_company=94100) |
 | American Credit Acceptance | 🆕 VP, Information Technology | VP | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504772-vp-information-technology?tm_job=614&tm_event=view&tm_company=94100) |
@@ -2094,11 +2084,11 @@ _401 older roles in this section are in data/roles.json on the `data` branch._
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Peabody, MA, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26152420) |
 | Marriott International ⭐ | 🆕 Assistant Director of Engineering | Director | Philadelphia, PA, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26152550) |
 | WWE | 🆕 Senior Director, Broadcast Engineering | Sr. Director | Remote/Road/Home Office |  | 1d | [Apply](https://wwecorp.wd5.myworkdayjobs.com/wwecorp/job/RemoteRoadHome-Office/Senior-Director--Broadcast-Engineering_R0008619-1) [alt](https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/RemoteRoadHome-Office/Senior-Director--Broadcast-Engineering_R0008619-1) |
-| AbbVie ⭐ | 🆕 Head of Process Engineering Peptides API | Head | North Chicago, IL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011122-head-of-process-engineering-peptides-api) ⚡ |
-| AbbVie ⭐ | 🆕 Head of Process Engineering Peptides API | Head | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011606-head-of-process-engineering-peptides-api) ⚡ |
-| AbbVie ⭐ | 🆕 Head of Process Engineering Peptides API | Head | Worcester, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011676-head-of-process-engineering-peptides-api) ⚡ |
-| AbbVie ⭐ | 🆕 Director, Process Engineering (North Carolina) | Director | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017012756-director-process-engineering-north-carolina-) ⚡ |
-| Harvard University | 🆕 Managing Director, IT Strategic Planning & Governance (req 3743990017011986) | MD | Boston, MA, us | $217K–$222K | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017011986-managing-director-it-strategic-planning-governance) ⚡ |
+| AbbVie ⭐ | Head of Process Engineering Peptides API | Head | North Chicago, IL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011122-head-of-process-engineering-peptides-api) ⚡ |
+| AbbVie ⭐ | Head of Process Engineering Peptides API | Head | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011606-head-of-process-engineering-peptides-api) ⚡ |
+| AbbVie ⭐ | Head of Process Engineering Peptides API | Head | Worcester, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017011676-head-of-process-engineering-peptides-api) ⚡ |
+| AbbVie ⭐ | Director, Process Engineering (North Carolina) | Director | Durham, NC, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017012756-director-process-engineering-north-carolina-) ⚡ |
+| Harvard University | Managing Director, IT Strategic Planning & Governance (req 3743990017011986) | MD | Boston, MA, us | $217K–$222K | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017011986-managing-director-it-strategic-planning-governance) ⚡ |
 | Fidelity ⭐ | Director, Software Engineering | Director | 200 Seaport Blvd, Boston MA |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/200-Seaport-Blvd-Boston-MA/Director--Software-Engineering_2138272-1) |
 | Fidelity ⭐ | Director, Software Engineering (req 2138275) | Director | Westlake, TX |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Director--Software-Engineering_2138275) |
 | Marriott International ⭐ | Director of Engineering | Director | Dulles, VA, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26152077) |
@@ -2311,9 +2301,8 @@ _401 older roles in this section are in data/roles.json on the `data` branch._
 | TheMasonGroup | Director of Engineering | Director | Langhorne, PA, USA |  | 5d | [Apply](https://www.indeed.com/viewjob?jk=e25a1c3f4f58dabd) |
 | Amylyx Pharmaceuticals | Senior Director, CMC Technical Development | Sr. Director | Cambridge, MA | $247K–$278K | 5d | [Apply](https://job-boards.greenhouse.io/amylyx/jobs/6262702004) ⚡ |
 | dot.cards | Head of Engineering | Head | Los Angeles | $220K–$280K | 5d | [Apply](https://jobs.ashbyhq.com/dot-cards/31854fae-ead1-408a-a979-cc59f3113b26) ⚡ |
-| WSP | Vice President, Structural Engineering (Buildings) | VP | San Francisco, CA, United States | $175K–$200K | 5d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99331) |
 
-_1140 older roles in this section are in data/roles.json on the `data` branch._
+_1141 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2330,8 +2319,8 @@ _1140 older roles in this section are in data/roles.json on the `data` branch._
 | Amazon.com | 🆕 Director, Applied Science, Prime Video Personalization & Discovery | Director | Sunnyvale, CA, USA | $298K–$350K | 1d | [Apply](https://www.amazon.jobs/jobs/10610568/director-applied-science-prime-video-personalization--discovery-?cmpid=DA_INAD200785B) |
 | Flagship Pioneering, Inc. | 🆕 Director, Product Management | Director | Cambridge, MA USA | $192K–$253K | 1d | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8950522002?gh_jid=8950522002) ⚡ |
 | icapital | 🆕 Head of DevSecOps & External Integration - Senior Vice President | EVP/SVP | New York, New York, United States | $200K–$250K | 1d | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8868666002) ⚡ |
-| Amazon ⭐ | 🆕 Director, Applied Science, Prime Video Personalization & Discovery | Director | Sunnyvale, California, USA |  | 1d | [Apply](https://www.amazon.jobs/en/jobs/10610568/director-applied-science-prime-video-personalization-discovery) |
-| Salesforce ⭐ | 🆕 Director, Product Management | Director | Washington - Bellevue +1 | $237K–$345K | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Director--Product-Management_JR367817) |
+| Amazon ⭐ | Director, Applied Science, Prime Video Personalization & Discovery | Director | Sunnyvale, California, USA |  | 1d | [Apply](https://www.amazon.jobs/en/jobs/10610568/director-applied-science-prime-video-personalization-discovery) |
+| Salesforce ⭐ | Director, Product Management | Director | Washington - Bellevue +1 | $237K–$345K | 1d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Director--Product-Management_JR367817) |
 | Citi (jobs.citi.com) ⭐ | Product Developer, SVP, New York (Hybrid) | EVP/SVP | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/product-developer-svp-new-york-hybrid/287/103566071840) |
 | Smartsheet | Director, Finance Systems & ERP | Director | -REMOTE, USA- | $175K–$290K | 1d | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8406388) ⚡ |
 | Citi ⭐ | Product Developer, SVP, New York (Hybrid) | EVP/SVP | New York New York United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Product-Developer--SVP--New-York--Hybrid-_261011511) |

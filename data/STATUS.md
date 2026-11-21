@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-21T17:22:09+00:00 UTC, 389s
-- Companies working: 589 of 636
-- New roles last run: 0; roles in feed: 1469
-- Universe (all other known career sites): 5504 boards, 3791 checked in the last hour, 2 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Last run: 2026-11-21T18:06:54+00:00 UTC, 407s
+- Companies working: 592 of 636
+- New roles last run: 1; roles in feed: 1470
+- Universe (all other known career sites): 5504 boards, 3791 checked in the last hour, 3 errors; 0 employer names learned; 0 new employer sites found via job boards
 - Job boards and aggregators: {"senior titles from boards/aggregators": 0}
 - Companies with open roles: 1992
-- Skipped (backing off broken sites): 1753; ran out of time: 0
+- Skipped (backing off broken sites): 1751; ran out of time: 0
 
 ## Failing companies
 
@@ -15,7 +15,6 @@
 | Anyscale | 43 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anyscale?mode=json |
 | MetLife | 22 | 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/metlife?mode=json |
 | Seismic | 14 | 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/seismic-change.co |
-| Ovintiv | 10 | HTTP 429 for https://ovintiv.wd3.myworkdayjobs.com/wday/cxs/ovintiv/ovintivcareers/jobs |
 | athenahealth | 10 | HTTP 429 for https://athenahealth.wd1.myworkdayjobs.com/wday/cxs/athenahealth/External/jobs |
 | Cedar | 9 | 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/cedar?includeComp |
 | Fresenius Medical Care | 9 | HTTP 429 for https://freseniusmedicalcare.wd3.myworkdayjobs.com/wday/cxs/freseniusmedicalcare/fme/jo |
@@ -54,10 +53,8 @@
 | The Hartford | 6 | HTTP 429 for https://thehartford.wd5.myworkdayjobs.com/wday/cxs/thehartford/Careers_External/jobs |
 | Travelers | 6 | HTTP 429 for https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/External/jobs |
 | Wellington Management | 6 | HTTP 429 for https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs |
-| Accenture | 2 | HTTP 429 for https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs |
-| IQVIA | 1 | HTTP 429 for https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs |
-| Illumina | 1 | HTTP 429 for https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs |
-| LendingClub | 1 | HTTP 429 for https://lendingclub.wd1.myworkdayjobs.com/wday/cxs/lendingclub/External/jobs |
-| Santander | 1 | HTTP 429 for https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs |
+| LendingClub | 2 | 401 Client Error: Unauthorized for url: https://lendingclub.wd1.myworkdayjobs.com/wday/cxs/lendingcl |
+| Santander | 2 | HTTP 429 for https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs |
+| Shell | 1 | HTTP 429 for https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

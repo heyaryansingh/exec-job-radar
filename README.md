@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,207 open roles** at **1,987 companies** · **205 new in the last 24 hours** · 6,135 company career sites watched · updated hourly · last update Nov 21, 2026 04:51 AM ET
+**5,207 open roles** at **1,987 companies** · **204 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 05:45 AM ET
 
 By level: Director 2778 · VP 895 · Sr. Director 685 · Head 318 · C-level 189 · EVP/SVP 156 · ED 129 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2778 · VP 895 · Sr. Director 685 · Head 318 · C-level 189
 
 ## Contents
 
-- [🆕 New in the last 24 hours (205)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (204)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (356)](#security-risk-technology)
@@ -47,16 +47,16 @@ By level: Director 2778 · VP 895 · Sr. Director 685 · Head 318 · C-level 189
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| The Walt Disney Company | 🆕 Director, IT Audit | Director | Glendale, CA, USA | $215K–$278K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164057EXTERNALENGLOBAL/Director-IT-Audit?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
-| American Credit Acceptance | 🆕 VP, Information Technology | VP | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504772-vp-information-technology?tm_job=614&tm_event=view&tm_company=94100) |
 | American Credit Acceptance | 🆕 Sr. Director, Information Technology | Sr. Director | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504660-sr-director-information-technology?tm_job=612&tm_event=view&tm_company=94100) |
-| ATI Physical Therapy | 🆕 VP Enterprise Data Strategy | VP | Downers Grove, IL, USA | $225K–$275K | 0d | [Apply](https://careers-atipt.icims.com/jobs/32766/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta, GA, USA |  | 0d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
-| Medallia | 🆕 Head of Enterprise Data Platform & Engineering | Head | McLean, VA, USA · Remote | $156K–$255K | 0d | [Apply](https://jobs.medallia.com/jobs/6604/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Samsung Semiconductor Inc (US) | 🆕 Director, Data Center Market Intelligence | Director | San Jose, CA, USA | $210K–$336K | 0d | [Apply](https://grnh.se/cc8zdj1b3us) |
-| Rich Products | 🆕 Director, Commercial Digital Experience & Commerce | Director | Buffalo, NY, USA | $163K–$271K | 0d | [Apply](https://careers.rich.com/job/Buffalo-Director%2C-Commercial-Digital-Experience-&-Commerce-NY-14213/1452724000/) |
+| American Credit Acceptance | 🆕 VP, Information Technology | VP | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504772-vp-information-technology?tm_job=614&tm_event=view&tm_company=94100) |
 | Ashley Hall | 🆕 Chief Technology Officer | C-level | Charleston, SC, USA |  | 0d | [Apply](https://apply.appone.com:443/job/6b00a94f064b95265ec42261?utm_source=INDEED) |
+| ATI Physical Therapy | 🆕 VP Enterprise Data Strategy | VP | Downers Grove, IL, USA | $225K–$275K | 0d | [Apply](https://careers-atipt.icims.com/jobs/32766/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Kleinfelder | 🆕 Technical Director | Director | Redmond, WA, USA | $131K–$219K | 0d | [Apply](https://careers-kleinfelder.icims.com/jobs/11132/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Medallia | 🆕 Head of Enterprise Data Platform & Engineering | Head | McLean, VA, USA · Remote | $156K–$255K | 0d | [Apply](https://jobs.medallia.com/jobs/6604/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Rich Products | 🆕 Director, Commercial Digital Experience & Commerce | Director | Buffalo, NY, USA | $163K–$271K | 0d | [Apply](https://careers.rich.com/job/Buffalo-Director%2C-Commercial-Digital-Experience-&-Commerce-NY-14213/1452724000/) |
+| Samsung Semiconductor Inc (US) | 🆕 Director, Data Center Market Intelligence | Director | San Jose, CA, USA | $210K–$336K | 0d | [Apply](https://grnh.se/cc8zdj1b3us) |
+| The Walt Disney Company | 🆕 Director, IT Audit | Director | Glendale, CA, USA | $215K–$278K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164057EXTERNALENGLOBAL/Director-IT-Audit?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
+| Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta, GA, USA |  | 0d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
 | Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence Architecture | Director | OH, USA |  | 0d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS/System-Director-Artificial-Intelligence-Architecture?utm_source=indeed&utm_medium=phenom-feeds) |
 | Epsilon | 🆕 Director Infrastructure Partners Operations | Director | Chicago, IL, USA | $128K–$238K | 0d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | Denali Therapeutics | 🆕 Director, GxP Computer Systems Validation | Director | 2 Locations |  | 0d | [Apply](https://dnli.wd1.myworkdayjobs.com/en-US/Corporate_Positions/job/South-San-Francisco/Director--GxP-Computer-Systems-Validation_R-1747) |
@@ -246,7 +246,6 @@ By level: Director 2778 · VP 895 · Sr. Director 685 · Head 318 · C-level 189
 | Xcel Energy | 🆕 Director, Innovation & Transformation Delivery | Director | Minneapolis, MN, 55401 +1 |  | 2d | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Director--Innovation---Transformation-Delivery_JR117631-1) |
 | Gaig | 🆕 Claims Technical Director | Director | Cincinnati, OH (USA) +1 |  | 2d | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Director_R9875-1) |
 | University of Texas at Austin | 🆕 Assistant Director, Research Security, Office of Research Support and Compliance | Director | AUSTIN, TX |  | 2d | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Assistant-Director--Research-Security--Office-of-Research-Support-and-Compliance_R_00050097) |
-| University of Miami | 🆕 Director, Epic Applications (Laboratory Information Systems) | Director | Miami, FL |  | 2d | [Apply](https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Director--Epic-Applications--Laboratory-Information-Systems-_R100089184) |
 | JLL ⭐ | 🆕 Senior Director, Platform Engineering & Infrastructure | Sr. Director | Chicago, IL |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Head-of-Infrastructure-Development_REQ533994) |
 | Insmed Incorporated | 🆕 Director, Commercial Data Innovation & AI Strategy | Director | NJ Corporate Headquarters · Remote |  | 3d | [Apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/NJ-Corporate-Headquarters/Director--Data-Innovation---Strategy_R3610) |
 | AT&T | 🆕 Director, Technology - Enterprise Architecture | Director | USA:TX:Dallas / Three AT&T Plaza (308 S Ak +3 · Remote |  | 3d | [Apply](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXDallas--Three-ATT-Plaza-308-S-Akard-St---Co308-S-Akard-St/Director--Technology---Enterprise-Architecture_R-128103-2) |
@@ -930,9 +929,9 @@ _106 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | ATI Physical Therapy | 🆕 VP Enterprise Data Strategy | VP | Downers Grove, IL, USA | $225K–$275K | 0d | [Apply](https://careers-atipt.icims.com/jobs/32766/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta, GA, USA |  | 0d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
 | Medallia | 🆕 Head of Enterprise Data Platform & Engineering | Head | McLean, VA, USA · Remote | $156K–$255K | 0d | [Apply](https://jobs.medallia.com/jobs/6604/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Samsung Semiconductor Inc (US) | 🆕 Director, Data Center Market Intelligence | Director | San Jose, CA, USA | $210K–$336K | 0d | [Apply](https://grnh.se/cc8zdj1b3us) |
+| Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta, GA, USA |  | 0d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
 | Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence Architecture | Director | OH, USA |  | 0d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS/System-Director-Artificial-Intelligence-Architecture?utm_source=indeed&utm_medium=phenom-feeds) |
 | Strava | 🆕 Director, Privacy & AI Governance (DPO) | Director | Strava SF · Remote | $240K–$250K | 0d | [Apply](https://jobs.ashbyhq.com/Strava/4f7f1cbf-0692-495a-81e0-7d6a223a0c49) ⚡ |
 | Boehringer Ingelheim | 🆕 Director, Product & Digital Analytics | Director | Ridgefield, CT, USA |  | 0d | [Apply](https://jobs.boehringer-ingelheim.com/job-invite/39969/?locale=en_US) |
@@ -2128,10 +2127,10 @@ _397 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| The Walt Disney Company | 🆕 Director, IT Audit | Director | Glendale, CA, USA | $215K–$278K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164057EXTERNALENGLOBAL/Director-IT-Audit?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
-| American Credit Acceptance | 🆕 VP, Information Technology | VP | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504772-vp-information-technology?tm_job=614&tm_event=view&tm_company=94100) |
 | American Credit Acceptance | 🆕 Sr. Director, Information Technology | Sr. Director | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504660-sr-director-information-technology?tm_job=612&tm_event=view&tm_company=94100) |
+| American Credit Acceptance | 🆕 VP, Information Technology | VP | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504772-vp-information-technology?tm_job=614&tm_event=view&tm_company=94100) |
 | Kleinfelder | 🆕 Technical Director | Director | Redmond, WA, USA | $131K–$219K | 0d | [Apply](https://careers-kleinfelder.icims.com/jobs/11132/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| The Walt Disney Company | 🆕 Director, IT Audit | Director | Glendale, CA, USA | $215K–$278K | 0d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164057EXTERNALENGLOBAL/Director-IT-Audit?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
 | City of Gaithersburg | 🆕 Director of Information Technology Services | Director | Gaithersburg, MD, USA |  | 0d | [Apply](https://www.governmentjobs.com/careers/gaithersburgmd/jobs/5554147/director-of-information-technology-services) |
 | Thomas Construction Group LLC | 🆕 IT Director | Director | Wilmington, NC, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ba6cc833-331b-4bd3-8ad7-52e8dbc56394&ccId=19000101_000001&jobId=968848&source=IN&lang=en_US) |
 | Hillpointe | 🆕 Director of Engineering | Director | Winter Park, FL, USA |  | 0d | [Apply](https://grnh.se/hcqru0q48us) |
@@ -2194,7 +2193,7 @@ _397 older roles in this section are in data/roles.json on the `data` branch._
 | Moog, Inc | Engineering Director (m/w/d) Valves, Pumps & Hybrid | Director | Böblingen, DE |  | 1d | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Bblingen-DE/Engineering-Director--m-w-d--Valves--Pumps---Hybrid_R-26-21523) |
 | Hasbro, Inc. | 🆕 Senior Director, Finance Applications Development | Sr. Director | Boston, Massachusetts, United States | $282K–$451K | 2d | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4483285009) ⚡ [alt](https://job-boards.greenhouse.io/hasbro/jobs/4483285009) |
 | Gaig | 🆕 Claims Technical Director | Director | Cincinnati, OH (USA) +1 |  | 2d | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Director_R9875-1) |
-| University of Miami | 🆕 Director, Epic Applications (Laboratory Information Systems) | Director | Miami, FL |  | 2d | [Apply](https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Director--Epic-Applications--Laboratory-Information-Systems-_R100089184) |
+| University of Miami | Director, Epic Applications (Laboratory Information Systems) | Director | Miami, FL |  | 2d | [Apply](https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Director--Epic-Applications--Laboratory-Information-Systems-_R100089184) |
 | Fort Lewis College | Technical Director | Director | Fort Lewis College, Durango Colorado |  | 2d | [Apply](https://fortlewiscollege.wd1.myworkdayjobs.com/FLC/job/Fort-Lewis-College-Durango-Colorado/Technical-Director_JR2403) |
 | Anduril | Director of Repair Engineering | Director | Ashville, OH, USA | $190K–$252K | 2d | [Apply](https://grnh.se/nh1pk2317us) |
 | Clutter | Field Engineering Director | Director | Boston, MA, USA · Remote | $188K–$250K | 2d | [Apply](https://ironmountain.jobs/boston-ma/field-engineering-director/489F2D0DC3FE49198E03B18F0D3DF9FF/job/) |

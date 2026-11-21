@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,210 open roles** at **1,988 companies** · **202 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 07:35 AM ET
+**5,209 open roles** at **1,987 companies** · **202 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 08:34 AM ET
 
-By level: Director 2780 · VP 896 · Sr. Director 685 · Head 318 · C-level 189 · EVP/SVP 156 · ED 129 · MD 57
+By level: Director 2780 · VP 896 · Sr. Director 684 · Head 318 · C-level 189 · EVP/SVP 156 · ED 129 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -32,13 +32,13 @@ By level: Director 2780 · VP 896 · Sr. Director 685 · Head 318 · C-level 189
 - [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (356)](#security-risk-technology)
 - [🧠 Data & AI (1263)](#data-ai)
-- [🚦 Reliability & Operations (371)](#reliability-operations)
+- [🚦 Reliability & Operations (370)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (463)](#cloud-infrastructure)
 - [🏛️ Architecture (156)](#architecture)
 - [🔄 Transformation & Delivery (648)](#transformation-delivery)
 - [🛠️ Engineering & Software (1388)](#engineering-software)
 - [📌 Other Senior Roles (367)](#other-senior-roles)
-- [🔒 Recently closed (744)](#recently-closed)
+- [🔒 Recently closed (745)](#recently-closed)
 - Daily digests: [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -1436,7 +1436,7 @@ _1013 older roles in this section are in data/roles.json on the `data` branch._
 | Walmart | (USA) Senior Director, Technology Operations | Sr. Director | Bentonville, AR, USA | $130K–$260K | 25d | [Apply](https://click.appcast.io/t/7K4ihA23He8ivDf3R9GhvE0egt6UtEuEs3eKymnWM_s=) |
 | Cytiva | Director, Technical Operations & Asset Reliability | Director | Muskegon, MI, USA |  | 26d | [Apply](https://jobs.danaher.com/global/en/job/DANAGLOBALR1318682EXTERNALENGLOBAL/Director-Technical-Operations-Asset-Reliability?utm_source=indeed&utm_medium=phenom-feeds) |
 
-_121 older roles in this section are in data/roles.json on the `data` branch._
+_120 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -2645,6 +2645,7 @@ _117 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| OutSystems | 🔒 Senior Director, Web Strategy and Operations | Sr. Director | US - Remote |  | 29d | Closed [alt](https://outsystems.wd503.myworkdayjobs.com/en-US/OutSystems/job/US---Remote/Senior-Director--Web-Strategy-and-Operations_R1821) |
 | Diamond Foundry | 🔒 Application Engineering Director | Director | Bay Area, California | $180K–$270K | 24d | Closed |
 | American Express | 🔒 Director-UX Researcher | Director | New York, NY, United States |  | 3d | Closed |
 | Pure Storage | 🔒 Director of Product Management, Security | Director | Santa Clara, California | $239K–$359K | 23d | Closed |
@@ -2944,7 +2945,6 @@ _117 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🔒 .NET Full Stack Developer with Angular, Vice President | VP | Jersey City, NJ, US |  | 33d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 Wealth Investments Supervisory Technology Application Development Lead, Senior Vice President | EVP/SVP | Jersey City, NJ, US |  | 33d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 Senior Java Developer - Vice President | VP | Mississauga, ON, CA |  | 33d | Closed [alt](https://jobs.citi.com/job/mississauga/senior-java-developer-vice-president/287/102161046720) |
-| Citi (jobs.citi.com) ⭐ | 🔒 Agentic AI Engineering Lead — Enterprise Agent Orchestration - SVP | EVP/SVP | Tampa, FL, US +1 |  | 33d | Closed |
 
 </details>
 

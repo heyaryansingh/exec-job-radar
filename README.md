@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,212 open roles** at **1,990 companies** · **200 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 09:34 AM ET
+**5,212 open roles** at **1,990 companies** · **193 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 10:33 AM ET
 
 By level: Director 2783 · VP 896 · Sr. Director 684 · Head 318 · C-level 189 · EVP/SVP 156 · ED 129 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2783 · VP 896 · Sr. Director 684 · Head 318 · C-level 189
 
 ## Contents
 
-- [🆕 New in the last 24 hours (200)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (193)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (356)](#security-risk-technology)
@@ -48,8 +48,8 @@ By level: Director 2783 · VP 896 · Sr. Director 684 · Head 318 · C-level 189
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Takeda Pharmaceuticals | 🆕 Director, Central Laboratory Operations | Director | Boston, MA, USA | $177K–$278K | 0d | [Apply](https://www.takedajobs.com/job/-/-/1113/103584938128) |
-| YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 0d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | TECHNIQUE | 🆕 Director of Program Management | Director | Jackson, MI, USA · Remote |  | 0d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b0a7f1d-fe2d-4bae-8e09-f05413d1a8e3&ccId=69793913_3&jobId=16485&jwId=69793913_1&source=IN&lang=en_US) |
+| YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 0d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | American Credit Acceptance | 🆕 Sr. Director, Information Technology | Sr. Director | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504660-sr-director-information-technology?tm_job=612&tm_event=view&tm_company=94100) |
 | American Credit Acceptance | 🆕 VP, Information Technology | VP | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504772-vp-information-technology?tm_job=614&tm_event=view&tm_company=94100) |
 | Ashley Hall | 🆕 Chief Technology Officer | C-level | Charleston, SC, USA |  | 0d | [Apply](https://apply.appone.com:443/job/6b00a94f064b95265ec42261?utm_source=INDEED) |
@@ -235,13 +235,6 @@ By level: Director 2783 · VP 896 · Sr. Director 684 · Head 318 · C-level 189
 | Fidelity ⭐ | 🆕 Director, Engineering - Core Custody | Director | Boston, MA |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Director--Engineering---Core-Custody_2138340) |
 | Southland Industries | 🆕 Director of Innovation | Director | Dallas, TX |  | 1d | [Apply](https://southland.wd504.myworkdayjobs.com/External/job/Dallas-TX/Director-of-Innovation_R-1005964) |
 | Western Alliance Bank | 🆕 Director, Data Security Governance - Cyber | Director | Phoenix, AZ +1 |  | 1d | [Apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Director--Data-Security-Governance---Cyber_R14267) |
-| Accordion | 🆕 Director of Data Science & Strategy | Director | Atlanta +7 | $170K–$240K | 1d | [Apply](https://job-boards.greenhouse.io/accordion/jobs/8406041) ⚡ |
-| Citi (jobs.citi.com) ⭐ | 🆕 Java Applications Development - Vice President | VP | Chennai, TN, IN |  | 1d | [Apply](https://jobs.citi.com/job/chennai/java-applications-development-vice-president/287/103558254448) |
-| AECOM | 🆕 Deputy Planning and Engineering Director | Director | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162751890-deputy-planning-and-engineering-director) ⚡ |
-| AECOM | 🆕 Assistant Director of Civil Infrastructure | Director | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162752130-assistant-director-of-civil-infrastructure) ⚡ |
-| AECOM | 🆕 VP, Program Management – Engineering Services | VP | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162753852-vp-program-management-engineering-services) ⚡ |
-| AECOM | 🆕 AI Advisory Director – Technology Strategy Lead | Director | Dallas, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162756088-ai-advisory-director-technology-strategy-lead) ⚡ |
-| 3m | 🆕 Senior Director RGM Transformation (Pricing and Price Pack Architecture) | Sr. Director | US, Minnesota, Maplewood |  | 1d | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Senior-Director-RGM-Transformation--Pricing-and-Price-Pack-Architecture-_R01174353) |
 | Becton Dickinson | 🆕 Director — Enterprise Program Management Office | Director | USA NJ - Franklin Lakes |  | 2d | [Apply](https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Director---Enterprise-Program-Management-Office_R-560063) |
 | JLL ⭐ | 🆕 Senior Director, Platform Engineering & Infrastructure | Sr. Director | Chicago, IL |  | 3d | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Head-of-Infrastructure-Development_REQ533994) |
 | Insmed Incorporated | 🆕 Director, Commercial Data Innovation & AI Strategy | Director | NJ Corporate Headquarters · Remote |  | 3d | [Apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/NJ-Corporate-Headquarters/Director--Data-Innovation---Strategy_R3610) |
@@ -978,8 +971,8 @@ _106 older roles in this section are in data/roles.json on the `data` branch._
 | City and County of San Francisco | 🆕 Power BI and City Data Project IT Director, MADI (1070-Technology Product Director)–DPH-166752 | Director | San Francisco, CA, us | $171K–$215K | 1d | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016999377-power-bi-and-city-data-project-it-director-madi-1070-technology-product-director-dph-166752) ⚡ |
 | Citi ⭐ | 🆕 Senior Principal AI Engineer - Senior Vice President | EVP/SVP | Tampa Florida United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Senior-Principal-AI-Engineer---Senior-Vice-President_261009533) |
 | Google | 🆕 Head of CX AI and Knowledge, gTech Ads | Head | Boulder, CO, USA | $224K–$311K | 1d | [Apply](https://careers.google.com/jobs/results/75956932891812550-head-of-cx-ai-and-knowledge/) |
-| Accordion | 🆕 Director of Data Science & Strategy | Director | Atlanta +7 | $170K–$240K | 1d | [Apply](https://job-boards.greenhouse.io/accordion/jobs/8406041) ⚡ |
-| AECOM | 🆕 AI Advisory Director – Technology Strategy Lead | Director | Dallas, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162756088-ai-advisory-director-technology-strategy-lead) ⚡ |
+| Accordion | Director of Data Science & Strategy | Director | Atlanta +7 | $170K–$240K | 1d | [Apply](https://job-boards.greenhouse.io/accordion/jobs/8406041) ⚡ |
+| AECOM | AI Advisory Director – Technology Strategy Lead | Director | Dallas, TX, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162756088-ai-advisory-director-technology-strategy-lead) ⚡ |
 | Lenovo | Executive Director, Large Complex AI Deals COE | ED | Morrisville, NC, USA |  | 1d | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Executive-Director-Large-Complex-AI-Deals-COE/84274) |
 | Revolution Medicines | Executive Director, Global Data and Analytics | ED | Remote, USA | $252K–$315K | 1d | [Apply](https://www.revmed.com/careers-list/?gh_jid=8209410003) |
 | Aspire Public Schools | Senior Director, AI, Data & Systems Engineering | Sr. Director | Oakland, CA, USA | $168K–$216K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=o1O7Afwg&s=Indeed) |
@@ -1451,7 +1444,7 @@ _121 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 Product Delivery Director - Compute Infrastructure | Director | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811050) |
 | Veracross | 🆕 VP of Product, Platform Architecture | VP | Wakefield, MA, USA · Remote | $200K–$225K | 1d | [Apply](https://apply.workable.com/j/79BE227BD7) |
 | ACI Worldwide | 🆕 Head of Cloud Platform Engineering | Head | United States |  | 1d | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20443) |
-| AECOM | 🆕 Assistant Director of Civil Infrastructure | Director | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162752130-assistant-director-of-civil-infrastructure) ⚡ |
+| AECOM | Assistant Director of Civil Infrastructure | Director | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162752130-assistant-director-of-civil-infrastructure) ⚡ |
 | SCA Health | Vice President, Platform & Engineering | VP | USA | $225K–$275K | 1d | [Apply](https://careers.sca.health/jobs/50969/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | BNY ⭐ | Vice President, Infrastructure Solution Engineer | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/84217) |
 | PCI Pharma Services | Executive Director, IT Infrastructure & Network Engineering | ED | Rockford, IL, USA |  | 1d | [Apply](https://pciservices.wd1.myworkdayjobs.com/en-US/External/job/Rockford-IL-USA/Executive-Director--IT-Infrastructure---Network-Engineering_JR120743) |
@@ -1707,7 +1700,7 @@ _213 older roles in this section are in data/roles.json on the `data` branch._
 | Janney Montgomery Scott LLC | 🆕 Head of Enterprise Architecture and Engineering | Head | Philadelphia, PA, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/janney/CANDIDATEPORTAL/jobs/8866) |
 | Samsung Semiconductor ⭐ | 🆕 Vice President, Architecture Research Lab | VP | San Jose, California, United States | $350K–$500K | 1d | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208431003) ⚡ |
 | BNY ⭐ | 🆕 Director, Architecture Lead | Director | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83317) |
-| 3m | 🆕 Senior Director RGM Transformation (Pricing and Price Pack Architecture) | Sr. Director | US, Minnesota, Maplewood |  | 1d | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Senior-Director-RGM-Transformation--Pricing-and-Price-Pack-Architecture-_R01174353) |
+| 3m | Senior Director RGM Transformation (Pricing and Price Pack Architecture) | Sr. Director | US, Minnesota, Maplewood |  | 1d | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Senior-Director-RGM-Transformation--Pricing-and-Price-Pack-Architecture-_R01174353) |
 | TECHNOLOGY & INNOVATION | Senior Director, Solutions Architecture | Sr. Director | Brooklyn, NY, USA | $84K–$215K | 1d | [Apply](https://cityjobs.nyc.gov/job/senior-director-solutions-architecture-in-brooklyn-jid-49397) |
 | Mile Two | Director of Solutions Architecture | Director | Dayton, OH, USA · Remote |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678869/Mile-Two-LLC/Director-of-Solutions-Architecture?source=Indeed_Feed) |
 | RealPage Inc | Senior Director, Solutions Architecture (Institutional Client Solutions) | Sr. Director | Las Vegas, NV, USA | $141K–$239K | 1d | [Apply](https://careers-realpagepms.icims.com/jobs/14399/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -1890,7 +1883,7 @@ _213 older roles in this section are in data/roles.json on the `data` branch._
 | US DHS Headquarters | 🆕 Executive Director, Mission Delivery Directorate (XD, MDD) | ED | Springfield, VA, USA | $152K–$228K | 1d | [Apply](https://www.usajobs.gov:443/job/893714100) |
 | AbbVie ⭐ | 🆕 Director, Program Management (North Chicago) | Director | North Chicago, IL, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016997446-director-program-management-north-chicago-) ⚡ |
 | Capital One ⭐ | 🆕 Director, Technical Program Management (req R1006300) | Director | McLean, VA +2 | $230K–$263K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Technical-Program-Management_R1006300-1) |
-| AECOM | 🆕 VP, Program Management – Engineering Services | VP | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162753852-vp-program-management-engineering-services) ⚡ |
+| AECOM | VP, Program Management – Engineering Services | VP | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162753852-vp-program-management-engineering-services) ⚡ |
 | 3m | Senior Director, Commercial Transformation | Sr. Director | US, Minnesota, Maplewood | $287K–$351K | 1d | [Apply](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Senior-Director--Commercial-Transformation_R01174354) |
 | Citi (jobs.citi.com) ⭐ | SVP - Program Management | EVP/SVP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/svp-program-management/287/99017429648) |
 | Cotiviti | SVP Transformation Execution and Delivery | EVP/SVP | Remote, USA | $265K–$305K | 1d | [Apply](https://careers-cotiviti.icims.com/jobs/23293/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -2172,8 +2165,8 @@ _399 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 VP Senior Java Software Engineer - Prime Brokerage Technology | VP | Tampa, FL, US |  | 1d | [Apply](https://jobs.citi.com/job/tampa/vp-senior-java-software-engineer-prime-brokerage-technology/287/103559449312) |
 | Credit Acceptance | 🆕 Senior Director, Organizational Engineering | Sr. Director | Washington - Bellevue - Hybrid |  | 1d | [Apply](https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Washington---Bellevue---Hybrid/Senior-Director--Organizational-Engineering_R14220-1) |
 | Fidelity ⭐ | 🆕 Director, Engineering - Core Custody | Director | Boston, MA |  | 1d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Director--Engineering---Core-Custody_2138340) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Java Applications Development - Vice President | VP | Chennai, TN, IN |  | 1d | [Apply](https://jobs.citi.com/job/chennai/java-applications-development-vice-president/287/103558254448) |
-| AECOM | 🆕 Deputy Planning and Engineering Director | Director | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162751890-deputy-planning-and-engineering-director) ⚡ |
+| Citi (jobs.citi.com) ⭐ | Java Applications Development - Vice President | VP | Chennai, TN, IN |  | 1d | [Apply](https://jobs.citi.com/job/chennai/java-applications-development-vice-president/287/103558254448) |
+| AECOM | Deputy Planning and Engineering Director | Director | Sacramento, CA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162751890-deputy-planning-and-engineering-director) ⚡ |
 | IRC Trane Technologies Company LLC | Vice President Engineering & Technology Thermo King Americas | VP | Bloomington, Minnesota |  | 1d | [Apply](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Bloomington-Minnesota/Vice-President-Engineering---Technology-Thermo-King-Americas_JR-19890-2) |
 | SSM Industries | IT Director | Director | Pittsburgh, PA, USA |  | 1d | [Apply](https://ssmindustries.applytojob.com/apply/MzNcMJDW2X/IT-Director?source=INDE&~) |
 | Sunny Glen Children's Home | Director of IT | Director | Harlingen, TX, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/88C7A69993EB079FE4543F868544316F/jobs/554002?source=Indeed) |

@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,223 open roles** at **1,993 companies** · **96 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 06:16 PM ET
+**5,225 open roles** at **1,994 companies** · **98 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 06:31 PM ET
 
-By level: Director 2786 · VP 901 · Sr. Director 686 · Head 319 · C-level 188 · EVP/SVP 156 · ED 129 · MD 58
+By level: Director 2788 · VP 901 · Sr. Director 686 · Head 319 · C-level 188 · EVP/SVP 156 · ED 129 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (96)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (98)](#new-in-the-last-24-hours)
 - [🤠 Houston area (198)](#houston-area)
 - [👑 Executive Technology Leadership (197)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (357)](#security-risk-technology)
-- [🧠 Data & AI (1267)](#data-ai)
+- [🧠 Data & AI (1268)](#data-ai)
 - [🚦 Reliability & Operations (371)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (464)](#cloud-infrastructure)
 - [🏛️ Architecture (156)](#architecture)
 - [🔄 Transformation & Delivery (651)](#transformation-delivery)
 - [🛠️ Engineering & Software (1392)](#engineering-software)
-- [📌 Other Senior Roles (368)](#other-senior-roles)
+- [📌 Other Senior Roles (369)](#other-senior-roles)
 - [🔒 Recently closed (745)](#recently-closed)
 - Daily digests: [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md) · [11-15](data/daily/2026-11-15.md)
 
@@ -47,6 +47,8 @@ By level: Director 2786 · VP 901 · Sr. Director 686 · Head 319 · C-level 188
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CommonSpirit Health | 🆕 System Director Formation Innovative Technology-Analytics | Director | Chicago, IL, USA | $159K–$236K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-507667&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580615072%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bf2dc-e5b8-11f1-95fc-538a645bec45%26rx_job%3D2026-507667%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T220411Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed) |
+| Imprivata | 🆕 Director, Salesforce & Revenue Systems | Director | Waltham, MA, USA | $207K–$218K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oAg8Afwi&s=Indeed) |
 | Layne's Chicken Fingers | 🆕 Director of Information Technology | Director | Frisco, TX, USA |  | 0d | [Apply](https://layne-s-chicken-fingers.r365hire.com/j/037m1fj) |
 | Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 0d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
 | Equinix ⭐ | 🆕 Global Managing Director, Platform Alliances | MD | 2 Locations |  | 0d | [Apply](https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/Global-Managing-Director--Platform-Alliances_JR-164796) |
@@ -820,6 +822,7 @@ _107 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CommonSpirit Health | 🆕 System Director Formation Innovative Technology-Analytics | Director | Chicago, IL, USA | $159K–$236K | 0d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-507667&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580615072%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bf2dc-e5b8-11f1-95fc-538a645bec45%26rx_job%3D2026-507667%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T220411Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed) |
 | Sandoz | 🆕 Head of AI Strategy & Transformation (Director Level) | Head | Princeton, NJ, USA | $176K–$328K | 0d | [Apply](https://www.sandoz.com/careers/career-search/job-details/516935/head-ai-strategy-transformation-director-level%20/) |
 | ATI Physical Therapy | 🆕 VP Enterprise Data Strategy | VP | Downers Grove, IL, USA | $225K–$275K | 0d | [Apply](https://careers-atipt.icims.com/jobs/32766/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Medallia | 🆕 Head of Enterprise Data Platform & Engineering | Head | McLean, VA, USA · Remote | $156K–$255K | 0d | [Apply](https://jobs.medallia.com/jobs/6604/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -1069,9 +1072,8 @@ _107 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | Vice President, Agentic Product Delivery & AI Tooling | VP | New York, NY, United States |  | 8d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808582) |
 | Capital One ⭐ | Director, Machine Learning Engineer | Director | San Jose, CA +3 | $294K–$335K | 8d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Director--Machine-Learning-Engineer_R1004808-1) |
 | Phillips 66 | Senior Director, VCO/Plan AI Platform Strategy & Integration | Sr. Director | Houston, TX, USA | $173K–$315K | 8d | [Apply](https://careers.phillips66.com/job/Houston-Senior-Director%2C-VCOPlan-AI-Platform-Strategy-&-Integration-TX-77042/1450325300/) |
-| PwC | Deal Data Technology & Analytics, Director | Director | Silicon Valley, CA, USA | $155K–$410K | 8d | [Apply](https://jobs-us.pwc.com/us/en/job/739097WD/Deal-Data-Technology-Analytics-Director) |
 
-_1017 older roles in this section are in data/roles.json on the `data` branch._
+_1018 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2278,6 +2280,7 @@ _1142 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Imprivata | 🆕 Director, Salesforce & Revenue Systems | Director | Waltham, MA, USA | $207K–$218K | 0d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oAg8Afwi&s=Indeed) |
 | Denali Therapeutics | 🆕 Director, GxP Computer Systems Validation | Director | 2 Locations |  | 0d | [Apply](https://dnli.wd1.myworkdayjobs.com/en-US/Corporate_Positions/job/South-San-Francisco/Director--GxP-Computer-Systems-Validation_R-1747) |
 | Denali Therapeutics | 🆕 Director, GxP Computer Systems Validation | Director | South San Francisco, CA, USA |  | 0d | [Apply](https://dnli.wd1.myworkdayjobs.com/Corporate_Positions/job/South-San-Francisco/Director--GxP-Computer-Systems-Validation_R-1747) |
 | Information Technology Senior Management Forum | 🆕 Senior Director, Full-stack Engineer | Sr. Director | Plano, TX, USA | $286K–$327K | 0d | [Apply](https://jobs.itsmfleaders.org/job/t2jlbc/senior-director-full-stack-engineer/plano/tx) |
@@ -2527,9 +2530,8 @@ _1142 older roles in this section are in data/roles.json on the `data` branch._
 | Aurora Solar | Director, Business Systems | Director | United States · Remote | $165K–$268K | 29d | [Apply](https://jobs.ashbyhq.com/aurorasolar/dfd4da2f-e07a-48d4-8bbf-7ee76cc42b60) ⚡ |
 | Citi (jobs.citi.com) ⭐ | Java Developer - Vice President | VP | Pune, MH, IN |  | 29d | [Apply](https://jobs.citi.com/job/pune/java-developer-vice-president/287/102333946336) |
 | Slate Auto | Director of Cybersecurity | Director | Remote WA |  | 29d | [Apply](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Remote-WA/Lead--System-Security_JR101492) |
-| Crux AI | Head of ERP & Finance Systems | Head | Palo Alto · Remote |  | 29d | [Apply](https://jobs.ashbyhq.com/crux/f5e8e48e-d1b8-491c-8a82-6a1c8f6ff2b2) ⚡ |
 
-_118 older roles in this section are in data/roles.json on the `data` branch._
+_119 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

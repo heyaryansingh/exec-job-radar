@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,166 open roles** at **1,971 companies** · **13 new in the last 24 hours** · 6,142 company career sites watched · updated hourly · last update Nov 22, 2026 01:39 PM ET
+**5,166 open roles** at **1,971 companies** · **12 new in the last 24 hours** · 6,142 company career sites watched · updated hourly · last update Nov 22, 2026 02:38 PM ET
 
 By level: Director 2763 · VP 884 · Sr. Director 678 · Head 319 · C-level 184 · EVP/SVP 154 · ED 127 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2763 · VP 884 · Sr. Director 678 · Head 319 · C-level 184
 
 ## Contents
 
-- [🆕 New in the last 24 hours (13)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (12)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -57,7 +57,6 @@ By level: Director 2763 · VP 884 · Sr. Director 678 · Head 319 · C-level 184
 | Imprivata | 🆕 Director, Salesforce & Revenue Systems | Director | Waltham, MA, USA | $207K–$218K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oAg8Afwi&s=Indeed) |
 | Layne's Chicken Fingers | 🆕 Director of Information Technology | Director | Frisco, TX, USA |  | 1d | [Apply](https://layne-s-chicken-fingers.r365hire.com/j/037m1fj) |
 | Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
-| Equinix ⭐ | 🆕 Global Managing Director, Platform Alliances | MD | 2 Locations |  | 1d | [Apply](https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/Global-Managing-Director--Platform-Alliances_JR-164796) |
 | Samsung Electronics | 🆕 Head of Strategy, Digital Health | Head | 645 Clyde Avenue, Mountain View, CA, USA |  | 2d | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Head-of-Strategy--Digital-Health_R122381) |
 | Avangrid | 🆕 Sr Director - Solution & Process Gov | Sr. Director | United States Of America, Connecticut, Ora +1 | $198K–$247K | 3d | [Apply](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Sr-Director---Solution---Process-Gov_R-35465) |
 
@@ -1251,7 +1250,7 @@ _116 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Steampunk | 🆕 Director of Platform Engineering (Cloud and DevOps) | Director | McLean, VA, USA | $180K–$200K | 0d | [Apply](https://careers-steampunk.icims.com/jobs/9212/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Equinix ⭐ | 🆕 Global Managing Director, Platform Alliances | MD | 2 Locations |  | 1d | [Apply](https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/Global-Managing-Director--Platform-Alliances_JR-164796) |
+| Equinix ⭐ | Global Managing Director, Platform Alliances | MD | 2 Locations |  | 1d | [Apply](https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/Global-Managing-Director--Platform-Alliances_JR-164796) |
 | Information Technology Senior Management Forum | 🔁 Director, Technical Program Management (Connectivity and Cloud Infrastructure) | Director | McLean, VA, USA | $210K–$263K | 1d | [Apply](https://jobs.itsmfleaders.org/job/cxn9lk/director-technical-program-management-(connectivity-and-cloud-infrastructure)/mclean/va) |
 | Information Technology Senior Management Forum | Senior Director, Applied Researcher - Analysis Platform | Sr. Director | San Jose, CA, USA | $350K–$436K | 1d | [Apply](https://jobs.itsmfleaders.org/job/cewer7/senior-director-applied-researcher-analysis-platform/san-jose/ca) |
 | Lyft | Senior Director, Infrastructure Engineering | Sr. Director | San Francisco, CA | $247K–$308K | 2d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002) ⚡ |

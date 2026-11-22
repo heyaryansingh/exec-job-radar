@@ -19,21 +19,21 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,157 open roles** at **1,965 companies** · **71 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 07:14 PM ET
+**5,156 open roles** at **1,965 companies** · **68 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 08:16 PM ET
 
-By level: Director 2758 · VP 882 · Sr. Director 678 · Head 317 · C-level 183 · EVP/SVP 154 · ED 128 · MD 57
+By level: Director 2758 · VP 882 · Sr. Director 677 · Head 317 · C-level 183 · EVP/SVP 154 · ED 128 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (71)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (68)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (192)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (349)](#security-risk-technology)
 - [🧠 Data & AI (1250)](#data-ai)
 - [🚦 Reliability & Operations (365)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (463)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (462)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
 - [🔄 Transformation & Delivery (643)](#transformation-delivery)
 - [🛠️ Engineering & Software (1376)](#engineering-software)
@@ -106,7 +106,6 @@ By level: Director 2758 · VP 882 · Sr. Director 678 · Head 317 · C-level 183
 | Slalom Consulting | 🆕 Senior Director, Data Architecture & Engineering | Sr. Director | Los Angeles, CA, USA | $207K–$260K | 1d | [Apply](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=4264) |
 | Baxter | 🆕 VP, IT - AI & Data Platforms | VP | Deerfield, Illinois |  | 1d | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Deerfield-Illinois/VP--IT---AI---Data-Platforms_JR-201760-1) |
 | DaVita | 🆕 Sr Director, Product (Technology) | Sr. Director | 01548 - Texas Remote |  | 1d | [Apply](https://davita.wd1.myworkdayjobs.com/en-US/DKC_External/job/01548---Texas-Remote/Sr-Director--Product--Technology-_R0487065) |
-| Lyra Health | 🆕 Director, Security Engineering | Director | United States · Remote | $180K–$248K | 1d | [Apply](https://jobs.lever.co/lyrahealth/a5d2473e-6975-4603-9c82-722a906b5778) ⚡ |
 | Gilead Sciences ⭐ | 🆕 VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
 | Colorado State University | 🆕 Director of Assistive Technology & Digital Accessibility | Director | Fort Collins, CO |  | 2d | [Apply](https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Director-of-Assistive-Technology---Digital-Accessibility_R2026108004) |
 | Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta HQ |  | 2d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
@@ -116,8 +115,6 @@ By level: Director 2758 · VP 882 · Sr. Director 678 · Head 317 · C-level 183
 | Integral Ad Science | 🆕 Director, Data Science | Director | New York, NY, USA | $187K–$320K | 2d | [Apply](https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
 | Compass | 🆕 Director, Security Engineering | Director | Boston, MA, USA | $232K–$258K | 2d | [Apply](https://grnh.se/e4qkdnox1us) |
 | Hitachi Vantara | 🆕 Global Head of Technology, Business Unit Transformers | Head | Madrid, Spain +9 |  | 2d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/Global-Head-of-Technology--Business-Unit-Transformers_R0152524) |
-| Lyft | 🆕 Senior Director, Infrastructure Engineering | Sr. Director | San Francisco, CA | $247K–$308K | 2d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002) ⚡ |
-| Genentech | 🆕 Director, Safety, Security, Health, and Environment | Director | Holly Springs, North Carolina, United Stat |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202609122725EXTERNALENUS) |
 
 <a name="houston-area"></a>
 
@@ -533,9 +530,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | FFF Enterprises | 🆕 Vice President, Infrastructure Services & Information Security | VP | Temecula, CA, USA | $260K–$290K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/fffenter/join-our-team/jobs/2193) |
 | Compass International Holdings | 🆕 Director, Security Engineering | Director | Boston, NY, USA | $232K–$258K | 1d | [Apply](https://www.compass.com/careers?gh_jid=8393009&gh_board=urbancompass) |
 | Imprivata | 🆕 Director, DevSecOps and Application Security | Director | Waltham, MA, USA | $247K–$259K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oGh8Afwp&s=Indeed) |
-| Lyra Health | 🆕 Director, Security Engineering | Director | United States · Remote | $180K–$248K | 1d | [Apply](https://jobs.lever.co/lyrahealth/a5d2473e-6975-4603-9c82-722a906b5778) ⚡ |
+| Lyra Health | Director, Security Engineering | Director | United States · Remote | $180K–$248K | 1d | [Apply](https://jobs.lever.co/lyrahealth/a5d2473e-6975-4603-9c82-722a906b5778) ⚡ |
 | Compass | 🆕 Director, Security Engineering | Director | Boston, MA, USA | $232K–$258K | 2d | [Apply](https://grnh.se/e4qkdnox1us) |
-| Genentech | 🆕 Director, Safety, Security, Health, and Environment | Director | Holly Springs, North Carolina, United Stat |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202609122725EXTERNALENUS) |
+| Genentech | Director, Safety, Security, Health, and Environment | Director | Holly Springs, North Carolina, United Stat |  | 2d | [Apply](https://careers.gene.com/us/en/job/GENEUS202609122725EXTERNALENUS) |
 | AHOLD Delhaize | Director of Application Security Operations | Director | Salisbury, NC, USA | $160K–$240K | 2d | [Apply](https://aholddelhaizeusa.careerswithus.com/job/669037b7dc60a8004b1930c7/director-of-application-security-operations/Salisbury-NC/aholddelhaizeapplyrms/567483_external_USA-NC-Salisbury) |
 | Compass | Director, Security Engineering | Director | Boca Raton, FL, USA | $232K–$258K | 2d | [Apply](https://grnh.se/e4qkdnox1us) |
 | Compass | Director, Security Engineering | Director | New York, NY, USA | $232K–$258K | 2d | [Apply](https://grnh.se/e4qkdnox1us) |
@@ -1310,7 +1307,7 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 | Equinix ⭐ | 🆕 Global Managing Director, Platform Alliances | MD | 2 Locations |  | 1d | [Apply](https://equinix.wd1.myworkdayjobs.com/en-US/external/job/Dallas-Infomart-Office-DAI/Global-Managing-Director--Platform-Alliances_JR-164796) |
 | Information Technology Senior Management Forum | 🆕 🔁 Director, Technical Program Management (Connectivity and Cloud Infrastructure) | Director | McLean, VA, USA | $210K–$263K | 1d | [Apply](https://jobs.itsmfleaders.org/job/cxn9lk/director-technical-program-management-(connectivity-and-cloud-infrastructure)/mclean/va) |
 | Information Technology Senior Management Forum | 🆕 Senior Director, Applied Researcher - Analysis Platform | Sr. Director | San Jose, CA, USA | $350K–$436K | 1d | [Apply](https://jobs.itsmfleaders.org/job/cewer7/senior-director-applied-researcher-analysis-platform/san-jose/ca) |
-| Lyft | 🆕 Senior Director, Infrastructure Engineering | Sr. Director | San Francisco, CA | $247K–$308K | 2d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002) ⚡ |
+| Lyft | Senior Director, Infrastructure Engineering | Sr. Director | San Francisco, CA | $247K–$308K | 2d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002) ⚡ |
 | Nubank | Head of Design, Global App Platforms | Head | Palo Alto +3 · Remote | $450K–$725K | 2d | [Apply](https://jobs.ashbyhq.com/nubank/f259b325-0d6f-462f-96c5-da0e51ca9d0e) ⚡ |
 | University of Minnesota | Infrastructure Director | Director | Minneapolis, MN, USA |  | 2d | [Apply](https://hr.myu.umn.edu/jobs/ext/377241) |
 | Capital One ⭐ | Senior Director, Applied Researcher - Analysis Platform | Sr. Director | 4 Locations |  | 2d | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Senior-Director--Applied-Researcher---Analysis-Platform_R1006249-1) |
@@ -1558,7 +1555,7 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 | Baltimore Corps | Director of IT Infrastructure | Director | Baltimore, MD, USA | $123K–$202K | 24d | [Apply](https://baltimorecorps2.my.site.com/lynxsoft/s/career-page?id=a0uQO00000IaLy1YAF) |
 | Capital One ⭐ | Senior Director, Product Design, Conversational Platform | Sr. Director | McLean, VA +1 | $294K–$336K | 24d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Director--Product-Design--Conversational-Platform_R1004731-2) |
 
-_213 older roles in this section are in data/roles.json on the `data` branch._
+_212 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2506,6 +2503,7 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Oracle | 🔒 Senior Director, Compensation - Oracle Cloud Infrastructure | Sr. Director | Nashville, TN, United States | $170K–$355K | 37d | Closed |
 | 5C Data Centers USA, Inc. | 🔒 Vice President, Data Center Operations | VP | Springfield, OH, USA |  | 31d | Closed |
 | Absher Construction Company | 🔒 Director of Technology | Director | Puyallup, WA, USA | $165K–$200K | 31d | Closed |
 | AHOLD Delhaize | 🔒 Director of Data Science | Director | Quincy, MA, USA | $160K–$240K | 31d | Closed |
@@ -2805,7 +2803,6 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🔒 Principal Backend Engineer Vice President | VP | Mississauga, ON, CA |  | 34d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 VP - KYC Operations Senior AI Lead | VP | Mumbai, MH, IN |  | 34d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 VP - KYC Operations Data Lead | VP | Mumbai, MH, IN |  | 34d | Closed [alt](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042432) |
-| Citi (jobs.citi.com) ⭐ | 🔒 Production Management Global Support Group Manager - Director | Director | Tampa, FL, US |  | 34d | Closed |
 
 </details>
 

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,167 open roles** at **1,971 companies** · **12 new in the last 24 hours** · 6,142 company career sites watched · updated hourly · last update Nov 22, 2026 03:39 PM ET
+**5,167 open roles** at **1,971 companies** · **11 new in the last 24 hours** · 6,142 company career sites watched · updated hourly · last update Nov 22, 2026 04:36 PM ET
 
 By level: Director 2763 · VP 884 · Sr. Director 678 · Head 320 · C-level 184 · EVP/SVP 154 · ED 127 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2763 · VP 884 · Sr. Director 678 · Head 320 · C-level 184
 
 ## Contents
 
-- [🆕 New in the last 24 hours (12)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (11)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -55,7 +55,6 @@ By level: Director 2763 · VP 884 · Sr. Director 678 · Head 320 · C-level 184
 | Risk Ledger | 🆕 Director of Technology Risk | Director | Remote, USA | $230K–$280K | 1d | [Apply](https://www.indeed.com/viewjob?jk=87acd818bbf4b39a) |
 | CommonSpirit Health | 🆕 System Director Formation Innovative Technology-Analytics | Director | Chicago, IL, USA | $159K–$236K | 1d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-507667&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580615072%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bf2dc-e5b8-11f1-95fc-538a645bec45%26rx_job%3D2026-507667%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T220411Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed) |
 | Imprivata | 🆕 Director, Salesforce & Revenue Systems | Director | Waltham, MA, USA | $207K–$218K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oAg8Afwi&s=Indeed) |
-| Layne's Chicken Fingers | 🆕 Director of Information Technology | Director | Frisco, TX, USA |  | 1d | [Apply](https://layne-s-chicken-fingers.r365hire.com/j/037m1fj) |
 | NAVBLUE US, Inc. | 🆕 Head of Systems Expertise | Head | Broughton |  | 2d | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Broughton/Head-of-Systems-Expertise_JR10459017) |
 | Samsung Electronics | 🆕 Head of Strategy, Digital Health | Head | 645 Clyde Avenue, Mountain View, CA, USA |  | 2d | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Head-of-Strategy--Digital-Health_R122381) |
 | Avangrid | 🆕 Sr Director - Solution & Process Gov | Sr. Director | United States Of America, Connecticut, Ora +1 | $198K–$247K | 3d | [Apply](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Sr-Director---Solution---Process-Gov_R-35465) |
@@ -1929,7 +1928,7 @@ _397 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Risk Ledger | 🆕 Director of Technology Risk | Director | Remote, USA | $230K–$280K | 1d | [Apply](https://www.indeed.com/viewjob?jk=87acd818bbf4b39a) |
-| Layne's Chicken Fingers | 🆕 Director of Information Technology | Director | Frisco, TX, USA |  | 1d | [Apply](https://layne-s-chicken-fingers.r365hire.com/j/037m1fj) |
+| Layne's Chicken Fingers | Director of Information Technology | Director | Frisco, TX, USA |  | 1d | [Apply](https://layne-s-chicken-fingers.r365hire.com/j/037m1fj) |
 | Honeywell ⭐ | Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
 | YooyMail Tech LLC | Software Director | Director | Boston, MA, USA | $180K–$240K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | American Credit Acceptance | Sr. Director, Information Technology | Sr. Director | Spartanburg, SC, USA |  | 1d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504660-sr-director-information-technology?tm_job=612&tm_event=view&tm_company=94100) |

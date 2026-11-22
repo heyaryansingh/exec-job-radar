@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,166 open roles** at **1,971 companies** · **18 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 06:57 AM ET
+**5,166 open roles** at **1,971 companies** · **17 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 07:49 AM ET
 
 By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184 · EVP/SVP 154 · ED 128 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184
 
 ## Contents
 
-- [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (17)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -64,7 +64,6 @@ By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184
 | TECHNIQUE | 🆕 Director of Program Management | Director | Jackson, MI, USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b0a7f1d-fe2d-4bae-8e09-f05413d1a8e3&ccId=69793913_3&jobId=16485&jwId=69793913_1&source=IN&lang=en_US) |
 | YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | Samsung Electronics | 🆕 Head of Strategy, Digital Health | Head | 645 Clyde Avenue, Mountain View, CA, USA |  | 2d | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Head-of-Strategy--Digital-Health_R122381) |
-| Gilead Sciences ⭐ | 🆕 VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
 
 <a name="houston-area"></a>
 
@@ -1950,7 +1949,7 @@ _396 older roles in this section are in data/roles.json on the `data` branch._
 | Homecare Homebase | Director of Engineering | Director | Manchester, NH, USA |  | 1d | [Apply](https://careers.hearst.com/jobs/director-of-engineering-manchester-nh-4510432009-jobs--operations--) |
 | Information Technology Senior Management Forum | Director, Technology Regulatory Practices - Enterprise Services Risk Organization | Director | McLean, VA, USA | $230K–$263K | 1d | [Apply](https://jobs.itsmfleaders.org/job/7bjsbt/director-technology-regulatory-practices-enterprise-services-risk-organization/mclean/va) |
 | DaVita | Sr Director, Product (Technology) | Sr. Director | 01548 - Texas Remote |  | 1d | [Apply](https://davita.wd1.myworkdayjobs.com/en-US/DKC_External/job/01548---Texas-Remote/Sr-Director--Product--Technology-_R0487065) |
-| Gilead Sciences ⭐ | 🆕 VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
+| Gilead Sciences ⭐ | VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
 | MeridianLink | Director, Software Engineering - Consumer Portal | Director | US Remote | $168K–$262K | 2d | [Apply](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) ⚡ [alt](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) |
 | Hitachi Vantara | Global Head of Technology, Business Unit Transformers | Head | Madrid, Spain +9 |  | 2d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/Global-Head-of-Technology--Business-Unit-Transformers_R0152524) |
 | Cordoba Corporation | Deputy Planning & Engineering Director | Director | Sacramento, CA, USA | $250K–$325K | 2d | [Apply](https://careers-cordobacorp.icims.com/jobs/2699/job) |

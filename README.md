@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,159 open roles** at **1,968 companies** · **34 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 01:07 AM ET
+**5,159 open roles** at **1,968 companies** · **29 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 02:05 AM ET
 
 By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183 · EVP/SVP 154 · ED 128 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183
 
 ## Contents
 
-- [🆕 New in the last 24 hours (34)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (29)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (192)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -71,16 +71,11 @@ By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183
 | Samsung Semiconductor Inc (US) | 🆕 Director, Data Center Market Intelligence | Director | San Jose, CA, USA | $210K–$336K | 1d | [Apply](https://grnh.se/cc8zdj1b3us) |
 | The Walt Disney Company | 🆕 Director, IT Audit | Director | Glendale, CA, USA | $215K–$278K | 1d | [Apply](https://join.disneycareers.com/global/en/job/TWNTWDUS10164057EXTERNALENGLOBAL/Director-IT-Audit?utm_source=INDEED_FEED&utm_medium=phenom-feeds) |
 | Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta, GA, USA |  | 1d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
-| Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence Architecture | Director | OH, USA |  | 1d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS/System-Director-Artificial-Intelligence-Architecture?utm_source=indeed&utm_medium=phenom-feeds) |
-| Epsilon | 🆕 Director Infrastructure Partners Operations | Director | Chicago, IL, USA | $128K–$238K | 1d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
-| Denali Therapeutics | 🆕 Director, GxP Computer Systems Validation | Director | 2 Locations |  | 1d | [Apply](https://dnli.wd1.myworkdayjobs.com/en-US/Corporate_Positions/job/South-San-Francisco/Director--GxP-Computer-Systems-Validation_R-1747) |
 | Gilead Sciences ⭐ | 🆕 VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
 | Colorado State University | 🆕 Director of Assistive Technology & Digital Accessibility | Director | Fort Collins, CO |  | 2d | [Apply](https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Director-of-Assistive-Technology---Digital-Accessibility_R2026108004) |
 | Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta HQ |  | 2d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
 | Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence Architecture | Director | Any City, Ohio, United States of America |  | 2d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS) |
 | Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence | Director | Any City, Ohio, United States of America |  | 2d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR293135EXTERNALENUS) |
-| MeridianLink | 🆕 Director, Software Engineering - Consumer Portal | Director | US Remote | $168K–$262K | 2d | [Apply](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) ⚡ [alt](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) |
-| Integral Ad Science | 🆕 Director, Data Science | Director | New York, NY, USA | $187K–$320K | 2d | [Apply](https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
 
 <a name="houston-area"></a>
 
@@ -758,7 +753,7 @@ _100 older roles in this section are in data/roles.json on the `data` branch._
 | Medallia | 🆕 Head of Enterprise Data Platform & Engineering | Head | McLean, VA, USA · Remote | $156K–$255K | 1d | [Apply](https://jobs.medallia.com/jobs/6604/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Samsung Semiconductor Inc (US) | 🆕 Director, Data Center Market Intelligence | Director | San Jose, CA, USA | $210K–$336K | 1d | [Apply](https://grnh.se/cc8zdj1b3us) |
 | Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta, GA, USA |  | 1d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
-| Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence Architecture | Director | OH, USA |  | 1d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS/System-Director-Artificial-Intelligence-Architecture?utm_source=indeed&utm_medium=phenom-feeds) |
+| Bon Secours Mercy Health | System Director Artificial Intelligence Architecture | Director | OH, USA |  | 1d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS/System-Director-Artificial-Intelligence-Architecture?utm_source=indeed&utm_medium=phenom-feeds) |
 | Strava | Director, Privacy & AI Governance (DPO) | Director | Strava SF · Remote | $240K–$250K | 1d | [Apply](https://jobs.ashbyhq.com/Strava/4f7f1cbf-0692-495a-81e0-7d6a223a0c49) ⚡ |
 | Boehringer Ingelheim | Director, Product & Digital Analytics | Director | Ridgefield, CT, USA |  | 1d | [Apply](https://jobs.boehringer-ingelheim.com/job-invite/39969/?locale=en_US) |
 | NEOMED | Director, AI Studio, in the Center for Artificial Intelligence & Digital Experience (AIDE) | Director | Rootstown, OH, USA |  | 1d | [Apply](https://neomed.peopleadmin.com/postings/7345) |
@@ -778,7 +773,7 @@ _100 older roles in this section are in data/roles.json on the `data` branch._
 | Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta HQ |  | 2d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
 | Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence Architecture | Director | Any City, Ohio, United States of America |  | 2d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS) |
 | Bon Secours Mercy Health | 🆕 System Director Artificial Intelligence | Director | Any City, Ohio, United States of America |  | 2d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR293135EXTERNALENUS) |
-| Integral Ad Science | 🆕 Director, Data Science | Director | New York, NY, USA | $187K–$320K | 2d | [Apply](https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
+| Integral Ad Science | Director, Data Science | Director | New York, NY, USA | $187K–$320K | 2d | [Apply](https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
 | Meta | Finance Director, Infrastructure & AI Business Operations | Director | New York, NY, USA | $253K–$314K | 2d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004rXBUAY_1003&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1467868595268107%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dc21f944e-e4ff-11f1-aeef-1fb2f02dbbfd%26rx_job%3Da1KiE0000004rXBUAY_1003%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T000410Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | Meta | Finance Director, Infrastructure & AI Business Operations | Director | Menlo Park, CA, USA | $253K–$314K | 2d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000004rXBUAY_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1467868595268107%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dc21f6891-e4ff-11f1-a71c-1fb2f02dbbfd%26rx_job%3Da1KiE0000004rXBUAY_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T000410Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic) |
 | Lyft | Director, Data Science, EU | Director | San Francisco, CA | $236K–$295K | 2d | [Apply](https://app.careerpuck.com/job-board/lyft/job/8957556002?gh_jid=8957556002) ⚡ |
@@ -1012,7 +1007,7 @@ _1000 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Takeda Pharmaceuticals | 🆕 Director, Central Laboratory Operations | Director | Boston, MA, USA | $177K–$278K | 1d | [Apply](https://www.takedajobs.com/job/-/-/1113/103584938128) |
-| Epsilon | 🆕 Director Infrastructure Partners Operations | Director | Chicago, IL, USA | $128K–$238K | 1d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
+| Epsilon | Director Infrastructure Partners Operations | Director | Chicago, IL, USA | $128K–$238K | 1d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | Epsilon | Director Infrastructure Partners Operations | Director | Irving, TX, USA | $128K–$238K | 1d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | BNY ⭐ | Vice President, Production Services Application Support | VP | Pittsburgh, PA, United States |  | 2d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82823) |
 | AEG Worldwide | Director, Production Finances - Global Touring | Director | New York, NY |  | 2d | [Apply](https://job-boards.greenhouse.io/aegworldwide/jobs/8957159002) ⚡ |
@@ -1966,7 +1961,7 @@ _394 older roles in this section are in data/roles.json on the `data` branch._
 | Information Technology Senior Management Forum | Director, Technology Regulatory Practices - Enterprise Services Risk Organization | Director | McLean, VA, USA | $230K–$263K | 1d | [Apply](https://jobs.itsmfleaders.org/job/7bjsbt/director-technology-regulatory-practices-enterprise-services-risk-organization/mclean/va) |
 | DaVita | Sr Director, Product (Technology) | Sr. Director | 01548 - Texas Remote |  | 1d | [Apply](https://davita.wd1.myworkdayjobs.com/en-US/DKC_External/job/01548---Texas-Remote/Sr-Director--Product--Technology-_R0487065) |
 | Gilead Sciences ⭐ | 🆕 VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
-| MeridianLink | 🆕 Director, Software Engineering - Consumer Portal | Director | US Remote | $168K–$262K | 2d | [Apply](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) ⚡ [alt](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) |
+| MeridianLink | Director, Software Engineering - Consumer Portal | Director | US Remote | $168K–$262K | 2d | [Apply](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) ⚡ [alt](https://jobs.ashbyhq.com/meridianlink/b81d3423-bb51-4e88-99ec-18fab781c8c1) |
 | Hitachi Vantara | Global Head of Technology, Business Unit Transformers | Head | Madrid, Spain +9 |  | 2d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/Global-Head-of-Technology--Business-Unit-Transformers_R0152524) |
 | Cordoba Corporation | Deputy Planning & Engineering Director | Director | Sacramento, CA, USA | $250K–$325K | 2d | [Apply](https://careers-cordobacorp.icims.com/jobs/2699/job) |
 | Fidelity Investments | Director, Engineering - Core Custody | Director | Boston, MA, USA | $126K–$255K | 2d | [Apply](https://jobs.fidelity.com/en/jobs/2138340/director-engineering-core-custody/) |
@@ -2209,7 +2204,7 @@ _1127 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Imprivata | 🆕 Director, Salesforce & Revenue Systems | Director | Waltham, MA, USA | $207K–$218K | 1d | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oAg8Afwi&s=Indeed) |
-| Denali Therapeutics | 🆕 Director, GxP Computer Systems Validation | Director | 2 Locations |  | 1d | [Apply](https://dnli.wd1.myworkdayjobs.com/en-US/Corporate_Positions/job/South-San-Francisco/Director--GxP-Computer-Systems-Validation_R-1747) |
+| Denali Therapeutics | Director, GxP Computer Systems Validation | Director | 2 Locations |  | 1d | [Apply](https://dnli.wd1.myworkdayjobs.com/en-US/Corporate_Positions/job/South-San-Francisco/Director--GxP-Computer-Systems-Validation_R-1747) |
 | Denali Therapeutics | Director, GxP Computer Systems Validation | Director | South San Francisco, CA, USA |  | 1d | [Apply](https://dnli.wd1.myworkdayjobs.com/Corporate_Positions/job/South-San-Francisco/Director--GxP-Computer-Systems-Validation_R-1747) |
 | Information Technology Senior Management Forum | Senior Director, Full-stack Engineer | Sr. Director | Plano, TX, USA | $286K–$327K | 1d | [Apply](https://jobs.itsmfleaders.org/job/t2jlbc/senior-director-full-stack-engineer/plano/tx) |
 | GSK | Health Systems Director (NYC/Long Island) | Director | New York Metro, New York, United States of |  | 2d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB451600EXTERNALENGB) |

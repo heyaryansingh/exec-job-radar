@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-22T03:03:54+00:00 UTC, 471s
+- Last run: 2026-11-22T04:11:00+00:00 UTC, 891s
 - Companies working: 612 of 636
 - New roles last run: 0; roles in feed: 1339
-- Universe (all other known career sites): 5503 boards, 3808 checked in the last hour, 3 errors; 0 employer names learned; 0 new employer sites found via job boards
-- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
+- Universe (all other known career sites): 5503 boards, 3810 checked in the last hour, 787 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"board-indeed (raw)": 311, "senior titles from boards/aggregators": 150}
 - Companies with open roles: 1968
-- Skipped (backing off broken sites): 1707; ran out of time: 0
+- Skipped (backing off broken sites): 924; ran out of time: 0
 
 ## Failing companies
 
@@ -30,11 +30,11 @@
 | Travelers | 7 | HTTP 429 for https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/External/jobs |
 | Illumina | 6 | HTTP 429 for https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs |
 | LendingClub | 6 | HTTP 429 for https://lendingclub.wd1.myworkdayjobs.com/wday/cxs/lendingclub/External/jobs |
-| Santander | 2 | HTTP 429 for https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs |
-| Shell | 2 | HTTP 429 for https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs |
-| Air Liquide | 1 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
-| LSEG | 1 | HTTP 429 for https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs |
-| Ovintiv | 1 | HTTP 429 for https://ovintiv.wd3.myworkdayjobs.com/wday/cxs/ovintiv/ovintivcareers/jobs |
-| Viatris | 1 | HTTP 429 for https://viatris.wd5.myworkdayjobs.com/wday/cxs/viatris/External/jobs |
+| Santander | 3 | HTTP 429 for https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs |
+| LSEG | 2 | HTTP 429 for https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs |
+| Ovintiv | 2 | HTTP 429 for https://ovintiv.wd3.myworkdayjobs.com/wday/cxs/ovintiv/ovintivcareers/jobs |
+| Fresenius Medical Care | 1 | HTTP 429 for https://freseniusmedicalcare.wd3.myworkdayjobs.com/wday/cxs/freseniusmedicalcare/fme/jo |
+| Kohl's | 1 | HTTP 429 for https://kohls.wd504.myworkdayjobs.com/wday/cxs/kohls/kohlscareers/jobs |
+| Realty Income | 1 | HTTP 429 for https://realtyincome.wd108.myworkdayjobs.com/wday/cxs/realtyincome/realty_income_career |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

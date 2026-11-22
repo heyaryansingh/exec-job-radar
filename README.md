@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,167 open roles** at **1,971 companies** · **18 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 08:48 AM ET
+**5,167 open roles** at **1,971 companies** · **15 new in the last 24 hours** · 6,141 company career sites watched · updated hourly · last update Nov 22, 2026 09:46 AM ET
 
 By level: Director 2764 · VP 883 · Sr. Director 678 · Head 319 · C-level 184 · EVP/SVP 154 · ED 128 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2764 · VP 883 · Sr. Director 678 · Head 319 · C-level 184
 
 ## Contents
 
-- [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (15)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -60,9 +60,6 @@ By level: Director 2764 · VP 883 · Sr. Director 678 · Head 319 · C-level 184
 | BOH Holdings(Bank of Houston) | 🆕 VP of Digital Asset Strategy | VP | Remote, USA | $172K–$224K | 1d | [Apply](https://www.indeed.com/viewjob?jk=2f61b8f4acb01583) |
 | Information Technology Senior Management Forum | 🆕 Director, Technical Program Management | Director | McLean, VA, USA | $210K–$263K | 1d | [Apply](https://jobs.itsmfleaders.org/job/5qnu2r/director-technical-program-management/mclean/va) |
 | Sandoz | 🆕 Head of AI Strategy & Transformation (Director Level) | Head | Princeton, NJ, USA | $176K–$328K | 1d | [Apply](https://www.sandoz.com/careers/career-search/job-details/516935/head-ai-strategy-transformation-director-level%20/) |
-| Takeda Pharmaceuticals | 🆕 Director, Central Laboratory Operations | Director | Boston, MA, USA | $177K–$278K | 1d | [Apply](https://www.takedajobs.com/job/-/-/1113/103584938128) |
-| TECHNIQUE | 🆕 Director of Program Management | Director | Jackson, MI, USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b0a7f1d-fe2d-4bae-8e09-f05413d1a8e3&ccId=69793913_3&jobId=16485&jwId=69793913_1&source=IN&lang=en_US) |
-| YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | Samsung Electronics | 🆕 Head of Strategy, Digital Health | Head | 645 Clyde Avenue, Mountain View, CA, USA |  | 2d | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Head-of-Strategy--Digital-Health_R122381) |
 | Avangrid | 🆕 Sr Director - Solution & Process Gov | Sr. Director | United States Of America, Connecticut, Ora +1 | $198K–$247K | 3d | [Apply](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Sr-Director---Solution---Process-Gov_R-35465) |
 
@@ -996,7 +993,7 @@ _1001 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Takeda Pharmaceuticals | 🆕 Director, Central Laboratory Operations | Director | Boston, MA, USA | $177K–$278K | 1d | [Apply](https://www.takedajobs.com/job/-/-/1113/103584938128) |
+| Takeda Pharmaceuticals | Director, Central Laboratory Operations | Director | Boston, MA, USA | $177K–$278K | 1d | [Apply](https://www.takedajobs.com/job/-/-/1113/103584938128) |
 | Epsilon | Director Infrastructure Partners Operations | Director | Chicago, IL, USA | $128K–$238K | 1d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | Epsilon | Director Infrastructure Partners Operations | Director | Irving, TX, USA | $128K–$238K | 1d | [Apply](https://careers.publicisgroupe.com/epsilon/jobs/181755?lang=en-us) |
 | BNY ⭐ | Vice President, Production Services Application Support | VP | Pittsburgh, PA, United States |  | 2d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82823) |
@@ -1679,7 +1676,7 @@ _213 older roles in this section are in data/roles.json on the `data` branch._
 | Chequers Partenaires | 🆕 Digital Director | Director | West Sacramento, CA, USA | $160K–$200K | 0d | [Apply](https://www.indeed.com/viewjob?jk=ea013c5baa7d55ca) |
 | BOH Holdings(Bank of Houston) | 🆕 VP of Digital Asset Strategy | VP | Remote, USA | $172K–$224K | 1d | [Apply](https://www.indeed.com/viewjob?jk=2f61b8f4acb01583) |
 | Information Technology Senior Management Forum | 🆕 Director, Technical Program Management | Director | McLean, VA, USA | $210K–$263K | 1d | [Apply](https://jobs.itsmfleaders.org/job/5qnu2r/director-technical-program-management/mclean/va) |
-| TECHNIQUE | 🆕 Director of Program Management | Director | Jackson, MI, USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b0a7f1d-fe2d-4bae-8e09-f05413d1a8e3&ccId=69793913_3&jobId=16485&jwId=69793913_1&source=IN&lang=en_US) |
+| TECHNIQUE | Director of Program Management | Director | Jackson, MI, USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b0a7f1d-fe2d-4bae-8e09-f05413d1a8e3&ccId=69793913_3&jobId=16485&jwId=69793913_1&source=IN&lang=en_US) |
 | Rich Products | Director, Commercial Digital Experience & Commerce | Director | Buffalo, NY, USA | $163K–$271K | 1d | [Apply](https://careers.rich.com/job/Buffalo-Director%2C-Commercial-Digital-Experience-&-Commerce-NY-14213/1452724000/) |
 | WSP | Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
 | CoVolt | Director of Business Transformation | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/SIG1007SGEN/JobBoard/1d63bc67-2233-4c90-b4e5-2ebdcffb3021/OpportunityDetail?opportunityId=908c9795-7fb4-494b-a302-bd3d47b0d312&postingId=ebd79b39-bec5-4191-9520-892fda52e717) |
@@ -1937,7 +1934,7 @@ _396 older roles in this section are in data/roles.json on the `data` branch._
 | Risk Ledger | 🆕 Director of Technology Risk | Director | Remote, USA | $230K–$280K | 1d | [Apply](https://www.indeed.com/viewjob?jk=87acd818bbf4b39a) |
 | Layne's Chicken Fingers | 🆕 Director of Information Technology | Director | Frisco, TX, USA |  | 1d | [Apply](https://layne-s-chicken-fingers.r365hire.com/j/037m1fj) |
 | Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
-| YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
+| YooyMail Tech LLC | Software Director | Director | Boston, MA, USA | $180K–$240K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | American Credit Acceptance | Sr. Director, Information Technology | Sr. Director | Spartanburg, SC, USA |  | 1d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504660-sr-director-information-technology?tm_job=612&tm_event=view&tm_company=94100) |
 | American Credit Acceptance | VP, Information Technology | VP | Spartanburg, SC, USA |  | 1d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504772-vp-information-technology?tm_job=614&tm_event=view&tm_company=94100) |
 | Kleinfelder | Technical Director | Director | Redmond, WA, USA | $131K–$219K | 1d | [Apply](https://careers-kleinfelder.icims.com/jobs/11132/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |

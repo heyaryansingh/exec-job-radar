@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-22T13:48:09+00:00 UTC, 689s
-- Companies working: 563 of 636
-- New roles last run: 1; roles in feed: 1347
-- Universe (all other known career sites): 5503 boards, 3825 checked in the last hour, 20 errors; 0 employer names learned; 1 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 180, "senior titles from boards/aggregators": 81}
+- Last run: 2026-11-22T14:46:47+00:00 UTC, 612s
+- Companies working: 566 of 636
+- New roles last run: 0; roles in feed: 1347
+- Universe (all other known career sites): 5504 boards, 3816 checked in the last hour, 25 errors; 0 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
 - Companies with open roles: 1971
-- Skipped (backing off broken sites): 1673; ran out of time: 0
+- Skipped (backing off broken sites): 1677; ran out of time: 0
 
 ## Failing companies
 
@@ -23,67 +23,64 @@
 | Disney | 8 | HTTP 429 for https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs |
 | Darktrace | 7 | HTTP 429 for https://darktrace.wd3.myworkdayjobs.com/wday/cxs/darktrace/DarktaceExternal/jobs |
 | LendingClub | 7 | HTTP 429 for https://lendingclub.wd1.myworkdayjobs.com/wday/cxs/lendingclub/External/jobs |
+| Analog Devices | 6 | HTTP 429 for https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs |
 | Availity | 6 | HTTP 429 for https://availity.wd1.myworkdayjobs.com/wday/cxs/availity/Availity_Careers_US/jobs |
 | Gilead Sciences | 6 | HTTP 429 for https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs |
-| Illumina | 6 | HTTP 429 for https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs |
 | Ovintiv | 6 | HTTP 429 for https://ovintiv.wd3.myworkdayjobs.com/wday/cxs/ovintiv/ovintivcareers/jobs |
-| Analog Devices | 5 | HTTP 429 for https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs |
-| Axiom Space | 4 | HTTP 429 for https://axiomspace.wd5.myworkdayjobs.com/wday/cxs/axiomspace/External_Career_Site/jobs |
-| KLA | 4 | HTTP 429 for https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs |
-| Marvell | 4 | HTTP 429 for https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs |
-| Albemarle | 3 | HTTP 429 for https://albemarle.wd5.myworkdayjobs.com/wday/cxs/albemarle/External/jobs |
-| Brookfield | 3 | HTTP 429 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/BrookfieldHealthcareCenterCareerSi |
-| Citi | 3 | HTTP 429 for https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs |
-| Corebridge Financial | 3 | HTTP 429 for https://corebridgefinancial.wd1.myworkdayjobs.com/wday/cxs/corebridgefinancial/Corebrid |
-| DXC Technology | 3 | HTTP 429 for https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/DXCJobs/jobs |
-| Frost Bank | 3 | HTTP 429 for https://frostbank.wd5.myworkdayjobs.com/wday/cxs/frostbank/external/jobs |
-| Invesco | 3 | HTTP 429 for https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs |
-| Mizuho | 3 | HTTP 429 for https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuhoamericas/jobs |
-| Peak6 | 3 | HTTP 429 for https://peak6group.wd1.myworkdayjobs.com/wday/cxs/peak6group/apexfintechsolutions/jobs |
-| Pitney Bowes | 3 | HTTP 429 for https://pitneybowes.wd1.myworkdayjobs.com/wday/cxs/pitneybowes/pbcareers/jobs |
-| RingCentral | 3 | HTTP 429 for https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ringcentral/RingCentral_Careers/jobs |
-| TIAA | 3 | HTTP 429 for https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs |
-| Unilever | 3 | HTTP 429 for https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professio |
-| Wintrust | 3 | HTTP 429 for https://wintrust.wd1.myworkdayjobs.com/wday/cxs/wintrust/Search/jobs |
-| athenahealth | 3 | HTTP 429 for https://athenahealth.wd1.myworkdayjobs.com/wday/cxs/athenahealth/External/jobs |
-| Adobe | 2 | HTTP 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs |
-| Avis Budget Group | 2 | HTTP 429 for https://avisbudget.wd1.myworkdayjobs.com/wday/cxs/avisbudget/ABG_Careers/jobs |
-| Baker Hughes | 2 | HTTP 429 for https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs |
-| Bank of America | 2 | HTTP 429 for https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/Lateral-US/jobs |
-| Baxter | 2 | HTTP 429 for https://baxter.wd1.myworkdayjobs.com/wday/cxs/baxter/baxter/jobs |
-| Benchmark | 2 | HTTP 429 for https://benchmark.wd1.myworkdayjobs.com/wday/cxs/benchmark/PGH_Careers/jobs |
-| Blue Owl Capital | 2 | HTTP 429 for https://blueowl.wd1.myworkdayjobs.com/wday/cxs/blueowl/blueowl/jobs |
-| CME Group | 2 | HTTP 429 for https://cmegroup.wd1.myworkdayjobs.com/wday/cxs/cmegroup/cme_careers/jobs |
-| Cityblock Health | 2 | HTTP 429 for https://cityblockhealth.wd1.myworkdayjobs.com/wday/cxs/cityblockhealth/CityblockExterna |
-| Duke Energy | 2 | HTTP 429 for https://dukeenergy.wd1.myworkdayjobs.com/wday/cxs/dukeenergy/search/jobs |
-| Entegris | 2 | HTTP 429 for https://entegris.wd1.myworkdayjobs.com/wday/cxs/entegris/EntegrisCareers/jobs |
-| Expedia Group | 2 | HTTP 429 for https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs |
-| General Motors | 2 | HTTP 429 for https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs |
-| Global Payments | 2 | HTTP 429 for https://global.wd1.myworkdayjobs.com/wday/cxs/global/globalpartnerscareers/jobs |
-| Huntsman | 2 | HTTP 429 for https://huntsman.wd1.myworkdayjobs.com/wday/cxs/huntsman/Huntsman/jobs |
-| Jabil | 2 | HTTP 429 for https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/Jabil_Careers/jobs |
-| Loews | 2 | HTTP 429 for https://loewscorp.wd1.myworkdayjobs.com/wday/cxs/loewscorp/loewscorp/jobs |
-| Mastercard | 2 | HTTP 429 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs |
-| Micron | 2 | HTTP 429 for https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs |
-| Nasdaq | 2 | HTTP 429 for https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs |
-| O'Reilly Auto Parts | 2 | HTTP 429 for https://oreillyauto.wd1.myworkdayjobs.com/wday/cxs/oreillyauto/oreilly/jobs |
-| ONEOK | 2 | HTTP 429 for https://oneok.wd1.myworkdayjobs.com/wday/cxs/oneok/ONEOK/jobs |
-| PIMCO | 2 | HTTP 429 for https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs |
-| R1 RCM | 2 | HTTP 429 for https://r1rcm.wd1.myworkdayjobs.com/wday/cxs/r1rcm/R1RCM/jobs |
-| T-Mobile | 2 | HTTP 429 for https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs |
-| The Hartford | 2 | HTTP 429 for https://thehartford.wd5.myworkdayjobs.com/wday/cxs/thehartford/Careers_External/jobs |
-| Thomson Reuters | 2 | HTTP 429 for https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Si |
-| USAA | 2 | HTTP 429 for https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/USAAJOBSWD/jobs |
-| United Rentals | 2 | HTTP 429 for https://ur.wd1.myworkdayjobs.com/wday/cxs/ur/URcareers/jobs |
-| Unum | 2 | HTTP 429 for https://unum.wd1.myworkdayjobs.com/wday/cxs/unum/External/jobs |
-| Zayo | 2 | HTTP 429 for https://zayo.wd1.myworkdayjobs.com/wday/cxs/zayo/Zayo_Careers/jobs |
-| Accenture | 1 | HTTP 429 for https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs |
-| Assurant | 1 | HTTP 429 for https://assurant.wd1.myworkdayjobs.com/wday/cxs/assurant/Assurant_Careers/jobs |
-| Broadcom | 1 | HTTP 429 for https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs |
-| Dow | 1 | HTTP 429 for https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs |
-| Equinor | 1 | HTTP 429 for https://equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs |
-| Santander | 1 | HTTP 429 for https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs |
-| Shell | 1 | HTTP 429 for https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs |
-| Voya Financial | 1 | HTTP 429 for https://godirect.wd5.myworkdayjobs.com/wday/cxs/godirect/voya_jobs/jobs |
+| KLA | 5 | HTTP 429 for https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs |
+| Brookfield | 4 | HTTP 429 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/BrookfieldHealthcareCenterCareerSi |
+| Frost Bank | 4 | HTTP 429 for https://frostbank.wd5.myworkdayjobs.com/wday/cxs/frostbank/external/jobs |
+| Invesco | 4 | HTTP 429 for https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs |
+| Unilever | 4 | HTTP 429 for https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professio |
+| Avis Budget Group | 3 | HTTP 429 for https://avisbudget.wd1.myworkdayjobs.com/wday/cxs/avisbudget/ABG_Careers/jobs |
+| Bank of America | 3 | HTTP 429 for https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/Lateral-US/jobs |
+| General Motors | 3 | HTTP 429 for https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs |
+| Jabil | 3 | HTTP 429 for https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/Jabil_Careers/jobs |
+| PIMCO | 3 | HTTP 429 for https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimco-careers/jobs |
+| Thomson Reuters | 3 | HTTP 429 for https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Si |
+| United Rentals | 3 | HTTP 429 for https://ur.wd1.myworkdayjobs.com/wday/cxs/ur/URcareers/jobs |
+| Zayo | 3 | HTTP 429 for https://zayo.wd1.myworkdayjobs.com/wday/cxs/zayo/Zayo_Careers/jobs |
+| Equinor | 2 | HTTP 429 for https://equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs |
+| Shell | 2 | HTTP 429 for https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs |
+| Abbott | 1 | HTTP 429 for https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs |
+| Air Liquide | 1 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
+| Alcoa | 1 | HTTP 429 for https://alcoa.wd5.myworkdayjobs.com/wday/cxs/alcoa/Careers/jobs |
+| Allstate | 1 | HTTP 429 for https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/allstate_careers/jobs |
+| BECU | 1 | HTTP 429 for https://becu.wd1.myworkdayjobs.com/wday/cxs/becu/external/jobs |
+| Bloomberg | 1 | HTTP 429 for https://bloomberg.wd1.myworkdayjobs.com/wday/cxs/bloomberg/Bloombergindustrygroup_Exter |
+| C.H. Robinson | 1 | HTTP 429 for https://chrobinson.wd5.myworkdayjobs.com/wday/cxs/chrobinson/CHRobinson/jobs |
+| Capital Group | 1 | HTTP 429 for https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs |
+| Centene | 1 | HTTP 429 for https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/Centene_External/jobs |
+| Cerberus Capital Management | 1 | HTTP 429 for https://cerberus.wd1.myworkdayjobs.com/wday/cxs/cerberus/CerberusCareers/jobs |
+| Cleveland Clinic | 1 | HTTP 429 for https://ccf.wd1.myworkdayjobs.com/wday/cxs/ccf/ClevelandClinicCareersUK/jobs |
+| Constellation Brands | 1 | HTTP 429 for https://cbrands.wd5.myworkdayjobs.com/wday/cxs/cbrands/CBI_External_Careers/jobs |
+| Credit Acceptance | 1 | HTTP 429 for https://creditacceptance.wd5.myworkdayjobs.com/wday/cxs/creditacceptance/Credit_Accepta |
+| Discover | 1 | HTTP 429 for https://ensign.wd1.myworkdayjobs.com/wday/cxs/ensign/DiscoveryCareerSite/jobs |
+| Edwards Lifesciences | 1 | HTTP 429 for https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/edwardscareers/jobs |
+| Fresenius Medical Care | 1 | HTTP 429 for https://freseniusmedicalcare.wd3.myworkdayjobs.com/wday/cxs/freseniusmedicalcare/fme/jo |
+| Hitachi Vantara | 1 | HTTP 429 for https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs |
+| Intel | 1 | HTTP 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs |
+| J.B. Hunt | 1 | HTTP 429 for https://jbhunt.wd501.myworkdayjobs.com/wday/cxs/jbhunt/Careers/jobs |
+| J.M. Smucker | 1 | HTTP 429 for https://smucker.wd5.myworkdayjobs.com/wday/cxs/smucker/US_External_Careers/jobs |
+| Johnson Controls | 1 | HTTP 429 for https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs |
+| Kemper | 1 | HTTP 429 for https://kemper.wd5.myworkdayjobs.com/wday/cxs/kemper/Kemper_Careers/jobs |
+| Kyndryl | 1 | HTTP 429 for https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylEarlyCareers/jobs |
+| Lumentum | 1 | HTTP 429 for https://lumentum.wd5.myworkdayjobs.com/wday/cxs/lumentum/LITE/jobs |
+| Martin Marietta | 1 | HTTP 429 for https://martinmarietta.wd5.myworkdayjobs.com/wday/cxs/martinmarietta/Martin_Marietta_Ca |
+| Masco | 1 | HTTP 429 for https://masco.wd1.myworkdayjobs.com/wday/cxs/masco/masco/jobs |
+| MassMutual | 1 | HTTP 429 for https://massmutual.wd1.myworkdayjobs.com/wday/cxs/massmutual/mmcareers/jobs |
+| Medtronic | 1 | HTTP 429 for https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs |
+| Motorola Solutions | 1 | HTTP 429 for https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs |
+| NVIDIA | 1 | HTTP 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs |
+| Northrop Grumman | 1 | HTTP 429 for https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs |
+| OneMain Financial | 1 | HTTP 429 for https://myhrhome.wd1.myworkdayjobs.com/wday/cxs/myhrhome/OneMainCareers/jobs |
+| PNC | 1 | HTTP 429 for https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs |
+| Prologis | 1 | HTTP 429 for https://prologis.wd5.myworkdayjobs.com/wday/cxs/prologis/Prologis_External_Careers/jobs |
+| Sixth Street | 1 | HTTP 429 for https://sixthstreet.wd1.myworkdayjobs.com/wday/cxs/sixthstreet/sixthstreetcareers/jobs |
+| Target | 1 | HTTP 429 for https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs |
+| Viatris | 1 | HTTP 429 for https://viatris.wd5.myworkdayjobs.com/wday/cxs/viatris/External/jobs |
+| Western Alliance Bank | 1 | HTTP 429 for https://westernalliancebank.wd5.myworkdayjobs.com/wday/cxs/westernalliancebank/WAB/jobs |
+| Xylem | 1 | HTTP 429 for https://xylem.wd5.myworkdayjobs.com/wday/cxs/xylem/xylem-careers/jobs |
+| Zoetis | 1 | HTTP 429 for https://zoetis.wd5.myworkdayjobs.com/wday/cxs/zoetis/zoetis/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

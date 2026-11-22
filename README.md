@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,166 open roles** at **1,971 companies** · **17 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 07:49 AM ET
+**5,167 open roles** at **1,971 companies** · **18 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 08:48 AM ET
 
-By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184 · EVP/SVP 154 · ED 128 · MD 57
+By level: Director 2764 · VP 883 · Sr. Director 678 · Head 319 · C-level 184 · EVP/SVP 154 · ED 128 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (17)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -37,7 +37,7 @@ By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184
 - [🏛️ Architecture (154)](#architecture)
 - [🔄 Transformation & Delivery (646)](#transformation-delivery)
 - [🛠️ Engineering & Software (1378)](#engineering-software)
-- [📌 Other Senior Roles (365)](#other-senior-roles)
+- [📌 Other Senior Roles (366)](#other-senior-roles)
 - [🔒 Recently closed (812)](#recently-closed)
 - Daily digests: [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md)
 
@@ -64,6 +64,7 @@ By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184
 | TECHNIQUE | 🆕 Director of Program Management | Director | Jackson, MI, USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b0a7f1d-fe2d-4bae-8e09-f05413d1a8e3&ccId=69793913_3&jobId=16485&jwId=69793913_1&source=IN&lang=en_US) |
 | YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | Samsung Electronics | 🆕 Head of Strategy, Digital Health | Head | 645 Clyde Avenue, Mountain View, CA, USA |  | 2d | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Head-of-Strategy--Digital-Health_R122381) |
+| Avangrid | 🆕 Sr Director - Solution & Process Gov | Sr. Director | United States Of America, Connecticut, Ora +1 | $198K–$247K | 3d | [Apply](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Sr-Director---Solution---Process-Gov_R-35465) |
 
 <a name="houston-area"></a>
 
@@ -2210,6 +2211,7 @@ _1128 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | Assessments & Exercises Vice President - Red Team Operator | VP | OH, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806309) |
 | Southland Industries | Director of Innovation | Director | Dallas, TX |  | 2d | [Apply](https://southland.wd504.myworkdayjobs.com/External/job/Dallas-TX/Director-of-Innovation_R-1005964) |
 | Wiley | Group Vice President, Enterprise Systems Product Management | VP | Hoboken (HQ), NJ, USA |  | 2d | [Apply](https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Hoboken-HQ-NJ-USA/Group-Vice-President--Enterprise-Systems-Product-Management_R2601352-1) |
+| Avangrid | 🆕 Sr Director - Solution & Process Gov | Sr. Director | United States Of America, Connecticut, Ora +1 | $198K–$247K | 3d | [Apply](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Sr-Director---Solution---Process-Gov_R-35465) |
 | City and County of San Francisco | Deputy Director of the Office of the County Clerk (1824) - County Clerk - Office of the City Administrator | Director | San Francisco, CA, us |  | 3d | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016984566-deputy-director-of-the-office-of-the-county-clerk-1824-county-clerk-office-of-the-city-administrator) ⚡ |
 | Ascension | Senior Director Revenue Cycle Oracle Systems | Sr. Director | USA · Remote | $139K–$236K | 3d | [Apply](https://jobs-oraclecloud.ascension.org/en/job/31055) |
 | Information Technology Senior Management Forum | Staff Full-Stack Engineer (Director-Level) | Director | McLean, VA, USA | $245K–$335K | 3d | [Apply](https://jobs.itsmfleaders.org/job/uvx7lj/staff-full-stack-engineer-(director-level)/mclean/va) |
@@ -2441,9 +2443,8 @@ _1128 older roles in this section are in data/roles.json on the `data` branch._
 | Neumo Holdings LLC | VP-Product Management | VP | Houston, TX, USA |  | 30d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=56dad57d-81b7-4889-9f75-7ef29807fa05&ccId=1990797403_6352&jobId=620159&source=IN&lang=en_US) |
 | Aurora Solar | Director, Business Systems | Director | United States · Remote | $165K–$268K | 30d | [Apply](https://jobs.ashbyhq.com/aurorasolar/dfd4da2f-e07a-48d4-8bbf-7ee76cc42b60) ⚡ |
 | Citi (jobs.citi.com) ⭐ | Java Developer - Vice President | VP | Pune, MH, IN |  | 30d | [Apply](https://jobs.citi.com/job/pune/java-developer-vice-president/287/102333946336) |
-| Slate Auto | Director of Cybersecurity | Director | Remote WA |  | 30d | [Apply](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Remote-WA/Lead--System-Security_JR101492) |
 
-_115 older roles in this section are in data/roles.json on the `data` branch._
+_116 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

@@ -4,7 +4,7 @@
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
+| Honeywell ⭐ | Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
 | WSP | Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
 | CoVolt | Director of Business Transformation | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/SIG1007SGEN/JobBoard/1d63bc67-2233-4c90-b4e5-2ebdcffb3021/OpportunityDetail?opportunityId=908c9795-7fb4-494b-a302-bd3d47b0d312&postingId=ebd79b39-bec5-4191-9520-892fda52e717) |
 | Crescent Energy | Director of Enterprise Services | Director | Houston, TX |  | 2d | [Apply](https://crescentenergyco.wd108.myworkdayjobs.com/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) [alt](https://crescentenergyco.wd108.myworkdayjobs.com/en-US/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) |

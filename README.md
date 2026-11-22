@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,159 open roles** at **1,968 companies** · **27 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 02:55 AM ET
+**5,160 open roles** at **1,968 companies** · **27 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 03:57 AM ET
 
-By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183 · EVP/SVP 154 · ED 128 · MD 57
+By level: Director 2762 · VP 882 · Sr. Director 677 · Head 317 · C-level 183 · EVP/SVP 154 · ED 128 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,7 +36,7 @@ By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183
 - [☁️ Cloud & Infrastructure (462)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
 - [🔄 Transformation & Delivery (644)](#transformation-delivery)
-- [🛠️ Engineering & Software (1377)](#engineering-software)
+- [🛠️ Engineering & Software (1378)](#engineering-software)
 - [📌 Other Senior Roles (365)](#other-senior-roles)
 - [🔒 Recently closed (812)](#recently-closed)
 - Daily digests: [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md) · [11-16](data/daily/2026-11-16.md)
@@ -2065,6 +2065,7 @@ _394 older roles in this section are in data/roles.json on the `data` branch._
 | J&A Consulting LLC | VP of Information Technology (VP of IT) / NYC Bank / Up to $210K + 100% Paid Benefits | VP | New York, NY, USA | $170K–$210K | 3d | [Apply](https://www.indeed.com/viewjob?jk=8636cd1e4fd79877) |
 | Sandestin Investments LLC | Director of Information Technology | Director | Miramar Beach, FL, USA |  | 3d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ff3b9812-b488-4144-b294-432d90a31381&ccId=19000101_000001&jobId=634929&source=IN&lang=en_US) |
 | UPS | Director, Software Engineering (Flex Location) | Director | Mahwah, NJ, USA |  | 3d | [Apply](https://www.jobs-ups.com/us/en/job/UPBUPSGLOBALR26042684EXTERNALENUS/Director-Software-Engineering-Flex-Location?utm_source=indeed&utm_medium=phenom-feeds) [alt](https://www.jobs-ups.com/us/en/job/UPBUPSGLOBALR26042684EXTERNALENUS) |
+| Montefiore Einstein | Director Engineering | Director | 1825 Eastchester Road |  | 4d | [Apply](https://montefiore.wd12.myworkdayjobs.com/en-US/MMC/job/1825-Eastchester-Road/Director-Engineering_JR229463-1) |
 | JLL ⭐ | Senior Technical Design Director, Workplace Interiors | Director | Chicago, IL |  | 4d | [Apply](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Senior-Technical-Design-Director--Workplace-Interiors_REQ550144) |
 | Stanley Black & Decker | Sr Director, Systems Engineering & Processes - Americas & EMEA | Sr. Director | Towson, MD, United States |  | 4d | [Apply](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Director--Systems-Engineering---Processes---Americas---EMEA_REQ-1000052148) |
 | LPL Financial | VP Lead Software Engineer | VP | Fort Mill/Charlotte |  | 4d | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/VP-Lead-Software-Engineer_R-054790-1) |
@@ -2191,9 +2192,8 @@ _394 older roles in this section are in data/roles.json on the `data` branch._
 | S&P Global ⭐ | Global Head of Agentic Engineering, DJI | Head | New York, NY | $220K–$325K | 6d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Global-Head-of-Agentic-Engineering_331903-1) |
 | SS&C Technologies | Director, Software Engineering | Director | New York, NY +1 |  | 6d | [Apply](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/New-York-NY/Director--Software-Engineering_R47011) |
 | Magna International | Global Director, IT Internal Audit | Director | Troy, MI, USA |  | 6d | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Global-Director--IT-Internal-Audit_R00270250) |
-| TheMasonGroup | Director of Engineering | Director | Langhorne, PA, USA |  | 6d | [Apply](https://www.indeed.com/viewjob?jk=e25a1c3f4f58dabd) |
 
-_1127 older roles in this section are in data/roles.json on the `data` branch._
+_1128 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,166 open roles** at **1,971 companies** · **20 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 05:58 AM ET
+**5,166 open roles** at **1,971 companies** · **18 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 22, 2026 06:57 AM ET
 
 By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184 · EVP/SVP 154 · ED 128 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184
 
 ## Contents
 
-- [🆕 New in the last 24 hours (20)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (18)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -47,8 +47,8 @@ By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Steampunk | 🆕 Director of Platform Engineering (Cloud and DevOps) | Director | McLean, VA, USA | $180K–$200K | 0d | [Apply](https://careers-steampunk.icims.com/jobs/9212/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Steampunk | 🆕 Director of Software Modernization | Director | McLean, VA, USA | $180K–$200K | 0d | [Apply](https://careers-steampunk.icims.com/jobs/9211/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Steampunk | 🆕 Director of Platform Engineering (Cloud and DevOps) | Director | McLean, VA, USA | $180K–$200K | 0d | [Apply](https://careers-steampunk.icims.com/jobs/9212/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Chequers Partenaires | 🆕 Digital Director | Director | West Sacramento, CA, USA | $160K–$200K | 0d | [Apply](https://www.indeed.com/viewjob?jk=ea013c5baa7d55ca) |
 | Lincoln Property Company | 🆕 Director, Information Security and GRC | Director | Dallas, TX, USA |  | 0d | [Apply](https://grnh.se/m3uxkypj7us) |
 | Risk Ledger | 🆕 Director of Technology Risk | Director | Remote, USA | $230K–$280K | 1d | [Apply](https://www.indeed.com/viewjob?jk=87acd818bbf4b39a) |
@@ -65,8 +65,6 @@ By level: Director 2764 · VP 883 · Sr. Director 677 · Head 319 · C-level 184
 | YooyMail Tech LLC | 🆕 Software Director | Director | Boston, MA, USA | $180K–$240K | 1d | [Apply](https://www.indeed.com/viewjob?jk=8142530371d235a5) |
 | Samsung Electronics | 🆕 Head of Strategy, Digital Health | Head | 645 Clyde Avenue, Mountain View, CA, USA |  | 2d | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Head-of-Strategy--Digital-Health_R122381) |
 | Gilead Sciences ⭐ | 🆕 VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
-| Colorado State University | 🆕 Director of Assistive Technology & Digital Accessibility | Director | Fort Collins, CO |  | 2d | [Apply](https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Director-of-Assistive-Technology---Digital-Accessibility_R2026108004) |
-| Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta HQ |  | 2d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
 
 <a name="houston-area"></a>
 
@@ -762,7 +760,7 @@ _100 older roles in this section are in data/roles.json on the `data` branch._
 | Slalom Consulting | Senior Director, Data Architecture & Engineering | Sr. Director | Los Angeles, CA, USA | $207K–$260K | 1d | [Apply](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=4264) |
 | Baxter | VP, IT - AI & Data Platforms | VP | Deerfield, Illinois |  | 1d | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Deerfield-Illinois/VP--IT---AI---Data-Platforms_JR-201760-1) |
 | Citi ⭐ | AI Digital Senior Product Lead, Global Services - Senior Vice President | EVP/SVP | New York New York United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/AI-Digital-Senior-Product-Lead--Global-Services---Senior-Vice-President_26995877) |
-| Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta HQ |  | 2d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
+| Zep, Inc. | Director, Enterprise Data & AI | Director | Atlanta HQ |  | 2d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
 | Bon Secours Mercy Health | System Director Artificial Intelligence Architecture | Director | Any City, Ohio, United States of America |  | 2d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR288809EXTERNALENUS) |
 | Bon Secours Mercy Health | System Director Artificial Intelligence | Director | Any City, Ohio, United States of America |  | 2d | [Apply](https://careers.bsmhealth.org/us/en/job/BSMBSMUSR293135EXTERNALENUS) |
 | Integral Ad Science | Director, Data Science | Director | New York, NY, USA | $187K–$320K | 2d | [Apply](https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
@@ -1686,7 +1684,7 @@ _213 older roles in this section are in data/roles.json on the `data` branch._
 | WSP | Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
 | CoVolt | Director of Business Transformation | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/SIG1007SGEN/JobBoard/1d63bc67-2233-4c90-b4e5-2ebdcffb3021/OpportunityDetail?opportunityId=908c9795-7fb4-494b-a302-bd3d47b0d312&postingId=ebd79b39-bec5-4191-9520-892fda52e717) |
 | Samsung Electronics | 🆕 Head of Strategy, Digital Health | Head | 645 Clyde Avenue, Mountain View, CA, USA |  | 2d | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Head-of-Strategy--Digital-Health_R122381) |
-| Colorado State University | 🆕 Director of Assistive Technology & Digital Accessibility | Director | Fort Collins, CO |  | 2d | [Apply](https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Director-of-Assistive-Technology---Digital-Accessibility_R2026108004) |
+| Colorado State University | Director of Assistive Technology & Digital Accessibility | Director | Fort Collins, CO |  | 2d | [Apply](https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Director-of-Assistive-Technology---Digital-Accessibility_R2026108004) |
 | Barclays | VP – Process Transformation & Optimization | VP | Whippany, NJ, USA | $130K–$210K | 2d | [Apply](https://search.jobs.barclays/job/whippany/vp-process-transformation-and-optimization/13015/103565438640) |
 | Peraton | Senior IT Program Portfolio Director | Director | Washington, DC, USA | $176K–$282K | 2d | [Apply](https://www.careers.peraton.com/jobs/senior-it-program-portfolio-director-washington-d-c-172855-jobs--project-management--) |
 | Honeywell Aerospace | Director Program Management | Director | Phoenix, AZ, United States |  | 2d | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/129758) |

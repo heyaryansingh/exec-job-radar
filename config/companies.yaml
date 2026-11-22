@@ -671,3 +671,5 @@
 - {name: "Zebra Technologies", ats: "workday", host: "zebra.wd501.myworkdayjobs.com", site: "Zebra_careers", tier: 2, sector: "tech"}
 - {name: "Martin Marietta", ats: "workday", host: "martinmarietta.wd5.myworkdayjobs.com", site: "Martin_Marietta_Careers", tier: 3, sector: "industrial"}
 - {name: "ON Semiconductor", ats: "oracle", host: "hctz.fa.us2.oraclecloud.com", site: "CX_1001", tier: 2, sector: "semiconductors"}
+- {name: "Hippocratic AI", ats: "ashby", slug: "Hippocratic%20AI", tier: 3, sector: "AI"}
+- {name: "Credo", ats: "ashby", slug: "credo", tier: 3, sector: "semiconductors"}

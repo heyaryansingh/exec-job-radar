@@ -1680,7 +1680,10 @@
    "slug": "saronic"
   },
   "H2O.ai": null,
-  "Hippocratic AI": null,
+  "Hippocratic AI": {
+   "ats": "ashby",
+   "slug": "Hippocratic%20AI"
+  },
   "Instacart Maplebear": {
    "duplicate_of": "greenhouse|instacart||"
   },
@@ -3755,7 +3758,10 @@
    "slug": "hpsinvestmentpartners"
   },
   "Francisco Partners": null,
-  "Credo": null,
+  "Credo": {
+   "ats": "ashby",
+   "slug": "credo"
+  },
   "Oaktree Capital": {
    "ats": "workday",
    "host": "oaktree.wd1.myworkdayjobs.com",

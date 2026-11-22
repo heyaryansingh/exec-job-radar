@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,167 open roles** at **1,971 companies** · **15 new in the last 24 hours** · 6,141 company career sites watched · updated hourly · last update Nov 22, 2026 09:46 AM ET
+**5,166 open roles** at **1,971 companies** · **15 new in the last 24 hours** · 6,141 company career sites watched · updated hourly · last update Nov 22, 2026 10:32 AM ET
 
-By level: Director 2764 · VP 883 · Sr. Director 678 · Head 319 · C-level 184 · EVP/SVP 154 · ED 128 · MD 57
+By level: Director 2764 · VP 883 · Sr. Director 678 · Head 319 · C-level 184 · EVP/SVP 154 · ED 127 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 2764 · VP 883 · Sr. Director 678 · Head 319 · C-level 184
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
-- [🧠 Data & AI (1251)](#data-ai)
+- [🧠 Data & AI (1250)](#data-ai)
 - [🚦 Reliability & Operations (366)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (463)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
@@ -985,7 +985,7 @@ _100 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | Vice President, Agentic Product Delivery & AI Tooling | VP | New York, NY, United States |  | 9d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808582) |
 | Capital One ⭐ | Director, Machine Learning Engineer | Director | San Jose, CA +3 | $294K–$335K | 9d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Director--Machine-Learning-Engineer_R1004808-1) |
 
-_1001 older roles in this section are in data/roles.json on the `data` branch._
+_1000 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2451,6 +2451,7 @@ _116 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CVS Health ⭐ | 🔒 Executive Director, Enterprise Data Platform Product and Operations | ED | RI - Woonsocket · Remote |  | 11d | Closed |
 | Oracle | 🔒 Senior Director, Compensation - Oracle Cloud Infrastructure | Sr. Director | Nashville, TN, United States | $170K–$355K | 37d | Closed |
 | 5C Data Centers USA, Inc. | 🔒 Vice President, Data Center Operations | VP | Springfield, OH, USA |  | 31d | Closed |
 | Absher Construction Company | 🔒 Director of Technology | Director | Puyallup, WA, USA | $165K–$200K | 31d | Closed |
@@ -2750,7 +2751,6 @@ _116 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🔒 Senior Full-stack Java Developer, VP | VP | Jersey City, NJ, US |  | 34d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 Principal Backend Engineer Vice President | VP | Mississauga, ON, CA |  | 34d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 VP - KYC Operations Senior AI Lead | VP | Mumbai, MH, IN |  | 34d | Closed |
-| Citi (jobs.citi.com) ⭐ | 🔒 VP - KYC Operations Data Lead | VP | Mumbai, MH, IN |  | 34d | Closed [alt](https://jobs.citi.com/job/mumbai/vp-kyc-operations-data-lead/287/102161042432) |
 
 </details>
 

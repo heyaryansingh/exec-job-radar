@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,159 open roles** at **1,968 companies** · **44 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 09:14 PM ET
+**5,159 open roles** at **1,968 companies** · **43 new in the last 24 hours** · 6,140 company career sites watched · updated hourly · last update Nov 21, 2026 10:03 PM ET
 
 By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183 · EVP/SVP 154 · ED 128 · MD 57
 
@@ -27,7 +27,7 @@ By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183
 
 ## Contents
 
-- [🆕 New in the last 24 hours (44)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (43)](#new-in-the-last-24-hours)
 - [🤠 Houston area (197)](#houston-area)
 - [👑 Executive Technology Leadership (192)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
@@ -83,7 +83,6 @@ By level: Director 2761 · VP 882 · Sr. Director 677 · Head 317 · C-level 183
 | State of Georgia | 🆕 Director of Institutional Innovation and AI Initiatives | Director | Albany, GA, USA |  | 1d | [Apply](https://georgia.wd5.myworkdayjobs.com/en-US/TGC/job/82000-AP_820-820-Albany-Technical-College/Director-of-Institutional-Innovation-and-AI-Initiatives_JR0000008396) |
 | Thomas Construction Group LLC | 🆕 IT Director | Director | Wilmington, NC, USA |  | 1d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ba6cc833-331b-4bd3-8ad7-52e8dbc56394&ccId=19000101_000001&jobId=968848&source=IN&lang=en_US) |
 | JPMorgan Chase ⭐ | 🆕 Data Management Director | Director | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811038) |
-| WSP | 🆕 Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
 | Gilead Sciences ⭐ | 🆕 VP, Development IT | VP | United States - California - Foster City |  | 2d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/VP--Development-IT_R0056500) |
 | Colorado State University | 🆕 Director of Assistive Technology & Digital Accessibility | Director | Fort Collins, CO |  | 2d | [Apply](https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Director-of-Assistive-Technology---Digital-Accessibility_R2026108004) |
 | Zep, Inc. | 🆕 Director, Enterprise Data & AI | Director | Atlanta HQ |  | 2d | [Apply](https://zepinc.wd503.myworkdayjobs.com/en-US/zepinccareers/job/Atlanta-HQ/Director--Enterprise-Data---AI_J109914) |
@@ -101,7 +100,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Honeywell ⭐ | 🆕 Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 1d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
-| WSP | 🆕 Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
+| WSP | Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
 | CoVolt | Director of Business Transformation | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/SIG1007SGEN/JobBoard/1d63bc67-2233-4c90-b4e5-2ebdcffb3021/OpportunityDetail?opportunityId=908c9795-7fb4-494b-a302-bd3d47b0d312&postingId=ebd79b39-bec5-4191-9520-892fda52e717) |
 | Crescent Energy | Director of Enterprise Services | Director | Houston, TX |  | 2d | [Apply](https://crescentenergyco.wd108.myworkdayjobs.com/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) [alt](https://crescentenergyco.wd108.myworkdayjobs.com/en-US/crescent_energy_careers/job/Houston-TX/Director-of-Enterprise-Services_R544) |
 | Honeywell ⭐ | Director, Strategic Finance & Technology | Director | Houston, TX, United States |  | 3d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162651) |
@@ -1705,7 +1704,7 @@ _212 older roles in this section are in data/roles.json on the `data` branch._
 | Information Technology Senior Management Forum | 🆕 Director, Technical Program Management | Director | McLean, VA, USA | $210K–$263K | 1d | [Apply](https://jobs.itsmfleaders.org/job/5qnu2r/director-technical-program-management/mclean/va) |
 | TECHNIQUE | 🆕 Director of Program Management | Director | Jackson, MI, USA · Remote |  | 1d | [Apply](https://workforcenow.cloud.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b0a7f1d-fe2d-4bae-8e09-f05413d1a8e3&ccId=69793913_3&jobId=16485&jwId=69793913_1&source=IN&lang=en_US) |
 | Rich Products | 🆕 Director, Commercial Digital Experience & Commerce | Director | Buffalo, NY, USA | $163K–$271K | 1d | [Apply](https://careers.rich.com/job/Buffalo-Director%2C-Commercial-Digital-Experience-&-Commerce-NY-14213/1452724000/) |
-| WSP | 🆕 Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
+| WSP | Senior Director, Portfolio Management – Power Delivery | Sr. Director | Houston, TX, United States | $182K–$367K | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99911) |
 | CoVolt | Director of Business Transformation | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting.ultipro.com/SIG1007SGEN/JobBoard/1d63bc67-2233-4c90-b4e5-2ebdcffb3021/OpportunityDetail?opportunityId=908c9795-7fb4-494b-a302-bd3d47b0d312&postingId=ebd79b39-bec5-4191-9520-892fda52e717) |
 | Colorado State University | 🆕 Director of Assistive Technology & Digital Accessibility | Director | Fort Collins, CO |  | 2d | [Apply](https://csusystem.wd12.myworkdayjobs.com/en-US/fortcollins_careers/job/Fort-Collins-CO/Director-of-Assistive-Technology---Digital-Accessibility_R2026108004) |
 | Barclays | VP – Process Transformation & Optimization | VP | Whippany, NJ, USA | $130K–$210K | 2d | [Apply](https://search.jobs.barclays/job/whippany/vp-process-transformation-and-optimization/13015/103565438640) |

@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,122 open roles** at **1,944 companies** · **24 new in the last 24 hours** · 6,146 company career sites watched · updated hourly · last update Nov 23, 2026 09:02 AM ET
+**5,124 open roles** at **1,944 companies** · **27 new in the last 24 hours** · 6,146 company career sites watched · updated hourly · last update Nov 23, 2026 10:02 AM ET
 
-By level: Director 2749 · VP 871 · Sr. Director 669 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
+By level: Director 2750 · VP 871 · Sr. Director 669 · Head 320 · C-level 184 · EVP/SVP 150 · ED 122 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (27)](#new-in-the-last-24-hours)
 - [🤠 Houston area (195)](#houston-area)
-- [👑 Executive Technology Leadership (192)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (350)](#security-risk-technology)
 - [🧠 Data & AI (1243)](#data-ai)
 - [🚦 Reliability & Operations (358)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (454)](#cloud-infrastructure)
 - [🏛️ Architecture (153)](#architecture)
 - [🔄 Transformation & Delivery (643)](#transformation-delivery)
-- [🛠️ Engineering & Software (1365)](#engineering-software)
+- [🛠️ Engineering & Software (1366)](#engineering-software)
 - [📌 Other Senior Roles (364)](#other-senior-roles)
-- [🔒 Recently closed (901)](#recently-closed)
+- [🔒 Recently closed (902)](#recently-closed)
 - Daily digests: [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,6 +47,9 @@ By level: Director 2749 · VP 871 · Sr. Director 669 · Head 320 · C-level 183
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| PNC | 🆕 IT Director (GOV) - Tempus | Director | ZZ - Remote Location |  | 0d | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/IT-Director--GOV----Tempus_R240714-1) |
+| Alight Solutions | 🆕 AI Delivery Director - Virtual | Director | Deerfield, Illinois, United States of Amer |  | 0d | [Apply](https://careers.alight.com/us/en/job/ALIGUSR38739EXTERNALENUS) |
+| AECOM | 🆕 Principal, NY Metro Transportation Chief Architect (req 744000163244926) | C-level | New York, NY, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163244926-principal-ny-metro-transportation-chief-architect) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Risk Management Credit Officer Lead - Leveraged Finance Credit Risk Technology, Media, Telecommunications - Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810890) |
 | Pfizer ⭐ | 🆕 Director, Team Lead, Regional Engineering Group Lead | Director | 2 Locations |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Team-Lead--Regional-Engineering-Group-Lead_4967821-1) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Audit Manager – AI Non-model Objects - Vice President | VP | Mississauga, ON, CA |  | 0d | [Apply](https://jobs.citi.com/job/mississauga/audit-manager-ai-non-model-objects-vice-president/287/103680861472) |
@@ -282,6 +285,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| AECOM | 🆕 Principal, NY Metro Transportation Chief Architect (req 744000163244926) | C-level | New York, NY, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163244926-principal-ny-metro-transportation-chief-architect) ⚡ |
 | Ashley Hall | Chief Technology Officer | C-level | Charleston, SC, USA |  | 2d | [Apply](https://apply.appone.com:443/job/6b00a94f064b95265ec42261?utm_source=INDEED) |
 | Q2Impact | Chief Technology Officer (CTO) | C-level | USA · Remote |  | 3d | [Apply](https://apply.workable.com/j/607EE6BD69) |
 | Georgia Department of Behavioral Health and Developmental Disabilities | Chief Information Security Officer | C-level | Tucker |  | 4d | [Apply](https://georgia.wd5.myworkdayjobs.com/en-US/TGC/job/Tucker/Chief-Information-Security-Officer_JR0000008176) |
@@ -428,7 +432,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | KADENCE | Chief Technology Officer | C-level | White Plains, New York |  | 25d | [Apply](https://www.talent.com/view?id=641833507626484906) |
 | US Mobile | Chief Technology Officer at US Mobile New York, NY | C-level | New York, New York |  | 25d | [Apply](https://navarrostudio.com/work/job/chief-technology-officer-at-us-mobile-new-york-ny-RVlTdnhYdXFueitsbzI5OXlrODFZcGFEWUE9PQ==) |
 | Innovation Health | Chief Technology Officer | C-level | North Little Rock, AR, USA | $220K–$275K | 25d | [Apply](https://www.indeed.com/viewjob?jk=b76a9d8615e9a0c0) |
-| AECOM | Principal, NY Metro Transportation Chief Architect | C-level | New York, NY, us |  | 26d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000158339839-principal-ny-metro-transportation-chief-architect) ⚡ |
+| AECOM | Principal, NY Metro Transportation Chief Architect (req 744000158339839) | C-level | New York, NY, us |  | 26d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000158339839-principal-ny-metro-transportation-chief-architect) ⚡ |
 | Envision Radiology | Chief AI and Transformation Officer | C-level | Colorado Springs, CO, USA | $284K–$355K | 26d | [Apply](https://recruiting.ultipro.com/ENV1004ERLL/JobBoard/01ddc4d3-605b-44e6-9b43-4abf0d1399b1/OpportunityDetail?opportunityId=89e7aeb8-64b1-457d-8fcc-4441ef839ccc&postingId=3c65c69e-530d-4357-89be-be8c70edfb81) |
 | Ericsson | Chief Technology Officer | C-level | Bellevue, WA, USA | $217K–$286K | 26d | [Apply](https://jobs.ericsson.com/careers/job/563121777520379?domain=ericsson.com) |
 | Asurion | Chief Architect | C-level | Nashville, Tennessee, United States of Ame |  | 26d | [Apply](https://careers.asurion.com/us/en/job/ASRASRUSASU0021554EXTERNALENUS) |
@@ -740,6 +744,7 @@ _100 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Alight Solutions | 🆕 AI Delivery Director - Virtual | Director | Deerfield, Illinois, United States of Amer |  | 0d | [Apply](https://careers.alight.com/us/en/job/ALIGUSR38739EXTERNALENUS) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Audit Manager – AI Non-model Objects - Vice President | VP | Mississauga, ON, CA |  | 0d | [Apply](https://jobs.citi.com/job/mississauga/audit-manager-ai-non-model-objects-vice-president/287/103680861472) |
 | Domino's | 🆕 Director, Data Platform Engineering (req 744000163126634) | Director | Ann Arbor, MI, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163126634-director-data-platform-engineering) ⚡ |
 | Brookfield Asset Management | 🆕 VP, AI Product Owner | VP | New York, New York |  | 0d | [Apply](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/VP--AI-Product-Owner_R2050954) |
@@ -989,7 +994,6 @@ _100 older roles in this section are in data/roles.json on the `data` branch._
 | Oglethorpe Power Corporation | Director, Digital, Data & AI Enablement | Director | Tucker, GA, USA | $185K–$231K | 10d | [Apply](https://www.applicantpro.com/openings/opc/jobs/4275512-677127) |
 | PwC | AI Engineer / Data Scientist, AI Director | Director | NY-New York |  | 10d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773673WDEXTERNALENUS) |
 | Northwest | Director of Data Governance | Director | Columbus, OH |  | 10d | [Apply](https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Columbus-OH/IT76---Director-of-Data-Governance_R-102102) |
-| JD Power | Director, Data Acquisition | Director | JD Power USA - Troy +1 · Remote |  | 10d | [Apply](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/JD-Power-USA---Troy/Director--Data-Acquisition_R-100589) |
 
 _993 older roles in this section are in data/roles.json on the `data` branch._
 
@@ -1936,6 +1940,7 @@ _393 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| PNC | 🆕 IT Director (GOV) - Tempus | Director | ZZ - Remote Location |  | 0d | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/IT-Director--GOV----Tempus_R240714-1) |
 | Pfizer ⭐ | 🆕 Director, Team Lead, Regional Engineering Group Lead | Director | 2 Locations |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Team-Lead--Regional-Engineering-Group-Lead_4967821-1) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Perth, WA, Australia |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26153068) |
 | Elanco | 🆕 Senior Director - Technical Services | Sr. Director | 2 Locations |  | 2d | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Senior-Director---Technical-Services_R0027973-1) |
@@ -2185,9 +2190,8 @@ _393 older roles in this section are in data/roles.json on the `data` branch._
 | Dept_PhysLoc | Director of Technical Solutions (982) | Director | Fort Mill, SC, USA |  | 7d | [Apply](https://jobs.dayforcehcm.com/en-US/wikoff/CANDIDATEPORTAL/jobs/907) |
 | Fidelity Investments | Director, Engineering - Alternative Investments | Director | Boston, MA, USA | $126K–$255K | 7d | [Apply](https://jobs.fidelity.com/en/jobs/2137555/director-engineering-alternative-investments/) |
 | Cascades Healthcare | Director of Information Technology | Director | Provo, UT, USA |  | 7d | [Apply](https://cascadeshealthcare.isolvedhire.com/jobs/1906576-172493.html) |
-| Fidelity Investments | Director, Engineering - Alternative Investments | Director | Westlake, TX, USA | $126K–$255K | 7d | [Apply](https://jobs.fidelity.com/en/jobs/2137555/director-engineering-alternative-investments/) |
 
-_1115 older roles in this section are in data/roles.json on the `data` branch._
+_1116 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2456,6 +2460,7 @@ _114 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| GitLab | 🔒 Director, Data Science | Director | Remote, Canada +1 | $210K–$314K | 18d | Closed |
 | Oracle | 🔒 Director, Platform Software Engineering | Director | United States | $131K–$306K | 31d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Data Management Director | Director | NY, United States |  | 2d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Senior Director of Software Engineering | Sr. Director | Jersey City, NJ, United States |  | 25d | Closed |
@@ -2755,7 +2760,6 @@ _114 older roles in this section are in data/roles.json on the `data` branch._
 | Eaton | 🔒 Vice President of Engineering | VP | Highland, IL, USA | $203K–$297K | 34d | Closed |
 | Eaton | 🔒 Vice President of Engineering | VP | Syracuse, NY, USA | $203K–$297K | 34d | Closed |
 | Eli Lilly | 🔒 Senior Director - Security Posture & Exposure Management | Sr. Director | Indianapolis, IN, USA | $159K–$257K | 34d | Closed [alt](https://careers.lilly.com/us/en/job/LILLUSR113644EXTERNALENUS) |
-| Ellucian | 🔒 Director of Campus Modernization (Director, Application Services) at Houston Christian University | Director | Houston, TX, USA |  | 34d | Closed |
 
 </details>
 

@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,149 open roles** at **1,951 companies** · **57 new in the last 24 hours** · 6,148 company career sites watched · updated hourly · last update Nov 23, 2026 01:53 PM ET
+**5,152 open roles** at **1,950 companies** · **61 new in the last 24 hours** · 6,152 company career sites watched · updated hourly · last update Nov 23, 2026 02:54 PM ET
 
-By level: Director 2765 · VP 874 · Sr. Director 675 · Head 320 · C-level 184 · EVP/SVP 150 · ED 123 · MD 58
+By level: Director 2768 · VP 875 · Sr. Director 674 · Head 320 · C-level 184 · EVP/SVP 150 · ED 123 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (57)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (61)](#new-in-the-last-24-hours)
 - [🤠 Houston area (195)](#houston-area)
 - [👑 Executive Technology Leadership (193)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (351)](#security-risk-technology)
-- [🧠 Data & AI (1245)](#data-ai)
+- [🧠 Data & AI (1246)](#data-ai)
 - [🚦 Reliability & Operations (359)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (458)](#cloud-infrastructure)
 - [🏛️ Architecture (157)](#architecture)
-- [🔄 Transformation & Delivery (647)](#transformation-delivery)
+- [🔄 Transformation & Delivery (648)](#transformation-delivery)
 - [🛠️ Engineering & Software (1374)](#engineering-software)
-- [📌 Other Senior Roles (365)](#other-senior-roles)
+- [📌 Other Senior Roles (366)](#other-senior-roles)
 - [🔒 Recently closed (903)](#recently-closed)
 - Daily digests: [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md)
 
@@ -47,19 +47,23 @@ By level: Director 2765 · VP 874 · Sr. Director 675 · Head 320 · C-level 184
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| BNY ⭐ | 🆕 Vice President, Database Engineer | VP | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83175) |
+| Hilton ⭐ | 🆕 Director of Engineering - DoubleTree Jersey City | Director | Jersey City, NJ, United States |  | 0d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/232578) |
+| Centene | 🆕 Director, IT Portfolio Management | Director | Remote-MO |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Director--IT-Portfolio-Management_1677683) |
+| BlackRock ⭐ | 🆕 Director, AI Productivity Product Lead | Director | New York, NY |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Director--AI-Productivity-Product-Lead_R267272) |
+| Bollinger Shipyards | 🆕 Director of Project Engineering | Director | Mandeville, LA, USA |  | 0d | [Apply](https://bollingershipyards.exacthire.com/job/212745?source=335) |
+| EY | 🆕 Markets Project Finance, Assistant Director - Government and Infrastructure | Director | McLean, VA, USA | $129K–$228K | 0d | [Apply](https://careers.ey.com/ey/job/McLean-Markets-Project-Finance%2C-Assistant-Director-Government-and-Infrastructure-VA-22102/1459849433/) |
+| Madison Reed | 🆕 Director of Product, HCB technology | Director | San Francisco, CA, USA · Remote | $200K–$210K | 0d | [Apply](https://grnh.se/9w68az9g1us) |
+| National Institutes of Health | 🆕 Deputy Director, Office of Research Infrastructure Programs (ORIP) | Director | Bethesda, MD, USA |  | 0d | [Apply](https://hr.nih.gov/careers/open-positions/job-e4b4c54d-db3e-4843-8528-e92b9e88a300) |
+| NetApp | 🆕 Director, Strategy & Operations | Director | Remote, USA | $228K–$339K | 0d | [Apply](https://careers.netapp.com/job/morrisville/director-strategy-and-operations/27600/103689269632) |
+| Polywater Corporation | 🆕 Director of Information Technology & Business Enablement | Director | Stillwater, MN, USA | $225K–$275K | 0d | [Apply](https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887aca1f5f45001a2093360754547&source=Indeed+Free) |
+| Smurfit Westrock | 🆕 Director, Product Management | Director | Atlanta, GA, USA |  | 0d | [Apply](https://westrockta.avature.net/en_US/careers/FolderDetail/Director-Product-Management/35094) |
+| Texas Health and Human Services Commission | 🆕 Director I - Application Engineering - 100% Remote | Director | Austin, TX, USA · Remote |  | 0d | [Apply](https://career41.sapsf.com/career?company=northgat01&career_ns=job_listing&career_job_req_id=23670&lang=en_US&jobPipeline=Indeed) |
 | Anduril Industries | 🆕 Director of Engineering, Modular Payload Systems | Director | Costa Mesa, California, United States | $260K–$302K | 0d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5307009007?gh_jid=5307009007) ⚡ |
+| Infoblox | 🆕 Senior Director, Data, Analytics and Reporting | Sr. Director | Santa Clara, California, United States | $186K–$290K | 0d | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8170) |
 | Centene | 🆕 Director, Provider Data Analytics and Reporting | Director | Remote-MO |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--Provider-Data-Analytics-and-Reporting_1677889) |
 | CVS Health ⭐ | 🆕 Lead Director - Software Engineering | Director | IRL - Galway |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Lead-Director---Software-Engineering_R1091096) |
 | Georgetown | 🆕 Director of Digital Strategy, Center for Children and Families - McCourt School of Public Policy - Georgetown University | Director | 500 First St NW 1st Floor |  | 0d | [Apply](https://georgetown.wd1.myworkdayjobs.com/en-US/Georgetown_Admin_Careers/job/500-First-St-NW-1st-Floor/Director-of-Digital-Strategy--Center-for-Children-and-Families---McCourt-School-of-Public-Policy---Georgetown-University_JR28050-1) |
-| Infoblox | 🆕 Senior Director, Data, Analytics and Reporting | Sr. Director | Santa Clara, California, United States | $186K–$290K | 0d | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8170) |
-| Polywater Corporation | 🆕 Director of Information Technology & Business Enablement | Director | Stillwater, MN, USA | $225K–$275K | 0d | [Apply](https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887aca1f5f45001a2093360754547&source=Indeed+Free) |
-| NetApp | 🆕 Director, Strategy & Operations | Director | Remote, USA | $228K–$339K | 0d | [Apply](https://careers.netapp.com/job/morrisville/director-strategy-and-operations/27600/103689269632) |
-| National Institutes of Health | 🆕 Deputy Director, Office of Research Infrastructure Programs (ORIP) | Director | Bethesda, MD, USA |  | 0d | [Apply](https://hr.nih.gov/careers/open-positions/job-e4b4c54d-db3e-4843-8528-e92b9e88a300) |
-| EY | 🆕 Markets Project Finance, Assistant Director - Government and Infrastructure | Director | McLean, VA, USA | $129K–$228K | 0d | [Apply](https://careers.ey.com/ey/job/McLean-Markets-Project-Finance%2C-Assistant-Director-Government-and-Infrastructure-VA-22102/1459849433/) |
-| Smurfit Westrock | 🆕 Director, Product Management | Director | Atlanta, GA, USA |  | 0d | [Apply](https://westrockta.avature.net/en_US/careers/FolderDetail/Director-Product-Management/35094) |
-| Texas Health and Human Services Commission | 🆕 Director I - Application Engineering - 100% Remote | Director | Austin, TX, USA · Remote |  | 0d | [Apply](https://career41.sapsf.com/career?company=northgat01&career_ns=job_listing&career_job_req_id=23670&lang=en_US&jobPipeline=Indeed) |
-| Madison Reed | 🆕 Director of Product, HCB technology | Director | San Francisco, CA, USA · Remote | $200K–$210K | 0d | [Apply](https://grnh.se/9w68az9g1us) |
-| Bollinger Shipyards | 🆕 Director of Project Engineering | Director | Mandeville, LA, USA |  | 0d | [Apply](https://bollingershipyards.exacthire.com/job/212745?source=335) |
 | Charm Industrial | 🆕 Senior Director of Engineering | Sr. Director | Fort Lupton, CO | $200K–$268K | 0d | [Apply](https://jobs.lever.co/charmindustrial/6f5c1333-8683-4083-bb65-b6fabd574366) ⚡ |
 | Grant Thornton | 🆕 Finance Transformation Director, Asset Management | Director | New York, NY, United States |  | 0d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116363) |
 | Oracle | 🆕 VP Engineering, Physical Networking | VP | United States | $225K–$481K | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/337336) |
@@ -774,8 +778,9 @@ _101 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Centene | 🆕 Director, Provider Data Analytics and Reporting | Director | Remote-MO |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--Provider-Data-Analytics-and-Reporting_1677889) |
+| BlackRock ⭐ | 🆕 Director, AI Productivity Product Lead | Director | New York, NY |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Director--AI-Productivity-Product-Lead_R267272) |
 | Infoblox | 🆕 Senior Director, Data, Analytics and Reporting | Sr. Director | Santa Clara, California, United States | $186K–$290K | 0d | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8170) |
+| Centene | 🆕 Director, Provider Data Analytics and Reporting | Director | Remote-MO |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--Provider-Data-Analytics-and-Reporting_1677889) |
 | BlackRock ⭐ | 🆕 Vice President, Modelling Data Scientist | VP | NY7 - 50 Hudson Yards, New York |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Vice-President--Modelling-Data-Scientist_R267314) |
 | Alight Solutions | 🆕 AI Delivery Director - Virtual | Director | Deerfield, Illinois, United States of Amer |  | 0d | [Apply](https://careers.alight.com/us/en/job/ALIGUSR38739EXTERNALENUS) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Audit Manager – AI Non-model Objects - Vice President | VP | Mississauga, ON, CA |  | 0d | [Apply](https://jobs.citi.com/job/mississauga/audit-manager-ai-non-model-objects-vice-president/287/103680861472) |
@@ -1023,9 +1028,8 @@ _101 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Director, Data Science (req R1005855) | Director | McLean, VA +4 | $294K–$335K | 10d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Science_R1005855-1) |
 | University Federal Credit Union | Director, AI and Analytics | Director | Austin, TX, USA |  | 10d | [Apply](https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=5066b4ff-5fb6-41b0-a700-de639f1a97b1&postingId=40899a78-9f04-4eba-b70b-17725aa3a017) |
 | Global Payments | Director of AI & Data Architecture | Director | ATLANTA, GEORGIA +1 |  | 10d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Head-of-Data---AI-Architecture_R0073916) |
-| CohnReznick | Director of Enterprise Data Management | Director | Dallas, TX, USA |  | 10d | [Apply](https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/3/opp/10276-Director-of-Enterprise-Data-Management/en-GB) |
 
-_995 older roles in this section are in data/roles.json on the `data` branch._
+_996 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1292,8 +1296,8 @@ _109 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| National Institutes of Health | 🆕 Deputy Director, Office of Research Infrastructure Programs (ORIP) | Director | Bethesda, MD, USA |  | 0d | [Apply](https://hr.nih.gov/careers/open-positions/job-e4b4c54d-db3e-4843-8528-e92b9e88a300) |
 | EY | 🆕 Markets Project Finance, Assistant Director - Government and Infrastructure | Director | McLean, VA, USA | $129K–$228K | 0d | [Apply](https://careers.ey.com/ey/job/McLean-Markets-Project-Finance%2C-Assistant-Director-Government-and-Infrastructure-VA-22102/1459849433/) |
+| National Institutes of Health | 🆕 Deputy Director, Office of Research Infrastructure Programs (ORIP) | Director | Bethesda, MD, USA |  | 0d | [Apply](https://hr.nih.gov/careers/open-positions/job-e4b4c54d-db3e-4843-8528-e92b9e88a300) |
 | JPMorgan Chase ⭐ | 🆕 Director of Software Engineering - DevOps Lead,  Payments | Director | Palo Alto, CA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808746) |
 | Labcorp | 🆕 Executive Director - IT Platform Delivery | ED | Durham NC |  | 0d | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Executive-Director---IT-Platform-Delivery_2640932-1) |
 | Aya Healthcare | 🆕 Director, Platform Enablement | Director | San Diego, CA, USA · Remote | $230K–$255K | 0d | [Apply](https://grnh.se/58ig0u9d1us) |
@@ -1715,6 +1719,7 @@ _208 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Centene | 🆕 Director, IT Portfolio Management | Director | Remote-MO |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Director--IT-Portfolio-Management_1677683) |
 | Georgetown | 🆕 Director of Digital Strategy, Center for Children and Families - McCourt School of Public Policy - Georgetown University | Director | 500 First St NW 1st Floor |  | 0d | [Apply](https://georgetown.wd1.myworkdayjobs.com/en-US/Georgetown_Admin_Careers/job/500-First-St-NW-1st-Floor/Director-of-Digital-Strategy--Center-for-Children-and-Families---McCourt-School-of-Public-Policy---Georgetown-University_JR28050-1) |
 | Grant Thornton | 🆕 Finance Transformation Director, Asset Management | Director | New York, NY, United States |  | 0d | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116363) |
 | DaVita | 🆕 Sr Director, Technical Delivery (Technology) | Sr. Director | 09567 - Denver HQ Non-CA or CO Remote +3 |  | 0d | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09567---Denver-HQ-Non-CA-or-CO-Remote/Sr-Director--Technical-Delivery--Technology-_R0487652) |
@@ -1964,9 +1969,8 @@ _208 older roles in this section are in data/roles.json on the `data` branch._
 | Turner Construction Company | Senior Director, Digital Transformation, SourceBlue | Sr. Director | CA, USA |  | 18d | [Apply](https://turnerconstruction.csod.com/ux/ats/careersite/1/home?c=turnerconstruction#/requisition/22204) |
 | Oracle | Senior Director Business Program Management Leader | Sr. Director | Nashville, TN, United States | $146K–$306K | 18d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/347423) |
 | CVS Health (Phenom) ⭐ | Lead Director, Enterprise Strategy (digital product) | Director | Work at Home, New York, United States |  | 18d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1083071EXTERNALENUS) |
-| Experian | Senior Director, Payer Product Strategy & Integration | Sr. Director | United States, UNITED STATES, us · Remote |  | 18d | [Apply](https://jobs.smartrecruiters.com/Experian/744000159947279-senior-director-payer-product-strategy-integration) ⚡ |
 
-_397 older roles in this section are in data/roles.json on the `data` branch._
+_398 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1974,12 +1978,13 @@ _397 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Anduril Industries | 🆕 Director of Engineering, Modular Payload Systems | Director | Costa Mesa, California, United States | $260K–$302K | 0d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5307009007?gh_jid=5307009007) ⚡ |
-| CVS Health ⭐ | 🆕 Lead Director - Software Engineering | Director | IRL - Galway |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Lead-Director---Software-Engineering_R1091096) |
+| Hilton ⭐ | 🆕 Director of Engineering - DoubleTree Jersey City | Director | Jersey City, NJ, United States |  | 0d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/232578) |
+| Bollinger Shipyards | 🆕 Director of Project Engineering | Director | Mandeville, LA, USA |  | 0d | [Apply](https://bollingershipyards.exacthire.com/job/212745?source=335) |
+| Madison Reed | 🆕 Director of Product, HCB technology | Director | San Francisco, CA, USA · Remote | $200K–$210K | 0d | [Apply](https://grnh.se/9w68az9g1us) |
 | Polywater Corporation | 🆕 Director of Information Technology & Business Enablement | Director | Stillwater, MN, USA | $225K–$275K | 0d | [Apply](https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887aca1f5f45001a2093360754547&source=Indeed+Free) |
 | Texas Health and Human Services Commission | 🆕 Director I - Application Engineering - 100% Remote | Director | Austin, TX, USA · Remote |  | 0d | [Apply](https://career41.sapsf.com/career?company=northgat01&career_ns=job_listing&career_job_req_id=23670&lang=en_US&jobPipeline=Indeed) |
-| Madison Reed | 🆕 Director of Product, HCB technology | Director | San Francisco, CA, USA · Remote | $200K–$210K | 0d | [Apply](https://grnh.se/9w68az9g1us) |
-| Bollinger Shipyards | 🆕 Director of Project Engineering | Director | Mandeville, LA, USA |  | 0d | [Apply](https://bollingershipyards.exacthire.com/job/212745?source=335) |
+| Anduril Industries | 🆕 Director of Engineering, Modular Payload Systems | Director | Costa Mesa, California, United States | $260K–$302K | 0d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5307009007?gh_jid=5307009007) ⚡ |
+| CVS Health ⭐ | 🆕 Lead Director - Software Engineering | Director | IRL - Galway |  | 0d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IRL---Galway/Lead-Director---Software-Engineering_R1091096) |
 | Charm Industrial | 🆕 Senior Director of Engineering | Sr. Director | Fort Lupton, CO | $200K–$268K | 0d | [Apply](https://jobs.lever.co/charmindustrial/6f5c1333-8683-4083-bb65-b6fabd574366) ⚡ |
 | Oracle | 🆕 VP Engineering, Physical Networking | VP | United States | $225K–$481K | 0d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/337336) |
 | Rundoo | 🆕 Head of Engineering | Head | San Mateo, CA | $295K | 0d | [Apply](https://jobs.ashbyhq.com/rundoo/bfc9214a-db2a-4186-b6fb-7a4819e31720) ⚡ |
@@ -2223,7 +2228,6 @@ _397 older roles in this section are in data/roles.json on the `data` branch._
 | Desert Valleys Federal Credit Union | Director of Information Technology | Director | Ridgecrest, CA, USA |  | 6d | [Apply](https://www.indeed.com/viewjob?jk=cdcc5a910d398279) |
 | Karman Space & Defense | Operational Technical Director of Training | Director | South El Monte, CA, USA | $149K–$224K | 6d | [Apply](https://grnh.se/1io8zmwf9us) |
 | SimX, Inc | Vice President of Engineering | VP | Remote, USA | $255K–$285K | 6d | [Apply](https://simx-inc.breezy.hr/p/5c9bc84b3f5e-vice-president-of-engineering?source=indeed) |
-| CVS Health ⭐ | Lead Director -  Software Engineering | Director | KY - Work from home |  | 6d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/KY---Work-from-home/Lead-Director----Software-Engineering_R1096858) |
 
 _1124 older roles in this section are in data/roles.json on the `data` branch._
 
@@ -2233,6 +2237,7 @@ _1124 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| BNY ⭐ | 🆕 Vice President, Database Engineer | VP | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83175) |
 | Smurfit Westrock | 🆕 Director, Product Management | Director | Atlanta, GA, USA |  | 0d | [Apply](https://westrockta.avature.net/en_US/careers/FolderDetail/Director-Product-Management/35094) |
 | Coca-Cola ⭐ | 🆕 Senior Director, Sustainability System Integration & Value Creation | Sr. Director | US - GA - Atlanta |  | 0d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director--Sustainability-System-Integration---Value-Creation_R-149209) |
 | Hyperbolic | 🆕 Head of Inference | Head | San Francisco, CA · Remote | $290K–$390K | 0d | [Apply](https://jobs.ashbyhq.com/hyperbolic/b61545f3-d101-4659-987d-704e4c79076c) ⚡ |
@@ -2482,9 +2487,8 @@ _1124 older roles in this section are in data/roles.json on the `data` branch._
 | State of Alaska | Director, Advanced Train Control Systems | Director | Anchorage, AK, USA |  | 30d | [Apply](https://www.governmentjobs.com/careers/Alaska/jobs/5523879/director-advanced-train-control-systems-alaska-railroad-employees-only) |
 | Harrison County Sheriff’s Office | Director, Budget and Finance | Director | Houston, TX, USA |  | 30d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Astrion | Senior Vice President, Chief Engineer | EVP/SVP | Colorado | $228K–$345K | 31d | [Apply](https://careers.astrion.us/jobs/25372) |
-| Harris County | Director, Budget and Finance | Director | Houston, TX, USA |  | 31d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 
-_115 older roles in this section are in data/roles.json on the `data` branch._
+_116 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 
@@ -2494,6 +2498,7 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Fender | 🔒 Senior Director of IT, SAP | Sr. Director | Phoenix, AZ | $160K–$205K | 45d | Closed |
 | American Express | 🔒 Director Software Engineering | Director | Chennai, TN, India |  | 12d | Closed |
 | Axiado | 🔒 Director / Sr. Director of Product Management – Data Center Silicon Infrastructure | Sr. Director | San Jose, CA, us | $200K–$250K | 11d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Vice President, Consumer Community Banking Data Products - Senior Program Manager | VP | Plano, TX, United States |  | 5d | Closed |
@@ -2793,7 +2798,6 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 | BillD | 🔒 Chief Technology & Product Officer | C-level | Austin, TX, USA |  | 34d | Closed |
 | Chromalloy | 🔒 Director of AI & Data | Director | Remote, USA | $208K–$273K | 34d | Closed |
 | Cresset | 🔒 DIRECTOR, HEAD OF AI ENGINEERING & AUTOMATION | Head | Scottsdale, AZ, USA | $175K–$200K | 34d | Closed |
-| Cresset | 🔒 DIRECTOR, HEAD OF AI ENGINEERING & AUTOMATION | Head | Atlanta, GA, USA | $175K–$200K | 34d | Closed |
 
 </details>
 

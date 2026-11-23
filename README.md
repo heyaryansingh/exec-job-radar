@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,119 open roles** at **1,944 companies** · **22 new in the last 24 hours** · 6,145 company career sites watched · updated hourly · last update Nov 23, 2026 08:21 AM ET
+**5,122 open roles** at **1,944 companies** · **24 new in the last 24 hours** · 6,146 company career sites watched · updated hourly · last update Nov 23, 2026 09:02 AM ET
 
-By level: Director 2747 · VP 870 · Sr. Director 669 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
+By level: Director 2749 · VP 871 · Sr. Director 669 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (22)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
 - [🤠 Houston area (195)](#houston-area)
 - [👑 Executive Technology Leadership (192)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (349)](#security-risk-technology)
-- [🧠 Data & AI (1242)](#data-ai)
+- [🛡️ Security & Risk Technology (350)](#security-risk-technology)
+- [🧠 Data & AI (1243)](#data-ai)
 - [🚦 Reliability & Operations (358)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (453)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (454)](#cloud-infrastructure)
 - [🏛️ Architecture (153)](#architecture)
 - [🔄 Transformation & Delivery (643)](#transformation-delivery)
-- [🛠️ Engineering & Software (1364)](#engineering-software)
+- [🛠️ Engineering & Software (1365)](#engineering-software)
 - [📌 Other Senior Roles (364)](#other-senior-roles)
 - [🔒 Recently closed (901)](#recently-closed)
 - Daily digests: [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md)
@@ -47,6 +47,8 @@ By level: Director 2747 · VP 870 · Sr. Director 669 · Head 320 · C-level 183
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Risk Management Credit Officer Lead - Leveraged Finance Credit Risk Technology, Media, Telecommunications - Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810890) |
+| Pfizer ⭐ | 🆕 Director, Team Lead, Regional Engineering Group Lead | Director | 2 Locations |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Team-Lead--Regional-Engineering-Group-Lead_4967821-1) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Audit Manager – AI Non-model Objects - Vice President | VP | Mississauga, ON, CA |  | 0d | [Apply](https://jobs.citi.com/job/mississauga/audit-manager-ai-non-model-objects-vice-president/287/103680861472) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Perth, WA, Australia |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26153068) |
 | Hyperbolic | 🆕 Head of Inference | Head | San Francisco, CA · Remote | $290K–$390K | 0d | [Apply](https://jobs.ashbyhq.com/hyperbolic/b61545f3-d101-4659-987d-704e4c79076c) ⚡ |
@@ -479,6 +481,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🆕 Risk Management Credit Officer Lead - Leveraged Finance Credit Risk Technology, Media, Telecommunications - Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810890) |
 | Lincoln Property Company | Director, Information Security and GRC | Director | Dallas, TX, USA |  | 1d | [Apply](https://grnh.se/m3uxkypj7us) |
 | FFF Enterprises | Vice President, Infrastructure Services & Information Security | VP | Temecula, CA, USA | $260K–$290K | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/fffenter/join-our-team/jobs/2193) |
 | Compass International Holdings | Director, Security Engineering | Director | Boston, NY, USA | $232K–$258K | 2d | [Apply](https://www.compass.com/careers?gh_jid=8393009&gh_board=urbancompass) |
@@ -728,9 +731,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Huntington Bank | Application Security Director | Director | Easton Ops Cols C Oh · Remote |  | 28d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Easton-Ops-Cols-C-Oh/Application-Security-Director_R0076286) |
 | Huntington Bank | Application Security Director | Director | Easton, OH, USA · Remote |  | 28d | [Apply](https://huntington.wd12.myworkdayjobs.com/en-US/HNBcareers/job/Easton-Ops-Cols-C-Oh/Application-Security-Director_R0076286) |
 | Veterinary Emergency Group (VEG) | Director, Security Operations & Intelligence - White Plains, NY | Director | VEG Headquarters, White Plains, NY |  | 28d | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6233799004?gh_jid=6233799004) ⚡ |
-| BlackRock ⭐ | Cyber Threat Intelligence, Director – Information Security | Director | XAL-Regional - Alabama |  | 28d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/XAL-Regional---Alabama/Cyber-Threat-Intelligence--Director---Information-Security_R267003) |
 
-_99 older roles in this section are in data/roles.json on the `data` branch._
+_100 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -988,9 +990,8 @@ _99 older roles in this section are in data/roles.json on the `data` branch._
 | PwC | AI Engineer / Data Scientist, AI Director | Director | NY-New York |  | 10d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773673WDEXTERNALENUS) |
 | Northwest | Director of Data Governance | Director | Columbus, OH |  | 10d | [Apply](https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Columbus-OH/IT76---Director-of-Data-Governance_R-102102) |
 | JD Power | Director, Data Acquisition | Director | JD Power USA - Troy +1 · Remote |  | 10d | [Apply](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/JD-Power-USA---Troy/Director--Data-Acquisition_R-100589) |
-| Morgan Stanley ⭐ | Enterprise AI - Technical Product Owner - Vice President | VP | New York, New York, United States of Ameri |  | 10d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Enterprise-AI---Technical-Product-Owner---Vice-President_PT-JR046537) |
 
-_992 older roles in this section are in data/roles.json on the `data` branch._
+_993 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1399,6 +1400,7 @@ _108 older roles in this section are in data/roles.json on the `data` branch._
 | U.S. Anesthesia Partners | Senior Director, Technology Delivery & Platform Excellence | Sr. Director | Houston, Texas | $180K–$260K | 16d | [Apply](https://www.learn4good.com/jobs/houston/texas/info_technology/5603070304/e/) |
 | Marvell Technology | Director Product Management - HW Platforms | Director | Santa Clara, CA, USA | $173K–$260K | 16d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
 | Mutual of Omaha | Director, Delivery Enablement Platforms | Director | Remote, USA | $200K–$225K | 16d | [Apply](https://www.mutualofomaha.com/careers/jobs/detail/505371) |
+| Invenergy | Director, Energy Supply - Digital Infrastructure | Director | Chicago, IL |  | 17d | [Apply](https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Director--Energy-Supply_R11738-1) |
 | Cargill | Sr. Director, Global Service Now Platform | Sr. Director | Atlanta, GA, USA | $190K–$280K | 17d | [Apply](https://careers.cargill.com/en/job/-/-/23251/102909090976) |
 | Marvell ⭐ | Director Product Management - HW Platforms | Director | Santa Clara, CA |  | 17d | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Director-Product-Management---HW-Platforms_2605230) |
 | S&P Global ⭐ | Global Head of Cloud & Infrastructure | Head | US - DC - WASHINGTON 1200 G STREET | $220K–$350K | 17d | [Apply](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---DC---WASHINGTON-1200-G-STREET/Global-Head-of-Cloud---Infrastructure_330450-2) |
@@ -1506,9 +1508,8 @@ _108 older roles in this section are in data/roles.json on the `data` branch._
 | Information Technology Senior Management Forum | Director, International Strategy & Enablement - Global Payment Network Risk & Advisory | Director | McLean, VA, USA | $210K–$263K | 24d | [Apply](https://jobs.itsmfleaders.org/job/b92z4e/director-international-strategy-enablement-global-payment-network-risk-advisory/mclean/va) |
 | Flexera | Senior Director, Platform | Sr. Director | Remote, USA |  | 24d | [Apply](https://flexerasoftware.wd1.myworkdayjobs.com/en-US/FlexeraSoftware/job/Home-United-States/Senior-Director--Platform_17615) |
 | Abbott | Engineering Director, Digital Platform | Director | Lake Forest, Illinois, United States |  | 25d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31164169ENUSEXTERNAL) |
-| Citi (jobs.citi.com) ⭐ | Senior Cloud and DevOps Engineer - Vice President | VP | Mississauga, ON, CA |  | 25d | [Apply](https://jobs.citi.com/job/mississauga/senior-cloud-and-devops-engineer-vice-president/287/102602560832) |
 
-_203 older roles in this section are in data/roles.json on the `data` branch._
+_204 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -1935,6 +1936,7 @@ _393 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Pfizer ⭐ | 🆕 Director, Team Lead, Regional Engineering Group Lead | Director | 2 Locations |  | 0d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Team-Lead--Regional-Engineering-Group-Lead_4967821-1) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Perth, WA, Australia |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26153068) |
 | Elanco | 🆕 Senior Director - Technical Services | Sr. Director | 2 Locations |  | 2d | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Senior-Director---Technical-Services_R0027973-1) |
 | Risk Ledger | Director of Technology Risk | Director | Remote, USA | $230K–$280K | 2d | [Apply](https://www.indeed.com/viewjob?jk=87acd818bbf4b39a) |
@@ -2184,9 +2186,8 @@ _393 older roles in this section are in data/roles.json on the `data` branch._
 | Fidelity Investments | Director, Engineering - Alternative Investments | Director | Boston, MA, USA | $126K–$255K | 7d | [Apply](https://jobs.fidelity.com/en/jobs/2137555/director-engineering-alternative-investments/) |
 | Cascades Healthcare | Director of Information Technology | Director | Provo, UT, USA |  | 7d | [Apply](https://cascadeshealthcare.isolvedhire.com/jobs/1906576-172493.html) |
 | Fidelity Investments | Director, Engineering - Alternative Investments | Director | Westlake, TX, USA | $126K–$255K | 7d | [Apply](https://jobs.fidelity.com/en/jobs/2137555/director-engineering-alternative-investments/) |
-| Maestro | Head of Engineering | Head | Remote, USA |  | 7d | [Apply](https://maestro.breezy.hr/p/9878555ee2b5-head-of-engineering?source=indeed) |
 
-_1114 older roles in this section are in data/roles.json on the `data` branch._
+_1115 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -19,23 +19,23 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,179 open roles** at **1,961 companies** · **89 new in the last 24 hours** · 6,158 company career sites watched · updated hourly · last update Nov 23, 2026 04:54 PM ET
+**5,179 open roles** at **1,961 companies** · **90 new in the last 24 hours** · 6,158 company career sites watched · updated hourly · last update Nov 23, 2026 05:43 PM ET
 
-By level: Director 2783 · VP 880 · Sr. Director 677 · Head 323 · C-level 185 · EVP/SVP 150 · ED 123 · MD 58
+By level: Director 2784 · VP 879 · Sr. Director 677 · Head 323 · C-level 185 · EVP/SVP 150 · ED 123 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (89)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (90)](#new-in-the-last-24-hours)
 - [🤠 Houston area (196)](#houston-area)
 - [👑 Executive Technology Leadership (194)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (352)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (351)](#security-risk-technology)
 - [🧠 Data & AI (1254)](#data-ai)
 - [🚦 Reliability & Operations (361)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (458)](#cloud-infrastructure)
 - [🏛️ Architecture (158)](#architecture)
-- [🔄 Transformation & Delivery (652)](#transformation-delivery)
+- [🔄 Transformation & Delivery (653)](#transformation-delivery)
 - [🛠️ Engineering & Software (1384)](#engineering-software)
 - [📌 Other Senior Roles (366)](#other-senior-roles)
 - [🔒 Recently closed (902)](#recently-closed)
@@ -47,13 +47,14 @@ By level: Director 2783 · VP 880 · Sr. Director 677 · Head 323 · C-level 185
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| UnitedHealth Group ⭐ | 🆕 VP of Product, Innovation- AI & Product Office - Remote in Boston, Houston, Indianapolis, Minneapolis or So Cal | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-of-product-innovation-ai-and-product-office-remote-in-boston-houston-indianapolis-minneapolis-or/34088/103700370064) |
-| CVS Health (Phenom) ⭐ | 🆕 Lead Director, Digital Product | Director | 151 Farmington Avenue, Hartford, Connectic |  | 0d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1080649EXTERNALENUS) |
-| Salesforce ⭐ | 🆕 Sr. Director, Architect - Availability & Resiliency | Sr. Director | Virginia - Mclean +3 | $263K–$401K | 0d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Sr-Director--Architect---Availability---Resiliency_JR368443-1) |
+| Instacart | 🆕 Director, Technical Program Management | Director | United States - Remote | $280K–$296K | 0d | [Apply](https://instacart.careers/job/?gh_jid=8412533) ⚡ |
 | Computershare | 🆕 Head of Quality Engineering | Head | Saint Paul, MN, United States |  | 0d | [Apply](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13502) |
 | CSC | 🆕 Technology Director - Business Intelligence | Director | Wilmington, DE, United States |  | 0d | [Apply](https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/17299) |
+| CVS Health (Phenom) ⭐ | 🆕 Lead Director, Digital Product | Director | 151 Farmington Avenue, Hartford, Connectic |  | 0d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1080649EXTERNALENUS) |
 | GSK | 🆕 Product Director, Commercial Data Platforms | Director | Philadelphia, Pennsylvania, United States  |  | 0d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB450778EXTERNALENGB) |
+| UnitedHealth Group ⭐ | 🆕 VP of Product, Innovation- AI & Product Office - Remote in Boston, Houston, Indianapolis, Minneapolis or So Cal | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-of-product-innovation-ai-and-product-office-remote-in-boston-houston-indianapolis-minneapolis-or/34088/103700370064) |
 | Movement | 🆕 Vice President of Data | VP | Indian Land, South Carolina |  | 0d | [Apply](https://movement.wd1.myworkdayjobs.com/Careers/job/Indian-Land-South-Carolina/Vice-President-of-Data_R-3153) |
+| Salesforce ⭐ | 🆕 Sr. Director, Architect - Availability & Resiliency | Sr. Director | Virginia - Mclean +3 | $263K–$401K | 0d | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Sr-Director--Architect---Availability---Resiliency_JR368443-1) |
 | Stellar Health | 🆕 Director, Technical Implementations | Director | Remote | $190K–$200K | 0d | [Apply](https://jobs.ashbyhq.com/stellar-health/0e7a1330-de16-40e7-aa94-a224a86da21d) ⚡ |
 | 1-800-FLOWERS.COM, Inc. | 🆕 VP, IT - Core Applications Development & Support | VP | Jericho, NY, USA | $260K–$280K | 0d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239808406&c=1110541&d=Career&rb=INDEED&idUnique=5001239808406) |
 | American Credit Acceptance | 🆕 Sr. VP, Information Technology | VP | Spartanburg, SC, USA |  | 0d | [Apply](https://careers.americancreditacceptance.com/en/jobs/18504773-sr-vp-information-technology?tm_job=615&tm_event=view&tm_company=94100) |
@@ -64,8 +65,8 @@ By level: Director 2783 · VP 880 · Sr. Director 677 · Head 323 · C-level 185
 | Homecare Homebase | 🆕 Senior Director of Product, Data & Interoperability | Sr. Director | Dallas, TX, USA |  | 0d | [Apply](https://careers.hearst.com/jobs/senior-director-of-product-data-and-interoperability-dallas-tx-4518632009-jobs--commercial-product-development--) |
 | Nomura | 🆕 VP, Infrastructure & Power Finance | VP | New York, NY, USA | $225K–$250K | 0d | [Apply](https://careers.nomura.com/Nomura/job/New-York-VP%2C-Infrastructure-&-Power-Finance-NY-10019/1453076900/) |
 | Optimal Business Solutions | 🆕 Chief Technology Officer (CTO) | C-level | Winchester, VA, USA | $150K–$200K | 0d | [Apply](https://www.indeed.com/viewjob?jk=223bba039dda5130) |
-| Paul Hastings LLP | 🆕 Director, AI and Innovation - Transactional Practices | Director | New York, NY, USA | $284K–$400K | 0d | [Apply](https://paulhastings.wd1.myworkdayjobs.com/en-US/PH-Staff/job/New-York/Director--AI-and-Innovation---Transactional-Practices_R4624) |
 | Rocket EMS | 🆕 Director of Engineering | Director | Carson City, NV, USA | $150K–$200K | 0d | [Apply](https://grnh.se/94sg49gh9us) |
+| Computershare | 🆕 Head of Engineering Enablement | Head | Saint Paul, MN, United States |  | 0d | [Apply](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13503) [alt](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13503) |
 | Marriott International ⭐ | 🆕 Assistant Director of Engineering | Director | Detroit, MI, United States |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26148143) |
 | EMD Serono | 🆕 Site Director, Delivery Systems & Services | Director | Chandler, Arizona, United States |  | 0d | [Apply](https://careers.emdgroup.com/us/en/job/MQAEGZUS306144EXTERNALENUS) |
 | PwC | 🆕 AI Engineering Lead- Director- Commercial Technology & Innovation | Director | NY-New York |  | 0d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS752861WDEXTERNALENUS) |
@@ -74,7 +75,7 @@ By level: Director 2783 · VP 880 · Sr. Director 677 · Head 323 · C-level 185
 | Moog, Inc | 🆕 Global Digital Workplace and End-User Services Director | Director | Buffalo, NY |  | 0d | [Apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Global-Digital-Workplace-and-End-User-Services-Director_R-26-21438) |
 | Nordstrom | 🆕 Senior Director, Product Management - AI | Sr. Director | Seattle, WA |  | 0d | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Senior-Director--Product-Management---AI_R-900491) |
 | Texas Capital Bank | 🆕 Director of Digital Content and Media | Director | Dallas, TX |  | 0d | [Apply](https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Director-of-Digital-Content-and-Media_JR106437) |
-| Computershare | 🆕 Head of Engineering Enablement | Head | Saint Paul, MN, United States |  | 0d | [Apply](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13503) [alt](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13503) |
+| Paul Hastings LLP | 🆕 Director, AI and Innovation - Transactional Practices | Director | New York |  | 0d | [Apply](https://paulhastings.wd1.myworkdayjobs.com/PH-Staff/job/New-York/Director--AI-and-Innovation---Transactional-Practices_R4624) [alt](https://paulhastings.wd1.myworkdayjobs.com/en-US/PH-Staff/job/New-York/Director--AI-and-Innovation---Transactional-Practices_R4624) |
 | BNY ⭐ | 🆕 Vice President, Database Engineer | VP | New York, NY, United States |  | 0d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83175) |
 | Hilton ⭐ | 🆕 Director of Engineering - DoubleTree Jersey City | Director | Jersey City, NJ, United States |  | 0d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/232578) |
 | BlackRock ⭐ | 🆕 Director, AI Productivity Product Lead | Director | New York, NY |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Director--AI-Productivity-Product-Lead_R267272) |
@@ -576,7 +577,6 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | University of Texas at Austin | Assistant Director, Research Security, Office of Research Support and Compliance | Director | AUSTIN, TX |  | 4d | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Assistant-Director--Research-Security--Office-of-Research-Support-and-Compliance_R_00050097) |
 | Citi (jobs.citi.com) ⭐ | Senior Offensive Security Pentester - Crypto and Digital Assets, Senior Vice President | EVP/SVP | Tampa, FL, US +1 |  | 4d | [Apply](https://jobs.citi.com/job/tampa/senior-offensive-security-pentester-crypto-and-digital-assets-senior-vice-president/287/103529627376) |
 | Citi ⭐ | Senior Offensive Security Pentester - Crypto and Digital Assets, Senior Vice President | EVP/SVP | Tampa Florida United States +1 |  | 4d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Senior-Offensive-Security-Pentester---Crypto-and-Digital-Assets--Senior-Vice-President_261008128) |
-| JPMorgan Chase ⭐ | Cyber Intelligence Vice President (req 210810822) | VP | Washington, DC, United States |  | 4d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810822) |
 | UNITED STATES SOCCER FEDERATION 1 | Director, Campus Security | Director | Atlanta, GA, USA |  | 4d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671282/UNITED-STATES-SOCCER-FEDERATION-1/Director-Campus-Security?source=Indeed_Feed) |
 | Appoquinimink School District | Director of Safety, Security, and Operations | Director | Odessa, DE, USA |  | 4d | [Apply](https://www.applitrack.com/apposchooldistrict/onlineapp/default.aspx?all=1&AppliTrackJobId=5407) |
 | IREN | Director, Executive Protection & Travel Security | Director | Fort Worth, TX, USA |  | 4d | [Apply](https://iren.careers.hibob.com/jobs/82d0eff1-060d-4d16-b0a3-ebe2f7d62090) |
@@ -640,7 +640,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Northern Trust Corporation | Head of Cyber Data Governance & Strategy | Head | Chicago, IL |  | 11d | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Head-of-Cyber-Data-Governance---Strategy_R164346) |
 | JPMorgan Chase ⭐ | U.S. Private Bank, J.P. Morgan Private Advisory – Senior Cyber Advisor, Executive Director (New York, Miami, Dallas, Los Angeles) | ED | New York, NY, United States |  | 11d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808091) |
 | HawkEye 360 | Senior Director, Industrial Security & Special Programs | Sr. Director | Herndon, VA | $185K–$230K | 11d | [Apply](https://job-boards.greenhouse.io/hawkeye360/jobs/4504723009) ⚡ |
-| JPMorgan Chase ⭐ | Cyber Intelligence Vice President (req 210807496) | VP | Washington, DC, United States |  | 11d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807496) |
+| JPMorgan Chase ⭐ | Cyber Intelligence Vice President | VP | Washington, DC, United States |  | 11d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807496) |
 | Blue Shield of CA | VP, Product Security | VP | Houston, Texas | $250K–$360K | 12d | [Apply](https://www.jobleads.com/us/job/vp-product-security--houston--e2cb1ea0dcbf6e93b81840bfcd9e293fd) |
 | KPMG US | Director, Cloud and Platform Security | Director | Harrisburg, Pennsylvania |  | 12d | [Apply](https://bebee.com/us/jobs/director-cloud-and-platform-security-kpmg-us-harrisburg--fj-2461117569) |
 | The Aerospace Corporation | Principal Director, Cyberspace Systems and Security (CS3) | Director | El Segundo, CA +1 |  | 12d | [Apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Principal-Director--Cyberspace-Systems-and-Security--CS3-_R017189) |
@@ -799,8 +799,9 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Celestica | Senior Director, HPS Cyber Security & Compliance | Sr. Director | San Jose, CA, USA |  | 28d | [Apply](https://careers.celestica.com/job/San-Jose-Senior-Director%2C-HPS-Cyber-Security-&-Compliance-CA-95101/1451277433/) |
 | Versa Networks | Director of Product Management - Core Security & Security Operations | Director | Santa Clara, CA, USA | $240K–$280K | 28d | [Apply](https://apply.workable.com/j/A0A1FE70FE) |
 | Versa Networks | Director of Product Management - AI Security & AI Gateway | Director | Santa Clara, CA, USA | $260K–$320K | 28d | [Apply](https://apply.workable.com/j/9EF0085BAD) |
+| Huntington Bank | Application Security Director | Director | Easton Ops Cols C Oh · Remote |  | 28d | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Easton-Ops-Cols-C-Oh/Application-Security-Director_R0076286) |
 
-_102 older roles in this section are in data/roles.json on the `data` branch._
+_101 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -808,14 +809,14 @@ _102 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| UnitedHealth Group ⭐ | 🆕 VP of Product, Innovation- AI & Product Office - Remote in Boston, Houston, Indianapolis, Minneapolis or So Cal | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-of-product-innovation-ai-and-product-office-remote-in-boston-houston-indianapolis-minneapolis-or/34088/103700370064) |
 | GSK | 🆕 Product Director, Commercial Data Platforms | Director | Philadelphia, Pennsylvania, United States  |  | 0d | [Apply](https://jobs.gsk.com/gb/en/job/GHVGPAGB450778EXTERNALENGB) |
+| UnitedHealth Group ⭐ | 🆕 VP of Product, Innovation- AI & Product Office - Remote in Boston, Houston, Indianapolis, Minneapolis or So Cal | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-of-product-innovation-ai-and-product-office-remote-in-boston-houston-indianapolis-minneapolis-or/34088/103700370064) |
 | Movement | 🆕 Vice President of Data | VP | Indian Land, South Carolina |  | 0d | [Apply](https://movement.wd1.myworkdayjobs.com/Careers/job/Indian-Land-South-Carolina/Vice-President-of-Data_R-3153) |
 | Google | 🆕 Head of CX AI and Knowledge, gTech Ads | Head | Chicago, IL, USA | $224K–$311K | 0d | [Apply](https://careers.google.com/jobs/results/75956932891812550-head-of-cx-ai-and-knowledge/) |
 | Homecare Homebase | 🆕 Senior Director of Product, Data & Interoperability | Sr. Director | Dallas, TX, USA |  | 0d | [Apply](https://careers.hearst.com/jobs/senior-director-of-product-data-and-interoperability-dallas-tx-4518632009-jobs--commercial-product-development--) |
-| Paul Hastings LLP | 🆕 Director, AI and Innovation - Transactional Practices | Director | New York, NY, USA | $284K–$400K | 0d | [Apply](https://paulhastings.wd1.myworkdayjobs.com/en-US/PH-Staff/job/New-York/Director--AI-and-Innovation---Transactional-Practices_R4624) |
 | PwC | 🆕 AI Engineering Lead- Director- Commercial Technology & Innovation | Director | NY-New York |  | 0d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS752861WDEXTERNALENUS) |
 | Nordstrom | 🆕 Senior Director, Product Management - AI | Sr. Director | Seattle, WA |  | 0d | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Senior-Director--Product-Management---AI_R-900491) |
+| Paul Hastings LLP | 🆕 Director, AI and Innovation - Transactional Practices | Director | New York |  | 0d | [Apply](https://paulhastings.wd1.myworkdayjobs.com/PH-Staff/job/New-York/Director--AI-and-Innovation---Transactional-Practices_R4624) [alt](https://paulhastings.wd1.myworkdayjobs.com/en-US/PH-Staff/job/New-York/Director--AI-and-Innovation---Transactional-Practices_R4624) |
 | BlackRock ⭐ | 🆕 Director, AI Productivity Product Lead | Director | New York, NY |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Director--AI-Productivity-Product-Lead_R267272) |
 | Infoblox | 🆕 Senior Director, Data, Analytics and Reporting | Sr. Director | Santa Clara, California, United States | $186K–$290K | 0d | [Apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8170) |
 | Centene | 🆕 Director, Provider Data Analytics and Reporting | Director | Remote-MO |  | 0d | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--Provider-Data-Analytics-and-Reporting_1677889) |
@@ -1750,6 +1751,7 @@ _208 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Instacart | 🆕 Director, Technical Program Management | Director | United States - Remote | $280K–$296K | 0d | [Apply](https://instacart.careers/job/?gh_jid=8412533) ⚡ |
 | CVS Health (Phenom) ⭐ | 🆕 Lead Director, Digital Product | Director | 151 Farmington Avenue, Hartford, Connectic |  | 0d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1080649EXTERNALENUS) |
 | EMD Serono | 🆕 Site Director, Delivery Systems & Services | Director | Chandler, Arizona, United States |  | 0d | [Apply](https://careers.emdgroup.com/us/en/job/MQAEGZUS306144EXTERNALENUS) |
 | Moog, Inc | 🆕 Global Digital Workplace and End-User Services Director | Director | Buffalo, NY |  | 0d | [Apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Global-Digital-Workplace-and-End-User-Services-Director_R-26-21438) |
@@ -1999,9 +2001,8 @@ _208 older roles in this section are in data/roles.json on the `data` branch._
 | AECOM | Program Management Director, Rail & Transit | Director | Philadelphia, PA, us |  | 18d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159976908-program-management-director-rail-transit) ⚡ |
 | Comcast ⭐ | Vice President, Finance Strategic Initiatives & Transformation | VP | PA - Philadelphia, 1701 John F Kennedy Blv |  | 18d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Vice-President--Finance-Strategic-Initiatives---Transformation_R447038-1) |
 | Comcast ⭐ | Executive Director, Finance Strategic Initiatives & Transformation | ED | PA - Philadelphia, 1701 John F Kennedy Blv |  | 18d | [Apply](https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Executive-Director--Finance-Strategic-Initiatives---Transformation_R447107-1) |
-| RTX ⭐ | Director of Digital Enterprise Resource Planning (ERP) Project Management Office - 100% remote | Director | US-CA-REMOTE |  | 18d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-REMOTE/Director-of-Digital-Enterprise-Resource-Planning--ERP--Project-Management-Office---100--remote_01887829) |
 
-_402 older roles in this section are in data/roles.json on the `data` branch._
+_403 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -2016,9 +2017,9 @@ _402 older roles in this section are in data/roles.json on the `data` branch._
 | Booz Allen Hamilton | 🆕 Technical Director | Director | Hanscom AFB, MA, USA | $113K–$257K | 0d | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hanscom-AFB-MA/Technical-Director_R0254084) |
 | CoVolt | 🆕 Director of Engineering (HV) | Director | USA |  | 0d | [Apply](https://recruiting.ultipro.com/SIG1007SGEN/JobBoard/1d63bc67-2233-4c90-b4e5-2ebdcffb3021/OpportunityDetail?opportunityId=5684d177-1db9-4395-8a92-ff7258c0c727&postingId=ac9236ae-ac3b-475a-8ecc-73111953761f) |
 | Rocket EMS | 🆕 Director of Engineering | Director | Carson City, NV, USA | $150K–$200K | 0d | [Apply](https://grnh.se/94sg49gh9us) |
+| Computershare | 🆕 Head of Engineering Enablement | Head | Saint Paul, MN, United States |  | 0d | [Apply](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13503) [alt](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13503) |
 | Marriott International ⭐ | 🆕 Assistant Director of Engineering | Director | Detroit, MI, United States |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26148143) |
 | Humana ⭐ | 🆕 Director, Technology Solutions (req R-435827) | Director | Louisville, KY +8 | $172K–$237K | 0d | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Director--Technology-Solutions_R-435827) |
-| Computershare | 🆕 Head of Engineering Enablement | Head | Saint Paul, MN, United States |  | 0d | [Apply](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13503) [alt](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13503) |
 | Hilton ⭐ | 🆕 Director of Engineering - DoubleTree Jersey City | Director | Jersey City, NJ, United States |  | 0d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/232578) |
 | Bollinger Shipyards | 🆕 Director of Project Engineering | Director | Mandeville, LA, USA |  | 0d | [Apply](https://bollingershipyards.exacthire.com/job/212745?source=335) |
 | Madison Reed | 🆕 Director of Product, HCB technology | Director | San Francisco, CA, USA · Remote | $200K–$210K | 0d | [Apply](https://grnh.se/9w68az9g1us) |
@@ -2529,6 +2530,7 @@ _116 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Cyber Intelligence Vice President (opening #2) | VP | Washington, DC, United States |  | 4d | Closed |
 | Marriott International ⭐ | 🔒 Director of Engineering | Director | Chantilly, VA, United States |  | 3d | Closed |
 | American Express | 🔒 Director Cybersecurity - Certificate and Public Key Infrastructure Management | Director | Phoenix, AZ, United States |  | 7d | Closed [alt](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26016552) |
 | Fender | 🔒 Senior Director of IT, SAP | Sr. Director | Phoenix, AZ | $160K–$205K | 45d | Closed |
@@ -2828,7 +2830,6 @@ _116 older roles in this section are in data/roles.json on the `data` branch._
 | Bain & Company | 🔒 Director, Full stack AI Engineer | Director | Boston, MA, USA | $196K–$246K | 34d | Closed |
 | BD | 🔒 Director ISC Data and AI | Director | Sandy, UT, USA |  | 35d | Closed |
 | Berkshire Grey | 🔒 Director, Hardware Engineering | Director | Bedford, MA, USA | $160K–$230K | 34d | Closed |
-| BillD | 🔒 Chief Technology & Product Officer | C-level | Austin, TX, USA |  | 34d | Closed |
 
 </details>
 

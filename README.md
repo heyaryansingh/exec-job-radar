@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,096 open roles** at **1,939 companies** · **12 new in the last 24 hours** · 6,142 company career sites watched · updated hourly · last update Nov 22, 2026 09:30 PM ET
+**5,096 open roles** at **1,939 companies** · **12 new in the last 24 hours** · 6,142 company career sites watched · updated hourly · last update Nov 22, 2026 10:03 PM ET
 
 By level: Director 2730 · VP 867 · Sr. Director 668 · Head 318 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
 
@@ -47,8 +47,8 @@ By level: Director 2730 · VP 867 · Sr. Director 668 · Head 318 · C-level 183
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Domino's | 🆕 Director, Data Platform Engineering (req 744000163126634) | Director | Ann Arbor, MI, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163126634-director-data-platform-engineering) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Digital Asset Manager - Product Manager, Vice President | VP | Wilmington, DE, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809015) |
+| Domino's | 🆕 Director, Data Platform Engineering (req 744000163126634) | Director | Ann Arbor, MI, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163126634-director-data-platform-engineering) ⚡ |
 | Brookfield Asset Management | 🆕 VP, AI Product Owner | VP | New York, New York |  | 0d | [Apply](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/VP--AI-Product-Owner_R2050954) |
 | KPMG | 🆕 Managing Director, Head of Platform Strategy & Architecture | MD | Los Angeles, CA, USA | $400K–$550K | 0d | [Apply](https://www.kpmguscareers.com/jobdetail/?jobId=140149) |
 | Mariner Finance | 🆕 VP of Financial Transformation | VP | Pittsburgh, PA, USA | $281K–$337K | 1d | [Apply](https://www.indeed.com/viewjob?jk=b20e58331b6b6f25) |

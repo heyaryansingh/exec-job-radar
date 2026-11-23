@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,120 open roles** at **1,943 companies** · **24 new in the last 24 hours** · 6,143 company career sites watched · updated hourly · last update Nov 23, 2026 04:11 AM ET
+**5,121 open roles** at **1,944 companies** · **24 new in the last 24 hours** · 6,145 company career sites watched · updated hourly · last update Nov 23, 2026 05:14 AM ET
 
-By level: Director 2749 · VP 869 · Sr. Director 670 · Head 319 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
+By level: Director 2749 · VP 869 · Sr. Director 670 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,7 +31,7 @@ By level: Director 2749 · VP 869 · Sr. Director 670 · Head 319 · C-level 183
 - [🤠 Houston area (195)](#houston-area)
 - [👑 Executive Technology Leadership (192)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (349)](#security-risk-technology)
-- [🧠 Data & AI (1242)](#data-ai)
+- [🧠 Data & AI (1243)](#data-ai)
 - [🚦 Reliability & Operations (358)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (454)](#cloud-infrastructure)
 - [🏛️ Architecture (153)](#architecture)
@@ -851,6 +851,7 @@ _99 older roles in this section are in data/roles.json on the `data` branch._
 | Invitation Homes | Sr. Director, Data Products | Sr. Director | Dallas, TX, USA | $137K–$237K | 4d | [Apply](https://careers.invitationhomes.com/sr-director-data-products/job/P1-7732770-0) |
 | Presbyterian Healthcare Services | Head of Digital Platforms Engineering & AI | Head | Albuquerque, NM, USA |  | 4d | [Apply](https://phsorg.wd1.myworkdayjobs.com/Careers/job/Reverend-Hugh-Cooper-Administrative-Center/Head-of-Digital-Experience---AI_R-9766) |
 | The University of Iowa | Executive Director of Institutional Data Strategy | ED | Iowa City, IA, USA · Remote |  | 4d | [Apply](https://uiowa.referrals.selectminds.com/jobs/executive-director-of-institutional-data-strategy-51785) |
+| Bayer | Head of Machine Learning Research | Head | 2 Locations |  | 5d | [Apply](https://bayer.wd103.myworkdayjobs.com/en-US/Bayer_External_Career_Site/job/Cambridge-MA/Head-of-Machine-Learning-Research_JR10000331) |
 | Cumming Group | Senior Director - Data Center Project Management | Sr. Director | 2 Locations |  | 5d | [Apply](https://cumminggroup.wd1.myworkdayjobs.com/en-US/CGC/job/Abilene-TX/Senior-Director---Data-Center-Project-Management_JR104203-1) |
 | ServiceTitan | Senior Director, Product - Data & AI | Sr. Director | US Remote |  | 5d | [Apply](https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Director--Product---Data---AI_JR116572-1) |
 | State Street ⭐ | CDAIO Agentic AI Engineer, Vice President | VP | 4 Locations |  | 5d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/CDAIO-Agentic-AI-Engineer--Vice-President_R-801291-1) |
@@ -989,9 +990,8 @@ _99 older roles in this section are in data/roles.json on the `data` branch._
 | PwC | AI Engineer / Data Scientist, AI Director | Director | NY-New York |  | 10d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773673WDEXTERNALENUS) |
 | Northwest | Director of Data Governance | Director | Columbus, OH |  | 10d | [Apply](https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Columbus-OH/IT76---Director-of-Data-Governance_R-102102) |
 | JD Power | Director, Data Acquisition | Director | JD Power USA - Troy +1 · Remote |  | 10d | [Apply](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/JD-Power-USA---Troy/Director--Data-Acquisition_R-100589) |
-| Morgan Stanley ⭐ | Enterprise AI - Technical Product Owner - Vice President | VP | New York, New York, United States of Ameri |  | 10d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Enterprise-AI---Technical-Product-Owner---Vice-President_PT-JR046537) |
 
-_992 older roles in this section are in data/roles.json on the `data` branch._
+_993 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

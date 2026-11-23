@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,117 open roles** at **1,943 companies** · **22 new in the last 24 hours** · 6,143 company career sites watched · updated hourly · last update Nov 23, 2026 02:22 AM ET
+**5,118 open roles** at **1,943 companies** · **22 new in the last 24 hours** · 6,143 company career sites watched · updated hourly · last update Nov 23, 2026 03:16 AM ET
 
-By level: Director 2747 · VP 868 · Sr. Director 670 · Head 319 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
+By level: Director 2748 · VP 868 · Sr. Director 670 · Head 319 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -37,7 +37,7 @@ By level: Director 2747 · VP 868 · Sr. Director 670 · Head 319 · C-level 183
 - [🏛️ Architecture (153)](#architecture)
 - [🔄 Transformation & Delivery (642)](#transformation-delivery)
 - [🛠️ Engineering & Software (1364)](#engineering-software)
-- [📌 Other Senior Roles (363)](#other-senior-roles)
+- [📌 Other Senior Roles (364)](#other-senior-roles)
 - [🔒 Recently closed (897)](#recently-closed)
 - Daily digests: [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md)
 
@@ -2213,6 +2213,7 @@ _1114 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | Assessments & Exercises Vice President - Red Team Operator | VP | OH, United States |  | 3d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806309) |
 | Southland Industries | Director of Innovation | Director | Dallas, TX |  | 3d | [Apply](https://southland.wd504.myworkdayjobs.com/External/job/Dallas-TX/Director-of-Innovation_R-1005964) |
 | Wiley | Group Vice President, Enterprise Systems Product Management | VP | Hoboken (HQ), NJ, USA |  | 3d | [Apply](https://wiley.wd1.myworkdayjobs.com/en-US/wiley_careers/job/Hoboken-HQ-NJ-USA/Group-Vice-President--Enterprise-Systems-Product-Management_R2601352-1) |
+| Evolent | Director, ERP & People Systems | Director | Work at Home |  | 4d | [Apply](https://evolent.wd1.myworkdayjobs.com/en-US/External/job/Work-at-Home/Director--ERP---People-Systems_JR-917032) |
 | Avangrid | Sr Director - Solution & Process Gov | Sr. Director | United States Of America, Connecticut, Ora +1 | $198K–$247K | 4d | [Apply](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/Sr-Director---Solution---Process-Gov_R-35465) |
 | City and County of San Francisco | Deputy Director of the Office of the County Clerk (1824) - County Clerk - Office of the City Administrator | Director | San Francisco, CA, us |  | 4d | [Apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016984566-deputy-director-of-the-office-of-the-county-clerk-1824-county-clerk-office-of-the-city-administrator) ⚡ |
 | Ascension | Senior Director Revenue Cycle Oracle Systems | Sr. Director | USA · Remote | $139K–$236K | 4d | [Apply](https://jobs-oraclecloud.ascension.org/en/job/31055) |
@@ -2442,9 +2443,8 @@ _1114 older roles in this section are in data/roles.json on the `data` branch._
 | Astrion | Senior Vice President, Chief Engineer | EVP/SVP | Colorado | $228K–$345K | 31d | [Apply](https://careers.astrion.us/jobs/25372) |
 | Harris County | Director, Budget and Finance | Director | Houston, TX, USA |  | 31d | [Apply](https://www.governmentjobs.com/careers/sheriffhctx/jobs/5526886/director-budget-and-finance) |
 | Aurora Solar | Director, Business Systems | Director | United States · Remote | $165K–$268K | 31d | [Apply](https://jobs.ashbyhq.com/aurorasolar/dfd4da2f-e07a-48d4-8bbf-7ee76cc42b60) ⚡ |
-| Slate Auto | Director of Cybersecurity | Director | Remote WA |  | 31d | [Apply](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Remote-WA/Lead--System-Security_JR101492) |
 
-_113 older roles in this section are in data/roles.json on the `data` branch._
+_114 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

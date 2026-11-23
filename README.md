@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,121 open roles** at **1,944 companies** · **21 new in the last 24 hours** · 6,145 company career sites watched · updated hourly · last update Nov 23, 2026 06:13 AM ET
+**5,120 open roles** at **1,944 companies** · **21 new in the last 24 hours** · 6,145 company career sites watched · updated hourly · last update Nov 23, 2026 07:13 AM ET
 
-By level: Director 2749 · VP 869 · Sr. Director 670 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
+By level: Director 2749 · VP 869 · Sr. Director 669 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 2749 · VP 869 · Sr. Director 670 · Head 320 · C-level 183
 - [☁️ Cloud & Infrastructure (454)](#cloud-infrastructure)
 - [🏛️ Architecture (153)](#architecture)
 - [🔄 Transformation & Delivery (643)](#transformation-delivery)
-- [🛠️ Engineering & Software (1365)](#engineering-software)
+- [🛠️ Engineering & Software (1364)](#engineering-software)
 - [📌 Other Senior Roles (364)](#other-senior-roles)
-- [🔒 Recently closed (899)](#recently-closed)
+- [🔒 Recently closed (900)](#recently-closed)
 - Daily digests: [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -2184,7 +2184,7 @@ _393 older roles in this section are in data/roles.json on the `data` branch._
 | Fidelity Investments | Director, Engineering - Alternative Investments | Director | Westlake, TX, USA | $126K–$255K | 7d | [Apply](https://jobs.fidelity.com/en/jobs/2137555/director-engineering-alternative-investments/) |
 | Maestro | Head of Engineering | Head | Remote, USA |  | 7d | [Apply](https://maestro.breezy.hr/p/9878555ee2b5-head-of-engineering?source=indeed) |
 
-_1115 older roles in this section are in data/roles.json on the `data` branch._
+_1114 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2453,6 +2453,7 @@ _114 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Senior Director of Software Engineering | Sr. Director | Jersey City, NJ, United States |  | 25d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Security Operations Center (SOC) | Director | NY - New York · Remote |  | 11d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Retail Analytics Technical Product | Director | NY - New York |  | 46d | Closed |
 | DaVita | 🔒 Sr Director, Product (Technology) | Sr. Director | 01548 - Texas Remote |  | 2d | Closed |
@@ -2752,7 +2753,6 @@ _114 older roles in this section are in data/roles.json on the `data` branch._
 | Ellucian | 🔒 Director of Campus Modernization (Director, Application Services) at Houston Christian University | Director | Houston, TX, USA |  | 34d | Closed |
 | Eversheds Sutherland US LLP | 🔒 Director of Information Technology | Director | Washington, DC, USA |  | 34d | Closed |
 | Farmers Insurance Group | 🔒 FBS (Mexico) Enterprise Architecture Director SLDC | Director | DE, USA |  | 34d | Closed |
-| Fidelity Investments | 🔒 Director, Software Engineering | Director | Westlake, TX, USA |  | 34d | Closed [alt](https://jobs.fidelity.com/en/jobs/2132692/director-software-engineering/) |
 
 </details>
 

@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,120 open roles** at **1,944 companies** · **21 new in the last 24 hours** · 6,145 company career sites watched · updated hourly · last update Nov 23, 2026 07:13 AM ET
+**5,118 open roles** at **1,944 companies** · **21 new in the last 24 hours** · 6,145 company career sites watched · updated hourly · last update Nov 23, 2026 08:05 AM ET
 
-By level: Director 2749 · VP 869 · Sr. Director 669 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
+By level: Director 2747 · VP 869 · Sr. Director 669 · Head 320 · C-level 183 · EVP/SVP 150 · ED 122 · MD 58
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -31,14 +31,14 @@ By level: Director 2749 · VP 869 · Sr. Director 669 · Head 320 · C-level 183
 - [🤠 Houston area (195)](#houston-area)
 - [👑 Executive Technology Leadership (192)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (349)](#security-risk-technology)
-- [🧠 Data & AI (1243)](#data-ai)
+- [🧠 Data & AI (1242)](#data-ai)
 - [🚦 Reliability & Operations (358)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (454)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (453)](#cloud-infrastructure)
 - [🏛️ Architecture (153)](#architecture)
 - [🔄 Transformation & Delivery (643)](#transformation-delivery)
 - [🛠️ Engineering & Software (1364)](#engineering-software)
 - [📌 Other Senior Roles (364)](#other-senior-roles)
-- [🔒 Recently closed (900)](#recently-closed)
+- [🔒 Recently closed (901)](#recently-closed)
 - Daily digests: [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -752,7 +752,6 @@ _99 older roles in this section are in data/roles.json on the `data` branch._
 | Boehringer Ingelheim | Director, Product & Digital Analytics | Director | Ridgefield, CT, USA |  | 2d | [Apply](https://jobs.boehringer-ingelheim.com/job-invite/39969/?locale=en_US) |
 | NEOMED | Director, AI Studio, in the Center for Artificial Intelligence & Digital Experience (AIDE) | Director | Rootstown, OH, USA |  | 2d | [Apply](https://neomed.peopleadmin.com/postings/7345) |
 | State of Georgia | Director of Institutional Innovation and AI Initiatives | Director | Albany, GA, USA |  | 2d | [Apply](https://georgia.wd5.myworkdayjobs.com/en-US/TGC/job/82000-AP_820-820-Albany-Technical-College/Director-of-Institutional-Innovation-and-AI-Initiatives_JR0000008396) |
-| JPMorgan Chase ⭐ | Data Management Director | Director | NY, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811038) |
 | Homecare Homebase | Clould AI Platform Architect, Director | Director | New York, NY, USA | $200K–$220K | 2d | [Apply](https://careers.hearst.com/jobs/clould-ai-platform-architect-director-new-york-ny-50718-jobs--information-technology--) |
 | Homecare Homebase | Senior Director, Product Owner - Entity Data & Knowledge Graph (Chicago) | Sr. Director | Chicago, IL, USA | $190K–$230K | 2d | [Apply](https://careers.hearst.com/jobs/senior-director-product-owner-entity-data-and-knowledge-graph-chicago-chicago-il-50474-jobs--project-management--) |
 | Homecare Homebase | AI Data Enablement Leader, Senior Director (New York) | Sr. Director | New York, NY, USA | $190K–$240K | 2d | [Apply](https://careers.hearst.com/jobs/ai-data-enablement-leader-senior-director-new-york-new-york-ny-50725-jobs--data-and-analytics--) |
@@ -987,8 +986,9 @@ _99 older roles in this section are in data/roles.json on the `data` branch._
 | PwC | AI Engineer / Data Scientist, AI Director | Director | NY-New York |  | 10d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS773673WDEXTERNALENUS) |
 | Northwest | Director of Data Governance | Director | Columbus, OH |  | 10d | [Apply](https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Columbus-OH/IT76---Director-of-Data-Governance_R-102102) |
 | JD Power | Director, Data Acquisition | Director | JD Power USA - Troy +1 · Remote |  | 10d | [Apply](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/JD-Power-USA---Troy/Director--Data-Acquisition_R-100589) |
+| Morgan Stanley ⭐ | Enterprise AI - Technical Product Owner - Vice President | VP | New York, New York, United States of Ameri |  | 10d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Enterprise-AI---Technical-Product-Owner---Vice-President_PT-JR046537) |
 
-_993 older roles in this section are in data/roles.json on the `data` branch._
+_992 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1506,7 +1506,7 @@ _108 older roles in this section are in data/roles.json on the `data` branch._
 | Abbott | Engineering Director, Digital Platform | Director | Lake Forest, Illinois, United States |  | 25d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31164169ENUSEXTERNAL) |
 | Citi (jobs.citi.com) ⭐ | Senior Cloud and DevOps Engineer - Vice President | VP | Mississauga, ON, CA |  | 25d | [Apply](https://jobs.citi.com/job/mississauga/senior-cloud-and-devops-engineer-vice-president/287/102602560832) |
 
-_204 older roles in this section are in data/roles.json on the `data` branch._
+_203 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2453,6 +2453,8 @@ _114 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Oracle | 🔒 Director, Platform Software Engineering | Director | United States | $131K–$306K | 31d | Closed |
+| JPMorgan Chase ⭐ | 🔒 Data Management Director | Director | NY, United States |  | 2d | Closed |
 | JPMorgan Chase ⭐ | 🔒 Senior Director of Software Engineering | Sr. Director | Jersey City, NJ, United States |  | 25d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Security Operations Center (SOC) | Director | NY - New York · Remote |  | 11d | Closed |
 | CVS Health ⭐ | 🔒 Lead Director - Retail Analytics Technical Product | Director | NY - New York |  | 46d | Closed |
@@ -2751,8 +2753,6 @@ _114 older roles in this section are in data/roles.json on the `data` branch._
 | Eaton | 🔒 Vice President of Engineering | VP | Syracuse, NY, USA | $203K–$297K | 34d | Closed |
 | Eli Lilly | 🔒 Senior Director - Security Posture & Exposure Management | Sr. Director | Indianapolis, IN, USA | $159K–$257K | 34d | Closed [alt](https://careers.lilly.com/us/en/job/LILLUSR113644EXTERNALENUS) |
 | Ellucian | 🔒 Director of Campus Modernization (Director, Application Services) at Houston Christian University | Director | Houston, TX, USA |  | 34d | Closed |
-| Eversheds Sutherland US LLP | 🔒 Director of Information Technology | Director | Washington, DC, USA |  | 34d | Closed |
-| Farmers Insurance Group | 🔒 FBS (Mexico) Enterprise Architecture Director SLDC | Director | DE, USA |  | 34d | Closed |
 
 </details>
 

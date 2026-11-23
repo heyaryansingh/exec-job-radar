@@ -1,12 +1,12 @@
 # Collector status
 
-- Last run: 2026-11-23T04:18:16+00:00 UTC, 658s
-- Companies working: 614 of 638
-- New roles last run: 8; roles in feed: 1212
-- Universe (all other known career sites): 5503 boards, 3900 checked in the last hour, 26 errors; 0 employer names learned; 1 new employer sites found via job boards
-- Job boards and aggregators: {"board-indeed (raw)": 139, "senior titles from boards/aggregators": 74}
-- Companies with open roles: 1941
-- Skipped (backing off broken sites): 1583; ran out of time: 0
+- Last run: 2026-11-23T05:19:49+00:00 UTC, 742s
+- Companies working: 612 of 638
+- New roles last run: 5; roles in feed: 1217
+- Universe (all other known career sites): 5504 boards, 3980 checked in the last hour, 12 errors; 1 employer names learned; 0 new employer sites found via job boards
+- Job boards and aggregators: {"senior titles from boards/aggregators": 0}
+- Companies with open roles: 1942
+- Skipped (backing off broken sites): 1521; ran out of time: 0
 
 ## Failing companies
 
@@ -21,20 +21,22 @@
 | Analog Devices | 7 | HTTP 429 for https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs |
 | Ovintiv | 7 | HTTP 429 for https://ovintiv.wd3.myworkdayjobs.com/wday/cxs/ovintiv/ovintivcareers/jobs |
 | Santander | 6 | HTTP 429 for https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs |
-| Unilever | 4 | HTTP 429 for https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professio |
-| MassMutual | 3 | HTTP 429 for https://massmutual.wd1.myworkdayjobs.com/wday/cxs/massmutual/mmcareers/jobs |
-| Shell | 3 | HTTP 429 for https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs |
-| Air Liquide | 2 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
-| LSEG | 2 | HTTP 429 for https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs |
-| T. Rowe Price | 2 | HTTP 429 for https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs |
-| Wintrust | 2 | HTTP 429 for https://wintrust.wd1.myworkdayjobs.com/wday/cxs/wintrust/Search/jobs |
-| Accenture | 1 | HTTP 429 for https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs |
-| Blackstone | 1 | HTTP 429 for https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs |
-| Bloomberg | 1 | HTTP 429 for https://bloomberg.wd1.myworkdayjobs.com/wday/cxs/bloomberg/Bloombergindustrygroup_Exter |
-| Equinor | 1 | HTTP 429 for https://equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs |
-| Humana | 1 | HTTP 429 for https://humana.wd5.myworkdayjobs.com/wday/cxs/humana/Humana_External_Career_Site/jobs |
-| Medtronic | 1 | HTTP 429 for https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs |
-| Nationwide | 1 | HTTP 429 for https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career/jobs |
-| Plains All American | 1 | HTTP 429 for https://plains.wd1.myworkdayjobs.com/wday/cxs/plains/plains/jobs |
+| Unilever | 5 | HTTP 429 for https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professio |
+| Air Liquide | 3 | HTTP 429 for https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/AirLiquideExternalCare |
+| LSEG | 3 | HTTP 429 for https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs |
+| T. Rowe Price | 3 | HTTP 429 for https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs |
+| Wintrust | 3 | HTTP 429 for https://wintrust.wd1.myworkdayjobs.com/wday/cxs/wintrust/Search/jobs |
+| Equinor | 2 | HTTP 429 for https://equinor.wd3.myworkdayjobs.com/wday/cxs/equinor/EQNR/jobs |
+| Benchmark | 1 | HTTP 429 for https://benchmark.wd1.myworkdayjobs.com/wday/cxs/benchmark/PGH_Careers/jobs |
+| Blue Owl Capital | 1 | HTTP 429 for https://blueowl.wd1.myworkdayjobs.com/wday/cxs/blueowl/blueowl/jobs |
+| Broadridge | 1 | HTTP 429 for https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs |
+| CME Group | 1 | HTTP 429 for https://cmegroup.wd1.myworkdayjobs.com/wday/cxs/cmegroup/cme_careers/jobs |
+| ConocoPhillips | 1 | HTTP 429 for https://conocophillips.wd1.myworkdayjobs.com/wday/cxs/conocophillips/External/jobs |
+| Cushman & Wakefield | 1 | HTTP 429 for https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/External/jobs |
+| Darktrace | 1 | HTTP 429 for https://darktrace.wd3.myworkdayjobs.com/wday/cxs/darktrace/DarktaceExternal/jobs |
+| J.M. Smucker | 1 | HTTP 429 for https://smucker.wd5.myworkdayjobs.com/wday/cxs/smucker/US_External_Careers/jobs |
+| NCR Voyix | 1 | HTTP 429 for https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_apac/jobs |
+| PulteGroup | 1 | HTTP 429 for https://pultegroup.wd1.myworkdayjobs.com/wday/cxs/pultegroup/PGI/jobs |
+| Verizon | 1 | HTTP 429 for https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs |
 
 Fix an entry with tools/add_company.py, or add `disabled: true` to it in config/companies.yaml.

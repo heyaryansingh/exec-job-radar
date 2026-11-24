@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,215 open roles** at **1,966 companies** · **150 new in the last 24 hours** · 6,183 company career sites watched · updated hourly · last update Nov 24, 2026 05:28 AM ET
+**5,216 open roles** at **1,966 companies** · **151 new in the last 24 hours** · 6,183 company career sites watched · updated hourly · last update Nov 24, 2026 06:14 AM ET
 
-By level: Director 2796 · VP 888 · Sr. Director 683 · Head 325 · C-level 189 · EVP/SVP 155 · ED 123 · MD 56
+By level: Director 2796 · VP 888 · Sr. Director 684 · Head 325 · C-level 189 · EVP/SVP 155 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (150)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (151)](#new-in-the-last-24-hours)
 - [🤠 Houston area (193)](#houston-area)
 - [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (355)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2796 · VP 888 · Sr. Director 683 · Head 325 · C-level 189
 - [☁️ Cloud & Infrastructure (465)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
 - [🔄 Transformation & Delivery (653)](#transformation-delivery)
-- [🛠️ Engineering & Software (1392)](#engineering-software)
+- [🛠️ Engineering & Software (1393)](#engineering-software)
 - [📌 Other Senior Roles (371)](#other-senior-roles)
 - [🔒 Recently closed (942)](#recently-closed)
 - Daily digests: [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md)
@@ -47,8 +47,8 @@ By level: Director 2796 · VP 888 · Sr. Director 683 · Head 325 · C-level 189
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Platform Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-platform-engineer-vice-president/287/103719612624) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president/287/103719608992) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Senior Platform Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-platform-engineer-vice-president/287/103719612624) |
 | lululemon | 🆕 Technology Director, Security Operations | Director | Seattle, WA, USA | $206K–$270K | 0d | [Apply](https://careers.lululemon.com/en_US/careers/JobDetail/Technology-Director-Security-Operations/66036) |
 | PARKING MANAGEMENT COMPANY | 🆕 Director of Business Technology and Security | Director | Remote, USA |  | 0d | [Apply](https://jobs.dayforcehcm.com/en-US/parkingmgt/CANDIDATEPORTAL/jobs/5864) |
 | Rosendin Electric | 🆕 Director Of Engineering | Director | Coppell, TX, USA |  | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/ff4a4b5f2a6264f37e5786754dd3886b176c1bbc11d7cebc51fce245/) |
@@ -75,6 +75,7 @@ By level: Director 2796 · VP 888 · Sr. Director 683 · Head 325 · C-level 189
 | Cboe | 🆕 Sr Director, Platform Services | Sr. Director | New York, NY |  | 0d | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Sr-Director--Platform-Services_R-4856) |
 | Fresenius Medical Care | 🆕 (Senior) Director (m/f/d) - Sustaining Engineering | Director | 3 Locations |  | 0d | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/St-Wendel-Germany/XMLNAME--Senior--Director--m-f-d----Sustaining-Engineering_R0278492) |
 | SouthEast Alaska Regional Health Consortium | 🆕 Director of Connected Care Infrastructure | Director | AK - Juneau |  | 0d | [Apply](https://searhc.wd5.myworkdayjobs.com/en-US/SEARHC/job/AK---Juneau/Director-of-Connected-Care-Infrastructure_JR103036) |
+| Gap | 🆕 Sr Director, Technical Design - Banana Republic & BR Factory | Sr. Director | SF - 2 Folsom · Remote |  | 1d | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Sr-Director--Technical-Design---Banana-Republic---BR-Factory_R225209-1) |
 | BDO | 🆕 BDO Global Director, Ethics and Independence Technology | Director | Chicago, IL, United States | $190K–$210K | 1d | [Apply](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/14843) |
 | Gartner | 🆕 VP, Software Engineering (AI Platform Engineering) | VP | 2 Locations |  | 1d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Software-Engineering--AI-Platform-Engineering-_115262-1) |
 | Broadridge | 🆕 Vice President, AI Business Operations Transformation (Hybrid) | VP | Edgewood, NY | $200K–$250K | 1d | [Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Edgewood-NY/Vice-President--AI-Business-Operations-Transformation--Hybrid-_JR1087747-1) |
@@ -2075,6 +2076,7 @@ _403 older roles in this section are in data/roles.json on the `data` branch._
 | The Crom Corporation | 🆕 Director of IT | Director | Gainesville, FL, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=37925556-5452-4c20-ae38-06a2d238f361&ccId=19000101_000001&jobId=600428&source=IN&lang=en_US) |
 | OpenLoop Health | 🆕 Director, Payroll, AP & Cap Software | Director | United States - Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/openloophealth/563bb72e-4e41-408e-ab17-f90e3ae64618) ⚡ |
 | Fresenius Medical Care | 🆕 (Senior) Director (m/f/d) - Sustaining Engineering | Director | 3 Locations |  | 0d | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/St-Wendel-Germany/XMLNAME--Senior--Director--m-f-d----Sustaining-Engineering_R0278492) |
+| Gap | 🆕 Sr Director, Technical Design - Banana Republic & BR Factory | Sr. Director | SF - 2 Folsom · Remote |  | 1d | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Sr-Director--Technical-Design---Banana-Republic---BR-Factory_R225209-1) |
 | BDO | 🆕 BDO Global Director, Ethics and Independence Technology | Director | Chicago, IL, United States | $190K–$210K | 1d | [Apply](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/14843) |
 | Citi ⭐ | 🆕 Full Stack Java Tech Lead - Credit Risk - Markets Technology VP | VP | Rutherford New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Full-Stack-Java-Tech-Lead---Credit-Risk---Markets-Technology-VP_261008063) |
 | Abbott | 🆕 Director, Test Engineering | Director | Alameda, California, United States |  | 1d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31168391ENUSEXTERNAL) |
@@ -2316,9 +2318,8 @@ _403 older roles in this section are in data/roles.json on the `data` branch._
 | Blackpoint%20cyber | Director of Engineering, Detection & Response (req 7f172582-da53-4dd1-bf6d-) | Director | Remote - United States | $187K–$237K | 7d | [Apply](https://jobs.ashbyhq.com/Blackpoint%20Cyber/7f172582-da53-4dd1-bf6d-2205a51fd97c) ⚡ |
 | Databricks ⭐ | Sr. Technology Partner Director, Product Partnerships | Director | Remote - California +1 | $179K–$246K | 7d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8922572002) ⚡ |
 | Emerson ⭐ | Senior Director of Engineering | Sr. Director | St. Louis, MO, United States |  | 7d | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014034) |
-| ON Semiconductor | Senior Director, New Product Development Product Engineering | Sr. Director | San Jose, CA, United States |  | 7d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507144) |
 
-_1142 older roles in this section are in data/roles.json on the `data` branch._
+_1143 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-192 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+193 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Bickham Services Unlimited, LLC | 🆕 Chief Information Security Officer | C-level | Houston, TX, USA |  | 0d | [Apply](https://bickhamservices.bamboohr.com/careers/336?source=indeed&src=indeed&postedDate=2026-11-23) |
 | UnitedHealth Group ⭐ | 🆕 Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Grid United | 🆕 Director of Technology and Business Systems | Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/13d4260db4aa-director-of-technology-and-business-systems?source=indeed) |
 | UnitedHealth Group ⭐ | 🆕 VP of Product, Innovation- AI & Product Office - Remote in Boston, Houston, Indianapolis, Minneapolis or So Cal | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-of-product-innovation-ai-and-product-office-remote-in-boston-houston-indianapolis-minneapolis-or/34088/103700370064) |

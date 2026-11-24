@@ -19,19 +19,19 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,217 open roles** at **1,967 companies** · **152 new in the last 24 hours** · 6,183 company career sites watched · updated hourly · last update Nov 24, 2026 06:28 AM ET
+**5,219 open roles** at **1,967 companies** · **154 new in the last 24 hours** · 6,183 company career sites watched · updated hourly · last update Nov 24, 2026 07:22 AM ET
 
-By level: Director 2796 · VP 888 · Sr. Director 685 · Head 325 · C-level 189 · EVP/SVP 155 · ED 123 · MD 56
+By level: Director 2796 · VP 888 · Sr. Director 685 · Head 327 · C-level 189 · EVP/SVP 155 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (152)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (154)](#new-in-the-last-24-hours)
 - [🤠 Houston area (193)](#houston-area)
 - [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (355)](#security-risk-technology)
-- [🧠 Data & AI (1263)](#data-ai)
+- [🧠 Data & AI (1265)](#data-ai)
 - [🚦 Reliability & Operations (364)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (465)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
@@ -47,6 +47,8 @@ By level: Director 2796 · VP 888 · Sr. Director 685 · Head 325 · C-level 189
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Head of AI Asset Review | Head | Mississauga, ON, CA |  | 0d | [Apply](https://jobs.citi.com/job/mississauga/head-of-ai-asset-review/287/103723686272) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Head of AI Asset Review | Head | New York, NY, US +1 |  | 0d | [Apply](https://jobs.citi.com/job/new-york/head-of-ai-asset-review/287/103723676096) |
 | Staples | 🆕 Senior Director Retail Technology Services | Sr. Director | Framingham, MA, USA | $166K–$252K | 0d | [Apply](https://retailcareers.staples.com//job/-/-/49589/103701328192) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president/287/103719608992) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Platform Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-platform-engineer-vice-president/287/103719612624) |
@@ -872,6 +874,8 @@ _105 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Head of AI Asset Review | Head | Mississauga, ON, CA |  | 0d | [Apply](https://jobs.citi.com/job/mississauga/head-of-ai-asset-review/287/103723686272) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Head of AI Asset Review | Head | New York, NY, US +1 |  | 0d | [Apply](https://jobs.citi.com/job/new-york/head-of-ai-asset-review/287/103723676096) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president/287/103719608992) |
 | Citi ⭐ | 🆕 Head of AI Asset Review | Head | New York New York United States +1 |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Head-of-AI-Asset-Review_261011860) |
 | American Airlines | 🆕 Director, Operations Data Strategy | Director | Fort Worth, TX, USA |  | 0d | [Apply](https://jobs.aa.com/job/Fort-Worth-Director%2C-Operations-Data-Strategy-TX-76101/1453174900/?feedId=198700&utm_source=Indeed&utm_campaign=AA_Indeed) |
@@ -1120,10 +1124,8 @@ _105 older roles in this section are in data/roles.json on the `data` branch._
 | Purpose Financial | Head of Data Delivery | Head | Greenville, SC, USA |  | 8d | [Apply](https://jobs.havepurpose.com/job/Greenville-Head-of-Data-Delivery-SC-29601/1451153000/) |
 | Walmart | Senior Director, Data Science | Sr. Director | Sunnyvale, CA, USA | $208K–$416K | 8d | [Apply](https://click.appcast.io/t/JAIE2a-e8YlcMFXM2o-SkTwi-KK5Q1abSOXAGh4clI4=) [alt](https://click.appcast.io/t/TJL-WlX4DItsAPmraZHeHZEn8eU-nxa0wa-f5hUiiaU=) |
 | Flagship Pioneering, Inc. | Senior Director, AI Platforms | Sr. Director | Cambridge, MA USA | $204K–$280K | 8d | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8937570002?gh_jid=8937570002) ⚡ |
-| JPMorgan Chase ⭐ | Data Owner Lead - Data Analytics - Vice President | VP | Jersey City, NJ, United States |  | 8d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808686) |
-| UnitedHealth Group ⭐ | Director, AI & Product Intelligence Strategy | Director | Minnetonka, Minnesota, United States +8 · Remote | $159K–$273K | 8d | [Apply](https://careers.unitedhealthgroup.com/job/minnetonka/director-ai-and-product-intelligence-strategy/34088/103399106112) |
 
-_1013 older roles in this section are in data/roles.json on the `data` branch._
+_1015 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

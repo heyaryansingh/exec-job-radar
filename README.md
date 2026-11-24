@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,203 open roles** at **1,962 companies** · **140 new in the last 24 hours** · 6,181 company career sites watched · updated hourly · last update Nov 24, 2026 12:31 AM ET
+**5,203 open roles** at **1,962 companies** · **140 new in the last 24 hours** · 6,181 company career sites watched · updated hourly · last update Nov 24, 2026 01:33 AM ET
 
 By level: Director 2790 · VP 884 · Sr. Director 683 · Head 324 · C-level 188 · EVP/SVP 155 · ED 123 · MD 56
 
@@ -38,7 +38,7 @@ By level: Director 2790 · VP 884 · Sr. Director 683 · Head 324 · C-level 188
 - [🔄 Transformation & Delivery (652)](#transformation-delivery)
 - [🛠️ Engineering & Software (1390)](#engineering-software)
 - [📌 Other Senior Roles (370)](#other-senior-roles)
-- [🔒 Recently closed (944)](#recently-closed)
+- [🔒 Recently closed (943)](#recently-closed)
 - Daily digests: [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md)
 
 <a name="new-in-the-last-24-hours"></a>

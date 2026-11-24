@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,216 open roles** at **1,966 companies** · **151 new in the last 24 hours** · 6,183 company career sites watched · updated hourly · last update Nov 24, 2026 06:14 AM ET
+**5,217 open roles** at **1,967 companies** · **152 new in the last 24 hours** · 6,183 company career sites watched · updated hourly · last update Nov 24, 2026 06:28 AM ET
 
-By level: Director 2796 · VP 888 · Sr. Director 684 · Head 325 · C-level 189 · EVP/SVP 155 · ED 123 · MD 56
+By level: Director 2796 · VP 888 · Sr. Director 685 · Head 325 · C-level 189 · EVP/SVP 155 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (151)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (152)](#new-in-the-last-24-hours)
 - [🤠 Houston area (193)](#houston-area)
 - [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (355)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2796 · VP 888 · Sr. Director 684 · Head 325 · C-level 189
 - [☁️ Cloud & Infrastructure (465)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
 - [🔄 Transformation & Delivery (653)](#transformation-delivery)
-- [🛠️ Engineering & Software (1393)](#engineering-software)
+- [🛠️ Engineering & Software (1394)](#engineering-software)
 - [📌 Other Senior Roles (371)](#other-senior-roles)
 - [🔒 Recently closed (942)](#recently-closed)
 - Daily digests: [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md)
@@ -47,6 +47,7 @@ By level: Director 2796 · VP 888 · Sr. Director 684 · Head 325 · C-level 189
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Staples | 🆕 Senior Director Retail Technology Services | Sr. Director | Framingham, MA, USA | $166K–$252K | 0d | [Apply](https://retailcareers.staples.com//job/-/-/49589/103701328192) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Data Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president/287/103719608992) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Platform Engineer - Vice President | VP | Pune, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/pune/senior-platform-engineer-vice-president/287/103719612624) |
 | lululemon | 🆕 Technology Director, Security Operations | Director | Seattle, WA, USA | $206K–$270K | 0d | [Apply](https://careers.lululemon.com/en_US/careers/JobDetail/Technology-Director-Security-Operations/66036) |
@@ -2068,6 +2069,7 @@ _403 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Staples | 🆕 Senior Director Retail Technology Services | Sr. Director | Framingham, MA, USA | $166K–$252K | 0d | [Apply](https://retailcareers.staples.com//job/-/-/49589/103701328192) |
 | Rosendin Electric | 🆕 Director Of Engineering | Director | Coppell, TX, USA |  | 0d | [Apply](https://apply-v3.jobsync.io/indeed/r-app/ff4a4b5f2a6264f37e5786754dd3886b176c1bbc11d7cebc51fce245/) |
 | Wayland School District | 🆕 WMS Winter Musical Technical Theater Director – Afterschool | Director | Wayland, MA, USA |  | 0d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=6001227) |
 | Ciena | 🆕 Senior Director, Finance & ERP Business Technology Leader | Sr. Director | Baltimore, MD, USA |  | 0d | [Apply](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Baltimore/Senior-Director--Finance---ERP-Business-Technology-Leader_R032074) |
@@ -2317,9 +2319,8 @@ _403 older roles in this section are in data/roles.json on the `data` branch._
 | Citi ⭐ | VP Lead Full Stack Software Engineer | VP | Tampa Florida United States |  | 7d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/VP-Lead-Full-Stack-Software-Engineer_261010600) |
 | Blackpoint%20cyber | Director of Engineering, Detection & Response (req 7f172582-da53-4dd1-bf6d-) | Director | Remote - United States | $187K–$237K | 7d | [Apply](https://jobs.ashbyhq.com/Blackpoint%20Cyber/7f172582-da53-4dd1-bf6d-2205a51fd97c) ⚡ |
 | Databricks ⭐ | Sr. Technology Partner Director, Product Partnerships | Director | Remote - California +1 | $179K–$246K | 7d | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8922572002) ⚡ |
-| Emerson ⭐ | Senior Director of Engineering | Sr. Director | St. Louis, MO, United States |  | 7d | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014034) |
 
-_1143 older roles in this section are in data/roles.json on the `data` branch._
+_1144 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

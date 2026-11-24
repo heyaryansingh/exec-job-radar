@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,185 open roles** at **1,954 companies** · **122 new in the last 24 hours** · 6,176 company career sites watched · updated hourly · last update Nov 23, 2026 09:42 PM ET
+**5,190 open roles** at **1,954 companies** · **127 new in the last 24 hours** · 6,176 company career sites watched · updated hourly · last update Nov 23, 2026 10:33 PM ET
 
-By level: Director 2781 · VP 881 · Sr. Director 681 · Head 323 · C-level 187 · EVP/SVP 153 · ED 123 · MD 56
+By level: Director 2785 · VP 881 · Sr. Director 682 · Head 323 · C-level 187 · EVP/SVP 153 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (122)](#new-in-the-last-24-hours)
-- [🤠 Houston area (191)](#houston-area)
+- [🆕 New in the last 24 hours (127)](#new-in-the-last-24-hours)
+- [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (196)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (353)](#security-risk-technology)
-- [🧠 Data & AI (1254)](#data-ai)
+- [🧠 Data & AI (1255)](#data-ai)
 - [🚦 Reliability & Operations (365)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (462)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
 - [🔄 Transformation & Delivery (650)](#transformation-delivery)
-- [🛠️ Engineering & Software (1383)](#engineering-software)
+- [🛠️ Engineering & Software (1387)](#engineering-software)
 - [📌 Other Senior Roles (368)](#other-senior-roles)
 - [🔒 Recently closed (942)](#recently-closed)
 - Daily digests: [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md) · [11-17](data/daily/2026-11-17.md)
@@ -47,6 +47,7 @@ By level: Director 2781 · VP 881 · Sr. Director 681 · Head 323 · C-level 187
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| UnitedHealth Group ⭐ | 🆕 Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Grid United | 🆕 Director of Technology and Business Systems | Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/13d4260db4aa-director-of-technology-and-business-systems?source=indeed) |
 | Information Technology Senior Management Forum | 🆕 SouthStar Technology Director | Director | Atlanta, GA, USA |  | 0d | [Apply](https://jobs.itsmfleaders.org/job/ljvewa/southstar-technology-director/atlanta/ga) |
 | Information Technology Senior Management Forum | 🆕 Director, Operations Data Strategy | Director | Fort Worth, TX, USA |  | 0d | [Apply](https://jobs.itsmfleaders.org/job/ccrg9g/director-operations-data-strategy/fort-worth/-) |
@@ -58,11 +59,15 @@ By level: Director 2781 · VP 881 · Sr. Director 681 · Head 323 · C-level 187
 | Cboe | 🆕 Sr Director, Platform Services | Sr. Director | New York, NY |  | 0d | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Sr-Director--Platform-Services_R-4856) |
 | Fresenius Medical Care | 🆕 (Senior) Director (m/f/d) - Sustaining Engineering | Director | 3 Locations |  | 0d | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/St-Wendel-Germany/XMLNAME--Senior--Director--m-f-d----Sustaining-Engineering_R0278492) |
 | SouthEast Alaska Regional Health Consortium | 🆕 Director of Connected Care Infrastructure | Director | AK - Juneau |  | 0d | [Apply](https://searhc.wd5.myworkdayjobs.com/en-US/SEARHC/job/AK---Juneau/Director-of-Connected-Care-Infrastructure_JR103036) |
+| UnitedHealth Group ⭐ | 🆕 Director, Software Engineering - Remote | Director | Richmond, British Columbia, Canada +1 · Remote | $128K–$265K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/richmond/director-software-engineering-remote/34088/103708681984) |
+| Abbott ⭐ | 🆕 Director, Test Engineering | Director | United States - California - Alameda +1 |  | 1d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Director--Test-Engineering_31168391-2) |
+| PwC | 🆕 Product Manager- Director- Commercial Technology & Innovation | Director | NY-New York |  | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS775903WDEXTERNALENUS) |
+| Abbott | 🆕 Director, Test Engineering | Director | Alameda, California, United States |  | 1d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31168391ENUSEXTERNAL) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Principal Java Engineer Senior Vice President | EVP/SVP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/principal-java-engineer-senior-vice-president/287/103707168448) |
 | TOTAL EXPERT | 🆕 Director, Software Engineering | Director | Dallas, TX | $200K–$250K | 1d | [Apply](https://jobs.lever.co/totalexpert/1f110c87-08c1-4c0a-a377-42cfecabbbc7) ⚡ [alt](https://jobs.lever.co/totalexpert/1f110c87-08c1-4c0a-a377-42cfecabbbc7?lever-source=Indeed) |
 | Walmart | 🆕 Senior Director, Automation Engineering-Infrastructure Operations | Sr. Director | Bentonville, AR, USA | $160K–$320K | 1d | [Apply](https://click.appcast.io/t/jaKBW-urCdbtGPtnsw6dTu6cMnbfMflDrGVuyo9AKDc=) |
-| RTX ⭐ | 🆕 Technical Director Advanced Technology - SISR | Director | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Technical-Director-Advanced-Technology---SISR_01889896) |
 | Argano | 🆕 Vice President - Enterprise + AI Architecture | VP | United States · Remote |  | 1d | [Apply](https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2049) [alt](https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2049) |
+| RTX ⭐ | 🆕 Technical Director Advanced Technology - SISR | Director | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Technical-Director-Advanced-Technology---SISR_01889896) |
 | The Jackson Laboratory | 🆕 Chief Information Security Officer | C-level | Bar Harbor, Maine +4 | $189K–$333K | 1d | [Apply](https://thejacksonlaboratory.wd503.myworkdayjobs.com/External_JAX/job/Bar-Harbor-Maine/Chief-Information-Security-Officer_JR006418) [alt](https://thejacksonlaboratory.wd503.myworkdayjobs.com/External_JAX/job/Bar-Harbor-Maine/Chief-Information-Security-Officer_JR006418) |
 | University of Virginia | 🆕 Director, Data Integrity/Master Data Management (MDM) | Director | Charlottesville, Virginia, United States o |  | 1d | [Apply](https://careers.uvahealth.org/us/en/job/UOVUNIUSR0084698EXTERNALENUS) |
 | Capital One ⭐ | 🆕 Staff Front-End Engineer - AI/ML (Director, IC) | Director | McLean, VA +3 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Staff-Front-End-Engineer---AI-ML--Director--IC-_R1006347-1) |
@@ -178,6 +183,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| UnitedHealth Group ⭐ | 🆕 Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Grid United | 🆕 Director of Technology and Business Systems | Director | Houston, TX, USA |  | 0d | [Apply](https://grid-united.breezy.hr/p/13d4260db4aa-director-of-technology-and-business-systems?source=indeed) |
 | UnitedHealth Group ⭐ | 🆕 VP of Product, Innovation- AI & Product Office - Remote in Boston, Houston, Indianapolis, Minneapolis or So Cal | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-of-product-innovation-ai-and-product-office-remote-in-boston-houston-indianapolis-minneapolis-or/34088/103700370064) |
 | Honeywell ⭐ | Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 3d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
@@ -838,6 +844,7 @@ _103 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| UnitedHealth Group ⭐ | 🆕 Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Information Technology Senior Management Forum | 🆕 Director, Operations Data Strategy | Director | Fort Worth, TX, USA |  | 0d | [Apply](https://jobs.itsmfleaders.org/job/ccrg9g/director-operations-data-strategy/fort-worth/-) |
 | JPMorgan Chase ⭐ | 🆕 🔁 Data Owner -  Wholesale Credit Risk Product - Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811555) |
 | Argano | 🆕 Vice President - Enterprise + AI Architecture | VP | United States · Remote |  | 1d | [Apply](https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2049) [alt](https://fa-eyau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2049) |
@@ -1087,9 +1094,8 @@ _103 older roles in this section are in data/roles.json on the `data` branch._
 | SailPoint Technologies | Director, Product Management — Data & AI Platform | Director | USA · Remote | $167K–$281K | 8d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/Director-of-Product-Management_R014623) |
 | UnitedHealth Group ⭐ | Director of AI/ML Engineering Office-Based in Eden Prairie, MN | Director | Minnetonka, Minnesota, United States | $177K–$303K | 8d | [Apply](https://careers.unitedhealthgroup.com/job/minnetonka/director-of-ai-ml-engineering-office-based-in-eden-prairie-mn/34088/103389044928) |
 | RGA | Executive Director, AI Enablement | ED | Creve Coeur, Missouri, United States of Am |  | 8d | [Apply](https://www.rgarecareers.com/us/en/job/RGORGOUSJ29282EXTERNALENUS) |
-| SailPoint | Director, Product Management — Data & AI Platform | Director | United States |  | 8d | [Apply](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/Director-of-Product-Management_R014623) |
 
-_1004 older roles in this section are in data/roles.json on the `data` branch._
+_1005 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2040,6 +2046,10 @@ _400 older roles in this section are in data/roles.json on the `data` branch._
 | The Crom Corporation | 🆕 Director of IT | Director | Gainesville, FL, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=37925556-5452-4c20-ae38-06a2d238f361&ccId=19000101_000001&jobId=600428&source=IN&lang=en_US) |
 | OpenLoop Health | 🆕 Director, Payroll, AP & Cap Software | Director | United States - Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/openloophealth/563bb72e-4e41-408e-ab17-f90e3ae64618) ⚡ |
 | Fresenius Medical Care | 🆕 (Senior) Director (m/f/d) - Sustaining Engineering | Director | 3 Locations |  | 0d | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/St-Wendel-Germany/XMLNAME--Senior--Director--m-f-d----Sustaining-Engineering_R0278492) |
+| UnitedHealth Group ⭐ | 🆕 Director, Software Engineering - Remote | Director | Richmond, British Columbia, Canada +1 · Remote | $128K–$265K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/richmond/director-software-engineering-remote/34088/103708681984) |
+| Abbott ⭐ | 🆕 Director, Test Engineering | Director | United States - California - Alameda +1 |  | 1d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Director--Test-Engineering_31168391-2) |
+| PwC | 🆕 Product Manager- Director- Commercial Technology & Innovation | Director | NY-New York |  | 1d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS775903WDEXTERNALENUS) |
+| Abbott | 🆕 Director, Test Engineering | Director | Alameda, California, United States |  | 1d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31168391ENUSEXTERNAL) |
 | TOTAL EXPERT | 🆕 Director, Software Engineering | Director | Dallas, TX | $200K–$250K | 1d | [Apply](https://jobs.lever.co/totalexpert/1f110c87-08c1-4c0a-a377-42cfecabbbc7) ⚡ [alt](https://jobs.lever.co/totalexpert/1f110c87-08c1-4c0a-a377-42cfecabbbc7?lever-source=Indeed) |
 | RTX ⭐ | 🆕 Technical Director Advanced Technology - SISR | Director | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Technical-Director-Advanced-Technology---SISR_01889896) |
 | Cytel Inc | 🆕 Vice President, Software Development | VP | United States · Remote |  | 1d | [Apply](https://iblyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/1934) |
@@ -2281,12 +2291,8 @@ _400 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | IT Project Tech Lead - VIce President | VP | Irving, TX, US |  | 7d | [Apply](https://jobs.citi.com/job/irving/it-project-tech-lead-vice-president/287/103431186192) |
 | UnitedHealth Group ⭐ | Senior Director, Healthcare Technology Alliances - Remote | Sr. Director | Eden Prairie, Minnesota, United States +1 · Remote | $159K–$273K | 7d | [Apply](https://careers.unitedhealthgroup.com/job/eden-prairie/senior-director-healthcare-technology-alliances-remote/34088/103432678720) |
 | AbbVie ⭐ | Senior Director Process Engineering Peptides API (Hybrid, IL) (req 3743990016918226) | Sr. Director | Durham, NC, us |  | 7d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016918226-senior-director-process-engineering-peptides-api-hybrid-il-) ⚡ |
-| AbbVie ⭐ | Senior Director Process Engineering Peptides API (Hybrid, IL) (req 3743990016918266) | Sr. Director | Worcester, MA, us |  | 7d | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016918266-senior-director-process-engineering-peptides-api-hybrid-il-) ⚡ |
-| BioIVT | Vice President, Information Technology | VP | USA · Remote |  | 7d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9d00ee9-dafd-403f-a173-21148e663d66&ccId=19000101_000001&jobId=614013&source=IN&lang=en_US) |
-| West Monroe | Managing Director, Software Engineering | MD | New York, NY, USA | $280K–$378K | 7d | [Apply](https://westmonroe.com/careers/job-details-experienced-professionals?gh_jid=6264126004) |
-| Fortinet ⭐ | Director of Systems Engineering Enterprise | Director | Jacksonville, FL, United States |  | 7d | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24989) |
 
-_1133 older roles in this section are in data/roles.json on the `data` branch._
+_1137 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

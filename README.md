@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,203 open roles** at **1,962 companies** · **140 new in the last 24 hours** · 6,181 company career sites watched · updated hourly · last update Nov 24, 2026 01:33 AM ET
+**5,204 open roles** at **1,963 companies** · **140 new in the last 24 hours** · 6,181 company career sites watched · updated hourly · last update Nov 24, 2026 02:32 AM ET
 
-By level: Director 2790 · VP 884 · Sr. Director 683 · Head 324 · C-level 188 · EVP/SVP 155 · ED 123 · MD 56
+By level: Director 2791 · VP 884 · Sr. Director 683 · Head 324 · C-level 188 · EVP/SVP 155 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -35,10 +35,10 @@ By level: Director 2790 · VP 884 · Sr. Director 683 · Head 324 · C-level 188
 - [🚦 Reliability & Operations (364)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (464)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
-- [🔄 Transformation & Delivery (652)](#transformation-delivery)
+- [🔄 Transformation & Delivery (653)](#transformation-delivery)
 - [🛠️ Engineering & Software (1390)](#engineering-software)
 - [📌 Other Senior Roles (370)](#other-senior-roles)
-- [🔒 Recently closed (943)](#recently-closed)
+- [🔒 Recently closed (941)](#recently-closed)
 - Daily digests: [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -68,6 +68,7 @@ By level: Director 2790 · VP 884 · Sr. Director 683 · Head 324 · C-level 188
 | Cboe | 🆕 Sr Director, Platform Services | Sr. Director | New York, NY |  | 0d | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Sr-Director--Platform-Services_R-4856) |
 | Fresenius Medical Care | 🆕 (Senior) Director (m/f/d) - Sustaining Engineering | Director | 3 Locations |  | 0d | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/St-Wendel-Germany/XMLNAME--Senior--Director--m-f-d----Sustaining-Engineering_R0278492) |
 | SouthEast Alaska Regional Health Consortium | 🆕 Director of Connected Care Infrastructure | Director | AK - Juneau |  | 0d | [Apply](https://searhc.wd5.myworkdayjobs.com/en-US/SEARHC/job/AK---Juneau/Director-of-Connected-Care-Infrastructure_JR103036) |
+| Eversource | 🆕 Director, IT Portfolio Governance and Vendor Management (Hybrid) | Director | Berlin, CT +1 | $225K–$250K | 1d | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Director--IT-Portfolio-Governance-and-Vendor-Management--Hybrid-_R-032700) |
 | CareOregon | 🆕 Director, Claims Systems and Electronic Data Interchange | Director | Portland Oregon |  | 1d | [Apply](https://careoregon.wd12.myworkdayjobs.com/CO/job/Portland-Oregon/Director--Claims-Systems-and-Electronic-Data-Interchange_JR101226) |
 | Reyes Coca-Cola Bottling | 🆕 Director of Operations Program Management | Director | Irvine, CA, USA | $164K–$205K | 1d | [Apply](https://careers-reyescocacola.icims.com/jobs/40962/job) |
 | Citi ⭐ | 🆕 Lead Java Back End Developer Credit Risk Technology - Vice President | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Lead-Java-Back-End-Developer-Credit-Risk-Technology---Vice-President_261007703) |
@@ -186,7 +187,6 @@ By level: Director 2790 · VP 884 · Sr. Director 683 · Head 324 · C-level 188
 | Pfizer ⭐ | 🆕 Director, Team Lead, Regional Engineering Group Lead | Director | 2 Locations |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Team-Lead--Regional-Engineering-Group-Lead_4967821-1) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Audit Manager – AI Non-model Objects - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/audit-manager-ai-non-model-objects-vice-president/287/103680861472) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Perth, WA, Australia |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26153068) |
-| Integral Ad Science | 🆕 Director, Data Science | Director | 2 Locations |  | 3d | [Apply](https://integralads.wd1.myworkdayjobs.com/en-US/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
 
 <a name="houston-area"></a>
 
@@ -891,7 +891,7 @@ _103 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 Audit Manager – AI Non-model Objects - Vice President | VP | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/audit-manager-ai-non-model-objects-vice-president/287/103680861472) |
 | Domino's | Director, Data Platform Engineering (req 744000163126634) | Director | Ann Arbor, MI, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163126634-director-data-platform-engineering) ⚡ |
 | Brookfield Asset Management | VP, AI Product Owner | VP | New York, New York |  | 1d | [Apply](https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/New-York-New-York/VP--AI-Product-Owner_R2050954) |
-| Integral Ad Science | 🆕 Director, Data Science | Director | 2 Locations |  | 3d | [Apply](https://integralads.wd1.myworkdayjobs.com/en-US/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
+| Integral Ad Science | Director, Data Science | Director | 2 Locations |  | 3d | [Apply](https://integralads.wd1.myworkdayjobs.com/en-US/IAScareers/job/US---New-York-NY/Director--Data-Science_R-101554-1) |
 | Zillow | Director, Software Engineering, Big Data | Director | Remote-USA |  | 3d | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Director--Software-Engineering--Big-Data_P751862) |
 | CommonSpirit Health | System Director Formation Innovative Technology-Analytics | Director | Chicago, IL, USA | $159K–$236K | 3d | [Apply](https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-507667&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580615072%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bf2dc-e5b8-11f1-95fc-538a645bec45%26rx_job%3D2026-507667%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T220411Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed) |
 | Sandoz | Head of AI Strategy & Transformation (Director Level) | Head | Princeton, NJ, USA | $176K–$328K | 3d | [Apply](https://www.sandoz.com/careers/career-search/job-details/516935/head-ai-strategy-transformation-director-level%20/) |
@@ -1798,6 +1798,7 @@ _214 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Leidos | 🆕 Senior Program Director | Director | Metairie, LA, USA | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18510661-senior-program-director?tm_job=R-00197589&tm_event=view&tm_company=2502) |
+| Eversource | 🆕 Director, IT Portfolio Governance and Vendor Management (Hybrid) | Director | Berlin, CT +1 | $225K–$250K | 1d | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Director--IT-Portfolio-Governance-and-Vendor-Management--Hybrid-_R-032700) |
 | CVS Health ⭐ | 🆕 Lead Director, Digital Product | Director | CT - Hartford +12 |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Lead-Director--Digital-Product_R1080649-1) |
 | Ascension | 🆕 Senior Director ERP Release Strategy, Integration and Optimization | Sr. Director | St. Louis, MO, USA · Remote | $131K–$298K | 1d | [Apply](https://jobs-oraclecloud.ascension.org/en/job/33990) |
 | Eversource Energy | 🆕 Director, IT Portfolio Governance and Vendor Management (Hybrid) | Director | Westwood, MA, USA | $225K–$250K | 1d | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Director--IT-Portfolio-Governance-and-Vendor-Management--Hybrid-_R-032700) |
@@ -2046,9 +2047,8 @@ _214 older roles in this section are in data/roles.json on the `data` branch._
 | Leidos | Senior Program Director | Director | Reston, VA, USA | $154K–$278K | 19d | [Apply](https://careers.leidos.com/jobs/18452750-senior-program-director?tm_job=R-00196344-OTHLOC-PL-2D2293&tm_event=view&tm_company=2502) |
 | Ensono | Vice President, Transformation Program Delivery | VP | Remote - United States | $175K–$225K | 19d | [Apply](https://ensono.com/company/careers/jobs-board/?gh_jid=4749993005) ⚡ |
 | AECOM | Program Management Director, Water/Wastewater | Director | Los Angeles, CA, us · Remote |  | 19d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159971689-program-management-director-water-wastewater) ⚡ |
-| AECOM | Program Management Director, Rail & Transit | Director | Los Angeles, CA, us |  | 19d | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159974469-program-management-director-rail-transit) ⚡ |
 
-_402 older roles in this section are in data/roles.json on the `data` branch._
+_403 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 

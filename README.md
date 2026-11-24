@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,204 open roles** at **1,963 companies** · **140 new in the last 24 hours** · 6,181 company career sites watched · updated hourly · last update Nov 24, 2026 02:32 AM ET
+**5,204 open roles** at **1,963 companies** · **141 new in the last 24 hours** · 6,181 company career sites watched · updated hourly · last update Nov 24, 2026 03:23 AM ET
 
-By level: Director 2791 · VP 884 · Sr. Director 683 · Head 324 · C-level 188 · EVP/SVP 155 · ED 123 · MD 56
+By level: Director 2790 · VP 884 · Sr. Director 683 · Head 324 · C-level 189 · EVP/SVP 155 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (140)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (141)](#new-in-the-last-24-hours)
 - [🤠 Houston area (193)](#houston-area)
-- [👑 Executive Technology Leadership (197)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (198)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (353)](#security-risk-technology)
 - [🧠 Data & AI (1259)](#data-ai)
 - [🚦 Reliability & Operations (364)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (464)](#cloud-infrastructure)
 - [🏛️ Architecture (154)](#architecture)
 - [🔄 Transformation & Delivery (653)](#transformation-delivery)
-- [🛠️ Engineering & Software (1390)](#engineering-software)
+- [🛠️ Engineering & Software (1389)](#engineering-software)
 - [📌 Other Senior Roles (370)](#other-senior-roles)
-- [🔒 Recently closed (941)](#recently-closed)
+- [🔒 Recently closed (942)](#recently-closed)
 - Daily digests: [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md) · [11-18](data/daily/2026-11-18.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -68,6 +68,7 @@ By level: Director 2791 · VP 884 · Sr. Director 683 · Head 324 · C-level 188
 | Cboe | 🆕 Sr Director, Platform Services | Sr. Director | New York, NY |  | 0d | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Sr-Director--Platform-Services_R-4856) |
 | Fresenius Medical Care | 🆕 (Senior) Director (m/f/d) - Sustaining Engineering | Director | 3 Locations |  | 0d | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/St-Wendel-Germany/XMLNAME--Senior--Director--m-f-d----Sustaining-Engineering_R0278492) |
 | SouthEast Alaska Regional Health Consortium | 🆕 Director of Connected Care Infrastructure | Director | AK - Juneau |  | 0d | [Apply](https://searhc.wd5.myworkdayjobs.com/en-US/SEARHC/job/AK---Juneau/Director-of-Connected-Care-Infrastructure_JR103036) |
+| Northrop Grumman ⭐ | 🆕 Staff Engineer Systems Architect – Global Deputy Chief Architect (26-478) | C-level | United States-Colorado-Colorado Springs |  | 1d | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Staff-Engineer-Systems-Architect---Global-Deputy-Chief-Architect--26-478-_R10261862) |
 | Eversource | 🆕 Director, IT Portfolio Governance and Vendor Management (Hybrid) | Director | Berlin, CT +1 | $225K–$250K | 1d | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/Director--IT-Portfolio-Governance-and-Vendor-Management--Hybrid-_R-032700) |
 | CareOregon | 🆕 Director, Claims Systems and Electronic Data Interchange | Director | Portland Oregon |  | 1d | [Apply](https://careoregon.wd12.myworkdayjobs.com/CO/job/Portland-Oregon/Director--Claims-Systems-and-Electronic-Data-Interchange_JR101226) |
 | Reyes Coca-Cola Bottling | 🆕 Director of Operations Program Management | Director | Irvine, CA, USA | $164K–$205K | 1d | [Apply](https://careers-reyescocacola.icims.com/jobs/40962/job) |
@@ -398,6 +399,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 |---|---|---|---|---|---:|---|
 | Bickham Services Unlimited, LLC | 🆕 Chief Information Security Officer | C-level | Houston, TX, USA |  | 0d | [Apply](https://bickhamservices.bamboohr.com/careers/336?source=indeed&src=indeed&postedDate=2026-11-23) |
 | LMI | 🆕 Chief Technology Officer, Health | C-level | Tysons, VA, USA | $195K–$265K | 0d | [Apply](https://careers-lmi.icims.com/jobs/14988/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Northrop Grumman ⭐ | 🆕 Staff Engineer Systems Architect – Global Deputy Chief Architect (26-478) | C-level | United States-Colorado-Colorado Springs |  | 1d | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Staff-Engineer-Systems-Architect---Global-Deputy-Chief-Architect--26-478-_R10261862) |
 | The Jackson Laboratory | 🆕 Chief Information Security Officer | C-level | Bar Harbor, Maine +4 | $189K–$333K | 1d | [Apply](https://thejacksonlaboratory.wd503.myworkdayjobs.com/External_JAX/job/Bar-Harbor-Maine/Chief-Information-Security-Officer_JR006418) [alt](https://thejacksonlaboratory.wd503.myworkdayjobs.com/External_JAX/job/Bar-Harbor-Maine/Chief-Information-Security-Officer_JR006418) |
 | Truly Free | 🆕 Chief Technology Officer | C-level | Williamsburg, MI, USA |  | 1d | [Apply](https://trulyfreehome.bamboohr.com/careers/79?source=indeed&src=indeed&postedDate=2026-11-23) |
 | University of Nevada, Las Vegas | 🆕 Executive Director of Information Security & Chief Information Security Officer [R0154430] | C-level | Las Vegas, NV, USA |  | 1d | [Apply](https://nshe.wd1.myworkdayjobs.com/en-US/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Executive-Director-of-Information-Security---Chief-Information-Security-Officer_R0154430) |
@@ -2307,7 +2309,7 @@ _403 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | Applications Development Group Manager - Senior Vice President | EVP/SVP | Mississauga, ON, CA |  | 7d | [Apply](https://jobs.citi.com/job/mississauga/applications-development-group-manager-senior-vice-president/287/103431163120) |
 | Citi (jobs.citi.com) ⭐ | VP Lead Full Stack Software Engineer | VP | Tampa, FL, US |  | 7d | [Apply](https://jobs.citi.com/job/tampa/vp-lead-full-stack-software-engineer/287/103431179776) |
 
-_1140 older roles in this section are in data/roles.json on the `data` branch._
+_1139 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2576,6 +2578,7 @@ _120 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Marriott International ⭐ | 🔒 Assistant Director of Engineering | Director | Aspen, CO, United States |  | 29d | Closed |
 | OpenAI ⭐ | 🔒 Cyber AI Partner Director, Americas | Director | US - Remote | $300K–$340K | 7d | Closed |
 | AEG Worldwide | 🔒 Sr. Director, Production - Global Touring | Sr. Director | Los Angeles, CA | $157K–$241K | 19d | Closed |
 | AEG Worldwide | 🔒 Sr. Director, Production - Global Touring | Sr. Director | New York, NY |  | 19d | Closed |
@@ -2875,7 +2878,6 @@ _120 older roles in this section are in data/roles.json on the `data` branch._
 | Trinzic | 🔒 Maritime Robotic and Autonomous Systems Test Director | Director | Lexington Park, Maryland, United States of |  | 42d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 Senior Java Principal Engineer Senior Vice President | EVP/SVP | Irving, TX, US |  | 35d | Closed |
 | Citi (jobs.citi.com) ⭐ | 🔒 Digital Tagging & Measurement Lead – VP (C13) | VP | Irving, TX, US +1 |  | 35d | Closed |
-| Citi (jobs.citi.com) ⭐ | 🔒 Senior .Net Developer - Vice President | VP | Tampa, FL, US |  | 35d | Closed |
 
 </details>
 

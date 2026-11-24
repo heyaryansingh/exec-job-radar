@@ -1,9 +1,10 @@
 # 🤠 Senior technology roles in the Houston area
 
-195 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
+196 open roles, newest posting first. Updated hourly. Back to the [full list](../README.md).
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Crane Worldwide Logistics | 🆕 Director of Engineering, Applications | Director | Houston, TX, USA |  | 0d | [Apply](https://recruiting2.ultipro.com/CRA1009CRWL/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=388a65be-d967-4100-b9a0-aec8acad279b&postingId=a77bfde2-89d7-44e7-946c-f1ef3dbde861) |
 | UnitedHealth Group ⭐ | 🆕 Director of Product, AI & Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/director-of-product-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southern-califor/34088/103735169472) |
 | UnitedHealth Group ⭐ | 🆕 VP or Product, Product Data Platform - AI & Product Office -Remote in Boston, Houston, Indianapolis, Minneapolis or Southern California | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 0d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-or-product-product-data-platform-ai-and-product-office-remote-in-boston-houston-indianapolis-min/34088/103735170208) |
 | Bickham Services Unlimited, LLC | 🆕 Chief Information Security Officer | C-level | Houston, TX, USA |  | 0d | [Apply](https://bickhamservices.bamboohr.com/careers/336?source=indeed&src=indeed&postedDate=2026-11-23) |

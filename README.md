@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,354 open roles** at **2,015 companies** · **166 new in the last 24 hours** · 6,213 company career sites watched · updated hourly · last update Nov 25, 2026 07:34 AM ET
+**5,354 open roles** at **2,014 companies** · **166 new in the last 24 hours** · 6,213 company career sites watched · updated hourly · last update Nov 25, 2026 08:22 AM ET
 
-By level: Director 2865 · VP 917 · Sr. Director 707 · Head 337 · C-level 191 · EVP/SVP 154 · ED 127 · MD 56
+By level: Director 2864 · VP 918 · Sr. Director 707 · Head 337 · C-level 191 · EVP/SVP 154 · ED 127 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -36,9 +36,9 @@ By level: Director 2865 · VP 917 · Sr. Director 707 · Head 337 · C-level 191
 - [☁️ Cloud & Infrastructure (475)](#cloud-infrastructure)
 - [🏛️ Architecture (159)](#architecture)
 - [🔄 Transformation & Delivery (663)](#transformation-delivery)
-- [🛠️ Engineering & Software (1429)](#engineering-software)
-- [📌 Other Senior Roles (380)](#other-senior-roles)
-- [🔒 Recently closed (958)](#recently-closed)
+- [🛠️ Engineering & Software (1430)](#engineering-software)
+- [📌 Other Senior Roles (379)](#other-senior-roles)
+- [🔒 Recently closed (959)](#recently-closed)
 - Daily digests: [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -84,6 +84,7 @@ By level: Director 2865 · VP 917 · Sr. Director 707 · Head 337 · C-level 191
 | Trace3 | 🆕 Vice President, Data & AI | VP | Irvine, CA, USA · Remote | $275K–$325K | 0d | [Apply](https://grnh.se/t1dedt9q1us) |
 | Viasat | 🆕 Senior Director - Engineering Platform & Services | Sr. Director | Carlsbad, CA, USA | $248K–$462K | 0d | [Apply](https://careers.viasat.com/jobs/8624?lang=en-us) [alt](http://careers.viasat.com/jobs/8624/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Oshkosh Corporation | 🆕 Sr Director - Infrastructure | Sr. Director | Oshkosh, Wisconsin, United States |  | 0d | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) [alt](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) |
+| BNY ⭐ | 🆕 Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
 | Optiv | 🆕 Practice Director - Infrastructure and SOC - Optiv Consulting / Remote, USA | Director | Wilmington, Delaware |  | 1d | [Apply](https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) [alt](https://optiv.wd5.myworkdayjobs.com/en-US/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) |
 | Morgan Stanley ⭐ | 🆕 Fixed Income Division – Vice President, Digital Assets Strategy (New York) | VP | New York, New York, United States of Ameri |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Vice-President--Digital-Assets-Strategy--New-York-_JR046778) |
 | Morgan Stanley ⭐ | 🆕 Internal Audit, Vice President - Institutional Securities, Technology | VP | 1 New York Plaza |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/Internal-Audit--Vice-President---Institutional-Securities--Technology_PT-JR041489-1) |
@@ -212,7 +213,6 @@ By level: Director 2865 · VP 917 · Sr. Director 707 · Head 337 · C-level 191
 | 스터디 컨설팅 | 🆕 Chief Technology Officer | C-level | Winchester, VA, USA |  | 1d | [Apply](https://www.indeed.com/viewjob?jk=c9bc170e48bf0ce1) |
 | TraceLink, Inc | 🆕 Director, Integrated Campaigns & Demand Generation | Director | US - MA - Wilmington | $183K–$223K | 1d | [Apply](https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5308036007) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Product Executive Director - Home Lending Product & Transformation | ED | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811358) |
-| University of Virginia | 🆕 Director of Research Operations and Transformation, School of Data Science | Director | Charlottesville, Virginia, United States o |  | 1d | [Apply](https://careers.uvahealth.org/us/en/job/UOVUNIUSR0089468EXTERNALENUS) |
 
 <a name="houston-area"></a>
 
@@ -935,7 +935,7 @@ _115 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | 🆕 Vice President, Data Management & Quantitative Analysis (req 83810) | VP | New York, NY, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/83810) |
 | OpenAI ⭐ | 🆕 Global Head of Applied AI Engineering, SMB / Mid-Market | Head | San Francisco · Remote | $374K–$415K | 1d | [Apply](https://jobs.ashbyhq.com/openai/07fddd60-30a7-45fb-8564-f0ad1cd75716) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 Gen AI Lead Data Scientist - Wholesale Credit Risk Analytics - Vice President | VP | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809508) |
-| University of Virginia | 🆕 Director of Research Operations and Transformation, School of Data Science | Director | Charlottesville, Virginia, United States o |  | 1d | [Apply](https://careers.uvahealth.org/us/en/job/UOVUNIUSR0089468EXTERNALENUS) |
+| University of Virginia | Director of Research Operations and Transformation, School of Data Science | Director | Charlottesville, Virginia, United States o |  | 1d | [Apply](https://careers.uvahealth.org/us/en/job/UOVUNIUSR0089468EXTERNALENUS) |
 | Citi (jobs.citi.com) ⭐ | Head of AI Asset Review | Head | New York, NY, US +1 |  | 1d | [Apply](https://jobs.citi.com/job/new-york/head-of-ai-asset-review/287/103723676096) |
 | Citi (jobs.citi.com) ⭐ | Head of AI Asset Review | Head | Mississauga, ON, CA |  | 1d | [Apply](https://jobs.citi.com/job/mississauga/head-of-ai-asset-review/287/103723686272) |
 | Citi (jobs.citi.com) ⭐ | Senior Data Engineer - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/senior-data-engineer-vice-president/287/103719608992) |
@@ -2101,6 +2101,7 @@ _413 older roles in this section are in data/roles.json on the `data` branch._
 | Inhabit | 🆕 VP of Software Engineering | VP | Plano, TX, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
 | Fluid Management Operations Inc | 🆕 Director of Hardware Engineering | Director | Wheeling, IL, USA | $142K–$213K | 0d | [Apply](https://idexcorp.wd5.myworkdayjobs.com/IDEX_Careers/job/Wheeling-Illinois/Director-of-Hardware-Engineering_R-10453-1) |
 | Inhabit | 🆕 VP of Software Engineering | VP | Alpharetta, GA, USA |  | 0d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
+| BNY ⭐ | 🆕 Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
 | Morgan Stanley ⭐ | 🆕 Internal Audit, Vice President - Institutional Securities, Technology | VP | 1 New York Plaza |  | 1d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/Internal-Audit--Vice-President---Institutional-Securities--Technology_PT-JR041489-1) |
 | Endor Labs | 🆕 Director of Engineering (req 4754372005) | Director | Palo Alto, CA |  | 1d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4754372005) ⚡ |
 | Fluidstack | 🆕 Director, IT | Director | Austin, TX +4 | $344K–$405K | 1d | [Apply](https://jobs.ashbyhq.com/fluidstack/b79d8339-325d-46d5-aa98-7f0f57eec412) ⚡ |
@@ -2342,9 +2343,8 @@ _413 older roles in this section are in data/roles.json on the `data` branch._
 | Refresco | Director Engineering | Director | San Bernardino, CA, USA | $170K–$225K | 7d | [Apply](https://recruiting.ultipro.com/REF1001RBUS/JobBoard/9dc59b6d-6dab-454e-883b-4c8c6d36d52d/OpportunityDetail?opportunityId=25b087b6-6a8f-41cd-994e-0dd5efa4c520&postingId=21e9ac06-bec2-40a7-86f8-5575fd09734a) [alt](https://www.refresco.nl/nl/werken-bij-refresco/vacancies/id/25b087b6-6a8f-41cd-994e-0dd5efa4c520/Director%20Engineering/Full-time) |
 | WSP | On-Call Technical Director, Pipeline Engineering | Director | San Francisco, CA, United States | $145K–$236K | 7d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99734) |
 | PEAK TECHNOLOGIES | Vice President - Information Technology | VP | Remote, USA | $200K | 7d | [Apply](https://peaktech.betterteam.com/vice-president-information-technology-1?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic) |
-| Freshworks | Head of Solution Engineering, Americas (req 744000162307950) | Head | San Mateo, CA, us | $255K–$320K | 7d | [Apply](https://jobs.smartrecruiters.com/Freshworks/744000162307950-head-of-solution-engineering-americas) ⚡ |
 
-_1179 older roles in this section are in data/roles.json on the `data` branch._
+_1180 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2603,7 +2603,7 @@ _1179 older roles in this section are in data/roles.json on the `data` branch._
 | Devoted | Director, Health Systems Management | Director | Remote USA | $182K–$217K | 28d | [Apply](https://devoted.wd1.myworkdayjobs.com/Devoted/job/Remote-USA/Director--Health-Systems-Management_R3792) |
 | SentinelOne | Director, Product Management | Director | United States - Remote | $206K–$309K | 28d | [Apply](https://www.sentinelone.com/jobs/?gh_jid=8040890003) ⚡ |
 
-_130 older roles in this section are in data/roles.json on the `data` branch._
+_129 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 
@@ -2613,6 +2613,7 @@ _130 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| University of Tennessee Health Science Center | 🔒 Assistant Director, Degree Audit & Planner Systems - Division of Enrollment Management - UTK | Director | Knoxville, TN, United States |  | 30d | Closed |
 | Expedia Group ⭐ | 🔒 Vice President, Engineering – Fraud & Risk | VP | Washington - Seattle Campus +1 |  | 10d | Closed |
 | Cytel Inc | 🔒 Vice President, Software Development | VP | United States · Remote |  | 2d | Closed |
 | Anduril Industries | 🔒 Director of Finance, Platform | Director | Costa Mesa, California, United States | $191K–$253K | 48d | Closed |
@@ -2912,7 +2913,6 @@ _130 older roles in this section are in data/roles.json on the `data` branch._
 | McCarthy Holdings | 🔒 Director, Engineering, Data & AI | Director | Houston, TX, USA |  | 35d | Closed |
 | McCarthy Holdings | 🔒 Director, Engineering, Data & AI | Director | St. Louis, MO, USA |  | 35d | Closed |
 | Mitsubishi Power Americas, Inc. | 🔒 Director, IT - ERP | Director | Lake Mary, FL, USA |  | 35d | Closed |
-| New York Life | 🔒 Corporate Vice President - Head of Technology Learning & AI Enablement | VP | New York, NY, USA | $160K–$228K | 35d | Closed |
 
 </details>
 

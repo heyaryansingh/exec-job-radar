@@ -19,24 +19,24 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,359 open roles** at **2,015 companies** · **163 new in the last 24 hours** · 6,215 company career sites watched · updated hourly · last update Nov 25, 2026 10:24 AM ET
+**5,361 open roles** at **2,016 companies** · **164 new in the last 24 hours** · 6,215 company career sites watched · updated hourly · last update Nov 25, 2026 10:53 AM ET
 
-By level: Director 2864 · VP 921 · Sr. Director 706 · Head 340 · C-level 191 · EVP/SVP 154 · ED 127 · MD 56
+By level: Director 2865 · VP 922 · Sr. Director 706 · Head 340 · C-level 191 · EVP/SVP 154 · ED 127 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (163)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (164)](#new-in-the-last-24-hours)
 - [🤠 Houston area (196)](#houston-area)
 - [👑 Executive Technology Leadership (200)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (365)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (366)](#security-risk-technology)
 - [🧠 Data & AI (1308)](#data-ai)
 - [🚦 Reliability & Operations (376)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (475)](#cloud-infrastructure)
 - [🏛️ Architecture (159)](#architecture)
 - [🔄 Transformation & Delivery (664)](#transformation-delivery)
-- [🛠️ Engineering & Software (1433)](#engineering-software)
+- [🛠️ Engineering & Software (1434)](#engineering-software)
 - [📌 Other Senior Roles (379)](#other-senior-roles)
 - [🔒 Recently closed (962)](#recently-closed)
 - Daily digests: [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md)
@@ -47,6 +47,7 @@ By level: Director 2864 · VP 921 · Sr. Director 706 · Head 340 · C-level 191
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Abbott ⭐ | 🆕 Director, Global Security | Director | United States > Washington : 1801 Pennsylv |  | 0d | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Washington--1801-Pennsylvania-Ave-NW/Director--Global-Security_31161087-1) |
 | JPMorgan Chase ⭐ | 🆕 Vice President Product Manager - Data Privacy | VP | Columbus, OH, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811980) |
 | Harvard University | 🆕 Director, Straus Center for Conservation and Technical Studies | Director | Cambridge, MA, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017085806-director-straus-center-for-conservation-and-technical-studies) ⚡ |
 | State Street ⭐ | 🆕 Fixed Income Cash Investment Management Product Engineering & Innovation Lead, VP II  - State Street Investment Management | VP | 2 Locations |  | 0d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Fixed-Income-Cash-Investment-Management-Product-Engineering---Innovation-Lead--VP-II----State-Street-Investment-Management_R-799034) |
@@ -629,6 +630,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Abbott ⭐ | 🆕 Director, Global Security | Director | United States > Washington : 1801 Pennsylv |  | 0d | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Washington--1801-Pennsylvania-Ave-NW/Director--Global-Security_31161087-1) |
 | Pacific Fusion | 🆕 Head of IT Security | Head | San Leandro, CA | $220K–$275K | 0d | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4523229009) ⚡ |
 | MDVIP LLC | 🆕 Director, Security | Director | USA · Remote |  | 0d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691092/MDVIP-LLC/Director-Security?source=Indeed_Feed) |
 | Slalom Consulting | 🆕 Director, Cloud Security (US) | Director | Atlanta, GA, USA | $195K–$290K | 0d | [Apply](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=4131) |
@@ -878,9 +880,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | ServiceNow ⭐ | Director, Product Management - Security and Risk Partnerships (req 744000158162749) | Director | Kirkland, Washington, us · Remote | $221K–$387K | 29d | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000158162749-director-product-management-security-and-risk-partnerships) ⚡ |
 | STACK Infrastructure US | Director, Resilience Systems & Assurance | Director | Denver, CO +1 |  | 29d | [Apply](https://stackinfra.wd108.myworkdayjobs.com/STACK_AMER/job/Denver-CO/Director--Resilience-Systems---Assurance_JR00481) |
 | SSM Health | Director of Information Security | Director | Saint Louis, Missouri, United States of Am |  | 29d | [Apply](https://jobs.ssmhealth.com/us/en/job/SHWSHLUSR191770EXTERNALENUS) |
-| BNY ⭐ | Vice President, Information Security | VP | Lake Mary, FL, United States |  | 29d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81837) |
 
-_115 older roles in this section are in data/roles.json on the `data` branch._
+_116 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -2197,6 +2198,7 @@ _414 older roles in this section are in data/roles.json on the `data` branch._
 | Homecare Homebase | Vice President, Engineering | VP | Dallas, TX, USA |  | 4d | [Apply](https://careers.hearst.com/jobs/vice-president-engineering-dallas-tx-4473655009-jobs--technology--) |
 | Homecare Homebase | Director of Engineering | Director | Manchester, NH, USA |  | 4d | [Apply](https://careers.hearst.com/jobs/director-of-engineering-manchester-nh-4510432009-jobs--operations--) |
 | Information Technology Senior Management Forum | Director, Technology Regulatory Practices - Enterprise Services Risk Organization | Director | McLean, VA, USA | $230K–$263K | 4d | [Apply](https://jobs.itsmfleaders.org/job/7bjsbt/director-technology-regulatory-practices-enterprise-services-risk-organization/mclean/va) |
+| Children's National Hospital | VP, Enterprise Technology Services | VP | Inventa |  | 5d | [Apply](https://childrensnational.wd108.myworkdayjobs.com/en-US/CN_Careers/job/Inventa/VP--Enterprise-Technology-Services_R-000833) |
 | Anvil Capture Systems Inc | Director of Engineering | Director | Somerville, Massachusetts +1 · Remote |  | 5d | [Apply](https://jobs.ashbyhq.com/anvilcarbon/c11aaa44-0789-4950-8488-deefe95cd78e) ⚡ |
 | Transmedics | Senior Director, Automation & New Process Engineering | Sr. Director | Andover, MA | $221K–$314K | 5d | [Apply](https://transmedics.wd1.myworkdayjobs.com/TransMedics_Careers/job/Andover-MA/Senior-Director--Automation---New-Process-Engineering_R-101552) |
 | Blue Origin | Director, Spacecraft Systems Engineering, Integration, & Test, TeraWave | Director | 3 Locations |  | 5d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Director--Spacecraft-Systems-Engineering--Integration----Test--TeraWave_R76147) |
@@ -2339,9 +2341,8 @@ _414 older roles in this section are in data/roles.json on the `data` branch._
 | Merck | Principal Scientist – Device Technical and Engineering Lead – Inhalation Programs (Director Equivalent) | Director | Rahway, New Jersey, United States of Ameri |  | 7d | [Apply](https://jobs.merck.com/us/en/job/MERCUSR410988ENUS) |
 | Cursor | Regional Director, Forward Deployed Engineering - Financial Services | Director | Washington, D.C. | $288K–$432K | 7d | [Apply](https://jobs.ashbyhq.com/cursor/9f5d7596-501a-4934-9a25-daba53412e95) ⚡ |
 | Par%20technology | Director of Engineering, Point of Sale | Director | Remote - Texas +8 | $200K–$270K | 7d | [Apply](https://jobs.ashbyhq.com/PAR%20Technology/2c689a7a-54a7-4dd0-babd-4f9ff518818d) ⚡ |
-| apexanalytix | VP of Engineering | VP | Remote, USA |  | 7d | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/844dead3-c153-4d2c-9eb3-0c21a2b4ee4f?jobSite=Indeed) |
 
-_1183 older roles in this section are in data/roles.json on the `data` branch._
+_1184 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

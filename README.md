@@ -19,25 +19,25 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,406 open roles** at **2,022 companies** · **157 new in the last 24 hours** · 6,224 company career sites watched · updated hourly · last update Nov 25, 2026 03:14 PM ET
+**5,416 open roles** at **2,027 companies** · **154 new in the last 24 hours** · 6,224 company career sites watched · updated hourly · last update Nov 25, 2026 04:13 PM ET
 
-By level: Director 2891 · VP 935 · Sr. Director 707 · Head 341 · C-level 192 · EVP/SVP 155 · ED 128 · MD 56
+By level: Director 2897 · VP 935 · Sr. Director 706 · Head 344 · C-level 194 · EVP/SVP 155 · ED 128 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (157)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (154)](#new-in-the-last-24-hours)
 - [🤠 Houston area (196)](#houston-area)
-- [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (372)](#security-risk-technology)
-- [🧠 Data & AI (1319)](#data-ai)
-- [🚦 Reliability & Operations (384)](#reliability-operations)
+- [👑 Executive Technology Leadership (203)](#executive-technology-leadership)
+- [🛡️ Security & Risk Technology (374)](#security-risk-technology)
+- [🧠 Data & AI (1321)](#data-ai)
+- [🚦 Reliability & Operations (386)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (478)](#cloud-infrastructure)
-- [🏛️ Architecture (158)](#architecture)
-- [🔄 Transformation & Delivery (670)](#transformation-delivery)
-- [🛠️ Engineering & Software (1447)](#engineering-software)
-- [📌 Other Senior Roles (377)](#other-senior-roles)
+- [🏛️ Architecture (159)](#architecture)
+- [🔄 Transformation & Delivery (671)](#transformation-delivery)
+- [🛠️ Engineering & Software (1448)](#engineering-software)
+- [📌 Other Senior Roles (376)](#other-senior-roles)
 - [🔒 Recently closed (964)](#recently-closed)
 - Daily digests: [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md) · [11-19](data/daily/2026-11-19.md)
 
@@ -47,13 +47,22 @@ By level: Director 2891 · VP 935 · Sr. Director 707 · Head 341 · C-level 192
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Notion | 🆕 Head of Global Security Assurance | Head | San Francisco, California · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/notion/939da8ac-3f55-4e23-8b13-ed4867a8f4e0) ⚡ |
+| Caesars Entertainment | 🆕 Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 0d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |
+| Northern Trust Corporation | 🆕 Principal - Head of Compliance Architecture | Head | Chicago, IL |  | 0d | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Head-of-Compliance-Architecture_R161054) |
+| USAA ⭐ | 🆕 Director, AI-DLC and Business Process Automation Platform | Director | 3 Locations |  | 0d | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Director--AI-DLC-and-Business-Process-Automation-Platform_R0122677-1) |
+| Everforth ECS | 🆕 Navy/MC/4th Estate CTO | C-level | Fairfax, VA, USA | $230K–$350K | 0d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240253506&c=2201039&d=ExternalCareerSite&rb=INDEED&idUnique=5001240253506) |
+| RunSybil | 🆕 Head of Engineering | Head | New York, NY, USA | $275K–$325K | 0d | [Apply](https://jobs.ashbyhq.com/runsybil-jobs/a050f37d-b0b8-4d3d-823f-7c34f9633b12?utm_source=WoLbQzY5R1) |
+| Intact Insurance | 🆕 Director, Infrastructure and Cloud Operations (Hybrid) | Director | Farmington, CT, USA | $225K–$263K | 0d | [Apply](https://recruiting.ultipro.com/ONE1004ONEB/JobBoard/72fdae0d-0544-4d81-ae26-562ccfcb8266/OpportunityDetail?opportunityId=b3bcd5b0-7b3b-4a89-97b8-b6fcf7edbd3f&postingId=d0280869-fbc5-4d69-91f5-e75a4c9fefeb) |
+| General Dynamics Information Technology | 🆕 Program Director - IT Security/Cybersecurity Programs | Director | San Antonio, TX, USA | $170K–$229K | 0d | [Apply](https://www.gdit.com/careers/job/78c0fb657/program-director-it-securitycybersecurity-programs/) |
+| Karman Space & Defense | 🆕 Director of Production Planning | Director | Brea, CA, USA | $158K–$237K | 0d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | Datadog ⭐ | 🆕 Vice President, Technical Solutions Operations | VP | San Francisco, California, USA | $275K–$350K | 0d | [Apply](https://careers.datadoghq.com/detail/8414502/?gh_jid=8414502) ⚡ |
-| ON Semiconductor | 🆕 Group Chief Technology Officer | C-level | Allen, TX, United States |  | 0d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507305) |
-| Hilton ⭐ | 🆕 Assistant Director of Security - Waldorf Astoria New York | Director | New York, NY, United States |  | 0d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233005) |
-| TD | 🆕 Product Group Technology Lead (CIAM - Secure Onboarding & Identity Proofing) |  | 2 Locations |  | 0d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Group-Technology-Lead-II--Secure-Onboarding---Identity-Proofing--CIAM-_R_1511489) |
 | Obsidian Therapeutics | 🆕 VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 0d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | New York, NEW YORK, us | $170K–$200K | 0d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163756299-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
+| Hilton ⭐ | 🆕 Assistant Director of Security - Waldorf Astoria New York | Director | New York, NY, United States |  | 0d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233005) |
+| ON Semiconductor | 🆕 Group Chief Technology Officer | C-level | Allen, TX, United States |  | 0d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507305) |
 | NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | New York, NEW YORK, us | $170K–$200K | 0d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163754319-director-global-benefits-platform-experience-product-experience) ⚡ |
+| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | New York, NEW YORK, us | $170K–$200K | 0d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163756299-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
+| TD | 🆕 Product Group Technology Lead (CIAM - Secure Onboarding & Identity Proofing) |  | 2 Locations |  | 0d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Group-Technology-Lead-II--Secure-Onboarding---Identity-Proofing--CIAM-_R_1511489) |
 | Lambda | 🆕 Head of Master Data Lifecycle Management | Head | San Francisco Office (Fremont St) +2 · Remote | $188K–$250K | 0d | [Apply](https://jobs.ashbyhq.com/Lambda/4b03b4da-2603-4f7c-97d6-46ce3f874979) ⚡ |
 | Accommodations Plus International | 🆕 VP of Technical Operations & Support | VP | Remote, USA | $200K–$220K | 0d | [Apply](https://ats.rippling.com/accommodations-plus-international/jobs/5544f7fc-8013-4884-9d06-2e8b22fec427?jobSite=Indeed) |
 | Amazon.com | 🆕 Director, PXT - Amazon Leo Production Operations | Director | Bellevue, WA, USA | $201K–$272K | 0d | [Apply](https://www.amazon.jobs/jobs/10604229/director-pxt--amazon-leo-production-operations?cmpid=DA_INAD200785B) |
@@ -71,8 +80,8 @@ By level: Director 2891 · VP 935 · Sr. Director 707 · Head 341 · C-level 192
 | Fidelity ⭐ | 🆕 Director, IT Product Management - Digital Assets | Director | Boston, MA |  | 0d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--IT-Product-Management---Digital-Assets_2138502) |
 | Health Care Service Corporation | 🆕 Director Director-ERP Transformation & Operations | Director | IN, Bangalore Kar |  | 0d | [Apply](https://healthcare.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Director-ERP-Transitions---Operations_R01135650) |
 | HP | 🆕 Director, Advanced Engineering & Innovation | Director | Vancouver, Washington, United States of Am |  | 0d | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Director--Advanced-Engineering---Innovation_3170382) |
-| Las Vegas Sands Corp. | 🆕 Executive Director – Central Head of Software Development | ED | Remote, United States |  | 0d | [Apply](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) [alt](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) |
 | Las Vegas Sands Corp. | 🆕 Director - AI-First Development | Director | Remote, United States |  | 0d | [Apply](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Director---AI-First-Development_R26_0248) [alt](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Director---AI-First-Development_R26_0248) |
+| Las Vegas Sands Corp. | 🆕 Executive Director – Central Head of Software Development | ED | Remote, United States |  | 0d | [Apply](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) [alt](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) |
 | Hadrian Automation | 🆕 Director, Build Engineering | Director | Los Angeles, CA | $300K–$350K | 0d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/9aabb2ce-169b-4552-a28d-8c5bda0f6b0f) ⚡ |
 | Chubb ⭐ | 🆕 VP, Transformation Management Office | VP | Philadelphia, PA, United States | $176K–$256K | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38632) |
 | Marriott International ⭐ | 🆕 Director of Engineering | Director | Honolulu, HI, United States |  | 0d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26154187) |
@@ -141,6 +150,7 @@ By level: Director 2891 · VP 935 · Sr. Director 707 · Head 341 · C-level 192
 | Trace3 | 🆕 Vice President, Data & AI | VP | Irvine, CA, USA · Remote | $275K–$325K | 0d | [Apply](https://grnh.se/t1dedt9q1us) |
 | Viasat | 🆕 Senior Director - Engineering Platform & Services | Sr. Director | Carlsbad, CA, USA | $248K–$462K | 0d | [Apply](https://careers.viasat.com/jobs/8624?lang=en-us) [alt](http://careers.viasat.com/jobs/8624/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Oshkosh Corporation | 🆕 Sr Director - Infrastructure | Sr. Director | Oshkosh, Wisconsin, United States |  | 0d | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) [alt](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) |
+| FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 1d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | OMG, Inc. | 🆕 Director of AI | Director | Agawam, MA, USA | $250K | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240020406&c=2190731&d=Confidential&rb=INDEED&idUnique=5001240020406) |
 | Dentsu | 🆕 VP, AI Solutions Architect | VP | New York |  | 1d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/New-York/VP--AI-Solutions-Architect_R1112939-1) |
 | BNY ⭐ | 🆕 Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
@@ -189,19 +199,6 @@ By level: Director 2891 · VP 935 · Sr. Director 707 · Head 341 · C-level 192
 | Gen Digital Inc. | 🆕 Sr.Director Engineering for Licensing/Accounts | Director | USA - Mountain View, CA · Remote | $275K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/gen-digital/9a78418c-c6d7-49bf-891a-69ae584339b0) ⚡ |
 | BlackRock ⭐ | 🆕 Data Architecture & Engineering – ClientIQ - Director | Director | Atlanta, GA |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Data-Architecture---Engineering---ClientIQ---Director_R267171-1) |
 | The Aerospace Corporation | 🆕 Systems Director - ODNI Policy & Capabilities Directorate | Director | Tysons Corner, VA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Tysons-Corner-VA/Systems-Director---ODNI-Policy---Capabilities-Directorate_R017315-1) |
-| Signature Aviation | 🆕 Director, Data Platform and Engineering | Director | Orlando, FL, United States |  | 1d | [Apply](https://hdbt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17989) [alt](https://hdbt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/17989) |
-| Casella Waste Systems, Inc. | 🆕 Director of IT Infrastructure & Support Services | Director | Rutland, VT, USA | $164K–$214K | 1d | [Apply](https://careers-casella.icims.com/jobs/13667/job) |
-| Commonwealth Associates, Inc | 🆕 Chief Technology Officer | C-level | USA · Remote |  | 1d | [Apply](https://recruiting.ultipro.com/COM1097COMW/JobBoard/392f94a8-95dd-4b03-968f-68b25076deb2/OpportunityDetail?opportunityId=abb4fe8d-f3af-4ae7-8102-3209500fef62&postingId=86c7b2fb-d97b-4dfb-941b-9d57356ef165) |
-| Crane Worldwide Logistics | 🆕 Director of Engineering, Applications | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting2.ultipro.com/CRA1009CRWL/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=388a65be-d967-4100-b9a0-aec8acad279b&postingId=a77bfde2-89d7-44e7-946c-f1ef3dbde861) |
-| Freshfields | 🆕 Head of Application Development | Head | New York, NY, USA | $300K–$400K | 1d | [Apply](https://freshfields.wd3.myworkdayjobs.com/en-US/FBD_101/job/New-York/Head-of-Application-Development_R-08848) |
-| Gen Digital Inc. | 🆕 Sr.Director Engineering for Licensing/Accounts | Director | Mountain View, CA, USA | $275K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/gen-digital/9a78418c-c6d7-49bf-891a-69ae584339b0?utm_source=XvoRYEJl13) |
-| McCormick & Company | 🆕 Director, Enterprise Architect - Technology Operations | Director | Hunt Valley, MD, USA |  | 1d | [Apply](https://careers.mccormick.com/job/HUNT-VALLEY-Director%2C-Enterprise-Architect-Technology-Operations-MD-21031/1453413000/) |
-| Corelight | 🆕 Sr. Director, Technical Support | Sr. Director | United States | $237K–$314K | 1d | [Apply](https://boards.greenhouse.io/corelight/jobs/8412009?gh_jid=8412009) ⚡ |
-| Planned Parenthood | 🆕 National Director, Technology Business Partner | Director | New York, NY | $190K–$200K | 1d | [Apply](https://jobs.lever.co/ppfa/65cbf316-1793-463a-a801-7f94d85ddc3b) ⚡ |
-| American Express | 🆕 Vice President, Principal Engineer (AI SDLC & Engineering Transformation) | VP | New York, NY, United States |  | 1d | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017199) |
-| Red Bull | 🆕 Head of Information & Business Technology | Head | Harrison, NJ, us | $200K–$225K | 1d | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163543535-head-of-information-business-technology) ⚡ |
-| BlackRock ⭐ | 🆕 Full Stack Engineer, Vice President - Aladdin Trader | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Full-Stack-Engineer--Aladdin-Trader_R267342) |
-| Transamerica | 🆕 Senior Director, Software Engineering - AI Assisted Engineering | Sr. Director | 3 Locations |  | 1d | [Apply](https://transamerica.wd5.myworkdayjobs.com/en-US/US/job/Philadelphia-Pennsylvania/Senior-Director--Software-Engineering---AI-Assisted-Engineering_R20063264) |
 | Oak | 🆕 Head of Global Solution Engineering | Head | San Francisco · Remote |  | 2d | [Apply](https://jobs.ashbyhq.com/oak/a0af1020-fc5b-495f-9ecf-f2a0e886a017) ⚡ |
 | TD | 🆕 Director, Head of Securitized Products Trading Technology | Head | New York, New York |  | 2d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/Director--Head-of-Securitized-Products-Trading-Technology_R_1514170) |
 
@@ -213,7 +210,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Crane Worldwide Logistics | 🆕 Director of Engineering, Applications | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting2.ultipro.com/CRA1009CRWL/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=388a65be-d967-4100-b9a0-aec8acad279b&postingId=a77bfde2-89d7-44e7-946c-f1ef3dbde861) |
+| Crane Worldwide Logistics | Director of Engineering, Applications | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting2.ultipro.com/CRA1009CRWL/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=388a65be-d967-4100-b9a0-aec8acad279b&postingId=a77bfde2-89d7-44e7-946c-f1ef3dbde861) |
 | UnitedHealth Group ⭐ | Director of Product, AI & Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/director-of-product-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southern-califor/34088/103735169472) |
 | UnitedHealth Group ⭐ | VP or Product, Product Data Platform - AI & Product Office -Remote in Boston, Houston, Indianapolis, Minneapolis or Southern California | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-or-product-product-data-platform-ai-and-product-office-remote-in-boston-houston-indianapolis-min/34088/103735170208) |
 | Bickham Services Unlimited, LLC | Chief Information Security Officer | C-level | Houston, TX, USA |  | 1d | [Apply](https://bickhamservices.bamboohr.com/careers/336?source=indeed&src=indeed&postedDate=2026-11-23) |
@@ -416,9 +413,10 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Everforth ECS | 🆕 Navy/MC/4th Estate CTO | C-level | Fairfax, VA, USA | $230K–$350K | 0d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240253506&c=2201039&d=ExternalCareerSite&rb=INDEED&idUnique=5001240253506) |
 | ON Semiconductor | 🆕 Group Chief Technology Officer | C-level | Allen, TX, United States |  | 0d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507305) |
 | ATI Physical Therapy | 🆕 Chief Information Officer | C-level | Downers Grove, IL, USA | $325K–$400K | 0d | [Apply](https://careers-atipt.icims.com/jobs/32897/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| Commonwealth Associates, Inc | 🆕 Chief Technology Officer | C-level | USA · Remote |  | 1d | [Apply](https://recruiting.ultipro.com/COM1097COMW/JobBoard/392f94a8-95dd-4b03-968f-68b25076deb2/OpportunityDetail?opportunityId=abb4fe8d-f3af-4ae7-8102-3209500fef62&postingId=86c7b2fb-d97b-4dfb-941b-9d57356ef165) |
+| Commonwealth Associates, Inc | Chief Technology Officer | C-level | USA · Remote |  | 1d | [Apply](https://recruiting.ultipro.com/COM1097COMW/JobBoard/392f94a8-95dd-4b03-968f-68b25076deb2/OpportunityDetail?opportunityId=abb4fe8d-f3af-4ae7-8102-3209500fef62&postingId=86c7b2fb-d97b-4dfb-941b-9d57356ef165) |
 | JPMorgan Chase ⭐ | Chief Data and Analytics Office (CDAO) - Analytics Solutions Senior Associate | C-level | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794150) |
 | 스터디 컨설팅 | Chief Technology Officer | C-level | Winchester, VA, USA |  | 1d | [Apply](https://www.indeed.com/viewjob?jk=c9bc170e48bf0ce1) |
 | Bickham Services Unlimited, LLC | Chief Information Security Officer | C-level | Houston, TX, USA |  | 1d | [Apply](https://bickhamservices.bamboohr.com/careers/336?source=indeed&src=indeed&postedDate=2026-11-23) |
@@ -504,6 +502,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Credit Acceptance | Chief Information Security Officer (CISO) | C-level | Washington - Bellevue - Hybrid +2 | $300K–$400K | 15d | [Apply](https://creditacceptance.wd5.myworkdayjobs.com/Credit_Acceptance/job/Washington---Bellevue---Hybrid/Chief-Information-Security-Officer--CISO-_R14087) |
 | Hitachi Vantara | Director, CIO Project Management Office | C-level | Remote - Texas, United States |  | 15d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/Director--CIO-Project-Management-Office_R0150968-1) |
 | Hitachi Vantara | Director, Executive Content Development - Office of the CIO | C-level | Remote - Texas, United States |  | 15d | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/Director--Executive-Content-Development---Office-of-the-CIO_R0150995) |
+| Extreme Networks | Innovation Lead - Office of the CTO / AI | C-level | PACIFICNW United States |  | 16d | [Apply](https://extremenetworks.wd503.myworkdayjobs.com/Extreme_Networks/job/PACIFICNW-United-States/Innovation-Lead---Office-of-the-CTO---AI_JR100212) |
 | Office of the Chief Information Officer | Chief Technology Officer | C-level | Washington, District of Columbia |  | 16d | [Apply](https://www.usajobs.gov/job/892202600) |
 | Confidential | Chief Information Technology Officer - Slippery Rock, Pennsylvania, US | C-level |  |  | 16d | [Apply](https://www.talent.com/view?id=645216632183195316) |
 | Confidential | Chief Information Technology Officer - Confidential | C-level | Slippery Rock, Pennsylvania |  | 16d | [Apply](https://www.talent.com/view?id=645216687997126324) |
@@ -624,6 +623,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Notion | 🆕 Head of Global Security Assurance | Head | San Francisco, California · Remote | $250K–$300K | 0d | [Apply](https://jobs.ashbyhq.com/notion/939da8ac-3f55-4e23-8b13-ed4867a8f4e0) ⚡ |
+| General Dynamics Information Technology | 🆕 Program Director - IT Security/Cybersecurity Programs | Director | San Antonio, TX, USA | $170K–$229K | 0d | [Apply](https://www.gdit.com/careers/job/78c0fb657/program-director-it-securitycybersecurity-programs/) |
 | Hilton ⭐ | 🆕 Assistant Director of Security - Waldorf Astoria New York | Director | New York, NY, United States |  | 0d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233005) |
 | TD | 🆕 Product Group Technology Lead (CIAM - Secure Onboarding & Identity Proofing) |  | 2 Locations |  | 0d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Group-Technology-Lead-II--Secure-Onboarding---Identity-Proofing--CIAM-_R_1511489) |
 | Citi ⭐ | 🆕 Senior Application Security Engineer (Java), VP | VP | Irving Texas United States |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Application-Security-Engineer--Java---VP_261003750) |
@@ -872,10 +873,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Goldman Sachs | AM Public-Dallas-Vice President-Security Engineering | VP | Dallas, TX, USA |  | 28d | [Apply](https://higher.gs.com/roles/187205) |
 | SPAN | Head of Security | Head | San Francisco | $250K–$300K | 28d | [Apply](https://jobs.ashbyhq.com/span/87d59bde-850e-43be-b00b-09e6dcb20d60) ⚡ |
 | Prophecy | Director of Security | Director | San Francisco |  | 28d | [Apply](https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/5253532007) ⚡ |
-| True Anomaly | Director of Government Security | Director | Denver, CO +1 | $185K–$270K | 28d | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5278609007) ⚡ |
-| ASM | Assistant Director of Safety & Security | Director | Houston, TX |  | 28d | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Assistant-Director-of-Safety---Security_R100126312) |
 
-_122 older roles in this section are in data/roles.json on the `data` branch._
+_124 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -883,6 +882,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| USAA ⭐ | 🆕 Director, AI-DLC and Business Process Automation Platform | Director | 3 Locations |  | 0d | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Director--AI-DLC-and-Business-Process-Automation-Platform_R0122677-1) |
 | Lambda | 🆕 Head of Master Data Lifecycle Management | Head | San Francisco Office (Fremont St) +2 · Remote | $188K–$250K | 0d | [Apply](https://jobs.ashbyhq.com/Lambda/4b03b4da-2603-4f7c-97d6-46ce3f874979) ⚡ |
 | Ideal Tridon | 🆕 VP, Business Systems & Data Transformation | VP | Auburn Hills, MI, USA |  | 0d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=16a8d35a-b15c-4a8c-86eb-d1e3200772a7&ccId=19000101_000001&jobId=668192&source=IN&lang=en_US) |
 | NTT DATA | 🆕 Director, Application Services Modernization & AI Enablement Advisory (Remote U.S.) | Director | Boston, MA, USA | $149K–$301K | 0d | [Apply](https://careers.nttdata.com/global/en/job/399281) |
@@ -904,6 +904,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Information Technology Senior Management Forum | 🆕 Director, AI Engineering & Automation | Director | New York, NY, USA | $134K–$248K | 0d | [Apply](https://jobs.itsmfleaders.org/job/j92f28/director-ai-engineering-amp;-automation/new-york-city/ny) |
 | Information Technology Senior Management Forum | 🆕 Director, Machine Learning | Director | McLean, VA, USA | $294K–$335K | 0d | [Apply](https://jobs.itsmfleaders.org/job/jq5hky/director-machine-learning/mclean/va) |
 | Trace3 | 🆕 Vice President, Data & AI | VP | Irvine, CA, USA · Remote | $275K–$325K | 0d | [Apply](https://grnh.se/t1dedt9q1us) |
+| FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 1d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | OMG, Inc. | 🆕 Director of AI | Director | Agawam, MA, USA | $250K | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240020406&c=2190731&d=Confidential&rb=INDEED&idUnique=5001240020406) |
 | Dentsu | 🆕 VP, AI Solutions Architect | VP | New York |  | 1d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/New-York/VP--AI-Solutions-Architect_R1112939-1) |
 | CSAA Insurance Group, a AAA Insurer | 🆕 VP Commercial Actuarial Pricing and Data & Analytics | VP | Arizona - Home Teleworkers | $100K–$1.00M | 1d | [Apply](https://aaaie.wd1.myworkdayjobs.com/CSAACareersExecutives/job/Arizona---Home-Teleworkers/VP-Commercial-Actuarial-Pricing-and-Data---Analytics_R8019-1) |
@@ -916,9 +917,9 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 Applied AI/ML Lead - Data & Analytics - Vice President | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788555) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Services AI Program Governance Manager - Director | Director | New York, NY, US |  | 1d | [Apply](https://jobs.citi.com/job/new-york/services-ai-program-governance-manager-director/287/103744658400) |
 | BlackRock ⭐ | 🆕 Data Architecture & Engineering – ClientIQ - Director | Director | Atlanta, GA |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Data-Architecture---Engineering---ClientIQ---Director_R267171-1) |
-| Signature Aviation | 🆕 Director, Data Platform and Engineering | Director | Orlando, FL, United States |  | 1d | [Apply](https://hdbt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17989) [alt](https://hdbt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/17989) |
-| American Express | 🆕 Vice President, Principal Engineer (AI SDLC & Engineering Transformation) | VP | New York, NY, United States |  | 1d | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017199) |
-| Transamerica | 🆕 Senior Director, Software Engineering - AI Assisted Engineering | Sr. Director | 3 Locations |  | 1d | [Apply](https://transamerica.wd5.myworkdayjobs.com/en-US/US/job/Philadelphia-Pennsylvania/Senior-Director--Software-Engineering---AI-Assisted-Engineering_R20063264) |
+| Signature Aviation | Director, Data Platform and Engineering | Director | Orlando, FL, United States |  | 1d | [Apply](https://hdbt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17989) [alt](https://hdbt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/17989) |
+| American Express | Vice President, Principal Engineer (AI SDLC & Engineering Transformation) | VP | New York, NY, United States |  | 1d | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017199) |
+| Transamerica | Senior Director, Software Engineering - AI Assisted Engineering | Sr. Director | 3 Locations |  | 1d | [Apply](https://transamerica.wd5.myworkdayjobs.com/en-US/US/job/Philadelphia-Pennsylvania/Senior-Director--Software-Engineering---AI-Assisted-Engineering_R20063264) |
 | JPMorgan Chase ⭐ | Market Risk - Data Owner - Vice President | VP | NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811290) |
 | JPMorgan Chase ⭐ | AI Product Owner - Wholesale Credit Risk - Vice President | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811760) |
 | Quest Diagnostics | Director, Data Science & Business Insights | Director | Marlborough, MA, United States |  | 1d | [Apply](https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74441) |
@@ -1131,10 +1132,8 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Cumming Group | Vice President - Data Center Project Management | VP | Abilene, TX +1 |  | 8d | [Apply](https://cumminggroup.wd1.myworkdayjobs.com/CGC/job/Abilene-TX/Vice-President---Data-Center-Project-Management_JR104205) |
 | BULLISH GLOBAL | Head of AI | Head | New York |  | 8d | [Apply](https://bullish.wd3.myworkdayjobs.com/en-US/Bullish/job/New-York/Director--AI-Enablement_JR2001198-2) |
 | State Street ⭐ | AI Product Management, VP II - State Street Investment Management | VP | Boston, Massachusetts | $120K–$202K | 8d | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/AI-Product-Management--VP-II---State-Street-Investment-Management_R-796450) |
-| State Street ⭐ | AI Systems Design Architect, Vice President | VP | 3 Locations |  | 8d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Princeton-New-Jersey/AI-Systems-Design-Architect--Vice-President_R-800989-1) |
-| Edwards Lifesciences | Director, AI Data Products | Director | USA - California – Irvine | $159K–$226K | 8d | [Apply](https://edwards.wd5.myworkdayjobs.com/EdwardsCareers/job/USA---California--Irvine/Director--AI-Data-Products_Req-52164) |
 
-_1069 older roles in this section are in data/roles.json on the `data` branch._
+_1071 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1142,6 +1141,8 @@ _1069 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Intact Insurance | 🆕 Director, Infrastructure and Cloud Operations (Hybrid) | Director | Farmington, CT, USA | $225K–$263K | 0d | [Apply](https://recruiting.ultipro.com/ONE1004ONEB/JobBoard/72fdae0d-0544-4d81-ae26-562ccfcb8266/OpportunityDetail?opportunityId=b3bcd5b0-7b3b-4a89-97b8-b6fcf7edbd3f&postingId=d0280869-fbc5-4d69-91f5-e75a4c9fefeb) |
+| Karman Space & Defense | 🆕 Director of Production Planning | Director | Brea, CA, USA | $158K–$237K | 0d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | Datadog ⭐ | 🆕 Vice President, Technical Solutions Operations | VP | San Francisco, California, USA | $275K–$350K | 0d | [Apply](https://careers.datadoghq.com/detail/8414502/?gh_jid=8414502) ⚡ |
 | Accommodations Plus International | 🆕 VP of Technical Operations & Support | VP | Remote, USA | $200K–$220K | 0d | [Apply](https://ats.rippling.com/accommodations-plus-international/jobs/5544f7fc-8013-4884-9d06-2e8b22fec427?jobSite=Indeed) |
 | Amazon.com | 🆕 Director, PXT - Amazon Leo Production Operations | Director | Bellevue, WA, USA | $201K–$272K | 0d | [Apply](https://www.amazon.jobs/jobs/10604229/director-pxt--amazon-leo-production-operations?cmpid=DA_INAD200785B) |
@@ -1158,9 +1159,9 @@ _1069 older roles in this section are in data/roles.json on the `data` branch._
 | Universal Orlando Resort | 🆕 Assistant Director, Digital Content Production | Director | Orlando, FL, USA |  | 0d | [Apply](https://jobs.universalparks.com/job/24251311/assistant-director-digital-content-production-orlando-fl/) |
 | Hourglass Cosmetics | 🆕 Vice President, Creative Operations & Production | VP | West Hollywood, CA, USA | $200K–$220K | 0d | [Apply](https://grnh.se/0lg7mhsd2us) |
 | GFT | 🆕 Engineering Operations Director | Director | New York, NY, US |  | 1d | [Apply](https://careers.gftinc.com/us/en/job/GAFLUS202615454EXTERNALENUS) |
-| Casella Waste Systems, Inc. | 🆕 Director of IT Infrastructure & Support Services | Director | Rutland, VT, USA | $164K–$214K | 1d | [Apply](https://careers-casella.icims.com/jobs/13667/job) |
-| McCormick & Company | 🆕 Director, Enterprise Architect - Technology Operations | Director | Hunt Valley, MD, USA |  | 1d | [Apply](https://careers.mccormick.com/job/HUNT-VALLEY-Director%2C-Enterprise-Architect-Technology-Operations-MD-21031/1453413000/) |
-| Corelight | 🆕 Sr. Director, Technical Support | Sr. Director | United States | $237K–$314K | 1d | [Apply](https://boards.greenhouse.io/corelight/jobs/8412009?gh_jid=8412009) ⚡ |
+| Casella Waste Systems, Inc. | Director of IT Infrastructure & Support Services | Director | Rutland, VT, USA | $164K–$214K | 1d | [Apply](https://careers-casella.icims.com/jobs/13667/job) |
+| McCormick & Company | Director, Enterprise Architect - Technology Operations | Director | Hunt Valley, MD, USA |  | 1d | [Apply](https://careers.mccormick.com/job/HUNT-VALLEY-Director%2C-Enterprise-Architect-Technology-Operations-MD-21031/1453413000/) |
+| Corelight | Sr. Director, Technical Support | Sr. Director | United States | $237K–$314K | 1d | [Apply](https://boards.greenhouse.io/corelight/jobs/8412009?gh_jid=8412009) ⚡ |
 | Fox Corporation | Director, Commerce Production and Content Strategy | Director | New York, New York, USA |  | 1d | [Apply](https://fox.wd1.myworkdayjobs.com/en-US/Domestic/job/New-York-New-York-USA/Director--Commerce-Production-and-Content-Strategy_R50034370) |
 | CHAOS Industries | VP of Business Systems and Operations | VP | El Segundo, California, United States | $350K–$624K | 1d | [Apply](https://job-boards.greenhouse.io/chaosindustries/jobs/5307051007) ⚡ |
 | Mars | Senior Director - Finance Technology Service & Operations Delivery (MF015) | Sr. Director | McLean, VA, USA | $193K–$265K | 1d | [Apply](https://careers.mars.com/global/en/job/R173246) |
@@ -1390,10 +1391,8 @@ _1069 older roles in this section are in data/roles.json on the `data` branch._
 | Xcel Energy | Director Nuclear Engineering Fleet Operations - Welch, MN | Director | Welch, MN, 55089 |  | 26d | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Welch-MN-55089/Director-Nuclear-Engineering-Fleet-Operations---Welch--MN_JR112951-1) |
 | PJ Morgan | Staff Vice President, Technology Operations | VP | Omaha, Nebraska |  | 27d | [Apply](https://bebee.com/us/jobs/staff-vice-president-technology-operations-pj-morgan-omaha-ne--jooble--5871011808291852130) |
 | Barclays | Senior Site Reliability Engineer (SRE) - VP | VP | Whippany, NJ, USA | $170K–$230K | 27d | [Apply](https://search.jobs.barclays/job/whippany/senior-site-reliability-engineer-sre-vp/13015/102599891840) |
-| Pennant | IT Director of Operations | Director | Eagle, Idaho |  | 27d | [Apply](https://pennant.wd1.myworkdayjobs.com/PennantServicesCareerSite/job/Eagle-Idaho/IT-Director-of-Operations_JR65811) |
-| Ping Identity | Senior Director, Site Reliability Engineering | Sr. Director | USA - Remote | $175K–$250K | 27d | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8911647002) ⚡ |
 
-_134 older roles in this section are in data/roles.json on the `data` branch._
+_136 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="cloud-infrastructure"></a>
 
@@ -1401,8 +1400,8 @@ _134 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | New York, NEW YORK, us | $170K–$200K | 0d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163756299-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
 | NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | New York, NEW YORK, us | $170K–$200K | 0d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163754319-director-global-benefits-platform-experience-product-experience) ⚡ |
+| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | New York, NEW YORK, us | $170K–$200K | 0d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163756299-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
 | NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience | Director | New York, NEW YORK, us | $170K–$200K | 0d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163746026-director-global-benefits-platform-experience) ⚡ |
 | FICO | 🆕 Director/Senior Director - Platform Management (Composability) | Sr. Director | Remote, USA | $144K–$226K | 0d | [Apply](https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-United-States/Director-Senior-Director---Platform-Management--Composability-_32433-1) |
 | Zettabyte | 🆕 Director of DevOps | Director | Palo Alto, CA, USA | $240K–$310K | 0d | [Apply](https://www.indeed.com/viewjob?jk=3b421ebaae2f6c4c) |
@@ -1660,6 +1659,7 @@ _228 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Northern Trust Corporation | 🆕 Principal - Head of Compliance Architecture | Head | Chicago, IL |  | 0d | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Head-of-Compliance-Architecture_R161054) |
 | Amazon Web Services | 🆕 Head of Solutions Architecture, Energy, Health, Science | Head | Arlington, VA, USA | $201K–$272K | 0d | [Apply](https://www.amazon.jobs/jobs/10613530/head-of-solutions-architecture-energy-health-science?cmpid=DA_INAD200785B) |
 | Marvell Technology | 🆕 Senior Director, Architecture & Quality – Connectivity Firmware | Sr. Director | Santa Clara, CA, USA | $219K–$328K | 1d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Director--Architecture---Quality---Connectivity-Firmware_2605485) |
 | JLL ⭐ | 🆕 Director, Solution Architecture | Director | New York, NY |  | 1d | [Apply](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/New-York-NY/Director--Solution-Architecture_REQ531349) |
@@ -1825,6 +1825,7 @@ _228 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Caesars Entertainment | 🆕 Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 0d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |
 | Obsidian Therapeutics | 🆕 VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 0d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
 | Fidelity ⭐ | 🆕 Director, IT Product Management - Digital Assets | Director | Boston, MA |  | 0d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--IT-Product-Management---Digital-Assets_2138502) |
 | Chubb ⭐ | 🆕 VP, Transformation Management Office | VP | Philadelphia, PA, United States | $176K–$256K | 0d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38632) |
@@ -2074,9 +2075,8 @@ _228 older roles in this section are in data/roles.json on the `data` branch._
 | Wpromote, LLC | Director, Digital PR | Director | Remote, United States |  | 18d | [Apply](https://jobs.lever.co/wpromote/e63e82d1-1cf0-4cbb-b019-0f380b3ed76d) ⚡ |
 | FTI Consulting, Inc. | Senior Director, Business Transformation - Technology / Corporate Finance | Sr. Director | Johannesburg |  | 19d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Johannesburg/Senior-Director--Business-Transformation---Technology---Corporate-Finance_JR260DV-TEE) |
 | DocuSign | Director, Technical Program Management | Director | San Francisco, CA, USA | $212K–$343K | 19d | [Apply](https://careers.docusign.com/careers-home/jobs/30655?lang=en-us&previousLocale=en-US) |
-| Cloudflare ⭐ | Senior Director Digital Native, Customer Engineering | Sr. Director | Hybrid | $326K–$513K | 19d | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8260956?gh_jid=8260956) ⚡ |
 
-_420 older roles in this section are in data/roles.json on the `data` branch._
+_421 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -2084,6 +2084,7 @@ _420 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| RunSybil | 🆕 Head of Engineering | Head | New York, NY, USA | $275K–$325K | 0d | [Apply](https://jobs.ashbyhq.com/runsybil-jobs/a050f37d-b0b8-4d3d-823f-7c34f9633b12?utm_source=WoLbQzY5R1) |
 | Impact Advisors | 🆕 Revenue Cycle Managed Services - Senior Director of Information Technology | Sr. Director | Remote, USA |  | 0d | [Apply](https://impactadvisors.wd501.myworkdayjobs.com/en-US/impactadvisors/job/US-Remote/Revenue-Cycle-Managed-Services---Senior-Director-of-Information-Technology_R102256) |
 | CVS Health (Phenom) ⭐ | 🆕 Lead Director - Technical Product | Director | 161 Avenue of the Americas, New York, New  |  | 0d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1109748EXTERNALENUS) |
 | HP | 🆕 Director, Advanced Engineering & Innovation | Director | Vancouver, Washington, United States of Am |  | 0d | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Director--Advanced-Engineering---Innovation_3170382) |
@@ -2123,11 +2124,11 @@ _420 older roles in this section are in data/roles.json on the `data` branch._
 | Formlabs | 🆕 Head of Software Product Management (opening #2) | Head | Somerville, MA | $160K–$260K | 1d | [Apply](https://careers.formlabs.com/job/8415340/apply/?gh_jid=8415340) ⚡ |
 | CVS Health ⭐ | 🆕 Lead Director Software Development Engineering Payment Integrity | Director | 4 Locations |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Lead-Director-Software-Development-Engineering-Payment-Integrity_R1095038) |
 | Gen Digital Inc. | 🆕 Sr.Director Engineering for Licensing/Accounts | Director | USA - Mountain View, CA · Remote | $275K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/gen-digital/9a78418c-c6d7-49bf-891a-69ae584339b0) ⚡ |
-| Crane Worldwide Logistics | 🆕 Director of Engineering, Applications | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting2.ultipro.com/CRA1009CRWL/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=388a65be-d967-4100-b9a0-aec8acad279b&postingId=a77bfde2-89d7-44e7-946c-f1ef3dbde861) |
-| Freshfields | 🆕 Head of Application Development | Head | New York, NY, USA | $300K–$400K | 1d | [Apply](https://freshfields.wd3.myworkdayjobs.com/en-US/FBD_101/job/New-York/Head-of-Application-Development_R-08848) |
-| Gen Digital Inc. | 🆕 Sr.Director Engineering for Licensing/Accounts | Director | Mountain View, CA, USA | $275K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/gen-digital/9a78418c-c6d7-49bf-891a-69ae584339b0?utm_source=XvoRYEJl13) |
-| Planned Parenthood | 🆕 National Director, Technology Business Partner | Director | New York, NY | $190K–$200K | 1d | [Apply](https://jobs.lever.co/ppfa/65cbf316-1793-463a-a801-7f94d85ddc3b) ⚡ |
-| Red Bull | 🆕 Head of Information & Business Technology | Head | Harrison, NJ, us | $200K–$225K | 1d | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163543535-head-of-information-business-technology) ⚡ |
+| Crane Worldwide Logistics | Director of Engineering, Applications | Director | Houston, TX, USA |  | 1d | [Apply](https://recruiting2.ultipro.com/CRA1009CRWL/JobBoard/755fc3a5-077f-4395-ad9a-01ffdc6dea89/OpportunityDetail?opportunityId=388a65be-d967-4100-b9a0-aec8acad279b&postingId=a77bfde2-89d7-44e7-946c-f1ef3dbde861) |
+| Freshfields | Head of Application Development | Head | New York, NY, USA | $300K–$400K | 1d | [Apply](https://freshfields.wd3.myworkdayjobs.com/en-US/FBD_101/job/New-York/Head-of-Application-Development_R-08848) |
+| Gen Digital Inc. | Sr.Director Engineering for Licensing/Accounts | Director | Mountain View, CA, USA | $275K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/gen-digital/9a78418c-c6d7-49bf-891a-69ae584339b0?utm_source=XvoRYEJl13) |
+| Planned Parenthood | National Director, Technology Business Partner | Director | New York, NY | $190K–$200K | 1d | [Apply](https://jobs.lever.co/ppfa/65cbf316-1793-463a-a801-7f94d85ddc3b) ⚡ |
+| Red Bull | Head of Information & Business Technology | Head | Harrison, NJ, us | $200K–$225K | 1d | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163543535-head-of-information-business-technology) ⚡ |
 | CVS Health (Phenom) ⭐ | Lead Director Software Development Engineering Payment Integrity | Director | Work At Home, Austin, Texas,United States |  | 1d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1095038EXTERNALENUS) |
 | CommWell Health | Director of Information Technology | Director | Four Oaks, NC, USA |  | 1d | [Apply](https://recruiting.ultipro.com/TRI1030TCCH/JobBoard/e312debe-c7aa-4c7c-a34a-627471d8ef50/OpportunityDetail?opportunityId=269de98a-dc45-4a90-b37c-c256a7a497a7&postingId=74488f10-3d60-4ba3-995c-457ff14b65f9) |
 | Baxter | Sr Director, Commercial Technology | Sr. Director | Deerfield, Illinois | $208K–$286K | 1d | [Apply](https://baxter.wd1.myworkdayjobs.com/baxter/job/Deerfield-Illinois/Sr-Director--Commercial-Technology_JR-213484-1) |
@@ -2333,9 +2334,8 @@ _420 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | IT Project Managment Tech Lead - VP | VP | Tampa, FL, US |  | 7d | [Apply](https://jobs.citi.com/job/tampa/it-project-managment-tech-lead-vp/287/103490828016) |
 | Amazon ⭐ | Director, Product Management — Forward Deployed Engineering, AWS Forward Deployed Engineering (FDE) | Director | Boston, Massachusetts, USA |  | 7d | [Apply](https://www.amazon.jobs/en/jobs/10608682/director-product-management-forward-deployed-engineering-aws-forward-deployed-engineering-fde) |
 | Santander ⭐ | VP,  Murex Application Development | VP | Madison Ave Corp |  | 7d | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/VP---Murex-Application-Development_Req1600721) |
-| Farmers National | Vice President, Information Technology & Inno | VP | Omaha, NE, USA |  | 7d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9312b3af-213f-40b9-a7c9-dd55c565d871&ccId=19000101_000001&jobId=960419&source=IN&lang=en_US) |
 
-_1197 older roles in this section are in data/roles.json on the `data` branch._
+_1198 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2348,7 +2348,7 @@ _1197 older roles in this section are in data/roles.json on the `data` branch._
 | NWN | 🆕 Sr. Vice President, Regional Services | VP | USA |  | 0d | [Apply](https://careers-carousel.icims.com/jobs/7676/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior Full Stack Java/React Developer - Vice President | VP | Jersey City, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/jersey-city/senior-full-stack-java-react-developer-vice-president/287/103751025984) |
 | The Aerospace Corporation | 🆕 Systems Director - ODNI Policy & Capabilities Directorate | Director | Tysons Corner, VA |  | 1d | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Tysons-Corner-VA/Systems-Director---ODNI-Policy---Capabilities-Directorate_R017315-1) |
-| BlackRock ⭐ | 🆕 Full Stack Engineer, Vice President - Aladdin Trader | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Full-Stack-Engineer--Aladdin-Trader_R267342) |
+| BlackRock ⭐ | Full Stack Engineer, Vice President - Aladdin Trader | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Full-Stack-Engineer--Aladdin-Trader_R267342) |
 | Capital One ⭐ | Director, Staff Engineer (req R1006447) | Director | McLean, VA +3 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Staff-Engineer_R1006447) |
 | Capital One ⭐ | Director, Staff Engineer (req R1006455) | Director | McLean, VA +4 | $294K–$335K | 1d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Staff-Engineer_R1006455-1) |
 | BlackRock ⭐ | Full Stack Engineer, Vice President - Aladdin Trading | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Full-Stack-Engineer--Vice-President---Aladdin-Trading_R267318) |
@@ -2594,7 +2594,7 @@ _1197 older roles in this section are in data/roles.json on the `data` branch._
 | Devoted | Director, Health Systems Management | Director | Remote USA | $182K–$217K | 28d | [Apply](https://devoted.wd1.myworkdayjobs.com/Devoted/job/Remote-USA/Director--Health-Systems-Management_R3792) |
 | SentinelOne | Director, Product Management | Director | United States - Remote | $206K–$309K | 28d | [Apply](https://www.sentinelone.com/jobs/?gh_jid=8040890003) ⚡ |
 
-_127 older roles in this section are in data/roles.json on the `data` branch._
+_126 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 
@@ -2604,6 +2604,7 @@ _127 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Tallgrass Energy | 🔒 Senior Director-Systems Integration Power Generation | Sr. Director | Lakewood, CO, United States | $190K–$250K | 44d | Closed |
 | BNY ⭐ | 🔒 Senior Vice President, Full-Stack Engineer (opening #2) | EVP/SVP | Jersey City, NJ, United States |  | 35d | Closed |
 | Marriott International ⭐ | 🔒 Director, AI Application Engineering | Director | Bethesda, MD, United States |  | 27d | Closed |
 | Infoblox | 🔒 Senior Director, Data, Analytics and Reporting | Sr. Director | Santa Clara, California, United States | $186K–$290K | 2d | Closed |
@@ -2903,7 +2904,6 @@ _127 older roles in this section are in data/roles.json on the `data` branch._
 | Compass | 🔒 Director of Engineering | Director | Madison, NJ, USA | $275K–$306K | 35d | Closed |
 | Compass | 🔒 Director of Engineering | Director | Manhattan, NY, USA | $275K–$306K | 35d | Closed |
 | Compass | 🔒 Director of Engineering | Director | Bellevue, WA, USA | $275K–$306K | 35d | Closed |
-| Compass | 🔒 Director of Engineering | Director | Boca Raton, FL, USA | $275K–$306K | 35d | Closed |
 
 </details>
 

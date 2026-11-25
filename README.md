@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,327 open roles** at **2,002 companies** · **174 new in the last 24 hours** · 6,205 company career sites watched · updated hourly · last update Nov 24, 2026 09:53 PM ET
+**5,327 open roles** at **2,002 companies** · **169 new in the last 24 hours** · 6,205 company career sites watched · updated hourly · last update Nov 24, 2026 10:44 PM ET
 
 By level: Director 2850 · VP 913 · Sr. Director 704 · Head 333 · C-level 190 · EVP/SVP 154 · ED 127 · MD 56
 
@@ -27,7 +27,7 @@ By level: Director 2850 · VP 913 · Sr. Director 704 · Head 333 · C-level 190
 
 ## Contents
 
-- [🆕 New in the last 24 hours (174)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (169)](#new-in-the-last-24-hours)
 - [🤠 Houston area (196)](#houston-area)
 - [👑 Executive Technology Leadership (199)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (363)](#security-risk-technology)
@@ -204,7 +204,6 @@ By level: Director 2850 · VP 913 · Sr. Director 704 · Head 333 · C-level 190
 | Lionsgate | 🆕 SVP, AI Innovation | EVP/SVP | Santa Monica, CA, USA | $325K–$425K | 1d | [Apply](https://jobs.lionsgate.com/Lionsgate/job/Santa-Monica-SVP%2C-AI-Innovation-CA-90404/1453262300/) |
 | Nashville Predators | 🆕 Hockey Operations - Director, Hockey Systems | Director | Nashville, TN, USA |  | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/nashhockeyclub/NASHVILLEPRED/jobs/2292) |
 | Relativity | 🆕 Vice President, Core Infrastrucutre | VP | IL, USA | $240K–$360K | 1d | [Apply](https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois/Vice-President--Core-Infrastrucutre_26-0549-1) |
-| UnitedHealth Group ⭐ | 🆕 Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Gap | 🆕 Sr Director, Technical Design - Banana Republic & BR Factory | Sr. Director | SF - 2 Folsom · Remote |  | 2d | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Sr-Director--Technical-Design---Banana-Republic---BR-Factory_R225209-1) |
 | BDO | 🆕 BDO Global Director, Ethics and Independence Technology | Director | Chicago, IL, United States | $190K–$210K | 2d | [Apply](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/14843) |
 | Gartner | 🆕 VP, Software Engineering (AI Platform Engineering) | VP | 2 Locations |  | 2d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Software-Engineering--AI-Platform-Engineering-_115262-1) |
@@ -217,10 +216,6 @@ By level: Director 2850 · VP 913 · Sr. Director 704 · Head 333 · C-level 190
 | Citi ⭐ | 🆕 Full Stack Java Tech Lead - Credit Risk - Markets Technology VP | VP | Rutherford New Jersey United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Full-Stack-Java-Tech-Lead---Credit-Risk---Markets-Technology-VP_261008063) |
 | Citi ⭐ | 🆕 Senior Lead Java Engineer Payments - Senior Vice President | EVP/SVP | Jersey City New Jersey United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Senior-Lead-Java-Engineer-Payments---Senior-Vice-President_261010307) |
 | NVIDIA ⭐ | 🆕 Senior Director, Finance Data Center Neoclouds | Sr. Director | US, CA, Santa Clara |  | 2d | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Finance-Data-Center-Neoclouds_JR2030456) |
-| Abbott | 🆕 Director, Test Engineering | Director | Alameda, California, United States |  | 2d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31168391ENUSEXTERNAL) |
-| PwC | 🆕 Product Manager- Director- Commercial Technology & Innovation | Director | NY-New York |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS775903WDEXTERNALENUS) |
-| UnitedHealth Group ⭐ | 🆕 Director, Software Engineering - Remote | Director | Richmond, British Columbia, Canada +1 · Remote | $128K–$265K | 2d | [Apply](https://careers.unitedhealthgroup.com/job/richmond/director-software-engineering-remote/34088/103708681984) |
-| Abbott ⭐ | 🆕 Director, Test Engineering | Director | United States - California - Alameda +1 |  | 2d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Director--Test-Engineering_31168391-2) |
 
 <a name="houston-area"></a>
 
@@ -234,7 +229,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | UnitedHealth Group ⭐ | 🆕 Director of Product, AI & Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/director-of-product-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southern-califor/34088/103735169472) |
 | UnitedHealth Group ⭐ | 🆕 VP or Product, Product Data Platform - AI & Product Office -Remote in Boston, Houston, Indianapolis, Minneapolis or Southern California | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-or-product-product-data-platform-ai-and-product-office-remote-in-boston-houston-indianapolis-min/34088/103735170208) |
 | Bickham Services Unlimited, LLC | 🆕 Chief Information Security Officer | C-level | Houston, TX, USA |  | 1d | [Apply](https://bickhamservices.bamboohr.com/careers/336?source=indeed&src=indeed&postedDate=2026-11-23) |
-| UnitedHealth Group ⭐ | 🆕 Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
+| UnitedHealth Group ⭐ | Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Grid United | Director of Technology and Business Systems | Director | Houston, TX, USA |  | 1d | [Apply](https://grid-united.breezy.hr/p/13d4260db4aa-director-of-technology-and-business-systems?source=indeed) |
 | UnitedHealth Group ⭐ | VP of Product, Innovation- AI & Product Office - Remote in Boston, Houston, Indianapolis, Minneapolis or So Cal | VP | Boston, Massachusetts, United States +5 · Remote | $200K–$344K | 2d | [Apply](https://careers.unitedhealthgroup.com/job/boston/vp-of-product-innovation-ai-and-product-office-remote-in-boston-houston-indianapolis-minneapolis-or/34088/103700370064) |
 | Honeywell ⭐ | Senior Director, Autonomous and HCI Software - LSS | Sr. Director | Houston, TX, United States |  | 4d | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162512) |
@@ -944,7 +939,7 @@ _113 older roles in this section are in data/roles.json on the `data` branch._
 | Citi ⭐ | 🆕 Head of AI Asset Review | Head | New York New York United States +1 |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Head-of-AI-Asset-Review_261011860) |
 | American Airlines | 🆕 Director, Operations Data Strategy | Director | Fort Worth, TX, USA |  | 1d | [Apply](https://jobs.aa.com/job/Fort-Worth-Director%2C-Operations-Data-Strategy-TX-76101/1453174900/?feedId=198700&utm_source=Indeed&utm_campaign=AA_Indeed) |
 | Lionsgate | 🆕 SVP, AI Innovation | EVP/SVP | Santa Monica, CA, USA | $325K–$425K | 1d | [Apply](https://jobs.lionsgate.com/Lionsgate/job/Santa-Monica-SVP%2C-AI-Innovation-CA-90404/1453262300/) |
-| UnitedHealth Group ⭐ | 🆕 Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
+| UnitedHealth Group ⭐ | Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 1d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Information Technology Senior Management Forum | Director, Operations Data Strategy | Director | Fort Worth, TX, USA |  | 1d | [Apply](https://jobs.itsmfleaders.org/job/ccrg9g/director-operations-data-strategy/fort-worth/-) |
 | JPMorgan Chase ⭐ | 🔁 Data Owner -  Wholesale Credit Risk Product - Vice President | VP | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811555) |
 | Gartner | 🆕 VP, Software Engineering (AI Platform Engineering) | VP | 2 Locations |  | 2d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Software-Engineering--AI-Platform-Engineering-_115262-1) |
@@ -2145,10 +2140,10 @@ _410 older roles in this section are in data/roles.json on the `data` branch._
 | Gap | 🆕 Sr Director, Technical Design - Banana Republic & BR Factory | Sr. Director | SF - 2 Folsom · Remote |  | 2d | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Sr-Director--Technical-Design---Banana-Republic---BR-Factory_R225209-1) |
 | BDO | 🆕 BDO Global Director, Ethics and Independence Technology | Director | Chicago, IL, United States | $190K–$210K | 2d | [Apply](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/14843) |
 | Citi ⭐ | 🆕 Full Stack Java Tech Lead - Credit Risk - Markets Technology VP | VP | Rutherford New Jersey United States |  | 2d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Full-Stack-Java-Tech-Lead---Credit-Risk---Markets-Technology-VP_261008063) |
-| Abbott | 🆕 Director, Test Engineering | Director | Alameda, California, United States |  | 2d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31168391ENUSEXTERNAL) |
-| PwC | 🆕 Product Manager- Director- Commercial Technology & Innovation | Director | NY-New York |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS775903WDEXTERNALENUS) |
-| UnitedHealth Group ⭐ | 🆕 Director, Software Engineering - Remote | Director | Richmond, British Columbia, Canada +1 · Remote | $128K–$265K | 2d | [Apply](https://careers.unitedhealthgroup.com/job/richmond/director-software-engineering-remote/34088/103708681984) |
-| Abbott ⭐ | 🆕 Director, Test Engineering | Director | United States - California - Alameda +1 |  | 2d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Director--Test-Engineering_31168391-2) |
+| Abbott | Director, Test Engineering | Director | Alameda, California, United States |  | 2d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31168391ENUSEXTERNAL) |
+| PwC | Product Manager- Director- Commercial Technology & Innovation | Director | NY-New York |  | 2d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS775903WDEXTERNALENUS) |
+| UnitedHealth Group ⭐ | Director, Software Engineering - Remote | Director | Richmond, British Columbia, Canada +1 · Remote | $128K–$265K | 2d | [Apply](https://careers.unitedhealthgroup.com/job/richmond/director-software-engineering-remote/34088/103708681984) |
+| Abbott ⭐ | Director, Test Engineering | Director | United States - California - Alameda +1 |  | 2d | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Director--Test-Engineering_31168391-2) |
 | TOTAL EXPERT | Director, Software Engineering | Director | Dallas, TX | $200K–$250K | 2d | [Apply](https://jobs.lever.co/totalexpert/1f110c87-08c1-4c0a-a377-42cfecabbbc7) ⚡ [alt](https://jobs.lever.co/totalexpert/1f110c87-08c1-4c0a-a377-42cfecabbbc7?lever-source=Indeed) |
 | RTX ⭐ | Technical Director Advanced Technology - SISR | Director | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy |  | 2d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Technical-Director-Advanced-Technology---SISR_01889896) |
 | Cytel Inc | Vice President, Software Development | VP | United States · Remote |  | 2d | [Apply](https://iblyjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/1934) |

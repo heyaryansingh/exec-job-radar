@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,401 open roles** at **2,014 companies** · **135 new in the last 24 hours** · 6,231 company career sites watched · updated hourly · last update Nov 25, 2026 09:04 PM ET
+**5,401 open roles** at **2,014 companies** · **134 new in the last 24 hours** · 6,233 company career sites watched · updated hourly · last update Nov 25, 2026 10:05 PM ET
 
 By level: Director 2883 · VP 934 · Sr. Director 704 · Head 347 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
 
@@ -27,7 +27,7 @@ By level: Director 2883 · VP 934 · Sr. Director 704 · Head 347 · C-level 192
 
 ## Contents
 
-- [🆕 New in the last 24 hours (135)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (134)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
@@ -47,10 +47,10 @@ By level: Director 2883 · VP 934 · Sr. Director 704 · Head 347 · C-level 192
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Qualys | 🆕 Vice President, Threat Research Engineering | VP | Foster City |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Foster-City/Vice-President--Threat-Research-Engineering_R0004721) |
 | Baseten | 🆕 Head of North Amercia - Enterprise | Head | San Francisco · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/baseten/67950801-99fc-4311-9c9b-d983d9d595a2) ⚡ |
 | Evalueserve | 🆕 Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 0d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
 | Market Performance Group | 🆕 Sr Director, Head of Data Engineering | Head | Remote, USA | $200K–$250K | 0d | [Apply](https://secure7.saashr.com/ta/6205439.careers?ShowJob=654804059) |
+| Qualys | 🆕 Vice President, Threat Research Engineering | VP | Foster City |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Foster-City/Vice-President--Threat-Research-Engineering_R0004721) |
 | Modus Create | 🆕 Director Product Leadership | Director | Remote, USA |  | 1d | [Apply](https://grnh.se/1iu5af2c3us) |
 | Oracle | 🆕 Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |
 | Thermo Fisher Scientific ⭐ | 🆕 Sr. Director, IT M&A Integration | Sr. Director | Waltham, Massachusetts, United States of A |  | 1d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01363129EXTERNALENGLOBAL) |
@@ -179,7 +179,6 @@ By level: Director 2883 · VP 934 · Sr. Director 704 · Head 347 · C-level 192
 | Optiv | 🆕 Practice Director - Infrastructure and SOC - Optiv Consulting / Remote, USA | Director | Wilmington, Delaware |  | 2d | [Apply](https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) [alt](https://optiv.wd5.myworkdayjobs.com/en-US/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) |
 | Morgan Stanley ⭐ | 🆕 Fixed Income Division – Vice President, Digital Assets Strategy (New York) | VP | New York, New York, United States of Ameri |  | 2d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Vice-President--Digital-Assets-Strategy--New-York-_JR046778) |
 | Morgan Stanley ⭐ | 🆕 Internal Audit, Vice President - Institutional Securities, Technology | VP | 1 New York Plaza |  | 2d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/Internal-Audit--Vice-President---Institutional-Securities--Technology_PT-JR041489-1) |
-| Endor Labs | 🆕 Director of Engineering (req 4754372005) | Director | Palo Alto, CA |  | 2d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4754372005) ⚡ |
 | Oak | 🆕 Head of Global Solution Engineering | Head | San Francisco · Remote |  | 3d | [Apply](https://jobs.ashbyhq.com/oak/a0af1020-fc5b-495f-9ecf-f2a0e886a017) ⚡ |
 | TD | 🆕 Director, Head of Securitized Products Trading Technology | Head | New York, New York |  | 3d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/Director--Head-of-Securitized-Products-Trading-Technology_R_1514170) |
 
@@ -2097,7 +2096,7 @@ _417 older roles in this section are in data/roles.json on the `data` branch._
 | Inhabit | VP of Software Engineering | VP | Alpharetta, GA, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
 | BNY ⭐ | 🆕 Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 2d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
 | Morgan Stanley ⭐ | 🆕 Internal Audit, Vice President - Institutional Securities, Technology | VP | 1 New York Plaza |  | 2d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/Internal-Audit--Vice-President---Institutional-Securities--Technology_PT-JR041489-1) |
-| Endor Labs | 🆕 Director of Engineering (req 4754372005) | Director | Palo Alto, CA |  | 2d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4754372005) ⚡ |
+| Endor Labs | Director of Engineering (req 4754372005) | Director | Palo Alto, CA |  | 2d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4754372005) ⚡ |
 | Fluidstack | Director, IT | Director | Austin, TX +4 | $344K–$405K | 2d | [Apply](https://jobs.ashbyhq.com/fluidstack/b79d8339-325d-46d5-aa98-7f0f57eec412) ⚡ |
 | Idea Entity Corporation | Director of Software Development | Director | Herndon, VA, USA | $170K–$200K | 2d | [Apply](https://apply.workable.com/j/CA44E007CA) |
 | Marvell Technology | Vice President, Custom Silicon - Functional Systems Engineering | VP | Santa Clara, CA, USA | $289K–$385K | 2d | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Vice-President--Custom-Silicon---Functional-Systems-Engineering_2605492) |

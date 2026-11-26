@@ -19,26 +19,26 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,410 open roles** at **2,017 companies** · **122 new in the last 24 hours** · 6,236 company career sites watched · updated hourly · last update Nov 26, 2026 04:47 AM ET
+**5,411 open roles** at **2,017 companies** · **123 new in the last 24 hours** · 6,241 company career sites watched · updated hourly · last update Nov 26, 2026 05:02 AM ET
 
-By level: Director 2889 · VP 937 · Sr. Director 705 · Head 346 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
+By level: Director 2890 · VP 937 · Sr. Director 705 · Head 346 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (122)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (123)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (373)](#security-risk-technology)
-- [🧠 Data & AI (1320)](#data-ai)
+- [🧠 Data & AI (1321)](#data-ai)
 - [🚦 Reliability & Operations (384)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (666)](#transformation-delivery)
 - [🛠️ Engineering & Software (1444)](#engineering-software)
 - [📌 Other Senior Roles (377)](#other-senior-roles)
-- [🔒 Recently closed (1008)](#recently-closed)
+- [🔒 Recently closed (1007)](#recently-closed)
 - Daily digests: [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,10 +47,10 @@ By level: Director 2889 · VP 937 · Sr. Director 705 · Head 346 · C-level 192
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| insightsoftware | 🆕 Director - Engineering | Director |  |  | 0d | [Apply](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/Director---Engineering_REQ001405) |
 | Deutsche Börse | 🆕 Vice President / Head of Cloud Financial Management and Optimization (f/m/d) | VP | Chicago, IL, USA |  | 0d | [Apply](https://deutsche-boerse.my-job-shop.com/api/offer/v1/offer/offer-redirect?uuid=87bbbc7f-83d0-434a-b6d7-7c189c6c36c9&jobshopVanity=deutsche-boerse-en&showApplicationForm=false) |
-| Sprouts Farmers Market | 🆕 Director, IT Engineering | Director | Phoenix, AZ, USA |  | 0d | [Apply](https://jobs.sprouts.com/jobs/385327/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | KCI Technologies | 🆕 Director of Infrastructure and Security | Director | Sparks, MD, USA | $215K–$240K | 0d | [Apply](https://careers-kci.icims.com/jobs/8510/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| Sprouts Farmers Market | 🆕 Director, IT Engineering | Director | Phoenix, AZ, USA |  | 0d | [Apply](https://jobs.sprouts.com/jobs/385327/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| insightsoftware | 🆕 Director - Engineering | Director |  |  | 0d | [Apply](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/Director---Engineering_REQ001405) |
 | Ford Motor Company | 🆕 TPP Cloud Director TPM | Director | Dearborn, MI, USA |  | 0d | [Apply](https://www.careers.ford.com/en/job/dearborn/tpp-cloud-director-tpm/48560/103787564736) |
 | Leidos | 🆕 Senior Director, Data and AI | Sr. Director | Reston, VA, USA · Remote | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18519930-senior-director-data-and-ai?tm_job=R-00197788&tm_event=view&tm_company=2502) |
 | Mars | 🆕 Product Line Director, Omnichannel Experiences and D2C Commerce Technology | Director | Chicago, IL, USA | $170K–$234K | 0d | [Apply](https://careers.mars.com/global/en/job/R173530) |
@@ -59,6 +59,7 @@ By level: Director 2889 · VP 937 · Sr. Director 705 · Head 346 · C-level 192
 | Evalueserve | 🆕 Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 0d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
 | Market Performance Group | 🆕 Sr Director, Head of Data Engineering | Head | Remote, USA | $200K–$250K | 0d | [Apply](https://secure7.saashr.com/ta/6205439.careers?ShowJob=654804059) |
 | Qualys | 🆕 Vice President, Threat Research Engineering | VP | Foster City |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Foster-City/Vice-President--Threat-Research-Engineering_R0004721) |
+| FCT | 🆕 Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 1d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | Northrop Grumman ⭐ | 🆕 Director 2 - Intelligence Systems Division (ISD) Engineering Execution Lead | Director | United States-California-Redondo Beach |  | 1d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-2---Intelligence-Systems-Division--ISD--Engineering-Execution-Lead_R10262219) |
 | Karman Space & Defense | 🆕 Director of Production Planning | Director | Salt Lake City, UT, USA | $158K–$237K | 1d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | BlackRock ⭐ | 🆕 Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
@@ -848,6 +849,7 @@ _123 older roles in this section are in data/roles.json on the `data` branch._
 | BlackRock ⭐ | 🆕 AI/ML Engineer, Aladdin Data, VP | VP | 2 Locations |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/AI-ML-Engineer--Aladdin-Data--VP_R267163) |
 | Evalueserve | 🆕 Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 0d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
 | Market Performance Group | 🆕 Sr Director, Head of Data Engineering | Head | Remote, USA | $200K–$250K | 0d | [Apply](https://secure7.saashr.com/ta/6205439.careers?ShowJob=654804059) |
+| FCT | 🆕 Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 1d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | BlackRock ⭐ | 🆕 Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | VP | New York, NY |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
 | GE HealthCare | 🆕 Director, AI Transformation | Director | IL, USA |  | 1d | [Apply](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4049535EXTERNALENGLOBAL/Director-AI-Transformation?utm_source=indeed&utm_medium=phenom-feeds) |
 | Xnurta | 🆕 Director of AI Product Management | Director | Campbell, CA, USA | $100K–$300K | 1d | [Apply](https://ht-jobs.net/9hm4kau?s=in) |
@@ -1093,9 +1095,8 @@ _123 older roles in this section are in data/roles.json on the `data` branch._
 | Cursor | Regional Director, AI Deployment, Federal | Director | Remote +1 | $350K–$400K | 8d | [Apply](https://jobs.ashbyhq.com/cursor/f1857f79-e079-40d8-9a93-05edb771809b) ⚡ |
 | Experian | Senior Director, Data Strategy & Business Ventures | Sr. Director | United States, UNITED STATES, us |  | 8d | [Apply](https://jobs.smartrecruiters.com/Experian/744000162317518-senior-director-data-strategy-business-ventures) ⚡ |
 | IFS | Director of AI Engineering - A&D | Director | Itasca, Illinois, us · Remote |  | 8d | [Apply](https://jobs.smartrecruiters.com/IFS1/744000162313996-director-of-ai-engineering-a-d) ⚡ |
-| Capital One ⭐ | Director, Product Design (Individual Contributor) - AI in Experience Design | Director | McLean, VA +2 | $251K–$287K | 8d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Product-Design---AI-in-Experience-Design_R249772-1) |
 
-_1070 older roles in this section are in data/roles.json on the `data` branch._
+_1071 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2048,8 +2049,8 @@ _416 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| insightsoftware | 🆕 Director - Engineering | Director |  |  | 0d | [Apply](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/Director---Engineering_REQ001405) |
 | Sprouts Farmers Market | 🆕 Director, IT Engineering | Director | Phoenix, AZ, USA |  | 0d | [Apply](https://jobs.sprouts.com/jobs/385327/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| insightsoftware | 🆕 Director - Engineering | Director |  |  | 0d | [Apply](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/Director---Engineering_REQ001405) |
 | Mars | 🆕 Product Line Director, Omnichannel Experiences and D2C Commerce Technology | Director | Chicago, IL, USA | $170K–$234K | 0d | [Apply](https://careers.mars.com/global/en/job/R173530) |
 | Qualys | 🆕 Vice President, Threat Research Engineering | VP | Foster City |  | 0d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Foster-City/Vice-President--Threat-Research-Engineering_R0004721) |
 | Northrop Grumman ⭐ | 🆕 Director 2 - Intelligence Systems Division (ISD) Engineering Execution Lead | Director | United States-California-Redondo Beach |  | 1d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-2---Intelligence-Systems-Division--ISD--Engineering-Execution-Lead_R10262219) |

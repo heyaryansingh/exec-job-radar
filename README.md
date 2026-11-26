@@ -19,21 +19,21 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,411 open roles** at **2,017 companies** · **123 new in the last 24 hours** · 6,241 company career sites watched · updated hourly · last update Nov 26, 2026 05:02 AM ET
+**5,413 open roles** at **2,017 companies** · **122 new in the last 24 hours** · 6,241 company career sites watched · updated hourly · last update Nov 26, 2026 05:47 AM ET
 
-By level: Director 2890 · VP 937 · Sr. Director 705 · Head 346 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
+By level: Director 2891 · VP 938 · Sr. Director 705 · Head 346 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (123)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (122)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (373)](#security-risk-technology)
-- [🧠 Data & AI (1321)](#data-ai)
+- [🧠 Data & AI (1322)](#data-ai)
 - [🚦 Reliability & Operations (384)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (485)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (666)](#transformation-delivery)
 - [🛠️ Engineering & Software (1444)](#engineering-software)
@@ -47,6 +47,7 @@ By level: Director 2890 · VP 937 · Sr. Director 705 · Head 346 · C-level 192
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Vice President, AI-Driven Credit Risk Management | VP | Mumbai, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/mumbai/vice-president-ai-driven-credit-risk-management/287/103807810128) |
 | Deutsche Börse | 🆕 Vice President / Head of Cloud Financial Management and Optimization (f/m/d) | VP | Chicago, IL, USA |  | 0d | [Apply](https://deutsche-boerse.my-job-shop.com/api/offer/v1/offer/offer-redirect?uuid=87bbbc7f-83d0-434a-b6d7-7c189c6c36c9&jobshopVanity=deutsche-boerse-en&showApplicationForm=false) |
 | KCI Technologies | 🆕 Director of Infrastructure and Security | Director | Sparks, MD, USA | $215K–$240K | 0d | [Apply](https://careers-kci.icims.com/jobs/8510/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Sprouts Farmers Market | 🆕 Director, IT Engineering | Director | Phoenix, AZ, USA |  | 0d | [Apply](https://jobs.sprouts.com/jobs/385327/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
@@ -161,8 +162,6 @@ By level: Director 2890 · VP 937 · Sr. Director 705 · Head 346 · C-level 192
 | State Street ⭐ | 🆕 Fixed Income Cash Investment Management Product Engineering & Innovation Lead, VP II  - State Street Investment Management | VP | 2 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Fixed-Income-Cash-Investment-Management-Product-Engineering---Innovation-Lead--VP-II----State-Street-Investment-Management_R-799034) |
 | Aon | 🆕 Director of Internal Consulting, Technology Strategy | Director | Chicago, IL, USA | $150K–$220K | 1d | [Apply](https://us-careers-aon.icims.com/jobs/113696/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Marriott International ⭐ | 🆕 🔁 Director of Engineering - The Lake Como EDITION | Director | Como, CO, Italy |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26154469) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-support-technical-lead-vice-president/287/103763628816) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Java and React Lead Engineer - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/full-stack-java-and-react-lead-engineer-vice-president/287/103763652912) |
 | FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 2d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | OMG, Inc. | 🆕 Director of AI | Director | Agawam, MA, USA | $250K | 2d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240020406&c=2190731&d=Confidential&rb=INDEED&idUnique=5001240020406) |
 | Dentsu | 🆕 VP, AI Solutions Architect | VP | New York |  | 2d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/New-York/VP--AI-Solutions-Architect_R1112939-1) |
@@ -845,6 +844,7 @@ _123 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Vice President, AI-Driven Credit Risk Management | VP | Mumbai, MH, IN |  | 0d | [Apply](https://jobs.citi.com/job/mumbai/vice-president-ai-driven-credit-risk-management/287/103807810128) |
 | Leidos | 🆕 Senior Director, Data and AI | Sr. Director | Reston, VA, USA · Remote | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18519930-senior-director-data-and-ai?tm_job=R-00197788&tm_event=view&tm_company=2502) |
 | BlackRock ⭐ | 🆕 AI/ML Engineer, Aladdin Data, VP | VP | 2 Locations |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/AI-ML-Engineer--Aladdin-Data--VP_R267163) |
 | Evalueserve | 🆕 Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 0d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
@@ -1094,9 +1094,8 @@ _123 older roles in this section are in data/roles.json on the `data` branch._
 | dawn security | Data Science Lead / VP | VP | Fort Lee, NJ, USA |  | 8d | [Apply](https://apply.workable.com/j/C14BC8146A) |
 | Cursor | Regional Director, AI Deployment, Federal | Director | Remote +1 | $350K–$400K | 8d | [Apply](https://jobs.ashbyhq.com/cursor/f1857f79-e079-40d8-9a93-05edb771809b) ⚡ |
 | Experian | Senior Director, Data Strategy & Business Ventures | Sr. Director | United States, UNITED STATES, us |  | 8d | [Apply](https://jobs.smartrecruiters.com/Experian/744000162317518-senior-director-data-strategy-business-ventures) ⚡ |
-| IFS | Director of AI Engineering - A&D | Director | Itasca, Illinois, us · Remote |  | 8d | [Apply](https://jobs.smartrecruiters.com/IFS1/744000162313996-director-of-ai-engineering-a-d) ⚡ |
 
-_1071 older roles in this section are in data/roles.json on the `data` branch._
+_1072 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1115,7 +1114,7 @@ _1071 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | 🆕 Vice President, Production Services Application Support | VP | Lake Mary, FL, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82830) |
 | Health Care Service Corporation | 🆕 Director Director-ERP Transformation & Operations | Director | IN, Bangalore Kar |  | 1d | [Apply](https://healthcare.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Director-ERP-Transitions---Operations_R01135650) |
 | Gilead Sciences ⭐ | 🆕 Sr Director, ERP Technology & Operations | Sr. Director | United States - North Carolina - Raleigh |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Director--ERP-Technology---Operations_R0056691-1) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-support-technical-lead-vice-president/287/103763628816) |
+| Citi (jobs.citi.com) ⭐ | Application Support Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-support-technical-lead-vice-president/287/103763628816) |
 | Gwinnett County Public Schools | Director of Technology Operations - Infrastructure Services | Director | Suwanee, GA, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=6002284) |
 | Van Meter Inc | Director of IT Core Operations | Director | Cedar Rapids, IA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687778/Van-Meter-Inc/Director-of-IT-Core-Operations?source=Indeed_Feed) |
 | Citi ⭐ | Application Support Technical Lead - Vice President | VP | DLF CYBERCITY 12B |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Application-Support-Technical-Lead---Vice-President_261007936) |
@@ -1444,6 +1443,7 @@ _134 older roles in this section are in data/roles.json on the `data` branch._
 | CompuGroup Medical | Head of Global Cloud & Hosting Services (m/f/d) | Head | Koblenz |  | 8d | [Apply](https://cgm.wd3.myworkdayjobs.com/en-US/cgm/job/Koblenz/Head-of-Global-Cloud---Hosting-Services--m-f-d-_JR110459) |
 | Business Communications, Inc. | Cloud Services Director | Director | Little Rock, AR, USA |  | 8d | [Apply](https://phx.us-west.paycomonline.net/v4/ats/web.php/portal/1F57DB6C385123CEC4AB5921353FA46A/jobs/28454?source=Indeed) |
 | Centurion Health | Director of Infrastructure and Cloud Engineering | Director | Sterling, VA, USA |  | 8d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/902B461213211E2E52703B6504151F89/jobs/993910?source=Indeed) |
+| Brown & Brown | Director, Enterprise Customer Platforms | Director | Plano, TX, USA |  | 9d | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Director--Enterprise-Customer-Platforms_R26_0000003920) |
 | Transamerica | Sr Director, Digital Platforms | Sr. Director | Philadelphia, Pennsylvania | $186K–$210K | 9d | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Sr-Director--Digital-Platforms_R20063276) |
 | The Christ Hospital Health Network | Director, IT Infrastructure Services - CBO IT Infrastructure - Full Time - Days | Director | Norwood, OH, USA |  | 9d | [Apply](https://fa-etxt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5/requisitions/preview/15576) |
 | Brown & Brown Insurance | Director, Enterprise Customer Platforms | Director | Plano, TX, USA |  | 9d | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers/job/Plano-TX-USA/Director--Enterprise-Customer-Platforms_R26_0000003920) |
@@ -1612,9 +1612,8 @@ _134 older roles in this section are in data/roles.json on the `data` branch._
 | PwC | Oracle Cloud Finance - Director | Director | NY-New York |  | 24d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS723984WDEXTERNALENUS) |
 | GNC | Senior Director and Head of Infrastructure & Technology Services | Head | Remote | $190K–$220K | 24d | [Apply](https://www.linkedin.com/jobs/view/senior-director-and-head-of-infrastructure-technology-services-at-gnc-4464021184) |
 | Zurich Insurance | IT - Head of Architecture, Platform & QA | Head | Schaumburg, IL, USA | $175K–$287K | 24d | [Apply](https://www.careers.zurich.com/job/Schaumburg-IT-Head-of-Architecture%2C-Platform-&-QA-IL-60159/1376477757/) |
-| Federal Home Loan Bank of Atlanta | Assistant Director of Configuration Management and DevOps Engineering | Director | Atlanta, Georgia |  | 24d | [Apply](https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Assistant-Director-of-Configuration-Management-and-DevOps-Engineering_JR326) [alt](https://fhlbatl.wd1.myworkdayjobs.com/en-US/fhlbatl/job/Atlanta-Georgia/Assistant-Director-of-Configuration-Management-and-DevOps-Engineering_JR326) |
 
-_234 older roles in this section are in data/roles.json on the `data` branch._
+_235 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2310,7 +2309,7 @@ _1194 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Baseten | 🆕 Head of North Amercia - Enterprise | Head | San Francisco · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/baseten/67950801-99fc-4311-9c9b-d983d9d595a2) ⚡ |
 | Modus Create | 🆕 Director Product Leadership | Director | Remote, USA |  | 1d | [Apply](https://grnh.se/1iu5af2c3us) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Full Stack Java and React Lead Engineer - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/full-stack-java-and-react-lead-engineer-vice-president/287/103763652912) |
+| Citi (jobs.citi.com) ⭐ | Full Stack Java and React Lead Engineer - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/full-stack-java-and-react-lead-engineer-vice-president/287/103763652912) |
 | Information Technology Senior Management Forum | Director, Staff Engineer | Director | McLean, VA, USA | $245K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/pecn8h/director-staff-engineer/mclean/va) [alt](https://jobs.itsmfleaders.org/job/7n549n/director-staff-engineer/mclean/va) |
 | NWN | Sr. Vice President, Regional Services | VP | USA |  | 1d | [Apply](https://careers-carousel.icims.com/jobs/7676/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Citi (jobs.citi.com) ⭐ | Senior Full Stack Java/React Developer - Vice President | VP | Jersey City, NJ, US |  | 2d | [Apply](https://jobs.citi.com/job/jersey-city/senior-full-stack-java-react-developer-vice-president/287/103751025984) |

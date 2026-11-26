@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,435 open roles** at **2,024 companies** · **63 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 26, 2026 05:23 PM ET
+**5,435 open roles** at **2,024 companies** · **57 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 26, 2026 06:13 PM ET
 
 By level: Director 2897 · VP 945 · Sr. Director 709 · Head 348 · C-level 194 · EVP/SVP 157 · ED 128 · MD 56
 
@@ -27,7 +27,7 @@ By level: Director 2897 · VP 945 · Sr. Director 709 · Head 348 · C-level 194
 
 ## Contents
 
-- [🆕 New in the last 24 hours (63)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (57)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (203)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (376)](#security-risk-technology)
@@ -101,12 +101,6 @@ By level: Director 2897 · VP 945 · Sr. Director 709 · Head 348 · C-level 194
 | Citi (jobs.citi.com) ⭐ | 🆕 Cybersecurity Architect - Digital Assets, VP | VP | New Castle, DE, US +3 |  | 1d | [Apply](https://jobs.citi.com/job/new-castle/cybersecurity-architect-digital-assets-vp/287/103787626656) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Technology Product Owner - Sr. Vice President | VP | Rutherford, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/rutherford/technology-product-owner-sr-vice-president/287/103787628032) |
 | Lakeshore Learning Materials | 🆕 Senior Director / Vice President Global Engineering (Onsite) | VP | Carson, CA, us | $175K–$285K | 1d | [Apply](https://jobs.smartrecruiters.com/Lakeshore/744000163772119-senior-director-vice-president-global-engineering-onsite-) ⚡ [alt](https://jobs.smartrecruiters.com/Lakeshore/744000163772128-senior-director-vice-president-global-engineering-onsite-) |
-| Fiserv | 🆕 Sr. Director, Program Management | Sr. Director | Columbia, South Carolina, United States of |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407498EXTERNALENUS) |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768719-director-global-benefits-platform-experience-product-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768839-director-global-benefits-platform-experience-product-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768999-director-global-benefits-platform-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163769039-director-global-benefits-platform-experience) ⚡ |
-| Fidelity ⭐ | 🆕 Director, Technology Risk | Director | Boston, MA |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--Technology-Risk_2138238) |
 | CNA Insurance | 🆕 Actuarial Director, Affinity & Cyber Pricing (P&C) | Director | 5 Locations |  | 2d | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) |
 | The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 2d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 | Nshe | 🆕 Executive Director of Information Security & Chief Information Security Officer [R0154430] | C-level | UNLV1-Main Campus, Las Vegas |  | 3d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Executive-Director-of-Information-Security---Chief-Information-Security-Officer_R0154430) |
@@ -1309,10 +1303,10 @@ _134 older roles in this section are in data/roles.json on the `data` branch._
 | Paramount | 🆕 Senior Director, Oracle EPM Cloud | Sr. Director | New York, NY, USA | $177K–$265K | 0d | [Apply](https://careers.paramount.com/job/New-York-Senior-Director%2C-Oracle-EPM-Cloud-NY-10036/1453779600/) |
 | Deutsche Börse | 🆕 Vice President / Head of Cloud Financial Management and Optimization (f/m/d) | VP | Chicago, IL, USA |  | 0d | [Apply](https://deutsche-boerse.my-job-shop.com/api/offer/v1/offer/offer-redirect?uuid=87bbbc7f-83d0-434a-b6d7-7c189c6c36c9&jobshopVanity=deutsche-boerse-en&showApplicationForm=false) |
 | Ford Motor Company | 🆕 TPP Cloud Director TPM | Director | Dearborn, MI, USA |  | 0d | [Apply](https://www.careers.ford.com/en/job/dearborn/tpp-cloud-director-tpm/48560/103787564736) |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768719-director-global-benefits-platform-experience-product-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768839-director-global-benefits-platform-experience-product-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768999-director-global-benefits-platform-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163769039-director-global-benefits-platform-experience) ⚡ |
+| NBCUniversal | Director, Global Benefits - Platform & Experience, Product Experience | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768719-director-global-benefits-platform-experience-product-experience) ⚡ |
+| NBCUniversal | Director, Global Benefits - Platform & Experience, Product Experience | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768839-director-global-benefits-platform-experience-product-experience) ⚡ |
+| NBCUniversal | Director, Global Benefits - Platform & Experience | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768999-director-global-benefits-platform-experience) ⚡ |
+| NBCUniversal | Director, Global Benefits - Platform & Experience | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163769039-director-global-benefits-platform-experience) ⚡ |
 | NBCUniversal | Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163767850-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
 | NBCUniversal | Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768159-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
 | NBCUniversal | Director, Global Benefits - Platform & Experience, Product Experience | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163754319-director-global-benefits-platform-experience-product-experience) ⚡ |
@@ -1736,7 +1730,7 @@ _238 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | State Street ⭐ | 🆕 Digital Product Development Lead - Custody & Tokenization, Vice President | VP | 5 Locations |  | 0d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Luxembourg/Digital-Product-Development-Lead---Custody---Tokenization--Vice-President_R-801572-1) |
 | Oracle | 🆕 Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |
-| Fiserv | 🆕 Sr. Director, Program Management | Sr. Director | Columbia, South Carolina, United States of |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407498EXTERNALENUS) |
+| Fiserv | Sr. Director, Program Management | Sr. Director | Columbia, South Carolina, United States of |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407498EXTERNALENUS) |
 | Caesars Entertainment | Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 1d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |
 | Obsidian Therapeutics | VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 1d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
 | Fidelity ⭐ | Director, IT Product Management - Digital Assets | Director | Boston, MA |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--IT-Product-Management---Digital-Assets_2138502) |
@@ -2010,7 +2004,7 @@ _417 older roles in this section are in data/roles.json on the `data` branch._
 | SPC Mechanical | 🆕 IT Director | Director | Wendell, NC, USA |  | 1d | [Apply](https://spcmechanical.bamboohr.com/careers/110?source=indeed&src=indeed&postedDate=2026-11-25) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Technology Product Owner - Sr. Vice President | VP | Rutherford, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/rutherford/technology-product-owner-sr-vice-president/287/103787628032) |
 | Lakeshore Learning Materials | 🆕 Senior Director / Vice President Global Engineering (Onsite) | VP | Carson, CA, us | $175K–$285K | 1d | [Apply](https://jobs.smartrecruiters.com/Lakeshore/744000163772119-senior-director-vice-president-global-engineering-onsite-) ⚡ [alt](https://jobs.smartrecruiters.com/Lakeshore/744000163772128-senior-director-vice-president-global-engineering-onsite-) |
-| Fidelity ⭐ | 🆕 Director, Technology Risk | Director | Boston, MA |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--Technology-Risk_2138238) |
+| Fidelity ⭐ | Director, Technology Risk | Director | Boston, MA |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--Technology-Risk_2138238) |
 | RunSybil | Head of Engineering | Head | New York City · Remote | $275K–$325K | 1d | [Apply](https://jobs.ashbyhq.com/runsybil-jobs/a050f37d-b0b8-4d3d-823f-7c34f9633b12) ⚡ |
 | Citi ⭐ | Technology Product Owner - Sr. Vice President | VP | Rutherford New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Technology-Product-Owner---Sr-Vice-President_261011079) |
 | RunSybil | Head of Engineering | Head | New York, NY, USA | $275K–$325K | 1d | [Apply](https://jobs.ashbyhq.com/runsybil-jobs/a050f37d-b0b8-4d3d-823f-7c34f9633b12?utm_source=WoLbQzY5R1) |

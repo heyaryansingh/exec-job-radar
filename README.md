@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,407 open roles** at **2,014 companies** · **129 new in the last 24 hours** · 6,233 company career sites watched · updated hourly · last update Nov 26, 2026 01:54 AM ET
+**5,406 open roles** at **2,014 companies** · **128 new in the last 24 hours** · 6,236 company career sites watched · updated hourly · last update Nov 26, 2026 02:53 AM ET
 
-By level: Director 2886 · VP 937 · Sr. Director 705 · Head 346 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
+By level: Director 2886 · VP 936 · Sr. Director 705 · Head 346 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (129)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (128)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
@@ -36,9 +36,9 @@ By level: Director 2886 · VP 937 · Sr. Director 705 · Head 346 · C-level 192
 - [☁️ Cloud & Infrastructure (483)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (666)](#transformation-delivery)
-- [🛠️ Engineering & Software (1443)](#engineering-software)
+- [🛠️ Engineering & Software (1442)](#engineering-software)
 - [📌 Other Senior Roles (377)](#other-senior-roles)
-- [🔒 Recently closed (1007)](#recently-closed)
+- [🔒 Recently closed (1008)](#recently-closed)
 - Daily digests: [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,9 +47,9 @@ By level: Director 2886 · VP 937 · Sr. Director 705 · Head 346 · C-level 192
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Mars | 🆕 Product Line Director, Omnichannel Experiences and D2C Commerce Technology | Director | Chicago, IL, USA | $170K–$234K | 0d | [Apply](https://careers.mars.com/global/en/job/R173530) |
-| Leidos | 🆕 Senior Director, Data and AI | Sr. Director | Reston, VA, USA · Remote | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18519930-senior-director-data-and-ai?tm_job=R-00197788&tm_event=view&tm_company=2502) |
 | Ford Motor Company | 🆕 TPP Cloud Director TPM | Director | Dearborn, MI, USA |  | 0d | [Apply](https://www.careers.ford.com/en/job/dearborn/tpp-cloud-director-tpm/48560/103787564736) |
+| Leidos | 🆕 Senior Director, Data and AI | Sr. Director | Reston, VA, USA · Remote | $154K–$278K | 0d | [Apply](https://careers.leidos.com/jobs/18519930-senior-director-data-and-ai?tm_job=R-00197788&tm_event=view&tm_company=2502) |
+| Mars | 🆕 Product Line Director, Omnichannel Experiences and D2C Commerce Technology | Director | Chicago, IL, USA | $170K–$234K | 0d | [Apply](https://careers.mars.com/global/en/job/R173530) |
 | BlackRock ⭐ | 🆕 AI/ML Engineer, Aladdin Data, VP | VP | 2 Locations |  | 0d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/AI-ML-Engineer--Aladdin-Data--VP_R267163) |
 | Baseten | 🆕 Head of North Amercia - Enterprise | Head | San Francisco · Remote |  | 0d | [Apply](https://jobs.ashbyhq.com/baseten/67950801-99fc-4311-9c9b-d983d9d595a2) ⚡ |
 | Evalueserve | 🆕 Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 0d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
@@ -168,7 +168,6 @@ By level: Director 2886 · VP 937 · Sr. Director 705 · Head 346 · C-level 192
 | Van Meter Inc | 🆕 Director of IT Core Operations | Director | Cedar Rapids, IA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687778/Van-Meter-Inc/Director-of-IT-Core-Operations?source=Indeed_Feed) |
 | Zettabyte | 🆕 Director of DevOps | Director | Palo Alto, CA, USA | $240K–$310K | 1d | [Apply](https://www.indeed.com/viewjob?jk=3b421ebaae2f6c4c) |
 | Citi ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | DLF CYBERCITY 12B |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Application-Support-Technical-Lead---Vice-President_261007936) |
-| Hitachi Vantara | 🆕 Global Head of Data & Analytics Strategy | Head | 2 Locations |  | 1d | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Global-Head-of-Data---Analytics-Strategy_R0143284) |
 | FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 2d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | OMG, Inc. | 🆕 Director of AI | Director | Agawam, MA, USA | $250K | 2d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240020406&c=2190731&d=Confidential&rb=INDEED&idUnique=5001240020406) |
 | Dentsu | 🆕 VP, AI Solutions Architect | VP | New York |  | 2d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/New-York/VP--AI-Solutions-Architect_R1112939-1) |
@@ -877,7 +876,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 Vice President Product Manager - Data Privacy | VP | Columbus, OH, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811980) |
 | Athena Global Advisors | 🆕 Director, Data Innovation | Director | Philadelphia, PA, USA |  | 1d | [Apply](https://ats.rippling.com/athena-careers/jobs/5838d7ae-df1f-4c1c-aa65-cea85fbc7e34?jobSite=Indeed) |
 | Information Technology Senior Management Forum | 🆕 Director, Data Scientist - Predictive Analytics | Director | McLean, VA, USA | $269K–$307K | 1d | [Apply](https://jobs.itsmfleaders.org/job/j6zg88/director-data-scientist-predictive-analytics/mclean/va) |
-| Hitachi Vantara | 🆕 Global Head of Data & Analytics Strategy | Head | 2 Locations |  | 1d | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Global-Head-of-Data---Analytics-Strategy_R0143284) |
+| Hitachi Vantara | Global Head of Data & Analytics Strategy | Head | 2 Locations |  | 1d | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Global-Head-of-Data---Analytics-Strategy_R0143284) |
 | Information Technology Senior Management Forum | Staff Front-End Engineer - AI/ML (Director, IC) | Director | McLean, VA, USA | $294K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/t4ddml/staff-front-end-engineer-ai-ml-(director-ic)/mclean/va) |
 | Information Technology Senior Management Forum | Director, AI Engineering & Automation | Director | New York, NY, USA | $134K–$248K | 1d | [Apply](https://jobs.itsmfleaders.org/job/j92f28/director-ai-engineering-amp;-automation/new-york-city/ny) |
 | Information Technology Senior Management Forum | Director, Machine Learning | Director | McLean, VA, USA | $294K–$335K | 1d | [Apply](https://jobs.itsmfleaders.org/job/jq5hky/director-machine-learning/mclean/va) |
@@ -2306,7 +2305,7 @@ _416 older roles in this section are in data/roles.json on the `data` branch._
 | Blue Origin | Director, Spacecraft Systems Engineering — Fault Management, Autonomy & Software Interfaces | Director | Denver, CO +1 |  | 8d | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Denver-CO/Director--Spacecraft-Systems-Engineering---Fault-Management--Autonomy---Software-Interfaces_R75965) |
 | The Aerospace Corporation | Principal Director - Missile Defense Modeling and Technology (MDMT) | Director | Huntsville, AL |  | 8d | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Principal-Director---Missile-Defense-Modeling-and-Technology--MDMT-_R017230) |
 
-_1193 older roles in this section are in data/roles.json on the `data` branch._
+_1192 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2575,6 +2574,7 @@ _127 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Securities Services Technology Business Manager - Vice President | VP | Jersey City, NJ, United States |  | 58d | Closed |
 | Workday ⭐ | 🔒 Director Work Transformation | Director | USA, CA, Pleasanton |  | 10d | Closed |
 | Invisible Technologies | 🔒 Head of Frontier AI | Head | New York - Hybrid +1 |  | 41d | Closed |
 | Nokia | 🔒 VP IP Hardware Engineering | VP | United States |  | 14d | Closed [alt](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/41686) |
@@ -2874,7 +2874,6 @@ _127 older roles in this section are in data/roles.json on the `data` branch._
 | Spectrum | 🔒 Director, AI Infrastructure Strategic Partnerships | Director | Greenwood Village, CO, USA | $96K–$245K | 36d | Closed |
 | SRS Distribution | 🔒 Vice President, Infrastructure & Operations | VP | McKinney, TX, USA | $200K–$275K | 35d | Closed |
 | The University of Texas Rio Grande Valley | 🔒 IT DIRECTOR DATA & NETWORK SECURITY | Director | Edinburg, TX, USA |  | 35d | Closed |
-| United Hospital Fund | 🔒 Chief Data Officer (CDO) | C-level | New York, NY, USA | $180K–$210K | 35d | Closed |
 
 </details>
 

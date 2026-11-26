@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,406 open roles** at **2,014 companies** · **128 new in the last 24 hours** · 6,236 company career sites watched · updated hourly · last update Nov 26, 2026 02:53 AM ET
+**5,406 open roles** at **2,014 companies** · **127 new in the last 24 hours** · 6,236 company career sites watched · updated hourly · last update Nov 26, 2026 03:46 AM ET
 
 By level: Director 2886 · VP 936 · Sr. Director 705 · Head 346 · C-level 192 · EVP/SVP 156 · ED 128 · MD 56
 
@@ -27,7 +27,7 @@ By level: Director 2886 · VP 936 · Sr. Director 705 · Head 346 · C-level 192
 
 ## Contents
 
-- [🆕 New in the last 24 hours (128)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (127)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
@@ -167,7 +167,6 @@ By level: Director 2886 · VP 936 · Sr. Director 705 · Head 346 · C-level 192
 | Pinnacle Live | 🆕 Director, Application Development | Director | Arlington Heights, IL, USA · Remote | $200K–$220K | 1d | [Apply](https://careers.pinnaclelive.com/jobs/18515517-director-application-development?tm_job=1899&tm_event=view&tm_company=47762) |
 | Van Meter Inc | 🆕 Director of IT Core Operations | Director | Cedar Rapids, IA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687778/Van-Meter-Inc/Director-of-IT-Core-Operations?source=Indeed_Feed) |
 | Zettabyte | 🆕 Director of DevOps | Director | Palo Alto, CA, USA | $240K–$310K | 1d | [Apply](https://www.indeed.com/viewjob?jk=3b421ebaae2f6c4c) |
-| Citi ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | DLF CYBERCITY 12B |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Application-Support-Technical-Lead---Vice-President_261007936) |
 | FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 2d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | OMG, Inc. | 🆕 Director of AI | Director | Agawam, MA, USA | $250K | 2d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240020406&c=2190731&d=Confidential&rb=INDEED&idUnique=5001240020406) |
 | Dentsu | 🆕 VP, AI Solutions Architect | VP | New York |  | 2d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/New-York/VP--AI-Solutions-Architect_R1112939-1) |
@@ -1123,7 +1122,7 @@ _1070 older roles in this section are in data/roles.json on the `data` branch._
 | Citi (jobs.citi.com) ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-support-technical-lead-vice-president/287/103763628816) |
 | Gwinnett County Public Schools | 🆕 Director of Technology Operations - Infrastructure Services | Director | Suwanee, GA, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=6002284) |
 | Van Meter Inc | 🆕 Director of IT Core Operations | Director | Cedar Rapids, IA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687778/Van-Meter-Inc/Director-of-IT-Core-Operations?source=Indeed_Feed) |
-| Citi ⭐ | 🆕 Application Support Technical Lead - Vice President | VP | DLF CYBERCITY 12B |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Application-Support-Technical-Lead---Vice-President_261007936) |
+| Citi ⭐ | Application Support Technical Lead - Vice President | VP | DLF CYBERCITY 12B |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Application-Support-Technical-Lead---Vice-President_261007936) |
 | Sanofi | Head of Methods & Reliability | Head | Framingham, MA, USA | $148K–$214K | 1d | [Apply](https://jobs.sanofi.com/job/-/-/2649/47171834752) |
 | Universal Orlando Resort | Assistant Director, Digital Content Production | Director | Orlando, FL, USA |  | 1d | [Apply](https://jobs.universalparks.com/job/24251311/assistant-director-digital-content-production-orlando-fl/) |
 | Hourglass Cosmetics | Vice President, Creative Operations & Production | VP | West Hollywood, CA, USA | $200K–$220K | 1d | [Apply](https://grnh.se/0lg7mhsd2us) |

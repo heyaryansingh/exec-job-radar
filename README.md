@@ -19,9 +19,9 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,416 open roles** at **2,017 companies** · **122 new in the last 24 hours** · 6,242 company career sites watched · updated hourly · last update Nov 26, 2026 07:47 AM ET
+**5,417 open roles** at **2,018 companies** · **122 new in the last 24 hours** · 6,242 company career sites watched · updated hourly · last update Nov 26, 2026 08:37 AM ET
 
-By level: Director 2892 · VP 938 · Sr. Director 706 · Head 346 · C-level 193 · EVP/SVP 156 · ED 128 · MD 56
+By level: Director 2893 · VP 938 · Sr. Director 706 · Head 346 · C-level 193 · EVP/SVP 156 · ED 128 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -33,7 +33,7 @@ By level: Director 2892 · VP 938 · Sr. Director 706 · Head 346 · C-level 193
 - [🛡️ Security & Risk Technology (373)](#security-risk-technology)
 - [🧠 Data & AI (1324)](#data-ai)
 - [🚦 Reliability & Operations (383)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (485)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (486)](#cloud-infrastructure)
 - [🏛️ Architecture (162)](#architecture)
 - [🔄 Transformation & Delivery (666)](#transformation-delivery)
 - [🛠️ Engineering & Software (1444)](#engineering-software)
@@ -162,10 +162,10 @@ By level: Director 2892 · VP 938 · Sr. Director 706 · Head 346 · C-level 193
 | JPMorgan Chase ⭐ | 🆕 Vice President Product Manager - Data Privacy | VP | Columbus, OH, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811980) |
 | Harvard University | 🆕 Director, Straus Center for Conservation and Technical Studies | Director | Cambridge, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017085806-director-straus-center-for-conservation-and-technical-studies) ⚡ |
 | State Street ⭐ | 🆕 Fixed Income Cash Investment Management Product Engineering & Innovation Lead, VP II  - State Street Investment Management | VP | 2 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Fixed-Income-Cash-Investment-Management-Product-Engineering---Innovation-Lead--VP-II----State-Street-Investment-Management_R-799034) |
+| The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 2d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 | FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 2d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | OMG, Inc. | 🆕 Director of AI | Director | Agawam, MA, USA | $250K | 2d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240020406&c=2190731&d=Confidential&rb=INDEED&idUnique=5001240020406) |
 | Dentsu | 🆕 VP, AI Solutions Architect | VP | New York |  | 2d | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/New-York/VP--AI-Solutions-Architect_R1112939-1) |
-| BNY ⭐ | 🆕 Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 2d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
 | Nshe | 🆕 Executive Director of Information Security & Chief Information Security Officer [R0154430] | C-level | UNLV1-Main Campus, Las Vegas |  | 3d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Executive-Director-of-Information-Security---Chief-Information-Security-Officer_R0154430) |
 | Oak | 🆕 Head of Global Solution Engineering | Head | San Francisco · Remote |  | 3d | [Apply](https://jobs.ashbyhq.com/oak/a0af1020-fc5b-495f-9ecf-f2a0e886a017) ⚡ |
 | TD | 🆕 Director, Head of Securitized Products Trading Technology | Head | New York, New York |  | 3d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/Director--Head-of-Securitized-Products-Trading-Technology_R_1514170) |
@@ -1378,6 +1378,7 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 | Zettabyte | Director of DevOps | Director | Palo Alto, CA, USA | $240K–$310K | 1d | [Apply](https://www.indeed.com/viewjob?jk=3b421ebaae2f6c4c) |
 | Viasat | Senior Director - Engineering Platform & Services | Sr. Director | Carlsbad, CA, USA | $248K–$462K | 1d | [Apply](https://careers.viasat.com/jobs/8624?lang=en-us) [alt](http://careers.viasat.com/jobs/8624/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Oshkosh Corporation | Sr Director - Infrastructure | Sr. Director | Oshkosh, Wisconsin, United States |  | 1d | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) [alt](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) |
+| The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 2d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 | Optiv | Practice Director - Infrastructure and SOC - Optiv Consulting / Remote, USA | Director | Wilmington, Delaware |  | 2d | [Apply](https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) [alt](https://optiv.wd5.myworkdayjobs.com/en-US/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) |
 | Pinterest | Director, Engineering-Agentic Ads Business Platform | Director | San Francisco, CA, US +1 | $285K–$500K | 2d | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8376163) ⚡ |
 | FICO | Senior Director - Frontend/UI Platform Engineering | Sr. Director | Remote, USA | $172K–$270K | 2d | [Apply](https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-United-States/Senior-Director----Frontend-UI-Platform-Engineering_32425) |
@@ -1612,9 +1613,8 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 | ADP | Director, Enterprise Learning Platforms | Director | Roseland, NJ, USA | $123K–$304K | 23d | [Apply](https://click.appcast.io/t/0ULzPCe3U-jtdBlOdHT9M9GnT7wrRPEKUieH993Q5Dc=) |
 | PwC | Oracle Cloud Finance - Director | Director | NY-New York |  | 24d | [Apply](https://jobs-us.pwc.com/us/en/job/PUVPUIUS723984WDEXTERNALENUS) |
 | GNC | Senior Director and Head of Infrastructure & Technology Services | Head | Remote | $190K–$220K | 24d | [Apply](https://www.linkedin.com/jobs/view/senior-director-and-head-of-infrastructure-technology-services-at-gnc-4464021184) |
-| Zurich Insurance | IT - Head of Architecture, Platform & QA | Head | Schaumburg, IL, USA | $175K–$287K | 24d | [Apply](https://www.careers.zurich.com/job/Schaumburg-IT-Head-of-Architecture%2C-Platform-&-QA-IL-60159/1376477757/) |
 
-_235 older roles in this section are in data/roles.json on the `data` branch._
+_236 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2089,7 +2089,7 @@ _416 older roles in this section are in data/roles.json on the `data` branch._
 | Inhabit | VP of Software Engineering | VP | Plano, TX, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
 | Fluid Management Operations Inc | Director of Hardware Engineering | Director | Wheeling, IL, USA | $142K–$213K | 1d | [Apply](https://idexcorp.wd5.myworkdayjobs.com/IDEX_Careers/job/Wheeling-Illinois/Director-of-Hardware-Engineering_R-10453-1) |
 | Inhabit | VP of Software Engineering | VP | Alpharetta, GA, USA |  | 1d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
-| BNY ⭐ | 🆕 Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 2d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
+| BNY ⭐ | Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 2d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
 | Morgan Stanley ⭐ | Internal Audit, Vice President - Institutional Securities, Technology | VP | 1 New York Plaza |  | 2d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/Internal-Audit--Vice-President---Institutional-Securities--Technology_PT-JR041489-1) |
 | Endor Labs | Director of Engineering (req 4754372005) | Director | Palo Alto, CA |  | 2d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4754372005) ⚡ |
 | Fluidstack | Director, IT | Director | Austin, TX +4 | $344K–$405K | 2d | [Apply](https://jobs.ashbyhq.com/fluidstack/b79d8339-325d-46d5-aa98-7f0f57eec412) ⚡ |

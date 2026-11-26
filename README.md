@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,416 open roles** at **2,018 companies** · **118 new in the last 24 hours** · 6,242 company career sites watched · updated hourly · last update Nov 26, 2026 09:36 AM ET
+**5,416 open roles** at **2,018 companies** · **115 new in the last 24 hours** · 6,242 company career sites watched · updated hourly · last update Nov 26, 2026 10:35 AM ET
 
 By level: Director 2893 · VP 937 · Sr. Director 706 · Head 346 · C-level 193 · EVP/SVP 156 · ED 128 · MD 56
 
@@ -27,7 +27,7 @@ By level: Director 2893 · VP 937 · Sr. Director 706 · Head 346 · C-level 193
 
 ## Contents
 
-- [🆕 New in the last 24 hours (118)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (115)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (202)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (373)](#security-risk-technology)
@@ -38,7 +38,7 @@ By level: Director 2893 · VP 937 · Sr. Director 706 · Head 346 · C-level 193
 - [🔄 Transformation & Delivery (666)](#transformation-delivery)
 - [🛠️ Engineering & Software (1444)](#engineering-software)
 - [📌 Other Senior Roles (377)](#other-senior-roles)
-- [🔒 Recently closed (1007)](#recently-closed)
+- [🔒 Recently closed (1005)](#recently-closed)
 - Daily digests: [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -159,12 +159,9 @@ By level: Director 2893 · VP 937 · Sr. Director 706 · Head 346 · C-level 193
 | CVS Health ⭐ | 🆕 Lead Director - Technical Product | Director | NY - New York |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Lead-Director---Technical-Product_R1109748-1) |
 | Mastercard ⭐ | 🆕 Director PMO Market Transformation | Director | Caracas, Venezuela |  | 1d | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Caracas-Venezuela/Director-PMO-Market-Transformation_R-295969) |
 | Abbott ⭐ | 🆕 Director, Global Security | Director | United States > Washington : 1801 Pennsylv |  | 1d | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Washington--1801-Pennsylvania-Ave-NW/Director--Global-Security_31161087-1) |
-| JPMorgan Chase ⭐ | 🆕 Vice President Product Manager - Data Privacy | VP | Columbus, OH, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811980) |
 | The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 2d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 | FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 2d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | Nshe | 🆕 Executive Director of Information Security & Chief Information Security Officer [R0154430] | C-level | UNLV1-Main Campus, Las Vegas |  | 3d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Executive-Director-of-Information-Security---Chief-Information-Security-Officer_R0154430) |
-| Oak | 🆕 Head of Global Solution Engineering | Head | San Francisco · Remote |  | 3d | [Apply](https://jobs.ashbyhq.com/oak/a0af1020-fc5b-495f-9ecf-f2a0e886a017) ⚡ |
-| TD | 🆕 Director, Head of Securitized Products Trading Technology | Head | New York, New York |  | 3d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/Director--Head-of-Securitized-Products-Trading-Technology_R_1514170) |
 
 <a name="houston-area"></a>
 
@@ -867,7 +864,7 @@ _123 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 AI/ML Governance & Automation Lead -Vice President | VP | New York, NY, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773671) |
 | Four Seasons | 🆕 Director of Technology Innovation & Data | Director | New York, New York, United States of Ameri |  | 1d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10393607EXTERNALENUS) |
 | Four Seasons | 🆕 Assistant Director of Technology Innovation & Data | Director | Naples, Florida, United States of America |  | 1d | [Apply](https://careers.fourseasons.com/us/en/job/FSHFSHUSREQ10394314EXTERNALENUS) |
-| JPMorgan Chase ⭐ | 🆕 Vice President Product Manager - Data Privacy | VP | Columbus, OH, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811980) |
+| JPMorgan Chase ⭐ | Vice President Product Manager - Data Privacy | VP | Columbus, OH, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811980) |
 | Athena Global Advisors | Director, Data Innovation | Director | Philadelphia, PA, USA |  | 1d | [Apply](https://ats.rippling.com/athena-careers/jobs/5838d7ae-df1f-4c1c-aa65-cea85fbc7e34?jobSite=Indeed) |
 | Information Technology Senior Management Forum | Director, Data Scientist - Predictive Analytics | Director | McLean, VA, USA | $269K–$307K | 1d | [Apply](https://jobs.itsmfleaders.org/job/j6zg88/director-data-scientist-predictive-analytics/mclean/va) |
 | Hitachi Vantara | Global Head of Data & Analytics Strategy | Head | 2 Locations |  | 1d | [Apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Krakow-Lesser-Poland-Poland/Global-Head-of-Data---Analytics-Strategy_R0143284) |
@@ -2128,8 +2125,8 @@ _416 older roles in this section are in data/roles.json on the `data` branch._
 | The Crom Corporation | Director of IT | Director | Gainesville, FL, USA |  | 2d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=37925556-5452-4c20-ae38-06a2d238f361&ccId=19000101_000001&jobId=600428&source=IN&lang=en_US) |
 | OpenLoop Health | Director, Payroll, AP & Cap Software | Director | United States - Remote |  | 2d | [Apply](https://jobs.ashbyhq.com/openloophealth/563bb72e-4e41-408e-ab17-f90e3ae64618) ⚡ |
 | Fresenius Medical Care | (Senior) Director (m/f/d) - Sustaining Engineering | Director | 3 Locations |  | 2d | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/St-Wendel-Germany/XMLNAME--Senior--Director--m-f-d----Sustaining-Engineering_R0278492) |
-| Oak | 🆕 Head of Global Solution Engineering | Head | San Francisco · Remote |  | 3d | [Apply](https://jobs.ashbyhq.com/oak/a0af1020-fc5b-495f-9ecf-f2a0e886a017) ⚡ |
-| TD | 🆕 Director, Head of Securitized Products Trading Technology | Head | New York, New York |  | 3d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/Director--Head-of-Securitized-Products-Trading-Technology_R_1514170) |
+| Oak | Head of Global Solution Engineering | Head | San Francisco · Remote |  | 3d | [Apply](https://jobs.ashbyhq.com/oak/a0af1020-fc5b-495f-9ecf-f2a0e886a017) ⚡ |
+| TD | Director, Head of Securitized Products Trading Technology | Head | New York, New York |  | 3d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/Director--Head-of-Securitized-Products-Trading-Technology_R_1514170) |
 | Gap | Sr Director, Technical Design - Banana Republic & BR Factory | Sr. Director | SF - 2 Folsom · Remote |  | 3d | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Sr-Director--Technical-Design---Banana-Republic---BR-Factory_R225209-1) |
 | BDO | BDO Global Director, Ethics and Independence Technology | Director | Chicago, IL, United States | $190K–$210K | 3d | [Apply](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/14843) |
 | Citi ⭐ | Full Stack Java Tech Lead - Credit Risk - Markets Technology VP | VP | Rutherford New Jersey United States |  | 3d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Full-Stack-Java-Tech-Lead---Credit-Risk---Markets-Technology-VP_261008063) |

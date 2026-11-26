@@ -19,18 +19,18 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,420 open roles** at **2,020 companies** · **104 new in the last 24 hours** · 6,243 company career sites watched · updated hourly · last update Nov 26, 2026 12:34 PM ET
+**5,422 open roles** at **2,020 companies** · **93 new in the last 24 hours** · 6,243 company career sites watched · updated hourly · last update Nov 26, 2026 01:23 PM ET
 
-By level: Director 2893 · VP 937 · Sr. Director 708 · Head 347 · C-level 194 · EVP/SVP 156 · ED 128 · MD 56
+By level: Director 2894 · VP 937 · Sr. Director 708 · Head 348 · C-level 194 · EVP/SVP 156 · ED 128 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (104)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (93)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (203)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (373)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (375)](#security-risk-technology)
 - [🧠 Data & AI (1325)](#data-ai)
 - [🚦 Reliability & Operations (383)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (487)](#cloud-infrastructure)
@@ -47,6 +47,8 @@ By level: Director 2893 · VP 937 · Sr. Director 708 · Head 347 · C-level 194
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| OpenText | 🆕 Security Director - UK Public Sector | Director | Reading, GBR |  | 0d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54428EXTERNALENUS) |
+| OpenText | 🆕 Head of Information Security - UK Public Sector | Head | Reading, GBR |  | 0d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54429EXTERNALENUS) |
 | Paramount | 🆕 Senior Director, Oracle EPM Cloud | Sr. Director | New York, NY, USA | $177K–$265K | 0d | [Apply](https://careers.paramount.com/job/New-York-Senior-Director%2C-Oracle-EPM-Cloud-NY-10036/1453779600/) |
 | TECHNOLOGY & INNOVATION | 🆕 Deputy Chief Information Security Officer (DCISO) | C-level | Brooklyn, NY, USA | $84K–$215K | 0d | [Apply](https://cityjobs.nyc.gov/job/deputy-chief-information-security-officer-dciso-in-brooklyn-jid-49615) |
 | The Urban Institute | 🆕 Senior Director, AI Studio | Sr. Director | Washington, DC, USA | $200K–$250K | 0d | [Apply](https://urban.wd115.myworkdayjobs.com/en-US/Urban-Careers/job/The-Urban-Institute-DC/Senior-Director--AI-Studio_R-801661) |
@@ -135,19 +137,6 @@ By level: Director 2893 · VP 937 · Sr. Director 708 · Head 347 · C-level 194
 | HP | 🆕 Director, Advanced Engineering & Innovation | Director | Vancouver, Washington, United States of Am |  | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Director--Advanced-Engineering---Innovation_3170382) |
 | Las Vegas Sands Corp. | 🆕 Director - AI-First Development | Director | Remote, United States |  | 1d | [Apply](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Director---AI-First-Development_R26_0248) [alt](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Director---AI-First-Development_R26_0248) |
 | Las Vegas Sands Corp. | 🆕 Executive Director – Central Head of Software Development | ED | Remote, United States |  | 1d | [Apply](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) [alt](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) |
-| Hadrian Automation | 🆕 Director, Build Engineering | Director | Los Angeles, CA | $300K–$350K | 1d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/9aabb2ce-169b-4552-a28d-8c5bda0f6b0f) ⚡ |
-| Chubb ⭐ | 🆕 VP, Transformation Management Office | VP | Philadelphia, PA, United States | $176K–$256K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38632) |
-| Marriott International ⭐ | 🆕 Director of Engineering | Director | Honolulu, HI, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26154187) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Engineering Lead Credit Risk Markets Technology SVP | EVP/SVP | Rutherford, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/rutherford/engineering-lead-credit-risk-markets-technology-svp/287/103780630624) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior AI/ML Engineer, Vice President | VP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/senior-ai-ml-engineer-vice-president/287/103780631008) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Forward-Deployed Engineer, Risk & Capital Technology – Vice President | VP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/senior-forward-deployed-engineer-risk-and-capital-technology-vice-president/287/103780633728) |
-| Home Depot ⭐ | 🆕 Director, Program Management- Finance | Director | Atlanta, GA, US |  | 1d | [Apply](https://careers.homedepot.com/job/24253866/director-program-management-finance-atlanta-ga/) |
-| Citi ⭐ | 🆕 Engineering Lead Credit Risk Markets Technology SVP | EVP/SVP | Rutherford New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Engineering-Lead-Credit-Risk-Markets-Technology-SVP_261006957) |
-| Citi ⭐ | 🆕 Senior AI/ML Engineer, Vice President | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-AI-ML-Engineer--Vice-President_261009405) |
-| Citi ⭐ | 🆕 Senior Forward-Deployed Engineer, Risk & Capital Technology – Vice President | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Forward-Deployed-Engineer--Risk---Capital-Technology---Vice-President_261011512) |
-| GE Vernova ⭐ | 🆕 Directeur / Directrice - Cybersécurité et conformité, Wind DT (h/f), Wind DT Cyber and Compliance Director | Director | Remote |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Wind-DT-Cyber-and-Compliance-Director_R5053407-1) |
-| Gilead Sciences ⭐ | 🆕 Sr Director, ERP Technology & Operations | Sr. Director | United States - North Carolina - Raleigh |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Director--ERP-Technology---Operations_R0056691-1) |
-| Target ⭐ | 🆕 Director Engineering - Secrets and Cryptography | Director | 7000 Target Pkwy N,NCD-0375 Brooklyn Park, |  | 1d | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Director-Engineering---Secrets-and-Cryptography_R0000481991) |
 | The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 2d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 | FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 2d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | Nshe | 🆕 Executive Director of Information Security & Chief Information Security Officer [R0154430] | C-level | UNLV1-Main Campus, Las Vegas |  | 3d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Executive-Director-of-Information-Security---Chief-Information-Security-Officer_R0154430) |
@@ -569,6 +558,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| OpenText | 🆕 Security Director - UK Public Sector | Director | Reading, GBR |  | 0d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54428EXTERNALENUS) |
+| OpenText | 🆕 Head of Information Security - UK Public Sector | Head | Reading, GBR |  | 0d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54429EXTERNALENUS) |
 | KCI Technologies | 🆕 Director of Infrastructure and Security | Director | Sparks, MD, USA | $215K–$240K | 0d | [Apply](https://careers-kci.icims.com/jobs/8510/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Options Clearing Corporation | 🆕 Director - Security Engineering | Director | Chicago, IL, USA | $175K–$293K | 1d | [Apply](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Director---Security-Engineering_REQ-4953-4) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Senior ISO - Digital Assets Security, SVP | EVP/SVP | New Castle, DE, US +3 |  | 1d | [Apply](https://jobs.citi.com/job/new-castle/senior-iso-digital-assets-security-svp/287/103787626416) |
@@ -579,7 +570,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | TD | 🆕 Product Group Technology Lead (CIAM - Secure Onboarding & Identity Proofing) |  | 2 Locations |  | 1d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Group-Technology-Lead-II--Secure-Onboarding---Identity-Proofing--CIAM-_R_1511489) |
 | Citi ⭐ | 🆕 Senior Application Security Engineer (Java), VP | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Application-Security-Engineer--Java---VP_261003750) |
 | Fidelity ⭐ | 🆕 Director, Client Assurance, Information Security Office | Director | Covington, KY |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Covington-KY/Director--Client-Assurance--Information-Security-Office_2137351-1) |
-| GE Vernova ⭐ | 🆕 Directeur / Directrice - Cybersécurité et conformité, Wind DT (h/f), Wind DT Cyber and Compliance Director | Director | Remote |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Wind-DT-Cyber-and-Compliance-Director_R5053407-1) |
+| GE Vernova ⭐ | Directeur / Directrice - Cybersécurité et conformité, Wind DT (h/f), Wind DT Cyber and Compliance Director | Director | Remote |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Wind-DT-Cyber-and-Compliance-Director_R5053407-1) |
 | Abbott | Director, Global Security | Director | Washington, District of Columbia, United S |  | 1d | [Apply](https://www.jobs.abbott/us/en/job/ABLAUS31161087ENUSEXTERNAL) |
 | California State University, Monterey Bay | Director of Information Security | Director | Seaside, CA, USA |  | 1d | [Apply](https://apptrkr.com/9998079) |
 | Rockline Industries, Inc | Director IT Security | Director | Springdale, AR, USA |  | 1d | [Apply](https://recruiting2.ultipro.com/ROC1009RLIND/JobBoard/b676a82a-4f0f-4d70-b729-7e56d45165a4/OpportunityDetail?opportunityId=abac3bfd-c46f-42f6-8666-ced931eb22ac&postingId=eff25531-7217-4112-bd93-30f016009c7d) |
@@ -817,10 +808,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Commonwealth of Massachusetts | Director of Identity and Access Management | Director | Boston, MA, USA | $130K–$203K | 28d | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007HU&tz=GMT-05%3A00&tzname=America%2FChicago) |
 | Lennar | Director, Security Engineering & Architecture | Director | Miami, FL (Job Posting Location) |  | 28d | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Director--Security-Engineering---Architecture_R26_0000004519-1) |
 | TIAA | Director, Technology Risk Officer – Cyber/AI | Director | Dallas, TX, USA +2 |  | 28d | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Director--Technology-Risk-Officer---Cyber-AI_R261000282-2) |
-| Bread Financial | Senior Director Cyber Security | Sr. Director | Columbus, Ohio, United States of America |  | 28d | [Apply](https://careers.breadfinancial.com/us/en/job/BFBBFDUSR1013362EXTERNALENUS) |
-| Principal Financial Group | Director of Engineering, Cyber GRC Data, AI & Automation | Director | Remote, USA | $160K–$210K | 28d | [Apply](https://careers.principal.com/us/jobs/53727/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 
-_123 older roles in this section are in data/roles.json on the `data` branch._
+_125 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -848,8 +837,8 @@ _123 older roles in this section are in data/roles.json on the `data` branch._
 | NTT DATA | 🆕 Director, Application Services Modernization & AI Enablement Advisory (Remote U.S.) | Director | Boston, MA, USA | $149K–$301K | 1d | [Apply](https://careers.nttdata.com/global/en/job/399281) |
 | Citi ⭐ | 🆕 VP, Java & Big Data Engineering Lead – Markets Technology | VP | Rutherford New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/VP--Java---Big-Data-Engineering-Lead---Markets-Technology_261006961) |
 | Las Vegas Sands Corp. | 🆕 Director - AI-First Development | Director | Remote, United States |  | 1d | [Apply](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Director---AI-First-Development_R26_0248) [alt](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Director---AI-First-Development_R26_0248) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior AI/ML Engineer, Vice President | VP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/senior-ai-ml-engineer-vice-president/287/103780631008) |
-| Citi ⭐ | 🆕 Senior AI/ML Engineer, Vice President | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-AI-ML-Engineer--Vice-President_261009405) |
+| Citi (jobs.citi.com) ⭐ | Senior AI/ML Engineer, Vice President | VP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/senior-ai-ml-engineer-vice-president/287/103780631008) |
+| Citi ⭐ | Senior AI/ML Engineer, Vice President | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-AI-ML-Engineer--Vice-President_261009405) |
 | Pfizer ⭐ | Director, AIA – Commercial Agentic Data Stewardship Lead | Director | United States - New York - New York City +2 |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--AIA---Commercial-Agentic-Data-Stewardship-Lead_4968300-2) |
 | Pfizer ⭐ | Director, Data Domain Enablement & Delivery Lead - AIA | Director | 4 Locations |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Data-Domain-Enablement---Delivery-Lead---AIA_4968301-2) |
 | Pfizer ⭐ | Director, Commercial Data Governance and Policies Lead, AIA | Director | 2 Locations |  | 1d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Commercial-Data-Governance-and-Policies-Lead--AIA_4968446-2) |
@@ -1097,7 +1086,7 @@ _1075 older roles in this section are in data/roles.json on the `data` branch._
 | BNY ⭐ | 🆕 Vice President, Production Services Application Support (req 82828) | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82828) |
 | BNY ⭐ | 🆕 Vice President, Production Services Application Support | VP | Lake Mary, FL, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82830) |
 | Health Care Service Corporation | 🆕 Director Director-ERP Transformation & Operations | Director | IN, Bangalore Kar |  | 1d | [Apply](https://healthcare.wd1.myworkdayjobs.com/en-US/Search/job/IN-Bangalore-Kar/Director-ERP-Transitions---Operations_R01135650) |
-| Gilead Sciences ⭐ | 🆕 Sr Director, ERP Technology & Operations | Sr. Director | United States - North Carolina - Raleigh |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Director--ERP-Technology---Operations_R0056691-1) |
+| Gilead Sciences ⭐ | Sr Director, ERP Technology & Operations | Sr. Director | United States - North Carolina - Raleigh |  | 1d | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Director--ERP-Technology---Operations_R0056691-1) |
 | Citi (jobs.citi.com) ⭐ | Application Support Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/application-support-technical-lead-vice-president/287/103763628816) |
 | Gwinnett County Public Schools | Director of Technology Operations - Infrastructure Services | Director | Suwanee, GA, USA |  | 1d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=6002284) |
 | Van Meter Inc | Director of IT Core Operations | Director | Cedar Rapids, IA, USA |  | 1d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687778/Van-Meter-Inc/Director-of-IT-Core-Operations?source=Indeed_Feed) |
@@ -1779,8 +1768,8 @@ _237 older roles in this section are in data/roles.json on the `data` branch._
 | Caesars Entertainment | 🆕 Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 1d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |
 | Obsidian Therapeutics | 🆕 VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 1d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
 | Fidelity ⭐ | 🆕 Director, IT Product Management - Digital Assets | Director | Boston, MA |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--IT-Product-Management---Digital-Assets_2138502) |
-| Chubb ⭐ | 🆕 VP, Transformation Management Office | VP | Philadelphia, PA, United States | $176K–$256K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38632) |
-| Home Depot ⭐ | 🆕 Director, Program Management- Finance | Director | Atlanta, GA, US |  | 1d | [Apply](https://careers.homedepot.com/job/24253866/director-program-management-finance-atlanta-ga/) |
+| Chubb ⭐ | VP, Transformation Management Office | VP | Philadelphia, PA, United States | $176K–$256K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38632) |
+| Home Depot ⭐ | Director, Program Management- Finance | Director | Atlanta, GA, US |  | 1d | [Apply](https://careers.homedepot.com/job/24253866/director-program-management-finance-atlanta-ga/) |
 | Mastercard (Phenom) ⭐ | Director PMO Market Transformation | Director | Caracas, Venezuela |  | 1d | [Apply](https://careers.mastercard.com/us/en/job/MASRUSR295969EXTERNALENUS) |
 | RTX ⭐ | Directeur, PMO et excellence opérationnelle / Director, PMO & Operational Excellence | Director | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Vict |  | 1d | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Directeur--PMO-et-excellence-oprationnelle---Director--PMO---Operational-Excellence_01891571) |
 | Mastercard ⭐ | Director PMO Market Transformation | Director | Caracas, Venezuela |  | 1d | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Caracas-Venezuela/Director-PMO-Market-Transformation_R-295969) |
@@ -2053,13 +2042,13 @@ _416 older roles in this section are in data/roles.json on the `data` branch._
 | CVS Health (Phenom) ⭐ | 🆕 Lead Director - Technical Product | Director | 161 Avenue of the Americas, New York, New  |  | 1d | [Apply](https://jobs.cvshealth.com/us/en/job/CVSCHLUSR1109748EXTERNALENUS) |
 | HP | 🆕 Director, Advanced Engineering & Innovation | Director | Vancouver, Washington, United States of Am |  | 1d | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Director--Advanced-Engineering---Innovation_3170382) |
 | Las Vegas Sands Corp. | 🆕 Executive Director – Central Head of Software Development | ED | Remote, United States |  | 1d | [Apply](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) [alt](https://sands.wd1.myworkdayjobs.com/en-US/sands_careers/job/Remote-United-States/Executive-Director---Central-Head-of-Software-Development_R26_0252) |
-| Hadrian Automation | 🆕 Director, Build Engineering | Director | Los Angeles, CA | $300K–$350K | 1d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/9aabb2ce-169b-4552-a28d-8c5bda0f6b0f) ⚡ |
-| Marriott International ⭐ | 🆕 Director of Engineering | Director | Honolulu, HI, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26154187) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Engineering Lead Credit Risk Markets Technology SVP | EVP/SVP | Rutherford, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/rutherford/engineering-lead-credit-risk-markets-technology-svp/287/103780630624) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Senior Forward-Deployed Engineer, Risk & Capital Technology – Vice President | VP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/senior-forward-deployed-engineer-risk-and-capital-technology-vice-president/287/103780633728) |
-| Citi ⭐ | 🆕 Engineering Lead Credit Risk Markets Technology SVP | EVP/SVP | Rutherford New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Engineering-Lead-Credit-Risk-Markets-Technology-SVP_261006957) |
-| Citi ⭐ | 🆕 Senior Forward-Deployed Engineer, Risk & Capital Technology – Vice President | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Forward-Deployed-Engineer--Risk---Capital-Technology---Vice-President_261011512) |
-| Target ⭐ | 🆕 Director Engineering - Secrets and Cryptography | Director | 7000 Target Pkwy N,NCD-0375 Brooklyn Park, |  | 1d | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Director-Engineering---Secrets-and-Cryptography_R0000481991) |
+| Hadrian Automation | Director, Build Engineering | Director | Los Angeles, CA | $300K–$350K | 1d | [Apply](https://jobs.ashbyhq.com/hadrian-automation/9aabb2ce-169b-4552-a28d-8c5bda0f6b0f) ⚡ |
+| Marriott International ⭐ | Director of Engineering | Director | Honolulu, HI, United States |  | 1d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26154187) |
+| Citi (jobs.citi.com) ⭐ | Engineering Lead Credit Risk Markets Technology SVP | EVP/SVP | Rutherford, NJ, US |  | 1d | [Apply](https://jobs.citi.com/job/rutherford/engineering-lead-credit-risk-markets-technology-svp/287/103780630624) |
+| Citi (jobs.citi.com) ⭐ | Senior Forward-Deployed Engineer, Risk & Capital Technology – Vice President | VP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/senior-forward-deployed-engineer-risk-and-capital-technology-vice-president/287/103780633728) |
+| Citi ⭐ | Engineering Lead Credit Risk Markets Technology SVP | EVP/SVP | Rutherford New Jersey United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Engineering-Lead-Credit-Risk-Markets-Technology-SVP_261006957) |
+| Citi ⭐ | Senior Forward-Deployed Engineer, Risk & Capital Technology – Vice President | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Forward-Deployed-Engineer--Risk---Capital-Technology---Vice-President_261011512) |
+| Target ⭐ | Director Engineering - Secrets and Cryptography | Director | 7000 Target Pkwy N,NCD-0375 Brooklyn Park, |  | 1d | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Director-Engineering---Secrets-and-Cryptography_R0000481991) |
 | WSP | Technical Director, Project Management | Director | Chicago, IL, United States |  | 1d | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/100110) |
 | CVS Health ⭐ | Lead Director - Technical Product | Director | NY - New York |  | 1d | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Lead-Director---Technical-Product_R1109748-1) |
 | Harvard University | Director, Straus Center for Conservation and Technical Studies | Director | Cambridge, MA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017085806-director-straus-center-for-conservation-and-technical-studies) ⚡ |

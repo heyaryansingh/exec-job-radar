@@ -19,7 +19,7 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,428 open roles** at **2,022 companies** · **80 new in the last 24 hours** · 6,246 company career sites watched · updated hourly · last update Nov 26, 2026 02:50 PM ET
+**5,428 open roles** at **2,022 companies** · **73 new in the last 24 hours** · 6,246 company career sites watched · updated hourly · last update Nov 26, 2026 03:24 PM ET
 
 By level: Director 2894 · VP 943 · Sr. Director 708 · Head 348 · C-level 194 · EVP/SVP 156 · ED 128 · MD 56
 
@@ -27,7 +27,7 @@ By level: Director 2894 · VP 943 · Sr. Director 708 · Head 348 · C-level 194
 
 ## Contents
 
-- [🆕 New in the last 24 hours (80)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (73)](#new-in-the-last-24-hours)
 - [🤠 Houston area (192)](#houston-area)
 - [👑 Executive Technology Leadership (203)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (375)](#security-risk-technology)
@@ -117,13 +117,6 @@ By level: Director 2894 · VP 943 · Sr. Director 708 · Head 348 · C-level 194
 | Caesars Entertainment | 🆕 Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 1d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |
 | Northern Trust Corporation | 🆕 Principal - Head of Compliance Architecture | Head | Chicago, IL |  | 1d | [Apply](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Head-of-Compliance-Architecture_R161054) |
 | USAA ⭐ | 🆕 Director, AI-DLC and Business Process Automation Platform | Director | 3 Locations |  | 1d | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Director--AI-DLC-and-Business-Process-Automation-Platform_R0122677-1) |
-| Datadog ⭐ | 🆕 Vice President, Technical Solutions Operations | VP | San Francisco, California, USA | $275K–$350K | 1d | [Apply](https://careers.datadoghq.com/detail/8414502/?gh_jid=8414502) ⚡ |
-| Obsidian Therapeutics | 🆕 VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 1d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
-| Hilton ⭐ | 🆕 Assistant Director of Security - Waldorf Astoria New York | Director | New York, NY, United States |  | 1d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233005) |
-| ON Semiconductor | 🆕 Group Chief Technology Officer | C-level | Allen, TX, United States |  | 1d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507305) |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163754319-director-global-benefits-platform-experience-product-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163756299-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
-| TD | 🆕 Product Group Technology Lead (CIAM - Secure Onboarding & Identity Proofing) |  | 2 Locations |  | 1d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Group-Technology-Lead-II--Secure-Onboarding---Identity-Proofing--CIAM-_R_1511489) |
 | The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 2d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 | FNBO - First National Bank of Omaha | 🆕 Director, Data Analysis | Director | Omaha - FN Tower |  | 2d | [Apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Director--Data-Analysis_R-20262094) |
 | Nshe | 🆕 Executive Director of Information Security & Chief Information Security Officer [R0154430] | C-level | UNLV1-Main Campus, Las Vegas |  | 3d | [Apply](https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Executive-Director-of-Information-Security---Chief-Information-Security-Officer_R0154430) |
@@ -339,7 +332,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | onsemi | 🆕 Group Chief Technology Officer | C-level | Allen, TX, USA |  | 1d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/2507305) |
 | Xnurta | 🆕 Chief Technology Officer — AI Systems & Agentic Intelligence | C-level | Campbell, CA, USA | $200K–$500K | 1d | [Apply](https://ht-jobs.net/8g7dn9a?s=in) |
 | Everforth ECS | 🆕 Navy/MC/4th Estate CTO | C-level | Fairfax, VA, USA | $230K–$350K | 1d | [Apply](https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240253506&c=2201039&d=ExternalCareerSite&rb=INDEED&idUnique=5001240253506) |
-| ON Semiconductor | 🆕 Group Chief Technology Officer | C-level | Allen, TX, United States |  | 1d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507305) |
+| ON Semiconductor | Group Chief Technology Officer | C-level | Allen, TX, United States |  | 1d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507305) |
 | ATI Physical Therapy | Chief Information Officer | C-level | Downers Grove, IL, USA | $325K–$400K | 1d | [Apply](https://careers-atipt.icims.com/jobs/32897/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Commonwealth Associates, Inc | Chief Technology Officer | C-level | USA · Remote |  | 2d | [Apply](https://recruiting.ultipro.com/COM1097COMW/JobBoard/392f94a8-95dd-4b03-968f-68b25076deb2/OpportunityDetail?opportunityId=abb4fe8d-f3af-4ae7-8102-3209500fef62&postingId=86c7b2fb-d97b-4dfb-941b-9d57356ef165) |
 | JPMorgan Chase ⭐ | Chief Data and Analytics Office (CDAO) - Analytics Solutions Senior Associate | C-level | Plano, TX, United States |  | 2d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794150) |
@@ -553,8 +546,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Citi ⭐ | 🆕 Senior ISO - Digital Assets Security, SVP | EVP/SVP | New Castle Delaware United States +3 |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Senior-ISO---Digital-Assets-Security--SVP_261007765) |
 | Notion | 🆕 Head of Global Security Assurance | Head | San Francisco, California · Remote | $250K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/notion/939da8ac-3f55-4e23-8b13-ed4867a8f4e0) ⚡ |
 | General Dynamics Information Technology | 🆕 Program Director - IT Security/Cybersecurity Programs | Director | San Antonio, TX, USA | $170K–$229K | 1d | [Apply](https://www.gdit.com/careers/job/78c0fb657/program-director-it-securitycybersecurity-programs/) |
-| Hilton ⭐ | 🆕 Assistant Director of Security - Waldorf Astoria New York | Director | New York, NY, United States |  | 1d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233005) |
-| TD | 🆕 Product Group Technology Lead (CIAM - Secure Onboarding & Identity Proofing) |  | 2 Locations |  | 1d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Group-Technology-Lead-II--Secure-Onboarding---Identity-Proofing--CIAM-_R_1511489) |
+| Hilton ⭐ | Assistant Director of Security - Waldorf Astoria New York | Director | New York, NY, United States |  | 1d | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233005) |
+| TD | Product Group Technology Lead (CIAM - Secure Onboarding & Identity Proofing) |  | 2 Locations |  | 1d | [Apply](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Group-Technology-Lead-II--Secure-Onboarding---Identity-Proofing--CIAM-_R_1511489) |
 | Citi ⭐ | Senior Application Security Engineer (Java), VP | VP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Application-Security-Engineer--Java---VP_261003750) |
 | Fidelity ⭐ | Director, Client Assurance, Information Security Office | Director | Covington, KY |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Covington-KY/Director--Client-Assurance--Information-Security-Office_2137351-1) |
 | GE Vernova ⭐ | Directeur / Directrice - Cybersécurité et conformité, Wind DT (h/f), Wind DT Cyber and Compliance Director | Director | Remote |  | 1d | [Apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Wind-DT-Cyber-and-Compliance-Director_R5053407-1) |
@@ -1066,7 +1059,7 @@ _1078 older roles in this section are in data/roles.json on the `data` branch._
 | Karman Space & Defense | 🆕 Director of Production Planning | Director | Salt Lake City, UT, USA | $158K–$237K | 1d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | Intact Insurance | 🆕 Director, Infrastructure and Cloud Operations (Hybrid) | Director | Farmington, CT, USA | $225K–$263K | 1d | [Apply](https://recruiting.ultipro.com/ONE1004ONEB/JobBoard/72fdae0d-0544-4d81-ae26-562ccfcb8266/OpportunityDetail?opportunityId=b3bcd5b0-7b3b-4a89-97b8-b6fcf7edbd3f&postingId=d0280869-fbc5-4d69-91f5-e75a4c9fefeb) |
 | Karman Space & Defense | 🆕 Director of Production Planning | Director | Brea, CA, USA | $158K–$237K | 1d | [Apply](https://grnh.se/hy9xtb8m9us) |
-| Datadog ⭐ | 🆕 Vice President, Technical Solutions Operations | VP | San Francisco, California, USA | $275K–$350K | 1d | [Apply](https://careers.datadoghq.com/detail/8414502/?gh_jid=8414502) ⚡ |
+| Datadog ⭐ | Vice President, Technical Solutions Operations | VP | San Francisco, California, USA | $275K–$350K | 1d | [Apply](https://careers.datadoghq.com/detail/8414502/?gh_jid=8414502) ⚡ |
 | Accommodations Plus International | VP of Technical Operations & Support | VP | Remote, USA | $200K–$220K | 1d | [Apply](https://ats.rippling.com/accommodations-plus-international/jobs/5544f7fc-8013-4884-9d06-2e8b22fec427?jobSite=Indeed) |
 | Amazon.com | Director, PXT - Amazon Leo Production Operations | Director | Bellevue, WA, USA | $201K–$272K | 1d | [Apply](https://www.amazon.jobs/jobs/10604229/director-pxt--amazon-leo-production-operations?cmpid=DA_INAD200785B) |
 | BNY ⭐ | Vice President, Production Services Application Support (req 82826) | VP | Pittsburgh, PA, United States |  | 1d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82826) |
@@ -1331,8 +1324,8 @@ _133 older roles in this section are in data/roles.json on the `data` branch._
 | NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163769039-director-global-benefits-platform-experience) ⚡ |
 | NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | Atlanta, GA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163767850-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
 | NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | Philadelphia, PA, us |  | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163768159-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Product Experience | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163754319-director-global-benefits-platform-experience-product-experience) ⚡ |
-| NBCUniversal | 🆕 Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163756299-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
+| NBCUniversal | Director, Global Benefits - Platform & Experience, Product Experience | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163754319-director-global-benefits-platform-experience-product-experience) ⚡ |
+| NBCUniversal | Director, Global Benefits - Platform & Experience, Leave & Disability Delivery | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163756299-director-global-benefits-platform-experience-leave-disability-delivery) ⚡ |
 | NBCUniversal | Director, Global Benefits - Platform & Experience | Director | New York, NEW YORK, us | $170K–$200K | 1d | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163746026-director-global-benefits-platform-experience) ⚡ |
 | FICO | Director/Senior Director - Platform Management (Composability) | Sr. Director | Remote, USA | $144K–$226K | 1d | [Apply](https://fico.wd1.myworkdayjobs.com/en-US/External/job/Work-from-Home-United-States/Director-Senior-Director---Platform-Management--Composability-_32433-1) |
 | Zettabyte | Director of DevOps | Director | Palo Alto, CA, USA | $240K–$310K | 1d | [Apply](https://www.indeed.com/viewjob?jk=3b421ebaae2f6c4c) |
@@ -1754,7 +1747,7 @@ _237 older roles in this section are in data/roles.json on the `data` branch._
 | Oracle | 🆕 Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 1d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |
 | Fiserv | 🆕 Sr. Director, Program Management | Sr. Director | Columbia, South Carolina, United States of |  | 1d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407498EXTERNALENUS) |
 | Caesars Entertainment | 🆕 Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 1d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |
-| Obsidian Therapeutics | 🆕 VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 1d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
+| Obsidian Therapeutics | VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 1d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
 | Fidelity ⭐ | Director, IT Product Management - Digital Assets | Director | Boston, MA |  | 1d | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Boston-MA/Director--IT-Product-Management---Digital-Assets_2138502) |
 | Chubb ⭐ | VP, Transformation Management Office | VP | Philadelphia, PA, United States | $176K–$256K | 1d | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38632) |
 | Home Depot ⭐ | Director, Program Management- Finance | Director | Atlanta, GA, US |  | 1d | [Apply](https://careers.homedepot.com/job/24253866/director-program-management-finance-atlanta-ga/) |

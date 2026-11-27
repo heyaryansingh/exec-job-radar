@@ -1,0 +1,112 @@
+{
+ "_example": true,
+ "name": "Jordan Lee",
+ "employed": false,
+ "contact": [
+  "Denver, CO",
+  "jordan.lee@example.com",
+  "+1 (555) 010-0199",
+  "linkedin.com/in/example"
+ ],
+ "headline": "Technology Executive | Cloud Platforms, Site Reliability & Enterprise Architecture",
+ "summary": "Fictional example. Technology executive with 18 years leading cloud, infrastructure and platform organizations in financial services and retail. Built a 300-person global engineering organization, moved core banking workloads to the public cloud, and raised customer-facing availability to 99.99%.",
+ "competencies": [
+  "Cloud Strategy (AWS, Azure)",
+  "Site Reliability Engineering",
+  "Platform Engineering",
+  "Enterprise Architecture",
+  "Observability & Incident Management",
+  "FinOps & Cost Optimization",
+  "Regulated-Environment Delivery",
+  "Vendor & Contract Negotiation",
+  "Global Team Leadership"
+ ],
+ "highlights": [
+  "Led a 300-person global engineering organization across four countries with a $90M annual budget.",
+  "Migrated 2,400 applications to AWS and Azure in 30 months, retiring three data centers.",
+  "Raised availability of customer-facing platforms from 99.5% to 99.99% through an SRE program.",
+  "Cut annual cloud spend 22% ($14M) with a FinOps practice and reserved-capacity planning."
+ ],
+ "experience": [
+  {
+   "org": "Example Financial Group",
+   "location": "Denver, CO",
+   "dates": "Mar 2014 - Aug 2026",
+   "roles": [
+    {
+     "title": "Senior Vice President, Cloud & Infrastructure",
+     "dates": "Jan 2020 - Aug 2026",
+     "scope": "300 engineers in 4 countries; $90M budget; 40M customer accounts",
+     "bullets": [
+      "Set the multi-year cloud strategy and moved 2,400 applications to AWS and Azure, retiring three data centers.",
+      "Built the SRE function from zero to 60 engineers, raising customer-facing availability from 99.5% to 99.99%.",
+      "Founded the FinOps practice, cutting annual cloud spend 22% ($14M) while usage grew 35%.",
+      "Presented technology risk and resilience to the board risk committee each quarter."
+     ]
+    },
+    {
+     "title": "Vice President, Platform Engineering",
+     "dates": "Mar 2014 - Dec 2019",
+     "scope": "120 engineers; internal developer platform for 2,000 developers",
+     "bullets": [
+      "Launched a self-service developer platform that cut environment setup from 3 weeks to 2 hours.",
+      "Unified monitoring and logging across 900 services, reducing mean time to recover from 6 hours to 35 minutes."
+     ]
+    }
+   ]
+  },
+  {
+   "org": "Example Retail Co.",
+   "location": "Chicago, IL",
+   "roles": [
+    {
+     "title": "Director, Enterprise Architecture",
+     "dates": "Jun 2008 - Feb 2014",
+     "bullets": [
+      "Led a 25-person architecture team through the replatforming of e-commerce and store systems for 1,100 stores."
+     ]
+    }
+   ]
+  }
+ ],
+ "board": [
+  "Technology Advisory Board, Example University School of Engineering (2021 - 2026)"
+ ],
+ "education": [
+  "M.S., Computer Science, Example State University",
+  "B.S., Electrical Engineering, Example State University"
+ ],
+ "certifications": [
+  "AWS Certified Solutions Architect, Professional"
+ ],
+ "skills": [
+  [
+   "Cloud",
+   "AWS, Azure, Kubernetes, Terraform"
+  ],
+  [
+   "Reliability",
+   "SRE, observability, incident management, chaos engineering"
+  ],
+  [
+   "Data & AI",
+   "data platforms, ML platform operations"
+  ]
+ ],
+ "letter": {
+  "date": "November 27, 2026",
+  "to": [
+   "Technology Hiring Committee",
+   "Example Bank"
+  ],
+  "salutation": "Dear Hiring Committee,",
+  "paragraphs": [
+   "Fictional example. Example Bank's plan to move its core platforms to the cloud while holding 99.99% availability is the work I have led for the past six years.",
+   "At Example Financial Group I led the migration of 2,400 applications to AWS and Azure and retired three data centers, while building an SRE function that raised customer-facing availability from 99.5% to 99.99%.",
+   "I also founded a FinOps practice that cut annual cloud spend 22% ($14M) as usage grew 35%, and reported technology risk and resilience to the board risk committee every quarter.",
+   "I would welcome a conversation about the next stage of your cloud program."
+  ],
+  "closing": "Sincerely,",
+  "signature": "Jordan Lee"
+ }
+}

@@ -6,7 +6,7 @@ resume and cover letter for each, fills the applications in their Chrome, submit
 the candidate has allowed, and keeps a record with proof of everything. The candidate spends
 about 10 minutes a day on it.
 
-It is modeled on a system that ran 120+ real internship applications in October 2026, with
+It is modeled on an earlier application autopilot that submitted 120+ real applications, with
 the lessons from that system built in. The day-to-day rules are in [PLAYBOOK.md](PLAYBOOK.md);
 this page is the one-time setup and how to live with it.
 
@@ -15,7 +15,7 @@ this page is the one-time setup and how to live with it.
 1. Install the **Claude desktop app** and sign in. In Chrome, add the **Claude in Chrome**
    extension and sign in with the same account. In the app, connect **Gmail** (Settings >
    Connectors).
-2. Put the Job Search folder you were given (or an empty one) in `Documents`, and drop in
+2. Make a folder called `Job Search` in `Documents` and drop in
    what you have, in any format: your resumes (current plus a couple of older ones), cover
    letters you've written, your LinkedIn profile as a PDF, and any bios or reviews.
 3. Open a new chat in the Claude app, attach that folder, and paste this one line:
@@ -23,7 +23,8 @@ this page is the one-time setup and how to live with it.
 > Set up my Job Radar autopilot by following https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/ONBOARD.md exactly. My Job Search folder is attached.
 
 4. Claude writes the career record, a two-page executive resume and a cover letter in your
-   voice (LaTeX, checked for applicant-tracking systems), then sends one message with the
+   voice (LaTeX, checked for applicant-tracking systems; see the fictional
+   [example](examples/executive_kit/)), then sends one message with the
    drafts and a few questions. Answer them, then click **Allow** when it asks. When it's done, open each
    of the three scheduled tasks it made and turn on **automatically approve**.
 
@@ -40,7 +41,7 @@ The rest of this page is the detail behind those steps.
 | 8:30 PM | Evening check | Makes sure the day actually produced applications; if not, says why and how to fix it. Reminds about anything waiting on a click. |
 | Monday | Weekly report | Submitted, interviews, response rate by source and level, and suggestions. |
 
-## What's the same as the internship system, and what's better
+## What's the same as the earlier system, and what's better
 
 Same: fit-ranked picks, a tailored resume and letter per role, the whole form filled from a
 profile, auto-submit on simple forms when every check passes, a duplicate check right before
@@ -51,12 +52,12 @@ and the Greenhouse fill helpers are in `tools/browser/gh_helpers.js`.
 Better:
 - **No fragile scheduling.** Fixed daily scheduled tasks instead of each run scheduling the
   next one, so one failed run can't silently end the chain.
-- **A watchdog that checks results, not just activity.** The internship system once ran 17
+- **A watchdog that checks results, not just activity.** The earlier system once ran 17
   times in a row with the browser offline and reported "healthy". The evening check alerts
   when no applications went out, not only when runs stop.
 - **Catch-up runs.** After the computer was off or asleep, the next run does 1.5× the work.
 - **One source of facts.** Everything comes from `master_resume.md` and `candidate.yaml`; if two
-  files disagree, the fact is held back and flagged instead of used. (The internship system
+  files disagree, the fact is held back and flagged instead of used. (The earlier system
   once submitted a GPA that didn't match the transcript.)
 - **Never implies current employment** unless `candidate.yaml` says so.
 - **An autonomy dial** the candidate controls, from "fill only" to "submit when signed in".

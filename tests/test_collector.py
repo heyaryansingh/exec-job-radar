@@ -205,6 +205,6 @@ def test_houston_roles_get_a_looser_domain_filter():
     def p(loc):
         return Posting(source="x", company="C", job_id=loc, title="Director, Operations Excellence", url="u",
                        location=loc, description=desc)
-    assert RULES.focus_of("Katy, TX") == "Houston" and RULES.focus_of("Austin, TX") == ""
+    assert RULES.focus_of("Sugar Land, TX") == "Houston" and RULES.focus_of("Austin, TX") == ""
     assert RULES.evaluate(p("Houston, TX"))[0]          # 2 domain hits are enough in Houston
     assert not RULES.evaluate(p("Chicago, IL"))[0]      # elsewhere it needs 4

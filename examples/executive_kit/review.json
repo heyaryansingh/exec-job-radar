@@ -1,0 +1,24 @@
+{
+ "problems": [],
+ "notes": [],
+ "pages_to_view": [
+  "examples/executive_kit/resume_page-1.png",
+  "examples/executive_kit/letter_page-1.png"
+ ],
+ "resume": {
+  "pages": 1,
+  "fill": [
+   0.99
+  ],
+  "settings": "default"
+ },
+ "letter": {
+  "pages": 1,
+  "fill": [
+   0.49
+  ],
+  "words": 104
+ },
+ "ready": true,
+ "visual_check": "pending"
+}

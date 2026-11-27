@@ -8,7 +8,7 @@ from tools.kit import build_latex as bl
 
 KIT = {
     "name": "Pat Example", "employed": False,
-    "contact": ["Austin, TX", "pat@example.com", "+1 (512) 555-0100", "linkedin.com/in/pat"],
+    "contact": ["Austin, TX", "pat@mailbox.test", "+1 (512) 555-0100", "linkedin.com/in/pat"],
     "headline": "Technology Executive | Cloud & Platform Engineering",
     "summary": "Technology leader with 20 years running large platforms in regulated industries.",
     "competencies": ["Cloud Strategy", "Site Reliability Engineering", "Enterprise Architecture"],
@@ -17,7 +17,7 @@ KIT = {
                     "roles": [{"title": "VP, Infrastructure", "dates": "Jan 2015 - Mar 2024",
                                "scope": "400 engineers, $60M budget",
                                "bullets": ["Led the 100% migration of the trading platform to cloud."]}]}],
-    "education": ["M.S., Computer Science, Example University"],
+    "education": ["M.S., Computer Science, Test University"],
     "skills": [["Cloud", "AWS, GCP"]],
     "letter": {"date": "Nov 1, 2026", "to": ["Hiring Team", "[Company]"], "salutation": "Dear Hiring Team,",
                "paragraphs": ["I led the migration of 3,000 servers to AWS."], "signature": "Pat Example"},
@@ -35,7 +35,7 @@ def test_tex_has_ats_settings_and_no_small_caps():
     tex = bl.resume_tex(KIT)
     assert r"\pdfgentounicode=1" in tex and r"\hyphenpenalty=10000" in tex
     assert r"\scshape" not in tex                                  # small caps extract as "P AT"
-    assert "400 engineers" in tex and r"\href{mailto:pat@example.com}" in tex
+    assert "400 engineers" in tex and r"\href{mailto:pat@mailbox.test}" in tex
 
 
 def test_check_flags_problems():

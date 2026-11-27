@@ -24,7 +24,7 @@ size. If an image looks off, open the PDF itself. Check:
 ## 2. Read every word (professionalism and errors)
 
 - Spelling, grammar, punctuation, capitalization of company and product names (AWS,
-  JPMorganChase, Kubernetes), consistent tense (past for past roles).
+  ServiceNow, Kubernetes), consistent tense (past for past roles).
 - One date style everywhere ("Jun 2005 - Feb 2013"), en dashes between dates, no
   "Present" unless `currently_employed: yes`.
 - No first person on the resume; no clichés ("results-driven", "passionate", "synergy"),

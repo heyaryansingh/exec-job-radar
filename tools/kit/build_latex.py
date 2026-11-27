@@ -22,8 +22,8 @@ pages it tightens spacing and font once or twice before failing with "cut conten
 
 kit.json (every fact must come from master_resume.md / candidate.yaml):
 {
-  "name": "Gulab Singh", "employed": false,
-  "contact": ["Katy, TX", "email", "phone", "linkedin.com/in/..."],
+  "name": "Jordan Lee", "employed": false,
+  "contact": ["City, ST", "email", "phone", "linkedin.com/in/..."],
   "headline": "Technology Executive | Cloud, Infrastructure & Platform Engineering",
   "summary": "...",
   "competencies": ["Cloud Strategy (AWS, GCP)", "Site Reliability Engineering", ...],
@@ -35,7 +35,7 @@ kit.json (every fact must come from master_resume.md / candidate.yaml):
   "education": ["M.Tech., Civil Engineering, IIT Kharagpur"],
   "certifications": ["..."], "skills": [["Cloud", "AWS, GCP, Azure"], ...],
   "letter": {"date": "...", "to": ["Hiring Team", "Company"], "salutation": "Dear ...,",
-             "paragraphs": ["..."], "closing": "Sincerely,", "signature": "Gulab Singh"}
+             "paragraphs": ["..."], "closing": "Sincerely,", "signature": "Jordan Lee"}
 }
 """
 from __future__ import annotations
@@ -316,6 +316,8 @@ def check(k: dict, r: dict, max_pages: int, what: str) -> tuple[list[str], list[
     else:
         if fills and not 0.35 <= fills[0] <= 0.92:
             notes.append(f"letter: page is {fills[0]:.0%} full; aim for a balanced page (40-90%)")
+    if not k.get("_example") and re.search(r"Fictional example|Jordan Lee|example\.com|Example (Financial|Retail|Bank|State)", text):
+        probs.append(f"{what}: contains text from the fictional example kit; rebuild from the candidate's own record")
     left = re.findall(r"\[(?:VERIFY|ADD)[^\]]*\]|\bTODO\b|\[Company\]|\[Role\]", text)
     if left:
         probs.append(f"{what}: unfilled placeholders: {', '.join(sorted(set(left))[:4])}")

@@ -16,8 +16,8 @@ Raw file base for this repo: `https://raw.githubusercontent.com/heyaryansingh/ex
 
 ## Fast path: the folder was prepared for them
 
-If the attached folder already has a filled-in `candidate.yaml` and `master_resume.md` (a family
-member or helper prepared them), the candidate should only be asked what is still open:
+If the attached folder already has a filled-in `candidate.yaml` and `master_resume.md` (from an
+earlier setup, or prepared by a helper), the candidate should only be asked what is still open:
 - In Step 3, still ask for older resumes and past cover letters (they sharpen tailoring and
   voice), but say they're optional. Build the base kit from what's there either way.
 - In Step 4, ask only the fields still marked `TODO` in `candidate.yaml` and the `[VERIFY: ...]`
@@ -72,8 +72,13 @@ Then, without asking anything else yet:
    `candidate.yaml` → `writing` (tone, phrases they actually use, how they open and close),
    and copy one or two of their strongest original paragraphs into `notes.md` under "Voice
    samples". Every future letter should sound like them, not like a template.
-3. **The base executive resume and letter.** Write `base/kit.json` from the record (schema in
-   `tools/kit/build_latex.py`), aimed at their main target role, and build it:
+3. **The base executive resume and letter, written for this candidate.** Write
+   `base/kit.json` from scratch from *their* record and documents (schema in
+   `tools/kit/build_latex.py`), aimed at their main target role. `examples/executive_kit/` (a
+   fictional "Jordan Lee") shows the target look and level of detail only: never copy its
+   wording, structure choices or numbers; every word comes from this candidate's uploads and
+   answers (the builder rejects any leftover example text). Use their own strongest results,
+   their real scope figures, their industry's vocabulary and their voice. Build it:
    `python tools/kit/build_latex.py base/kit.json base/`. Standards for senior roles:
    - Up to **2 pages** (never 3). Page 1 must stand alone: headline, a 3-4 line executive
      summary, 9-12 core competencies (the terms recruiters search for, all supported by the

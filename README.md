@@ -1,5 +1,14 @@
 # 🎯 Exec Job Radar · Senior Technology Leadership Roles
 
+> **Set it up for yourself in one step.** Open the Claude desktop app, start a new chat, and
+> send: *"Set up my job search with https://github.com/heyaryansingh/exec-job-radar"*.
+> Claude does the rest and asks you only for your resumes, past cover letters and a few facts.
+>
+> **Claude (or any AI assistant) reading this:** if the person asked you to set this up for
+> them, follow [ONBOARD.md](ONBOARD.md) step by step
+> (raw: https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/ONBOARD.md).
+> Don't summarize this page or ask them to read the docs; do the setup yourself.
+
 Director, Senior Director, VP, SVP, Executive Director, Managing Director, Head of, and
 C-level technology roles in the US (and remote), refreshed **every hour**.
 
@@ -19,19 +28,19 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,368 open roles** at **1,990 companies** · **38 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 12:26 AM ET
+**5,369 open roles** at **1,990 companies** · **39 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 12:44 AM ET
 
-By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 123 · MD 56
+By level: Director 2872 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (38)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (39)](#new-in-the-last-24-hours)
 - [🤠 Houston area (187)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
-- [🧠 Data & AI (1313)](#data-ai)
+- [🧠 Data & AI (1314)](#data-ai)
 - [🚦 Reliability & Operations (379)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (483)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
@@ -79,6 +88,7 @@ By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193
 | Leidos | 🆕 Senior Director, Data and AI | Sr. Director | Reston, VA, USA · Remote | $154K–$278K | 1d | [Apply](https://careers.leidos.com/jobs/18519930-senior-director-data-and-ai?tm_job=R-00197788&tm_event=view&tm_company=2502) |
 | Mars | 🆕 Product Line Director, Omnichannel Experiences and D2C Commerce Technology | Director | Chicago, IL, USA | $170K–$234K | 1d | [Apply](https://careers.mars.com/global/en/job/R173530) |
 | BlackRock ⭐ | 🆕 AI/ML Engineer, Aladdin Data, VP | VP | 2 Locations |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/AI-ML-Engineer--Aladdin-Data--VP_R267163) |
+| Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
 | FCT | 🆕 Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 2d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | Northrop Grumman ⭐ | 🆕 Director 2 - Intelligence Systems Division (ISD) Engineering Execution Lead | Director | United States-California-Redondo Beach |  | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-2---Intelligence-Systems-Division--ISD--Engineering-Execution-Lead_R10262219) |
@@ -766,6 +776,7 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | BlackRock ⭐ | 🆕 AI/ML Engineer, Aladdin Data, VP | VP | 2 Locations |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/AI-ML-Engineer--Aladdin-Data--VP_R267163) |
 | Evalueserve | Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 1d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
 | Market Performance Group | Sr Director, Head of Data Engineering | Head | Remote, USA | $200K–$250K | 1d | [Apply](https://secure7.saashr.com/ta/6205439.careers?ShowJob=654804059) |
+| Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | FCT | 🆕 Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 2d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | BlackRock ⭐ | Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | VP | New York, NY |  | 2d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
 | GE HealthCare | Director, AI Transformation | Director | IL, USA |  | 2d | [Apply](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4049535EXTERNALENGLOBAL/Director-AI-Transformation?utm_source=indeed&utm_medium=phenom-feeds) |
@@ -1004,9 +1015,8 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | Fidelity ⭐ | Director, Data Analytics and Insights (req 2138375) | Director | 200 Seaport Blvd, Boston MA |  | 9d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/200-Seaport-Blvd-Boston-MA/Director--Data-Analytics-and-Insights_2138375-1) |
 | thyme care | VP, Data | VP | Remote | $251K–$295K | 9d | [Apply](https://jobs.ashbyhq.com/thyme-care/2a4885ab-aa31-4922-99ae-2ac5b85dc059) ⚡ |
 | KDC/ONE | Director - Artificial Intelligence | Director | Saddle Brook, NJ, USA |  | 9d | [Apply](https://jobs.dayforcehcm.com/en-US/kdcone/CANDIDATEPORTAL/jobs/60396) |
-| Ruggable | Director of Data Engineering | Director | Los Angeles, California, United States | $200K–$240K | 9d | [Apply](https://job-boards.greenhouse.io/ruggable/jobs/8208559003) ⚡ |
 
-_1063 older roles in this section are in data/roles.json on the `data` branch._
+_1064 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

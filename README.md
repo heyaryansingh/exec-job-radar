@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,367 open roles** at **1,990 companies** · **39 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 26, 2026 09:15 PM ET
+**5,368 open roles** at **1,990 companies** · **40 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 26, 2026 10:06 PM ET
 
-By level: Director 2869 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 124 · MD 56
+By level: Director 2870 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 124 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (39)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (40)](#new-in-the-last-24-hours)
 - [🤠 Houston area (187)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (373)](#security-risk-technology)
@@ -36,7 +36,7 @@ By level: Director 2869 · VP 920 · Sr. Director 705 · Head 345 · C-level 193
 - [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (655)](#transformation-delivery)
-- [🛠️ Engineering & Software (1427)](#engineering-software)
+- [🛠️ Engineering & Software (1428)](#engineering-software)
 - [📌 Other Senior Roles (374)](#other-senior-roles)
 - [🔒 Recently closed (1067)](#recently-closed)
 - Daily digests: [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md)
@@ -84,6 +84,7 @@ By level: Director 2869 · VP 920 · Sr. Director 705 · Head 345 · C-level 193
 | Karman Space & Defense | 🆕 Director of Production Planning | Director | Salt Lake City, UT, USA | $158K–$237K | 2d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | BlackRock ⭐ | 🆕 Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | VP | New York, NY |  | 2d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
 | Centene | 🆕 Vice President, Engineering - Member Management | VP | 2 Locations |  | 2d | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Vice-President--Engineering---Member-Management_1677698) |
+| AEP | 🆕 Director Demand Planning - Enterprise IT | Director | Columbus, OH |  | 3d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) |
 | CNA Insurance | 🆕 Actuarial Director, Affinity & Cyber Pricing (P&C) | Director | 5 Locations |  | 3d | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) |
 | The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 3d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 
@@ -2005,6 +2006,7 @@ _405 older roles in this section are in data/roles.json on the `data` branch._
 | Inhabit | VP of Software Engineering | VP | Plano, TX, USA |  | 2d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
 | Fluid Management Operations Inc | Director of Hardware Engineering | Director | Wheeling, IL, USA | $142K–$213K | 2d | [Apply](https://idexcorp.wd5.myworkdayjobs.com/IDEX_Careers/job/Wheeling-Illinois/Director-of-Hardware-Engineering_R-10453-1) |
 | Inhabit | VP of Software Engineering | VP | Alpharetta, GA, USA |  | 2d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
+| AEP | 🆕 Director Demand Planning - Enterprise IT | Director | Columbus, OH |  | 3d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) |
 | BNY ⭐ | Vice President, Third Party Application Engineering | VP | Boston, MA, United States |  | 3d | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/77871) |
 | Morgan Stanley ⭐ | Internal Audit, Vice President - Institutional Securities, Technology | VP | 1 New York Plaza |  | 3d | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/Internal-Audit--Vice-President---Institutional-Securities--Technology_PT-JR041489-1) |
 | Endor Labs | Director of Engineering (req 4754372005) | Director | Palo Alto, CA |  | 3d | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4754372005) ⚡ |
@@ -2209,9 +2211,8 @@ _405 older roles in this section are in data/roles.json on the `data` branch._
 | Capital One ⭐ | Senior Director, Product Management- Capital One Software (Remote) | Sr. Director | Richmond, VA +1 · Remote | $245K–$280K | 8d | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Senior-Director--Product-Management--Capital-One-Software--Remote-_R1006010-1) |
 | Lexington City Schools | Director of Technology | Director | Lexington, NC, USA |  | 8d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5996821) |
 | Priority Technology Holdings, LLC | Director, Engineering - Quality Assurance | Director | Alpharetta, GA, USA | $190K–$291K | 8d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
-| Harvard University | Managing Director, IT Strategic Planning & Governance (req 3743990016959956) | MD | Boston, MA, us | $217K–$222K | 8d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959956-managing-director-it-strategic-planning-governance) ⚡ |
 
-_1177 older roles in this section are in data/roles.json on the `data` branch._
+_1178 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

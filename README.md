@@ -19,27 +19,27 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,369 open roles** at **1,990 companies** · **39 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 26, 2026 11:06 PM ET
+**5,368 open roles** at **1,990 companies** · **38 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 12:05 AM ET
 
-By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 124 · MD 56
+By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (39)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (38)](#new-in-the-last-24-hours)
 - [🤠 Houston area (187)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
 - [🧠 Data & AI (1313)](#data-ai)
 - [🚦 Reliability & Operations (379)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (483)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (655)](#transformation-delivery)
 - [🛠️ Engineering & Software (1428)](#engineering-software)
 - [📌 Other Senior Roles (374)](#other-senior-roles)
-- [🔒 Recently closed (1067)](#recently-closed)
-- Daily digests: [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md)
+- [🔒 Recently closed (1068)](#recently-closed)
+- Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -82,7 +82,6 @@ By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
 | FCT | 🆕 Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 2d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | Northrop Grumman ⭐ | 🆕 Director 2 - Intelligence Systems Division (ISD) Engineering Execution Lead | Director | United States-California-Redondo Beach |  | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-2---Intelligence-Systems-Division--ISD--Engineering-Execution-Lead_R10262219) |
-| Karman Space & Defense | 🆕 Director of Production Planning | Director | Salt Lake City, UT, USA | $158K–$237K | 2d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | AEP | 🆕 Director Demand Planning - Enterprise IT | Director | Columbus, OH |  | 3d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) |
 | CNA Insurance | 🆕 Actuarial Director, Affinity & Cyber Pricing (P&C) | Director | 5 Locations |  | 3d | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) |
 | The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 3d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
@@ -1016,7 +1015,7 @@ _1063 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Amazon Web Services | 🆕 Director, Software Development, Builder Operations, Amazon SW Builder Experience | Director | Herndon, VA, USA | $264K–$350K | 1d | [Apply](https://www.amazon.jobs/jobs/10567305/director-software-development-builder-operations-amazon-sw-builder-experience?cmpid=DA_INAD200785B) |
-| Karman Space & Defense | 🆕 Director of Production Planning | Director | Salt Lake City, UT, USA | $158K–$237K | 2d | [Apply](https://grnh.se/hy9xtb8m9us) |
+| Karman Space & Defense | Director of Production Planning | Director | Salt Lake City, UT, USA | $158K–$237K | 2d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | Intact Insurance | Director, Infrastructure and Cloud Operations (Hybrid) | Director | Farmington, CT, USA | $225K–$263K | 2d | [Apply](https://recruiting.ultipro.com/ONE1004ONEB/JobBoard/72fdae0d-0544-4d81-ae26-562ccfcb8266/OpportunityDetail?opportunityId=b3bcd5b0-7b3b-4a89-97b8-b6fcf7edbd3f&postingId=d0280869-fbc5-4d69-91f5-e75a4c9fefeb) |
 | Karman Space & Defense | Director of Production Planning | Director | Brea, CA, USA | $158K–$237K | 2d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | Datadog ⭐ | Vice President, Technical Solutions Operations | VP | San Francisco, California, USA | $275K–$350K | 2d | [Apply](https://careers.datadoghq.com/detail/8414502/?gh_jid=8414502) ⚡ |
@@ -1525,7 +1524,7 @@ _129 older roles in this section are in data/roles.json on the `data` branch._
 | ADP | Director, Enterprise Learning Platforms | Director | Norfolk, VA, USA | $123K–$304K | 24d | [Apply](https://click.appcast.io/t/9H8XXxI9ZKCwIQ0mNkd1fn3uV5x8EHq3lJcVEy8A-B0=) |
 | ADP | Director, Enterprise Learning Platforms | Director | Augusta, GA, USA | $123K–$304K | 24d | [Apply](https://click.appcast.io/t/63bgqTCwXwtMSTBG_yHjAEpk3-wp6boVSq7V4nB_Qcc=) |
 
-_234 older roles in this section are in data/roles.json on the `data` branch._
+_233 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 
@@ -2480,6 +2479,7 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| JPMorgan Chase ⭐ | 🔒 Executive Director, Digital Asset Wallet Infrastructure | ED | New York, NY, United States |  | 35d | Closed |
 | Advanced Automation | 🔒 Autonomous Warfare Technical Director | Director | Mountain View, CA, USA |  | 31d | Closed |
 | AHC Hospitality | 🔒 AHC Hospitality Vice President of Technology & AI | VP | Grand Rapids, MI, USA |  | 31d | Closed |
 | Align Technology | 🔒 Vice President, Platform Engineering | VP | San Jose, CA, USA | $297K–$409K | 32d | Closed |
@@ -2779,7 +2779,6 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | CVS Health (Phenom) ⭐ | 🔒 Executive Director, AI Engineering | ED | 151 Farmington Avenue, Hartford, Connectic |  | 35d | Closed |
 | Fiserv | 🔒 Director, Software Engineering | Director | Berkeley Heights, New Jersey, United State |  | 37d | Closed |
 | Fiserv | 🔒 Director, Clover Engineering – Merchant Onboarding & Growth | Director | Sunnyvale, California, United States of Am |  | 43d | Closed |
-| Fiserv | 🔒 Senior Director- Data Engineering | Sr. Director | Alpharetta, Georgia, United States of Amer |  | 42d | Closed |
 
 </details>
 

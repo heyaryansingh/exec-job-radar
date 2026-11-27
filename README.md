@@ -28,15 +28,15 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,395 open roles** at **1,993 companies** · **31 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 05:38 PM ET
+**5,396 open roles** at **1,994 companies** · **32 new in the last 24 hours** · 6,250 company career sites watched · updated hourly · last update Nov 27, 2026 06:28 PM ET
 
-By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
+By level: Director 2884 · VP 928 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (31)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (32)](#new-in-the-last-24-hours)
 - [🤠 Houston area (189)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
@@ -46,8 +46,8 @@ By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (661)](#transformation-delivery)
 - [🛠️ Engineering & Software (1433)](#engineering-software)
-- [📌 Other Senior Roles (374)](#other-senior-roles)
-- [🔒 Recently closed (1055)](#recently-closed)
+- [📌 Other Senior Roles (375)](#other-senior-roles)
+- [🔒 Recently closed (1050)](#recently-closed)
 - Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -77,6 +77,7 @@ By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193
 | Levi Strauss | 🆕 Director, Security Operations | Director |  |  | 1d | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |
 | LevelBlue | 🆕 Cyber Technical Director, Testing | Director | USA | $190K–$250K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3959) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/engineering-group-manager-infrastructure-and-virtualization-svp/287/103833858176) |
+| Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 2d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 2d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
@@ -2223,6 +2224,7 @@ _1183 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Baseten | Head of North Amercia - Enterprise | Head | San Francisco · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/baseten/67950801-99fc-4311-9c9b-d983d9d595a2) ⚡ |
+| Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 2d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Modus Create | Director Product Leadership | Director | Remote, USA |  | 2d | [Apply](https://grnh.se/1iu5af2c3us) |
 | Citi (jobs.citi.com) ⭐ | Full Stack Java and React Lead Engineer - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/full-stack-java-and-react-lead-engineer-vice-president/287/103763652912) |
 | Information Technology Senior Management Forum | Director, Staff Engineer | Director | McLean, VA, USA | $245K–$335K | 2d | [Apply](https://jobs.itsmfleaders.org/job/pecn8h/director-staff-engineer/mclean/va) [alt](https://jobs.itsmfleaders.org/job/7n549n/director-staff-engineer/mclean/va) |
@@ -2471,9 +2473,8 @@ _1183 older roles in this section are in data/roles.json on the `data` branch._
 | West Central Behavioral Health | Vice President of Health Information Systems | VP | Lebanon, NH, USA |  | 29d | [Apply](https://secure6.saashr.com/ta/6177729.careers?ShowJob=755402048) |
 | TransGrid Energy | Director, Investments | Director | Irvine +1 | $180K–$210K | 30d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9) ⚡ |
 | TransGrid Energy | Director, Investments | Director | Houston, TX, USA | $180K–$210K | 30d | [Apply](https://jobs.ashbyhq.com/transgrid-energy/4a7c026a-dc98-40be-9dcb-c5f7b806b5d9?utm_source=MqX9elXXvV) |
-| Citi (jobs.citi.com) ⭐ | Senior Java Developer - Vice President | VP | Tampa, FL, US |  | 30d | [Apply](https://jobs.citi.com/job/tampa/senior-java-developer-vice-president/287/102559343904) |
 
-_124 older roles in this section are in data/roles.json on the `data` branch._
+_125 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="recently-closed"></a>
 

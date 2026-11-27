@@ -19,15 +19,15 @@ How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for some
 [SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,366 open roles** at **1,990 companies** · **45 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 26, 2026 07:11 PM ET
+**5,367 open roles** at **1,990 companies** · **44 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 26, 2026 08:16 PM ET
 
-By level: Director 2869 · VP 920 · Sr. Director 704 · Head 345 · C-level 193 · EVP/SVP 154 · ED 124 · MD 56
+By level: Director 2869 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 124 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (45)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (44)](#new-in-the-last-24-hours)
 - [🤠 Houston area (187)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (373)](#security-risk-technology)
@@ -36,9 +36,9 @@ By level: Director 2869 · VP 920 · Sr. Director 704 · Head 345 · C-level 193
 - [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (655)](#transformation-delivery)
-- [🛠️ Engineering & Software (1426)](#engineering-software)
+- [🛠️ Engineering & Software (1427)](#engineering-software)
 - [📌 Other Senior Roles (374)](#other-senior-roles)
-- [🔒 Recently closed (1069)](#recently-closed)
+- [🔒 Recently closed (1067)](#recently-closed)
 - Daily digests: [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md) · [11-20](data/daily/2026-11-20.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -47,8 +47,8 @@ By level: Director 2869 · VP 920 · Sr. Director 704 · Head 345 · C-level 193
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| Citi (jobs.citi.com) ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/engineering-group-manager-infrastructure-and-virtualization-svp/287/103833858176) |
 | LevelBlue | 🆕 Cyber Technical Director, Testing | Director | USA | $190K–$250K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3959) |
+| Citi (jobs.citi.com) ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/engineering-group-manager-infrastructure-and-virtualization-svp/287/103833858176) |
 | Citi ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Engineering-Group-Manager--Infrastructure---Virtualization----SVP_261007724) |
 | Amazon Web Services | 🆕 Director, Software Development, Builder Operations, Amazon SW Builder Experience | Director | Herndon, VA, USA | $264K–$350K | 1d | [Apply](https://www.amazon.jobs/jobs/10567305/director-software-development-builder-operations-amazon-sw-builder-experience?cmpid=DA_INAD200785B) |
 | EY | 🆕 IBM Alliance Deal Architect Director | Director | Chicago, IL, USA | $256K–$705K | 1d | [Apply](https://careers.ey.com/ey/job/Chicago-IBM-Alliance-Deal-Architect-Director-IL-60606/1460814533/) |
@@ -82,14 +82,13 @@ By level: Director 2869 · VP 920 · Sr. Director 704 · Head 345 · C-level 193
 | Evalueserve | 🆕 Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 1d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
 | Market Performance Group | 🆕 Sr Director, Head of Data Engineering | Head | Remote, USA | $200K–$250K | 1d | [Apply](https://secure7.saashr.com/ta/6205439.careers?ShowJob=654804059) |
 | Qualys | 🆕 Vice President, Threat Research Engineering | VP | Foster City |  | 1d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Foster-City/Vice-President--Threat-Research-Engineering_R0004721) |
+| Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
 | FCT | 🆕 Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 2d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | Northrop Grumman ⭐ | 🆕 Director 2 - Intelligence Systems Division (ISD) Engineering Execution Lead | Director | United States-California-Redondo Beach |  | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-2---Intelligence-Systems-Division--ISD--Engineering-Execution-Lead_R10262219) |
 | Karman Space & Defense | 🆕 Director of Production Planning | Director | Salt Lake City, UT, USA | $158K–$237K | 2d | [Apply](https://grnh.se/hy9xtb8m9us) |
 | BlackRock ⭐ | 🆕 Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | VP | New York, NY |  | 2d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
 | Centene | 🆕 Vice President, Engineering - Member Management | VP | 2 Locations |  | 2d | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Vice-President--Engineering---Member-Management_1677698) |
 | Modus Create | 🆕 Director Product Leadership | Director | Remote, USA |  | 2d | [Apply](https://grnh.se/1iu5af2c3us) |
-| Oracle | 🆕 Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |
-| Thermo Fisher Scientific ⭐ | 🆕 Sr. Director, IT M&A Integration | Sr. Director | Waltham, Massachusetts, United States of A |  | 2d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01363129EXTERNALENGLOBAL) |
 | CNA Insurance | 🆕 Actuarial Director, Affinity & Cyber Pricing (P&C) | Director | 5 Locations |  | 3d | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) |
 | The University of Akron | 🆕 Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 3d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 
@@ -1708,7 +1707,7 @@ _234 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | State Street ⭐ | 🆕 Digital Product Development Lead - Custody & Tokenization, Vice President | VP | 5 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Luxembourg/Digital-Product-Development-Lead---Custody---Tokenization--Vice-President_R-801572-1) |
-| Oracle | 🆕 Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |
+| Oracle | Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |
 | Fiserv | Sr. Director, Program Management | Sr. Director | Columbia, South Carolina, United States of |  | 2d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407498EXTERNALENUS) |
 | Caesars Entertainment | Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 2d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |
 | Obsidian Therapeutics | VP, Program Management | VP | Cambridge/Bedford, MA (REMOTE) | $285K–$350K | 2d | [Apply](https://job-boards.greenhouse.io/obsidiantherapeutics/jobs/6270045004) ⚡ |
@@ -1975,9 +1974,10 @@ _405 older roles in this section are in data/roles.json on the `data` branch._
 | insightsoftware | 🆕 Director - Engineering | Director |  |  | 1d | [Apply](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/Director---Engineering_REQ001405) |
 | Mars | 🆕 Product Line Director, Omnichannel Experiences and D2C Commerce Technology | Director | Chicago, IL, USA | $170K–$234K | 1d | [Apply](https://careers.mars.com/global/en/job/R173530) |
 | Qualys | 🆕 Vice President, Threat Research Engineering | VP | Foster City |  | 1d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Foster-City/Vice-President--Threat-Research-Engineering_R0004721) |
+| Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
 | Northrop Grumman ⭐ | 🆕 Director 2 - Intelligence Systems Division (ISD) Engineering Execution Lead | Director | United States-California-Redondo Beach |  | 2d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-2---Intelligence-Systems-Division--ISD--Engineering-Execution-Lead_R10262219) |
 | Centene | 🆕 Vice President, Engineering - Member Management | VP | 2 Locations |  | 2d | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Vice-President--Engineering---Member-Management_1677698) |
-| Thermo Fisher Scientific ⭐ | 🆕 Sr. Director, IT M&A Integration | Sr. Director | Waltham, Massachusetts, United States of A |  | 2d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01363129EXTERNALENGLOBAL) |
+| Thermo Fisher Scientific ⭐ | Sr. Director, IT M&A Integration | Sr. Director | Waltham, Massachusetts, United States of A |  | 2d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01363129EXTERNALENGLOBAL) |
 | Darwinbox | Head of Technology, Fresh Divison | Head | Remote, USA | $200K–$225K | 2d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae2289122050) |
 | Darwinbox | Vice President, Information Technology | VP | Remote, USA | $240K–$260K | 2d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae9ded36a9b7) |
 | SPC Mechanical | IT Director | Director | Wendell, NC, USA |  | 2d | [Apply](https://spcmechanical.bamboohr.com/careers/110?source=indeed&src=indeed&postedDate=2026-11-25) |
@@ -2215,9 +2215,8 @@ _405 older roles in this section are in data/roles.json on the `data` branch._
 | Lexington City Schools | Director of Technology | Director | Lexington, NC, USA |  | 8d | [Apply](https://www.SchoolSpring.com/jobdetail?jobId=5996821) |
 | Priority Technology Holdings, LLC | Director, Engineering - Quality Assurance | Director | Alpharetta, GA, USA | $190K–$291K | 8d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
 | Harvard University | Managing Director, IT Strategic Planning & Governance (req 3743990016959956) | MD | Boston, MA, us | $217K–$222K | 8d | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016959956-managing-director-it-strategic-planning-governance) ⚡ |
-| Priority Technology Holdings, LLC | Director, Engineering - Quality Assurance | Director | Remote, USA | $190K–$291K | 8d | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614124&source=IN&lang=en_US) |
 
-_1176 older roles in this section are in data/roles.json on the `data` branch._
+_1177 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

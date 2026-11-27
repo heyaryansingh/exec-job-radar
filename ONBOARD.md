@@ -18,7 +18,8 @@ Raw file base for this repo: `https://raw.githubusercontent.com/heyaryansingh/ex
 
 If the attached folder already has a filled-in `candidate.yaml` and `master_resume.md` (a family
 member or helper prepared them), the candidate should only be asked what is still open:
-- Skip the document request in Step 3. Show the 5-line summary and ask them to confirm it.
+- In Step 3, still ask for older resumes and past cover letters (they sharpen tailoring and
+  voice), but say they're optional. Build the base kit from what's there either way.
 - In Step 4, ask only the fields still marked `TODO` in `candidate.yaml` and the `[VERIFY: ...]`
   items in `master_resume.md`, all in **one** message. Don't re-ask anything already filled.
 - Do Steps 1, 2 (keep their files), 5, 6, 7 and 8 as written, doing as much yourself as you can.
@@ -47,29 +48,58 @@ Check each, and keep a short list of what's missing to fix in Step 7:
    folder, unless files with those names already exist there (then keep theirs).
 3. Create `tracker.json` in the folder: `{"candidate": "<name>", "roles": {}, "runs": []}`.
 
-## Step 3: Build the career record (`master_resume.md`)
+## Step 3: Collect their documents, then build everything from them
 
-Ask the candidate for everything they have, in one message: their current resume (PDF or
-Word), their LinkedIn profile as a PDF (LinkedIn profile page > More > Save to PDF), and any
-older or longer resumes, bios, or performance write-ups. More material means better
-tailoring, because a run may only use what is in this file.
+The candidate's only job in setup is handing over documents and answering a few questions.
+You do all the writing. Ask once, in one friendly message, for whatever they have (any
+format: PDF, Word, Google Doc export, photos of pages):
+- **Resumes**: the current one and any older or longer versions (a couple is ideal; each
+  older version usually holds results the newest one dropped).
+- **Cover letters** they've written before (these teach you their voice).
+- **LinkedIn profile as a PDF** (profile page > More > Save to PDF).
+- Optional, if handy: bios, performance reviews, award or promotion write-ups, board or
+  advisory roles, talks, patents, press mentions.
 
-Write `master_resume.md` from all of it, following the template's sections:
-- Include **everything true**, more than fits on two pages: every role with dates, scope (team
-  size, budget, users, regions), and every quantified result, exactly as the sources state it.
-- Where sources disagree (dates, titles, numbers), don't pick one: list the conflicts and ask.
-- Don't polish facts into claims the sources don't make. No new numbers, no new tools.
-- End with a short "Gaps" note listing anything a senior resume usually has that the sources
-  lack (e.g. no team sizes for the last role). Ask the candidate to fill the gaps they can.
+Tell them they can drop the files straight into the Job Search folder, or attach them here.
+Then, without asking anything else yet:
 
-Show the candidate a short summary (roles, years, 5 headline results) and ask them to confirm
-it's accurate, or correct it.
+1. **`master_resume.md`, the full career record.** Merge every source, following the template's
+   sections. Include everything true, more than fits on two pages: every role with dates,
+   scope (team size, budget, users, regions, platforms) and every quantified result, as the
+   sources state it. Where sources disagree (dates, titles, numbers), don't pick one: mark it
+   `[VERIFY: ...]` and ask in step 3. Never invent or round up a number, tool or title.
+2. **Their voice.** From the cover letters (and any writing in the bios), write 3-6 lines in
+   `candidate.yaml` → `writing` (tone, phrases they actually use, how they open and close),
+   and copy one or two of their strongest original paragraphs into `notes.md` under "Voice
+   samples". Every future letter should sound like them, not like a template.
+3. **The base executive resume and letter.** Write `base/kit.json` from the record (schema in
+   `tools/kit/build_latex.py`), aimed at their main target role, and build it:
+   `python tools/kit/build_latex.py base/kit.json base/`. Standards for senior roles:
+   - Up to **2 pages** (never 3). Page 1 must stand alone: headline, a 3-4 line executive
+     summary, 9-12 core competencies (the terms recruiters search for, all supported by the
+     record), and 4-6 selected achievements with numbers.
+   - Experience: most recent 10-15 years in depth, each role with a one-line scope (team,
+     budget, footprint) when the record has it, 2-5 bullets of outcomes (action, scale,
+     result), not duties. Older roles get one or two lines each.
+   - Plain, confident, specific language; no buzzwords, no em dashes; nothing that implies
+     current employment unless `currently_employed: yes`.
+   - The builder checks pages, applicant-tracking-system text extraction, lone-word lines
+     and leftover placeholders; fix and rebuild until it prints READY (a `[VERIFY]` that only
+     the candidate can answer may stay until step 3 below).
+   - Render page 1 of each PDF and look at it before showing it.
+4. **One message back to the candidate** with: the base resume and letter PDFs, a 5-line
+   summary of the career record, the `[VERIFY]` conflicts, the gaps that would most
+   strengthen the resume (e.g. "team size and budget for your last role"), and the Step 4
+   questions. Everything in one message, so they answer once.
+
+Apply their answers to `master_resume.md` and `candidate.yaml`, rebuild the base kit, and move
+on. Every run starts from the base kit and tailors it per role.
 
 ## Step 4: Fill `candidate.yaml`
 
 Fill what the documents already give you (name, email, phone, LinkedIn, city/state,
-education). Then ask for the rest in as few prompts as possible, offering choices where you
-can. Ask exactly these, and nothing you already know:
+education, most recent employer and title). Ask the rest inside the single Step 3 message,
+offering choices where you can. Ask only these, and nothing you already know:
 
 1. Mailing address (street and ZIP; some forms require it).
 2. Authorized to work in the US? Needs sponsorship now or in the future?

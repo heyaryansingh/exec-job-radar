@@ -15,13 +15,16 @@ this page is the one-time setup and how to live with it.
 1. Install the **Claude desktop app** and sign in. In Chrome, add the **Claude in Chrome**
    extension and sign in with the same account. In the app, connect **Gmail** (Settings >
    Connectors).
-2. Put the Job Search folder you were given (or an empty one) in `Documents`.
-3. Open a new chat in the Claude app, attach that folder (and your resume if the folder is
-   empty), and paste this one line:
+2. Put the Job Search folder you were given (or an empty one) in `Documents`, and drop in
+   what you have, in any format: your resumes (current plus a couple of older ones), cover
+   letters you've written, your LinkedIn profile as a PDF, and any bios or reviews.
+3. Open a new chat in the Claude app, attach that folder, and paste this one line:
 
 > Set up my Job Radar autopilot by following https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/ONBOARD.md exactly. My Job Search folder is attached.
 
-4. Answer Claude's few questions, then click **Allow** when it asks. When it's done, open each
+4. Claude writes the career record, a two-page executive resume and a cover letter in your
+   voice (LaTeX, checked for applicant-tracking systems), then sends one message with the
+   drafts and a few questions. Answer them, then click **Allow** when it asks. When it's done, open each
    of the three scheduled tasks it made and turn on **automatically approve**.
 
 That's it. Claude checks and fixes everything else, and tells you if anything is missing.

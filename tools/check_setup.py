@@ -134,9 +134,20 @@ def check(folder: Path, fix: bool):
         except Exception as e:
             blocking.append(f"tracker.json does not parse ({e}); restore tracker.backup.json.")
 
-    # tools
+    # tools: LaTeX is the main builder (tools/kit/build_latex.py); node + docx is the fallback
+    if fix and not shutil.which("pdflatex") and shutil.which("apt-get"):
+        subprocess.run(["bash", "-c", "(sudo -n true 2>/dev/null && S=sudo || S=); $S apt-get update -qq && "
+                        "$S apt-get install -y -qq texlive-latex-recommended texlive-latex-extra "
+                        "texlive-fonts-recommended poppler-utils"], capture_output=True, text=True, timeout=900)
+    latex = all(shutil.which(t) for t in ("pdflatex", "pdftotext", "pdfinfo"))
+    if latex:
+        info.append("LaTeX resume builder ready (pdflatex + poppler).")
+    else:
+        warnings.append("pdflatex/pdftotext not found: install TeX Live + poppler (Mac: MacTeX and `brew install "
+                        "poppler`), or build kits in Claude's own workspace; until then the Word builder is used.")
     if not shutil.which("node"):
-        blocking.append("node is not installed, so tailored resumes can't be built. Install Node.js 18+ (nodejs.org).")
+        (warnings if latex else blocking).append(
+            "node is not installed (needed only for the Word fallback builder). Install Node.js 18+ (nodejs.org).")
     elif not docx_installed():
         if fix:
             r = subprocess.run(["npm", "install", "--no-save", "--no-audit", "--no-fund", "docx@9"],
@@ -145,8 +156,11 @@ def check(folder: Path, fix: bool):
                 "Installed the docx package." if r.returncode == 0 else f"npm install docx failed: {r.stderr[-300:]}")
         else:
             warnings.append("The node 'docx' package is missing: run with --fix (or `npm install docx@9` in tools/kit).")
-    if not (shutil.which("soffice") or shutil.which("libreoffice")):
-        warnings.append("LibreOffice (soffice) not found: kits upload as .docx instead of .pdf (most forms accept both).")
+    if not latex and not (shutil.which("soffice") or shutil.which("libreoffice")):
+        warnings.append("LibreOffice (soffice) not found: Word-builder kits upload as .docx instead of .pdf.")
+    if not (folder / "base" / "kit.json").exists():
+        warnings.append("No base/kit.json yet: build the base executive resume (ONBOARD.md Step 3) so every run "
+                        "starts from it.")
     return blocking, warnings, info
 
 

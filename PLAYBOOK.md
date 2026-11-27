@@ -184,15 +184,19 @@ In `applications/<YYYY-MM-DD>_<Company>_<Short-Role>/` write:
 
 - `job.md`: title, company, link, location, pay, date found, the full description (it may be
   taken down later).
-- `kit.json`, then `resume.docx/.pdf` and `cover_letter.docx/.pdf`:
+- `kit.json` (start from `base/kit.json`), then the PDFs:
+  `python tools/kit/build_latex.py kit.json <folder>` writes `<First>_<Last>_Resume.pdf` and
+  `<First>_<Last>_Cover_Letter.pdf` and checks them (pages, applicant-tracking text extraction,
+  lone-word lines, placeholders, em dashes, current-employment wording). Fix and rebuild until
+  it prints READY. If `pdflatex` is missing and can't be installed, fall back to
   `node tools/kit/build_docs.js kit.json <folder>` then
-  `soffice --headless --convert-to pdf --outdir <folder> <folder>/*.docx` (if `soffice` is
-  missing, upload the `.docx` files instead, renamed `<First>_<Last>_Resume.docx` and
-  `<First>_<Last>_Cover_Letter.docx`).
+  `soffice --headless --convert-to pdf --outdir <folder> <folder>/*.docx` (or upload the
+  `.docx` files, renamed `<First>_<Last>_Resume.docx` / `<First>_<Last>_Cover_Letter.docx`).
   Resume: rewrite the headline and summary for this role, lead with the 3 most relevant
   results, reorder bullets, mirror the posting's vocabulary where the record truly supports it,
-  2 pages max. Letter: under 300 words, why this company and role, two or three specific
-  proofs mapped to the role's top needs, a short close; follow `candidate.yaml` → `writing`.
+  2 pages max, page 1 strong enough to stand alone. Letter: under 300 words, why this company
+  and role, two or three specific proofs mapped to the role's top needs, a short close; in the
+  candidate's own voice (`candidate.yaml` → `writing` and the voice samples in `notes.md`).
   Name the PDFs `<First>_<Last>_Resume.pdf` and `<First>_<Last>_Cover_Letter.pdf`.
   Render page 1 of each and look at it. Then search both texts for "currently", "today" and
   "I am"; fix anything that breaks rule 5.

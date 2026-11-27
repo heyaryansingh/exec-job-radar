@@ -10,6 +10,23 @@ It is modeled on a system that ran 120+ real internship applications in October 
 the lessons from that system built in. The day-to-day rules are in [PLAYBOOK.md](PLAYBOOK.md);
 this page is the one-time setup and how to live with it.
 
+## Start here (the candidate's part, about 10 minutes)
+
+1. Install the **Claude desktop app** and sign in. In Chrome, add the **Claude in Chrome**
+   extension and sign in with the same account. In the app, connect **Gmail** (Settings >
+   Connectors).
+2. Put the Job Search folder you were given (or an empty one) in `Documents`.
+3. Open a new chat in the Claude app, attach that folder (and your resume if the folder is
+   empty), and paste this one line:
+
+> Set up my Job Radar autopilot by following https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/ONBOARD.md exactly. My Job Search folder is attached.
+
+4. Answer Claude's few questions, then click **Allow** when it asks. When it's done, open each
+   of the three scheduled tasks it made and turn on **automatically approve**.
+
+That's it. Claude checks and fixes everything else, and tells you if anything is missing.
+The rest of this page is the detail behind those steps.
+
 ## What happens each day
 
 | When | What runs | What it does |
@@ -65,8 +82,9 @@ Better:
 - **The Claude desktop app** (Mac or Windows) on the computer where Chrome lives.
 - **Google Chrome with the Claude in Chrome extension**, signed into the same Claude account.
 - **Gmail** (or whichever email receives job alerts and application replies), connected in Claude.
-- **Node.js** (nodejs.org) on that computer, for building the resumes. LibreOffice is optional
-  (it makes PDFs; without it, kits upload as Word files).
+- **Node.js and LibreOffice** for building the resumes. Claude installs these or works around
+  them during setup; the candidate is asked only if that fails (without LibreOffice, kits
+  upload as Word files).
 - **The computer on and awake at 7:30 AM and 1:00 PM.** Set it to never sleep while plugged in
   (Windows: Settings > System > Power; Mac: System Settings > Battery > Options), or at least
   to wake for those times. A missed run is caught up next time, but nothing runs while it sleeps.
@@ -75,8 +93,8 @@ Better:
 
 ### Fast way: Claude sets it up (recommended)
 1. Get the items under "What the candidate needs" in place: the Claude app, the Claude in
-   Chrome extension signed into the same account, the Gmail connector (Settings > Connectors),
-   and Node.js. Claude checks the rest and walks the candidate through anything missing.
+   Chrome extension signed into the same account, and the Gmail connector (Settings >
+   Connectors). Claude checks the rest and walks the candidate through anything missing.
 2. Make an empty folder, e.g. `Documents/Job Search`.
 3. Open a new chat in the Claude desktop app, attach that folder and the candidate's resume
    (plus their LinkedIn profile saved as a PDF, if handy), and paste:

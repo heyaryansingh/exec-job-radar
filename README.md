@@ -28,19 +28,19 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,379 open roles** at **1,991 companies** · **34 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 06:57 AM ET
+**5,380 open roles** at **1,991 companies** · **35 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 07:45 AM ET
 
-By level: Director 2879 · VP 921 · Sr. Director 706 · Head 345 · C-level 193 · EVP/SVP 155 · ED 123 · MD 56
+By level: Director 2879 · VP 921 · Sr. Director 706 · Head 346 · C-level 193 · EVP/SVP 155 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (34)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (35)](#new-in-the-last-24-hours)
 - [🤠 Houston area (188)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
-- [🧠 Data & AI (1317)](#data-ai)
+- [🧠 Data & AI (1318)](#data-ai)
 - [🚦 Reliability & Operations (379)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (483)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
@@ -81,6 +81,7 @@ By level: Director 2879 · VP 921 · Sr. Director 706 · Head 345 · C-level 193
 | The Urban Institute | 🆕 Senior Director, AI Studio | Sr. Director | Washington, DC, USA | $200K–$250K | 1d | [Apply](https://urban.wd115.myworkdayjobs.com/en-US/Urban-Careers/job/The-Urban-Institute-DC/Senior-Director--AI-Studio_R-801661) |
 | Ameriprise Financial | 🆕 Head of Data Strategy | Head | Boston, Massachusetts | $211K–$256K | 1d | [Apply](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Head-of-Data-Strategy_R26_4457) |
 | AT&T ⭐ | 🆕 Director- Data Science | Director | Plano, Texas, United States | $249K–$362K | 1d | [Apply](https://www.att.jobs/job/plano/director-data-science/117/103812805744) |
+| Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 2d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
 | FTI Consulting, Inc. | 🆕 Director, eDiscovery - Technology Consulting | Director | Washington, DC +7 |  | 3d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Washington-DC/Director--eDiscovery---Technology-Consulting_JR261711) |
@@ -773,6 +774,7 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | BlackRock ⭐ | AI/ML Engineer, Aladdin Data, VP | VP | 2 Locations |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/AI-ML-Engineer--Aladdin-Data--VP_R267163) |
 | Evalueserve | Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 1d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
 | Market Performance Group | Sr Director, Head of Data Engineering | Head | Remote, USA | $200K–$250K | 1d | [Apply](https://secure7.saashr.com/ta/6205439.careers?ShowJob=654804059) |
+| Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 2d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | FCT | Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 2d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | BlackRock ⭐ | Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | VP | New York, NY |  | 2d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
@@ -1010,9 +1012,8 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | Forward-Deployed AI Transformation Lead, Vice President | VP | New York, NY, United States |  | 9d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782336) |
 | Johnson Controls | Director, Product Planning and Management, Data Center Thermal Controls | Director | Milwaukee-Wisconsin-United States of Ameri | $175K–$240K | 9d | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Director--Product-Planning-and-Management--Data-Center-Thermal-Controls_WD30285400) |
 | Dropbox | Director, Strategic AI Partnerships | Director | Remote - US: San Francisco, CA | $253K–$343K | 9d | [Apply](https://jobs.dropbox.com/listing/8048844?gh_jid=8048844) ⚡ |
-| Palmetto Clean Technology | Director, Data & AI | Director | Remote - United States |  | 9d | [Apply](https://job-boards.greenhouse.io/palmettocleantech/jobs/5486983008) ⚡ |
 
-_1067 older roles in this section are in data/roles.json on the `data` branch._
+_1068 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

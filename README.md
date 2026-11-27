@@ -28,19 +28,19 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,385 open roles** at **1,993 companies** · **36 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 12:49 PM ET
+**5,386 open roles** at **1,993 companies** · **35 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 01:40 PM ET
 
-By level: Director 2879 · VP 922 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
+By level: Director 2880 · VP 922 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (36)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (35)](#new-in-the-last-24-hours)
 - [🤠 Houston area (189)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
-- [🧠 Data & AI (1321)](#data-ai)
+- [🧠 Data & AI (1322)](#data-ai)
 - [🚦 Reliability & Operations (379)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
@@ -56,6 +56,7 @@ By level: Director 2879 · VP 922 · Sr. Director 707 · Head 347 · C-level 193
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Cardinal Health ⭐ | 🆕 Director, AI & Emerging Technology Risk | Director | 2 Locations |  | 0d | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/en-US/EXT/job/OH-Ohio-FIELD/Director--AI---Emerging-Technology-Risk_20191134) |
 | Amperos | 🆕 Head of AI Deployment | Head | NYC or Remote +2 |  | 0d | [Apply](https://jobs.ashbyhq.com/amperos/fc5be92b-cbd8-4aa6-a2aa-c52586128d06) ⚡ |
 | Ezee Fiber | 🆕 Director, IT Systems | Director | Houston, TX, USA |  | 0d | [Apply](https://careers-ezeefiber.icims.com/jobs/1662/job) |
 | JPMorgan Chase ⭐ | 🆕 AWS Data Analytics Services Product Manager Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811512) |
@@ -80,8 +81,6 @@ By level: Director 2879 · VP 922 · Sr. Director 707 · Head 347 · C-level 193
 | Lambda | 🆕 VP, Data Center Power & Site Development | VP | Remote, USA | $400K–$500K | 1d | [Apply](https://jobs.ashbyhq.com/Lambda/a55429d0-baeb-4ce2-af9f-22cc6bd52318) ⚡ |
 | Sequen AI | 🆕 VP, Field Engineering | VP | USA · Remote | $270K–$300K | 1d | [Apply](https://jobs.ashbyhq.com/sequen-ai/b90464bf-a44c-44e3-be8e-35c3f066b407?utm_source=vwmrgjQVrb) |
 | Banyan Software | 🆕 VP, Engineering | VP | Denver, CO, USA | $160K–$200K | 1d | [Apply](https://job-boards.greenhouse.io/banyansoftware/jobs/5303422007) ⚡ |
-| OpenText | 🆕 Security Director - UK Public Sector | Director | Reading, GBR |  | 1d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54428EXTERNALENUS) |
-| OpenText | 🆕 Head of Information Security - UK Public Sector | Head | Reading, GBR |  | 1d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54429EXTERNALENUS) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 2d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
@@ -507,8 +506,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 |---|---|---|---|---|---:|---|
 | Levi Strauss | 🆕 Director, Security Operations | Director |  |  | 1d | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |
 | LevelBlue | 🆕 Cyber Technical Director, Testing | Director | USA | $190K–$250K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3959) |
-| OpenText | 🆕 Security Director - UK Public Sector | Director | Reading, GBR |  | 1d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54428EXTERNALENUS) |
-| OpenText | 🆕 Head of Information Security - UK Public Sector | Head | Reading, GBR |  | 1d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54429EXTERNALENUS) |
+| OpenText | Security Director - UK Public Sector | Director | Reading, GBR |  | 1d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54428EXTERNALENUS) |
+| OpenText | Head of Information Security - UK Public Sector | Head | Reading, GBR |  | 1d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54429EXTERNALENUS) |
 | KCI Technologies | Director of Infrastructure and Security | Director | Sparks, MD, USA | $215K–$240K | 1d | [Apply](https://careers-kci.icims.com/jobs/8510/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Options Clearing Corporation | Director - Security Engineering | Director | Chicago, IL, USA | $175K–$293K | 2d | [Apply](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Director---Security-Engineering_REQ-4953-4) |
 | Citi (jobs.citi.com) ⭐ | Senior ISO - Digital Assets Security, SVP | EVP/SVP | New Castle, DE, US +3 |  | 2d | [Apply](https://jobs.citi.com/job/new-castle/senior-iso-digital-assets-security-svp/287/103787626416) |
@@ -764,6 +763,7 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Cardinal Health ⭐ | 🆕 Director, AI & Emerging Technology Risk | Director | 2 Locations |  | 0d | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/en-US/EXT/job/OH-Ohio-FIELD/Director--AI---Emerging-Technology-Risk_20191134) |
 | Amperos | 🆕 Head of AI Deployment | Head | NYC or Remote +2 |  | 0d | [Apply](https://jobs.ashbyhq.com/amperos/fc5be92b-cbd8-4aa6-a2aa-c52586128d06) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 AWS Data Analytics Services Product Manager Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811512) |
 | State Street ⭐ | 🆕 Head of Data Products Investor Services - Managing Director | MD | 3 Locations |  | 0d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Head-of-Data-Products-Investor-Services---Managing-Director_R-801614-1) |
@@ -1013,9 +1013,8 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | AffirmedRx, PBC | Director, AI Enablement | Director | Remote |  | 9d | [Apply](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5486985008) ⚡ |
 | UnitedHealth Group ⭐ | Senior Director, UX Product Design - AI & Product Office - Remote or Boston, MA - Remote | Sr. Director | Boston, Massachusetts, United States +1 · Remote | $159K–$273K | 9d | [Apply](https://careers.unitedhealthgroup.com/job/boston/senior-director-ux-product-design-ai-and-product-office-remote-or-boston-ma-remote/34088/103488707888) |
 | UnitedHealth Group ⭐ | Director, Product Management, AI & Product Office - Remote | Director | Boston, Massachusetts, United States +2 · Remote | $159K–$273K | 9d | [Apply](https://careers.unitedhealthgroup.com/job/boston/director-product-management-ai-and-product-office-remote/34088/103488708272) |
-| SUPPLIER.IO | Director of Data Architecture | Director | Remote, USA | $200K | 9d | [Apply](https://ats.rippling.com/supplierio/jobs/85926bfe-4508-454d-b173-7231ac523579?jobSite=Indeed) |
 
-_1071 older roles in this section are in data/roles.json on the `data` branch._
+_1072 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

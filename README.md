@@ -28,26 +28,26 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,394 open roles** at **1,993 companies** · **32 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 04:37 PM ET
+**5,395 open roles** at **1,993 companies** · **33 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 05:15 PM ET
 
-By level: Director 2882 · VP 928 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
+By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (32)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
 - [🤠 Houston area (189)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
 - [🧠 Data & AI (1327)](#data-ai)
 - [🚦 Reliability & Operations (379)](#reliability-operations)
-- [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
+- [☁️ Cloud & Infrastructure (485)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (661)](#transformation-delivery)
 - [🛠️ Engineering & Software (1433)](#engineering-software)
 - [📌 Other Senior Roles (374)](#other-senior-roles)
-- [🔒 Recently closed (1057)](#recently-closed)
+- [🔒 Recently closed (1055)](#recently-closed)
 - Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -57,9 +57,9 @@ By level: Director 2882 · VP 928 · Sr. Director 707 · Head 347 · C-level 193
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | JPMorgan Chase ⭐ | 🆕 Data Scientist Lead - Vice President | VP | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812720) |
+| Citi ⭐ | 🆕 Senior Architect - Java and Generative AI - Vice President | VP | 1/124, SHIVAJI GARDENS, MOONLI |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-Architect---Java-and-Generative-AI---Vice-President_261005422) |
 | Citi ⭐ | 🆕 Program Management Lead, Vice President (req 261012009) | VP | 2 Locations |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Program-Management-Lead--Vice-President_261012009) |
 | Citi ⭐ | 🆕 Program Management Lead, Vice President (req 261012016) | VP | 2 Locations |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Program-Management-Lead--Vice-President_261012016) |
-| Citi ⭐ | 🆕 Senior Architect - Java and Generative AI - Vice President | VP | 1/124, SHIVAJI GARDENS, MOONLI |  | 0d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-Architect---Java-and-Generative-AI---Vice-President_261005422) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Risk Data Management and Reporting - Vice President | VP | Gurgaon, HR, IN |  | 0d | [Apply](https://jobs.citi.com/job/gurgaon/risk-data-management-and-reporting-vice-president/287/103869656640) |
 | JPMorgan Chase ⭐ | 🆕 Home Lending Data Owners Product Manager Vice President | VP | Seattle, WA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810684) |
 | Experian | 🆕 Financial Services & Data, Operational Risk Director | Director | United States, UNITED STATES, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Experian/744000164086849-financial-services-data-operational-risk-director) ⚡ |
@@ -81,6 +81,7 @@ By level: Director 2882 · VP 928 · Sr. Director 707 · Head 347 · C-level 193
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 2d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
+| Becton Dickinson | 🆕 Director, Digital Platforms-SAP Contract to Cash, eBusiness– Enterprise Architecture & Design Governance | Director | USA NJ - Franklin Lakes |  | 3d | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Director--Digital-Platforms-SAP-Contract-to-Cash--eBusiness--Enterprise-Architecture---Design-Governance_R-561213) |
 | Ankura | 🆕 Senior Director, Workday & Process Transformation | Sr. Director | 2 Locations |  | 3d | [Apply](https://ankura.wd5.myworkdayjobs.com/en-US/Ankura/job/New-York-NY/Senior-Director--Workday---Process-Transformation_R105180) |
 | FTI Consulting, Inc. | 🆕 Director, eDiscovery - Technology Consulting | Director | Washington, DC +7 |  | 3d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Washington-DC/Director--eDiscovery---Technology-Consulting_JR261711) |
 | AssetMark | 🆕 Director, Cloud and Infrastructure Engineering | Director | Charlotte, NC | $190K–$220K | 3d | [Apply](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Director--Cloud-and-Infrastructure-Engineering_Req-004091) |
@@ -1297,6 +1298,7 @@ _129 older roles in this section are in data/roles.json on the `data` branch._
 | Zettabyte | Director of DevOps | Director | Palo Alto, CA, USA | $240K–$310K | 2d | [Apply](https://www.indeed.com/viewjob?jk=3b421ebaae2f6c4c) |
 | Viasat | Senior Director - Engineering Platform & Services | Sr. Director | Carlsbad, CA, USA | $248K–$462K | 2d | [Apply](https://careers.viasat.com/jobs/8624?lang=en-us) [alt](http://careers.viasat.com/jobs/8624/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | Oshkosh Corporation | Sr Director - Infrastructure | Sr. Director | Oshkosh, Wisconsin, United States |  | 2d | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) [alt](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sr-Director---Infrastructure_R48629) |
+| Becton Dickinson | 🆕 Director, Digital Platforms-SAP Contract to Cash, eBusiness– Enterprise Architecture & Design Governance | Director | USA NJ - Franklin Lakes |  | 3d | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Director--Digital-Platforms-SAP-Contract-to-Cash--eBusiness--Enterprise-Architecture---Design-Governance_R-561213) |
 | AssetMark | 🆕 Director, Cloud and Infrastructure Engineering | Director | Charlotte, NC | $190K–$220K | 3d | [Apply](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Director--Cloud-and-Infrastructure-Engineering_Req-004091) |
 | The University of Akron | Director, Information Technology Infrastructure Services | Director | Akron, Ohio |  | 3d | [Apply](https://uakron.wd1.myworkdayjobs.com/en-US/UACareers/job/Akron-Ohio/Director--Information-Technology-Infrastructure-Services_JR103476-1) |
 | Optiv | Practice Director - Infrastructure and SOC - Optiv Consulting / Remote, USA | Director | Wilmington, Delaware |  | 3d | [Apply](https://optiv.wd5.myworkdayjobs.com/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) [alt](https://optiv.wd5.myworkdayjobs.com/en-US/Optiv_Careers/job/Wilmington-Delaware/Practice-Director---Infrastructure-and-SOC---Optiv-Consulting---Remote--USA_2026-14235) |
@@ -1527,9 +1529,8 @@ _129 older roles in this section are in data/roles.json on the `data` branch._
 | Cencora | Senior Director, Network Engineering | Sr. Director | Conshohocken, Pennsylvania, United States  |  | 24d | [Apply](https://careers.cencora.com/us/en/job/CHKCENUSR2612238EXTERNALENUS) |
 | Witness AI | Head of DevOps | Head | Bay Area | $257K–$325K | 24d | [Apply](https://jobs.ashbyhq.com/witnessai/e989b594-2840-4f45-80f8-36ec73ac6603) ⚡ |
 | Ally Financial | Vice President, Portfolio Management - Energy & Infrastructure | VP | New York, NY |  | 24d | [Apply](https://ally.wd1.myworkdayjobs.com/Ally/job/New-York-NY/Director--Portfolio-Management---Energy---Infrastructure_R2601181) |
-| ADP | Director, Enterprise Learning Platforms | Director | Norfolk, VA, USA | $123K–$304K | 24d | [Apply](https://click.appcast.io/t/9H8XXxI9ZKCwIQ0mNkd1fn3uV5x8EHq3lJcVEy8A-B0=) |
 
-_234 older roles in this section are in data/roles.json on the `data` branch._
+_235 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="architecture"></a>
 

@@ -86,7 +86,9 @@ Then, without asking anything else yet:
    - The builder checks pages, applicant-tracking-system text extraction, lone-word lines
      and leftover placeholders; fix and rebuild until it prints READY (a `[VERIFY]` that only
      the candidate can answer may stay until step 3 below).
-   - Render page 1 of each PDF and look at it before showing it.
+   - Review it fully per [tools/kit/REVIEW.md](tools/kit/REVIEW.md): open every page image,
+     read every word, check every fact, and write `base/review.md`. Only a passing kit goes to
+     the candidate.
 4. **One message back to the candidate** with: the base resume and letter PDFs, a 5-line
    summary of the career record, the `[VERIFY]` conflicts, the gaps that would most
    strengthen the resume (e.g. "team size and budget for your last role"), and the Step 4

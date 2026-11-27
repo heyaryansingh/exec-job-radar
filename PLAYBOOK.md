@@ -51,7 +51,8 @@ setup: ONBOARD.md).
 - nothing on the form matches the hold list below;
 - no account creation, password, CAPTCHA, emailed code or payment is involved;
 - the duplicate check passes;
-- the resume and letter for this role were rendered and checked this run.
+- the resume and letter for this role were tailored, built, viewed page by page and passed
+  `review.md` this run.
 
 **Hold for the candidate (fill, don't submit, mark `needs_review` with the reason):**
 arbitration agreements; background-check, credit-check or drug-test authorizations;
@@ -87,7 +88,9 @@ once per run, in Preflight:
 | `notes.md` | the candidate's feedback ("skip consulting firms", "submitted Chevron") |
 | `tracker.json` | every role ever considered, with status and proof; create `{"candidate": "<name>", "roles": {}, "runs": []}` if missing |
 | `dashboard.html` | rendered from the tracker every run |
-| `applications/<date>_<Company>_<Role>/` | materials and logs for each prepared role |
+| `base/` | the base executive resume and letter (`kit.json` + PDFs) every role is tailored from |
+| `applications/<date>_<Company>_<Role>/` | per role: `job.md`, `tailor.md`, `kit.json`, the PDFs and page images, `review.md`, `answers.md`, `contacts.md`, proof screenshots |
+| `applications/INDEX.md`, `applications.csv` | the ordered record of every role (by status, newest first), rebuilt every run |
 
 Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. Apply
 `notes.md` to every decision in this run.
@@ -184,22 +187,44 @@ In `applications/<YYYY-MM-DD>_<Company>_<Short-Role>/` write:
 
 - `job.md`: title, company, link, location, pay, date found, the full description (it may be
   taken down later).
-- `kit.json` (start from `base/kit.json`), then the PDFs:
-  `python tools/kit/build_latex.py kit.json <folder>` writes `<First>_<Last>_Resume.pdf` and
-  `<First>_<Last>_Cover_Letter.pdf` and checks them (pages, applicant-tracking text extraction,
-  lone-word lines, placeholders, em dashes, current-employment wording). Fix and rebuild until
-  it prints READY. If `pdflatex` is missing and can't be installed, fall back to
+- **Tailor** (every role gets its own resume and letter; never send the base kit as is):
+  1. `python tools/kit/tailor.py job.md "<folder>/master_resume.md" "<folder>/base/kit.json" > tailor.md`.
+     It maps the posting's top terms to the record lines that support them (or "no evidence"),
+     ranks the record's bullets for this role, and lists competencies to keep or add.
+  2. Copy `base/kit.json` to `kit.json` and rework it for this role, using only supported terms:
+     - **Headline**: the role's level and domain in the posting's words ("Technology Executive |
+       Cloud Infrastructure & SRE").
+     - **Summary**: 3-4 lines that answer the posting's top three needs with the record's results.
+     - **Core competencies**: 9-12, the posting's wording first (e.g. "Site Reliability
+       Engineering", not "Reliability"), every one supported by `tailor.md`.
+     - **Selected achievements**: the 3 most relevant first, rephrased in the posting's terms;
+       swap in other true results from the record when they fit this role better.
+     - **Experience**: reorder each role's bullets toward the posting, reword with its
+       vocabulary, add a relevant record bullet that the base kit left out, cut ones that don't
+       help this role. Older roles shrink to 1-2 lines when space is needed.
+     - **Board, projects, certifications, skills**: lead with what this posting values; drop
+       what's irrelevant.
+     - Facts never change: every number, title, date, employer and tool stays exactly as in
+       `master_resume.md`. Terms marked "no evidence" never appear.
+  3. **Letter**: open with this company's specific priority (one fact from research), prove
+     2-3 of the posting's needs with numbers from the record, close briefly; under 300 words,
+     in the candidate's voice (`candidate.yaml` → `writing`, voice samples in `notes.md`).
+- **Build**: `python tools/kit/build_latex.py kit.json <folder> --job job.md` writes
+  `<First>_<Last>_Resume.pdf`, `<First>_<Last>_Cover_Letter.pdf`, a PNG of every page and
+  `review.json`. It checks page count, text running past the margin, page fill and balance,
+  bullets ending in a near-empty line, applicant-tracking text extraction (name, headings,
+  achievements), placeholders, repeated words, em dashes, mixed date styles,
+  current-employment wording, and the posting's term coverage. Fix every FIX, consider every
+  NOTE, rebuild. If `pdflatex` is missing and can't be installed, fall back to
   `node tools/kit/build_docs.js kit.json <folder>` then
-  `soffice --headless --convert-to pdf --outdir <folder> <folder>/*.docx` (or upload the
-  `.docx` files, renamed `<First>_<Last>_Resume.docx` / `<First>_<Last>_Cover_Letter.docx`).
-  Resume: rewrite the headline and summary for this role, lead with the 3 most relevant
-  results, reorder bullets, mirror the posting's vocabulary where the record truly supports it,
-  2 pages max, page 1 strong enough to stand alone. Letter: under 300 words, why this company
-  and role, two or three specific proofs mapped to the role's top needs, a short close; in the
-  candidate's own voice (`candidate.yaml` → `writing` and the voice samples in `notes.md`).
-  Name the PDFs `<First>_<Last>_Resume.pdf` and `<First>_<Last>_Cover_Letter.pdf`.
-  Render page 1 of each and look at it. Then search both texts for "currently", "today" and
-  "I am"; fix anything that breaks rule 5.
+  `soffice --headless --convert-to pdf --outdir <folder> <folder>/*.docx`.
+- **Review, with your own eyes** ([tools/kit/REVIEW.md](tools/kit/REVIEW.md)): open **every
+  page image** of the final resume and letter (and the PDF if anything looks off) and check
+  overflow, fill, evenness, spacing and typography; read every word for errors and
+  professionalism; check keyword and experience fit; check every fact against the record.
+  Write `review.md` and set `review.json` → `visual_check: "pass"`. Rebuild and look again
+  after every change. **No kit is uploaded without a passing `review.md` from this run.** After
+  3 failed rebuilds, hold the role as `needs_review` with the reason.
 - `answers.md`: every form question with its answer and source tag: `[candidate.yaml]`,
   `[resume]`, `[drafted]`, or `[UNKNOWN]`. When the queue entry has `questions`, answer exactly
   those (match the option text). Any `[UNKNOWN]` on a required field blocks submission.
@@ -252,7 +277,11 @@ Statuses: `prepared`, `filled` (waiting for the candidate's click), `submitted`,
 `closed`, `interviewing`, `rejected`, `offer`.
 
 Render: `python tools/render_dashboard.py tracker.json dashboard.html` (on a copy of the
-tracker in the workspace), then save it to the Job Search folder. If the Artifact tool is
+tracker in the workspace), then save it to the Job Search folder. Then rebuild the ordered
+record: `python tools/app_index.py "<folder>"` (writes `applications/INDEX.md` and
+`applications/applications.csv`: every role by status, newest first, with links to its
+posting, resume, letter, review and proof). Save each submission's confirmation screenshot in
+the role's folder as `proof.png`. If the Artifact tool is
 available, also publish it as a private artifact, reusing the same artifact every run
 (store its URL in `tracker.json` → `dashboard_url`), so the candidate can open it on a phone.
 

@@ -75,6 +75,13 @@ Better:
   LibreOffice is missing instead of failing.
 - **Earned autonomy**: an opt-in ramp from "fill only" to submitting simple forms after a clean
   first week, and back down automatically if anything goes wrong.
+- **Every resume tailored and inspected**: each role gets its own headline, summary,
+  competencies, achievement order and bullet wording, built from a term-by-term map of the
+  posting to the candidate's record (`tools/kit/tailor.py`). Each kit is checked by machine
+  (overflow, page fill, uneven bullets, ATS text, keywords, placeholders) and then looked at
+  page by page before upload (`tools/kit/REVIEW.md`), with a `review.md` saved per role.
+- **An ordered record**: `applications/INDEX.md` and `applications.csv` list every role by
+  status, newest first, with links to the posting, resume, letter, review and proof.
 - **Accounts to unlock**: the dashboard ranks which employer accounts would open up the most
   strong roles, so the candidate's few minutes of sign-ups go where they count.
 

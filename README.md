@@ -28,26 +28,26 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,389 open roles** at **1,993 companies** · **34 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 02:38 PM ET
+**5,390 open roles** at **1,993 companies** · **33 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 03:37 PM ET
 
-By level: Director 2882 · VP 923 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
+By level: Director 2882 · VP 924 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (34)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
 - [🤠 Houston area (189)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
-- [🧠 Data & AI (1324)](#data-ai)
+- [🧠 Data & AI (1325)](#data-ai)
 - [🚦 Reliability & Operations (379)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (484)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (659)](#transformation-delivery)
 - [🛠️ Engineering & Software (1433)](#engineering-software)
 - [📌 Other Senior Roles (374)](#other-senior-roles)
-- [🔒 Recently closed (1063)](#recently-closed)
+- [🔒 Recently closed (1058)](#recently-closed)
 - Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -56,6 +56,7 @@ By level: Director 2882 · VP 923 · Sr. Director 707 · Head 347 · C-level 193
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Risk Data Management and Reporting - Vice President | VP | Gurgaon, HR, IN |  | 0d | [Apply](https://jobs.citi.com/job/gurgaon/risk-data-management-and-reporting-vice-president/287/103869656640) |
 | JPMorgan Chase ⭐ | 🆕 Home Lending Data Owners Product Manager Vice President | VP | Seattle, WA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810684) |
 | Experian | 🆕 Financial Services & Data, Operational Risk Director | Director | United States, UNITED STATES, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Experian/744000164086849-financial-services-data-operational-risk-director) ⚡ |
 | Global Payments | 🆕 Director, Software Engineering | Director | ALPHARETTA, GEORGIA |  | 0d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Development-Manager-Senior_R0076075-1) |
@@ -78,8 +79,6 @@ By level: Director 2882 · VP 923 · Sr. Director 707 · Head 347 · C-level 193
 | Intercom | 🆕 Senior Director, Forward Deployed Engineering | Sr. Director | Chicago, Illinois +2 | $350K–$390K | 1d | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8419409) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🆕 🔁 Java Full-stack Technical Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/java-full-stack-technical-lead-vice-president/287/103826930304) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Quality Software Engineer Lead - Vice President | VP | Pune, MH, IN |  | 1d | [Apply](https://jobs.citi.com/job/pune/quality-software-engineer-lead-vice-president/287/103826932656) |
-| BlackRock ⭐ | 🆕 Data Engineer, Vice President | VP | 2 Locations |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Vice-President_R267165) |
-| State Street ⭐ | 🆕 Digital Product Development Lead - Custody & Tokenization, Vice President | VP | 5 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Luxembourg/Digital-Product-Development-Lead---Custody---Tokenization--Vice-President_R-801572-1) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 2d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
@@ -762,6 +761,7 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Citi (jobs.citi.com) ⭐ | 🆕 Risk Data Management and Reporting - Vice President | VP | Gurgaon, HR, IN |  | 0d | [Apply](https://jobs.citi.com/job/gurgaon/risk-data-management-and-reporting-vice-president/287/103869656640) |
 | JPMorgan Chase ⭐ | 🆕 Home Lending Data Owners Product Manager Vice President | VP | Seattle, WA, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810684) |
 | Experian | 🆕 Financial Services & Data, Operational Risk Director | Director | United States, UNITED STATES, us |  | 0d | [Apply](https://jobs.smartrecruiters.com/Experian/744000164086849-financial-services-data-operational-risk-director) ⚡ |
 | Cardinal Health ⭐ | 🆕 Director, AI & Emerging Technology Risk | Director | 2 Locations |  | 0d | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/en-US/EXT/job/OH-Ohio-FIELD/Director--AI---Emerging-Technology-Risk_20191134) |
@@ -769,7 +769,7 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | JPMorgan Chase ⭐ | 🆕 AWS Data Analytics Services Product Manager Vice President | VP | Plano, TX, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811512) |
 | State Street ⭐ | 🆕 Head of Data Products Investor Services - Managing Director | MD | 3 Locations |  | 0d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Head-of-Data-Products-Investor-Services---Managing-Director_R-801614-1) |
 | FTI Consulting, Inc. | 🆕 Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting | Director | 2 Locations |  | 0d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) |
-| BlackRock ⭐ | 🆕 Data Engineer, Vice President | VP | 2 Locations |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Vice-President_R267165) |
+| BlackRock ⭐ | Data Engineer, Vice President | VP | 2 Locations |  | 1d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Vice-President_R267165) |
 | Lambda | VP, Engineering - Data Center Design | VP | Remote, USA | $400K–$500K | 1d | [Apply](https://jobs.ashbyhq.com/Lambda/8d9e41af-f726-43dc-adec-8b29f8074202) ⚡ |
 | Lambda | VP, Data Center Power & Site Development | VP | Remote, USA | $400K–$500K | 1d | [Apply](https://jobs.ashbyhq.com/Lambda/a55429d0-baeb-4ce2-af9f-22cc6bd52318) ⚡ |
 | The Urban Institute | Senior Director, AI Studio | Sr. Director | Washington, DC, USA | $200K–$250K | 1d | [Apply](https://urban.wd115.myworkdayjobs.com/en-US/Urban-Careers/job/The-Urban-Institute-DC/Senior-Director--AI-Studio_R-801661) |
@@ -1011,9 +1011,8 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | Optum | Senior Director, UX Product Design - AI & Product Office - Remote or Boston, MA - Remote | Sr. Director | Boston, MA, USA | $159K–$273K | 9d | [Apply](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2402461&lang=en) |
 | Palmetto | Director, Data & AI | Director | Remote, USA |  | 9d | [Apply](https://job-boards.greenhouse.io/palmettocleantech/jobs/5486983008) |
 | Citi (jobs.citi.com) ⭐ | Data Engineer - Vice President | VP | Tampa, FL, US |  | 9d | [Apply](https://jobs.citi.com/job/tampa/data-engineer-vice-president/287/103490831424) |
-| AffirmedRx, PBC | Director, AI Enablement | Director | Remote |  | 9d | [Apply](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5486985008) ⚡ |
 
-_1074 older roles in this section are in data/roles.json on the `data` branch._
+_1075 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1708,7 +1707,7 @@ _234 older roles in this section are in data/roles.json on the `data` branch._
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Citi (jobs.citi.com) ⭐ | 🆕 Program Management Lead, Vice President | VP | Mumbai, MH, IN +1 |  | 0d | [Apply](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757904) [alt](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757888) |
-| State Street ⭐ | 🆕 Digital Product Development Lead - Custody & Tokenization, Vice President | VP | 5 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Luxembourg/Digital-Product-Development-Lead---Custody---Tokenization--Vice-President_R-801572-1) |
+| State Street ⭐ | Digital Product Development Lead - Custody & Tokenization, Vice President | VP | 5 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Luxembourg/Digital-Product-Development-Lead---Custody---Tokenization--Vice-President_R-801572-1) |
 | Oracle | Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |
 | Fiserv | Sr. Director, Program Management | Sr. Director | Columbia, South Carolina, United States of |  | 2d | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10407498EXTERNALENUS) |
 | Caesars Entertainment | Sr. Manager/Director of Product Transformation | Director | Las Vegas, NV, United States |  | 2d | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1&/job/92188) |

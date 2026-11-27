@@ -28,7 +28,7 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,395 open roles** at **1,993 companies** · **33 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 05:15 PM ET
+**5,395 open roles** at **1,993 companies** · **31 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 05:38 PM ET
 
 By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193 · EVP/SVP 155 · ED 124 · MD 57
 
@@ -36,7 +36,7 @@ By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193
 
 ## Contents
 
-- [🆕 New in the last 24 hours (33)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (31)](#new-in-the-last-24-hours)
 - [🤠 Houston area (189)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
@@ -77,7 +77,6 @@ By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193
 | Levi Strauss | 🆕 Director, Security Operations | Director |  |  | 1d | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |
 | LevelBlue | 🆕 Cyber Technical Director, Testing | Director | USA | $190K–$250K | 1d | [Apply](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3959) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/engineering-group-manager-infrastructure-and-virtualization-svp/287/103833858176) |
-| Citi ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Engineering-Group-Manager--Infrastructure---Virtualization----SVP_261007724) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 2d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 2d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 2d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
@@ -88,7 +87,6 @@ By level: Director 2883 · VP 928 · Sr. Director 707 · Head 347 · C-level 193
 | Global Payments | 🆕 Director, Technology Solutions Vendor Management Office | Director | ALPHARETTA, GEORGIA +3 | $120K–$391K | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Director--Procurement---Technology-Solutions-VMO_R0076945-1) |
 | ZENO Group | 🆕 Senior Vice President, Head of Digital Zeno West | EVP/SVP | Redwood City, California, USA +1 | $150K–$225K | 3d | [Apply](https://djeholdings.wd5.myworkdayjobs.com/ZenoCareers/job/Redwood-City-California-USA/Senior-Vice-President--Head-of-Digital-Zeno-West_JR103939-1) |
 | AEP | 🆕 Director Demand Planning - Enterprise IT | Director | Columbus, OH |  | 3d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) |
-| CNA Insurance | 🆕 Actuarial Director, Affinity & Cyber Pricing (P&C) | Director | 5 Locations |  | 3d | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) |
 
 <a name="houston-area"></a>
 
@@ -525,7 +523,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | MDVIP LLC | Director, Security | Director | USA · Remote |  | 2d | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691092/MDVIP-LLC/Director-Security?source=Indeed_Feed) |
 | Slalom Consulting | Director, Cloud Security (US) | Director | Atlanta, GA, USA | $195K–$290K | 2d | [Apply](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail?jobId=4131) |
 | Diverge Health | Senior Director of Security | Sr. Director | Chicago, IL, USA · Remote | $220K–$240K | 2d | [Apply](https://grnh.se/os9f29tn7us) |
-| CNA Insurance | 🆕 Actuarial Director, Affinity & Cyber Pricing (P&C) | Director | 5 Locations |  | 3d | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) |
+| CNA Insurance | Actuarial Director, Affinity & Cyber Pricing (P&C) | Director | 5 Locations |  | 3d | [Apply](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) |
 | Epic Games | Cyber Defense Operations Director | Director | Cary,North Carolina,United States |  | 3d | [Apply](https://epicgames.com/careers/jobs/6268834004?gh_jid=6268834004) ⚡ |
 | NW Natural | Sr. Director - Safety, Security & Resilience | Sr. Director | Portland, OR, USA | $189K–$282K | 3d | [Apply](https://careers.nwnatural.com/nwnaturalgas/job/Portland-Sr_-Director-Safety%2C-Security-&-Resilience-OR-97086/1453638300/) |
 | Sunseeker Resorts | Director of Engineering and Security | Director | Punta Gorda, FL, USA |  | 3d | [Apply](https://benchmark.wd1.myworkdayjobs.com/PGH_Careers/job/Sunseeker-Resort/Director-of-Engineering-and-Security_R0069180) |
@@ -1281,7 +1279,7 @@ _129 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Product – Client Onboarding and Documents Platform | ED | Jersey City, NJ, United States |  | 0d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806594) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving, TX, US |  | 1d | [Apply](https://jobs.citi.com/job/irving/engineering-group-manager-infrastructure-and-virtualization-svp/287/103833858176) |
-| Citi ⭐ | 🆕 Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Engineering-Group-Manager--Infrastructure---Virtualization----SVP_261007724) |
+| Citi ⭐ | Engineering Group Manager (Infrastructure & Virtualization) - SVP | EVP/SVP | Irving Texas United States |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Engineering-Group-Manager--Infrastructure---Virtualization----SVP_261007724) |
 | Paramount | Senior Director, Oracle EPM Cloud | Sr. Director | New York, NY, USA | $177K–$265K | 1d | [Apply](https://careers.paramount.com/job/New-York-Senior-Director%2C-Oracle-EPM-Cloud-NY-10036/1453779600/) |
 | Deutsche Börse | Vice President / Head of Cloud Financial Management and Optimization (f/m/d) | VP | Chicago, IL, USA |  | 1d | [Apply](https://deutsche-boerse.my-job-shop.com/api/offer/v1/offer/offer-redirect?uuid=87bbbc7f-83d0-434a-b6d7-7c189c6c36c9&jobshopVanity=deutsche-boerse-en&showApplicationForm=false) |
 | Ford Motor Company | TPP Cloud Director TPM | Director | Dearborn, MI, USA |  | 1d | [Apply](https://www.careers.ford.com/en/job/dearborn/tpp-cloud-director-tpm/48560/103787564736) |

@@ -28,7 +28,7 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,368 open roles** at **1,990 companies** · **34 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 02:05 AM ET
+**5,368 open roles** at **1,990 companies** · **34 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 03:06 AM ET
 
 By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 123 · MD 56
 

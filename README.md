@@ -28,9 +28,9 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,368 open roles** at **1,990 companies** · **34 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 03:06 AM ET
+**5,369 open roles** at **1,990 companies** · **34 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 03:56 AM ET
 
-By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 123 · MD 56
+By level: Director 2872 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 123 · MD 56
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -40,14 +40,14 @@ By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193
 - [🤠 Houston area (187)](#houston-area)
 - [👑 Executive Technology Leadership (201)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (374)](#security-risk-technology)
-- [🧠 Data & AI (1314)](#data-ai)
+- [🧠 Data & AI (1315)](#data-ai)
 - [🚦 Reliability & Operations (379)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (482)](#cloud-infrastructure)
 - [🏛️ Architecture (161)](#architecture)
 - [🔄 Transformation & Delivery (655)](#transformation-delivery)
 - [🛠️ Engineering & Software (1428)](#engineering-software)
 - [📌 Other Senior Roles (374)](#other-senior-roles)
-- [🔒 Recently closed (1068)](#recently-closed)
+- [🔒 Recently closed (1067)](#recently-closed)
 - Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -848,6 +848,7 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | UnitedHealth Group ⭐ | Sr Director, UX Product Design-AI and Product Office - Remote in Boston, Houston, Indianapolis or Southern California | Sr. Director | Boston, Massachusetts, United States +4 · Remote | $159K–$273K | 3d | [Apply](https://careers.unitedhealthgroup.com/job/boston/sr-director-ux-product-design-ai-and-product-office-remote-in-boston-houston-indianapolis-or-southe/34088/103711347232) |
 | Information Technology Senior Management Forum | Director, Operations Data Strategy | Director | Fort Worth, TX, USA |  | 3d | [Apply](https://jobs.itsmfleaders.org/job/ccrg9g/director-operations-data-strategy/fort-worth/-) |
 | JPMorgan Chase ⭐ | 🔁 Data Owner -  Wholesale Credit Risk Product - Vice President | VP | Plano, TX, United States |  | 3d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811555) |
+| GNW | Director, Data Analysis | Director | 2 Locations |  | 4d | [Apply](https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond-Virginia/Director--Data-Analysis_REQ-260440) |
 | Gartner | VP, Software Engineering (AI Platform Engineering) | VP | 2 Locations |  | 4d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/VP--Software-Engineering--AI-Platform-Engineering-_115262-1) |
 | Broadridge | Vice President, AI Business Operations Transformation (Hybrid) | VP | Edgewood, NY | $200K–$250K | 4d | [Apply](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Edgewood-NY/Vice-President--AI-Business-Operations-Transformation--Hybrid-_JR1087747-1) |
 | CareOregon | Director, Claims Systems and Electronic Data Interchange | Director | Portland Oregon |  | 4d | [Apply](https://careoregon.wd12.myworkdayjobs.com/CO/job/Portland-Oregon/Director--Claims-Systems-and-Electronic-Data-Interchange_JR101226) |
@@ -1009,9 +1010,8 @@ _124 older roles in this section are in data/roles.json on the `data` branch._
 | Palmetto Clean Technology | Director, Data & AI | Director | Remote - United States |  | 9d | [Apply](https://job-boards.greenhouse.io/palmettocleantech/jobs/5486983008) ⚡ |
 | Fidelity ⭐ | Director, Data Analytics and Insights (req 2138375) | Director | 200 Seaport Blvd, Boston MA |  | 9d | [Apply](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/200-Seaport-Blvd-Boston-MA/Director--Data-Analytics-and-Insights_2138375-1) |
 | thyme care | VP, Data | VP | Remote | $251K–$295K | 9d | [Apply](https://jobs.ashbyhq.com/thyme-care/2a4885ab-aa31-4922-99ae-2ac5b85dc059) ⚡ |
-| KDC/ONE | Director - Artificial Intelligence | Director | Saddle Brook, NJ, USA |  | 9d | [Apply](https://jobs.dayforcehcm.com/en-US/kdcone/CANDIDATEPORTAL/jobs/60396) |
 
-_1064 older roles in this section are in data/roles.json on the `data` branch._
+_1065 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

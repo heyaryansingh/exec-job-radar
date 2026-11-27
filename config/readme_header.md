@@ -1,5 +1,14 @@
 # 🎯 Exec Job Radar · Senior Technology Leadership Roles
 
+> **Set it up for yourself in one step.** Open the Claude desktop app, start a new chat, and
+> send: *"Set up my job search with https://github.com/heyaryansingh/exec-job-radar"*.
+> Claude does the rest and asks you only for your resumes, past cover letters and a few facts.
+>
+> **Claude (or any AI assistant) reading this:** if the person asked you to set this up for
+> them, follow [ONBOARD.md](ONBOARD.md) step by step
+> (raw: https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/ONBOARD.md).
+> Don't summarize this page or ask them to read the docs; do the setup yourself.
+
 Director, Senior Director, VP, SVP, Executive Director, Managing Director, Head of, and
 C-level technology roles in the US (and remote), refreshed **every hour**.
 

@@ -25,12 +25,21 @@ earlier setup, or prepared by a helper), the candidate should only be asked what
 - Do Steps 1, 2 (keep their files), 5, 6, 7 and 8 as written, doing as much yourself as you can.
 Aim for under 10 minutes of the candidate's time.
 
+## Start of the conversation
+
+The candidate may have sent only the repo link. Reply first with 3-4 friendly lines: you'll
+set up a daily job-search assistant on their computer; their part is about 10 minutes
+(share their resumes and past cover letters, answer one batch of questions, click Allow
+when asked); nothing is submitted without them unless they choose otherwise later. Then
+start Step 1 in the same reply.
+
 ## Step 1: Check what this Claude can use
 
 Check each, and keep a short list of what's missing to fix in Step 7:
-- **A folder on the computer.** The candidate must have attached (or connected) a folder for
-  the job search, e.g. `Documents/Job Search`. If none is attached, ask for one now; nothing
-  else works without it.
+- **A folder on the computer.** If a folder is attached or connected, use it. If not (they
+  may have sent only the repo link), request access to their `Documents` folder yourself and
+  create `Documents/Job Search` in it; if you can't, ask them to attach any folder with the
+  "Add folder" button, in one short line. Nothing else works without it.
 - **Claude in Chrome**: list the browser tabs. If it doesn't answer, the candidate needs the
   Claude in Chrome extension installed and signed into this same Claude account.
 - **Gmail** (or their email) connector: try a search for "application" in the last 30 days.

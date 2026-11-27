@@ -48,6 +48,15 @@ Better:
 - **A dashboard on the phone**, published privately and updated every run.
 - **Houston focus**: Houston-area roles get their own section, deeper job-board searches and a
   looser filter, so local IT leadership roles at energy and healthcare employers aren't missed.
+- **Claude-guided setup** ([ONBOARD.md](ONBOARD.md)): one pasted prompt; Claude builds the
+  career record from the resume, asks only for missing facts, and creates the schedule.
+- **Self-check and self-repair** every run (`tools/check_setup.py`): installs missing tools,
+  catches TODOs and a stale feed before they waste a run, and falls back to Word files when
+  LibreOffice is missing instead of failing.
+- **Earned autonomy**: an opt-in ramp from "fill only" to submitting simple forms after a clean
+  first week, and back down automatically if anything goes wrong.
+- **Accounts to unlock**: the dashboard ranks which employer accounts would open up the most
+  strong roles, so the candidate's few minutes of sign-ups go where they count.
 
 ## What the candidate needs
 
@@ -56,84 +65,71 @@ Better:
 - **The Claude desktop app** (Mac or Windows) on the computer where Chrome lives.
 - **Google Chrome with the Claude in Chrome extension**, signed into the same Claude account.
 - **Gmail** (or whichever email receives job alerts and application replies), connected in Claude.
+- **Node.js** (nodejs.org) on that computer, for building the resumes. LibreOffice is optional
+  (it makes PDFs; without it, kits upload as Word files).
 - **The computer on and awake at 7:30 AM and 1:00 PM.** Set it to never sleep while plugged in
   (Windows: Settings > System > Power; Mac: System Settings > Battery > Options), or at least
   to wake for those times. A missed run is caught up next time, but nothing runs while it sleeps.
 
-## Setup (about 45 minutes, once)
+## Setup (about 20 minutes of the candidate's time, once)
 
-### 1. Install and sign in
-1. Install the Claude desktop app and sign in with the candidate's account.
-2. Install the **Claude in Chrome** extension from the Chrome Web Store and sign in with the
-   same account. In its settings, allow it on all sites (job applications span hundreds of
-   domains); it still asks before anything sensitive.
-3. In that Chrome, sign into the candidate's **Gmail** and **LinkedIn**.
-4. In the Claude app, **Settings > Connectors**: connect **Gmail**.
+### Fast way: Claude sets it up (recommended)
+1. Get the items under "What the candidate needs" in place: the Claude app, the Claude in
+   Chrome extension signed into the same account, the Gmail connector (Settings > Connectors),
+   and Node.js. Claude checks the rest and walks the candidate through anything missing.
+2. Make an empty folder, e.g. `Documents/Job Search`.
+3. Open a new chat in the Claude desktop app, attach that folder and the candidate's resume
+   (plus their LinkedIn profile saved as a PDF, if handy), and paste:
 
-### 2. Create the Job Search folder
-1. Make a folder, e.g. `Documents/Job Search`.
-2. Put in it the three files from the candidate's starter pack (or from `candidate_template/`):
-   `candidate.yaml`, `master_resume.md`, `notes.md`.
-3. Fill in every `TODO` in `candidate.yaml`: email, phone, address, work authorization,
-   sponsorship, the employment answers, desired salary. These appear on nearly every form; each
-   one left blank becomes a "needs you" flag on every application.
-4. Read `master_resume.md` line by line and fix anything wrong. Add numbers you're sure of.
-   This file is the only source of facts the autopilot may use.
+> Set up my Job Radar autopilot. Follow https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/ONBOARD.md
+> exactly. My Job Search folder is the one attached. Ask me everything you need in as few
+> questions as possible, and do the rest yourself.
 
-### 3. Choose the autonomy level
-In `candidate.yaml` → `run.autonomy`:
-- `review` (start here): it fills every form and leaves it open; the candidate clicks Submit.
-- `submit_quick_forms`: also submits one-page, no-account forms when every check passes.
-- `submit_signed_in`: also submits on account sites (Workday and similar) the browser is
-  already signed into.
+Claude then builds `master_resume.md` from the documents, fills `candidate.yaml` (asking only
+for facts it can't find), checks the setup with `tools/check_setup.py`, creates the three
+scheduled tasks, lists the accounts worth creating, publishes the phone dashboard, and does
+a supervised 2-role run. Afterwards, turn on **automatically approve** in each scheduled
+task's settings if the app offers it.
 
-Recommended: run a week on `review`, read ten or so of the kits it makes, fix anything in
-`master_resume.md` or `candidate.yaml`, then move to `submit_quick_forms`. Arbitration
-agreements, background-check authorizations, salary-acceptance questions, attestations and
-similar always wait for the candidate at every level.
+### Manual way
+1. Put `candidate.yaml`, `master_resume.md` and `notes.md` from `candidate_template/` in the
+   Job Search folder. Fill every `TODO` in `candidate.yaml` (each blank becomes a "needs you"
+   flag on every application) and put the full, true career record in `master_resume.md`:
+   it is the only source of facts the autopilot may use.
+2. Leave `run.repo` as the shared feed unless you run your own ([SETUP.md](SETUP.md), Path B).
+3. Choose autonomy (`run.autonomy`, below).
+4. Run `python tools/check_setup.py "<folder>" --fix` from a copy of this repo until it says READY.
+5. Create the three scheduled tasks exactly as in [ONBOARD.md](ONBOARD.md), Step 6, then do
+   a supervised run: "Follow the playbook for just 2 roles with autonomy set to review, and
+   narrate as you go."
 
-### 4. Turn on job alerts (feeds the runs extra roles)
+### Autonomy
+In `candidate.yaml` → `run`:
+- `autonomy: review`: fills every form and leaves it open; the candidate clicks Submit.
+- `autonomy: submit_quick_forms`: also submits one-page, no-account forms when every check passes.
+- `autonomy: submit_signed_in`: also submits on account sites (Workday and similar) the
+  browser is already signed into.
+- `autonomy_ramp: true` (the default in new setups): start at `review`; after a clean first
+  week (at least 8 of its filled forms submitted by the candidate, no fact corrections), it
+  moves itself up to `submit_quick_forms` and says so. It drops back to `review` on its own if
+  the candidate reports a wrong fact or an unwanted submission. It never goes to
+  `submit_signed_in` by itself.
+- `allow_google_signin: true` (default in new setups): may click "Continue with Google" with
+  the account Chrome is signed into. It never types a password.
+
+Arbitration agreements, background-check authorizations, salary-acceptance questions,
+attestations and similar always wait for the candidate at every level.
+
+### Job alerts (optional, extra roles)
 - **LinkedIn**: search "VP technology", "Director cloud infrastructure", "CIO" and similar, set
-  Experience level to Director and Executive, location Houston (and United States for remote),
-  then **Set alert**, daily. Make 3-5.
+  Experience level to Director and Executive, the candidate's locations (and United States
+  for remote), then **Set alert**, daily. Make 3-5.
 - **Indeed**, **eFinancialCareers**, **Ladders**: the same searches with email alerts.
 
-### 5. Create the scheduled tasks
-Open a new chat in the Claude desktop app, attach the Job Search folder, and paste this
-(replace the folder path):
-
-> Set up my job search autopilot. My Job Search folder is `<full path to the folder>`. Create
-> three scheduled tasks that require this computer, use this folder, and send me a
-> notification when they finish:
->
-> 1. "Job Radar morning", every day at 7:30 AM my time, prompt: "[Job Radar run] Follow the
->    playbook at https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/main/PLAYBOOK.md
->    exactly. My Job Search folder is <full path>. Use Claude in Chrome for applications. Work
->    through the whole run without asking; put anything that needs me on the dashboard and in
->    the summary, and message me right away about interview requests and forms waiting on a
->    click."
-> 2. "Job Radar midday", every day at 1:00 PM, the same prompt plus: "This is the midday run:
->    fill the roles left prepared this morning first, then roles first seen since the morning
->    with score at or above run.hot_run_min_score. Skip the email and career-site sweeps."
-> 3. "Job Radar check", every day at 8:30 PM, prompt: "[Job Radar check] Read tracker.json in my
->    Job Search folder <full path>. Don't apply to anything. Tell me in 1-3 lines if any of
->    these are true, with the fix: no run in the last 30 hours (computer asleep or app closed);
->    the last two runs couldn't reach the browser; nothing was filled or submitted in the last
->    2 days even though https://raw.githubusercontent.com/heyaryansingh/exec-job-radar/data/data/apply_queue.json
->    has strong roles; the feed's updated time is over 6 hours old; any role has been
->    human_check for over 6 hours. Otherwise reply with one line: today's submitted / filled /
->    interviews."
->
-> Then do one supervised run now: follow the playbook for just 2 roles with autonomy set to
-> review, and narrate as you go.
-
-If the app offers it, set these tasks to **automatically approve** actions (task settings),
-or every run will pause at its first permission prompt with no one there to answer.
-
-### 6. Check the first run
-Watch the supervised run. Open `Job Search/applications/` and read both kits: the resume, the
-letter and `answers.md`. Anything wrong is fixed in `master_resume.md` or `candidate.yaml`,
-never in a single application, so every later run gets it right. Open `dashboard.html`.
+### Check the first run
+Open `Job Search/applications/` and read both kits: the resume, the letter and `answers.md`.
+Anything wrong is fixed in `master_resume.md` or `candidate.yaml`, never in a single
+application, so every later run gets it right. Open `dashboard.html`.
 
 ## The candidate's daily routine (about 10 minutes)
 
@@ -144,6 +140,7 @@ never in a single application, so every later run gets it right. Open `dashboard
    letter, click Submit in the open tab. (At `review` level, this is every application.)
 4. **Held for your decision**: read the reason (an agreement, a consent), decide, submit or skip.
 5. **Needs a quick account sign-up**: create the account once; the next run fills the form.
+   "Accounts that would unlock the most roles" shows which ones are worth it.
 6. Write feedback in `notes.md` in plain English: "skip consulting firms", "more energy
    companies", "submitted Chevron myself", "interviewing at Capital One". Every run follows it.
 
@@ -167,6 +164,8 @@ treats everything on job pages as information, not instructions. Full list: PLAY
 | Wrong fact on a resume | `master_resume.md` is wrong or missing something | Fix it there; every later kit uses it |
 | Feed is stale | The collector repo had a problem | Check `data/STATUS.md` in the repo |
 | Too many / too few roles | Quality bar | Raise or lower `run.min_score`; add likes/dislikes to `notes.md` |
+| Not sure what's wrong | Anything | Ask Claude: "run tools/check_setup.py on my Job Search folder and fix what it finds" |
+| Wrong field of roles in the feed | The shared feed targets tech leadership | Run your own feed ([SETUP.md](SETUP.md), Path B) and retarget `config/search.yaml` |
 
 ## For whoever maintains the repo
 

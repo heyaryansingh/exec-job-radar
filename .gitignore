@@ -11,3 +11,7 @@ data/health.json
 data/board_names.json
 data/auto_boards.json
 data/.restored
+
+# installed by tools/check_setup.py --fix
+tools/kit/node_modules/
+tools/kit/package-lock.json

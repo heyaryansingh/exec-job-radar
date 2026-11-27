@@ -56,14 +56,18 @@ writing:
   avoid: [em dashes, buzzwords, "passionate", "synergy"]
 
 run:
-  repo: OWNER/exec-job-radar          # GitHub repo running the hourly collector
+  repo: heyaryansingh/exec-job-radar  # the hourly feed. Keep this shared one unless you run your own
+                                      # collector (SETUP.md Path B); then put YOUR-GITHUB-NAME/exec-job-radar
   # How much a run may do on its own (see PLAYBOOK.md "Autonomy levels"):
   #   review              fill every form, never submit (start here for the first week)
   #   submit_quick_forms  also submit one-page forms with no account when every check passes
   #   submit_signed_in    also submit on account sites the browser is already signed into
   autonomy: review
+  autonomy_ramp: true                 # true = after a clean first week, move up to submit_quick_forms by
+                                      # itself (PLAYBOOK.md "Autonomy ramp"); false = only you change autonomy
   auto_submit_min_score: 80           # only roles at least this strong are auto-submitted
-  allow_google_signin: false          # true = may use "Continue with Google" with the signed-in account
+  allow_google_signin: true           # may use "Continue with Google" with the account Chrome is signed into
+                                      # (never types a password); set false to stop it
   daily_target: 10                    # forms filled per run
   prepare_target: 20                  # tailored resume + cover letter sets per run
   min_score: 72

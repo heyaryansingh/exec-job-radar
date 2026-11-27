@@ -68,6 +68,23 @@ def esc(x) -> str:
     return html.escape(str(x or ""))
 
 
+BASE = Path(".")      # folder the dashboard is saved in; set in main()
+
+
+def doc_link(folder: str, kind: str) -> str:
+    """Relative link to a kit file. Prefers <First>_<Last>_Resume.pdf style names (PLAYBOOK
+    Step 5), then resume.pdf / resume.docx, so links work whichever way the kit was saved."""
+    d = BASE / folder
+    pats = {"resume": ["*Resume*.pdf", "resume.pdf", "*Resume*.docx", "resume.docx"],
+            "letter": ["*Cover_Letter*.pdf", "cover_letter.pdf", "*Cover_Letter*.docx", "cover_letter.docx"]}[kind]
+    if d.is_dir():
+        for pat in pats:
+            hits = sorted(d.glob(pat))
+            if hits:
+                return f"{folder}/{hits[0].name}"
+    return f"{folder}/{pats[1]}"
+
+
 def card(r: dict) -> str:
     pay = r.get("pay_text") or (f"up to ${r['pay_max']:,}" if r.get("pay_max") else "pay not posted")
     chips = "".join(f'<span class="chip">{esc(c)}</span>' for c in
@@ -78,8 +95,9 @@ def card(r: dict) -> str:
     if r.get("url") and r.get("apply_url") and r["url"] != r["apply_url"]:
         links.append(f'<a href="{esc(r["url"])}" target="_blank">Job posting</a>')
     if folder:
-        for label, fn in (("Resume", "resume.pdf"), ("Cover letter", "cover_letter.pdf"), ("Answers", "answers.md")):
-            links.append(f'<a href="{esc(folder)}/{fn}">{label}</a>')
+        for label, href in (("Resume", doc_link(folder, "resume")), ("Cover letter", doc_link(folder, "letter")),
+                            ("Answers", f"{folder}/answers.md")):
+            links.append(f'<a href="{esc(href)}">{label}</a>')
     proof = (r.get("proof") or {})
     proof_html = ""
     if proof.get("page") or proof.get("email"):
@@ -129,6 +147,18 @@ def render(tracker: dict) -> str:
            f"<h1>{esc(tracker.get('candidate', 'Job search'))}</h1>",
            f"<p class=sub>Last run {esc(last.get('at', 'not yet'))}. {esc(last.get('summary', ''))}</p>",
            '<div class="stats">' + "".join(f'<div class="stat"><b>{n}</b><span>{esc(l)}</span></div>' for n, l in stats) + "</div>"]
+    changes = tracker.get("autonomy_changes") or []
+    if changes:
+        c = changes[-1]
+        out.append(f'<p class=hint>Autonomy: <b>{esc(c.get("to"))}</b> since {esc(str(c.get("at", ""))[:10])} '
+                   f'({esc(c.get("why"))}). Change it in candidate.yaml, run.autonomy.</p>')
+    unlock = tracker.get("unlock") or []
+    if unlock:
+        rows = "".join(f'<div class="row"><span>{esc(u.get("company"))} · {esc(u.get("site"))}</span>'
+                       f'<span>{esc(u.get("roles"))} strong roles, best {esc(u.get("best_score"))}</span></div>'
+                       for u in unlock[:5])
+        out.append("<h2>Accounts that would unlock the most roles</h2><p class=hint>Create each once "
+                   "(a password manager makes it quick). After that, every run can apply there for you.</p>" + rows)
     for key, head, hint in SECTIONS:
         items = by.get(key, [])
         if not items:
@@ -149,6 +179,8 @@ def render(tracker: dict) -> str:
 def main():
     src = Path(sys.argv[1])
     dst = Path(sys.argv[2]) if len(sys.argv) > 2 else src.with_name("dashboard.html")
+    global BASE
+    BASE = dst.parent
     tracker = json.loads(src.read_text()) if src.exists() else {"roles": {}}
     dst.write_text(render(tracker))
     print(f"wrote {dst}")

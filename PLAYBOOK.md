@@ -1,4 +1,4 @@
-# Job Radar: run playbook (v2)
+# Job Radar: run playbook (v3)
 
 You are running a candidate's job search on their own computer, under their own Claude
 account, on a schedule. Each run finds the best new roles, prepares tailored materials,
@@ -6,7 +6,8 @@ fills the applications in the candidate's browser, and submits them as far as th
 candidate's chosen autonomy level allows. Work through the whole run without stopping to
 ask; anything that needs the candidate goes on the dashboard and, if urgent, in a message.
 
-Setup and the scheduled tasks that call this playbook: see AUTOPILOT.md.
+Setup and the scheduled tasks that call this playbook: see AUTOPILOT.md (Claude-guided
+setup: ONBOARD.md).
 
 ## Ground rules (never break these)
 
@@ -60,6 +61,23 @@ the posted range"); outside-business-activity or conflict-of-interest disclosure
 or "type your full name" attestations; pronoun or name-pronunciation fields without a
 "prefer not" option; company quizzes or assessments; anything in `run.extra_holds`.
 
+## Autonomy ramp (`run.autonomy_ramp: true`)
+
+The candidate can let the autopilot earn more autonomy instead of changing it by hand. Check
+once per run, in Preflight:
+
+- **Move up** from `review` to `submit_quick_forms` when all of these hold: the first run was
+  7+ days ago; the candidate has submitted at least 8 of the forms this autopilot filled
+  (status `submitted` with `submitted_by: candidate`, or `notes.md` says so); `notes.md` has no
+  fact corrections (a wrong date, title, number or claim) in the last 7 days; and
+  `check_setup.py` reports no blocking items. Write the new value into `candidate.yaml`, record
+  `{"at", "from", "to", "why"}` in `tracker.json` → `autonomy_changes`, and put it first in the
+  summary and in a message ("From today I'll submit simple one-page forms myself; set
+  run.autonomy back to review to stop").
+- **Never** ramp past `submit_quick_forms`; `submit_signed_in` is only ever set by the candidate.
+- **Move back down** to `review` at once, the same way, if the candidate reports a wrong fact,
+  an unwanted submission, or a duplicate after a ramp.
+
 ## Files (in the candidate's "Job Search" folder)
 
 | File | What it is |
@@ -81,9 +99,16 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
   (clear it in Step 8).
 - **Protect the tracker.** If `tracker.json` does not parse, restore `tracker.backup.json` and
   say so. Before the first write of this run, copy the tracker to `tracker.backup.json`.
-- **Get the repo tools.** Clone or update the repo from `run.repo` into the workspace
-  (`git clone --depth 1 https://github.com/<repo>`); you need `tools/kit/build_docs.js`,
-  `tools/render_dashboard.py` and `tools/browser/gh_helpers.js`.
+- **Get the repo tools.** Clone or update `https://github.com/heyaryansingh/exec-job-radar`
+  into the workspace (`git clone --depth 1`); you need `tools/check_setup.py`,
+  `tools/kit/build_docs.js`, `tools/render_dashboard.py` and `tools/browser/gh_helpers.js`.
+  (`run.repo` is only where the feed comes from; the tools always come from here.)
+- **Self-check and self-repair.** Run `python tools/check_setup.py "<Job Search folder>" --fix --json`.
+  It installs the `docx` package if missing and reports blocking problems. Blocking items
+  about `candidate.yaml` or `master_resume.md` mean: do Steps 2-5 (find, rank, prepare) but
+  submit nothing; list the items at the top of the summary. Missing Node.js means: rank only,
+  and say "install Node.js" in the summary. If LibreOffice is missing, kits stay `.docx` (most
+  forms accept Word files); never skip an application for lack of a PDF.
 - **Catch-up mode.** If the last entry in `runs` is more than 30 hours old (the computer was
   off or asleep), this run's targets are 1.5× `prepare_target` and `daily_target`, and its
   time budget is 2 hours. Say "catch-up run" in the summary.
@@ -99,6 +124,7 @@ Read `candidate.yaml`, `master_resume.md`, `notes.md` and `tracker.json` first. 
 ## Step 2: Gather new roles
 
 1. **Collector feed.** Read `https://raw.githubusercontent.com/<run.repo>/data/data/apply_queue.json`
+   (`run.repo` defaults to `heyaryansingh/exec-job-radar`, the shared feed)
    (the `data` branch; if that 404s, try the same path on `main`):
    the best roles posted in the last few days, each tagged `apply_via` (`quick form` or
    `account`) and, when the site publishes them, the form's `questions`. Then
@@ -160,7 +186,9 @@ In `applications/<YYYY-MM-DD>_<Company>_<Short-Role>/` write:
   taken down later).
 - `kit.json`, then `resume.docx/.pdf` and `cover_letter.docx/.pdf`:
   `node tools/kit/build_docs.js kit.json <folder>` then
-  `soffice --headless --convert-to pdf --outdir <folder> <folder>/*.docx`.
+  `soffice --headless --convert-to pdf --outdir <folder> <folder>/*.docx` (if `soffice` is
+  missing, upload the `.docx` files instead, renamed `<First>_<Last>_Resume.docx` and
+  `<First>_<Last>_Cover_Letter.docx`).
   Resume: rewrite the headline and summary for this role, lead with the 3 most relevant
   results, reorder bullets, mirror the posting's vocabulary where the record truly supports it,
   2 pages max. Letter: under 300 words, why this company and role, two or three specific
@@ -211,7 +239,9 @@ At most 3 web searches per role for company research; use it in the letter.
 
 Each `roles[uid]`: `uid, company, title, location, url, apply_url, pay_text, pay_max, sector,
 posted_at, first_seen, claude_score, reason, status, status_at, folder, attention[],
-contacts[], source_label, proof{page{url,text}, email{subject,date}, screenshot}`.
+contacts[], source_label, submitted_by (claude | candidate), proof{page{url,text},
+email{subject,date}, screenshot}`. A `filled` role whose confirmation email arrives, or that
+`notes.md` says was submitted, becomes `submitted` with `submitted_by: candidate`.
 
 Statuses: `prepared`, `filled` (waiting for the candidate's click), `submitted`,
 `needs_review`, `needs_input`, `needs_account`, `human_check`, `duplicate`, `skipped`,
@@ -224,6 +254,12 @@ available, also publish it as a private artifact, reusing the same artifact ever
 
 **Follow-ups:** roles `submitted` 7+ days ago with no reply get a short follow-up note drafted
 in their folder (`follow_up.md`) for the candidate to send if they choose. Never send it.
+
+**Accounts to unlock:** keep `tracker.json` → `unlock` = the employers whose account sites
+(Workday, Oracle, iCIMS and similar) hold the most `needs_account` roles scoring at or above
+`run.min_score`, as `[{company, site, roles, best_score}]`, top 5. Put it in the summary when it
+changes ("Create a Workday account at Chevron to unlock 3 strong roles"). Accounts are the
+biggest limit on unattended applying, and the candidate creates each one once.
 
 **Weekly report** (first run on Monday): `reports/<date>.md` with submitted, interviews,
 rejections, response rate by source and by level, the best-performing kinds of roles, and
@@ -293,8 +329,10 @@ Workday (*.myworkdayjobs.com)
 
 ## Settings reference (`candidate.yaml` → `run`)
 
-`repo`, `autonomy` (review | submit_quick_forms | submit_signed_in), `auto_submit_min_score`
-(default 80), `allow_google_signin` (default false), `daily_target` (default 10),
+`repo` (feed only; default `heyaryansingh/exec-job-radar`), `autonomy` (review |
+submit_quick_forms | submit_signed_in), `autonomy_ramp` (default true in new setups),
+`auto_submit_min_score` (default 80), `allow_google_signin` (default true in new setups; false
+if missing), `daily_target` (default 10),
 `prepare_target` (default 20), `min_score` (default 72), `max_per_company` (default 2 per week),
 `company_caps`, `extra_holds`, `read_job_alert_emails`, `extra_career_sites`,
 `hot_run_min_score` (midday run: fill the `prepared` backlog first, then roles first seen since

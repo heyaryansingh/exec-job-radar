@@ -15,6 +15,6 @@ Focus: cloud and infrastructure, platform engineering, SRE and production operat
 enterprise architecture, data and AI platforms, security, and technology transformation.
 Roles posting pay below $200K are filtered out.
 
-How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for someone:
-[SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
+**Use it for your own search: [AUTOPILOT.md](AUTOPILOT.md)** (one pasted prompt; Claude sets
+it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)

@@ -15,11 +15,11 @@ Focus: cloud and infrastructure, platform engineering, SRE and production operat
 enterprise architecture, data and AI platforms, security, and technology transformation.
 Roles posting pay below $200K are filtered out.
 
-How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Set it up for someone:
-[SETUP.md](SETUP.md) · Their own Claude autopilot: [AUTOPILOT.md](AUTOPILOT.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
+**Use it for your own search: [AUTOPILOT.md](AUTOPILOT.md)** (one pasted prompt; Claude sets
+it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,368 open roles** at **1,990 companies** · **38 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 12:05 AM ET
+**5,368 open roles** at **1,990 companies** · **38 new in the last 24 hours** · 6,249 company career sites watched · updated hourly · last update Nov 27, 2026 12:26 AM ET
 
 By level: Director 2871 · VP 920 · Sr. Director 705 · Head 345 · C-level 193 · EVP/SVP 154 · ED 123 · MD 56
 

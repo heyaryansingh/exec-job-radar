@@ -28,9 +28,9 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,298 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,250 company career sites watched · updated hourly · last update Nov 27, 2026 07:29 PM ET
+**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,250 company career sites watched · updated hourly · last update Nov 27, 2026 08:26 PM ET
 
-By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
+By level: Director 2840 · VP 903 · Sr. Director 692 · Head 348 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -39,7 +39,7 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 - [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
 - [🤠 Houston area (181)](#houston-area)
 - [👑 Executive Technology Leadership (195)](#executive-technology-leadership)
-- [🛡️ Security & Risk Technology (371)](#security-risk-technology)
+- [🛡️ Security & Risk Technology (372)](#security-risk-technology)
 - [🧠 Data & AI (1301)](#data-ai)
 - [🚦 Reliability & Operations (372)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (466)](#cloud-infrastructure)
@@ -47,7 +47,7 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 - [🔄 Transformation & Delivery (657)](#transformation-delivery)
 - [🛠️ Engineering & Software (1406)](#engineering-software)
 - [📌 Other Senior Roles (372)](#other-senior-roles)
-- [🔒 Recently closed (1148)](#recently-closed)
+- [🔒 Recently closed (1147)](#recently-closed)
 - Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -56,6 +56,7 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Darwinbox | 🆕 Head of Security | Head | Remote, USA | $250K–$275K | 1d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae9dca41442f) |
 | JPMorgan Chase ⭐ | 🆕 Data Scientist Lead - Vice President | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812720) |
 | Citi ⭐ | 🆕 Senior Architect - Java and Generative AI - Vice President | VP | 1/124, SHIVAJI GARDENS, MOONLI |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-Architect---Java-and-Generative-AI---Vice-President_261005422) |
 | Citi ⭐ | 🆕 Program Management Lead, Vice President (req 261012009) | VP | 2 Locations |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Program-Management-Lead--Vice-President_261012009) |
@@ -79,7 +80,6 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 | Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 3d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
 | Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 3d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
-| Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 3d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
 
 <a name="houston-area"></a>
 
@@ -479,6 +479,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Darwinbox | 🆕 Head of Security | Head | Remote, USA | $250K–$275K | 1d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae9dca41442f) |
 | Levi Strauss | 🆕 Director, Security Operations | Director |  |  | 2d | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |
 | LevelBlue | Cyber Technical Director, Testing | Director | USA | $190K–$250K | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3959) |
 | OpenText | Security Director - UK Public Sector | Director | Reading, GBR |  | 2d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54428EXTERNALENUS) |
@@ -728,9 +729,8 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Sandia National Laboratories | Director, Global Security & Nonproliferation (Center 6800) | Director | Albuquerque, NM, USA | $236K–$401K | 30d | [Apply](https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699535&PostingSeq=1) |
 | Sierra Nevada Corporation | Director Security Operations | Director | Sparks, NV |  | 30d | [Apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Director-Security-Operations_R0031302) [alt](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Director-Security-Operations_R0031302) |
 | Ahead | Practice Director - Application Security | Director | United States · Remote | $250K–$350K | 30d | [Apply](https://jobs.lever.co/thinkahead/c6e2662f-b90e-4461-a14c-f078f64d5895) ⚡ |
-| Coca-Cola ⭐ | Senior Director, AI Cyber Programs & Emerging Technology | Sr. Director | US - GA - Atlanta |  | 30d | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director--AI-Cyber-Programs---Emerging-Technology_R-144538) |
 
-_121 older roles in this section are in data/roles.json on the `data` branch._
+_122 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="data-ai"></a>
 
@@ -1952,7 +1952,7 @@ _407 older roles in this section are in data/roles.json on the `data` branch._
 | insightsoftware | Director - Engineering | Director |  |  | 2d | [Apply](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/Director---Engineering_REQ001405) |
 | Mars | Product Line Director, Omnichannel Experiences and D2C Commerce Technology | Director | Chicago, IL, USA | $170K–$234K | 2d | [Apply](https://careers.mars.com/global/en/job/R173530) |
 | Qualys | Vice President, Threat Research Engineering | VP | Foster City |  | 2d | [Apply](https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Foster-City/Vice-President--Threat-Research-Engineering_R0004721) |
-| Early Warning Services | 🆕 Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 3d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
+| Early Warning Services | Senior Director, Product Engineering - Paze | Sr. Director | Chicago +1 | $206K–$275K | 3d | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Chicago/Senior-Director--Product-Engineering---Paze_REQ20261091) |
 | Northrop Grumman ⭐ | Director 2 - Intelligence Systems Division (ISD) Engineering Execution Lead | Director | United States-California-Redondo Beach |  | 3d | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-2---Intelligence-Systems-Division--ISD--Engineering-Execution-Lead_R10262219) |
 | Centene | Vice President, Engineering - Member Management | VP | 2 Locations |  | 3d | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Vice-President--Engineering---Member-Management_1677698) |
 | Thermo Fisher Scientific ⭐ | Sr. Director, IT M&A Integration | Sr. Director | Waltham, Massachusetts, United States of A |  | 3d | [Apply](https://jobs.thermofisher.com/us/en/job/TFSCGLOBALR01363129EXTERNALENGLOBAL) |

@@ -28,9 +28,9 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 11:21 PM ET
+**5,298 open roles** at **1,953 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 28, 2026 12:23 AM ET
 
-By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
+By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -45,10 +45,10 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 - [☁️ Cloud & Infrastructure (466)](#cloud-infrastructure)
 - [🏛️ Architecture (158)](#architecture)
 - [🔄 Transformation & Delivery (657)](#transformation-delivery)
-- [🛠️ Engineering & Software (1406)](#engineering-software)
+- [🛠️ Engineering & Software (1405)](#engineering-software)
 - [📌 Other Senior Roles (372)](#other-senior-roles)
-- [🔒 Recently closed (1147)](#recently-closed)
-- Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
+- [🔒 Recently closed (1148)](#recently-closed)
+- Daily digests: [11-28](data/daily/2026-11-28.md) · [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md)
 
 <a name="new-in-the-last-24-hours"></a>
 
@@ -2068,7 +2068,6 @@ _407 older roles in this section are in data/roles.json on the `data` branch._
 | Charm Industrial | Senior Director of Engineering | Sr. Director | Fort Lupton, CO | $200K–$268K | 5d | [Apply](https://jobs.lever.co/charmindustrial/6f5c1333-8683-4083-bb65-b6fabd574366) ⚡ |
 | Oracle | VP Engineering, Physical Networking | VP | United States | $225K–$481K | 5d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/337336) |
 | Rundoo | Head of Engineering | Head | San Mateo, CA | $295K | 5d | [Apply](https://jobs.ashbyhq.com/rundoo/bfc9214a-db2a-4186-b6fb-7a4819e31720) ⚡ |
-| Southern Company | SouthStar Technology Director | Director | Atlanta, GA, United States |  | 5d | [Apply](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/19686) [alt](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/19686) |
 | PNC | IT Director (GOV) - Tempus | Director | ZZ - Remote Location |  | 5d | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/IT-Director--GOV----Tempus_R240714-1) |
 | Pfizer ⭐ | Director, Team Lead, Regional Engineering Group Lead | Director | 2 Locations |  | 5d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Director--Team-Lead--Regional-Engineering-Group-Lead_4967821-1) |
 | Marriott International ⭐ | Director of Engineering | Director | Perth, WA, Australia |  | 5d | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26153068) |
@@ -2189,8 +2188,9 @@ _407 older roles in this section are in data/roles.json on the `data` branch._
 | ON Semiconductor | Senior Director, IGBT Technology Development | Sr. Director | Scottsdale, AZ, United States |  | 9d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506920) |
 | Anduril Industries | Director of Repair Engineering | Director | Costa Mesa, California, United States | $220K–$292K | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296819007?gh_jid=5296819007) ⚡ |
 | Anduril Industries | Director of Repair Engineering | Director | Ashville, Ohio, United States | $190K–$252K | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5301006007?gh_jid=5301006007) ⚡ |
+| Senra Systems | Head of Engineering | Head | Cypress, California, United States | $250K–$300K | 9d | [Apply](https://job-boards.greenhouse.io/senrasystems/jobs/5443896008) ⚡ |
 
-_1156 older roles in this section are in data/roles.json on the `data` branch._
+_1155 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2459,6 +2459,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Southern Company | 🔒 SouthStar Technology Director | Director | Atlanta, GA, United States |  | 5d | Closed [alt](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/19686) |
 | Ascot Group | 🔒 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 14d | Closed |
 | Allegacy Federal Credit Union | 🔒 VP Digital Operations | VP | Winston-Salem, NC, USA |  | 31d | Closed |
 | ALSAC/St. Jude Children's Research Hospital | 🔒 Sr Director - Data Governance & Enablement (Memphis, TN or Remote in USA) | Sr. Director | Memphis, TN, USA |  | 31d | Closed |
@@ -2758,7 +2759,6 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | EY | 🔒 Data Engineer and Analytics Platform Manager - Assistant Director | Director | Dallas, TX, USA | $124K–$264K | 35d | Closed |
 | Grady Health System | 🔒 Executive Director of Technology | ED | Atlanta, GA, USA |  | 35d | Closed |
 | Hammer Financial Group - A Prosperity Capital Advisors Company | 🔒 VP of Product Strategy | VP | Dayton, OH, USA | $268K–$318K | 36d | Closed |
-| Harris County | 🔒 Director, Budget and Finance | Director | Houston, TX, USA |  | 36d | Closed |
 
 </details>
 

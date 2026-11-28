@@ -28,7 +28,7 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,299 open roles** at **1,954 companies** · **25 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 28, 2026 05:07 AM ET
+**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,252 company career sites watched · updated hourly · last update Nov 28, 2026 06:07 AM ET
 
 By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188 · EVP/SVP 151 · ED 119 · MD 57
 
@@ -36,7 +36,7 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188
 
 ## Contents
 
-- [🆕 New in the last 24 hours (25)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
 - [🤠 Houston area (181)](#houston-area)
 - [👑 Executive Technology Leadership (196)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
@@ -77,7 +77,6 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188
 | LSEG ⭐ | 🆕 Director - Software Engineering | Director | IND-BLR-Divyasree Technopolis |  | 1d | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Director---Software-Engineering_R0123739) |
 | State Street ⭐ | 🆕 Head of Data Products Investor Services - Managing Director | MD | 3 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Head-of-Data-Products-Investor-Services---Managing-Director_R-801614-1) |
 | FTI Consulting, Inc. | 🆕 Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting | Director | 2 Locations |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Program Management Lead, Vice President | VP | Mumbai, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757904) [alt](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757888) |
 | Bracco Medical Technologies | 🆕 Enterprise Transformation & Integration Director | Director | USA, Eden Prairie, Minnesota, 55344 |  | 3d | [Apply](https://bracco.wd103.myworkdayjobs.com/BraccoCareers/job/USA-Eden-Prairie-Minnesota-55344/Enterprise-Transformation---Integration-Director_JR100503) |
 | Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 3d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
@@ -1684,7 +1683,7 @@ _216 older roles in this section are in data/roles.json on the `data` branch._
 |---|---|---|---|---|---:|---|
 | Citi ⭐ | 🆕 Program Management Lead, Vice President (req 261012009) | VP | 2 Locations |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Program-Management-Lead--Vice-President_261012009) |
 | Citi ⭐ | 🆕 Program Management Lead, Vice President (req 261012016) | VP | 2 Locations |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Program-Management-Lead--Vice-President_261012016) |
-| Citi (jobs.citi.com) ⭐ | 🆕 Program Management Lead, Vice President | VP | Mumbai, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757904) [alt](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757888) |
+| Citi (jobs.citi.com) ⭐ | Program Management Lead, Vice President | VP | Mumbai, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757904) [alt](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757888) |
 | State Street ⭐ | Digital Product Development Lead - Custody & Tokenization, Vice President | VP | 5 Locations |  | 2d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Luxembourg/Digital-Product-Development-Lead---Custody---Tokenization--Vice-President_R-801572-1) |
 | Bracco Medical Technologies | 🆕 Enterprise Transformation & Integration Director | Director | USA, Eden Prairie, Minnesota, 55344 |  | 3d | [Apply](https://bracco.wd103.myworkdayjobs.com/BraccoCareers/job/USA-Eden-Prairie-Minnesota-55344/Enterprise-Transformation---Integration-Director_JR100503) |
 | Oracle | Senior Director, Technical Program Management | Sr. Director | Seattle, WA, United States | $170K–$355K | 3d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351648) |

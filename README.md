@@ -28,7 +28,7 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,300 open roles** at **1,954 companies** · **25 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 10:28 PM ET
+**5,300 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 11:07 PM ET
 
 By level: Director 2841 · VP 903 · Sr. Director 692 · Head 348 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
 
@@ -36,7 +36,7 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 348 · C-level 187
 
 ## Contents
 
-- [🆕 New in the last 24 hours (25)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
 - [🤠 Houston area (181)](#houston-area)
 - [👑 Executive Technology Leadership (195)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
@@ -76,7 +76,6 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 348 · C-level 187
 | FTI Consulting, Inc. | 🆕 Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting | Director | 2 Locations |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Program Management Lead, Vice President | VP | Mumbai, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757904) [alt](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757888) |
 | RED Gate | 🆕 Director of Engineering | Director | Cambridge · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/red-gate/8753f030-44ed-4874-9036-e60076602ee8) ⚡ |
-| Levi Strauss | 🆕 Director, Security Operations | Director |  |  | 2d | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |
 | Bracco Medical Technologies | 🆕 Enterprise Transformation & Integration Director | Director | USA, Eden Prairie, Minnesota, 55344 |  | 3d | [Apply](https://bracco.wd103.myworkdayjobs.com/BraccoCareers/job/USA-Eden-Prairie-Minnesota-55344/Enterprise-Transformation---Integration-Director_JR100503) |
 | Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 3d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
@@ -481,7 +480,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | Darwinbox | 🆕 Head of Security | Head | Remote, USA | $250K–$275K | 1d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae9dca41442f) |
-| Levi Strauss | 🆕 Director, Security Operations | Director |  |  | 2d | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |
+| Levi Strauss | Director, Security Operations | Director |  |  | 2d | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |
 | LevelBlue | Cyber Technical Director, Testing | Director | USA | $190K–$250K | 2d | [Apply](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3959) |
 | OpenText | Security Director - UK Public Sector | Director | Reading, GBR |  | 2d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54428EXTERNALENUS) |
 | OpenText | Head of Information Security - UK Public Sector | Head | Reading, GBR |  | 2d | [Apply](https://careers.opentext.com/us/en/job/OPJOPEUS54429EXTERNALENUS) |

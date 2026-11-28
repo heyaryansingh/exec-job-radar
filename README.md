@@ -28,9 +28,9 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,300 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 11:07 PM ET
+**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 11:21 PM ET
 
-By level: Director 2841 · VP 903 · Sr. Director 692 · Head 348 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
+By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
@@ -40,14 +40,14 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 348 · C-level 187
 - [🤠 Houston area (181)](#houston-area)
 - [👑 Executive Technology Leadership (195)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
-- [🧠 Data & AI (1302)](#data-ai)
+- [🧠 Data & AI (1301)](#data-ai)
 - [🚦 Reliability & Operations (372)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (466)](#cloud-infrastructure)
 - [🏛️ Architecture (158)](#architecture)
 - [🔄 Transformation & Delivery (657)](#transformation-delivery)
 - [🛠️ Engineering & Software (1406)](#engineering-software)
 - [📌 Other Senior Roles (372)](#other-senior-roles)
-- [🔒 Recently closed (1146)](#recently-closed)
+- [🔒 Recently closed (1147)](#recently-closed)
 - Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -989,7 +989,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Pfizer ⭐ | Director, Machine Learning Scientist | Director | United States - Washington – Bothell +1 |  | 10d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Washington--Bothell/Director--Machine-Learning-Scientist_4968217-1) |
 | New York Life | Corporate Vice President - Head of Storage & Data Protection | VP | New York, NY, USA | $160K–$228K | 10d | [Apply](https://careers.newyorklife.com/careers/job/45480623) |
 
-_1052 older roles in this section are in data/roles.json on the `data` branch._
+_1051 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -2459,6 +2459,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Ascot Group | 🔒 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 14d | Closed |
 | Allegacy Federal Credit Union | 🔒 VP Digital Operations | VP | Winston-Salem, NC, USA |  | 31d | Closed |
 | ALSAC/St. Jude Children's Research Hospital | 🔒 Sr Director - Data Governance & Enablement (Memphis, TN or Remote in USA) | Sr. Director | Memphis, TN, USA |  | 31d | Closed |
 | Altek Inc | 🔒 Director of IS/IT | Director | Liberty Lake, WA, USA |  | 31d | Closed |
@@ -2758,7 +2759,6 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Grady Health System | 🔒 Executive Director of Technology | ED | Atlanta, GA, USA |  | 35d | Closed |
 | Hammer Financial Group - A Prosperity Capital Advisors Company | 🔒 VP of Product Strategy | VP | Dayton, OH, USA | $268K–$318K | 36d | Closed |
 | Harris County | 🔒 Director, Budget and Finance | Director | Houston, TX, USA |  | 36d | Closed |
-| Harrison County Sheriff’s Office | 🔒 Director, Budget and Finance | Director | Houston, TX, USA |  | 35d | Closed |
 
 </details>
 

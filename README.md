@@ -28,19 +28,19 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,297 open roles** at **1,953 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 28, 2026 04:05 AM ET
+**5,299 open roles** at **1,954 companies** · **25 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 28, 2026 05:07 AM ET
 
-By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187 · EVP/SVP 151 · ED 119 · MD 57
+By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188 · EVP/SVP 151 · ED 119 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (25)](#new-in-the-last-24-hours)
 - [🤠 Houston area (181)](#houston-area)
-- [👑 Executive Technology Leadership (195)](#executive-technology-leadership)
+- [👑 Executive Technology Leadership (196)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
-- [🧠 Data & AI (1302)](#data-ai)
+- [🧠 Data & AI (1303)](#data-ai)
 - [🚦 Reliability & Operations (372)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (466)](#cloud-infrastructure)
 - [🏛️ Architecture (158)](#architecture)
@@ -56,6 +56,8 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| AMD | 🆕 Director, Data Center Availability Engineering | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/97844/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
+| SLR Consulting | 🆕 Chief Technology Leader – Americas | C-level | Remote, USA |  | 0d | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) |
 | ADP | 🆕 Director, Enterprise Performance Management (EPM) & Data & AI Solutions | Director | Roseland, NJ, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/xpiciYT5piIerHjrPhmDi-twDRNdcPHs3h8YvTHOBYE=) |
 | Genentech | 🆕 Therapeutic Area Insights & Analytics Director - Immunology (Data Analytics) | Director | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202611129939EXTERNALENUS) |
 | Darwinbox | 🆕 Head of Security | Head | Remote, USA | $250K–$275K | 1d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae9dca41442f) |
@@ -76,7 +78,6 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 | State Street ⭐ | 🆕 Head of Data Products Investor Services - Managing Director | MD | 3 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Head-of-Data-Products-Investor-Services---Managing-Director_R-801614-1) |
 | FTI Consulting, Inc. | 🆕 Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting | Director | 2 Locations |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Program Management Lead, Vice President | VP | Mumbai, MH, IN +1 |  | 1d | [Apply](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757904) [alt](https://jobs.citi.com/job/mumbai/program-management-lead-vice-president/287/103854757888) |
-| RED Gate | 🆕 Director of Engineering | Director | Cambridge · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/red-gate/8753f030-44ed-4874-9036-e60076602ee8) ⚡ |
 | Bracco Medical Technologies | 🆕 Enterprise Transformation & Integration Director | Director | USA, Eden Prairie, Minnesota, 55344 |  | 3d | [Apply](https://bracco.wd103.myworkdayjobs.com/BraccoCareers/job/USA-Eden-Prairie-Minnesota-55344/Enterprise-Transformation---Integration-Director_JR100503) |
 | Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 3d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
@@ -277,6 +278,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| SLR Consulting | 🆕 Chief Technology Leader – Americas | C-level | Remote, USA |  | 0d | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) |
 | TECHNOLOGY & INNOVATION | Deputy Chief Information Security Officer (DCISO) | C-level | Brooklyn, NY, USA | $84K–$215K | 2d | [Apply](https://cityjobs.nyc.gov/job/deputy-chief-information-security-officer-dciso-in-brooklyn-jid-49615) |
 | onsemi | Group Chief Technology Officer | C-level | Allen, TX, USA |  | 3d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/2507305) |
 | Xnurta | Chief Technology Officer — AI Systems & Agentic Intelligence | C-level | Campbell, CA, USA | $200K–$500K | 3d | [Apply](https://ht-jobs.net/8g7dn9a?s=in) |
@@ -738,6 +740,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| AMD | 🆕 Director, Data Center Availability Engineering | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/97844/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
 | ADP | 🆕 Director, Enterprise Performance Management (EPM) & Data & AI Solutions | Director | Roseland, NJ, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/xpiciYT5piIerHjrPhmDi-twDRNdcPHs3h8YvTHOBYE=) |
 | Genentech | 🆕 Therapeutic Area Insights & Analytics Director - Immunology (Data Analytics) | Director | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202611129939EXTERNALENUS) |
 | JPMorgan Chase ⭐ | 🆕 Data Scientist Lead - Vice President | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812720) |
@@ -987,9 +990,8 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Maxar | Director of AI Engineering & Enablement | Director | 2 Locations |  | 10d | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Westminster-CO/Director-of-AI-Engineering---Enablement_R24915) |
 | Pfizer ⭐ | Director, AI Product Lead | Director | 2 Locations |  | 10d | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Director--AI-Product-Lead_4966817-2) |
 | And Digital | Solution Director: CX & AI | Director | Jersey City, NJ, USA |  | 10d | [Apply](https://apply.workable.com/j/5CA357FF1F) |
-| Pfizer ⭐ | Director, Machine Learning Scientist | Director | United States - Washington – Bothell +1 |  | 10d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Washington--Bothell/Director--Machine-Learning-Scientist_4968217-1) |
 
-_1052 older roles in this section are in data/roles.json on the `data` branch._
+_1053 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 
@@ -1942,7 +1944,7 @@ _406 older roles in this section are in data/roles.json on the `data` branch._
 | Global Payments | 🆕 Director, Software Engineering | Director | ALPHARETTA, GEORGIA |  | 1d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Development-Manager-Senior_R0076075-1) |
 | Ezee Fiber | 🆕 Director, IT Systems | Director | Houston, TX, USA |  | 1d | [Apply](https://careers-ezeefiber.icims.com/jobs/1662/job) |
 | LSEG ⭐ | 🆕 Director - Software Engineering | Director | IND-BLR-Divyasree Technopolis |  | 1d | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Director---Software-Engineering_R0123739) |
-| RED Gate | 🆕 Director of Engineering | Director | Cambridge · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/red-gate/8753f030-44ed-4874-9036-e60076602ee8) ⚡ |
+| RED Gate | Director of Engineering | Director | Cambridge · Remote |  | 1d | [Apply](https://jobs.ashbyhq.com/red-gate/8753f030-44ed-4874-9036-e60076602ee8) ⚡ |
 | Intercom | Senior Director, Forward Deployed Engineering | Sr. Director | Chicago, Illinois +2 | $350K–$390K | 2d | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8419409) ⚡ |
 | Citi (jobs.citi.com) ⭐ | 🔁 Java Full-stack Technical Lead - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/java-full-stack-technical-lead-vice-president/287/103826930304) |
 | Citi (jobs.citi.com) ⭐ | Quality Software Engineer Lead - Vice President | VP | Pune, MH, IN |  | 2d | [Apply](https://jobs.citi.com/job/pune/quality-software-engineer-lead-vice-president/287/103826932656) |

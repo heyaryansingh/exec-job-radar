@@ -28,15 +28,15 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,298 open roles** at **1,953 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 28, 2026 12:23 AM ET
+**5,296 open roles** at **1,953 companies** · **23 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 28, 2026 01:17 AM ET
 
-By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
+By level: Director 2839 · VP 903 · Sr. Director 692 · Head 347 · C-level 187 · EVP/SVP 151 · ED 119 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (23)](#new-in-the-last-24-hours)
 - [🤠 Houston area (181)](#houston-area)
 - [👑 Executive Technology Leadership (195)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
@@ -44,10 +44,10 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 - [🚦 Reliability & Operations (372)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (466)](#cloud-infrastructure)
 - [🏛️ Architecture (158)](#architecture)
-- [🔄 Transformation & Delivery (657)](#transformation-delivery)
-- [🛠️ Engineering & Software (1405)](#engineering-software)
+- [🔄 Transformation & Delivery (656)](#transformation-delivery)
+- [🛠️ Engineering & Software (1404)](#engineering-software)
 - [📌 Other Senior Roles (372)](#other-senior-roles)
-- [🔒 Recently closed (1148)](#recently-closed)
+- [🔒 Recently closed (1150)](#recently-closed)
 - Daily digests: [11-28](data/daily/2026-11-28.md) · [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md)
 
 <a name="new-in-the-last-24-hours"></a>
@@ -79,7 +79,6 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 347 · C-level 187
 | Bracco Medical Technologies | 🆕 Enterprise Transformation & Integration Director | Director | USA, Eden Prairie, Minnesota, 55344 |  | 3d | [Apply](https://bracco.wd103.myworkdayjobs.com/BraccoCareers/job/USA-Eden-Prairie-Minnesota-55344/Enterprise-Transformation---Integration-Director_JR100503) |
 | Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 3d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
-| Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 3d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 
 <a name="houston-area"></a>
 
@@ -761,7 +760,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Evalueserve | Director - AI Solution Architect | Director | Raleigh, NC, USA |  | 2d | [Apply](https://lighthouse.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6af5ad58ec56f) |
 | Market Performance Group | Sr Director, Head of Data Engineering | Head | Remote, USA | $200K–$250K | 2d | [Apply](https://secure7.saashr.com/ta/6205439.careers?ShowJob=654804059) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
-| Oracle | 🆕 Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 3d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
+| Oracle | Director, Data Center Critical Infrastructure Execution | Director | Reston, VA, United States | $146K–$306K | 3d | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/351597) |
 | FCT | Director, Data Engineering - Enterprise Data Platform - Remote | Director | USA, California, Santa Ana |  | 3d | [Apply](https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers_hidden/job/USA-California-Santa-Ana/Director--Data-Engineering---Enterprise-Data-Platform---Remote_R058773-1) |
 | BlackRock ⭐ | Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | VP | New York, NY |  | 3d | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
 | GE HealthCare | Director, AI Transformation | Director | IL, USA |  | 3d | [Apply](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4049535EXTERNALENGLOBAL/Director-AI-Transformation?utm_source=indeed&utm_medium=phenom-feeds) |
@@ -1931,7 +1930,7 @@ _216 older roles in this section are in data/roles.json on the `data` branch._
 | LSEG ⭐ | Director, Program Management | Director | New York, United States +1 | $163K–$271K | 19d | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-United-States/Director--Program-Management_R0124467) |
 | Amentum | VP, Finance Excellence and Transformation | VP | Remote, USA |  | 20d | [Apply](https://www.amentumcareers.com/jobs/vp-finance-excellence-and-transformation-remote-united-states-732d56fb-94e4-4ea1-acf7-91d63c5e7e12?source=Indeed+Feed) |
 
-_407 older roles in this section are in data/roles.json on the `data` branch._
+_406 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -2190,7 +2189,7 @@ _407 older roles in this section are in data/roles.json on the `data` branch._
 | Anduril Industries | Director of Repair Engineering | Director | Ashville, Ohio, United States | $190K–$252K | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5301006007?gh_jid=5301006007) ⚡ |
 | Senra Systems | Head of Engineering | Head | Cypress, California, United States | $250K–$300K | 9d | [Apply](https://job-boards.greenhouse.io/senrasystems/jobs/5443896008) ⚡ |
 
-_1155 older roles in this section are in data/roles.json on the `data` branch._
+_1154 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 
@@ -2459,6 +2458,8 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| CVS Health ⭐ | 🔒 Lead Director, Enterprise Strategy (digital product) | Director | NY - New York +7 · Remote |  | 23d | Closed |
+| CVS Health ⭐ | 🔒 Executive Director, HCD Finance Technology | ED | AZ - Scottsdale · Remote |  | 16d | Closed |
 | Southern Company | 🔒 SouthStar Technology Director | Director | Atlanta, GA, United States |  | 5d | Closed [alt](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/19686) |
 | Ascot Group | 🔒 Global Head of Finance Systems and Data | Head | Bermuda | $225K–$270K | 14d | Closed |
 | Allegacy Federal Credit Union | 🔒 VP Digital Operations | VP | Winston-Salem, NC, USA |  | 31d | Closed |
@@ -2757,8 +2758,6 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Deloitte | 🔒 Director, Salesforce Delivery & Architecture | Director | Stamford, CT, USA |  | 35d | Closed |
 | Eikon Therapeutics | 🔒 Director, Optical Engineering | Director | Millbrae, CA, USA | $242K–$292K | 35d | Closed |
 | EY | 🔒 Data Engineer and Analytics Platform Manager - Assistant Director | Director | Dallas, TX, USA | $124K–$264K | 35d | Closed |
-| Grady Health System | 🔒 Executive Director of Technology | ED | Atlanta, GA, USA |  | 35d | Closed |
-| Hammer Financial Group - A Prosperity Capital Advisors Company | 🔒 VP of Product Strategy | VP | Dayton, OH, USA | $268K–$318K | 36d | Closed |
 
 </details>
 

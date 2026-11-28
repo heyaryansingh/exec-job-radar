@@ -28,15 +28,15 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,252 company career sites watched · updated hourly · last update Nov 28, 2026 06:07 AM ET
+**5,301 open roles** at **1,954 companies** · **23 new in the last 24 hours** · 6,252 company career sites watched · updated hourly · last update Nov 28, 2026 07:07 AM ET
 
-By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188 · EVP/SVP 151 · ED 119 · MD 57
+By level: Director 2843 · VP 903 · Sr. Director 692 · Head 347 · C-level 188 · EVP/SVP 151 · ED 119 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (23)](#new-in-the-last-24-hours)
 - [🤠 Houston area (181)](#houston-area)
 - [👑 Executive Technology Leadership (196)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
@@ -44,8 +44,8 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188
 - [🚦 Reliability & Operations (372)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (466)](#cloud-infrastructure)
 - [🏛️ Architecture (158)](#architecture)
-- [🔄 Transformation & Delivery (656)](#transformation-delivery)
-- [🛠️ Engineering & Software (1404)](#engineering-software)
+- [🔄 Transformation & Delivery (657)](#transformation-delivery)
+- [🛠️ Engineering & Software (1405)](#engineering-software)
 - [📌 Other Senior Roles (372)](#other-senior-roles)
 - [🔒 Recently closed (1149)](#recently-closed)
 - Daily digests: [11-28](data/daily/2026-11-28.md) · [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md)
@@ -57,8 +57,8 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
 | AMD | 🆕 Director, Data Center Availability Engineering | Director | Austin, TX, USA |  | 0d | [Apply](https://careers.amd.com/jobs/97844/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f) |
-| SLR Consulting | 🆕 Chief Technology Leader – Americas | C-level | Remote, USA |  | 0d | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) |
 | ADP | 🆕 Director, Enterprise Performance Management (EPM) & Data & AI Solutions | Director | Roseland, NJ, USA | $123K–$304K | 0d | [Apply](https://click.appcast.io/t/xpiciYT5piIerHjrPhmDi-twDRNdcPHs3h8YvTHOBYE=) |
+| SLR Consulting | 🆕 Chief Technology Leader – Americas | C-level | Remote, USA |  | 1d | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) [alt](https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) |
 | Genentech | 🆕 Therapeutic Area Insights & Analytics Director - Immunology (Data Analytics) | Director | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202611129939EXTERNALENUS) |
 | Darwinbox | 🆕 Head of Security | Head | Remote, USA | $250K–$275K | 1d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae9dca41442f) |
 | JPMorgan Chase ⭐ | 🆕 Data Scientist Lead - Vice President | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812720) |
@@ -76,7 +76,6 @@ By level: Director 2841 · VP 903 · Sr. Director 692 · Head 347 · C-level 188
 | JPMorgan Chase ⭐ | 🆕 Executive Director, Product – Client Onboarding and Documents Platform | ED | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806594) |
 | LSEG ⭐ | 🆕 Director - Software Engineering | Director | IND-BLR-Divyasree Technopolis |  | 1d | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Director---Software-Engineering_R0123739) |
 | State Street ⭐ | 🆕 Head of Data Products Investor Services - Managing Director | MD | 3 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Head-of-Data-Products-Investor-Services---Managing-Director_R-801614-1) |
-| FTI Consulting, Inc. | 🆕 Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting | Director | 2 Locations |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) |
 | Bracco Medical Technologies | 🆕 Enterprise Transformation & Integration Director | Director | USA, Eden Prairie, Minnesota, 55344 |  | 3d | [Apply](https://bracco.wd103.myworkdayjobs.com/BraccoCareers/job/USA-Eden-Prairie-Minnesota-55344/Enterprise-Transformation---Integration-Director_JR100503) |
 | Valmont Industries | 🆕 Director, Enterprise Cybersecurity | Director | Omaha NE +1 |  | 3d | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) |
 | Global Payments | 🆕 Head of Data Science & AL/ML Engineering | Head | ALPHARETTA, GEORGIA |  | 3d | [Apply](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/ALPHARETTA-GEORGIA/Head-of-Data-Science---AL-ML-Engineering_R0071947-1) |
@@ -277,7 +276,7 @@ Every open role in the Houston area, newest posting first (also listed in its ca
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
-| SLR Consulting | 🆕 Chief Technology Leader – Americas | C-level | Remote, USA |  | 0d | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) |
+| SLR Consulting | 🆕 Chief Technology Leader – Americas | C-level | Remote, USA |  | 1d | [Apply](https://slrconsulting.wd103.myworkdayjobs.com/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) [alt](https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Remote-USA/Chief-Technology-Leader---Americas_JR102856) |
 | TECHNOLOGY & INNOVATION | Deputy Chief Information Security Officer (DCISO) | C-level | Brooklyn, NY, USA | $84K–$215K | 2d | [Apply](https://cityjobs.nyc.gov/job/deputy-chief-information-security-officer-dciso-in-brooklyn-jid-49615) |
 | onsemi | Group Chief Technology Officer | C-level | Allen, TX, USA |  | 3d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/2507305) |
 | Xnurta | Chief Technology Officer — AI Systems & Agentic Intelligence | C-level | Campbell, CA, USA | $200K–$500K | 3d | [Apply](https://ht-jobs.net/8g7dn9a?s=in) |
@@ -751,7 +750,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | Amperos | 🆕 Head of AI Deployment | Head | NYC or Remote +2 |  | 1d | [Apply](https://jobs.ashbyhq.com/amperos/fc5be92b-cbd8-4aa6-a2aa-c52586128d06) ⚡ |
 | JPMorgan Chase ⭐ | 🆕 AWS Data Analytics Services Product Manager Vice President | VP | Plano, TX, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811512) |
 | State Street ⭐ | 🆕 Head of Data Products Investor Services - Managing Director | MD | 3 Locations |  | 1d | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Head-of-Data-Products-Investor-Services---Managing-Director_R-801614-1) |
-| FTI Consulting, Inc. | 🆕 Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting | Director | 2 Locations |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) |
+| FTI Consulting, Inc. | Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting | Director | 2 Locations |  | 1d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) |
 | BlackRock ⭐ | Data Engineer, Vice President | VP | 2 Locations |  | 2d | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Vice-President_R267165) |
 | Lambda | VP, Engineering - Data Center Design | VP | Remote, USA | $400K–$500K | 2d | [Apply](https://jobs.ashbyhq.com/Lambda/8d9e41af-f726-43dc-adec-8b29f8074202) ⚡ |
 | Lambda | VP, Data Center Power & Site Development | VP | Remote, USA | $400K–$500K | 2d | [Apply](https://jobs.ashbyhq.com/Lambda/a55429d0-baeb-4ce2-af9f-22cc6bd52318) ⚡ |
@@ -1772,6 +1771,7 @@ _216 older roles in this section are in data/roles.json on the `data` branch._
 | 3m | Senior Director, RGM Transformation (Trade Investment and Promotion) | Sr. Director | US, Minnesota, Maplewood |  | 8d | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Senior-Director--RGM-Transformation--Trade-Investment-and-Promotion-_R01174350) |
 | Gartner | VP, Product Management (Digital) | VP | 2 Locations |  | 8d | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Stamford-CT/VP--Product-Management--Digital-_116153) |
 | Cognizant | Engagement Delivery Lead - Director | Director | Mettawa, IL, USA | $195K–$215K | 8d | [Apply](https://careers.cognizant.com/global-en/jobs/00069595021/engagement-delivery-lead-director/) |
+| Wolters Kluwer | Director, Product Strategy & Transformation | Director | NLD - Alphen Aan Den Rijn · Remote |  | 9d | [Apply](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Director--Product-Strategy---Transformation_R0059896) |
 | Aledade | Senior Director, VBC Transformation, Remote | Sr. Director | Remote, United States |  | 9d | [Apply](https://jobs.lever.co/aledade/3dfb4bd4-aabd-4705-8fdc-d7fadd1402e1) ⚡ |
 | Kimberlyclark | Director, IT Strategy, Performance & PMO | Director | 2 Locations |  | 9d | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/en-US/GLOBAL/job/USA-TX-Dallas/Director--IT-Strategy--Performance---PMO_888322-1) |
 | Becton Dickinson | Director — Enterprise Program Management Office | Director | USA NJ - Franklin Lakes |  | 9d | [Apply](https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Director---Enterprise-Program-Management-Office_R-560063) |
@@ -1930,9 +1930,8 @@ _216 older roles in this section are in data/roles.json on the `data` branch._
 | Anduril Industries | Director of MRO Transformation | Director | Ashville, Ohio, United States | $181K–$240K | 19d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5289565007?gh_jid=5289565007) ⚡ |
 | Huron Consulting | Digital Consulting Sr. Director, Oracle I&M | Sr. Director | Chicago - 550 Van Buren |  | 19d | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Digital-Consulting-Sr-Director--Oracle-I-M_JR-0017145) |
 | LSEG ⭐ | Director, Program Management | Director | New York, United States +1 | $163K–$271K | 19d | [Apply](https://lseg.wd3.myworkdayjobs.com/Careers/job/New-York-United-States/Director--Program-Management_R0124467) |
-| Amentum | VP, Finance Excellence and Transformation | VP | Remote, USA |  | 20d | [Apply](https://www.amentumcareers.com/jobs/vp-finance-excellence-and-transformation-remote-united-states-732d56fb-94e4-4ea1-acf7-91d63c5e7e12?source=Indeed+Feed) |
 
-_406 older roles in this section are in data/roles.json on the `data` branch._
+_407 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="engineering-software"></a>
 
@@ -1989,6 +1988,7 @@ _406 older roles in this section are in data/roles.json on the `data` branch._
 | Inhabit | VP of Software Engineering | VP | Plano, TX, USA |  | 3d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
 | Fluid Management Operations Inc | Director of Hardware Engineering | Director | Wheeling, IL, USA | $142K–$213K | 3d | [Apply](https://idexcorp.wd5.myworkdayjobs.com/IDEX_Careers/job/Wheeling-Illinois/Director-of-Hardware-Engineering_R-10453-1) |
 | Inhabit | VP of Software Engineering | VP | Alpharetta, GA, USA |  | 3d | [Apply](https://www.paycomonline.net/v4/ats/web.php/portal/A47F5E203DC28905C2140DAD39FF7EBC/jobs/447307?source=Indeed) |
+| Wolters Kluwer | Director, Enterprise Software Engineering | Director | USA - New York City, NY +1 |  | 4d | [Apply](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Director--Enterprise-Software-Engineering_R0061335) |
 | FTI Consulting, Inc. | Director, eDiscovery - Technology Consulting | Director | Washington, DC +7 |  | 4d | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Washington-DC/Director--eDiscovery---Technology-Consulting_JR261711) |
 | Global Payments | Director, Technology Solutions Vendor Management Office | Director | ALPHARETTA, GEORGIA +3 | $120K–$391K | 4d | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/Director--Procurement---Technology-Solutions-VMO_R0076945-1) |
 | AEP | Director Demand Planning - Enterprise IT | Director | Columbus, OH |  | 4d | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) |
@@ -2189,9 +2189,8 @@ _406 older roles in this section are in data/roles.json on the `data` branch._
 | ON Semiconductor | Senior Director, IGBT Technology Development | Sr. Director | Scottsdale, AZ, United States |  | 9d | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506920) |
 | Anduril Industries | Director of Repair Engineering | Director | Costa Mesa, California, United States | $220K–$292K | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296819007?gh_jid=5296819007) ⚡ |
 | Anduril Industries | Director of Repair Engineering | Director | Ashville, Ohio, United States | $190K–$252K | 9d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5301006007?gh_jid=5301006007) ⚡ |
-| Senra Systems | Head of Engineering | Head | Cypress, California, United States | $250K–$300K | 9d | [Apply](https://job-boards.greenhouse.io/senrasystems/jobs/5443896008) ⚡ |
 
-_1154 older roles in this section are in data/roles.json on the `data` branch._
+_1155 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="other-senior-roles"></a>
 

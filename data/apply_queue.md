@@ -207,11 +207,12 @@ Best roles posted in the last few days, strongest first. ⚡ = one-page form, no
 | 201 | 40 | Levi Strauss | [Director, Security Operations](https://levistraussandco.wd5.myworkdayjobs.com/en-US/External/job/Remote---USA/Director--Security-Operations_R-0160043) |  |  | account |  |
 | 202 | 40 | BAH | [Technical Director](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Hanscom-AFB-MA/Technical-Director_R0254084) | Hanscom AFB, MA; Hampton, VA |  | account |  |
 | 203 | 40 | FTI Consulting, Inc. | [Director (m/w/d) / Data & Analytics / Forensic & Litigation Consulting](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Frankfurt-Germany/Director--m-w-d----Data---Analytics---Forensic---Litigation-Consulting_JR260MC-TEE) | 2 Locations |  | account |  |
-| 204 | 39 | Valmont Industries | [Director, Enterprise Cybersecurity](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) | Omaha NE; Carrollton TX |  | account |  |
-| 205 | 37 | CNA Insurance | [Actuarial Director, Affinity & Cyber Pricing (P&C)](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) | 5 Locations |  | account |  |
-| 206 | 37 | AEP | [Director Demand Planning - Enterprise IT](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) | Columbus, OH |  | account |  |
-| 207 | 34 | GNW | [Director, Data Analysis](https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond-Virginia/Director--Data-Analysis_REQ-260440) | 2 Locations |  | account |  |
-| 208 | 34 | Global Payments | [Director, Transformation and Corporate Strategy](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Director--Transformation-and-Corporate-Strategy_R0077003-1) | ATLANTA, GEORGIA |  | account |  |
+| 204 | 40 | Genentech | [Therapeutic Area Insights & Analytics Director - Immunology (Data Analytics)](https://careers.gene.com/us/en/job/GENEUS202611129939EXTERNALENUS) | South San Francisco, California, United  |  | account |  |
+| 205 | 39 | Valmont Industries | [Director, Enterprise Cybersecurity](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Director--Enterprise-Cybersecurity_R28923) | Omaha NE; Carrollton TX |  | account |  |
+| 206 | 37 | CNA Insurance | [Actuarial Director, Affinity & Cyber Pricing (P&C)](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/New-York-NY-USA/Actuarial-Director--Affinity---Cyber-Pricing--P-C-_R-8455) | 5 Locations |  | account |  |
+| 207 | 37 | AEP | [Director Demand Planning - Enterprise IT](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Director-Demand-Planning---Enterprise-IT_R21151) | Columbus, OH |  | account |  |
+| 208 | 34 | GNW | [Director, Data Analysis](https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond-Virginia/Director--Data-Analysis_REQ-260440) | 2 Locations |  | account |  |
+| 209 | 34 | Global Payments | [Director, Transformation and Corporate Strategy](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Director--Transformation-and-Corporate-Strategy_R0077003-1) | ATLANTA, GEORGIA |  | account |  |
 
 ## Houston area (2)
 

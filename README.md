@@ -28,19 +28,19 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 09:25 PM ET
+**5,300 open roles** at **1,954 companies** · **25 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 10:28 PM ET
 
-By level: Director 2840 · VP 903 · Sr. Director 692 · Head 348 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
+By level: Director 2841 · VP 903 · Sr. Director 692 · Head 348 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
 
 🆕 posted in the last few days and new to this list · 🔁 reposted after closing · 🔒 closed · ⭐ top-tier employer · ⚡ one-page form, no account · Age = days since posted (or first seen). [Apply queue](data/apply_queue.md): best new roles, ready for fast applying.
 
 ## Contents
 
-- [🆕 New in the last 24 hours (24)](#new-in-the-last-24-hours)
+- [🆕 New in the last 24 hours (25)](#new-in-the-last-24-hours)
 - [🤠 Houston area (181)](#houston-area)
 - [👑 Executive Technology Leadership (195)](#executive-technology-leadership)
 - [🛡️ Security & Risk Technology (372)](#security-risk-technology)
-- [🧠 Data & AI (1301)](#data-ai)
+- [🧠 Data & AI (1302)](#data-ai)
 - [🚦 Reliability & Operations (372)](#reliability-operations)
 - [☁️ Cloud & Infrastructure (466)](#cloud-infrastructure)
 - [🏛️ Architecture (158)](#architecture)
@@ -56,6 +56,7 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 348 · C-level 187
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Genentech | 🆕 Therapeutic Area Insights & Analytics Director - Immunology (Data Analytics) | Director | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202611129939EXTERNALENUS) |
 | Darwinbox | 🆕 Head of Security | Head | Remote, USA | $250K–$275K | 1d | [Apply](https://buyersedgeplatform.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae9dca41442f) |
 | JPMorgan Chase ⭐ | 🆕 Data Scientist Lead - Vice President | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812720) |
 | Citi ⭐ | 🆕 Senior Architect - Java and Generative AI - Vice President | VP | 1/124, SHIVAJI GARDENS, MOONLI |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-Architect---Java-and-Generative-AI---Vice-President_261005422) |
@@ -738,6 +739,7 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 
 | Company | Role | Level | Location | Pay | Age | Apply |
 |---|---|---|---|---|---:|---|
+| Genentech | 🆕 Therapeutic Area Insights & Analytics Director - Immunology (Data Analytics) | Director | South San Francisco, California, United St |  | 1d | [Apply](https://careers.gene.com/us/en/job/GENEUS202611129939EXTERNALENUS) |
 | JPMorgan Chase ⭐ | 🆕 Data Scientist Lead - Vice President | VP | Jersey City, NJ, United States |  | 1d | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812720) |
 | Citi ⭐ | 🆕 Senior Architect - Java and Generative AI - Vice President | VP | 1/124, SHIVAJI GARDENS, MOONLI |  | 1d | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-Architect---Java-and-Generative-AI---Vice-President_261005422) |
 | Citi (jobs.citi.com) ⭐ | 🆕 Risk Data Management and Reporting - Vice President | VP | Gurgaon, HR, IN |  | 1d | [Apply](https://jobs.citi.com/job/gurgaon/risk-data-management-and-reporting-vice-president/287/103869656640) |
@@ -987,9 +989,8 @@ _122 older roles in this section are in data/roles.json on the `data` branch._
 | And Digital | Solution Director: CX & AI | Director | Jersey City, NJ, USA |  | 10d | [Apply](https://apply.workable.com/j/5CA357FF1F) |
 | Pfizer ⭐ | Director, Machine Learning Scientist | Director | United States - Washington – Bothell +1 |  | 10d | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Washington--Bothell/Director--Machine-Learning-Scientist_4968217-1) |
 | New York Life | Corporate Vice President - Head of Storage & Data Protection | VP | New York, NY, USA | $160K–$228K | 10d | [Apply](https://careers.newyorklife.com/careers/job/45480623) |
-| Optum | Senior Director, UX Product Design - AI & Product Office - Remote or Boston, MA - Remote | Sr. Director | Boston, MA, USA | $159K–$273K | 10d | [Apply](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2402461&lang=en) |
 
-_1051 older roles in this section are in data/roles.json on the `data` branch._
+_1052 older roles in this section are in data/roles.json on the `data` branch._
 
 <a name="reliability-operations"></a>
 

@@ -28,7 +28,7 @@ Roles posting pay below $200K are filtered out.
 it up) · How it works: [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md) · Own feed: [SETUP.md](SETUP.md) · [Houston-area roles](data/houston.md) · Collector health: [data/STATUS.md](data/STATUS.md) ·
 Retarget the search: [config/search.yaml](config/search.yaml)
 
-**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,250 company career sites watched · updated hourly · last update Nov 27, 2026 08:26 PM ET
+**5,299 open roles** at **1,954 companies** · **24 new in the last 24 hours** · 6,251 company career sites watched · updated hourly · last update Nov 27, 2026 09:25 PM ET
 
 By level: Director 2840 · VP 903 · Sr. Director 692 · Head 348 · C-level 187 · EVP/SVP 151 · ED 120 · MD 57
 
@@ -47,7 +47,7 @@ By level: Director 2840 · VP 903 · Sr. Director 692 · Head 348 · C-level 187
 - [🔄 Transformation & Delivery (657)](#transformation-delivery)
 - [🛠️ Engineering & Software (1406)](#engineering-software)
 - [📌 Other Senior Roles (372)](#other-senior-roles)
-- [🔒 Recently closed (1147)](#recently-closed)
+- [🔒 Recently closed (1146)](#recently-closed)
 - Daily digests: [11-27](data/daily/2026-11-27.md) · [11-26](data/daily/2026-11-26.md) · [11-25](data/daily/2026-11-25.md) · [11-24](data/daily/2026-11-24.md) · [11-23](data/daily/2026-11-23.md) · [11-22](data/daily/2026-11-22.md) · [11-21](data/daily/2026-11-21.md)
 
 <a name="new-in-the-last-24-hours"></a>
